@@ -1,0 +1,392 @@
+﻿---
+ID: "3be20f35-7cb3-41bf-9f32-8eafd2aaf871"
+Parent: "bb827f6a-8f30-4744-8569-cdbf25363a3b"
+Template: "5030864f-eb96-4da7-a417-e5a0108c59f8"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/CAPS/Process and Flow Technologies/Reciprocating Plunger Pumps/Reciprocating Plunger Pumps J6 Product Table
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200522T184900Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+        <tbody>
+        <tr>
+        <td>
+        Model
+        </td>
+        <td>
+        Discharge PSI Range
+        </td>
+        <td>
+        BPD Range
+        </td>
+        </tr>
+        <tr>
+        <td>
+        2S-1
+        </td>
+        <td>
+        646/4595
+        </td>
+        <td>
+        4/164
+        </td>
+        </tr>
+        <tr>
+        <td>
+        52-2
+        </td>
+        <td>
+        646/4595
+        </td>
+        <td>
+        8/357
+        </td>
+        </tr>
+        <tr>
+        <td>
+        11D-2
+        </td>
+        <td>
+        646/4595
+        </td>
+        <td>
+        15/816
+        </td>
+        </tr>
+        <tr>
+        <td>
+        31Q-2
+        </td>
+        <td>
+        844/2042
+        </td>
+        <td>
+        83/1968
+        </td>
+        </tr>
+        <tr>
+        <td>
+        32T-2
+        </td>
+        <td>
+        1146/4600
+        </td>
+        <td>
+        23/1464
+        </td>
+        </tr>
+        <tr>
+        <td>
+        55T-3
+        </td>
+        <td>
+        890/3300
+        </td>
+        <td>
+        105/3279
+        </td>
+        </tr>
+        <tr>
+        <td>
+        59T-3
+        </td>
+        <td>
+        673/10000
+        </td>
+        <td>
+        35/4627
+        </td>
+        </tr>
+        <tr>
+        <td>
+        60T-3
+        </td>
+        <td>
+        672/5000
+        </td>
+        <td>
+        210/4722
+        </td>
+        </tr>
+        <tr>
+        <td>
+        80T-3
+        </td>
+        <td>
+        708/5161
+        </td>
+        <td>
+        328/5976
+        </td>
+        </tr>
+        <tr>
+        <td>
+        100T-3
+        </td>
+        <td>
+        737/5000
+        </td>
+        <td>
+        438/7171
+        </td>
+        </tr>
+        <tr>
+        <td>
+        101T-4
+        </td>
+        <td>
+        738/5378
+        </td>
+        <td>
+        123/7171
+        </td>
+        </tr>
+        <tr>
+        <td>
+        103Q-3
+        </td>
+        <td>
+        673/10000
+        </td>
+        <td>
+        58/7987
+        </td>
+        </tr>
+        <tr>
+        <td>
+        110Q-3
+        </td>
+        <td>
+        720/10000
+        </td>
+        <td>
+        115/8079
+        </td>
+        </tr>
+        <tr>
+        <td>
+        130T-4
+        </td>
+        <td>
+        832/5000
+        </td>
+        <td>
+        397/8272
+        </td>
+        </tr>
+        <tr>
+        <td>
+        133T-4
+        </td>
+        <td>
+        984/6000
+        </td>
+        <td>
+        246/7171
+        </td>
+        </tr>
+        <tr>
+        <td>
+        163Q-4
+        </td>
+        <td>
+        738/5378
+        </td>
+        <td>
+        205/11652
+        </td>
+        </tr>
+        <tr>
+        <td>
+        165T-5
+        </td>
+        <td>
+        780/5000
+        </td>
+        <td>
+        394/11191
+        </td>
+        </tr>
+        <tr>
+        <td>
+        184T-7
+        </td>
+        <td>
+        446/6000
+        </td>
+        <td>
+        561/21832
+        </td>
+        </tr>
+        <tr>
+        <td>
+        200T-5
+        </td>
+        <td>
+        945/5000
+        </td>
+        <td>
+        274/11191
+        </td>
+        </tr>
+        <tr>
+        <td>
+        202T-6
+        </td>
+        <td>
+        881/3180
+        </td>
+        <td>
+        840/12129
+        </td>
+        </tr>
+        <tr>
+        <td>
+        217Q-4
+        </td>
+        <td>
+        984/6000
+        </td>
+        <td>
+        410/11652
+        </td>
+        </tr>
+        <tr>
+        <td>
+        250T-5
+        </td>
+        <td>
+        934/5000
+        </td>
+        <td>
+        615/12634
+        </td>
+        </tr>
+        <tr>
+        <td>
+        300Q-5
+        </td>
+        <td>
+        851/5000
+        </td>
+        <td>
+        656/18652
+        </td>
+        </tr>
+        <tr>
+        <td>
+        308T-7
+        </td>
+        <td>
+        747/6170
+        </td>
+        <td>
+        764/21832
+        </td>
+        </tr>
+        <tr>
+        <td>
+        350Q-5
+        </td>
+        <td>
+        1102/6000
+        </td>
+        <td>
+        656/16787
+        </td>
+        </tr>
+        <tr>
+        <td>
+        415Q-5
+        </td>
+        <td>
+        935/6125
+        </td>
+        <td>
+        1025/23606
+        </td>
+        </tr>
+        <tr>
+        <td>
+        430T-7
+        </td>
+        <td>
+        1248/5000
+        </td>
+        <td>
+        1381/18360
+        </td>
+        </tr>
+        <tr>
+        <td>
+        543Q-7
+        </td>
+        <td>
+        747/7026
+        </td>
+        <td>
+        1272/38445
+        </td>
+        </tr>
+        <tr>
+        <td>
+        622T-8
+        </td>
+        <td>
+        922/6170
+        </td>
+        <td>
+        1749/35643
+        </td>
+        </tr>
+        <tr>
+        <td>
+        625Q-7
+        </td>
+        <td>
+        1131/5000
+        </td>
+        <td>
+        2302/29172
+        </td>
+        </tr>
+        </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f34cfe0a-de22-4ab0-bece-1ea4b71a2b71"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: Reciprocating Plunger Pumps Specifications
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200610T150020Z

@@ -1,0 +1,91 @@
+﻿---
+ID: "93ee6dbe-e388-4aef-bc58-37a51368df97"
+Parent: "d2839810-2400-47f1-a04a-239dcd4135ce"
+Template: "c0aa2bad-85b9-47e4-a236-901c3115fb87"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/CAPS/Intervention and Stimulation Equipment/Orion Data Acquisition System/Orion DAS for Wireline Operations/Orion Wireline_J5 Features List
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190408T145416Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticljensen
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\verticljensen
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bc8c0db8-25b8-49d1-8f23-67bc8322d79b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: |
+        <p>Orion&trade; for wireline operations is a cost-effective data acquisition system (DAS) for wireline and slickline winch units.<br />
+        <br />
+        It is typically used to record, monitor, display, and report depth, speed, weight, tubing pressure, and casing pressure. Other channels may be added as required.<br />
+        <br />
+        The package is compact, consisting of a NEMA 4X stainless steel control box, laptop PC, and sensors. A barrier box is available for any sensors that must be at the wellhead. An optional electronic memory unit (EMU) may be added to the system as backup storage in the event of PC failure or as primary storage if you wish to run the system (blind) without a PC.<br />
+        <br />
+        Orion for wireline can be used in conjunction with the Cerberus&trade; for wireline software, which models the forces on the wireline in real time as the tools are run in and out of the well. Differences between measured and predicted data may indicate incipient problems downhole. An "intelligent monitor" alerts the user to potential problems and areas of the well requiring extra caution such as tubing shoes and restrictions.</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190425T152948Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190425T153146Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticljensen
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9943cc73-702f-44f9-842d-e7c6772a9d95"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: |
+        <p>Orion DAS for wireline operations is typically used to record, monitor, display, and report depth, speed, weight, tubing pressure, and casing pressure. Other channels may be added as required.<br />
+        <br />
+        The package is compact, consisting of a NEMA 4X stainless steel control box, laptop PC, and sensors. A barrier box is available for any sensors that must be at the wellhead. An optional electronic memory unit (EMU) may be added to the system as backup storage in the event of PC failure or as primary storage if you wish to run the system (blind) without a PC.<br />
+        <br />
+        Orion for wireline can be used in conjunction with the Cerberus&trade; for wireline software, which models the forces on the wireline in real time as the tools are run in and out of the well. Differences between measured and predicted data may indicate incipient problems downhole. An "intelligent monitor" alerts the user to potential problems and areas of the well requiring extra caution such as tubing shoes and restrictions.</p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190425T153146Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190425T153219Z

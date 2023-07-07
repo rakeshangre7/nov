@@ -1,0 +1,98 @@
+﻿---
+ID: "e6e93b12-8e09-4ec6-942a-f40f2c2b35c0"
+Parent: "225c5c8e-4036-4d40-96c8-d05424927415"
+Template: "5030864f-eb96-4da7-a417-e5a0108c59f8"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/WBT/WellSite Services/Low Profile Cuttings Skips/Low Profile Cuttings Skips J6 Product Table
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190416T183953Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+        <tbody>
+        <tr>
+        <td>
+        Dimensions (L &times; W &times; H)
+        </td>
+        <td>
+        91 &times; 76 &times; 47 in. (2320 &times; 1940 &times; 1183 mm)
+        </td>
+        </tr>
+        <tr>
+        <td>
+        Volume
+        </td>
+        <td>
+        910 gal (3.44 m<sup>3</sup>)
+        </td>
+        </tr>
+        <tr>
+        <td>
+        Gross weight
+        </td>
+        <td>
+        22,050 lb (10 000 kg)
+        </td>
+        </tr>
+        <tr>
+        <td>
+        Tare
+        </td>
+        <td>
+        3,197 lb (8550 kg)
+        </td>
+        </tr>
+        <tr>
+        <td>
+        Payload
+        </td>
+        <td>
+        18,850 lb (8550 kg)
+        </td>
+        </tr>
+        <tr>
+        <td>
+        Design standard
+        </td>
+        <td>
+        DNV 2.7-1/EN12079
+        </td>
+        </tr>
+        </tbody></table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fb98af6c-0ba1-4ff3-9c77-5f852157d289"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: "Low-Profile Cuttings Skips Specifications and Dimensions"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190416T184631Z

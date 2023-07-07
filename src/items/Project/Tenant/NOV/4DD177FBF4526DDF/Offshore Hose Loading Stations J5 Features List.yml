@@ -1,0 +1,87 @@
+﻿---
+ID: "fee0672a-bce8-48e3-858e-0c8dd158a0c9"
+Parent: "107b69a1-9a88-4c7c-ae53-329ab9462c09"
+Template: "c0aa2bad-85b9-47e4-a236-901c3115fb87"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/RIG/Marine and Construction/Offshore Hose Loading Stations/Offshore Hose Loading Stations J5 Features List
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190314T132101Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "443b76eb-a2d1-4050-b1d5-fc06c8737bee"
+      Hint: column3List
+      Value: |
+        <ul>
+        <li>All hydraulics are replaced by electronics.</li>
+        <li>Each hose reel is driven by an electrical motor with failsafe multidisc brakes.</li>
+        <li>Motors are controlled by variable frequency drive (VFD).</li>
+        <li>VFD will replace the hydraulic power unit (HPU).</li>
+        </ul>
+    - ID: "4d669ee9-9ff5-4c31-a025-56035d1727a1"
+      Hint: column1Headline
+      Value: Benefits
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "592042cb-e14f-4127-8f6b-3f25c3759c8e"
+      Hint: column2List
+      Value: |
+        <ul>
+        <li>Weak-link ensures a controlled brake of the hose assembly&nbsp;&nbsp;</li>
+        <li>Liquid hose with permanent connection, including low-friction anti-twist swivel&nbsp;</li>
+        <li>Flexible hose for dry-bulk connection&nbsp;</li>
+        <li>Floating section with floating elements &nbsp;</li>
+        <li>Non-corrosive hose components</li>
+        <li>Hose reels made with AISI 316&nbsp;stainless steel</li>
+        <li>Remote operation with radio control</li>
+        <li>Safety cage</li>
+        </ul>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "79b6230b-39a0-4a28-adf6-9ec3024425c2"
+      Hint: column2Headline
+      Value: Offshore hose loading features and options
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1b04c00e-3b02-43b2-8803-cdeec538ef0c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: <p>Our offshore hose loading reels are controlled using a portable control lever or the fixed control lever located on the power pack. No manual handling of the hoses is necessary apart from connecting and disconnecting the crane hook.</p>
+    - ID: "cd6306bb-152c-471d-881c-66094f05d557"
+      Hint: column3Headline
+      Value: Optional electric drive configuration
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190314T134400Z
+    - ID: "f6afec27-750a-4d77-962d-3ce002b623b9"
+      Hint: column1List
+      Value: |
+        <ul>
+            <li>Single and multi-reel offshore hose loading stations</li>
+            <li>Designed for safe and easy hose handling operations</li>
+            <li>Increased lifespan of the loading hoses</li>
+            <li>Reduced life cycle costs of hoses&nbsp;</li>
+            <li>Designed for ease of assembly and maintenance&nbsp;</li>
+            <li>Reduced risk for spillage&nbsp;</li>
+            <li>Global OEM support</li>
+        </ul>

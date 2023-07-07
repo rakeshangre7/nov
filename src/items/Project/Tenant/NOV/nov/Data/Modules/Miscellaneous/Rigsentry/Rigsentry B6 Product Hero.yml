@@ -1,0 +1,45 @@
+﻿---
+ID: "42998a3c-5517-4b3d-a9ce-393e41bef687"
+Parent: "5e423e12-3a85-4965-bfbc-650fb462142a"
+Template: "5c70ee4b-1d66-41d1-a671-1cd882733bf5"
+Path: /sitecore/content/nov/nov/Data/Modules/Miscellaneous/Rigsentry/Rigsentry B6 Product Hero
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191023T164631Z
+    - ID: "3bb32c55-8204-4e4c-bc91-26197822ead5"
+      Hint: image
+      Value: |
+        <image mediaid="{2BD8B3C5-69E0-40E0-96C5-20956AD02962}" cropregion="0,172,1920,1252" ratio="1920:1080" width="1920" height="1080" />
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joannazhu
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "71bf8962-50dc-4df9-9c16-6a9575e7d87c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\joannazhu
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20191023T164739Z

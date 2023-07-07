@@ -1,0 +1,483 @@
+﻿---
+ID: "dffd0ece-a6dd-4aa2-9e47-819ea88ac6f7"
+Parent: "b82e4296-6797-4693-917e-5b0ff8889a8d"
+Template: "3609914e-4a9b-4ff0-833b-3ae878079c30"
+Path: /sitecore/content/nov/nov/Data/Modules/Homepage/Home B3 Home Page Hero/B3 Home Page Hero Slide 3
+SharedFields:
+- ID: "19b597d3-2edd-4ae2-aefe-4a94c7f10e31"
+  Hint: __Source Item
+  Value: "sitecore://master/{E9C08848-17E8-432C-9F3B-AE2881109F02}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: "sitecore://master/{E9C08848-17E8-432C-9F3B-AE2881109F02}?lang=en-US&ver=1"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190610T200314Z
+    - ID: "36a20c05-fa3a-4f29-a1af-74eb61cc3036"
+      Hint: pages
+      Value: "{9DD67728-821F-4116-A180-6370EA019CEB}"
+    - ID: "3bb32c55-8204-4e4c-bc91-26197822ead5"
+      Hint: image
+      Value: |
+        <image mediaid="{C218E309-5124-4B0D-8A27-7EE651E2C903}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2e90a069-10e6-40db-9aaa-5e20885dc9d4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "beefd21d-5dda-4909-8059-b86548773435"
+      Hint: addGradient
+      Value: 1
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190610T200314Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190610T200447Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: "sitecore://master/{E9C08848-17E8-432C-9F3B-AE2881109F02}?lang=en-US&ver=1"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190703T160921Z
+    - ID: "36a20c05-fa3a-4f29-a1af-74eb61cc3036"
+      Hint: pages
+      Value: "{BB61937C-59EA-43CC-AD6F-5C654484A76D}"
+    - ID: "3bb32c55-8204-4e4c-bc91-26197822ead5"
+      Hint: image
+      Value: |
+        <image ratio="1920:1080" height="1080" mediaid="{44CE8C28-8080-40B4-A68C-346B60C86184}" cropregion="188,0,2684,1404" width="1920" />
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a5cb7287-3109-42e7-889d-56e90efaa0c2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "beefd21d-5dda-4909-8059-b86548773435"
+      Hint: addGradient
+      Value: 1
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190703T160921Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190715T203931Z
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: "sitecore://master/{E9C08848-17E8-432C-9F3B-AE2881109F02}?lang=en-US&ver=1"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190715T212019Z
+    - ID: "36a20c05-fa3a-4f29-a1af-74eb61cc3036"
+      Hint: pages
+      Value: "{BB61937C-59EA-43CC-AD6F-5C654484A76D}"
+    - ID: "3bb32c55-8204-4e4c-bc91-26197822ead5"
+      Hint: image
+      Value: |
+        <image ratio="1920:1080" height="1080" mediaid="{44CE8C28-8080-40B4-A68C-346B60C86184}" cropregion="0,0,1920,1080" width="1920" />
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "db734405-1c43-4256-9d39-f1cc68c1ca83"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "beefd21d-5dda-4909-8059-b86548773435"
+      Hint: addGradient
+      Value: 1
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190715T212019Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190715T212044Z
+  - Version: 4
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: "sitecore://master/{E9C08848-17E8-432C-9F3B-AE2881109F02}?lang=en-US&ver=1"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191015T201708Z
+    - ID: "36a20c05-fa3a-4f29-a1af-74eb61cc3036"
+      Hint: pages
+      Value: "{A33A79FA-48A3-4BC0-A2CA-F43B4C503BE1}"
+    - ID: "3bb32c55-8204-4e4c-bc91-26197822ead5"
+      Hint: image
+      Value: |
+        <image ratio="1920:1080" height="1080" mediaid="{911FA94C-1B4F-4C56-A323-A549BEBFDEE9}" cropregion="0,100,1920,1180" width="1920" />
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "149bc503-5fa3-48b4-8d7e-75ea78203fea"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "beefd21d-5dda-4909-8059-b86548773435"
+      Hint: addGradient
+      Value: 1
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20191015T201708Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20191015T202708Z
+  - Version: 5
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: "sitecore://master/{E9C08848-17E8-432C-9F3B-AE2881109F02}?lang=en-US&ver=1"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200511T194734Z
+    - ID: "26894bef-5803-40dd-8de7-01170daf29a6"
+      Hint: backgroundVideo
+      Value: 
+    - ID: "36a20c05-fa3a-4f29-a1af-74eb61cc3036"
+      Hint: pages
+      Value: "{49BD1295-55C2-4870-93D2-11F159FF8846}"
+    - ID: "3bb32c55-8204-4e4c-bc91-26197822ead5"
+      Hint: image
+      Value: |
+        <image ratio="1920:1080" height="1080" mediaid="{3ED5F065-C421-40C6-914D-8AF04C12DF65}" cropregion="0,0,1920,1080" width="1920" />
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d9f1b0f1-30c9-4299-a4ad-6e71c2c9e5b8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "beefd21d-5dda-4909-8059-b86548773435"
+      Hint: addGradient
+      Value: 1
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200511T194734Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200513T194535Z
+  - Version: 6
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: "sitecore://master/{E9C08848-17E8-432C-9F3B-AE2881109F02}?lang=en-US&ver=1"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200514T163520Z
+    - ID: "26894bef-5803-40dd-8de7-01170daf29a6"
+      Hint: backgroundVideo
+      Value: "https://nov-web.s3.ca-central-1.amazonaws.com/BPS/bps-bg-video-1.mp4"
+    - ID: "36a20c05-fa3a-4f29-a1af-74eb61cc3036"
+      Hint: pages
+      Value: "{49BD1295-55C2-4870-93D2-11F159FF8846}"
+    - ID: "3bb32c55-8204-4e4c-bc91-26197822ead5"
+      Hint: image
+      Value: |
+        <image ratio="1920:1080" height="1080" mediaid="{3ED5F065-C421-40C6-914D-8AF04C12DF65}" cropregion="0,0,1920,1080" width="1920" />
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ecc1af0b-1d2e-4ba9-aec6-21eeafeda63a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "beefd21d-5dda-4909-8059-b86548773435"
+      Hint: addGradient
+      Value: 1
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200514T163520Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200514T180234Z
+  - Version: 7
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: "sitecore://master/{E9C08848-17E8-432C-9F3B-AE2881109F02}?lang=en-US&ver=1"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200922T160335Z
+    - ID: "26894bef-5803-40dd-8de7-01170daf29a6"
+      Hint: backgroundVideo
+      Value: "https://nov-web.s3.ca-central-1.amazonaws.com/SB+Side+Entry+Mixer/sb+side+mixer+clip1+nologo+trimmed2+quality28.mp4"
+    - ID: "36a20c05-fa3a-4f29-a1af-74eb61cc3036"
+      Hint: pages
+      Value: "{663E5EA3-B9C9-488B-9F97-F338C9BD3352}"
+    - ID: "3bb32c55-8204-4e4c-bc91-26197822ead5"
+      Hint: image
+      Value: |
+        <image mediaid="{52CD0F96-9BDC-4AF8-B6DA-6FE6ED530920}" cropregion="0,15,1920,1094" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bfece717-8856-4b48-97bc-63bbbfbc4246"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "beefd21d-5dda-4909-8059-b86548773435"
+      Hint: addGradient
+      Value: 1
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200922T160335Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200923T150123Z
+  - Version: 8
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: "sitecore://master/{E9C08848-17E8-432C-9F3B-AE2881109F02}?lang=en-US&ver=1"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200923T150540Z
+    - ID: "26894bef-5803-40dd-8de7-01170daf29a6"
+      Hint: backgroundVideo
+      Value: "https://nov-web.s3.ca-central-1.amazonaws.com/BPS/bps-bg-video-1.mp4"
+    - ID: "36a20c05-fa3a-4f29-a1af-74eb61cc3036"
+      Hint: pages
+      Value: "{49BD1295-55C2-4870-93D2-11F159FF8846}"
+    - ID: "3bb32c55-8204-4e4c-bc91-26197822ead5"
+      Hint: image
+      Value: |
+        <image ratio="1920:1080" height="1080" mediaid="{3ED5F065-C421-40C6-914D-8AF04C12DF65}" cropregion="0,0,1920,1080" width="1920" />
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a757ede4-475d-4679-aa9e-301d01a5d269"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "beefd21d-5dda-4909-8059-b86548773435"
+      Hint: addGradient
+      Value: 1
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200923T150540Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200923T150552Z
+  - Version: 9
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: "sitecore://master/{E9C08848-17E8-432C-9F3B-AE2881109F02}?lang=en-US&ver=1"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200923T150852Z
+    - ID: "26894bef-5803-40dd-8de7-01170daf29a6"
+      Hint: backgroundVideo
+      Value: "https://nov-web.s3.ca-central-1.amazonaws.com/SB+Side+Entry+Mixer/sb+side+mixer+clip1+nologo+trimmed2+quality28.mp4"
+    - ID: "36a20c05-fa3a-4f29-a1af-74eb61cc3036"
+      Hint: pages
+      Value: "{663E5EA3-B9C9-488B-9F97-F338C9BD3352}"
+    - ID: "3bb32c55-8204-4e4c-bc91-26197822ead5"
+      Hint: image
+      Value: |
+        <image mediaid="{52CD0F96-9BDC-4AF8-B6DA-6FE6ED530920}" cropregion="0,15,1920,1094" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1baedb58-9f07-4ba6-b968-608af4fb63b5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "beefd21d-5dda-4909-8059-b86548773435"
+      Hint: addGradient
+      Value: 1
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200923T150852Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200923T150908Z
+  - Version: 10
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: "sitecore://master/{E9C08848-17E8-432C-9F3B-AE2881109F02}?lang=en-US&ver=1"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201201T220110Z
+    - ID: "26894bef-5803-40dd-8de7-01170daf29a6"
+      Hint: backgroundVideo
+      Value: 
+    - ID: "36a20c05-fa3a-4f29-a1af-74eb61cc3036"
+      Hint: pages
+      Value: "{C0563B19-4B05-4347-B52B-51A1F8ED480D}"
+    - ID: "3bb32c55-8204-4e4c-bc91-26197822ead5"
+      Hint: image
+      Value: |
+        <image mediaid="{55898113-7A89-4BDC-A47E-858AF92C97FC}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{40251B7D-FBE3-4A0E-8947-D4B4FE8CD782}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0f95b846-51b3-43fe-bcd7-09440af42f81"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "beefd21d-5dda-4909-8059-b86548773435"
+      Hint: addGradient
+      Value: 1
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20201201T220110Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20201201T220253Z

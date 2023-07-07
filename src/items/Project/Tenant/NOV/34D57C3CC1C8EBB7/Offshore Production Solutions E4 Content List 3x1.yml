@@ -1,0 +1,53 @@
+﻿---
+ID: "9cb904e1-15ee-4b39-98b9-997289385fe5"
+Parent: "8b1902ba-3e4a-4d27-be6c-0fb4592b517f"
+Template: "f1dd3a92-11da-48fd-8c6b-a1a776e58435"
+Path: /sitecore/content/nov/nov/Data/Modules/Miscellaneous/Offshore Production Solutions/Offshore Production Solutions E4 Content List 3x1
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201030T212956Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{40251B7D-FBE3-4A0E-8947-D4B4FE8CD782}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "87f98b84-9bd6-43f7-a315-c3553f57086d"
+    - ID: "8f3607eb-80dd-47ab-9f36-66ce787a5d33"
+      Hint: pages
+      Value: |
+        {C8375E4A-B0B1-4A39-887D-D1E8EE14F1A5}
+        {0E448607-1305-492B-818F-72A908AEA0BA}
+        {990ABB12-D77C-4698-81F7-3DA54444C323}
+        {F773777F-82D3-423F-B09D-FA4A1DBC4EAC}
+        {FEF9F1DA-401C-495F-958C-1096629342F7}
+        {09B56BCC-72CC-4808-AC91-130E6D9EF861}
+    - ID: "ab8effd2-f3ac-49d1-8ea2-439030832c4c"
+      Hint: Headline
+      Value: Related Products
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20201030T213441Z

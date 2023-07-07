@@ -1,0 +1,54 @@
+﻿---
+ID: "e26afb84-ab81-421b-bd22-0da4e356717d"
+Parent: "588e6c3d-da91-4f2b-9758-4bd1acbc72b1"
+Template: "5c70ee4b-1d66-41d1-a671-1cd882733bf5"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/RIG/Rig Equipment/Motion Compensation Systems/B6 Product Hero 1
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190305T175032Z
+    - ID: "3bb32c55-8204-4e4c-bc91-26197822ead5"
+      Hint: image
+      Value: |
+        <image mediaid="{75A1BDCF-4A91-4126-B36D-54A6352741C0}" cropregion="0,172,1920,1252" ratio="1920:1080" width="1920" height="1080" />
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joannazhu
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7d501c47-c65a-47b6-a2db-37e2b859f85a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\joannazhu
+    - ID: "c722b334-9504-41e1-bcf9-d58e5646dd0c"
+      Hint: subheading
+      Value: <p>Our motion compensation systems compensate for the vertical movement of offshore drilling rigs by isolating motion from the drill sting, preventing riser string buckling, and providing constant tension to guidelines and podlines</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190305T202304Z
+    - ID: "fe09ae44-5f98-442e-9b46-c524724c0c38"
+      Hint: heading
+      Value: Motion Compensation Systems

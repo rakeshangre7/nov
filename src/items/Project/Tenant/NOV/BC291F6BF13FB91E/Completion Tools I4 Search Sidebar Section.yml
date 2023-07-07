@@ -1,0 +1,101 @@
+﻿---
+ID: "109b9ed7-ccaa-43d5-8712-842e303fe80d"
+Parent: "1dd1ef25-fad7-4633-9617-d05cca6f5b54"
+Template: "c1a40de5-66a2-4012-97cb-0e8007be854c"
+Path: /sitecore/content/nov/nov/Data/Modules/Site Search/Products Services/i con monitoring sub/Completion Tools I4 Search Sidebar Section
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190816T153418Z
+    - ID: "2791195e-4e0c-441f-9b6a-02ca83144604"
+      Hint: description
+      Value: Completion Tools offers its oil and gas customers completion products that improve reservoir performance and production, decrease capital, and save time.
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "6afff5c4-e3bf-481c-bae5-5d438ada0e27"
+      Hint: sectionName
+      Value: Completion Tools
+    - ID: "6f6cf618-6f43-4800-8235-0ed4bb104d68"
+      Hint: link1
+      Value: |
+        <link querystring="" id="{E4F7FDDA-0B0D-403A-B824-F3A8FB226206}" target="" linktype="internal" text="Learn more" url="/NOV Com/Home/About/Our Business Units/Completion Tools" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "85f64165-c748-4364-8ffb-f2223d9c0b29"
+    - ID: "91dcc486-22d7-4ad8-b857-90bb1f6c4f1c"
+      Hint: image
+      Value: |
+        <image mediaid="{2F5C5B8B-BD30-4295-B597-5F3301356D5D}" cropregion="0,142,1919,1424" ratio="288:192" width="288" height="192" alt="" hspace="" vspace="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\varalakshmi.md@horizontal.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230706T172519Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200923T162322Z
+    - ID: "2791195e-4e0c-441f-9b6a-02ca83144604"
+      Hint: description
+      Value: Completion Tools offers its oil and gas customers completion products that improve reservoir performance and production, decrease capital, and save time.
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaylakaplan
+    - ID: "6afff5c4-e3bf-481c-bae5-5d438ada0e27"
+      Hint: sectionName
+      Value: Completion Tools
+    - ID: "6f6cf618-6f43-4800-8235-0ed4bb104d68"
+      Hint: link1
+      Value: |
+        <link querystring="" id="{E4F7FDDA-0B0D-403A-B824-F3A8FB226206}" target="" linktype="internal" text="Learn more" url="/NOV Com/Home/About/Our Business Units/Completion Tools" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1ffd3c6a-6899-4979-8abc-838b7c6e3ba4"
+    - ID: "91dcc486-22d7-4ad8-b857-90bb1f6c4f1c"
+      Hint: image
+      Value: |
+        <image mediaid="{41DA2BAE-C3D6-46B0-B07B-B4BE23454E4F}" cropregion="149,0,1770,1080" ratio="288:192" width="288" height="192" alt="" hspace="" vspace="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\varalakshmi.md@horizontal.com
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200923T162322Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230706T172520Z

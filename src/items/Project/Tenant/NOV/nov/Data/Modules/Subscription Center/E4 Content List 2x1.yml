@@ -1,0 +1,126 @@
+﻿---
+ID: "9948ab11-13d0-4c3b-9b2c-4cd8b4ca2921"
+Parent: "f7ff96a0-9311-4c97-8b46-cca83319fff0"
+Template: "afb522d9-543a-4aca-9708-82255d7a5315"
+Path: /sitecore/content/nov/nov/Data/Modules/Subscription Center/E4 Content List 2x1
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 4400
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190108T111929Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{37CE6828-491E-4AF1-A858-254564BEE5B8}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mathias
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mathias
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "77a7f9a0-0beb-4e27-b13d-ed0232e688c1"
+    - ID: "ab8effd2-f3ac-49d1-8ea2-439030832c4c"
+      Hint: Headline
+      Value: Headline
+    - ID: "b0bbc97e-cde2-4ec9-8a2f-8fc4c6e455c3"
+      Hint: pages
+      Value: |
+        {951D3C6A-B4EB-4972-8207-B59A29607A09}
+        {614FABB6-DA70-42D4-B1A8-86C52FFF3CA0}
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mathias
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190108T111929Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190121T115658Z
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190121T130838Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mathias
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mathias
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ffd03479-4e33-45d6-93db-642e88b735b0"
+    - ID: "ab8effd2-f3ac-49d1-8ea2-439030832c4c"
+      Hint: Headline
+      Value: Headline
+    - ID: "b0bbc97e-cde2-4ec9-8a2f-8fc4c6e455c3"
+      Hint: pages
+      Value: |
+        {614FABB6-DA70-42D4-B1A8-86C52FFF3CA0}
+        {614B938C-EABC-486C-88C0-71DA6B8CC419}
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mathias
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190121T130838Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190121T130915Z
+  - Version: 3
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190121T131103Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mathias
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mathias
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5a772c72-81e2-4c5a-8e4b-8060d21e88a3"
+    - ID: "ab8effd2-f3ac-49d1-8ea2-439030832c4c"
+      Hint: Headline
+      Value: Headline
+    - ID: "b0bbc97e-cde2-4ec9-8a2f-8fc4c6e455c3"
+      Hint: pages
+      Value: |
+        {110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}
+        {110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190121T131103Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190321T234035Z

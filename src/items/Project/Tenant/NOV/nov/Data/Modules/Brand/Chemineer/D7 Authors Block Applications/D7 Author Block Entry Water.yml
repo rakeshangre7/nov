@@ -1,0 +1,88 @@
+﻿---
+ID: "2201363a-d7ee-494d-be7b-80c1838c03dd"
+Parent: "e6c0ea60-5365-4d76-a05b-b4f05557ad5c"
+Template: "f83d9c61-6488-4a85-a988-1338257534e8"
+Path: /sitecore/content/nov/nov/Data/Modules/Brand/Chemineer/D7 Authors Block Applications/D7 Author Block Entry Water
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210921T155855Z
+    - ID: "3daeba35-b5c3-46cb-a587-bd8431066769"
+      Hint: jobTitle
+      Value: 
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{8B87E652-E3F7-4C54-BDD9-66E1B888FF8B}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "de1a328d-84c6-4a64-984d-600950d4959d"
+    - ID: "95e7dbea-d495-4414-aa9e-4ce9425d16eb"
+      Hint: authorName
+      Value: Water / Wastewater
+    - ID: "ae98adc0-112a-4fd9-9103-1075d3bb9555"
+      Hint: bio
+      Value: |
+        <h2>Water Treatment</h2>
+        <p>Municipal water treatment facilities utilize continuous mixing to process drinking water for municipalities.
+        There are a variety of drinking water sources and therefore different processing steps for the water.
+        Processes utilize rotating and static mixing to treat the water for human consumption.</p>
+        <p>Chemineer agitators and Kenics static mixers are utilized throughout the treatment process to optimize performance,
+        minimize downtime, and maintain plant effluent within permitted limits.   Below is a summary of
+        applications.</p>
+        <h3>Applications</h3>
+        <ul>
+            <li>Rapid/Flash  Mixers</li>
+            <li>Flocculators</li>
+            <li>Carbon Mixers</li>
+            <li>pH Control</li>
+            <li>Chlorine Mixers</li>
+            <li>Lime Slurry</li>
+        </ul>
+        <h2>WasteWater Treatment</h2>
+        <p>Municipal waste water treatment facilities utilize biological, physical, and chemical processes to treat waste water
+        which includes runoff water, human waste, and industrial waste.  Treating the waste to remove chemical and
+        biological contaminants prior to discharging into the environment is the main function of the plant.</p>
+        <p>Chemineer agitators and Kenics static mixers are utilized throughout the treatment process to optimize performance,
+        minimize downtime, and maintain plant effluent within permitted limits.   Below is a summary of the
+        applications.</p>
+        <h3>Applications</h3>
+        <ul>
+            <li>Anoxic Mixers (Denitrification)</li>
+            <li>Flash/Rapid Mixers</li>
+            <li>Carbon Mixers</li>
+            <li>Flocculators</li>
+            <li>Sludge Mixers/Conditioning</li>
+            <li>Digesters (Aerobic/Anaerobic)</li>
+            <li>Aeration</li>
+            <li>Polymer Mixers</li>
+            <li>Lime Slurry</li>
+            <li>Scum Mixers</li>
+            <li>Equalization Mixers</li>
+            <li>Neutralization Mixers</li>
+        </ul>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210921T160248Z

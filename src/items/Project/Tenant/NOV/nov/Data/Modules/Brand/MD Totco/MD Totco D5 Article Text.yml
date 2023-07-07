@@ -1,0 +1,84 @@
+﻿---
+ID: "d620fdc7-28c7-4bf2-b103-dc095a895972"
+Parent: "fff81680-9c64-4b69-9753-39c2e674fc55"
+Template: "07c63710-4422-42b9-adb7-67b4bad63607"
+Path: /sitecore/content/nov/nov/Data/Modules/Brand/MD Totco/MD Totco D5 Article Text
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "0f10eefb-f9da-4b41-83a0-87900c4e25ed"
+      Hint: body
+      Value: |
+        <p style="color: #707070; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;"><strong>Varco</strong></p>
+        <p style="color: #707070; margin: 0px 0px 1.25em;">Varco acquired both Martin-Decker and Totco in 1990 and formed M/D Totco. This combined expertise placed M/D Totco instrumentation in a position to fill the drilling industry’s worldwide needs for instrumentation and control systems by providing technologically advanced products. Since its creation many years ago, M/D Totco has continued to pioneer industry-transforming solutions so our customers can drill more intelligently, safer, and faster. Our broad range of drilling instrumentation meets worldwide certification requirements, supports industry-standard data protocols, and has an extensive training and field-operations infrastructure.&nbsp;<br />
+        <br />Our solutions are designed to provide the most accurate and dependable data to help your teams make confident, well-informed decisions.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200304T204846Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "211dff79-652a-4f90-90e5-c187e0a1d7d7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200304T210103Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "0f10eefb-f9da-4b41-83a0-87900c4e25ed"
+      Hint: body
+      Value: |
+        <h3 style="color: #707070; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;"><br /></h3>
+        <p style="color: #707070; margin-top: 0px; margin-right: 0px; margin-left: 0px;"><br /></p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200304T211457Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{8B87E652-E3F7-4C54-BDD9-66E1B888FF8B}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0e2e2258-42af-4c9f-9759-523f44825059"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200304T211457Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200304T212914Z

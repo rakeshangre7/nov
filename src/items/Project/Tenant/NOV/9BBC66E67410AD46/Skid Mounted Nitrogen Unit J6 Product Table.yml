@@ -1,0 +1,343 @@
+﻿---
+ID: "964a3231-b122-4007-90f9-2f125e7c772c"
+Parent: "487ea759-a5d4-457f-b52c-82427671a3ef"
+Template: "5030864f-eb96-4da7-a417-e5a0108c59f8"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/CAPS/Intervention and Stimulation Equipment/Skid Mounted Nitrogen Unit/Skid Mounted Nitrogen Unit J6 Product Table
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190503T144231Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\arshmomin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\arshmomin
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td>
+                    <p><strong>Model&nbsp;</strong></p>
+                    </td>
+                    <td>
+                    <p><strong>Cold End Diameter</strong></p>
+                    </td>
+                    <td>
+                    <p><strong>Maximum Flow</strong></p>
+                    </td>
+                    <td>
+                    <p><strong>Maximum Pressure</strong></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>SK90</p>
+                    </td>
+                    <td>
+                    <p>1.250 in. (31.75 mm)</p>
+                    </td>
+                    <td>
+                    <p>90,000 scfm (2548 m<sup>3</sup>/hr)</p>
+                    </td>
+                    <td>
+                    <p>15,000 psi (103 MPa)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>SK180</p>
+                    </td>
+                    <td>
+                    <p>1.625 in. (41.275 mm)</p>
+                    </td>
+                    <td>
+                    <p>180,000 scfm (5097 m<sup>3</sup>/hr)</p>
+                    </td>
+                    <td>
+                    <p>10,000 psi (69 MPa)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td rowspan="2">
+                    <p>SK270</p>
+                    </td>
+                    <td>
+                    <p>1.250 in. (31.75 mm)</p>
+                    </td>
+                    <td>
+                    <p>270,000 scfm (7645 m<sup>3</sup>/hr)</p>
+                    </td>
+                    <td>
+                    <p>10,000 psi (69 MPa)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>1.625 in. (41.275 mm)</p>
+                    </td>
+                    <td>
+                    <p>270,000 scfm (7645 m<sup>3</sup>/hr)</p>
+                    </td>
+                    <td>
+                    <p>10,000 psi (69 MPa)</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7beddecd-42a1-4fe8-afe8-9c631089c908"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: "Non-Fired Skid-Mounted Nitrogen Pumping Unit Specifications"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\arshmomin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190503T151756Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190516T163117Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\arshmomin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\arshmomin
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <p>SK270</p>
+        <table>
+            <tbody>
+                <tr>
+                    <td>
+                    <p><strong>Model&nbsp;</strong></p>
+                    </td>
+                    <td>
+                    <p><strong>Cold End Diameter</strong></p>
+                    </td>
+                    <td>
+                    <p><strong>Maximum Flow</strong></p>
+                    </td>
+                    <td>
+                    <p><strong>Maximum Pressure</strong></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>SK90</p>
+                    </td>
+                    <td>
+                    <p>1.250 in. (31.75 mm)</p>
+                    </td>
+                    <td>
+                    <p>90,000 scfm (2548 m<sup>3</sup>/hr)</p>
+                    </td>
+                    <td>
+                    <p>15,000 psi (103 MPa)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>SK180</p>
+                    </td>
+                    <td>
+                    <p>1.625 in. (41.275 mm)</p>
+                    </td>
+                    <td>
+                    <p>180,000 scfm (5097 m<sup>3</sup>/hr)</p>
+                    </td>
+                    <td>
+                    <p>10,000 psi (69 MPa)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>SK270</p>
+                    </td>
+                    <td>
+                    <p>1.250 in. (31.75 mm)</p>
+                    </td>
+                    <td>
+                    <p>270,000 scfm (7645 m<sup>3</sup>/hr)</p>
+                    </td>
+                    <td>
+                    <p>10,000 psi (69 MPa)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>SK270</p>
+                    </td>
+                    <td>
+                    <p>1.625 in. (41.275 mm)</p>
+                    </td>
+                    <td>
+                    <p>270,000 scfm (7645 m<sup>3</sup>/hr)</p>
+                    </td>
+                    <td>
+                    <p>10,000 psi (69 MPa)</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "704a438c-4db4-45d2-9540-228ae50c19aa"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: "Non-Fired Skid-Mounted Nitrogen Pumping Unit Specifications"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\arshmomin
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190516T163117Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190516T163459Z
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190717T213632Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\arshmomin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td>
+                    <p><strong>Model&nbsp;</strong></p>
+                    </td>
+                    <td>
+                    <p><strong>Cold End Diameter</strong></p>
+                    </td>
+                    <td>
+                    <p><strong>Maximum Flow</strong></p>
+                    </td>
+                    <td>
+                    <p><strong>Maximum Pressure</strong></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>SK90</p>
+                    </td>
+                    <td>
+                    <p>1.250 in. (31.75 mm)</p>
+                    </td>
+                    <td>
+                    <p>90,000 scfm (2548 m<sup>3</sup>/hr)</p>
+                    </td>
+                    <td>
+                    <p>15,000 psi (103 MPa)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>SK180</p>
+                    </td>
+                    <td>
+                    <p>1.625 in. (41.275 mm)</p>
+                    </td>
+                    <td>
+                    <p>180,000 scfm (5097 m<sup>3</sup>/hr)</p>
+                    </td>
+                    <td>
+                    <p>10,000 psi (69 MPa)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>SK270</p>
+                    </td>
+                    <td>
+                    <p>1.250 in. (31.75 mm)</p>
+                    </td>
+                    <td>
+                    <p>270,000 scfm (7645 m<sup>3</sup>/hr)</p>
+                    </td>
+                    <td>
+                    <p>10,000 psi (69 MPa)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>SK270</p>
+                    </td>
+                    <td>
+                    <p>1.625 in. (41.275 mm)</p>
+                    </td>
+                    <td>
+                    <p>270,000 scfm (7645 m<sup>3</sup>/hr)</p>
+                    </td>
+                    <td>
+                    <p>10,000 psi (69 MPa)</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fbac09ba-7979-42f5-aba2-213e49baa089"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: "Non-Fired Skid-Mounted Nitrogen Pumping Unit Specifications"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\joannazhu
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190717T213632Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200413T161158Z

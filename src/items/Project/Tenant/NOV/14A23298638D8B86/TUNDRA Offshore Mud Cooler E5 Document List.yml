@@ -1,0 +1,97 @@
+﻿---
+ID: "2f92c7dc-ff85-4a39-b000-70d60001ca11"
+Parent: "fcb08304-5be0-407c-9d6a-6c95931b19fe"
+Template: "2a8117d9-ebd1-430b-abd4-1d33b1fee79c"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/WBT/WellSite Services/TUNDRA Offshore Mud Cooler/TUNDRA Offshore Mud Cooler E5 Document List
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190424T210157Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cc6028bf-28a9-476f-9d4b-37b0676ed133"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190424T210441Z
+    - ID: "e4424681-e459-4738-a286-2240e08da75e"
+      Hint: assets
+      Value: |
+        {EFE25485-3E44-4901-B748-170177A87E16}
+        {61B3A018-7C6F-487B-8A59-D8E91D6E92FA}
+        {247DAC7B-4E44-48E1-BE35-F206FE55D2A3}
+        {70C569EB-454F-4927-A446-990F6906A289}
+        {382C275F-4485-4B41-B92B-483B500D8E11}
+        {185434FA-83F0-483C-BA24-B44E6DB18F95}
+        {CDE693D6-5A3F-4D9B-8991-1C463544A830}
+        {2E169A99-2C52-4469-B508-86D695254CF0}
+        {38F12DF4-D294-4A6D-AE5B-E503CF796479}
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190425T182829Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "77a7d863-643c-4331-b4f1-8a8d2612c92c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190425T182829Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190425T182847Z
+    - ID: "e4424681-e459-4738-a286-2240e08da75e"
+      Hint: assets
+      Value: |
+        {EFE25485-3E44-4901-B748-170177A87E16}
+        {61B3A018-7C6F-487B-8A59-D8E91D6E92FA}
+        {247DAC7B-4E44-48E1-BE35-F206FE55D2A3}
+        {70C569EB-454F-4927-A446-990F6906A289}
+        {382C275F-4485-4B41-B92B-483B500D8E11}
+        {185434FA-83F0-483C-BA24-B44E6DB18F95}
+        {91D400C3-1AC9-40D8-8F4A-2E7064425168}
+        {3287B347-184B-4711-95EB-089778A72657}
+        {85FA038B-25C3-491C-8075-78E7AB2336AE}

@@ -1,0 +1,57 @@
+﻿---
+ID: "14cd4769-0739-4c4d-91df-df8ddfb1d494"
+Parent: "a2dc4cb9-23b2-4710-abd6-70844f10ea16"
+Template: "07c63710-4422-42b9-adb7-67b4bad63607"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/CAPS/Intervention and Stimulation Equipment/Wireline Frac Solutions/Wireline Frac Solutions D5 Article Text Slick Cable
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "0f10eefb-f9da-4b41-83a0-87900c4e25ed"
+      Hint: body
+      Value: |
+        <p>The lightweight slick-cable pack-off can be rated for up to 15,000 psi working pressure (WP; for static cable) and H₂S service and is designed so that the rubber elements in direct contact with the wire can be easily replaced. It is available with full material traceability and third-party certification.</p>
+        <p>A small combination control unit can be used to operate all features. Alternatively, two hand pumps and hoses operate the packing elements while two further pumps and hoses provide lubricant.</p>
+        <p><strong>Features</strong></p>
+        <ul>
+            <li>Temperature class: P-V -20 to 250 &deg;F (-29 to 121 &deg;C)</li>
+            <li>Material class: DD, sour service</li>
+            <li>Designed for smooth-surface jacketed (slick) cable</li>
+            <li>9701048319 rated to 10,000-psi WP (15,000-psi test pressure)</li>
+            <li>9701048644 rated to 15,000-psi WP (22,500-psi test pressure)</li>
+            <li>Hydraulic pressure up to 10,000-psi WP</li>
+        </ul>
+        <h4>Slick-cable pack-off control module</h4>
+        <p>The air-operated control unit neatly delivers all required functions in one easy-to-operate package. The unit features three air pumps&mdash;one for each function; in addition, each circuit has a hand pump in case of air failure. The unit provides pressure for each pack-off piston, and lubrication oil minimizes friction and packing wear.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190509T173700Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\charisgamroth
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8890965c-c8ad-4530-9815-a7d827258c01"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190509T180024Z

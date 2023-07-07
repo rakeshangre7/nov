@@ -1,0 +1,69 @@
+﻿---
+ID: "dd8fc150-7108-4d1a-a138-0238772e0774"
+Parent: "c201055c-4eb2-400e-b9fe-bc9649ca9c68"
+Template: "c0aa2bad-85b9-47e4-a236-901c3115fb87"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/WBT/WellSite Services/MPowerD 1500SE MPD System/MPowerD 1500SE MPD System J5 Features List
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200828T160844Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "33c62a88-25df-4d13-87f4-2c9043089266"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: |
+        <p>The 1500SE Managed Pressure Drilling Control System handles all the control and inputs needed to manage a single, electric choke. It accepts inputs from the rig sensor network or its own directly connected sensors and adjusts the MPD choke as needed to control the wellbore pressure to achieve a target wellbore pressure. The 1500SE control system is built for performance and reliability using an electrically&nbsp;actuated choke and triple redundant wellbore pressure sensors. Customers can use the 1500SE system as a free-standing system with a dedicated MPowerD&trade; HMI or can choose to integrate with NOVOS&trade; using the MPowerD MPD App.</p>
+        <h2>Improved Drilling Efficiencies</h2>
+        <ul>
+            <li>MPD configuration and operation can be done through NOVOS or dedicated MPD driller&rsquo;s terminal</li>
+            <li>Greater access to reliable instrumentation</li>
+            <li>Integrated system reduces space requirements</li>
+        </ul>
+        <h2>Human Factors</h2>
+        <ul>
+            <li>MPD Control System is a natural extension of the drilling process</li>
+            <li>Personnel can be trained on a standard package</li>
+            <li>Maintenance and servicing are based on standard processes and personnel competencies</li>
+            <li>Reduces time required to transition between conventional drilling and MPD</li>
+        </ul>
+        <h2>Drilling Control System Integration</h2>
+        <ul>
+            <li>Available MPowerD NOVOS application</li>
+            <li>Software and hardware provided&nbsp;by NOV using the same deployment and revision control as other NOV supplied sub systems</li>
+        </ul>
+        <h2>Logging and Remote Monitoring</h2>
+        <ul>
+            <li>Integrated with NOV&rsquo;s WellData&trade;, DataVault and eHawk&trade; remote monitoring services</li>
+            <li>Events, settings, and actions are logged along with all other rig information</li>
+            <li>Built-in high frequency data logger</li>
+        </ul>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200909T175205Z

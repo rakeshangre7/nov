@@ -1,0 +1,68 @@
+﻿---
+ID: "2859626f-12c5-4e72-994e-aa8d3937e0dc"
+Parent: "bb6a1d08-99ff-4dba-bbb0-0b466610c71c"
+Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
+Path: /sitecore/content/nov/nov/Presentation/Partial Designs/Footer
+BranchID: "8204a950-cbaa-4d06-878b-11ced5ddc1ad"
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: footer
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{C1E9D175-038D-4DAC-8C3B-BDD9A26B95C1}"
+          p:before="*"
+          s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+          s:par="?Styles=%7b7D489359-2B7E-409B-A8B3-635C67D8FEC7%7d%7c%7bC555918D-8553-4814-A222-4C91EDE14321%7d%7c%7b178FE0BE-E1CA-44E8-A0D1-5AFDC4A0CD29%7d%7c%7bB1984475-1018-4679-B903-2193C6ED85E2%7d%7c%7b5485BB40-7DE2-4B63-A32E-C2B940B9F352%7d%7c%7b12465284-344E-4202-9299-2D1634691BE4%7d%7c%7b5E22C40E-401E-4326-9F07-646EA8B1C2A8%7d%7c%7b94B8C035-DB50-487E-8CED-22AC25646EDD%7d%7c%7b28A5253E-596E-498B-BC20-4296EF6A2EED%7d%7c%7b531F4E66-3F4F-4273-AF3A-3C330B7C6446%7d%7c%7b79344FD8-E6ED-4601-ABAB-C5F0513F76FA%7d%7c%7bBB78F074-250B-4352-847B-7C6BA3A5BB68%7d%7c%7b9F97ACD3-9351-456E-9DB8-9732ACA55426%7d%7c%7b2F4F7C3F-BB7E-4AAA-B126-0C4372913284%7d%7c%7bDE4A6A1D-EF23-4010-A6C9-063DDA185790%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d&amp;DynamicPlaceholderId=1"
+          s:ph="headless-footer" />
+        <r
+          uid="{B5349EF8-CE58-4C2B-8261-666E135E70D8}"
+          p:after="r[@uid='{C1E9D175-038D-4DAC-8C3B-BDD9A26B95C1}']"
+          s:ds="local:/Data/Address"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?Styles=%7bBC5EB950-A508-432C-9332-44CCAE997B8B%7d&amp;FieldNames=%7b0DDB035F-CAA7-4DCC-8C68-C6898B4C68AF%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b31A49E90-E4B4-4F04-A3C7-E15B6835990F%7d"
+          s:ph="/headless-footer/container-1" />
+        <r
+          uid="{A8EFDCD9-F96A-456A-A8CE-4A7BE0D42C25}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/Contact info"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?Styles=%7bBC5EB950-A508-432C-9332-44CCAE997B8B%7d&amp;FieldNames=%7b0DDB035F-CAA7-4DCC-8C68-C6898B4C68AF%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b31A49E90-E4B4-4F04-A3C7-E15B6835990F%7d"
+          s:ph="/headless-footer/container-1" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{EDB00EAA-5ACA-4C4D-8B88-3195D992F980}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230704T144930Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\varalakshmi.md@horizontal.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\varalakshmi.md@horizontal.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f1bdeb72-1992-4b3d-a26d-d1a88cb9482f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\varalakshmi.md@horizontal.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230704T144934Z

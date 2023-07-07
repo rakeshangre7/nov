@@ -1,0 +1,192 @@
+﻿---
+ID: "0ed948de-badc-4166-a670-ea3d7a70c714"
+Parent: "b9516212-ad45-4ba9-8b9f-e6a3bc0ffbf1"
+Template: "3490d77c-3109-4227-aac8-eec146d6deae"
+Path: /sitecore/content/nov/nov/Data/Modules/About/Our Business Units/Pole Products/Document Library/D2 Stats Block
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1600
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1c6dfcf5-6054-40b1-ab88-4125cab80e8d"
+      Hint: statCTA1
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="|Custom" querystring="" id="{140511DD-3212-4893-9046-0938B578795C}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181210T171308Z
+    - ID: "2c1547b1-0d5d-4f66-b346-0d0ce2504402"
+      Hint: statNumber1
+      Value: 2000
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "42fe0465-7505-4177-aa0d-d815f6944f08"
+      Hint: statCTA3
+      Value: |
+        <link text="Careers" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{951D3C6A-B4EB-4972-8207-B59A29607A09}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mathias
+    - ID: "573281ac-6096-486d-b9d6-b9b9b218a5f9"
+      Hint: statNumber3
+      Value: 4000
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mathias
+    - ID: "6cd13748-3a28-40b7-b466-5133a52a69f3"
+      Hint: statText3
+      Value: This is stat 3
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7a74e7cb-2e56-4b38-8e27-c63e693aed0a"
+    - ID: "b7bd9e4a-1bb0-4046-83c9-abe3db1acb26"
+      Hint: statCTA2
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{614B938C-EABC-486C-88C0-71DA6B8CC419}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mathias
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20181210T171308Z
+    - ID: "d7f67023-a640-48c1-8897-9110a1bd6131"
+      Hint: statNumber2
+      Value: 5000
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20181210T171439Z
+    - ID: "e2685495-9a20-4898-981e-87e2e0b541ef"
+      Hint: statText2
+      Value: Text 2
+    - ID: "e66bd6f6-c21c-4648-af6e-9ea4084a4027"
+      Hint: statText1
+      Value: Stat text 1
+  - Version: 2
+    Fields:
+    - ID: "1c6dfcf5-6054-40b1-ab88-4125cab80e8d"
+      Hint: statCTA1
+      Value: |
+        <link class="" querystring="" id="{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}" anchor="" target="|Custom" title="" linktype="internal" text="Learn more" url="/NOV Com/Home" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190109T102234Z
+    - ID: "2c1547b1-0d5d-4f66-b346-0d0ce2504402"
+      Hint: statNumber1
+      Value: 5800
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "42fe0465-7505-4177-aa0d-d815f6944f08"
+      Hint: statCTA3
+      Value: |
+        <link class="" querystring="" id="{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}" anchor="" target="" title="" linktype="internal" text="Learn more" url="/NOV Com/Home" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mathias
+    - ID: "573281ac-6096-486d-b9d6-b9b9b218a5f9"
+      Hint: statNumber3
+      Value: 3200
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mathias
+    - ID: "6cd13748-3a28-40b7-b466-5133a52a69f3"
+      Hint: statText3
+      Value: Lorem ipsum dolor sit amet
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0fa50cd5-6c8c-482f-9ccd-fe10b902a034"
+    - ID: "b7bd9e4a-1bb0-4046-83c9-abe3db1acb26"
+      Hint: statCTA2
+      Value: |
+        <link class="" querystring="" id="{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}" anchor="" target="" title="" linktype="internal" text="Learn more" url="/NOV Com/Home" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\varalakshmi.md@horizontal.com
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190109T102234Z
+    - ID: "d7f67023-a640-48c1-8897-9110a1bd6131"
+      Hint: statNumber2
+      Value: 9600
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230706T172444Z
+    - ID: "e2685495-9a20-4898-981e-87e2e0b541ef"
+      Hint: statText2
+      Value: Lorem ipsum dolor sit amet
+    - ID: "e66bd6f6-c21c-4648-af6e-9ea4084a4027"
+      Hint: statText1
+      Value: Lorem ipsum dolor sit amet
+  - Version: 3
+    Fields:
+    - ID: "1c6dfcf5-6054-40b1-ab88-4125cab80e8d"
+      Hint: statCTA1
+      Value: |
+        <link class="" querystring="" id="{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}" anchor="" target="|Custom" title="" linktype="internal" text="Learn more" url="/NOV Com/Home" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190128T121522Z
+    - ID: "2c1547b1-0d5d-4f66-b346-0d0ce2504402"
+      Hint: statNumber1
+      Value: 5800
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "42fe0465-7505-4177-aa0d-d815f6944f08"
+      Hint: statCTA3
+      Value: |
+        <link class="" querystring="" id="{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}" anchor="" target="" title="" linktype="internal" text="Learn more" url="/NOV Com/Home" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mathias
+    - ID: "573281ac-6096-486d-b9d6-b9b9b218a5f9"
+      Hint: statNumber3
+      Value: 3200
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mathias
+    - ID: "6cd13748-3a28-40b7-b466-5133a52a69f3"
+      Hint: statText3
+      Value: Lorem ipsum dolor sit amet
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2fc2b3ac-fdce-42ec-9c96-af4e10b2fb60"
+    - ID: "b7bd9e4a-1bb0-4046-83c9-abe3db1acb26"
+      Hint: statCTA2
+      Value: |
+        <link class="" querystring="" id="{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}" anchor="" target="" title="" linktype="internal" text="Learn more" url="/NOV Com/Home" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\varalakshmi.md@horizontal.com
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190128T121522Z
+    - ID: "d7f67023-a640-48c1-8897-9110a1bd6131"
+      Hint: statNumber2
+      Value: 9600
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230706T172444Z
+    - ID: "e2685495-9a20-4898-981e-87e2e0b541ef"
+      Hint: statText2
+      Value: Lorem ipsum dolor sit amet
+    - ID: "e66bd6f6-c21c-4648-af6e-9ea4084a4027"
+      Hint: statText1
+      Value: Lorem ipsum dolor sit amet

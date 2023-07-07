@@ -1,0 +1,204 @@
+﻿---
+ID: "ab39b60a-f3af-4807-9edd-5d1c50a71aa4"
+Parent: "e21a5fc9-03fd-485b-96cb-951d5c3981d0"
+Template: "f96f5c5e-9e6f-4ee1-90c6-70a25f724cb7"
+Path: /sitecore/content/nov/nov/Data/Modules/Our Business Units/Our Business Units E1 Filtered Feed
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1055e71c-db1c-4851-851c-eb6f3e46afb3"
+      Hint: maxNumberofItems
+      Value: 48
+    - ID: "2309835a-4a1e-4d72-ad50-a2386d026443"
+      Hint: initialItemCount
+      Value: 24
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190513T192325Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "75c2ac2f-7a24-4f7a-81db-9eed36925f36"
+      Hint: sourceLocation
+      Value: "{A98608AB-B52D-46D3-AA4C-79B35ADF2B3F}"
+    - ID: "7a7ed74a-154b-4c3a-b8cf-deb48cd5913d"
+      Hint: sortBy
+      Value: headline
+    - ID: "816f832b-f2b7-40a5-bfca-b144532580db"
+      Hint: Page Template
+      Value: business unit
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6f0514ce-4401-42c1-82b0-04592e521405"
+    - ID: "90db8228-6c8b-4678-809c-1c6a6e083d8f"
+      Hint: filterByText
+      Value: Filter by
+    - ID: "93499c7b-da90-4c4f-9d7f-26324aaad89e"
+      Hint: learnMoreText
+      Value: Learn more
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "d0318cf7-e513-476d-955a-ea54d12cdee2"
+      Hint: resetFilterText
+      Value: Reset filters
+    - ID: "d5da8994-7cab-4bc2-8feb-43f8402c5e8d"
+      Hint: loadMoreItemsCount
+      Value: 24
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190814T202512Z
+    - ID: "f88ca97c-8bbb-4012-b42d-9d04c31ba823"
+      Hint: sortOrder
+      Value: asc
+    - ID: "fbbbc862-f1c0-4f81-89b4-2ca6549fc246"
+      Hint: loadMoreText
+      Value: Load more
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1055e71c-db1c-4851-851c-eb6f3e46afb3"
+      Hint: maxNumberofItems
+      Value: 48
+    - ID: "2309835a-4a1e-4d72-ad50-a2386d026443"
+      Hint: initialItemCount
+      Value: 24
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190814T202513Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "75c2ac2f-7a24-4f7a-81db-9eed36925f36"
+      Hint: sourceLocation
+      Value: "{A98608AB-B52D-46D3-AA4C-79B35ADF2B3F}"
+    - ID: "7a7ed74a-154b-4c3a-b8cf-deb48cd5913d"
+      Hint: sortBy
+      Value: headline
+    - ID: "816f832b-f2b7-40a5-bfca-b144532580db"
+      Hint: Page Template
+      Value: business unit
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ff81f636-1cb3-4400-b282-94bd23e639ba"
+    - ID: "90db8228-6c8b-4678-809c-1c6a6e083d8f"
+      Hint: filterByText
+      Value: Filter by
+    - ID: "93499c7b-da90-4c4f-9d7f-26324aaad89e"
+      Hint: learnMoreText
+      Value: Learn more
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190814T202513Z
+    - ID: "d0318cf7-e513-476d-955a-ea54d12cdee2"
+      Hint: resetFilterText
+      Value: Reset filters
+    - ID: "d5da8994-7cab-4bc2-8feb-43f8402c5e8d"
+      Hint: loadMoreItemsCount
+      Value: 24
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190814T202520Z
+    - ID: "f88ca97c-8bbb-4012-b42d-9d04c31ba823"
+      Hint: sortOrder
+      Value: asc
+    - ID: "fbbbc862-f1c0-4f81-89b4-2ca6549fc246"
+      Hint: loadMoreText
+      Value: Load more
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1055e71c-db1c-4851-851c-eb6f3e46afb3"
+      Hint: maxNumberofItems
+      Value: 48
+    - ID: "2309835a-4a1e-4d72-ad50-a2386d026443"
+      Hint: initialItemCount
+      Value: 24
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200218T225016Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "75c2ac2f-7a24-4f7a-81db-9eed36925f36"
+      Hint: sourceLocation
+      Value: "{A98608AB-B52D-46D3-AA4C-79B35ADF2B3F}"
+    - ID: "7a7ed74a-154b-4c3a-b8cf-deb48cd5913d"
+      Hint: sortBy
+      Value: headline
+    - ID: "816f832b-f2b7-40a5-bfca-b144532580db"
+      Hint: Page Template
+      Value: business unit
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "74041d77-5b58-49eb-8bb3-99379e9b4d9f"
+    - ID: "90db8228-6c8b-4678-809c-1c6a6e083d8f"
+      Hint: filterByText
+      Value: Filter by
+    - ID: "93499c7b-da90-4c4f-9d7f-26324aaad89e"
+      Hint: learnMoreText
+      Value: Learn more
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200218T225016Z
+    - ID: "d0318cf7-e513-476d-955a-ea54d12cdee2"
+      Hint: resetFilterText
+      Value: Reset filters
+    - ID: "d5da8994-7cab-4bc2-8feb-43f8402c5e8d"
+      Hint: loadMoreItemsCount
+      Value: 24
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200228T171454Z
+    - ID: "f88ca97c-8bbb-4012-b42d-9d04c31ba823"
+      Hint: sortOrder
+      Value: asc
+    - ID: "fbbbc862-f1c0-4f81-89b4-2ca6549fc246"
+      Hint: loadMoreText
+      Value: Load more

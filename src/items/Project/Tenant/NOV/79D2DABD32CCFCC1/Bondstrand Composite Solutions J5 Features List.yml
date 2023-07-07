@@ -1,0 +1,54 @@
+﻿---
+ID: "be6e78d9-4c6d-4b5c-9fc5-f11e0234c873"
+Parent: "8be08506-3ecb-491b-9b17-e1f79d1dd79c"
+Template: "c0aa2bad-85b9-47e4-a236-901c3115fb87"
+Path: /sitecore/content/nov/nov/Data/Modules/Miscellaneous/Bondstrand Composite Solutions/Bondstrand Composite Solutions J5 Features List
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190612T185836Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8a2248b0-94d7-42cf-bcd7-c191c293555a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: <h2>Timeline</h2>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190612T204238Z
+    - ID: "f6afec27-750a-4d77-962d-3ce002b623b9"
+      Hint: column1List
+      Value: |
+        <ul>
+        <li>Bondstrand pioneered the use of GRE piping in marine applications in the early 1970s.</li>
+        <li>Marine offshore market has been demanding increases in product and service performance as well as a reduction in the total cost of ownership of equipment. FGS introduces Advanced Design and Advanced Manufacturing.</li>
+        <li>Bondstrand evolved from world-class GRE piping systems to encompass composite pressure vessels and composite structures.</li>
+        <li>Bondstrand has accumulated unique project deliverables worldwide, tackling industry problems in safety, reliability, weight, cost, and maintenance.</li>
+        <li>Our vision for the future: Bondstrand is the enabler, designing and engineering composite solutions for worldwide offshore projects.</li>
+        </ul>

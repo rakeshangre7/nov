@@ -1,0 +1,239 @@
+﻿---
+ID: "59c59f12-eee3-4cc6-a7c0-19fb4b31a522"
+Parent: "2cf4abcb-930e-41fe-84e8-c2841a291daa"
+Template: "5030864f-eb96-4da7-a417-e5a0108c59f8"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/CAPS/Intervention and Stimulation Equipment/Bulk Storage Trailer/Bulk Storage Trailer Storage Vessels J6 Product Table
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190411T082934Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticljensen
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\verticljensen
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td style="width: 210px;">
+                    <p>Bulk storage tanks</p>
+                    </td>
+                    <td style="width: 228px;">
+                    <p>Four 422-ft<sup>3</sup> (12.0-m<sup>3</sup>) bulk storage tanks</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 210px;">
+                    <p>Useable volume transport tanks</p>
+                    </td>
+                    <td style="width: 228px;">
+                    <p>415 ft<sup>3</sup> (11.8 m<sup>3</sup>)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 210px;">
+                    <p>Maximum allowable working pressure</p>
+                    </td>
+                    <td style="width: 228px;">
+                    <p>40 psi at 250 &deg;F (276 kPa at 121 &deg;C)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 210px;">
+                    <p>Minimum design metal temperature</p>
+                    </td>
+                    <td style="width: 228px;">
+                    <p>-20 &deg;F at 40 psi (-29 &deg;C at 276 kPa)</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p><em>*Note: The tanks are designed per the ASME pressure vessel code for temperatures above -20 &deg;F (-29 &deg;C). Special low-temperature (-50 &deg;F [-45.6 &deg;C]) pressures can be optionally supplied.</em></p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3184ce49-3f44-46a8-afbb-0ea028e39e6d"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: Storage Vessels*
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190627T144647Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190717T152018Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "43622441-3846-443d-a588-c8a468673d55"
+      Hint: description
+      Value: "*Note: The tanks are designed per the ASME pressure vessel code for temperatures above -20 °F (-29 °C). Special low-temperature (-50 °F [-45.6 °C]) pressures can be optionally supplied."
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticljensen
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td style="width: 210px;">
+                    <p>Bulk storage tanks</p>
+                    </td>
+                    <td style="width: 228px;">
+                    <p>Four 422-ft<sup>3</sup> (12.0-m<sup>3</sup>) bulk storage tanks</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 210px;">
+                    <p>Useable volume transport tanks</p>
+                    </td>
+                    <td style="width: 228px;">
+                    <p>415 ft<sup>3</sup> (11.8 m<sup>3</sup>)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 210px;">
+                    <p>Maximum allowable working pressure</p>
+                    </td>
+                    <td style="width: 228px;">
+                    <p>40 psi at 250 &deg;F (276 kPa at 121 &deg;C)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 210px;">
+                    <p>Minimum design metal temperature</p>
+                    </td>
+                    <td style="width: 228px;">
+                    <p>-20 &deg;F at 40 psi (-29 &deg;C at 276 kPa)</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p>&nbsp;</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e2e3aeb1-aa5a-4993-ae2c-8eef2d9e584a"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: Bulk Storage Trailer Storage Vessel Specifications*
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190717T152018Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190717T152646Z
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200720T180606Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "43622441-3846-443d-a588-c8a468673d55"
+      Hint: description
+      Value: "*Note: The tanks are designed per the ASME pressure vessel code for temperatures above -20 °F (-29 °C). Special low-temperature (-50 °F [-45.6 °C]) pressures can be optionally supplied."
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticljensen
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td style="width: 210px;">
+                    <p>Bulk storage tanks</p>
+                    </td>
+                    <td style="width: 228px;">
+                    <p>Four 422-ft<sup>3</sup> (12.0-m<sup>3</sup>) bulk storage tanks</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 210px;">
+                    <p>Useable volume transport tanks</p>
+                    </td>
+                    <td style="width: 228px;">
+                    <p>415 ft<sup>3</sup> (11.8 m<sup>3</sup>)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 210px;">
+                    <p>Maximum allowable working pressure</p>
+                    </td>
+                    <td style="width: 228px;">
+                    <p>40 psi at 250 &deg;F (276 kPa at 121 &deg;C)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 210px;">
+                    <p>Minimum design metal temperature</p>
+                    </td>
+                    <td style="width: 228px;">
+                    <p>-20 &deg;F at 40 psi (-29 &deg;C at 276 kPa)</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fe26e304-2bd5-4607-8f2b-f3c51a887c91"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: Bulk Storage Trailer Storage Vessel Specifications*
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200720T180606Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200720T181608Z

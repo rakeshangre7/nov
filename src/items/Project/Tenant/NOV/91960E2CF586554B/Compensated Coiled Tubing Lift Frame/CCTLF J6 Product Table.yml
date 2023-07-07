@@ -1,0 +1,444 @@
+﻿---
+ID: "3bb1fcc3-e368-462f-b7b8-95636c1d2b45"
+Parent: "99987df5-2903-4daa-b741-e2b27bb9eabf"
+Template: "5030864f-eb96-4da7-a417-e5a0108c59f8"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/CAPS/Intervention and Stimulation Equipment/Compensated Coiled Tubing Lift Frame/CCTLF J6 Product Table
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190318T220156Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\shelbydumaine
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\shelbydumaine
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td>
+                    <p>Compensated SWL</p>
+                    </td>
+                    <td>
+                    <p>350&ndash;500 mT</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Static SWL</p>
+                    </td>
+                    <td>
+                    <p>750&ndash;1000 mT</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Maximum system speed</p>
+                    </td>
+                    <td>
+                    <p>1.3 m/s</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Heave (primary compensator)</p>
+                    </td>
+                    <td>
+                    <p>&plusmn;2743 mm (+305 mm safety stroke) <br />
+                    &plusmn;9 ft (+1 ft safety stroke)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Heave (backup compensator)</p>
+                    </td>
+                    <td>
+                    <p>&plusmn;1372 mm (+305 mm safety stroke) <br />
+                    &plusmn;4.5 ft (+1 ft safety stroke)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Area classification</p>
+                    </td>
+                    <td>
+                    <p>IECEx Zone 1</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Design code/standard</p>
+                    </td>
+                    <td>
+                    <p>DNVGL-OS-E101 acc. to API 8C</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Environment</p>
+                    </td>
+                    <td>
+                    <p>Highly saline and corrosive</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Design temperature</p>
+                    </td>
+                    <td>
+                    <p>-20 to +45&deg;C</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Maximum operating pressure/design pressure</p>
+                    </td>
+                    <td>
+                    <p>207/230 bar</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Weight (dry)</p>
+                    </td>
+                    <td>
+                    <p>75,000 kg (excl. lifting adapter and loops)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Access</p>
+                    </td>
+                    <td>
+                    <p>From rig floor: Manrider, WAB, or access ladder <br />
+                    &nbsp;Injector head: Manrider, WAB, access ladder, or platform (optional)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Grating</p>
+                    </td>
+                    <td>
+                    <p>Fiber grating, ATEX Zone 1 compliant</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Winch, IHW/Winch, UHW</p>
+                    </td>
+                    <td>
+                    <p>20 mT/40 m wire, 5 mT/40 m wire</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Safety devices</p>
+                    </td>
+                    <td>
+                    <p>Compensator safety valve (shut-off and hot backup for winch)</p>
+                    <p>Throttle valve (recoil protection) <br />
+                    Pressure relief valves (HP and LP side) <br />
+                    Gas shut-off valves (compensator hose safety) <br />
+                    DROPS compliant</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Lifting sub</p>
+                    </td>
+                    <td>
+                    <p>6⅝-in. BN with 18&deg; taper</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Bail lugs top</p>
+                    </td>
+                    <td>
+                    <p>Interface acc. to 1000 shT bails</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Bail lugs bottom</p>
+                    </td>
+                    <td>
+                    <p>Interface acc. to 1000 shT bails</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Guide rail size</p>
+                    </td>
+                    <td>
+                    <p>HEB 320</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Guide rail spacing</p>
+                    </td>
+                    <td>
+                    <p>108 in.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Guide rail setback</p>
+                    </td>
+                    <td>
+                    <p>101 in.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p>This document has been composed with the free HTML converter. Click <a href="https://htmled.it/html-converter/">here</a> to give it a try.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f6e2f7f4-bd34-4500-b593-a95bb775d17b"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: Compensated Coiled Tubing Lift Frame
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\shelbydumaine
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190318T221054Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190529T205645Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\shelbydumaine
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td>
+                    <p>Compensated SWL</p>
+                    </td>
+                    <td>
+                    <p>350&ndash;500 mT</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Static SWL</p>
+                    </td>
+                    <td>
+                    <p>750&ndash;1000 mT</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Maximum system speed</p>
+                    </td>
+                    <td>
+                    <p>1.3 m/s</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Heave (primary compensator)</p>
+                    </td>
+                    <td>
+                    <p>&plusmn;2743 mm (+305 mm safety stroke) <br />
+                    &plusmn;9 ft (+1 ft safety stroke)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Heave (backup compensator)</p>
+                    </td>
+                    <td>
+                    <p>&plusmn;1372 mm (+305 mm safety stroke) <br />
+                    &plusmn;4.5 ft (+1 ft safety stroke)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Area classification</p>
+                    </td>
+                    <td>
+                    <p>IECEx Zone 1</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Design code/standard</p>
+                    </td>
+                    <td>
+                    <p>DNVGL-OS-E101 acc. to API 8C</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Environment</p>
+                    </td>
+                    <td>
+                    <p>Highly saline and corrosive</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Design temperature</p>
+                    </td>
+                    <td>
+                    <p>-20 to +45&deg;C</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Maximum operating pressure/design pressure</p>
+                    </td>
+                    <td>
+                    <p>207/230 bar</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Weight (dry)</p>
+                    </td>
+                    <td>
+                    <p>75,000 kg (excl. lifting adapter and loops)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Access</p>
+                    </td>
+                    <td>
+                    <p>From rig floor: Manrider, WAB, or access ladder <br />
+                    &nbsp;Injector head: Manrider, WAB, access ladder, or platform (optional)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Grating</p>
+                    </td>
+                    <td>
+                    <p>Fiber grating, ATEX Zone 1 compliant</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Winch, IHW/Winch, UHW</p>
+                    </td>
+                    <td>
+                    <p>20 mT/40 m wire, 5 mT/40 m wire</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Safety devices</p>
+                    </td>
+                    <td>
+                    <p>Compensator safety valve (shut-off and hot backup for winch)</p>
+                    <p>Throttle valve (recoil protection) <br />
+                    Pressure relief valves (HP and LP side) <br />
+                    Gas shut-off valves (compensator hose safety) <br />
+                    DROPS compliant</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Lifting sub</p>
+                    </td>
+                    <td>
+                    <p>6⅝-in. BN with 18&deg; taper</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Bail lugs top</p>
+                    </td>
+                    <td>
+                    <p>Interface acc. to 1000 shT bails</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Bail lugs bottom</p>
+                    </td>
+                    <td>
+                    <p>Interface acc. to 1000 shT bails</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Guide rail size</p>
+                    </td>
+                    <td>
+                    <p>HEB 320</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Guide rail spacing</p>
+                    </td>
+                    <td>
+                    <p>108 in.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Guide rail setback</p>
+                    </td>
+                    <td>
+                    <p>101 in.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2a079e62-3d19-4b14-ac62-ac41bbe03828"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: Compensated Coiled Tubing Lift Frame
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190529T205645Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190529T205718Z

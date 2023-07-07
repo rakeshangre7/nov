@@ -1,0 +1,44 @@
+﻿---
+ID: "274515fc-e5c3-4fa8-9a1d-e249177a3200"
+Parent: "52dee572-a171-4528-b80d-62adc374813d"
+Template: "c0aa2bad-85b9-47e4-a236-901c3115fb87"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/CAPS/Intervention and Stimulation Equipment/Single Well Control Systems/Single well control systems 5 Features List
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190924T210831Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "04885f6e-01d0-4b0b-9a5d-b1a5fea0f42c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: <p>A single well control panel is essentially a closed hydraulic system in which the same fluid is continuously used from reservoir to pump, then through a control valve to the safety valve, and back to the reservoir. The panels provide and control hydraulic pressure required to keep the safety valves open. Any loss of pressure to the hydraulic or pneumatic lines of the safety system or the reaction of a flowline pilot, an emergency shutdown system (ESD), or a fusible plug will signal the control panel to close the safety valve(s). Control panels are complete power units and only require connection to the safety system. They can be designed to perform in any environment.</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190924T210934Z

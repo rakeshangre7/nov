@@ -1,0 +1,45 @@
+﻿---
+ID: "4629a844-8167-4c9f-bc1f-e1370a114c0f"
+Parent: "8660397d-9b6e-4cc5-b67d-89e83fa61811"
+Template: "753e3d26-d2ce-4fc0-a037-ccc0a922f428"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/CAPS/Completion Tools/i Valve OH/iValve OH_D92 Image Block Large Square Single Left
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190415T092244Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticjandersen
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\verticjandersen
+    - ID: "6b7ca18d-cf25-4dba-93dd-61666df91f6c"
+      Hint: image
+      Value: |
+        <image mediaid="{AB2D5634-D79F-477C-AE7E-00D83F9644BA}" cropregion="327,0,1592,1424" ratio="960:1080" width="960" height="1080" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c703eda0-ecf8-4492-801a-f5c8a054b9bc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190628T162926Z

@@ -1,0 +1,333 @@
+﻿---
+ID: "88005556-e2ac-46a7-81b3-33267b9f58f9"
+Parent: "c87dca7c-63b8-4420-9ec0-11155e85c8d9"
+Template: "e1d6e91c-2f9e-4b2d-9705-9bff59af35f9"
+Path: /sitecore/content/nov/nov/Data/Modules/ivan test page/Standard Page/C2 Flip Cards
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1400
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "038ec8bf-8b15-4242-a455-a7ae871e4971"
+      Hint: heading6
+      Value: Job Function
+    - ID: "104d8255-6bdb-4abf-8874-4a896b133b21"
+      Hint: image4
+      Value: |
+        <image mediaid="{8AB94403-4780-4A61-9D4C-9D66DC938F91}" cropregion="360,0,840,1080" ratio="480:1080" width="480" height="1080" />
+    - ID: "1c971dce-d37e-4d57-b47f-74e945dc70c5"
+      Hint: statNumber6
+      Value: 08
+    - ID: "248eaec5-08e8-4556-9193-da02a27fda58"
+      Hint: statText4
+      Value: Open Positions
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181214T094739Z
+    - ID: "25e1ffa9-7277-42c9-871b-53d7967ca384"
+      Hint: statNumber3
+      Value: 80
+    - ID: "27017437-1819-469b-a8e5-240dc9566f76"
+      Hint: body4
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit enean
+    - ID: "2809959c-405b-4745-89b6-e01a8b6b9078"
+      Hint: statNumber4
+      Value: 08
+    - ID: "2ca208b1-03dc-4558-9524-f81c8414b7b7"
+      Hint: body
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, aene an euismod bibendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo.
+    - ID: "336d1c41-8fdb-4346-9ccb-04dd39977bae"
+      Hint: image2
+      Value: |
+        <image mediaid="{59E9A63B-3CE8-445D-8A31-08902C4B7ED6}" cropregion="310,0,888,650" ratio="480:540" width="480" height="540" />
+    - ID: "3618a779-8d8d-4246-8180-d104cbfe95eb"
+      Hint: cta2
+      Value: |
+        <link class="" querystring="" id="{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}" anchor="" target="" title="" linktype="internal" text="Learn more" url="/NOV Com/Home" />
+    - ID: "3dacd0af-2a90-4ca3-b87e-8c1c5f43301a"
+      Hint: statText2
+      Value: Open Positions
+    - ID: "3de76d85-04b7-4e4a-bee1-10007bec7da2"
+      Hint: cta
+      Value: |
+        <link id="{951D3C6A-B4EB-4972-8207-B59A29607A09}" querystring="" linktype="internal" text="" anchor="" url="/NOV Com/Home/Careers" title="" class="" target="|Custom" />
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{37CE6828-491E-4AF1-A858-254564BEE5B8}"
+    - ID: "43174a08-1d17-4b13-8c05-bbe3fdd22789"
+      Hint: body5
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit enean
+    - ID: "441ece0c-1b62-4b9b-b2ab-86217b5a7720"
+      Hint: heading
+      Value: Title Lorem Ipsum
+    - ID: "49b21269-67b7-423b-872f-0a1bd8e96f64"
+      Hint: statNumber5
+      Value: 80
+    - ID: "4c0f6366-5641-4c41-a0ac-320bcdb2a659"
+      Hint: statNumber1
+      Value: 80
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mathias
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mathias
+    - ID: "6e9628e0-3e4c-489b-8104-c1dad2ae389d"
+      Hint: body6
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit enean
+    - ID: "791513ed-6b4c-40fc-9e67-b73177db0fea"
+      Hint: image5
+      Value: |
+        <image mediaid="{29A7DF3B-25D2-4B29-B321-446CC91CBB94}" cropregion="0,0,480,540" ratio="480:540" width="480" height="540" />
+    - ID: "7f258288-9f15-4a43-b3cf-9decba11606a"
+      Hint: statText1
+      Value: Open Positions
+    - ID: "844a2c30-5797-415b-9294-edc306753238"
+      Hint: cta5
+      Value: |
+        <link class="" querystring="" id="{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}" anchor="" target="" title="" linktype="internal" text="Learn more" url="/NOV Com/Home" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "113b1131-50c5-4336-a333-6f09c179f439"
+    - ID: "8e5af220-8b24-4300-ade0-96d7851a55e8"
+      Hint: cta6
+      Value: |
+        <link class="" querystring="" id="{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}" anchor="" target="" title="" linktype="internal" text="Learn more" url="/NOV Com/Home" />
+    - ID: "9432b868-cec9-4ec1-9bb0-f7d31e62df8b"
+      Hint: heading2
+      Value: Job Function
+    - ID: "94c325bb-dde3-43c2-8681-5df72070c553"
+      Hint: heading5
+      Value: Job Function
+    - ID: "9829c002-7393-48a2-a9eb-96ec336356b4"
+      Hint: cta4
+      Value: |
+        <link class="" querystring="" id="{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}" anchor="" target="" title="" linktype="internal" text="Learn more" url="/NOV Com/Home" />
+    - ID: "a1b1ea0c-7e69-4d6c-a02a-22440cef7f53"
+      Hint: heading1
+      Value: Job Function
+    - ID: "b68314b2-b108-4b4b-bd56-46de0b3c7d47"
+      Hint: heading4
+      Value: Job Function
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\varalakshmi.md@horizontal.com
+    - ID: "c858ea98-06c2-4b13-b4c1-0a4418bdfea6"
+      Hint: body2
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit enean
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20181214T094739Z
+    - ID: "d295a7f4-0af5-4dca-ad92-6efc05b55644"
+      Hint: heading3
+      Value: Job Function
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230706T172257Z
+    - ID: "da7579e8-2803-4ee8-a386-04daa43ba784"
+      Hint: body3
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit enean
+    - ID: "dd6d4a64-c7e1-487d-8c7a-baab9a679dd4"
+      Hint: image6
+      Value: |
+        <image mediaid="{92AA8977-3BB5-4228-A273-B7DF1C7B13DE}" cropregion="310,0,888,650" ratio="480:540" width="480" height="540" />
+    - ID: "ddf06aee-d2dd-44a2-b68a-dbe58054fed2"
+      Hint: cta1
+      Value: |
+        <link class="" querystring="" id="{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}" anchor="" target="" title="" linktype="internal" text="Learn more" url="/NOV Com/Home" />
+    - ID: "decb9851-d568-4e47-a7f0-70efe6dfb5fc"
+      Hint: image1
+      Value: |
+        <image mediaid="{3149C836-0F8A-49DB-92B7-8CA069C5789D}" cropregion="528,0,1008,1080" ratio="480:1080" width="480" height="1080" />
+    - ID: "e216874c-4d6b-4b98-8ea5-fbf69003faf5"
+      Hint: statNumber2
+      Value: 08
+    - ID: "e6970633-b6dd-4c2c-8bfb-491fe4dbf6ad"
+      Hint: cta3
+      Value: |
+        <link class="" querystring="" id="{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}" anchor="" target="" title="" linktype="internal" text="Learn more" url="/NOV Com/Home" />
+    - ID: "e911a4b9-6a5e-4c52-aafa-494f5d239dec"
+      Hint: statText6
+      Value: Open Positions
+    - ID: "ed7a7992-2855-46a6-8b84-fa217469f1fc"
+      Hint: body1
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit enean
+    - ID: "edb381b9-4de4-4e99-81d1-6a789be1067e"
+      Hint: statText3
+      Value: Open Positions
+    - ID: "f98f8be5-6b23-4e5f-a25f-60308d42bddb"
+      Hint: image3
+      Value: |
+        <image mediaid="{F58D3488-65A2-446A-9E33-7018B195C747}" cropregion="310,0,888,650" ratio="480:540" width="480" height="540" />
+    - ID: "feebefc0-0ec6-489d-b933-87db950f2c28"
+      Hint: statText5
+      Value: Open Positions
+  - Version: 2
+    Fields:
+    - ID: "038ec8bf-8b15-4242-a455-a7ae871e4971"
+      Hint: heading6
+      Value: Job Function
+    - ID: "104d8255-6bdb-4abf-8874-4a896b133b21"
+      Hint: image4
+      Value: |
+        <image mediaid="{781775B9-347B-4F17-9626-C35C1DCD75EE}" cropregion="643,0,1275,1424" ratio="480:1080" width="480" height="1080" />
+    - ID: "1c971dce-d37e-4d57-b47f-74e945dc70c5"
+      Hint: statNumber6
+      Value: 08
+    - ID: "248eaec5-08e8-4556-9193-da02a27fda58"
+      Hint: statText4
+      Value: 08
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190124T103103Z
+    - ID: "25e1ffa9-7277-42c9-871b-53d7967ca384"
+      Hint: statNumber3
+      Value: 80
+    - ID: "27017437-1819-469b-a8e5-240dc9566f76"
+      Hint: body4
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit enean</p>
+    - ID: "2809959c-405b-4745-89b6-e01a8b6b9078"
+      Hint: statNumber4
+      Value: Open Positions
+    - ID: "2ca208b1-03dc-4558-9524-f81c8414b7b7"
+      Hint: body
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, aene an euismod bibendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo.</p>
+    - ID: "336d1c41-8fdb-4346-9ccb-04dd39977bae"
+      Hint: image2
+      Value: |
+        <image mediaid="{7541ACAA-FD07-4944-B32C-865D9BDFDEB8}" cropregion="327,0,1592,1424" ratio="480:540" width="480" height="540" />
+    - ID: "3618a779-8d8d-4246-8180-d104cbfe95eb"
+      Hint: cta2
+      Value: |
+        <link class="" querystring="" id="{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}" anchor="" target="" title="" linktype="internal" text="Learn more" url="/NOV Com/Home" />
+    - ID: "3dacd0af-2a90-4ca3-b87e-8c1c5f43301a"
+      Hint: statText2
+      Value: Open Positions
+    - ID: "3de76d85-04b7-4e4a-bee1-10007bec7da2"
+      Hint: cta
+      Value: |
+        <link class="" querystring="" id="{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}" anchor="" target="|Custom" title="" linktype="internal" text="" url="/NOV Com/Home" />
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "43174a08-1d17-4b13-8c05-bbe3fdd22789"
+      Hint: body5
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit enean</p>
+    - ID: "441ece0c-1b62-4b9b-b2ab-86217b5a7720"
+      Hint: heading
+      Value: Title Lorem Ipsum
+    - ID: "49b21269-67b7-423b-872f-0a1bd8e96f64"
+      Hint: statNumber5
+      Value: 80
+    - ID: "4c0f6366-5641-4c41-a0ac-320bcdb2a659"
+      Hint: statNumber1
+      Value: 80
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mathias
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mathias
+    - ID: "6e9628e0-3e4c-489b-8104-c1dad2ae389d"
+      Hint: body6
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit enean</p>
+    - ID: "791513ed-6b4c-40fc-9e67-b73177db0fea"
+      Hint: image5
+      Value: |
+        <image mediaid="{F5265D9C-8CC8-48A7-900B-6D02AA6BC49B}" cropregion="480,0,1440,1080" ratio="480:540" width="480" height="540" />
+    - ID: "7f258288-9f15-4a43-b3cf-9decba11606a"
+      Hint: statText1
+      Value: Open Positions
+    - ID: "844a2c30-5797-415b-9294-edc306753238"
+      Hint: cta5
+      Value: |
+        <link class="" querystring="" id="{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}" anchor="" target="" title="" linktype="internal" text="Learn more" url="/NOV Com/Home" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "de3e4283-a178-4764-a0ea-2951099ae3e6"
+    - ID: "8e5af220-8b24-4300-ade0-96d7851a55e8"
+      Hint: cta6
+      Value: |
+        <link class="" querystring="" id="{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}" anchor="" target="" title="" linktype="internal" text="Learn more" url="/NOV Com/Home" />
+    - ID: "9432b868-cec9-4ec1-9bb0-f7d31e62df8b"
+      Hint: heading2
+      Value: Job Function
+    - ID: "94c325bb-dde3-43c2-8681-5df72070c553"
+      Hint: heading5
+      Value: Job Function
+    - ID: "9829c002-7393-48a2-a9eb-96ec336356b4"
+      Hint: cta4
+      Value: |
+        <link class="" querystring="" id="{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}" anchor="" target="" title="" linktype="internal" text="Learn more" url="/NOV Com/Home" />
+    - ID: "a1b1ea0c-7e69-4d6c-a02a-22440cef7f53"
+      Hint: heading1
+      Value: Job Function
+    - ID: "b68314b2-b108-4b4b-bd56-46de0b3c7d47"
+      Hint: heading4
+      Value: Job Function
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\varalakshmi.md@horizontal.com
+    - ID: "c858ea98-06c2-4b13-b4c1-0a4418bdfea6"
+      Hint: body2
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit enean</p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190124T103103Z
+    - ID: "d295a7f4-0af5-4dca-ad92-6efc05b55644"
+      Hint: heading3
+      Value: Job Function
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230706T172424Z
+    - ID: "da7579e8-2803-4ee8-a386-04daa43ba784"
+      Hint: body3
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit enean</p>
+    - ID: "dd6d4a64-c7e1-487d-8c7a-baab9a679dd4"
+      Hint: image6
+      Value: |
+        <image mediaid="{4C074B78-CF3E-4D19-8F6A-A6B7F3878568}" cropregion="327,0,1592,1424" ratio="480:540" width="480" height="540" />
+    - ID: "ddf06aee-d2dd-44a2-b68a-dbe58054fed2"
+      Hint: cta1
+      Value: |
+        <link class="" querystring="" id="{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}" anchor="" target="" title="" linktype="internal" text="Learn more" url="/NOV Com/Home" />
+    - ID: "decb9851-d568-4e47-a7f0-70efe6dfb5fc"
+      Hint: image1
+      Value: |
+        <image mediaid="{1A1A7E3C-BE45-405B-ABD3-00B8F1197D1B}" cropregion="643,0,1275,1424" ratio="480:1080" width="480" height="1080" />
+    - ID: "e216874c-4d6b-4b98-8ea5-fbf69003faf5"
+      Hint: statNumber2
+      Value: 08
+    - ID: "e6970633-b6dd-4c2c-8bfb-491fe4dbf6ad"
+      Hint: cta3
+      Value: |
+        <link class="" querystring="" id="{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}" anchor="" target="" title="" linktype="internal" text="Learn more" url="/NOV Com/Home" />
+    - ID: "e911a4b9-6a5e-4c52-aafa-494f5d239dec"
+      Hint: statText6
+      Value: Open Positions
+    - ID: "ed7a7992-2855-46a6-8b84-fa217469f1fc"
+      Hint: body1
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit enean</p>
+    - ID: "edb381b9-4de4-4e99-81d1-6a789be1067e"
+      Hint: statText3
+      Value: Open Positions
+    - ID: "f98f8be5-6b23-4e5f-a25f-60308d42bddb"
+      Hint: image3
+      Value: |
+        <image mediaid="{9D39A293-5AB7-46D5-9A78-6787F23E29A3}" cropregion="0,0,960,1080" ratio="480:540" width="480" height="540" />
+    - ID: "feebefc0-0ec6-489d-b933-87db950f2c28"
+      Hint: statText5
+      Value: Open Positions

@@ -1,0 +1,410 @@
+﻿---
+ID: "7957fa3d-44c7-45dd-88a0-df99f41c6108"
+Parent: "36ae5f7d-6f6c-44e9-a241-ab118e5d4705"
+Template: "c0aa2bad-85b9-47e4-a236-901c3115fb87"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/WBT/Grant Prideco/Running and Handling/Running and Handling_J5 Features List
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190312T202603Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "def3443d-6783-4585-87a7-83b061491cf5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: |
+        <h2>Save time and reduce costs.</h2>
+        <p>Proper drill string running and handling is essential. Whether it’s making up connections or interfacing with rig tools, we’re here to provide technical service and support to help you get the most out of your drill stem products.</p>
+        <h2>Properly care for and maintain your Grant Prideco drill stem products using the five C’s</h2>
+        <p>Proper running and handling procedures are critical to maximizing drilling performance, extending drill stem life, and reducing the total cost of ownership of drill pipe and bottomhole assembly components. These procedures help prevent issues like downhole makeup, shoulder separation, washout, and high break-out torque.</p>
+        <h3>As a general guideline, proper running and handling procedures can be easily remembered with the five C’s</h3>
+        <ol>
+            <li><strong>Clean –</strong> All connections and thread protectors should be clean. Thread compound should be free of contamination.</li>
+            <li><strong>Coverage –</strong> All connection thread, seal, and shoulder surfaces should be uniformly covered with a light coat of thread compound.</li>
+            <li><strong>Control –</strong> Drilling tubulars should be handled, stabbed, made-up properly, and aligned under complete control.</li>
+            <li><strong>Clamp Pressure</strong> – Pressure should be minimized, and tongs should be positioned away from the box shoulder face.</li>
+            <li><strong>Calibration</strong> – Torque and handling equipment should be properly adjusted and calibrated.</li>
+        </ol>
+        <p><em>Note: This is a summary of proper running and handling procedures and is not intended to replace our running and handling procedures detailed in product documentation that can be found on the Grant Prideco Connection Library. Depending on the specific connection, these procedures can vary. Contact your Grant Prideco representative for further information.</em></p>
+        <h2>Grant Prideco running and handling procedures and field inspection procedures</h2>
+        <p>It is important to understand how drill stem products are to be used properly. Specific connections may require a more directed set of running and handling procedures. Grant Prideco provides connection-specific running and handling guides and field inspection procedures for the safe, effective, and efficient use of our double- shouldered connection products. These procedures are available on the Grant Prideco Connection Library.</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190312T203614Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190313T133701Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5849a148-7b37-4eb4-9d3a-8c386b5ac9ab"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: |
+        <h2>Save time and reduce costs.</h2>
+        <p>Proper drill string running and handling is essential. Whether it’s making up connections or interfacing with rig tools, we’re here to provide technical service and support to help you get the most out of your drill stem products.</p>
+        <h2>Properly care for and maintain your Grant Prideco drill stem products using the five C’s</h2>
+        <p>Proper running and handling procedures are critical to maximizing drilling performance, extending drill stem life, and reducing the total cost of ownership of drill pipe and bottomhole assembly components. These procedures help prevent issues like downhole makeup, shoulder separation, washout, and high break-out torque.</p>
+        <h3>As a general guideline, proper running and handling procedures can be easily remembered with the five C’s</h3>
+        <ol>
+            <li><strong>Clean –</strong> All connections and thread protectors should be clean. Thread compound should be free of contamination.</li>
+            <li><strong>Coverage –</strong> All connection thread, seal, and shoulder surfaces should be uniformly covered with a light coat of thread compound.</li>
+            <li><strong>Control –</strong> Drilling tubulars should be handled, stabbed, made-up properly, and aligned under complete control.</li>
+            <li><strong>Clamp Pressure</strong> – Pressure should be minimized, and tongs should be positioned away from the box shoulder face.</li>
+            <li><strong>Calibration</strong> – Torque and handling equipment should be properly adjusted and calibrated.</li>
+        </ol>
+        <p><em>Note: This is a summary of proper running and handling procedures and is not intended to replace our running and handling procedures detailed in product documentation that can be found on the Grant Prideco Connection Library. Depending on the specific connection, these procedures can vary. Contact your Grant Prideco representative for further information.</em></p>
+        <h2>Grant Prideco running and handling procedures and field inspection procedures</h2>
+        <p>It is important to understand how drill stem products are to be used properly. Specific connections may require a more directed set of running and handling procedures. Grant Prideco provides connection-specific running and handling guides and field inspection procedures for the safe, effective, and efficient use of our double- shouldered connection products. These procedures are available on the Grant Prideco Connection Library.</p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190313T133701Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190313T133801Z
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190315T204530Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "499108fc-82ba-4238-87ab-340ff371cfe1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: |
+        <h2>Save time and reduce costs.</h2>
+        <p>Proper drill string running and handling is essential. Whether it&rsquo;s making up connections or interfacing with rig tools, we&rsquo;re here to provide technical service and support to help you get the most out of your drill stem products.</p>
+        <h2>Properly care for and maintain your Grant Prideco drill stem products using the five C&rsquo;s</h2>
+        <p>Proper running and handling procedures are critical to maximizing drilling performance, extending drill stem life, and reducing the total cost of ownership of drill pipe and bottomhole assembly components. These procedures help prevent issues like downhole makeup, shoulder separation, washout, and high break-out torque.</p>
+        <h3>As a general guideline, proper running and handling procedures can be easily remembered with the five C&rsquo;s</h3>
+        <ul>
+            <li><strong>Clean &ndash;</strong> All connections and thread protectors should be clean. Thread compound should be free of contamination.</li>
+            <li><strong>Coverage &ndash;</strong> All connection thread, seal, and shoulder surfaces should be uniformly covered with a light coat of thread compound.</li>
+            <li><strong>Control &ndash;</strong> Drilling tubulars should be handled, stabbed, made-up properly, and aligned under complete control.</li>
+            <li><strong>Clamp Pressure</strong> &ndash; Pressure should be minimized, and tongs should be positioned away from the box shoulder face.</li>
+            <li><strong>Calibration</strong> &ndash; Torque and handling equipment should be properly adjusted and calibrated.</li>
+        </ul>
+        <p><em>Note: This is a summary of proper running and handling procedures and is not intended to replace our running and handling procedures detailed in product documentation that can be found on the Grant Prideco Connection Library. Depending on the specific connection, these procedures can vary. Contact your Grant Prideco representative for further information.</em></p>
+        <h2>Grant Prideco running and handling procedures and field inspection procedures</h2>
+        <p>It is important to understand how drill stem products are to be used properly. Specific connections may require a more directed set of running and handling procedures. Grant Prideco provides connection-specific running and handling guides and field inspection procedures for the safe, effective, and efficient use of our double- shouldered connection products. These procedures are available on the Grant Prideco Connection Library.</p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190315T204530Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190315T204541Z
+  - Version: 4
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190325T200718Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ebe9e4ec-49c5-4f0f-99e6-4fd919a7c0aa"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: |
+        <h2>Save time and reduce costs</h2>
+        <p>Proper drill string running and handling is essential. Whether it&rsquo;s making up connections or interfacing with rig tools, we&rsquo;re here to provide technical service and support to help you get the most out of your drill stem products.</p>
+        <h2>Properly care for and maintain your Grant Prideco drill stem products using the five C&rsquo;s</h2>
+        <p>Proper running and handling procedures are critical to maximizing drilling performance, extending drill stem life, and reducing the total cost of ownership of drill pipe and bottomhole assembly components. These procedures help prevent issues like downhole makeup, shoulder separation, washout, and high break-out torque.</p>
+        <h3>As a general guideline, proper running and handling procedures can be easily remembered with the five C&rsquo;s</h3>
+        <ul>
+            <li><strong>Clean &ndash;</strong> All connections and thread protectors should be clean. Thread compound should be free of contamination.</li>
+            <li><strong>Coverage &ndash;</strong> All connection thread, seal, and shoulder surfaces should be uniformly covered with a light coat of thread compound.</li>
+            <li><strong>Control &ndash;</strong> Drilling tubulars should be handled, stabbed, made-up properly, and aligned under complete control.</li>
+            <li><strong>Clamp Pressure</strong> &ndash; Pressure should be minimized, and tongs should be positioned away from the box shoulder face.</li>
+            <li><strong>Calibration</strong> &ndash; Torque and handling equipment should be properly adjusted and calibrated.</li>
+        </ul>
+        <br />
+        <p><em>Note: This is a summary of proper running and handling procedures and is not intended to replace our running and handling procedures detailed in product documentation that can be found on the Grant Prideco Connection Library. Depending on the specific connection, these procedures can vary. Contact your Grant Prideco representative for further information.</em></p>
+        <h2>Grant Prideco running and handling procedures and field inspection procedures</h2>
+        <p>It is important to understand how drill stem products are to be used properly. Specific connections may require a more directed set of running and handling procedures. Grant Prideco provides connection-specific running and handling guides and field inspection procedures for the safe, effective, and efficient use of our double- shouldered connection products. These procedures are available on the Grant Prideco Connection Library.</p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190325T200718Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190325T200806Z
+  - Version: 5
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190402T162701Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9f8066e9-679d-494f-be04-17d8f2927227"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: |
+        <h2>Save time and reduce costs</h2>
+        <p>Proper drill string running and handling is essential. Whether it&rsquo;s making up connections or interfacing with rig tools, we&rsquo;re here to provide technical service and support to help you get the most out of your drill stem products.</p>
+        <h2>Properly care for and maintain your Grant Prideco drill stem products using the five C&rsquo;s</h2>
+        <p>Proper running and handling procedures are critical to maximizing drilling performance, extending drill stem life, and reducing the total cost of ownership of drill pipe and bottomhole assembly components. These procedures help prevent issues like downhole makeup, shoulder separation, washout, and high break-out torque.</p>
+        <h3>As a general guideline, proper running and handling procedures can be easily remembered with the five C&rsquo;s</h3>
+        <ul>
+            <li><strong>Clean &ndash;</strong> All connections and thread protectors should be clean. Thread compound should be free of contamination.</li>
+            <li><strong>Coverage &ndash;</strong> All connection thread, seal, and shoulder surfaces should be uniformly covered with a light coat of thread compound.</li>
+            <li><strong>Control &ndash;</strong> Drilling tubulars should be handled, stabbed, made-up properly, and aligned under complete control.</li>
+            <li><strong>Clamp Pressure</strong> &ndash; Pressure should be minimized, and tongs should be positioned away from the box shoulder face.</li>
+            <li><strong>Calibration</strong> &ndash; Torque and handling equipment should be properly adjusted and calibrated.</li>
+        </ul>
+        <p><em>Note: This is a summary of proper running and handling procedures and is not intended to replace our running and handling procedures detailed in product documentation that can be found on the Grant Prideco Connection Library. Depending on the specific connection, these procedures can vary. Contact your Grant Prideco representative for further information.</em></p>
+        <h2>Grant Prideco running and handling procedures and field inspection procedures</h2>
+        <p>It is important to understand how drill stem products are to be used properly. Specific connections may require a more directed set of running and handling procedures. Grant Prideco provides connection-specific running and handling guides and field inspection procedures for the safe, effective, and efficient use of our double- shouldered connection products. These procedures are available on the Grant Prideco Connection Library.</p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190402T162701Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190402T162800Z
+  - Version: 6
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190429T145130Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f4b1e115-754b-49a5-9a0b-27985c97c369"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: |
+        <h2>Save time and reduce costs</h2>
+        <p>Proper drill string running and handling is essential. Whether it&rsquo;s making up connections or interfacing with rig tools, we&rsquo;re here to provide technical service and support to help you get the most out of your drill stem products.</p>
+        <h2>Properly care for and maintain your Grant Prideco drill stem products using the five C&rsquo;s</h2>
+        <p>Proper running and handling procedures are critical to maximizing drilling performance, extending drill stem life, and reducing the total cost of ownership of drill pipe and bottomhole assembly components. These procedures help prevent issues like downhole makeup, shoulder separation, washout, and high break-out torque.</p>
+        <h3>As a general guideline, proper running and handling procedures can be easily remembered with the five C&rsquo;s</h3>
+        <ol>
+            <li><strong>Clean &ndash;</strong> All connections and thread protectors should be clean. Thread compound should be free of contamination.</li>
+            <li><strong>Coverage &ndash;</strong> All connection thread, seal, and shoulder surfaces should be uniformly covered with a light coat of thread compound.</li>
+            <li><strong>Control &ndash;</strong> Drilling tubulars should be handled, stabbed, made-up properly, and aligned under complete control.</li>
+            <li><strong>Clamp Pressure</strong> &ndash; Pressure should be minimized, and tongs should be positioned away from the box shoulder face.</li>
+            <li><strong>Calibration</strong> &ndash; Torque and handling equipment should be properly adjusted and calibrated.</li>
+        </ol>
+        <p><em>Note: This is a summary of proper running and handling procedures and is not intended to replace our running and handling procedures detailed in product documentation that can be found on the Grant Prideco Connection Library. Depending on the specific connection, these procedures can vary. Contact your Grant Prideco representative for further information.</em></p>
+        <h2>Grant Prideco running and handling procedures and field inspection procedures</h2>
+        <p>It is important to understand how drill stem products are to be used properly. Specific connections may require a more directed set of running and handling procedures. Grant Prideco provides connection-specific running and handling guides and field inspection procedures for the safe, effective, and efficient use of our double- shouldered connection products. These procedures are available on the Grant Prideco Connection Library.</p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190429T145130Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190429T145204Z
+  - Version: 7
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190517T191549Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c062e9d2-d23f-47d0-8fb3-0d92646ff70f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: |
+        <h2>Save time and reduce costs</h2>
+        <p>Proper drill string running and handling is essential. Whether it&rsquo;s making up connections or interfacing with rig tools, we&rsquo;re here to provide technical service and support to help you get the most out of your drill stem products.</p>
+        <h2>Properly care for and maintain your Grant Prideco drill stem products using the 5 C&rsquo;s</h2>
+        <p>Proper running and handling procedures are critical to maximizing drilling performance, extending drill stem life, and reducing the total cost of ownership of drill pipe and bottomhole assembly components. These procedures help prevent issues like downhole makeup, shoulder separation, washout, and high break-out torque.</p>
+        <h3>As a general guideline, proper running and handling procedures can be easily remembered with the 5 C&rsquo;s</h3>
+        <ol>
+            <li><strong>Clean &ndash;</strong> All connections and thread protectors should be clean. Thread compound should be free of contamination.</li>
+            <li><strong>Coverage &ndash;</strong> All connection thread, seal, and shoulder surfaces should be uniformly covered with a light coat of thread compound.</li>
+            <li><strong>Control &ndash;</strong> Drilling tubulars should be handled, stabbed, made-up properly, and aligned under complete control.</li>
+            <li><strong>Clamp Pressure</strong> &ndash; Pressure should be minimized, and tongs should be positioned away from the box shoulder face.</li>
+            <li><strong>Calibration</strong> &ndash; Torque and handling equipment should be properly adjusted and calibrated.</li>
+        </ol>
+        <p><em>Note: This is a summary of proper running and handling procedures and is not intended to replace our running and handling procedures detailed in product documentation that can be found on the Grant Prideco Connection Library. Depending on the specific connection, these procedures can vary. Contact your Grant Prideco representative for further information.</em></p>
+        <h2>Grant Prideco running and handling procedures and field inspection procedures</h2>
+        <p>It is important to understand how drill stem products are to be used properly. Specific connections may require a more directed set of running and handling procedures. Grant Prideco provides connection-specific running and handling guides and field inspection procedures for the safe, effective, and efficient use of our double- shouldered connection products. These procedures are available on the <a href="https://wbtapps.nov.com/gp/" target="_self">Grant Prideco Connection Library</a>.</p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190517T191549Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190517T192501Z
+  - Version: 8
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200812T192450Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "236b922e-affb-4e8d-975e-7516e28d27cd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: |
+        <h2>Save time and reduce costs</h2>
+        <p>Proper drill string running and handling is essential. Whether it&rsquo;s making up connections or interfacing with rig tools, we&rsquo;re here to provide technical service and support to help you get the most out of your drill stem products.</p>
+        <h2>Properly care for and maintain your Grant Prideco drill stem products using the <a href="~/link.aspx?_id=6738A3CC3DB64B9D92171F1F1C6B7F4B&amp;_z=z">5 C&rsquo;s</a></h2>
+        <p>Proper running and handling procedures are critical to maximizing drilling performance, extending drill stem life, and reducing the total cost of ownership of drill pipe and bottomhole assembly components. These procedures help prevent issues like downhole makeup, shoulder separation, washout, and high break-out torque.</p>
+        <h3>As a general guideline, proper running and handling procedures can be easily remembered with the 5 C&rsquo;s</h3>
+        <ol>
+            <li><strong>Clean &ndash;</strong> All connections and thread protectors should be clean. Thread compound should be free of contamination.</li>
+            <li><strong>Coverage &ndash;</strong> All connection thread, seal, and shoulder surfaces should be uniformly covered with a light coat of thread compound.</li>
+            <li><strong>Control &ndash;</strong> Drilling tubulars should be handled, stabbed, made-up properly, and aligned under complete control.</li>
+            <li><strong>Clamp Pressure</strong> &ndash; Pressure should be minimized, and tongs should be positioned away from the box shoulder face.</li>
+            <li><strong>Calibration</strong> &ndash; Torque and handling equipment should be properly adjusted and calibrated.</li>
+        </ol>
+        <p><em>Note: This is a summary of proper running and handling procedures and is not intended to replace our running and handling procedures detailed in product documentation that can be found on the Grant Prideco Connection Library. Depending on the specific connection, these procedures can vary. Contact your Grant Prideco representative for further information.</em></p>
+        <h2>Grant Prideco running and handling procedures and field inspection procedures</h2>
+        <p>It is important to understand how drill stem products are to be used properly. Specific connections may require a more directed set of running and handling procedures. Grant Prideco provides connection-specific running and handling guides and field inspection procedures for the safe, effective, and efficient use of our double- shouldered connection products. These procedures are available on the <a href="https://wbtapps.nov.com/gp/" target="_self">Grant Prideco Connection Library</a>.</p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200812T192450Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200813T211911Z

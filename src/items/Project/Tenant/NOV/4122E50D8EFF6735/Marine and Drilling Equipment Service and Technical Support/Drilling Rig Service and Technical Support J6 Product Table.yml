@@ -1,0 +1,1074 @@
+﻿---
+ID: "40b7b182-59ca-488a-a26a-e6a653605d33"
+Parent: "cc0a7704-4b7f-4890-9893-115e8e995c33"
+Template: "5030864f-eb96-4da7-a417-e5a0108c59f8"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/RIG/Aftermarket Operations/Marine and Drilling Equipment Service and Technical Support/Drilling Rig Service and Technical Support J6 Product Table
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190318T223614Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+        <thead>
+        <tr>
+        <td>
+        &nbsp;
+        </td>
+        <td>
+        Observe
+        </td>
+        <td>
+        Advise
+        </td>
+        <td>
+        Assist
+        </td>
+        <td>
+        Serve
+        </td>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+        <td>
+        Machine control diagnostics tool
+        </td>
+        <td>
+        &bull;
+        </td>
+        <td>
+        &bull;
+        </td>
+        <td>
+        &bull;
+        </td>
+        <td>
+        &bull;
+        </td>
+        </tr>
+        <tr>
+        <td>
+        DataVault
+        </td>
+        <td>
+        &bull;
+        </td>
+        <td>
+        &bull;
+        </td>
+        <td>
+        &bull;
+        </td>
+        <td>
+        &bull;
+        </td>
+        </tr>
+        <tr>
+        <td>
+        Condition monitoring Rigsentry insight
+        </td>
+        <td>
+        &bull;
+        </td>
+        <td>
+        &bull;
+        </td>
+        <td>
+        &bull;
+        </td>
+        <td>
+        &bull;
+        </td>
+        </tr>
+        <tr>
+        <td>
+        eHawk remote support
+        </td>
+        <td>
+        &nbsp;
+        </td>
+        <td>
+        &bull;
+        </td>
+        <td>
+        &bull;
+        </td>
+        <td>
+        &bull;
+        </td>
+        </tr>
+        <tr>
+        <td>
+        TrackerVision
+        </td>
+        <td>
+        &nbsp;
+        </td>
+        <td>
+        &bull;
+        </td>
+        <td>
+        &bull;
+        </td>
+        <td>
+        &bull;
+        </td>
+        </tr>
+        <tr>
+        <td>
+        Rigsentry insight
+        </td>
+        <td>
+        &nbsp;
+        </td>
+        <td>
+        &bull;
+        </td>
+        <td>
+        &bull;
+        </td>
+        <td>
+        &bull;
+        </td>
+        </tr>
+        <tr>
+        <td>
+        Service technicians
+        </td>
+        <td>
+        &nbsp;
+        </td>
+        <td>
+        &nbsp;
+        </td>
+        <td>
+        &bull;
+        </td>
+        <td>
+        &bull;
+        </td>
+        </tr>
+        <tr>
+        <td>
+        First wells support
+        </td>
+        <td>
+        &nbsp;
+        </td>
+        <td>
+        &nbsp;
+        </td>
+        <td>
+        &bull;
+        </td>
+        <td>
+        &bull;
+        </td>
+        </tr>
+        <tr>
+        <td>
+        Rigsentry predictive
+        </td>
+        <td>
+        &nbsp;
+        </td>
+        <td>
+        &nbsp;
+        </td>
+        <td>
+        &bull;
+        </td>
+        <td>
+        &bull;
+        </td>
+        </tr>
+        <tr>
+        <td>
+        Maintenance contracts
+        </td>
+        <td>
+        &nbsp;
+        </td>
+        <td>
+        &nbsp;
+        </td>
+        <td>
+        &nbsp;
+        </td>
+        <td>
+        &bull;
+        </td>
+        </tr>
+        <tr>
+        <td>
+        Total cost ownership
+        </td>
+        <td>
+        &nbsp;
+        </td>
+        <td>
+        &nbsp;
+        </td>
+        <td>
+        &nbsp;
+        </td>
+        <td>
+        &bull;
+        </td>
+        </tr>
+        <tr>
+        <td>
+        Rigsentry custom service
+        </td>
+        <td>
+        &nbsp;
+        </td>
+        <td>
+        &nbsp;
+        </td>
+        <td>
+        &nbsp;
+        </td>
+        <td>
+        &bull;
+        </td>
+        </tr>
+        </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3898faae-a1cc-4bb9-ba6d-d7de2b96d0f8"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: The technical support and services available are completely scalable based on the customers’ selections. We can support your equipment and/or operations with many levels of involvement to help achieve your goals. Below is an outline of our support levels that we can provide, customizable and scalable based on your needs.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190319T144429Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190319T145634Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "43622441-3846-443d-a588-c8a468673d55"
+      Hint: description
+      Value: We can support your equipment and/or operations with many levels of involvement to help achieve your goals. Below is an outline of our support levels that we can provide, customizable and scalable based on your needs.
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <thead>
+                <tr>
+                    <th>
+                    &nbsp;
+                    </th>
+                    <th>
+                    Observe
+                    </th>
+                    <th>
+                    Advise
+                    </th>
+                    <th>
+                    Assist
+                    </th>
+                    <th>
+                    Serve
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>
+                    Machine control diagnostics tool
+                    </td>
+                    <td>
+                    X
+                    </td>
+                    <td>
+                    X
+                    </td>
+                    <td>
+                    X
+                    </td>
+                    <td>
+                    X
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    DataVault
+                    </td>
+                    <td>
+                    X
+                    </td>
+                    <td>
+                    X
+                    </td>
+                    <td>
+                    X
+                    </td>
+                    <td>
+                    X
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Condition monitoring Rigsentry insight
+                    </td>
+                    <td>
+                    X
+                    </td>
+                    <td>
+                    X
+                    </td>
+                    <td>
+                    X
+                    </td>
+                    <td>
+                    X
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    eHawk remote support
+                    </td>
+                    <td>
+                    &nbsp;
+                    </td>
+                    <td>
+                    X
+                    </td>
+                    <td>
+                    X
+                    </td>
+                    <td>
+                    X
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    TrackerVision
+                    </td>
+                    <td>
+                    &nbsp;
+                    </td>
+                    <td>
+                    X
+                    </td>
+                    <td>
+                    X
+                    </td>
+                    <td>
+                    X
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Rigsentry insight
+                    </td>
+                    <td>
+                    &nbsp;
+                    </td>
+                    <td>
+                    X
+                    </td>
+                    <td>
+                    X
+                    </td>
+                    <td>
+                    X
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Service technicians
+                    </td>
+                    <td>
+                    &nbsp;
+                    </td>
+                    <td>
+                    &nbsp;
+                    </td>
+                    <td>
+                    X
+                    </td>
+                    <td>
+                    X
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    First wells support
+                    </td>
+                    <td>
+                    &nbsp;
+                    </td>
+                    <td>
+                    &nbsp;
+                    </td>
+                    <td>
+                    X
+                    </td>
+                    <td>
+                    X
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Rigsentry predictive
+                    </td>
+                    <td>
+                    &nbsp;
+                    </td>
+                    <td>
+                    &nbsp;
+                    </td>
+                    <td>
+                    X
+                    </td>
+                    <td>
+                    X
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Maintenance contracts
+                    </td>
+                    <td>
+                    &nbsp;
+                    </td>
+                    <td>
+                    &nbsp;
+                    </td>
+                    <td>
+                    &nbsp;
+                    </td>
+                    <td>
+                    X
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Total cost ownership
+                    </td>
+                    <td>
+                    &nbsp;
+                    </td>
+                    <td>
+                    &nbsp;
+                    </td>
+                    <td>
+                    &nbsp;
+                    </td>
+                    <td>
+                    X
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Rigsentry custom service
+                    </td>
+                    <td>
+                    &nbsp;
+                    </td>
+                    <td>
+                    &nbsp;
+                    </td>
+                    <td>
+                    &nbsp;
+                    </td>
+                    <td>
+                    X
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4327c543-f5f9-48ae-bffa-aa665c640713"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: Available technical support and services are completely scalable based on the customers’ selections.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190319T145634Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190319T145703Z
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190408T163134Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "43622441-3846-443d-a588-c8a468673d55"
+      Hint: description
+      Value: We can support your equipment and/or operations with many levels of involvement to help achieve your goals. Below is an outline of our support levels that we can provide, customizable and scalable based on your needs.
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td>
+                    &nbsp;
+                    </td>
+                    <td>
+                    <b>Observe</b>
+                    </td>
+                    <td>
+                    <b>Advise</b>
+                    </td>
+                    <td>
+                   <b> Assist</b>
+                    </td>
+                    <td>
+                    <b>Serve</b>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Machine control diagnostics tool
+                    </td>
+                    <td>
+                    X
+                    </td>
+                    <td>
+                    X
+                    </td>
+                    <td>
+                    X
+                    </td>
+                    <td>
+                    X
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    DataVault
+                    </td>
+                    <td>
+                    X
+                    </td>
+                    <td>
+                    X
+                    </td>
+                    <td>
+                    X
+                    </td>
+                    <td>
+                    X
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Condition monitoring Rigsentry insight
+                    </td>
+                    <td>
+                    X
+                    </td>
+                    <td>
+                    X
+                    </td>
+                    <td>
+                    X
+                    </td>
+                    <td>
+                    X
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    eHawk remote support
+                    </td>
+                    <td>
+                    &nbsp;
+                    </td>
+                    <td>
+                    X
+                    </td>
+                    <td>
+                    X
+                    </td>
+                    <td>
+                    X
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    TrackerVision
+                    </td>
+                    <td>
+                    &nbsp;
+                    </td>
+                    <td>
+                    X
+                    </td>
+                    <td>
+                    X
+                    </td>
+                    <td>
+                    X
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Rigsentry insight
+                    </td>
+                    <td>
+                    &nbsp;
+                    </td>
+                    <td>
+                    X
+                    </td>
+                    <td>
+                    X
+                    </td>
+                    <td>
+                    X
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Service technicians
+                    </td>
+                    <td>
+                    &nbsp;
+                    </td>
+                    <td>
+                    &nbsp;
+                    </td>
+                    <td>
+                    X
+                    </td>
+                    <td>
+                    X
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    First wells support
+                    </td>
+                    <td>
+                    &nbsp;
+                    </td>
+                    <td>
+                    &nbsp;
+                    </td>
+                    <td>
+                    X
+                    </td>
+                    <td>
+                    X
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Rigsentry predictive
+                    </td>
+                    <td>
+                    &nbsp;
+                    </td>
+                    <td>
+                    &nbsp;
+                    </td>
+                    <td>
+                    X
+                    </td>
+                    <td>
+                    X
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Maintenance contracts
+                    </td>
+                    <td>
+                    &nbsp;
+                    </td>
+                    <td>
+                    &nbsp;
+                    </td>
+                    <td>
+                    &nbsp;
+                    </td>
+                    <td>
+                    X
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Total cost ownership
+                    </td>
+                    <td>
+                    &nbsp;
+                    </td>
+                    <td>
+                    &nbsp;
+                    </td>
+                    <td>
+                    &nbsp;
+                    </td>
+                    <td>
+                    X
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Rigsentry custom service
+                    </td>
+                    <td>
+                    &nbsp;
+                    </td>
+                    <td>
+                    &nbsp;
+                    </td>
+                    <td>
+                    &nbsp;
+                    </td>
+                    <td>
+                    X
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d731a5fd-789c-44ff-b76e-152d29728841"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: Available technical support and services are completely scalable based on the customers’ selections.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190408T163134Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190408T163255Z
+  - Version: 4
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190528T192249Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "43622441-3846-443d-a588-c8a468673d55"
+      Hint: description
+      Value: We can support your equipment and/or operations with many levels of involvement to help achieve your goals. Below is an outline of our support levels that we can provide, customizable and scalable based on your needs.
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td>
+                    &nbsp;
+                    </td>
+                    <td>
+                    <b>Observe</b>
+                    </td>
+                    <td>
+                    <b>Advise</b>
+                    </td>
+                    <td>
+                   <b> Assist</b>
+                    </td>
+                    <td>
+                    <b>Serve</b>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Machine control diagnostics tool (MCDT)
+                    </td>
+                    <td>
+                    &#10004;
+                    </td>
+                    <td>
+                    &#10004;
+                    </td>
+                    <td>
+                    &#10004;
+                    </td>
+                    <td>
+                    &#10004;
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    DataVault
+                    </td>
+                    <td>
+                    &#10004;
+                    </td>
+                    <td>
+                    &#10004;
+                    </td>
+                    <td>
+                    &#10004;
+                    </td>
+                    <td>
+                    &#10004;
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Condition-monitoring Rigsentry&trade; Insight
+                    </td>
+                    <td>
+                    &#10004;
+                    </td>
+                    <td>
+                    &#10004;
+                    </td>
+                    <td>
+                    &#10004;
+                    </td>
+                    <td>
+                    &#10004;
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    eHawk remote support
+                    </td>
+                    <td>
+                    &nbsp;
+                    </td>
+                    <td>
+                    &#10004;
+                    </td>
+                    <td>
+                    &#10004;
+                    </td>
+                    <td>
+                    &#10004;
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    TrackerVision
+                    </td>
+                    <td>
+                    &nbsp;
+                    </td>
+                    <td>
+                    &#10004;
+                    </td>
+                    <td>
+                    &#10004;
+                    </td>
+                    <td>
+                    &#10004;
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Rigsentry Insight
+                    </td>
+                    <td>
+                    &nbsp;
+                    </td>
+                    <td>
+                    &#10004;
+                    </td>
+                    <td>
+                    &#10004;
+                    </td>
+                    <td>
+                    &#10004;
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Service technicians
+                    </td>
+                    <td>
+                    &nbsp;
+                    </td>
+                    <td>
+                    &nbsp;
+                    </td>
+                    <td>
+                    &#10004;
+                    </td>
+                    <td>
+                    &#10004;
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    First wells support
+                    </td>
+                    <td>
+                    &nbsp;
+                    </td>
+                    <td>
+                    &nbsp;
+                    </td>
+                    <td>
+                    &#10004;
+                    </td>
+                    <td>
+                    &#10004;
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Rigsentry predictive
+                    </td>
+                    <td>
+                    &nbsp;
+                    </td>
+                    <td>
+                    &nbsp;
+                    </td>
+                    <td>
+                    &#10004;
+                    </td>
+                    <td>
+                    &#10004;
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Maintenance contracts
+                    </td>
+                    <td>
+                    &nbsp;
+                    </td>
+                    <td>
+                    &nbsp;
+                    </td>
+                    <td>
+                    &nbsp;
+                    </td>
+                    <td>
+                    &#10004;
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Total cost ownership
+                    </td>
+                    <td>
+                    &nbsp;
+                    </td>
+                    <td>
+                    &nbsp;
+                    </td>
+                    <td>
+                    &nbsp;
+                    </td>
+                    <td>
+                    &#10004;
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Rigsentry CBM services
+                    </td>
+                    <td>
+                    &nbsp;
+                    </td>
+                    <td>
+                    &nbsp;
+                    </td>
+                    <td>
+                    &nbsp;
+                    </td>
+                    <td>
+                    &#10004;
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b784cb3c-cf29-4666-b722-8abe38796832"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: Available technical support and services are completely scalable based on the customers’ selections.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190528T192249Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190528T193156Z

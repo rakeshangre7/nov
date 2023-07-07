@@ -1,0 +1,101 @@
+﻿---
+ID: "ac2d89a5-55d1-482a-940a-d0240a5ff1bd"
+Parent: "098d9f21-1b19-402b-a10e-7f3d82f0d7b4"
+Template: "c1a40de5-66a2-4012-97cb-0e8007be854c"
+Path: /sitecore/content/nov/nov/Data/Modules/Site Search/Brands/Ameron/Pole Products Field Services I4 Search Sidebar Section
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190822T203242Z
+    - ID: "2791195e-4e0c-441f-9b6a-02ca83144604"
+      Hint: description
+      Value: From delivery to installation, we offer a turnkey solution for your lighting project.
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "6afff5c4-e3bf-481c-bae5-5d438ada0e27"
+      Hint: sectionName
+      Value: Pole Products Field Support Services
+    - ID: "6f6cf618-6f43-4800-8235-0ed4bb104d68"
+      Hint: link1
+      Value: |
+        <link text="Learn more" linktype="internal" querystring="" target="" id="{7E0514C7-2AA6-407C-A22B-527D6214CAAC}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ecdc50d4-08a4-451a-96ce-9bc3ace44f58"
+    - ID: "91dcc486-22d7-4ad8-b857-90bb1f6c4f1c"
+      Hint: image
+      Value: |
+        <image mediaid="{4E011F7C-B837-4CE9-84C9-60CB2111FDE7}" cropregion="0,0,2136,1423" ratio="288:192" width="288" height="192" alt="" hspace="" vspace="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190822T203508Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190822T203517Z
+    - ID: "2791195e-4e0c-441f-9b6a-02ca83144604"
+      Hint: description
+      Value: From delivery to installation, we offer a turnkey solution for your lighting project.
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "6afff5c4-e3bf-481c-bae5-5d438ada0e27"
+      Hint: sectionName
+      Value: Pole Products Field Support Services
+    - ID: "6f6cf618-6f43-4800-8235-0ed4bb104d68"
+      Hint: link1
+      Value: |
+        <link text="Learn more" linktype="internal" querystring="" target="" id="{7E0514C7-2AA6-407C-A22B-527D6214CAAC}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "292b3932-5be5-4f52-a328-85ce5fcb44b2"
+    - ID: "91dcc486-22d7-4ad8-b857-90bb1f6c4f1c"
+      Hint: image
+      Value: |
+        <image mediaid="{4E011F7C-B837-4CE9-84C9-60CB2111FDE7}" cropregion="0,0,2136,1423" ratio="288:192" width="288" height="192" alt="" hspace="" vspace="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190822T203517Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190822T203536Z

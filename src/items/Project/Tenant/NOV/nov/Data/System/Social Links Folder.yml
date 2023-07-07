@@ -1,0 +1,28 @@
+﻿---
+ID: "98a483aa-9a5f-4b9a-bb78-a479c24f3d42"
+Parent: "7709cdcf-ebe4-485d-9aca-b79bdda6bb2d"
+Template: "1a211f3f-1db9-4069-a2fb-564fa2e47852"
+Path: /sitecore/content/nov/nov/Data/System/Social Links Folder
+SharedFields:
+- ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
+  Hint: __Security
+  Value: |
+    ar|sitecore\NOV Editor|pe|+item:create|pd|+item:rename|+item:write|+item:create|+item:delete|
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180930T164708Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9e525bb4-126f-487b-ba7b-c2d49cbd31f7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ashwin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20180930T172835Z

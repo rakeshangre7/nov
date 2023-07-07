@@ -1,0 +1,106 @@
+﻿---
+ID: "504c38fe-a850-4d16-acad-dce116d05d72"
+Parent: "f7ff96a0-9311-4c97-8b46-cca83319fff0"
+Template: "d1074c40-2825-4904-b6f4-c2043506ca7a"
+Path: /sitecore/content/nov/nov/Data/Modules/Subscription Center/D3 Content Block Testimonial
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 2000
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1d492e00-d85b-4e82-b886-b2a132868f60"
+      Hint: testimonial
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo. Proin sodales pulvinar tempor.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190109T155459Z
+    - ID: "26894bef-5803-40dd-8de7-01170daf29a6"
+      Hint: backgroundVideo
+      Value: |
+        <file mediaid="{DC8FF624-481E-471C-B764-30694A1DECF1}" src="-/media/dc8ff624481e471cb76430694a1decf1.ashx" />
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{37CE6828-491E-4AF1-A858-254564BEE5B8}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mathias
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mathias
+    - ID: "6e55701e-3592-4485-b207-06bbc930cd56"
+      Hint: image
+      Value: |
+        <image mediaid="{29A7DF3B-25D2-4B29-B321-446CC91CBB94}" cropregion="0,0,464,464" ratio="385:385" width="385" height="385" />
+    - ID: "72554dfc-f78b-4bf8-9683-9e194f27fd6d"
+      Hint: fullName
+      Value: First Name Last Name
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d8c9e6e7-8e6a-4c73-8ba8-beddbffd2bf7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mathias
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190109T155459Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190123T131725Z
+    - ID: "f08a3d3d-a321-46bd-9d13-f38031fdf21f"
+      Hint: jobTitle
+      Value: Job Title | Location
+  - Version: 2
+    Fields:
+    - ID: "1d492e00-d85b-4e82-b886-b2a132868f60"
+      Hint: testimonial
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo. Proin sodales pulvinar tempor.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190124T115536Z
+    - ID: "26894bef-5803-40dd-8de7-01170daf29a6"
+      Hint: backgroundVideo
+      Value: 
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{37CE6828-491E-4AF1-A858-254564BEE5B8}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mathias
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mathias
+    - ID: "6e55701e-3592-4485-b207-06bbc930cd56"
+      Hint: image
+      Value: |
+        <image mediaid="{04D6404A-9762-44DF-A770-E9F844ADE357}" cropregion="551,0,1366,815" ratio="385:385" width="385" height="385" />
+    - ID: "72554dfc-f78b-4bf8-9683-9e194f27fd6d"
+      Hint: fullName
+      Value: First Name Last Name
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cd4b0e79-67a2-4803-8683-375b40cc8cbd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ashwin
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190124T115536Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190311T192809Z
+    - ID: "f08a3d3d-a321-46bd-9d13-f38031fdf21f"
+      Hint: jobTitle
+      Value: Job Title | Location

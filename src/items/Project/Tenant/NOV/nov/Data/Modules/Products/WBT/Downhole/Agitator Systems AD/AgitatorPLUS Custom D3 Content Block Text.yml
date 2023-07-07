@@ -1,0 +1,143 @@
+﻿---
+ID: "767576f9-c182-42a3-ba07-6afea5475917"
+Parent: "559e3372-cc2b-421b-b7f0-bc9f9b5fba15"
+Template: "fef13e36-84bd-4734-b569-e51d7f7e2a36"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/WBT/Downhole/Agitator Systems AD/AgitatorPLUS Custom D3 Content Block Text
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190515T215423Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "4593422d-98d7-497e-b649-a5ade9061f97"
+      Hint: heading
+      Value: AgitatorPLUS System
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\charisgamroth
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "70e126a1-8914-4930-8325-b0090275e26e"
+      Hint: body
+      Value: "<p>The AgitatorPLUS system combines our Agitator tool with a specially designed low-pressure shock tool to reduce friction and keep the drillstring moving by introducing an axial oscillating motion.</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1bcc42f7-08d5-47ef-b195-7007bb63882f"
+    - ID: "9ce372ba-72d4-44e1-84d1-e5dc70965cc3"
+      Hint: image
+      Value: |
+        <image mediaid="{592DDF6A-1F45-41AB-B49F-BEEA4A50AD80}" cropregion="0,0,799,799" ratio="385:385" width="385" height="385" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190516T183858Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190611T160332Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "4593422d-98d7-497e-b649-a5ade9061f97"
+      Hint: heading
+      Value: AgitatorPLUS System
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\charisgamroth
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "70e126a1-8914-4930-8325-b0090275e26e"
+      Hint: body
+      Value: "<p>The AgitatorPLUS system combines our Agitator tool with a specially designed low-pressure shock tool to reduce friction and keep the drillstring moving by introducing an axial oscillating motion.</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "289a036e-ba34-4d44-b90a-c97b849cf56a"
+    - ID: "9ce372ba-72d4-44e1-84d1-e5dc70965cc3"
+      Hint: image
+      Value: |
+        <image mediaid="{592DDF6A-1F45-41AB-B49F-BEEA4A50AD80}" cropregion="0,0,799,799" ratio="385:385" width="385" height="385" />
+    - ID: "a14f8111-ad71-4562-b9b8-61e4996d3750"
+      Hint: cta
+      Value: |
+        <link querystring="" target="" linktype="internal" id="{627373E5-D7FE-4D89-A479-B7AE978F635D}" url="/NOV Com/Products/2019/04/12/14/53/AgitatorHE PLUS System" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\natalieabel
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190611T160332Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200706T184743Z
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200706T183326Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "4593422d-98d7-497e-b649-a5ade9061f97"
+      Hint: heading
+      Value: AgitatorHE PLUS System
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\charisgamroth
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\natalieabel
+    - ID: "70e126a1-8914-4930-8325-b0090275e26e"
+      Hint: body
+      Value: "<p>The Agitator&trade;HE PLUS system combines our Agitator tool with a specially designed low-pressure shock tool to reduce friction and keep the drillstring moving by introducing an axial oscillating motion.</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bd2a8fd5-9f5e-4fd4-940b-175c677ecd57"
+    - ID: "9ce372ba-72d4-44e1-84d1-e5dc70965cc3"
+      Hint: image
+      Value: |
+        <image mediaid="{592DDF6A-1F45-41AB-B49F-BEEA4A50AD80}" cropregion="0,0,799,799" ratio="385:385" width="385" height="385" />
+    - ID: "a14f8111-ad71-4562-b9b8-61e4996d3750"
+      Hint: cta
+      Value: |
+        <link querystring="" target="" linktype="internal" id="{627373E5-D7FE-4D89-A479-B7AE978F635D}" url="/NOV Com/Products/2019/04/12/14/53/AgitatorHE PLUS System" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\natalieabel
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200706T183326Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200706T184743Z

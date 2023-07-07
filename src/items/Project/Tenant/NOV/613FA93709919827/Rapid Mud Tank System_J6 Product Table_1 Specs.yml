@@ -1,0 +1,284 @@
+﻿---
+ID: "434c05d4-59dd-4257-8f06-bc7da382addf"
+Parent: "3be046a5-2b70-4994-b458-6bc2d4308762"
+Template: "5030864f-eb96-4da7-a417-e5a0108c59f8"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/WBT/WellSite Services/Rapid Mud Tank System/Rapid Mud Tank System_J6 Product Table_1 Specs
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190425T191633Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mecoreyna
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mecoreyna
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table width="98%">
+            <tbody>
+                <tr>
+                    <td style="width: 50%;">
+                    <strong>General</strong>
+                    </td>
+                    <td style="width: 49%;">
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 50%;">
+                    Equipment type
+                    </td>
+                    <td style="width: 49%;">
+                    Two-tank Rapid Mud Tank System
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 50%;">
+                    Total tank system volume*
+                    </td>
+                    <td style="width: 49%;">
+                    620 bbl (at 12 in. below mud rim)
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 50%;">
+                    Pill (slug) tank volume
+                    </td>
+                    <td style="width: 49%;">
+                    73 bbl
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 50%;">
+                    Maximum mud weight
+                    </td>
+                    <td style="width: 49%;">
+                    18 lb/gal
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 50%;">
+                    Process capacity (nominal)
+                    </td>
+                    <td style="width: 49%;">
+                    1,000 gal/min
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 50%;">
+                    Degasser capacity (nominal)
+                    </td>
+                    <td style="width: 49%;">
+                    700 gal/min
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 50%;">
+                    Flowline
+                    </td>
+                    <td style="width: 49%;">
+                    10 in manifold with cement and active bypass
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <table width="100%">
+            <tbody>
+                <tr>
+                    <td style="width: 33%;">
+                    <strong>Electrical</strong>
+                    </td>
+                    <td style="width: 33%;">
+                    <strong>60 Hz</strong>
+                    </td>
+                    <td style="width: 33%;">
+                    <strong>50 Hz</strong>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 33%;">
+                    Total required horsepower
+                    </td>
+                    <td style="width: 33%;">
+                    615
+                    </td>
+                    <td style="width: 33%;">
+                    615
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 33%;">
+                    Voltage
+                    </td>
+                    <td style="width: 33%;">
+                    230/460 VAC
+                    </td>
+                    <td style="width: 33%;">
+                    190/380 VAC
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 33%;">
+                    Phases
+                    </td>
+                    <td style="width: 33%;">
+                    3
+                    </td>
+                    <td style="width: 33%;">
+                    3
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 33%;">
+                    Ambient temperature
+                    </td>
+                    <td style="width: 33%;">
+                    104 &deg;F (40 &deg;C)
+                    </td>
+                    <td style="width: 33%;">
+                    104 &deg;F (40 &deg;C)
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <table width="89%">
+            <tbody>
+                <tr>
+                    <td style="width: 37%;">
+                    &nbsp;<strong>Dimensions&nbsp;and Weights</strong>
+                    </td>
+                    <td style="width: 38%;">
+                    <strong>L &times; W &times; H</strong>
+                    </td>
+                    <td style="width: 23%;">
+                    <strong>Weight</strong>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 37%;">
+                    Shaker tank
+                    </td>
+                    <td style="width: 38%;">
+                    52 ft 9 in. &times; 9 ft 10 in. &times; 5 ft
+                    </td>
+                    <td style="width: 23%;">
+                    67,904 lb
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 37%;">
+                    Suction tank
+                    </td>
+                    <td style="width: 38%;">
+                    46 ft &frac34; in. &times; 9 ft 10 in. &times; 5 ft
+                    </td>
+                    <td style="width: 23%;">
+                    69,081 lb
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c1829e71-13e5-474b-ba16-566e9a4e68aa"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: Rapid Mud Tank System Specifications and Dimensions
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mecoreyna
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190425T193158Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190705T180247Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mecoreyna
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td>Equipment type</td>
+                    <td>Two-tank Rapid Mud Tank System</td>
+                </tr>
+                <tr>
+                    <td>Total tank system volume*</td>
+                    <td>620 bbl (at 12 in. below mud rim)</td>
+                </tr>
+                <tr>
+                    <td>Pill (slug) tank volume</td>
+                    <td>73 bbl</td>
+                </tr>
+                <tr>
+                    <td style="width: 50%;">
+                    Maximum mud weight
+                    </td>
+                    <td style="width: 49%;">
+                    18 lb/gal
+                    </td>
+                </tr>
+                <tr>
+                    <td>Process capacity (nominal)</td>
+                    <td>1,000 gal/min</td>
+                </tr>
+                <tr>
+                    <td>Degasser capacity (nominal)</td>
+                    <td>700 gal/min</td>
+                </tr>
+                <tr>
+                    <td>Flowline</td>
+                    <td>10 in manifold with cement and active bypass</td>
+                </tr>
+            </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "691f45a1-dc5c-4475-bbc7-03d31eb8f0ad"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: Rapid Mud Tank System Specifications and Dimensions
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190705T180247Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190705T182133Z

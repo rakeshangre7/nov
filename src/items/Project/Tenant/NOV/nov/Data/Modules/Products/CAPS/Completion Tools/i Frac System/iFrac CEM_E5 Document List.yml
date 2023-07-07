@@ -1,0 +1,139 @@
+﻿---
+ID: "7792e3a9-ce38-4673-bee4-7e893e2e5e7c"
+Parent: "3783e1b5-bcf6-48b2-ae74-966d10bc9fd2"
+Template: "2a8117d9-ebd1-430b-abd4-1d33b1fee79c"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/CAPS/Completion Tools/i Frac System/iFrac CEM_E5 Document List
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190429T104317Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticmpetersen
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\verticmpetersen
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "242c5950-0fab-43bd-83a4-0cd915c6f3d5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190628T162005Z
+    - ID: "e4424681-e459-4738-a286-2240e08da75e"
+      Hint: assets
+      Value: |
+        {D3454675-45B4-46B5-8469-EF826EA7E541}
+        {C6240A66-9D23-49F4-A04A-93E4806DB769}
+        {499C0789-9C18-466E-AA47-4776555D0F04}
+        {DB4B3A9E-D4B6-48F3-B966-1A41B515477F}
+        {D47D9E1D-9633-4785-B3DB-6A716905B686}
+        {7BF1BFD4-4685-42AB-A55A-9890BB635A8B}
+        {F500AE2E-15F4-423F-BB1A-ED79714B7A99}
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200709T192751Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticmpetersen
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b8b8a00b-b678-448a-b65d-b7cb2cbe4462"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200709T192751Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200720T152634Z
+    - ID: "e4424681-e459-4738-a286-2240e08da75e"
+      Hint: assets
+      Value: |
+        {D3454675-45B4-46B5-8469-EF826EA7E541}
+        {C6240A66-9D23-49F4-A04A-93E4806DB769}
+        {499C0789-9C18-466E-AA47-4776555D0F04}
+        {DB4B3A9E-D4B6-48F3-B966-1A41B515477F}
+        {D47D9E1D-9633-4785-B3DB-6A716905B686}
+        {7BF1BFD4-4685-42AB-A55A-9890BB635A8B}
+        {F500AE2E-15F4-423F-BB1A-ED79714B7A99}
+        {CF58D5D8-B7B6-4DB3-B992-5B44C0451AD9}
+        {0C3868CC-49CB-4EF4-BD3E-1E256869FB60}
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200720T163057Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticmpetersen
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaylakaplan
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9c2f4cc2-4ca2-4adf-a6f4-79729285ee6e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaylakaplan
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200720T163057Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200720T163224Z
+    - ID: "e4424681-e459-4738-a286-2240e08da75e"
+      Hint: assets
+      Value: |
+        {D47D9E1D-9633-4785-B3DB-6A716905B686}
+        {CF58D5D8-B7B6-4DB3-B992-5B44C0451AD9}
+        {0C3868CC-49CB-4EF4-BD3E-1E256869FB60}
+        {D3454675-45B4-46B5-8469-EF826EA7E541}
+        {C6240A66-9D23-49F4-A04A-93E4806DB769}
+        {499C0789-9C18-466E-AA47-4776555D0F04}
+        {DB4B3A9E-D4B6-48F3-B966-1A41B515477F}
+        {7BF1BFD4-4685-42AB-A55A-9890BB635A8B}
+        {F500AE2E-15F4-423F-BB1A-ED79714B7A99}

@@ -1,0 +1,463 @@
+﻿---
+ID: "8f00992c-1db5-491b-a063-33aba3242811"
+Parent: "2ce12e7d-9645-491b-a049-6a7c3beb2430"
+Template: "5030864f-eb96-4da7-a417-e5a0108c59f8"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/WBT/WellSite Services/AX Screening System/AX Screening System J6 Product Table
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190315T164257Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\charisgamroth
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <thead>
+                <tr>
+                    <th>Part Number</th>
+                    <th>Description</th>
+                    <th>Non-Blanked Area</th>
+                    <th>Conductance</th>
+                    <th>D100</th>
+                    <th>Separation API Number</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>AX10SL-2015</td>
+                    <td>AX SL Shaker Screen API-10</td>
+                    <td>2.91</td>
+                    <td>60.72</td>
+                    <td>2015</td>
+                    <td>API 10</td>
+                </tr>
+                <tr>
+                    <td>AX20SL-853</td>
+                    <td>AX SL Shaker Screen API-20</td>
+                    <td>2.91</td>
+                    <td>20.51</td>
+                    <td>852.5</td>
+                    <td>API 20</td>
+                </tr>
+                <tr>
+                    <td>AX30SL-603</td>
+                    <td>AX SL Shaker Screen API-30</td>
+                    <td>2.91</td>
+                    <td>9.95</td>
+                    <td>602.5</td>
+                    <td>API 30</td>
+                </tr>
+                <tr>
+                    <td>AX40SL-426</td>
+                    <td>AX SL Shaker Screen API-40</td>
+                    <td>2.91</td>
+                    <td>5.81</td>
+                    <td>426.3</td>
+                    <td>API 40</td>
+                </tr>
+                <tr>
+                    <td>AX60SL-258</td>
+                    <td>AX SL Shaker Screen API-60</td>
+                    <td>2.91</td>
+                    <td>3.73</td>
+                    <td>258.2</td>
+                    <td>API 60</td>
+                </tr>
+                <tr>
+                    <td>AX70TF-228</td>
+                    <td>AX TF Shaker Screen API-70</td>
+                    <td>2.84</td>
+                    <td>3.00</td>
+                    <td>228</td>
+                    <td>API 70</td>
+                </tr>
+                <tr>
+                    <td>AX80TF-190</td>
+                    <td>AX TF Shaker Screen API-80</td>
+                    <td>2.84</td>
+                    <td>2.30</td>
+                    <td>190</td>
+                    <td>API 80</td>
+                </tr>
+                <tr>
+                    <td>AX100TF-143</td>
+                    <td>AX TF Shaker Screen API-100</td>
+                    <td>2.84</td>
+                    <td>1.90</td>
+                    <td>143</td>
+                    <td>API 100</td>
+                </tr>
+                <tr>
+                    <td>AX120TF-120</td>
+                    <td>AX TF Shaker Screen API-120</td>
+                    <td>2.84</td>
+                    <td>1.40</td>
+                    <td>120</td>
+                    <td>API 120</td>
+                </tr>
+                <tr>
+                    <td>AX140TF-116</td>
+                    <td>AX TF Shaker Screen API-140</td>
+                    <td>2.84</td>
+                    <td>1.60</td>
+                    <td>116</td>
+                    <td>API 140</td>
+                </tr>
+                <tr>
+                    <td>AX140TF-114</td>
+                    <td>AX TF Shaker Screen API-140</td>
+                    <td>2.84</td>
+                    <td>1.30</td>
+                    <td>114</td>
+                    <td>API 140</td>
+                </tr>
+                <tr>
+                    <td>AX170TF-94</td>
+                    <td>AX TF Shaker Screen API-170</td>
+                    <td>2.84</td>
+                    <td>1.00</td>
+                    <td>94</td>
+                    <td>API 170</td>
+                </tr>
+                <tr>
+                    <td>AX200TF-80</td>
+                    <td>AX TF Shaker Screen API-200</td>
+                    <td>2.84</td>
+                    <td>1.00</td>
+                    <td>80</td>
+                    <td>API 200</td>
+                </tr>
+                <tr>
+                    <td>AX230TF-60</td>
+                    <td>AX TF Shaker Screen API-230</td>
+                    <td>2.84</td>
+                    <td>0.50</td>
+                    <td>60</td>
+                    <td>API 230</td>
+                </tr>
+                <tr>
+                    <td>AX270TF-50</td>
+                    <td>AX TF Shaker Screen API-270</td>
+                    <td>2.84</td>
+                    <td>0.50</td>
+                    <td>50</td>
+                    <td>API 270</td>
+                </tr>
+                <tr>
+                    <td>AX325TF-44</td>
+                    <td>AX TF Shaker Screen API-325</td>
+                    <td>2.84</td>
+                    <td>0.50</td>
+                    <td>44</td>
+                    <td>API 325</td>
+                </tr>
+                <tr>
+                    <td>AX400TF-40</td>
+                    <td>AX TF Shaker Screen API-400</td>
+                    <td>2.84</td>
+                    <td>0.30</td>
+                    <td>40</td>
+                    <td>API 400</td>
+                </tr>
+                <tr>
+                    <td>AX450TF-34</td>
+                    <td>AX TF Shaker Screen API-425</td>
+                    <td>2.84</td>
+                    <td>0.20</td>
+                    <td>34</td>
+                    <td>API 450</td>
+                </tr>
+                <tr>
+                    <td>AX100TC-145</td>
+                    <td>AX TC Shaker Screen API-100</td>
+                    <td>2.84</td>
+                    <td>1.60</td>
+                    <td>145</td>
+                    <td>API 100</td>
+                </tr>
+                <tr>
+                    <td>AX120TC-120</td>
+                    <td>AX TC Shaker Screen API-120</td>
+                    <td>2.84</td>
+                    <td>1.10</td>
+                    <td>120</td>
+                    <td>API 120</td>
+                </tr>
+                <tr>
+                    <td>AX140TC-111</td>
+                    <td>AX TC Shaker Screen API-140</td>
+                    <td>2.84</td>
+                    <td>0.80</td>
+                    <td>111</td>
+                    <td>API 140</td>
+                </tr>
+                <tr>
+                    <td>AX200TC-79</td>
+                    <td>AX TC Shaker Screen API-200</td>
+                    <td>2.84</td>
+                    <td>0.60</td>
+                    <td>79</td>
+                    <td>API 200</td>
+                </tr>
+            </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5b804062-7b0a-41e8-b67f-7c1c56a94041"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: AX Screening System Specifications
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190315T165116Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190614T202501Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\charisgamroth
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td><strong>Part Number</strong></td>
+                    <td><strong>Description</strong></td>
+                    <td><strong>Non-Blanked Area</strong></td>
+                    <td><strong>Conductance</strong></td>
+                    <td><strong>D100</strong></td>
+                    <td><strong>Separation API Number</strong></td>
+                </tr>
+                <tr>
+                    <td>AX10SL-2015</td>
+                    <td>AX SL Shaker Screen API-10</td>
+                    <td>2.91</td>
+                    <td>60.72</td>
+                    <td>2015</td>
+                    <td>API 10</td>
+                </tr>
+                <tr>
+                    <td>AX20SL-853</td>
+                    <td>AX SL Shaker Screen API-20</td>
+                    <td>2.91</td>
+                    <td>20.51</td>
+                    <td>852.5</td>
+                    <td>API 20</td>
+                </tr>
+                <tr>
+                    <td>AX30SL-603</td>
+                    <td>AX SL Shaker Screen API-30</td>
+                    <td>2.91</td>
+                    <td>9.95</td>
+                    <td>602.5</td>
+                    <td>API 30</td>
+                </tr>
+                <tr>
+                    <td>AX40SL-426</td>
+                    <td>AX SL Shaker Screen API-40</td>
+                    <td>2.91</td>
+                    <td>5.81</td>
+                    <td>426.3</td>
+                    <td>API 40</td>
+                </tr>
+                <tr>
+                    <td>AX60SL-258</td>
+                    <td>AX SL Shaker Screen API-60</td>
+                    <td>2.91</td>
+                    <td>3.73</td>
+                    <td>258.2</td>
+                    <td>API 60</td>
+                </tr>
+                <tr>
+                    <td>AX70TF-228</td>
+                    <td>AX TF Shaker Screen API-70</td>
+                    <td>2.84</td>
+                    <td>3.00</td>
+                    <td>228</td>
+                    <td>API 70</td>
+                </tr>
+                <tr>
+                    <td>AX80TF-190</td>
+                    <td>AX TF Shaker Screen API-80</td>
+                    <td>2.84</td>
+                    <td>2.30</td>
+                    <td>190</td>
+                    <td>API 80</td>
+                </tr>
+                <tr>
+                    <td>AX100TF-143</td>
+                    <td>AX TF Shaker Screen API-100</td>
+                    <td>2.84</td>
+                    <td>1.90</td>
+                    <td>143</td>
+                    <td>API 100</td>
+                </tr>
+                <tr>
+                    <td>AX120TF-120</td>
+                    <td>AX TF Shaker Screen API-120</td>
+                    <td>2.84</td>
+                    <td>1.40</td>
+                    <td>120</td>
+                    <td>API 120</td>
+                </tr>
+                <tr>
+                    <td>AX140TF-116</td>
+                    <td>AX TF Shaker Screen API-140</td>
+                    <td>2.84</td>
+                    <td>1.60</td>
+                    <td>116</td>
+                    <td>API 140</td>
+                </tr>
+                <tr>
+                    <td>AX140TF-114</td>
+                    <td>AX TF Shaker Screen API-140</td>
+                    <td>2.84</td>
+                    <td>1.30</td>
+                    <td>114</td>
+                    <td>API 140</td>
+                </tr>
+                <tr>
+                    <td>AX170TF-94</td>
+                    <td>AX TF Shaker Screen API-170</td>
+                    <td>2.84</td>
+                    <td>1.00</td>
+                    <td>94</td>
+                    <td>API 170</td>
+                </tr>
+                <tr>
+                    <td>AX200TF-80</td>
+                    <td>AX TF Shaker Screen API-200</td>
+                    <td>2.84</td>
+                    <td>1.00</td>
+                    <td>80</td>
+                    <td>API 200</td>
+                </tr>
+                <tr>
+                    <td>AX230TF-60</td>
+                    <td>AX TF Shaker Screen API-230</td>
+                    <td>2.84</td>
+                    <td>0.50</td>
+                    <td>60</td>
+                    <td>API 230</td>
+                </tr>
+                <tr>
+                    <td>AX270TF-50</td>
+                    <td>AX TF Shaker Screen API-270</td>
+                    <td>2.84</td>
+                    <td>0.50</td>
+                    <td>50</td>
+                    <td>API 270</td>
+                </tr>
+                <tr>
+                    <td>AX325TF-44</td>
+                    <td>AX TF Shaker Screen API-325</td>
+                    <td>2.84</td>
+                    <td>0.50</td>
+                    <td>44</td>
+                    <td>API 325</td>
+                </tr>
+                <tr>
+                    <td>AX400TF-40</td>
+                    <td>AX TF Shaker Screen API-400</td>
+                    <td>2.84</td>
+                    <td>0.30</td>
+                    <td>40</td>
+                    <td>API 400</td>
+                </tr>
+                <tr>
+                    <td>AX450TF-34</td>
+                    <td>AX TF Shaker Screen API-425</td>
+                    <td>2.84</td>
+                    <td>0.20</td>
+                    <td>34</td>
+                    <td>API 450</td>
+                </tr>
+                <tr>
+                    <td>AX100TC-145</td>
+                    <td>AX TC Shaker Screen API-100</td>
+                    <td>2.84</td>
+                    <td>1.60</td>
+                    <td>145</td>
+                    <td>API 100</td>
+                </tr>
+                <tr>
+                    <td>AX120TC-120</td>
+                    <td>AX TC Shaker Screen API-120</td>
+                    <td>2.84</td>
+                    <td>1.10</td>
+                    <td>120</td>
+                    <td>API 120</td>
+                </tr>
+                <tr>
+                    <td>AX140TC-111</td>
+                    <td>AX TC Shaker Screen API-140</td>
+                    <td>2.84</td>
+                    <td>0.80</td>
+                    <td>111</td>
+                    <td>API 140</td>
+                </tr>
+                <tr>
+                    <td>AX200TC-79</td>
+                    <td>AX TC Shaker Screen API-200</td>
+                    <td>2.84</td>
+                    <td>0.60</td>
+                    <td>79</td>
+                    <td>API 200</td>
+                </tr>
+            </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "026e600b-7990-498c-b1a6-ed7cabd5cdb4"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: AX Screening System Specifications
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190614T202501Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190614T205017Z

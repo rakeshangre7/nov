@@ -1,0 +1,55 @@
+﻿---
+ID: "db809a24-341f-41c6-b52e-49af959301a6"
+Parent: "d8041c2a-a907-4d31-81e8-ebef69e2b692"
+Template: "c0273613-4e0e-41dd-b432-ab4c7a2e5b3e"
+Path: /sitecore/content/nov/nov/Data/Modules/Site Search/Products Services/ATP Coiled Tubing/ATP Coiled Tubing I6 Featured Content
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200512T185107Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "4af06b84-7f4d-49d2-a888-4adcdb8bb1e7"
+      Hint: description
+      Value: "The Quality Tubing ATP coiled tubing uses state-of-the-art thermal processing throughout the manufacturing process to achieve the most advanced coiled tubing product available on the market."
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8a15041b-ef4d-461a-bb50-36ea4ae7e214"
+    - ID: "966c265a-32c7-4229-95ba-500a2494ea47"
+      Hint: image
+      Value: |
+        <image mediaid="{EDFAC8C9-40F5-4187-BFA4-D5102040E558}" cropregion="457,0,1588,1079" ratio="385:367" width="385" height="367" alt="" hspace="" vspace="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c3e46f56-3ae2-4993-b264-2c3a84ae3df2"
+      Hint: headline
+      Value: ATP Coiled Tubing
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200513T195338Z
+    - ID: "ea0052fc-2a85-47b3-8264-fc05800d5719"
+      Hint: link1
+      Value: |
+        <link linktype="internal" querystring="" target="" id="{CFD6D247-6313-40FA-A2D7-AEAC35BF1A53}" />

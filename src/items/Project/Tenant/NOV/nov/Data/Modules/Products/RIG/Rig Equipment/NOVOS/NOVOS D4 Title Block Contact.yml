@@ -1,0 +1,48 @@
+﻿---
+ID: "72dc164d-7d3c-421c-93b3-4c725227a3b5"
+Parent: "ddbf48b5-4116-4a46-9d9a-c6b85e14f0dc"
+Template: "12aa643a-e325-4871-8d72-6a40947f538e"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/RIG/Rig Equipment/NOVOS/NOVOS D4 Title Block Contact
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1448f026-9a23-474a-8df4-af591b152850"
+      Hint: title
+      Value: NOV Rig Technologies
+    - ID: "20cce792-a928-4cc0-890c-335dbb42ad4f"
+      Hint: body
+      Value: |
+        <p>For more information on NOVOS:<br />10353 Richmond Ave<br />Houston, TX 77042 USA<br /><a href="mailto:rig@nov.com">Rig@NOV.com</a></p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T173200Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{8B87E652-E3F7-4C54-BDD9-66E1B888FF8B}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8fee39f5-eb98-4d2b-af34-563b22b6588d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20191022T204206Z

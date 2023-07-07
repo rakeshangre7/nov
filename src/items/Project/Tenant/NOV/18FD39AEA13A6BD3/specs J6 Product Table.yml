@@ -1,0 +1,324 @@
+﻿---
+ID: "335a6862-5c9d-4281-8a53-d5793c810808"
+Parent: "9e8d1af6-9623-4cd9-a399-fa46e43170a1"
+Template: "5030864f-eb96-4da7-a417-e5a0108c59f8"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/CAPS/Process and Flow Technologies/Electric Driveheads/M150/specs J6 Product Table
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190522T084317Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticljensen
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\verticljensen
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <p>Specifications</p>
+        <table>
+            <tbody>
+                <tr>
+                    <td>
+                    <p>Drive type</p>
+                    </td>
+                    <td>
+                    <p>Direct</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Shaft type</p>
+                    </td>
+                    <td>
+                    <p>Hollow</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Drive style</p>
+                    </td>
+                    <td>
+                    <p>Bearing box</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Input style</p>
+                    </td>
+                    <td>
+                    <p>Vertical</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Drive ratio</p>
+                    </td>
+                    <td>
+                    <p>1:1</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Backspin control</p>
+                    </td>
+                    <td>
+                    <p>Hydrodynamic</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p>&nbsp;</p>
+        <p>Ratings</p>
+        <table>
+            <tbody>
+                <tr>
+                    <td>
+                    <p>Max. output torque</p>
+                    </td>
+                    <td>
+                    <p>2,500 ft-lb (3390 Nm)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Thrust bearing</p>
+                    </td>
+                    <td>
+                    <p>227,000 ISO lbf</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Thrust bearing*</p>
+                    </td>
+                    <td>
+                    <p>59,500 Ca90 lbf</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Maximum speed</p>
+                    </td>
+                    <td>
+                    <p>600 RPM</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Horsepower rating***</p>
+                    </td>
+                    <td>
+                    <p>80&ndash;150 hp</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Frame type</p>
+                    </td>
+                    <td>
+                    <p>Dual motor</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Compatible frame size NEMA</p>
+                    </td>
+                    <td>
+                    <p>324T, 326T, 364T, 365T, 404T, 405T, 444T</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Compatible frame size IEC</p>
+                    </td>
+                    <td>
+                    <p>200M, 200L, 225S, 225M, 250S, 250M, 280S</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Polish rod size</p>
+                    </td>
+                    <td>
+                    <p>&frac12; in. (38 mm)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Max. operating temperature</p>
+                    </td>
+                    <td>
+                    <p>212 &deg;F (100 &deg;C)</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p>&nbsp;</p>
+        <p>Dimensions (Excluding Motor)</p>
+        <table>
+            <tbody>
+                <tr>
+                    <td>
+                    <p>Height with retro stuffing box</p>
+                    </td>
+                    <td>
+                    <p>55 in. (1397 mm)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Height with integral stuffing box</p>
+                    </td>
+                    <td>
+                    <p>40&frac12; in. (1029 mm)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Width</p>
+                    </td>
+                    <td>
+                    <p>41 in. (1041 mm)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Input shaft size</p>
+                    </td>
+                    <td>
+                    <p>3&frac14; in. (83 mm)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Weight (no stuffing box)</p>
+                    </td>
+                    <td>
+                    <p>1,700 lb (771 kg)</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p>*Ca90 load rating is for 90 million revolutions. Reducing load by one-half increases life 10 times. Reducing RPM by one-half doubles hours of life.</p>
+        <p>***Maximum horsepower rating based on frame size only. Care must be taken in selecting motor and sheave combinations to ensure input rod torque is not exceeded.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "41f4578f-fbe4-40d2-8d99-82532f3ab59c"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: Product Specifications
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190703T131602Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190703T132034Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticljensen
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td>
+                    <p>Drive type</p>
+                    </td>
+                    <td>
+                    <p>Direct</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Shaft type</p>
+                    </td>
+                    <td>
+                    <p>Hollow</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Drive style</p>
+                    </td>
+                    <td>
+                    <p>Bearing box</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Input style</p>
+                    </td>
+                    <td>
+                    <p>Vertical</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Drive ratio</p>
+                    </td>
+                    <td>
+                    <p>1:1</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Backspin control</p>
+                    </td>
+                    <td>
+                    <p>Hydrodynamic</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e1daa528-ef78-45c5-aed7-788b9a553d35"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: "M-150 Electric Drivehead Specifications"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190703T132034Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190703T135726Z

@@ -1,0 +1,68 @@
+﻿---
+ID: "873c816b-13bb-4751-bf4c-30619d392e6f"
+Parent: "e5a36181-3ff6-46f6-a651-cf7249533f5a"
+Template: "c0aa2bad-85b9-47e4-a236-901c3115fb87"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/CAPS/Intervention and Stimulation Equipment/DASTRAC/DASTRAC J5 Features List
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200113T215902Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ec6265e3-135b-4b71-a986-787717ebff6f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: |
+        <p><a href="~/link.aspx?_id=4FEA38E328D54991A95DFEC465676888&amp;_z=z">Rolligon™</a> DASTRAC III is a PC-based data acquisition and control program designed to acquire frac operations data from wellsite process control units and other independent sensors. This program also monitors job performance and creates customer reports.</p>
+        <p>This software displays acquired data from the data acquisition system and from the CANbus or ethernet network. Acquired data can be displayed in both numeric and graphical form in real time during the job.</p>
+        <p>In addition, DASTRAC III allows operators in the data van to access the programming features of Rolligon-controlled blenders, hydration units, and liquid additive systems (LAS) connected to the data van. Using these modules, data van operators can change job profiles, scale parameters, advance stages, change stages, hold stages, and operate as if they were on the process unit.</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200113T223902Z
+    - ID: "f6afec27-750a-4d77-962d-3ce002b623b9"
+      Hint: column1List
+      Value: |
+        <ul>
+            <li>Able to acquire log data from multiple devices, including ethernet, CAN, and serial&nbsp;</li>
+            <li>Flexible data tag setup&nbsp;&nbsp;</li>
+            <li>Numeric data display&nbsp;</li>
+            <li>Selectable serial output&nbsp;&nbsp;</li>
+            <li>Calculated channels using acquired data&nbsp;</li>
+            <li>Post-job report generation&nbsp;</li>
+            <li>Multiple monitor displays&nbsp;</li>
+            <li>Backup configuration data&nbsp;</li>
+            <li>Review data from previous jobs</li>
+            <li>Complete unit control of Rolligon equipment&nbsp;</li>
+            <li>Technician tool for changing settings</li>
+            <li>Dongle-based license&nbsp;</li>
+            <li>Scalable system from full frac sites to single-unit acquisition&nbsp;</li>
+            <li>Wellbore diagram, downhole pressure calculations, and Nolte-Smith plot views&nbsp;</li>
+            <li><a href="~/link.aspx?_id=B52F531BC97C4D60A49BEE66341206C2&amp;_z=z">GoConnect&trade;</a> compatible&nbsp;</li>
+        </ul>
+        <div>&nbsp;</div>

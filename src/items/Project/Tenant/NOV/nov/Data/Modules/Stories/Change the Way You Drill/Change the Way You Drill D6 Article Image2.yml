@@ -1,0 +1,93 @@
+﻿---
+ID: "601448bf-d9b7-4588-9eb6-052a1a0cb0e9"
+Parent: "459a34a1-d0d8-4411-a869-084c58e2a697"
+Template: "5ea3de5f-8a8e-46a4-8f88-c65b9a2ee2d6"
+Path: /sitecore/content/nov/nov/Data/Modules/Stories/Change the Way You Drill/Change the Way You Drill D6 Article Image2
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "119aa641-3cc4-4b43-8b1f-a294710be186"
+      Hint: caption
+      Value: The Martin Linge Field in the North Sea contains an oil reservoir and several gas and condensate reservoirs.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190328T175416Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\charisgamroth
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "61db9f9e-13b6-4ae4-af98-cc6ecba9a3cf"
+      Hint: credit
+      Value: NOV
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "631a5cc8-e61d-41ab-a55a-f1e762e64c4f"
+    - ID: "ae74a8fe-bc82-4888-9113-844666a1a5a2"
+      Hint: image
+      Value: |
+        <image mediaid="{65C3D238-A595-43DB-8B8C-E872B57E89DA}" cropregion="0,0,1920,1080" ratio="800:450" width="800" height="450" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190328T184256Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "119aa641-3cc4-4b43-8b1f-a294710be186"
+      Hint: caption
+      Value: The Martin Linge Field in the North Sea contains an oil reservoir and several gas and condensate reservoirs.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190619T205559Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\charisgamroth
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "61db9f9e-13b6-4ae4-af98-cc6ecba9a3cf"
+      Hint: credit
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2f317787-2021-447f-b319-7bdfa5b5826c"
+    - ID: "ae74a8fe-bc82-4888-9113-844666a1a5a2"
+      Hint: image
+      Value: |
+        <image mediaid="{65C3D238-A595-43DB-8B8C-E872B57E89DA}" cropregion="0,0,1920,1080" ratio="800:450" width="800" height="450" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\varalakshmi.md@horizontal.com
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190619T205559Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230707T171736Z

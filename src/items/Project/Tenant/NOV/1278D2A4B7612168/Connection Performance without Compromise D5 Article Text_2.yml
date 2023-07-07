@@ -1,0 +1,120 @@
+﻿---
+ID: "20e53066-416d-48f7-b4f2-77886947fcd8"
+Parent: "dde1f8b2-18b8-456d-b85e-dea88bbbfd79"
+Template: "07c63710-4422-42b9-adb7-67b4bad63607"
+Path: /sitecore/content/nov/nov/Data/Modules/Stories/Connection Performance without Compromise/Connection Performance without Compromise D5 Article Text_2
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "0f10eefb-f9da-4b41-83a0-87900c4e25ed"
+      Hint: body
+      Value: |
+        <p>Wider field inspection tolerances reduce the need for frequent repairs without compromising the connection&rsquo;s performance. A reduction in material loss of 30% for face-and-chase repair operations allows for more recuts, while the total refacing amount has been increased by 50%, allowing for additional re-faces to take place before recut is needed. The reduction in tong-gripping distance results in increased room for recuts without changing the length of the tool joint. NOV has also developed best practices in the shop environment for recuts, which will result in less than a 1-in. loss on pin or box for a full face-and-chase recut.</p>
+        <p>The Delta connection has undergone extensive testing at NOV&rsquo;s research and technology development center, with early results conclusively proving that the new connection made up twice as fast as its predecessor. Damage was minimal and was primarily related to handling; generally, only refacing was required. For a final alignment on cost reductions, the Delta connection has the lowest royalty on repair services across all of NOV&rsquo;s double-shoulder connections. The Tuboscope business unit further supports the connection with lower charges to pipe owners and the inclusion of the TracID&trade; RFID-based tagging and inventory management system.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190416T155129Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\charisgamroth
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e8cfee2e-a938-4d9a-802d-3fe370a3d3ff"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190416T161230Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "0f10eefb-f9da-4b41-83a0-87900c4e25ed"
+      Hint: body
+      Value: |
+        <p>The modified geometry of the Delta connection reduces the number of turns necessary to make up the connection, increasing efficiency and reducing wear on the threads. Compared to similar products, the Delta connection requires 50% fewer turns from stab to makeup. Time-wise, the connection can be spun in as little as 4 seconds, while <a href="~/link.aspx?_id=6020499A552E42C2B25E285CA6428DD9&amp;_z=z">XT connections</a>&nbsp;typically require 8 seconds. This decrease in connection time translates to increased cost effectiveness and ease of use on the rig floor. Ease of use is further improved by a reduction in the minimum required tong-gripping distance from the box face.</p>
+        <p>Wider field inspection tolerances reduce the need for frequent repairs without compromising the connection's performance. A reduction in material loss of 30% for face-and-chase repair operations allows for more recuts, while the total refacing amount has been increased by 50%, allowing for additional refaces to take place before recut is needed. The reduction in tong-gripping distance results in increased room for recuts without changing the length of the tool joint. NOV has also developed best practices in the shop environment for recuts, which will result in less than a 1-in. loss on pin or box for a full face-and-chase recut.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190614T201151Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\charisgamroth
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1d02a978-6b64-4501-810f-599542755df3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190614T201151Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190617T135745Z
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "0f10eefb-f9da-4b41-83a0-87900c4e25ed"
+      Hint: body
+      Value: |
+        <p>The modified geometry of the Delta connection reduces the number of turns necessary to make up the connection, increasing efficiency and reducing wear on the threads. Compared to similar products, the Delta connection requires 50% fewer turns from stab to makeup. Time-wise, the connection can be spun in as little as 4 seconds, while <a href="~/link.aspx?_id=6020499A552E42C2B25E285CA6428DD9&amp;_z=z">XT connections</a>&nbsp;typically require 8 seconds. This decrease in connection time translates to increased cost effectiveness and ease of use on the rig floor. Ease of use is further improved by a reduction in the minimum required tong-gripping distance from the box face.</p>
+        <p>Wider field inspection tolerances reduce the need for frequent repairs without compromising the connection's performance. A reduction in material loss of 30% for face-and-chase repair operations allows for more recuts, while the total refacing amount has been increased by 50%, allowing for additional refaces to take place before recut is needed. The reduction in tong-gripping distance results in increased room for recuts without changing the length of the tool joint. NOV has also developed <a href="~/link.aspx?_id=88CDC8E26EE845CC88C8A1297B2B3979&amp;_z=z">best practices</a>&nbsp;in the shop environment for recuts, which will result in less than a 1-in. loss on pin or box for a full face-and-chase recut.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190620T144348Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\charisgamroth
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "85a44404-db12-45c4-a779-2cc00e47a6e8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190620T144348Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190620T144423Z

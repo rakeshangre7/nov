@@ -1,0 +1,49 @@
+﻿---
+ID: "8a227841-0475-4b27-8102-7922b6ec07be"
+Parent: "c7a15b04-73c4-4ce2-aa85-12fd27d022ea"
+Template: "afb522d9-543a-4aca-9708-82255d7a5315"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/WBT/Grant Prideco/Completion Pipe/Completion Pipe E4 Content List 2x1
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200812T211106Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b41bd8ba-a4b4-4ba9-a81f-fe16b32057de"
+    - ID: "ab8effd2-f3ac-49d1-8ea2-439030832c4c"
+      Hint: Headline
+      Value: Related Tools
+    - ID: "b0bbc97e-cde2-4ec9-8a2f-8fc4c6e455c3"
+      Hint: pages
+      Value: |
+        {550A93D3-51EA-4FFC-B5BC-8CC3BB6BE942}
+        {7FED60AC-B59B-4002-8B53-9439515E3F6E}
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200908T184737Z

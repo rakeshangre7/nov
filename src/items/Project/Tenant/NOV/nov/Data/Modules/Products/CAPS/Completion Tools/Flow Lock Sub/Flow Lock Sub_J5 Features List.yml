@@ -1,0 +1,446 @@
+﻿---
+ID: "484b58c2-23e2-4bb6-a00e-f517f82d28a5"
+Parent: "e7661931-a044-42cd-8317-fc896e298d61"
+Template: "c0aa2bad-85b9-47e4-a236-901c3115fb87"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/CAPS/Completion Tools/Flow Lock Sub/Flow Lock Sub_J5 Features List
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190326T125243Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "443b76eb-a2d1-4050-b1d5-fc06c8737bee"
+      Hint: column3List
+      Value: |
+        <ul>
+            <li>Openhole completions that require setting of pressure-activated tools such as packers</li>
+        </ul>
+    - ID: "4d669ee9-9ff5-4c31-a025-56035d1727a1"
+      Hint: column1Headline
+      Value: Features
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticmpetersen
+    - ID: "592042cb-e14f-4127-8f6b-3f25c3759c8e"
+      Hint: column2List
+      Value: |
+        <ul>
+            <li>Once the flow path is closed, it is locked close, even without the activation ball in place</li>
+            <li>Provides a reliable method to set pressure-activated components in the wellbore</li>
+        </ul>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\verticmpetersen
+    - ID: "79b6230b-39a0-4a28-adf6-9ec3024425c2"
+      Hint: column2Headline
+      Value: Benefits
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "317625c3-9143-41a1-b72e-9065da2e756e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\verticmpetersen
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: |
+        <p>The Flow Lock Sub is part of an openhole multistage completion that allows circulation through the completion string until setting of hydraulic equipment above it is required.<br />
+        <br />
+        After a ball is dropped from surface and circulated down to the Flow Lock Sub, increasing the system pressure will shift the internal components of the Flow Lock Sub and shut-in the circulating bypass ports. Hydraulic equipment above may be set, and pressure integrity is maintained above and below the Flow Lock Sub, even if the ball rolls off the seat.</p>
+    - ID: "cd6306bb-152c-471d-881c-66094f05d557"
+      Hint: column3Headline
+      Value: Applications
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190326T125606Z
+    - ID: "f6afec27-750a-4d77-962d-3ce002b623b9"
+      Hint: column1List
+      Value: |
+        <ul>
+            <li>Ball-activated sleeve seals off the casing inside diameter (ID) from the annulus</li>
+            <li>Once sealed, the Flow Lock Sub seals from above and below the sub</li>
+            <li>Compatible with a range of ball outside diameters (ODs)</li>
+            <li>Field-adjustable activation pressure</li>
+        </ul>
+        <div>&nbsp;</div>
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190403T143429Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "443b76eb-a2d1-4050-b1d5-fc06c8737bee"
+      Hint: column3List
+      Value: |
+        <ul>
+            <li>Openhole completions that require setting of pressure-activated tools such as packers</li>
+        </ul>
+    - ID: "4d669ee9-9ff5-4c31-a025-56035d1727a1"
+      Hint: column1Headline
+      Value: Features
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticmpetersen
+    - ID: "592042cb-e14f-4127-8f6b-3f25c3759c8e"
+      Hint: column2List
+      Value: |
+        <ul>
+            <li>Once the flow path is closed, it is locked close, even without the activation ball in place</li>
+            <li>Provides a reliable method to set pressure-activated components in the wellbore</li>
+        </ul>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "79b6230b-39a0-4a28-adf6-9ec3024425c2"
+      Hint: column2Headline
+      Value: Benefits
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "97931530-03c5-473f-af4c-eee66d1f2f0e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: |
+        <p>The Flow Lock Sub&trade; is part of an openhole multistage completion that allows circulation through the completion string until setting of hydraulic equipment above it is required.<br />
+        <br />
+        After a ball is dropped from surface and circulated down to the Flow Lock Sub, increasing the system pressure will shift the internal components of the Flow Lock Sub and shut-in the circulating bypass ports. Hydraulic equipment above may be set, and pressure integrity is maintained above and below the Flow Lock Sub, even if the ball rolls off the seat.</p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190403T143429Z
+    - ID: "cd6306bb-152c-471d-881c-66094f05d557"
+      Hint: column3Headline
+      Value: Applications
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190403T143543Z
+    - ID: "f6afec27-750a-4d77-962d-3ce002b623b9"
+      Hint: column1List
+      Value: |
+        <ul>
+            <li>Ball-activated sleeve seals off the casing inside diameter (ID) from the annulus</li>
+            <li>Once sealed, the Flow Lock Sub seals from above and below the sub</li>
+            <li>Compatible with a range of ball outside diameters (ODs)</li>
+            <li>Field-adjustable activation pressure</li>
+        </ul>
+        <div>&nbsp;</div>
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190701T153147Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "443b76eb-a2d1-4050-b1d5-fc06c8737bee"
+      Hint: column3List
+      Value: |
+        <ul>
+            <li>Openhole completions that require setting of pressure-activated tools such as packers</li>
+        </ul>
+    - ID: "4d669ee9-9ff5-4c31-a025-56035d1727a1"
+      Hint: column1Headline
+      Value: Features
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticmpetersen
+    - ID: "592042cb-e14f-4127-8f6b-3f25c3759c8e"
+      Hint: column2List
+      Value: |
+        <ul>
+            <li>Once the flow path is closed, it is locked close, even without the activation ball in place</li>
+            <li>Provides a reliable method to set pressure-activated components in the wellbore</li>
+        </ul>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "79b6230b-39a0-4a28-adf6-9ec3024425c2"
+      Hint: column2Headline
+      Value: Benefits
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "38c8eb26-a661-4ebb-be67-d6c05262a19b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: |
+        <p>The Flow Lock Sub&trade; is part of an openhole multistage completion that allows circulation through the completion string until setting of hydraulic equipment above it is required.</p>
+        <p>After a ball is dropped from surface and circulated down to the Flow Lock Sub, increasing the system pressure will shift the internal components of the Flow Lock Sub and shut-in the circulating bypass ports. Hydraulic equipment above may be set, and pressure integrity is maintained above and below the Flow Lock Sub, even if the ball rolls off the seat.</p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190701T153147Z
+    - ID: "cd6306bb-152c-471d-881c-66094f05d557"
+      Hint: column3Headline
+      Value: Applications
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190701T153236Z
+    - ID: "f6afec27-750a-4d77-962d-3ce002b623b9"
+      Hint: column1List
+      Value: |
+        <ul>
+            <li>Ball-activated sleeve seals off the casing inside diameter (ID) from the annulus</li>
+            <li>Once sealed, the Flow Lock Sub seals from above and below the sub</li>
+            <li>Compatible with a range of ball outside diameters (ODs)</li>
+            <li>Field-adjustable activation pressure</li>
+        </ul>
+        <div>&nbsp;</div>
+  - Version: 4
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190701T154050Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "443b76eb-a2d1-4050-b1d5-fc06c8737bee"
+      Hint: column3List
+      Value: |
+        <ul>
+            <li>Openhole completions that require setting of pressure-activated tools such as packers</li>
+        </ul>
+    - ID: "4d669ee9-9ff5-4c31-a025-56035d1727a1"
+      Hint: column1Headline
+      Value: Features
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticmpetersen
+    - ID: "592042cb-e14f-4127-8f6b-3f25c3759c8e"
+      Hint: column2List
+      Value: |
+        <ul>
+            <li>Once the flow path is closed, it is locked close, even without the activation ball in place</li>
+            <li>Provides a reliable method to set pressure-activated components in the wellbore</li>
+        </ul>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "79b6230b-39a0-4a28-adf6-9ec3024425c2"
+      Hint: column2Headline
+      Value: Benefits
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "68431f90-2488-429d-9b34-7faf02f4ec39"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: |
+        <p>The Flow Lock Sub&trade; is part of an openhole multistage completion that allows circulation through the completion string until setting of hydraulic equipment above it is required.</p>
+        <p>After a ball is dropped from surface and circulated down to the Flow Lock Sub, increasing the system pressure will shift the internal components of the Flow Lock Sub and shut-in the circulating bypass ports. Hydraulic equipment above may be set, and pressure integrity is maintained above and below the Flow Lock Sub, even if the ball rolls off the seat.</p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190701T154050Z
+    - ID: "cd6306bb-152c-471d-881c-66094f05d557"
+      Hint: column3Headline
+      Value: Applications
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190701T154133Z
+    - ID: "f6afec27-750a-4d77-962d-3ce002b623b9"
+      Hint: column1List
+      Value: |
+        <ul>
+            <li>Ball-activated sleeve seals off the casing inside diameter (ID) from the annulus</li>
+            <li>Once sealed, the Flow Lock Sub seals from above and below the sub</li>
+            <li>Compatible with a range of ball outside diameters (ODs)</li>
+            <li>Field-adjustable activation pressure</li>
+        </ul>
+  - Version: 5
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200611T173347Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "443b76eb-a2d1-4050-b1d5-fc06c8737bee"
+      Hint: column3List
+      Value: |
+        <ul>
+            <li>Openhole completions that require setting of pressure-activated tools such as packers and liner hangers</li>
+        </ul>
+    - ID: "4d669ee9-9ff5-4c31-a025-56035d1727a1"
+      Hint: column1Headline
+      Value: Features
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticmpetersen
+    - ID: "592042cb-e14f-4127-8f6b-3f25c3759c8e"
+      Hint: column2List
+      Value: |
+        <ul>
+            <li>Once the flow path is closed, it is locked close, even without the activation ball in place</li>
+            <li>Provides a reliable method to set pressure-activated components in the wellbore</li>
+            <li>Circulation through tool to condition wellbore before closing</li>
+            <li>Single closing ball pumped to seat to close and lock sub</li>
+            <li>Casing integrity test permissible after closing</li>
+            <li>Debris tolerant during activation</li>
+            <li>Used for liner with dual-ball setting mechanism</li>
+        </ul>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joshuashearer
+    - ID: "79b6230b-39a0-4a28-adf6-9ec3024425c2"
+      Hint: column2Headline
+      Value: Benefits
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8f65a5fd-1e89-4fd8-bdd1-1460f5d17ba1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaylakaplan
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: |
+        <p>After a ball is dropped from surface and circulated down to the Flow Lock Sub&trade;, an increase in the system pressure will shift the internal components of the Flow Lock Sub and shut in the circulating bypass ports. Hydraulic equipment above may be set, and pressure integrity is maintained above and below, even if the ball rolls off the seat.</p>
+        <p>Our Flow Lock Sub XP version features extended pockets for dual-ball operations where liner hangers require dual-ball setting mechanisms.</p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200611T173347Z
+    - ID: "cd6306bb-152c-471d-881c-66094f05d557"
+      Hint: column3Headline
+      Value: Applications
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200701T140225Z
+    - ID: "f6afec27-750a-4d77-962d-3ce002b623b9"
+      Hint: column1List
+      Value: |
+        <ul>
+            <li>Ball-activated sleeve seals off the casing inside diameter from the annulus</li>
+            <li>Once sealed, the Flow Lock Sub seals from above and below the sub</li>
+            <li>Compatible with a range of ball outside diameters</li>
+            <li>Field-adjustable activation pressure</li>
+            <li>Locked open when running and circulating</li>
+            <li>After closing, locked in closed position</li>
+            <li>Allows high-pressure casing test after closing - up to 15,000 psi</li>
+            <li>Extended pocket for dual-ball operations</li>
+            <li>No E-line or coiled tubing intervention needed to close<br />
+            <div>&nbsp;</div>
+            </li>
+        </ul>
+  - Version: 6
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200701T141513Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{8B87E652-E3F7-4C54-BDD9-66E1B888FF8B}"
+    - ID: "443b76eb-a2d1-4050-b1d5-fc06c8737bee"
+      Hint: column3List
+      Value: |
+        <ul>
+            <li>Open-hole completions that require setting of pressure-activated tools such as packers and liner hangers</li>
+        </ul>
+    - ID: "4d669ee9-9ff5-4c31-a025-56035d1727a1"
+      Hint: column1Headline
+      Value: Features
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticmpetersen
+    - ID: "592042cb-e14f-4127-8f6b-3f25c3759c8e"
+      Hint: column2List
+      Value: |
+        <ul>
+            <li>Once the flow path is closed, it is locked close, even without the activation ball in place</li>
+            <li>Provides a reliable method to set pressure-activated components in the wellbore</li>
+            <li>Circulation through tool to condition wellbore before closing</li>
+            <li>Single closing ball pumped to seat to close and lock sub</li>
+            <li>Casing integrity test permissible after closing</li>
+            <li>Debris tolerant during activation</li>
+            <li>Used for liner with dual-ball setting mechanism</li>
+        </ul>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joshuashearer
+    - ID: "79b6230b-39a0-4a28-adf6-9ec3024425c2"
+      Hint: column2Headline
+      Value: Benefits
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bb69a4c2-5288-4876-a51e-b48947c3b15b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\joshuashearer
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: |
+        <p>After a ball is dropped from surface and circulated down to the Flow Lock Sub&trade;, an increase in the system pressure will shift the internal components of the Flow Lock Sub and shut in the circulating bypass ports. Hydraulic equipment above may be set, and pressure integrity is maintained above and below, even if the ball rolls off the seat.</p>
+        <p>Our Flow Lock Sub XP version features extended pockets for dual-ball operations where liner hangers require dual-ball setting mechanisms.</p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200701T141513Z
+    - ID: "cd6306bb-152c-471d-881c-66094f05d557"
+      Hint: column3Headline
+      Value: Applications
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200727T190504Z
+    - ID: "f6afec27-750a-4d77-962d-3ce002b623b9"
+      Hint: column1List
+      Value: |
+        <ul>
+            <li>Ball-activated sleeve seals off the casing inside diameter from the annulus</li>
+            <li>Once sealed, the Flow Lock Sub seals from above and below the sub</li>
+            <li>Compatible with a range of ball outside diameters</li>
+            <li>Field-adjustable activation pressure</li>
+            <li>Locked open when running and circulating</li>
+            <li>After closing, locked in closed position</li>
+            <li>Allows high-pressure casing test after closing - up to 15,000 psi</li>
+            <li>Extended pocket for dual-ball operations</li>
+            <li>No E-line or coiled tubing intervention needed to close<br />
+            <div>&nbsp;</div>
+            </li>
+        </ul>

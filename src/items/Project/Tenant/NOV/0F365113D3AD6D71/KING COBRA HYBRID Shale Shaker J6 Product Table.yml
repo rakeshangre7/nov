@@ -1,0 +1,722 @@
+﻿---
+ID: "7510a4d7-d314-4719-8b9f-9614145afec4"
+Parent: "acb4d948-138b-4ff2-93b6-80760b3e25fb"
+Template: "5030864f-eb96-4da7-a417-e5a0108c59f8"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/WBT/WellSite Services/KING COBRA HYBRID Shale Shaker/KING COBRA HYBRID Shale Shaker J6 Product Table
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190318T144304Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\charisgamroth
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td>
+                    Dimensions (L &times; W &times; H)
+                    </td>
+                    <td>
+                    120 &times; 67.7 &times; 65.5 in. (3048 &times; 1720 &times; 1664 mm)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Weir height
+                    </td>
+                    <td>
+                    41<sup>3</sup>/<sub>16</sub> in. (1046 mm)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Weight
+                    </td>
+                    <td>
+                    5,300 lb (2404 kg)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Basket angle
+                    </td>
+                    <td>
+                    Adjustable, -5 to +3&deg;
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Deck angle
+                    </td>
+                    <td>
+                    0&deg;, +5&deg;, +5&deg;, +5&deg;
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Screening area
+                    </td>
+                    <td>
+                    33.4 ft&sup2; (3.1 m&sup2;)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Screen type (qty 4)
+                    </td>
+                    <td>
+                    Pretension, repairable
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Drive motor
+                    </td>
+                    <td>
+                    2.5 hp (1.9 kW) &ndash; Standard
+                    3.5 hp (2.6 kW) &ndash; Optional
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Vibration motion
+                    </td>
+                    <td>
+                    Linear or dual
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <table>
+            <tbody>
+                <tr>
+                    <td>
+                    Dual motion configuration
+                    </td>
+                    <td>
+                    Allows selection of vibration motion most suitable
+                    <ul>
+                        <li>Linear &ndash; Rapidly separates and discharges solids</li>
+                        <li>Tuned elliptical &ndash; Removes large, sticky, hydrated clays and other troublesome solids</li>
+                    </ul>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Motors
+                    </td>
+                    <td>
+                    2.5 hp Standard
+                    3.5 hp Optional
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Adjustable basket hood
+                    </td>
+                    <td>
+                    Helps contain splashing during operation and leads to a cleaner working area
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "01f6e5df-2310-44ee-af9d-2ecff095a8bf"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: KING COBRA HYBRID Shale Shaker Specifications
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190318T145752Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190411T164613Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\charisgamroth
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td>
+                    Dimensions (L x W x H)
+                    </td>
+                    <td>
+                    119 9&frasl;16 in x 66 ⅛ in x 65 &frac12; in (3037 mm x 1680 mm x 1664 mm)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Weir Height
+                    </td>
+                    <td>
+                    41 3&frasl;16 in (1046 mm)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Dry Weight
+                    </td>
+                    <td>
+                    5300 lbs (2404 kg)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Basket Angle
+                    </td>
+                    <td>
+                    Adjustable -5&deg; to +3&deg;
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Deck Angle
+                    </td>
+                    <td>
+                    0&deg;, +5&deg;, +5&deg;, +5&deg;
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Screening Area
+                    </td>
+                    <td>
+                    33.4 ft2 (3.1m2)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Screen Type (qty 4)
+                    </td>
+                    <td>
+                    Pretensioned, Repairable
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Motor Type (qty 2)
+                    </td>
+                    <td>
+                    Vibratory Canister Motors
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Drive Motor
+                    </td>
+                    <td>
+                    <ul>
+                        <li>
+                        2.5 hp (1.9 kW) each - Standard</li>
+                        <li></li>
+                        3.5 hp (2.6 kW) each - Optional
+                    </ul>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Vibration Motion
+                    </td>
+                    <td>
+                    Linear or Dual
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Optional Certifications
+                    </td>
+                    <td>
+                    ATEX Zone 1, CE Ex II 2 G c IIB T4 Gb; Ta -20&deg;C to +40/55&deg;C
+                    <ul>
+                        <li>No CGC: Ta -20&deg;C to +55&deg;C</li>
+                        <li>CGC: Ta -20&deg;C to +40&deg;C</li>
+                    </ul>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4c070004-e9ec-4b4d-9ee3-408c955bb327"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: KING COBRA HYBRID Shale Shaker Specifications
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190411T164613Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190411T164647Z
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190411T164858Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\charisgamroth
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td>
+                    Dimensions (L x W x H)
+                    </td>
+                    <td>
+                    119 9&frasl;16 in x 66 ⅛ in x 65 &frac12; in (3037 mm x 1680 mm x 1664 mm)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Weir Height
+                    </td>
+                    <td>
+                    41 3&frasl;16 in (1046 mm)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Dry Weight
+                    </td>
+                    <td>
+                    5300 lbs (2404 kg)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Basket Angle
+                    </td>
+                    <td>
+                    Adjustable -5&deg; to +3&deg;
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Deck Angle
+                    </td>
+                    <td>
+                    0&deg;, +5&deg;, +5&deg;, +5&deg;
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Screening Area
+                    </td>
+                    <td>
+                    33.4 ft2 (3.1m2)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Screen Type (qty 4)
+                    </td>
+                    <td>
+                    Pretensioned, Repairable
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Motor Type (qty 2)
+                    </td>
+                    <td>
+                    Vibratory Canister Motors
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Drive Motor
+                    </td>
+                    <td>
+                    <ul>
+                        <li>
+                        2.5 hp (1.9 kW) each - Standard</li>
+                        <li>
+                        3.5 hp (2.6 kW) each - Optional</li>
+                    </ul>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Vibration Motion
+                    </td>
+                    <td>
+                    Linear or Dual
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Optional Certifications
+                    </td>
+                    <td>
+                    ATEX Zone 1, CE Ex II 2 G c IIB T4 Gb; Ta -20&deg;C to +40/55&deg;C
+                    <ul>
+                        <li>No CGC: Ta -20&deg;C to +55&deg;C</li>
+                        <li>CGC: Ta -20&deg;C to +40&deg;C</li>
+                    </ul>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b1958b4d-3958-4315-a09b-c7decd543a06"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: KING COBRA HYBRID Shale Shaker Specifications
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190411T164858Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190411T164914Z
+  - Version: 4
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190422T205637Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\charisgamroth
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td>
+                    Dimensions (L x W x H)
+                    </td>
+                    <td>
+                    119<sup>9</sup>&frasl;<sub>16</sub> x 66⅛ x 65&frac12; in. (3037 x 1680 x 1664 mm)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Weir height
+                    </td>
+                    <td>
+                    41<sup>3</sup>&frasl;<sub>16</sub> in. (1046 mm)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Dry weight
+                    </td>
+                    <td>
+                    5,300 lb (2404 kg)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Basket angle
+                    </td>
+                    <td>
+                    Adjustable -5&deg; to +3&deg;
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Deck angle
+                    </td>
+                    <td>
+                    0&deg;, +5&deg;, +5&deg;, +5&deg;
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Screening area
+                    </td>
+                    <td>
+                    33.4 ft<sup>2</sup> (3.1m<sup>2</sup>)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Screen type (qty 4)
+                    </td>
+                    <td>
+                    Pretensioned, Repairable
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Motor type (qty 2)
+                    </td>
+                    <td>
+                    Vibratory Canister Motors
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Drive motor
+                    </td>
+                    <td>
+                    <ul>
+                        <li>
+                        2.5 hp (1.9 kW) each - Standard</li>
+                        <li>
+                        3.5 hp (2.6 kW) each - Optional</li>
+                    </ul>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Vibration motion
+                    </td>
+                    <td>
+                    Linear or Dual
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Optional certifications
+                    </td>
+                    <td>
+                    ATEX Zone 1, CE Ex II 2 G c IIB T4 Gb; Ta -20 to +40/55 &deg;C
+                    <ul>
+                        <li>No CGC: Ta -20 to +55 &deg;C</li>
+                        <li>CGC: Ta -20 to +40 &deg;C</li>
+                    </ul>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "73a9d0a2-1881-4932-88a1-1e56bdfe98e4"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: KING COBRA HYBRID Shale Shaker Specifications
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190422T205637Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190422T210307Z
+  - Version: 5
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190617T135714Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\charisgamroth
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td>
+                    Dimensions (L x W x H)
+                    </td>
+                    <td>
+                    119<sup>9</sup>&frasl;<sub>16</sub> x 66⅛ x 65&frac12; in. (3037 x 1680 x 1664 mm)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Weir height
+                    </td>
+                    <td>
+                    41<sup>3</sup>&frasl;<sub>16</sub> in. (1046 mm)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Dry weight
+                    </td>
+                    <td>
+                    5,300 lb (2404 kg)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Basket angle
+                    </td>
+                    <td>
+                    Adjustable -5&deg; to +3&deg;
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Deck angle
+                    </td>
+                    <td>
+                    0&deg;, +5&deg;, +5&deg;, +5&deg;
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Screening area
+                    </td>
+                    <td>
+                    33.4 ft<sup>2</sup> (3.1m<sup>2</sup>)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Screen type (qty 4)
+                    </td>
+                    <td>
+                    Pretensioned, Repairable
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Motor type (qty 2)
+                    </td>
+                    <td>
+                    Vibratory Canister Motors
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Drive motor
+                    </td>
+                    <td>
+                    <ul>
+                        <li>
+                        2.5 hp (1.9 kW) each - Standard</li>
+                        <li>
+                        3.5 hp (2.6 kW) each - Optional</li>
+                    </ul>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Vibration motion
+                    </td>
+                    <td>
+                    Linear or Dual
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Optional certifications
+                    </td>
+                    <td>
+                    ATEX Zone 1, CE Ex II 2 G c IIB T4 Gb; Ta -20 to +40/55 &deg;C
+                    <ul>
+                        <li>No CGC: Ta -20 to +55 &deg;C</li>
+                        <li>CGC: Ta -20 to +40 &deg;C</li>
+                    </ul>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <style>
+            .J6-product-table__container ul {
+            padding-left: 1em;
+            list-style-type: disc;
+            }
+            .J6-product-table__container li {
+            list-style-type: inherit;
+            }
+        </style>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a0864193-664a-4a58-ac29-d1b855eb79a9"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: KING COBRA HYBRID Shale Shaker Specifications
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190617T135714Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190617T135832Z

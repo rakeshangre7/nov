@@ -1,0 +1,833 @@
+﻿---
+ID: "50793f33-8682-44a2-8322-4fa5f3585785"
+Parent: "8e2ed3e2-8a71-4636-804f-c4e84e6f7567"
+Template: "5030864f-eb96-4da7-a417-e5a0108c59f8"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/CAPS/Intervention and Stimulation Equipment/Pump Power Ends/NP1600/J6 Product Table
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190426T083354Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticljensen
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\verticljensen
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td style="width: 105px;">
+                    <p><strong>Cold-end diameter</strong></p>
+                    </td>
+                    <td style="width: 130px;">
+                    <p>2 in. (5.08 cm)</p>
+                    </td>
+                    <td style="width: 110px;">
+                    <p>2.5 in. (6.35 cm)</p>
+                    </td>
+                    <td style="width: 110px;">
+                    <p>2.875 in. (7.303 cm)</p>
+                    </td>
+                    <td style="width: 93px;">
+                    <p>3 in. (7.62 cm)</p>
+                    </td>
+                    <td style="width: 93px;">
+                    <p>3.25 in. (8.255 cm)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 105px;">
+                    <p>Number of pistons</p>
+                    </td>
+                    <td colspan="5" style="width: 537px;">
+                    <p>5</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 105px;">
+                    <p>Stroke length</p>
+                    </td>
+                    <td colspan="5" style="width: 537px;">
+                    <p>2.25 in. (5.72 cm)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 105px;">
+                    <p>Weight without cold ends and lube oil</p>
+                    </td>
+                    <td colspan="5" style="width: 537px;">
+                    <p>*5,000 in. (2,268 cm)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 105px;">
+                    <p>Length</p>
+                    </td>
+                    <td colspan="5" style="width: 537px;">
+                    <p>70 in. (177.80 cm)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 105px;">
+                    <p>Width</p>
+                    </td>
+                    <td colspan="5" style="width: 537px;">
+                    <p>40.5 in. (102.87 cm)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 105px;">
+                    <p>Height</p>
+                    </td>
+                    <td colspan="5" style="width: 537px;">
+                    <p>39 in. (99.06 cm)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 105px;">
+                    <p>Gearbox</p>
+                    </td>
+                    <td colspan="5" style="width: 537px;">
+                    <p>Standard</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 105px;">
+                    <p>Maximum RPM</p>
+                    </td>
+                    <td colspan="5" style="width: 537px;">
+                    <p>900</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="4" style="width: 456px;">
+                    <p>Operation characteristics at 90% volumetric</p>
+                    </td>
+                    <td style="width: 93px;">
+                    <p>&nbsp;</p>
+                    </td>
+                    <td style="width: 93px;">
+                    <p>&nbsp;</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 105px;">
+                    <p>Maximum flow</p>
+                    </td>
+                    <td style="width: 130px;">
+                    <p>124 gpm (469 L/min)</p>
+                    </td>
+                    <td style="width: 110px;">
+                    <p>193 gpm (733 L/min)</p>
+                    </td>
+                    <td style="width: 110px;">
+                    <p>255 gpm (969 L/min)</p>
+                    </td>
+                    <td style="width: 93px;">
+                    <p>279 gpm (1,055 L/min)</p>
+                    </td>
+                    <td style="width: 93px;">
+                    <p>327 gpm (1,238 L/min)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 105px;">
+                    <p>Maximum flow</p>
+                    </td>
+                    <td style="width: 130px;">
+                    <p>692,000 SCFH (19,600 m<sup>3</sup>/hr)</p>
+                    </td>
+                    <td style="width: 110px;">
+                    <p>1,082,000 SCFH (30,600 m<sup>3</sup>/hr)</p>
+                    </td>
+                    <td style="width: 110px;">
+                    <p>1,431,000 SCFH (40,500 m<sup>3</sup>/hr)</p>
+                    </td>
+                    <td style="width: 93px;">
+                    <p>1,558,000 SCFH (44,100 m<sup>3</sup>/hr)</p>
+                    </td>
+                    <td style="width: 93px;">
+                    <p>1,828,000 SCFH (51,700 m<sup>3</sup>/hr)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 105px;">
+                    <p>Maximum pressure</p>
+                    </td>
+                    <td style="width: 130px;">
+                    <p>15,000 psi (103 MPa)</p>
+                    </td>
+                    <td style="width: 110px;">
+                    <p>15,000 psi (103 MPa)</p>
+                    </td>
+                    <td style="width: 110px;">
+                    <p>11,200 psi (77 MPa)</p>
+                    </td>
+                    <td style="width: 93px;">
+                    <p>10,000 psi (69 MPa)</p>
+                    </td>
+                    <td style="width: 93px;">
+                    <p>8,800 psi (61 MPa)</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3ccac3c8-8513-4418-ae16-ede8a5fd2e01"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: "NP-1600 Liquid Nitrogen Quintuplex Pump Specifications"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\verticljensen
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190426T083618Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190426T083756Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticljensen
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\verticljensen
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td style="width: 105px;">
+                    <p><strong>Cold-end diameter</strong></p>
+                    </td>
+                    <td style="width: 130px;">
+                    <p>2 in. (5.08 cm)</p>
+                    </td>
+                    <td style="width: 110px;">
+                    <p>2.5 in. (6.35 cm)</p>
+                    </td>
+                    <td style="width: 110px;">
+                    <p>2.875 in. (7.303 cm)</p>
+                    </td>
+                    <td style="width: 93px;">
+                    <p>3 in. (7.62 cm)</p>
+                    </td>
+                    <td style="width: 93px;">
+                    <p>3.25 in. (8.255 cm)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 105px;">
+                    <p>Number of pistons</p>
+                    </td>
+                    <td colspan="5" style="width: 537px;">
+                    <p>5</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 105px;">
+                    <p>Stroke length</p>
+                    </td>
+                    <td colspan="5" style="width: 537px;">
+                    <p>2.25 in. (5.72 cm)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 105px;">
+                    <p>Weight without cold ends and lube oil</p>
+                    </td>
+                    <td colspan="5" style="width: 537px;">
+                    <p>*5,000 in. (2,268 cm)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 105px;">
+                    <p>Length</p>
+                    </td>
+                    <td colspan="5" style="width: 537px;">
+                    <p>70 in. (177.80 cm)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 105px;">
+                    <p>Width</p>
+                    </td>
+                    <td colspan="5" style="width: 537px;">
+                    <p>40.5 in. (102.87 cm)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 105px;">
+                    <p>Height</p>
+                    </td>
+                    <td colspan="5" style="width: 537px;">
+                    <p>39 in. (99.06 cm)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 105px;">
+                    <p>Gearbox</p>
+                    </td>
+                    <td colspan="5" style="width: 537px;">
+                    <p>Standard</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 105px;">
+                    <p>Maximum RPM</p>
+                    </td>
+                    <td colspan="5" style="width: 537px;">
+                    <p>900</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="4" style="width: 456px;">
+                    <p>Operation characteristics at 90% volumetric</p>
+                    </td>
+                    <td style="width: 93px;">
+                    <p>&nbsp;</p>
+                    </td>
+                    <td style="width: 93px;">
+                    <p>&nbsp;</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 105px;">
+                    <p>Maximum flow</p>
+                    </td>
+                    <td style="width: 130px;">
+                    <p>124 gpm (469 L/min)</p>
+                    </td>
+                    <td style="width: 110px;">
+                    <p>193 gpm (733 L/min)</p>
+                    </td>
+                    <td style="width: 110px;">
+                    <p>255 gpm (969 L/min)</p>
+                    </td>
+                    <td style="width: 93px;">
+                    <p>279 gpm (1,055 L/min)</p>
+                    </td>
+                    <td style="width: 93px;">
+                    <p>327 gpm (1,238 L/min)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 105px;">
+                    <p>Maximum flow</p>
+                    </td>
+                    <td style="width: 130px;">
+                    <p>692,000 SCFH (19,600 m<sup>3</sup>/hr)</p>
+                    </td>
+                    <td style="width: 110px;">
+                    <p>1,082,000 SCFH (30,600 m<sup>3</sup>/hr)</p>
+                    </td>
+                    <td style="width: 110px;">
+                    <p>1,431,000 SCFH (40,500 m<sup>3</sup>/hr)</p>
+                    </td>
+                    <td style="width: 93px;">
+                    <p>1,558,000 SCFH (44,100 m<sup>3</sup>/hr)</p>
+                    </td>
+                    <td style="width: 93px;">
+                    <p>1,828,000 SCFH (51,700 m<sup>3</sup>/hr)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 105px;">
+                    <p>Maximum pressure</p>
+                    </td>
+                    <td style="width: 130px;">
+                    <p>15,000 psi (103 MPa)</p>
+                    </td>
+                    <td style="width: 110px;">
+                    <p>15,000 psi (103 MPa)</p>
+                    </td>
+                    <td style="width: 110px;">
+                    <p>11,200 psi (77 MPa)</p>
+                    </td>
+                    <td style="width: 93px;">
+                    <p>10,000 psi (69 MPa)</p>
+                    </td>
+                    <td style="width: 93px;">
+                    <p>8,800 psi (61 MPa)</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a357e6d7-8379-4412-8c9a-0a304564b356"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: "NP-1600 Liquid Nitrogen Quintuplex Pump Specifications"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\verticljensen
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190426T083756Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190426T083806Z
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190530T214030Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticljensen
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table style="width: 808px;">
+            <tbody>
+                <tr>
+                    <td style="width: 127px;">
+                    <p><strong>Cold-end diameter</strong></p>
+                    </td>
+                    <td style="width: 136px;">
+                    <p><strong>2 in. (5.08 cm)</strong></p>
+                    </td>
+                    <td style="width: 136px;">
+                    <p><strong>2.5 in. (6.35 cm)</strong></p>
+                    </td>
+                    <td style="width: 136px;">
+                    <p><strong>2.875 in. (7.303 cm)</strong></p>
+                    </td>
+                    <td style="width: 136px;">
+                    <p><strong>3 in. (7.62 cm)</strong></p>
+                    </td>
+                    <td style="width: 136px;">
+                    <p><strong>3.25 in. (8.255 cm)</strong></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 127px;">
+                    <p>Number of pistons</p>
+                    </td>
+                    <td style="width: 680px;" colspan="5">
+                    <p>5</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 127px;">
+                    <p>Stroke length</p>
+                    </td>
+                    <td style="width: 680px;" colspan="5">
+                    <p>2.25 in. (5.72 cm)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 127px;">
+                    <p>Weight without cold ends and lube oil</p>
+                    </td>
+                    <td style="width: 680px;" colspan="5">
+                    <p>*5,000 in. (2,268 cm)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 127px;">
+                    <p>Length</p>
+                    </td>
+                    <td style="width: 680px;" colspan="5">
+                    <p>70 in. (177.80 cm)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 127px;">
+                    <p>Width</p>
+                    </td>
+                    <td style="width: 680px;" colspan="5">
+                    <p>40.5 in. (102.87 cm)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 127px;">
+                    <p>Height</p>
+                    </td>
+                    <td style="width: 680px;" colspan="5">
+                    <p>39 in. (99.06 cm)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 127px;">
+                    <p>Gearbox</p>
+                    </td>
+                    <td style="width: 680px;" colspan="5">
+                    <p>Standard</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 127px;">
+                    <p>Maximum RPM</p>
+                    </td>
+                    <td style="width: 680px;" colspan="5">
+                    <p>900</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p>&nbsp;</p>
+        <h5>Operation characteristics at 90% volumetric</h5>
+        <table style="width: 808px;">
+            <tbody>
+                <tr>
+                    <td style="width: 127px;">
+                    <p><strong>Cold-end diameter</strong></p>
+                    </td>
+                    <td style="width: 139px;">
+                    <p><strong>2 in. (5.08 cm)</strong></p>
+                    </td>
+                    <td style="width: 135px;">
+                    <p><strong>2.5 in. (6.35 cm)</strong></p>
+                    </td>
+                    <td style="width: 136px;">
+                    <p><strong>2.875 in. (7.303 cm)</strong></p>
+                    </td>
+                    <td style="width: 134px;">
+                    <p><strong>3 in. (7.62 cm)</strong></p>
+                    </td>
+                    <td style="width: 136px;">
+                    <p><strong>3.25 in. (8.255 cm)</strong></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 127px;">
+                    <p>Maximum flow</p>
+                    </td>
+                    <td style="width: 139px;">
+                    <p>124 gpm (469 L/min)</p>
+                    </td>
+                    <td style="width: 135px;">
+                    <p>193 gpm (733 L/min)</p>
+                    </td>
+                    <td style="width: 136px;">
+                    <p>255 gpm (969 L/min)</p>
+                    </td>
+                    <td style="width: 134px;">
+                    <p>279 gpm (1,055 L/min)</p>
+                    </td>
+                    <td style="width: 136px;">
+                    <p>327 gpm (1,238 L/min)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 127px;">
+                    <p>Maximum flow</p>
+                    </td>
+                    <td style="width: 139px;">
+                    <p>692,000 SCFH (19,600 m<sup>3</sup>/hr)</p>
+                    </td>
+                    <td style="width: 135px;">
+                    <p>1,082,000 SCFH (30,600 m<sup>3</sup>/hr)</p>
+                    </td>
+                    <td style="width: 136px;">
+                    <p>1,431,000 SCFH (40,500 m<sup>3</sup>/hr)</p>
+                    </td>
+                    <td style="width: 134px;">
+                    <p>1,558,000 SCFH (44,100 m<sup>3</sup>/hr)</p>
+                    </td>
+                    <td style="width: 136px;">
+                    <p>1,828,000 SCFH (51,700 m<sup>3</sup>/hr)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 127px;">
+                    <p>Maximum pressure</p>
+                    </td>
+                    <td style="width: 139px;">
+                    <p>15,000 psi (103 MPa)</p>
+                    </td>
+                    <td style="width: 135px;">
+                    <p>15,000 psi (103 MPa)</p>
+                    </td>
+                    <td style="width: 136px;">
+                    <p>11,200 psi (77 MPa)</p>
+                    </td>
+                    <td style="width: 134px;">
+                    <p>10,000 psi (69 MPa)</p>
+                    </td>
+                    <td style="width: 136px;">
+                    <p>8,800 psi (61 MPa)</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "48e2bbfb-9f7a-4623-abaf-9e40be873990"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: "NP-1600 Liquid Nitrogen Quintuplex Pump Specifications"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190530T214030Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190530T214200Z
+  - Version: 4
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190710T155909Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticljensen
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td><strong>Cold-end diameter</strong></td>
+                    <td><strong>2 in. (5.08 cm)</strong></td>
+                    <td><strong>2.5 in. (6.35 cm)</strong></td>
+                    <td><strong>2.875 in. (7.303 cm)</strong></td>
+                    <td><strong>3 in. (7.62 cm)</strong></td>
+                    <td><strong>3.25 in. (8.255 cm)</strong></td>
+                </tr>
+                <tr>
+                    <td>Number of pistons</td>
+                    <td colspan="5">5</td>
+                </tr>
+                <tr>
+                    <td>Stroke length</td>
+                    <td colspan="5">2.25 in. (5.72 cm)</td>
+                </tr>
+                <tr>
+                    <td>Weight without cold ends and lube oil</td>
+                    <td colspan="5">*5,000 in. (2,268 cm)</td>
+                </tr>
+                <tr>
+                    <td>Length</td>
+                    <td colspan="5">70 in. (177.80 cm)</td>
+                </tr>
+                <tr>
+                    <td>Width</td>
+                    <td colspan="5">40.5 in. (102.87 cm)</td>
+                </tr>
+                <tr>
+                    <td>Height</td>
+                    <td colspan="5">39 in. (99.06 cm)</td>
+                </tr>
+                <tr>
+                    <td>Gearbox</td>
+                    <td colspan="5">Standard</td>
+                </tr>
+                <tr>
+                    <td>Maximum RPM</td>
+                    <td colspan="5">900</td>
+                </tr>
+                <tr>
+                    <td colspan="6"><strong>Operation characteristics at 90% volumetric</strong></td>
+                </tr>
+                <tr>
+                    <td>Maximum flow</td>
+                    <td>124 gpm (469 L/min)</td>
+                    <td>193 gpm (733 L/min)</td>
+                    <td>255 gpm (969 L/min)</td>
+                    <td>279 gpm (1,055 L/min)</td>
+                    <td>327 gpm (1,238 L/min)</td>
+                </tr>
+                <tr>
+                    <td>Maximum flow</td>
+                    <td>692,000 SCFH (19,600 m<sup>3</sup>/hr)</td>
+                    <td>1,082,000 SCFH (30,600 m<sup>3</sup>/hr)</td>
+                    <td>1,431,000 SCFH (40,500 m<sup>3</sup>/hr)</td>
+                    <td>1,558,000 SCFH (44,100 m<sup>3</sup>/hr)</td>
+                    <td>1,828,000 SCFH (51,700 m<sup>3</sup>/hr)</td>
+                </tr>
+                <tr>
+                    <td>Maximum pressure</td>
+                    <td>15,000 psi (103 MPa)</td>
+                    <td>15,000 psi (103 MPa)</td>
+                    <td>11,200 psi (77 MPa)</td>
+                    <td>10,000 psi (69 MPa)</td>
+                    <td>8,800 psi (61 MPa)</td>
+                </tr>
+            </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b94573ba-2359-4f6b-b20e-59161b8449be"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: "NP-1600 Liquid Nitrogen Quintuplex Pump Specifications"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190710T155909Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190710T155933Z
+  - Version: 5
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190813T210909Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticljensen
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td><strong>Cold-end diameter</strong></td>
+                    <td><strong>2 in. (5.08 cm)</strong></td>
+                    <td><strong>2.5 in. (6.35 cm)</strong></td>
+                    <td><strong>2.875 in. (7.303 cm)</strong></td>
+                    <td><strong>3 in. (7.62 cm)</strong></td>
+                    <td><strong>3.25 in. (8.255 cm)</strong></td>
+                </tr>
+                <tr>
+                    <td>Number of pistons</td>
+                    <td colspan="5">5</td>
+                </tr>
+                <tr>
+                    <td>Stroke length</td>
+                    <td colspan="5">2.25 in. (5.72 cm)</td>
+                </tr>
+                <tr>
+                    <td>Weight without cold ends and lube oil</td>
+                    <td colspan="5">*5,000 in. (2,268 cm)</td>
+                </tr>
+                <tr>
+                    <td>Length</td>
+                    <td colspan="5">70 in. (177.80 cm)</td>
+                </tr>
+                <tr>
+                    <td>Width</td>
+                    <td colspan="5">40.5 in. (102.87 cm)</td>
+                </tr>
+                <tr>
+                    <td>Height</td>
+                    <td colspan="5">39 in. (99.06 cm)</td>
+                </tr>
+                <tr>
+                    <td>Gearbox</td>
+                    <td colspan="5">Standard</td>
+                </tr>
+                <tr>
+                    <td>Maximum RPM</td>
+                    <td colspan="5">900</td>
+                </tr>
+                <tr>
+                    <td colspan="6"><strong>Operation characteristics at 90% volumetric</strong></td>
+                </tr>
+                <tr>
+                    <td>Maximum flow</td>
+                    <td>124 gal/min&nbsp;(469 L/min)</td>
+                    <td>193 gal/min&nbsp;(733 L/min)</td>
+                    <td>255 gal/min&nbsp;(969 L/min)</td>
+                    <td>279 gal/min&nbsp;(1055 L/min)</td>
+                    <td>327 gal/min&nbsp;(1238 L/min)</td>
+                </tr>
+                <tr>
+                    <td>Maximum flow</td>
+                    <td>692,000 SCFH (19 600 m<sup>3</sup>/hr)</td>
+                    <td>1,082,000 SCFH (30 600 m<sup>3</sup>/hr)</td>
+                    <td>1,431,000 SCFH (40 500 m<sup>3</sup>/hr)</td>
+                    <td>1,558,000 SCFH (44 100 m<sup>3</sup>/hr)</td>
+                    <td>1,828,000 SCFH (51 700 m<sup>3</sup>/hr)</td>
+                </tr>
+                <tr>
+                    <td>Maximum pressure</td>
+                    <td>15,000 psi (103 MPa)</td>
+                    <td>15,000 psi (103 MPa)</td>
+                    <td>11,200 psi (77 MPa)</td>
+                    <td>10,000 psi (69 MPa)</td>
+                    <td>8,800 psi (61 MPa)</td>
+                </tr>
+            </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f6c7aa57-413d-47cb-a6d3-993066daff0b"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: "NP-1600 Liquid Nitrogen Quintuplex Pump Specifications"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190813T210909Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190813T211017Z

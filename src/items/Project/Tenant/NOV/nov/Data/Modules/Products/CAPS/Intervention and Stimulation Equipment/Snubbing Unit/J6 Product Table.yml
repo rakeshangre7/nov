@@ -1,0 +1,194 @@
+﻿---
+ID: "3affabd0-0e5a-4819-a180-c31c6fd7cf74"
+Parent: "e2754d2e-9637-41ec-a260-18bee39b0395"
+Template: "5030864f-eb96-4da7-a417-e5a0108c59f8"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/CAPS/Intervention and Stimulation Equipment/Snubbing Unit/J6 Product Table
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190313T200947Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticljensen
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\verticljensen
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td>
+                    <p>Data Performance</p>
+                    </td>
+                    <td>
+                    <p>Model HRS 150</p>
+                    </td>
+                    <td>
+                    <p>Model HRS 225</p>
+                    </td>
+                    <td>
+                    <p>Model HRS 340</p>
+                    </td>
+                    <td>
+                    <p>Model HRS 460</p>
+                    </td>
+                    <td>
+                    <p>Model HRS 600</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Max. pulling capacity</p>
+                    </td>
+                    <td>
+                    <p>150,000 lbs</p>
+                    </td>
+                    <td>
+                    <p>225,000 lbs</p>
+                    </td>
+                    <td>
+                    <p>340,000 lbs</p>
+                    </td>
+                    <td>
+                    <p>460,000 lbs</p>
+                    </td>
+                    <td>
+                    <p>600,000 lbs</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Max. snubbing capacity</p>
+                    </td>
+                    <td>
+                    <p>66,000 lbs&nbsp;</p>
+                    </td>
+                    <td>
+                    <p>120,000 lbs</p>
+                    </td>
+                    <td>
+                    <p>188,000 lbs</p>
+                    </td>
+                    <td>
+                    <p>220,000 lbs</p>
+                    </td>
+                    <td>
+                    <p>260,000 lbs</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Horsepower</p>
+                    </td>
+                    <td>
+                    <p>230</p>
+                    </td>
+                    <td>
+                    <p>305</p>
+                    </td>
+                    <td>
+                    <p>305</p>
+                    </td>
+                    <td>
+                    <p>280</p>
+                    </td>
+                    <td>
+                    <p>380</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Tubing size range</p>
+                    </td>
+                    <td>
+                    <p>1&ndash;2⅞ in.</p>
+                    </td>
+                    <td>
+                    <p>1&ndash;5&frac12; in.</p>
+                    </td>
+                    <td>
+                    <p>1&ndash;7⅝ in.</p>
+                    </td>
+                    <td>
+                    <p>1&ndash;8⅝ in.</p>
+                    </td>
+                    <td>
+                    <p>1&ndash;8⅝ in.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Standard rotary torque</p>
+                    </td>
+                    <td>
+                    <p>5,000 ft/lbs</p>
+                    </td>
+                    <td>
+                    <p>5,000 ft/lbs</p>
+                    </td>
+                    <td>
+                    <p>10,000 ft/lbs</p>
+                    </td>
+                    <td>
+                    <p>10,000 ft/lbs</p>
+                    </td>
+                    <td>
+                    <p>20,000 ft/lbs</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Standard stroke</p>
+                    </td>
+                    <td>
+                    <p>10 ft</p>
+                    </td>
+                    <td>
+                    <p>10 ft</p>
+                    </td>
+                    <td>
+                    <p>10 ft</p>
+                    </td>
+                    <td>
+                    <p>10 ft</p>
+                    </td>
+                    <td>
+                    <p>14 ft</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "845d0e08-8007-402b-afef-b4e499402c79"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: Snubbing Unit Specifications
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\verticljensen
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190325T211908Z

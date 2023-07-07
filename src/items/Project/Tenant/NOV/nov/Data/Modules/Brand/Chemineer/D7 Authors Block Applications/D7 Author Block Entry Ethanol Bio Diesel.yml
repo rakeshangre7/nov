@@ -1,0 +1,92 @@
+﻿---
+ID: "e5ad2be8-d34a-4a63-98f1-c04855ba1b5e"
+Parent: "e6c0ea60-5365-4d76-a05b-b4f05557ad5c"
+Template: "f83d9c61-6488-4a85-a988-1338257534e8"
+Path: /sitecore/content/nov/nov/Data/Modules/Brand/Chemineer/D7 Authors Block Applications/D7 Author Block Entry Ethanol Bio Diesel
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210921T160446Z
+    - ID: "3daeba35-b5c3-46cb-a587-bd8431066769"
+      Hint: jobTitle
+      Value: 
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{8B87E652-E3F7-4C54-BDD9-66E1B888FF8B}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6d17b048-b2bb-4476-82cc-67ae822bda5c"
+    - ID: "95e7dbea-d495-4414-aa9e-4ce9425d16eb"
+      Hint: authorName
+      Value: Ethanol / Bio Diesel
+    - ID: "ae98adc0-112a-4fd9-9103-1075d3bb9555"
+      Hint: bio
+      Value: |
+        <p>Ethanol can be produced from a variety of raw materials such as corn, sugar cane, soy beans, switchgrass, corn
+            stover, and cellulosic materials. Corn can be processed in a dry or wet mill to produce ethanol.
+            Advances and research in ethanol continues to find new and more energy efficient ways to produce ethanol and
+            biofuels and new raw materials for production.</p>
+        <p>Methyl esters, or biodiesel, uses vegetable oils or animal fats instead of petroleum as the basis for diesel
+            fuel. These oils and fats go through a transesterification process with alcohol, catalyst, and feed oils which
+            include sunflower, soybean, peanut, rapeseed, fish, and palm. Biodiesel fuels must meet ASTM D6 to be used in
+            diesel engines.</p>
+        <p>Chemineer agitators and Kenics static mixers are utilized throughout all of the ethanol and biodiesel production
+            processes. High efficiency impellers and lower pressure drop static mixers help reduce the energy
+            footprint. Research and development initiatives in ethanol and biodiesel processing usually start with a small
+            pilot scale analysis. Chemineer Application Engineers can assist with laboratory and pilot plant agitator and
+            mixer designs, then follow with scale up to production facilities. </p>
+        <h3>Ethanol Applications</h3>
+        <ul>
+            <li>Mash Slurry</li>
+            <li>Mash Cooker</li>
+            <li>Conversion Tank</li>
+            <li>Saccharification Tank</li>
+            <li>Flash Tanks</li>
+            <li>Stillage (Thin, Intermediate, Whole)</li>
+            <li>Prefermenter/Fermenters</li>
+            <li>Beer Well</li>
+            <li>pH Adjust</li>
+            <li>Alpha Amylase</li>
+            <li>AMG Enzyme</li>
+            <li>Cellulosic Ethanol</li>
+        </ul>
+        <h3>Bio Diesel Applications</h3>
+        <ul>
+            <li>Degumming</li>
+            <li>Neutralization</li>
+            <li>Wet Soap Storage</li>
+            <li>Glycerine Processing</li>
+            <li>Oil Storage</li>
+            <li>Blend Tanks</li>
+            <li>Alcohol Storage</li>
+            <li>Methanol Recovery</li>
+            <li>Bleaching</li>
+            <li>Transesterification Reaction</li>
+            <li>Washing</li>
+        </ul>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210921T160502Z

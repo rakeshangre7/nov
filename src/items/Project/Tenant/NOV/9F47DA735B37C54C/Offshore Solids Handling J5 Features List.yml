@@ -1,0 +1,55 @@
+﻿---
+ID: "9215d08e-364d-4771-bb8e-cde433d65ce4"
+Parent: "be42ab16-6e08-4566-8ff1-f9ccfde64b0e"
+Template: "c0aa2bad-85b9-47e4-a236-901c3115fb87"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/CAPS/Process and Flow Technologies/Offshore Solids Handling/Offshore Solids Handling J5 Features List
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190816T161936Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{40251B7D-FBE3-4A0E-8947-D4B4FE8CD782}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\charisgamroth
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9b4b1c85-f183-4598-8238-ec0d212a8373"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: |
+        <p>Don&rsquo;t let the reliability of sand and waste solids equipment get in the way of your production. Our field-proven technologies integrate seamlessly, taking unwanted solids from production to disposal.</p>
+        <p>Whether you need upstream removal to protect equipment, tolerance in the production process, or protection for your reservoir from pore blocking, our sand-handling technologies remove the solids from your production fluids. We don&rsquo;t just supply the equipment, we also ensure you get the process you need. Our Tore&trade; fluidization device and proprietary separation cyclones are just some of the technologies that guarantee reliable and efficient operation. All our products are backed by an expert engineering team, lean manufacturing and fabrication facilities, and a comprehensive network of service and aftermarket technicians. We deliver sand-handling equipment to hundreds of projects and have more than 5,000 Tore devices in operation worldwide:</p>
+        <ul>
+            <li>Wellhead desanding</li>
+            <li>Online vessel desanding</li>
+            <li>Produced water desanding</li>
+            <li>Sand cleaning</li>
+            <li>Multiphase desanding</li>
+            <li>Solids/slurry transportation</li>
+            <li>Erosive service choke valves</li>
+        </ul>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190816T163252Z

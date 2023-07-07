@@ -1,0 +1,249 @@
+﻿---
+ID: "a96cac4e-c5a0-474e-8338-1b92206ca88d"
+Parent: "4cf2f6e2-bfa0-4bb8-9911-488771374b7a"
+Template: "c0aa2bad-85b9-47e4-a236-901c3115fb87"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/WBT/Downhole/AgitatorHE On Demand System/AgitatorHE OnDemand System J5 Features List
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200113T151453Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "443b76eb-a2d1-4050-b1d5-fc06c8737bee"
+      Hint: column3List
+      Value: |
+        <ul>
+            <li>Efficient weight transfer</li>
+            <li>Improved drilling efficiency rotating and sliding</li>
+            <li>Reduction of stick/slip and torsional vibration with RSS BHAs</li>
+            <li>Minimized friction losses</li>
+            <li>Maintains ROP in long lateral sections (10,000&ndash;20,000 ft laterals)</li>
+            <li>Increases ROP on curve and lateral sections</li>
+            <li>Reduces torque and drag</li>
+            <li>Consistent weight transfer and torque response</li>
+            <li>Performance increase with same drilling parameters</li>
+            <li>Minimize hanging issues in vertical applications</li>
+            <li>Helps to reach TD every time</li>
+        </ul>
+    - ID: "4d669ee9-9ff5-4c31-a025-56035d1727a1"
+      Hint: column1Headline
+      Value: Benefits
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\charisgamroth
+    - ID: "592042cb-e14f-4127-8f6b-3f25c3759c8e"
+      Hint: column2List
+      Value: |
+        <ul>
+            <li>Lower pressure drop across the tool</li>
+            <li>Less stress on pumping equipment</li>
+            <li>Improved MWD signal decoding with larger bypass ID</li>
+            <li>No high-pressure pulses possibly affecting other BHA/string and rig components</li>
+        </ul>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "79b6230b-39a0-4a28-adf6-9ec3024425c2"
+      Hint: column2Headline
+      Value: "Benefits of non-activated system"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "85415fa6-b83b-44ee-830e-e16f135e531c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: |
+        <p>Our Agitator&trade; tool, the most powerful, reliable, and trusted friction reduction technology on the market with nearly 100,000 runs worldwide, is now able to be activated downhole and on-demand based on application needs and customer preference. With the simple drop of a dart, the Agitator&trade;HE On-Demand system will start gentle axial oscillations to break friction at the exact depth desired by the driller based on well profile demands, casing designs, weight transfer challenges, or directional issues noticed with the opportunity to improve ROPs. </p>
+        <p>The new AgitatorHE On-Demand System design is based on the long-established AgitatorHE technical platform, incorporating many design aspects that bring new operational functionalities to our customers to take the well-known performance, reliability, and product quality to the next level. Our AgitatorHE On-Demand technology provides a step change in the way the drilling crew interacts with the downhole drilling environment and puts the driller in the driver&rsquo;s seat to activate the friction reduction power of the Agitator System when he or she feels is appropriate.</p>
+        <p>With 100% downhole activation success as of December 2019, the AgitatorHE On-Demand technology is empowering our customers to rethink the way they drill their wells.</p>
+    - ID: "cd6306bb-152c-471d-881c-66094f05d557"
+      Hint: column3Headline
+      Value: Benefits of activated system
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200120T214233Z
+    - ID: "f6afec27-750a-4d77-962d-3ce002b623b9"
+      Hint: column1List
+      Value: |
+        <ul>
+            <li>Flexibility to activate the tool as needed</li>
+            <li>Saves costs by eliminating tripping out to include an Agitator system in the string when sliding becomes critical or ROP is low</li>
+            <li>Weight transfer management on demand</li>
+        </ul>
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200428T212111Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "443b76eb-a2d1-4050-b1d5-fc06c8737bee"
+      Hint: column3List
+      Value: |
+        <ul>
+            <li>Efficient weight transfer</li>
+            <li>Improved drilling efficiency rotating and sliding</li>
+            <li>Reduction of stick/slip and torsional vibration with RSS BHAs</li>
+            <li>Minimized friction losses</li>
+            <li>Maintains ROP in long lateral sections (10,000&ndash;20,000 ft laterals)</li>
+            <li>Increases ROP in curve and lateral sections</li>
+            <li>Reduces torque and drag</li>
+            <li>Consistent weight transfer and torque response</li>
+            <li>Performance increase with same drilling parameters</li>
+            <li>Minimize hanging issues in vertical applications</li>
+            <li>Helps to reach TD every time</li>
+        </ul>
+    - ID: "4d669ee9-9ff5-4c31-a025-56035d1727a1"
+      Hint: column1Headline
+      Value: Benefits
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\charisgamroth
+    - ID: "592042cb-e14f-4127-8f6b-3f25c3759c8e"
+      Hint: column2List
+      Value: |
+        <ul>
+            <li>Lower pressure drop across the tool</li>
+            <li>Less stress on pumping equipment</li>
+            <li>Improved MWD signal decoding with larger bypass ID</li>
+            <li>No high-pressure pulses possibly affecting other BHA/string and rig components</li>
+        </ul>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "79b6230b-39a0-4a28-adf6-9ec3024425c2"
+      Hint: column2Headline
+      Value: "Benefits of non-activated system"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c0b28d54-a5a8-478f-9879-851ea202c485"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: |
+        <p>Our Agitator™ tool, the most powerful, reliable, and trusted friction reduction technology on the market with nearly 100,000 runs worldwide, is now able to be activated downhole and on-demand based on application needs and customer preference. With the simple drop of a dart, the Agitator™HE On-Demand system will start gentle axial oscillations to break friction at the exact depth desired by the driller based on well profile demands, casing designs, weight transfer challenges, or directional issues noticed with the opportunity to improve ROPs. </p>
+        <p>The new AgitatorHE On-Demand System design is based on the long-established AgitatorHE technical platform, incorporating many design aspects that bring new operational functionalities to our customers to take the well-known performance, reliability, and product quality to the next level. Our AgitatorHE On-Demand technology provides a step change in the way the drilling crew interacts with the downhole drilling environment and puts the driller in the driver’s seat to activate the friction reduction power of the Agitator System when he or she feels is appropriate.</p>
+        <p>With 100% downhole activation success as of April 2020, the AgitatorHE On-Demand technology is empowering our customers to rethink the way they drill their wells.</p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200428T212111Z
+    - ID: "cd6306bb-152c-471d-881c-66094f05d557"
+      Hint: column3Headline
+      Value: Benefits of activated system
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200505T222529Z
+    - ID: "f6afec27-750a-4d77-962d-3ce002b623b9"
+      Hint: column1List
+      Value: |
+        <ul>
+            <li>Flexibility to activate the tool as needed</li>
+            <li>Saves costs by eliminating tripping out to include an Agitator system in the string when sliding becomes critical or ROP is low</li>
+            <li>Weight transfer management on demand</li>
+        </ul>
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200706T222120Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "443b76eb-a2d1-4050-b1d5-fc06c8737bee"
+      Hint: column3List
+      Value: |
+        <ul>
+            <li>Efficient weight transfer</li>
+            <li>Improved drilling efficiency rotating and sliding</li>
+            <li>Reduction of stick/slip and torsional vibration with RSS BHAs</li>
+            <li>Minimized friction losses</li>
+            <li>Maintains ROP in long lateral sections (10,000&ndash;20,000 ft laterals)</li>
+            <li>Increases ROP in curve and lateral sections</li>
+            <li>Reduces torque and drag</li>
+            <li>Consistent weight transfer and torque response</li>
+            <li>Performance increase with same drilling parameters</li>
+            <li>Minimize hanging issues in vertical applications</li>
+            <li>Helps to reach TD every time</li>
+        </ul>
+    - ID: "4d669ee9-9ff5-4c31-a025-56035d1727a1"
+      Hint: column1Headline
+      Value: Benefits
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\charisgamroth
+    - ID: "592042cb-e14f-4127-8f6b-3f25c3759c8e"
+      Hint: column2List
+      Value: |
+        <ul>
+            <li>Lower pressure drop across the tool</li>
+            <li>Less stress on pumping equipment</li>
+            <li>Improved MWD signal decoding with larger bypass ID</li>
+            <li>No high-pressure pulses possibly affecting other BHA/string and rig components</li>
+        </ul>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\natalieabel
+    - ID: "79b6230b-39a0-4a28-adf6-9ec3024425c2"
+      Hint: column2Headline
+      Value: "Benefits of non-activated system"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4a3d45ed-a784-4b23-b6a5-4de2344bce39"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\natalieabel
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: |
+        <p>Our Agitator&trade; tool, the most powerful, reliable, and trusted friction reduction technology on the market with nearly 100,000 runs worldwide, is now able to be activated downhole and on-demand based on application needs and customer preference. With the simple drop of a dart, the Agitator&trade;HE On-Demand system will start gentle axial oscillations to break friction at the exact depth desired by the driller based on well profile demands, casing designs, weight transfer challenges, or directional issues noticed with the opportunity to improve ROPs. </p>
+        <p>The new AgitatorHE On-Demand System design is based on the long-established AgitatorHE technical platform, incorporating many design aspects that bring new operational functionalities to our customers to take the well-known performance, reliability, and product quality to the next level. Our AgitatorHE On-Demand technology provides a step change in the way the drilling crew interacts with the downhole drilling environment and puts the driller in the driver&rsquo;s seat to activate the friction reduction power of the Agitator System when he or she feels is appropriate.</p>
+        <p>With 100% downhole activation success as of July 2020, the AgitatorHE On-Demand technology is empowering our customers to rethink the way they drill their wells.</p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200706T222120Z
+    - ID: "cd6306bb-152c-471d-881c-66094f05d557"
+      Hint: column3Headline
+      Value: Benefits of activated system
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200706T222523Z
+    - ID: "f6afec27-750a-4d77-962d-3ce002b623b9"
+      Hint: column1List
+      Value: |
+        <ul>
+            <li>Flexibility to activate the tool as needed</li>
+            <li>Saves costs by eliminating tripping out to include an Agitator system in the string when sliding becomes critical or ROP is low</li>
+            <li>Weight transfer management on demand</li>
+        </ul>

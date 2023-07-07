@@ -1,0 +1,61 @@
+﻿---
+ID: "fae545dd-8ae6-4f70-94e7-9bc96917523e"
+Parent: "deb4d696-312b-452f-a0bd-dbfb3e3bf6c5"
+Template: "c0aa2bad-85b9-47e4-a236-901c3115fb87"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/CAPS/Intervention and Stimulation Equipment/Axelson Actuator Accessories/Axelson Actuator Accessories J5 Features List
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200929T194252Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "568893ce-78d3-4eeb-9346-1424a32e9cc7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: |
+        <h2>Lockout caps
+        </h2>
+        <p>Lockout caps are used to lock the safety valve out of service in its open position. During safety system maintenance or wireline operations, the cap is screwed onto the actuator&rsquo;s top cylinder thread. We have two types available&mdash;standard and fusible. A standard one-piece model is supplied with most pneumatic actuators. We also provide a fusible lockout cap designed to melt under extreme heat, which permits the valve to close in the event of a fire, which is available with a release temperature of 400&deg;F (204&deg;C).
+        </p>
+        <h2>Position indicators and stem protectors
+        </h2>
+        <p>
+        Electric valve position indicators complement our line of emergency shutdown valves (ESD) and surface safety valves (SSV) by giving a positive open or closed position as the position indicator stem moves in conjunction with the gate in the valve body. Our indicators are explosion-proof rated for use in extremely hazardous locations (UL Class 1, Division 1, CSA listed).
+        </p>
+        <p>
+        Designed to shield the stem against environmental hazards such as paint, mold, and dust buildup, our Axelson shield protectors improve stem packing longevity and reduce required maintenance. Our stem protectors screw onto the actuator cylinder and are made of clear acrylic so that the stem is visible.
+        </p>
+        <h2>Mechanical reopening assemblies
+        </h2>
+        <p>
+        </p>
+        <p>We have mechanical reopening assembles, or mechanical opening jacks, available where clockwise rotation of the hand-wheel in this unit forces the valve stem down to open the valve. A roller thrust bearing is used to reduce the turning effort, and the threaded opening stem of the unit is not exposed to well fluids. This type of reopening assembly is limited in load and should only be used with differential pressures up to 3,000 psi across the valve. </p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200929T194804Z

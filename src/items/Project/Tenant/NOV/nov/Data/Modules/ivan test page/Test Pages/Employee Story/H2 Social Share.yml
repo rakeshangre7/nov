@@ -1,0 +1,46 @@
+﻿---
+ID: "f3473068-5577-429d-ba70-a18f6c804667"
+Parent: "22652e12-8014-433d-868e-f7e3e49b2a2b"
+Template: "9671df3c-93fb-42e7-ab2f-3026ff0bcfc3"
+Path: /sitecore/content/nov/nov/Data/Modules/ivan test page/Test Pages/Employee Story/H2 Social Share
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 4900
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190110T132702Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mathias
+    - ID: "5cad57f0-87e1-43cc-a775-a66c77891926"
+      Hint: shareIcons
+      Value: |
+        {12495D45-7C50-417E-8F9C-FF37AFF188FA}
+        {A80AAC59-AEB3-4A3B-ADBD-3AFF31942000}
+        {612306ED-B302-412D-AE7B-A61E58917DC0}
+        {88DC154D-FE46-425C-847D-2FE3D9E91E57}
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mathias
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2c171823-fd76-431b-af08-899fd8001e1c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\varalakshmi.md@horizontal.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230706T172011Z
+    - ID: "f0ba5eea-3a6b-4a5c-8968-168920c268ab"
+      Hint: page
+      Value: |
+        <link class="" querystring="" id="{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}" anchor="" target="" title="" linktype="internal" text="Share" url="/NOV Com/Home" />

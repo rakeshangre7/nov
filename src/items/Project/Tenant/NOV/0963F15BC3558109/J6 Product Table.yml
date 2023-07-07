@@ -1,0 +1,251 @@
+﻿---
+ID: "bb3b9fd3-5039-4a35-adb6-d045b1e2f944"
+Parent: "99b6cb06-41db-4b61-9e40-cdfbb8450dd1"
+Template: "5030864f-eb96-4da7-a417-e5a0108c59f8"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/CAPS/Intervention and Stimulation Equipment/Sidewinder Stripper Packer/J6 Product Table
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190318T183547Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticljensen
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\verticljensen
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <p>&nbsp;</p>
+        <table>
+            <tbody>
+                <tr>
+                    <td>
+                    <p>Model&nbsp;</p>
+                    </td>
+                    <td>
+                    <p>Bore&nbsp;</p>
+                    </td>
+                    <td>
+                    <p>Working Pressure&nbsp;</p>
+                    </td>
+                    <td>
+                    <p>Hydraulic Working Pressure</p>
+                    </td>
+                    <td>
+                    <p>Hydraulic Wellbore</p>
+                    </td>
+                    <td>
+                    <p>Weight&nbsp;</p>
+                    </td>
+                    <td>
+                    <p>Height&nbsp;</p>
+                    </td>
+                    <td>
+                    <p>Width</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>DS06&nbsp;</p>
+                    </td>
+                    <td>
+                    <p>4.06 in.</p>
+                    </td>
+                    <td>
+                    <p>15,000 psi&nbsp;</p>
+                    </td>
+                    <td>
+                    <p>3,000 psi&nbsp;</p>
+                    </td>
+                    <td>
+                    <p>8</p>
+                    </td>
+                    <td>
+                    <p>2,390 lb</p>
+                    </td>
+                    <td>
+                    <p>21.09 in.</p>
+                    </td>
+                    <td>
+                    <p>66.03 in.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>DSK6&nbsp;</p>
+                    </td>
+                    <td>
+                    <p>5.12 in.</p>
+                    </td>
+                    <td>
+                    <p>15,000 psi&nbsp;</p>
+                    </td>
+                    <td>
+                    <p>3,000 psi&nbsp;</p>
+                    </td>
+                    <td>
+                    <p>8</p>
+                    </td>
+                    <td>
+                    <p>2,400 lb</p>
+                    </td>
+                    <td>
+                    <p>23.50 in.</p>
+                    </td>
+                    <td>
+                    <p>66.03 in.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c72780a1-1c78-4b85-a89c-502313e77a77"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: Sidewinder Stripper Packer Specifications
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\verticljensen
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190321T143608Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190327T181239Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticljensen
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\verticachang
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <p>&nbsp;</p>
+        <table>
+            <tbody>
+                <tr>
+                    <td>
+                    <p>Model&nbsp;</p>
+                    </td>
+                    <td>
+                    <p>Bore&nbsp;</p>
+                    </td>
+                    <td>
+                    <p>Working Pressure&nbsp;</p>
+                    </td>
+                    <td>
+                    <p>Hydraulic Working Pressure</p>
+                    </td>
+                    <td>
+                    <p>Hydraulic Wellbore</p>
+                    </td>
+                    <td>
+                    <p>Weight&nbsp;</p>
+                    </td>
+                    <td>
+                    <p>Height&nbsp;</p>
+                    </td>
+                    <td>
+                    <p>Width</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>DS06&nbsp;</p>
+                    </td>
+                    <td>
+                    <p>4.06 in.</p>
+                    </td>
+                    <td>
+                    <p>15,000 psi&nbsp;</p>
+                    </td>
+                    <td>
+                    <p>3,000 psi&nbsp;</p>
+                    </td>
+                    <td>
+                    <p>8</p>
+                    </td>
+                    <td>
+                    <p>2,390 lb</p>
+                    </td>
+                    <td>
+                    <p>21.09 in.</p>
+                    </td>
+                    <td>
+                    <p>66.03 in.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>DSK6&nbsp;</p>
+                    </td>
+                    <td>
+                    <p>5.12 in.</p>
+                    </td>
+                    <td>
+                    <p>15,000 psi&nbsp;</p>
+                    </td>
+                    <td>
+                    <p>3,000 psi&nbsp;</p>
+                    </td>
+                    <td>
+                    <p>8</p>
+                    </td>
+                    <td>
+                    <p>2,400 lb</p>
+                    </td>
+                    <td>
+                    <p>23.50 in.</p>
+                    </td>
+                    <td>
+                    <p>66.03 in.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "763058c4-134a-4f0b-bb2a-24b368f8bb02"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: Sidewinder Stripper Packer Specifications
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\verticachang
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190327T181239Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190327T181301Z

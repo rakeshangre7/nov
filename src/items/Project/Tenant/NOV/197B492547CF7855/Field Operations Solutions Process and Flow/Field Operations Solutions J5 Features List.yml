@@ -1,0 +1,70 @@
+﻿---
+ID: "a22eda05-9f7a-4484-8f64-9d3d8a4e979a"
+Parent: "4f01058a-691c-4d47-8f6d-2105ad53476d"
+Template: "c0aa2bad-85b9-47e4-a236-901c3115fb87"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/CAPS/Process and Flow Technologies/Field Operations Solutions Process and Flow/Field Operations Solutions J5 Features List
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190816T154147Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{40251B7D-FBE3-4A0E-8947-D4B4FE8CD782}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\charisgamroth
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d7370512-4401-42e0-a0e0-23aa5e993915"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: |
+        <p>We use our experience as a leading process systems provider to serve operational fields. Available services include a variety of offerings, all aimed at enabling improved operational performance and use of oil and gas infrastructure. The Field Operations Solutions offerings are based on our extensive processing technology expertise within the areas of oil, gas, water, and sand treatment as well as specialized technologies such as hydrate inhibition, monoethylene glycol (MEG) reclamation, and seawater membrane filtration technologies.</p>
+        <h3>Typical Field Operations Solutions offerings in this field include:</h3>
+        <p>
+        <strong>Aftermarket services</strong> &ndash; We serve customers post-delivery with our equipment and systems, including installation supervision, commissioning and start-up support, spare parts supply, preventative maintenance, and operational support and supervision. Aftermarket services are normally provided for NOV-installed base, but we can also provide similar services for processes supplied by others.</p>
+        <p><strong>Healthcare agreement</strong> &ndash; Support through an agreement with NOV allows us to optimize performance, share knowledge, and maintain reliability of the systems. The agreement typically includes operational support, performance review, extended process warranty, training, spare parts management, and regular scheduled follow-up activities at site. A dedicated NOV support team is on call with in-depth knowledge of unit design and operation. This allows for seamless solutions to be provided for process optimization and revamps and extended guarantees of the units if required.
+        </p>
+        <p><strong>Field optimization services</strong> &ndash; Our specialist teams and equipment are used to perform evaluations of processes in operations for debottlenecking operational issues as well as recommend adjustments to processes to optimize operations.
+        </p>
+        <p><strong>Brownfield upgrade and modification deliveries</strong> &ndash; We have extensive experience supplying equipment and systems upgrades to existing fields to enhance performance or enable changes in production profiles, e.g., by enabling tie-ins of new wells. Our unique competence across the processing product lines makes us the ideal partner to identify the right solution to get the most out of existing infrastructure. Such brownfield projects can vary in size, from changing components in the process to supplying new packages and modules to the field.
+        </p>
+        <p><strong>Early production facilities (EPF) </strong>&ndash; As a complete process systems technology provider, we have the expertise to supply and support the operation of complete early production facilities to enable fast production and financial returns while a full-field facility is planned and developed. Together with partners, we can take full responsibility of both development and operation of such facilities, both for onshore and offshore applications.
+        </p>
+        <p><strong>Redeployment</strong> &ndash; We see great opportunities in using existing infrastructure to enable new production, and we work together with asset owners to upgrade such facilities to the requirements for new field developments. Floating production, storage, and offloading (FPSO) unit redeployment is one example of such activities.
+        </p>
+        <p><strong>Process packages rental </strong>&ndash; We can provide most of our wellstream processing technologies as rental options, both through a fleet of common rental-type equipment and packages as well as by an alternative delivery model of specialized systems. Our rental units are supplied with full expert support to operate the units during the rental period, ensuring performance goals are met. Feedback from this operation also qualifies us to provide customers with a permanent solution to match their future operations.
+        </p>
+        <p><strong>Fabrication</strong> &ndash; We have extensive in-house fabrication capabilities and are global specialists in providing processing equipment, packages, and modules. Our efficient execution setup allows us to streamline projects before fabrication. This differentiates us from our competition as fast-track in-house managed delivery projects can be established, meeting the short delivery times required for brownfield and redeployment projects. With our fabrication expertise, we also provide mechanical services to support operators with modifications work at the field location.
+        </p>
+        <p><strong>Process training</strong> &ndash; NOV has established technical and operational training programs to ensure field operations meet the highest performance and safety standards. The programs can be provided in a classroom or remote environment by our expert trainers to enable direct exchange of know-how and field experience to engineers, operators, and maintenance personnel. A comprehensive library of standard, approved training programs has been developed over many years encompassing lessons learned and operational experience. Specialized training programs can also be designed for customers based on their specific needs and knowledge levels.
+        </p>
+        <p><strong>Process laboratory and field testing </strong>&ndash; Technology evaluation and qualification are key for operators and process technology providers. We perform testing work in our unique process test facility in the UK, and we also perform testing in real conditions at the field. Such test and qualification work is performed for NOV proprietary equipment and is offered as a service to operators for third-party equipment.
+        </p>
+        <p><strong>Fluid characterization and chemistry support</strong> &ndash; Our deep understanding of fluid chemistry and behavior through simulations and physical modeling combined with our chemistry expertise allows us to identify and resolve production issues. In addition, we can help production chemists determine the correct dosing of chemicals to avoid scaling and secure plant availability. \</p>
+        <p><strong>Environmental laboratory </strong>&ndash; Determining environmental risk and understanding the regulatory implications of product registration and waste water discharge can be costly challenges. Our environmental services help overcome these challenges through risk assessment of discharges, environmental modeling, ecotoxicology testing for chemical registration, and diverse consulting services related to environmental compliance. These services are offered out of our extensive environmental laboratories in the UK.
+        </p>
+        <p><strong>Digitalization</strong> &ndash; The rise of Big Data is dramatically changing oilfield development and production. In recognition of this shift, we have developed a flexible range of GoConnect&trade; digital service packages. Our packages include a range of services from electrical design, instrumentation, controls, and automation to remote monitoring and automated alerts. NOV&rsquo;s data management platform Max&trade; enables the large-scale collection, aggregation, and analysis of real-time equipment data to improve performance while decreasing maintenance costs across many products and systems. Our digital service offerings deliver more operational clarity and visibility than previously possible, revolutionizing practices such as proactive maintenance and process optimization.</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190816T160143Z

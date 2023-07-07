@@ -1,0 +1,165 @@
+﻿---
+ID: "9a2e7d28-f71a-4b32-a75f-9991acff68d7"
+Parent: "6b968c23-e85d-42b2-9f07-0d6ca2f27be3"
+Template: "5030864f-eb96-4da7-a417-e5a0108c59f8"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/CAPS/Completion Tools/Voyager 15XT OH Packer/Voyager 15XT J6 Product Table
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200128T162639Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "43622441-3846-443d-a588-c8a468673d55"
+      Hint: description
+      Value: "NOTE:  Upper and lower thread connections determined when ordering."
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table style="width: 489.273px; height: 265px;">
+            <tbody>
+                <tr>
+                    <td>Size in. (mm)<br />
+                    </td>
+                    <td>&nbsp;4.500 (114.30)</td>
+                </tr>
+                <tr>
+                    <td>&nbsp;Max. OD in. (mm)</td>
+                    <td>&nbsp;5.560 (141.22)<span> </span></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;Min. OD in. (mm)</td>
+                    <td>&nbsp;3.585 (91.06)<span> </span></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;Length in. (mm)<span> </span></td>
+                    <td>&nbsp;81.300 (2,065.0)</td>
+                </tr>
+                <tr>
+                    <td>&nbsp;Differential pressure rating psi (kPa)</td>
+                    <td>&nbsp;15,000 (103,421)</td>
+                </tr>
+                <tr>
+                    <td>&nbsp;Tensile strength (lbf/kgf)</td>
+                    <td>&nbsp;400,000 (177,929)</td>
+                </tr>
+                <tr>
+                    <td>&nbsp;Temp. rating &deg;F (&deg;C)</td>
+                    <td>&nbsp;350 (177)</td>
+                </tr>
+                <tr>
+                    <td>&nbsp;Hole size in. (mm)</td>
+                    <td>&nbsp;5.875 - 6.125 (149.23 - 155.58)</td>
+                </tr>
+            </tbody>
+        </table>
+        <br />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1fda7ecf-4308-43a2-ae1b-c05b7be40175"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: Voyager 15XT OH Packer Specifications
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200128T163709Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200128T170022Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "43622441-3846-443d-a588-c8a468673d55"
+      Hint: description
+      Value: "NOTE:  Upper and lower thread connections determined when ordering."
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td>Size</td>
+                    <td>4.500&nbsp;in. (114.30 mm)</td>
+                </tr>
+                <tr>
+                    <td>Max. OD</td>
+                    <td>5.560 in. (141.22 mm)</td>
+                </tr>
+                <tr>
+                    <td>Min. ID</td>
+                    <td>3.585&nbsp;in. (91.06 mm)</td>
+                </tr>
+                <tr>
+                    <td>Length</td>
+                    <td>81.300 in. (2,065.0 mm)</td>
+                </tr>
+                <tr>
+                    <td>Differential pressure rating </td>
+                    <td>15,000&nbsp;psi (103,421 kPa)</td>
+                </tr>
+                <tr>
+                    <td>Tensile strength </td>
+                    <td>400,000&nbsp;lbf (177,929 kgf)</td>
+                </tr>
+                <tr>
+                    <td>Temp. rating</td>
+                    <td>350&deg;F (177&deg;C)</td>
+                </tr>
+                <tr>
+                    <td>Hole size </td>
+                    <td>5.875 - 6.125&nbsp;in. (149.23 - 155.58 mm)</td>
+                </tr>
+            </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f1f012c8-73ea-4deb-a6b2-3a1413fa6125"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: Voyager 15XT OH Packer Specifications
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200128T170022Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200212T191627Z

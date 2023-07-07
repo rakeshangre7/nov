@@ -1,0 +1,80 @@
+﻿---
+ID: "59d44cf6-1dfc-4d1f-a1e9-6c9305c87f54"
+Parent: "92f1dcbd-db78-4c42-a75d-69d3329905b4"
+Template: "07c63710-4422-42b9-adb7-67b4bad63607"
+Path: /sitecore/content/nov/nov/Data/Modules/Stories/Injecting Value into Water Treatment Technologies/Injecting Value into Water Treatment Technologies D5 Article Text_3
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "0f10eefb-f9da-4b41-83a0-87900c4e25ed"
+      Hint: body
+      Value: <p>NOV&rsquo;s internal supply chain helped streamline development and delivery of the module, from proof of concept and design to fabrication at our Process and Flow Technologies yard in Batam, Indonesia. The key location of the facility enabled BW Offshore to easily transport the completed module just 31 miles to the FPSO integration yard in Singapore. The facility&rsquo;s proximity to the integration yard minimized handling of the module, which allowed it to be installed directly onto the FPSO, reducing the burden of transporting such large capital equipment. Another critical aspect of this project was that it combined produced water and seawater treatment, which typically take place in two modules, into one module.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190418T140822Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\charisgamroth
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "883a098f-7510-46f3-b6b0-3453b8f29000"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190617T143041Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "0f10eefb-f9da-4b41-83a0-87900c4e25ed"
+      Hint: body
+      Value: |
+        <p>NOV's internal supply chain helped streamline development and delivery of the module, from proof of concept and design to fabrication at our <a href="~/link.aspx?_id=8D395DA652DE4ACB9BCEEB5F67EA1E8A&amp;_z=z">Process and Flow Technologies</a>&nbsp;yard in Batam, Indonesia. The key location of the facility enabled BW Offshore to easily transport the completed module just 31 miles to the FPSO integration yard in Singapore. The facility's proximity to the integration yard minimized handling of the module, which allowed it to be installed directly onto the FPSO, reducing the burden of transporting such large capital equipment. Another critical aspect of this project was that it combined produced water and seawater treatment, which typically take place in two modules, into one module.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190617T143611Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\charisgamroth
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b3c4ffee-1b27-47b4-a671-56a0e338097f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190617T143611Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190617T150426Z

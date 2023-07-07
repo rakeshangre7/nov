@@ -1,0 +1,85 @@
+﻿---
+ID: "0080633b-06f9-4c5b-9aef-64f80965c04a"
+Parent: "707a1c8e-7671-4ea0-b128-f0df29535b13"
+Template: "07c63710-4422-42b9-adb7-67b4bad63607"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/WBT/Downhole/FluidHammer/FluidHammer_D5 Article Text
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "0f10eefb-f9da-4b41-83a0-87900c4e25ed"
+      Hint: body
+      Value: |
+        <h3>FluidHammer Case Study</h3>
+        <p>A major operator in North Africa needed to more cost-effectively drill a challenging 12&frac14;-in. section. To accomplish this, the FluidHammer performance drilling tool was chosen to provide mechanical axial force above the bit. This enhanced the bit&rsquo;s ability to improve rate of penetration (ROP) and reduced friction in the formation. Total depth was reached after drilling 2,703 ft (824 m) with the system active at an average ROP of 137.24 ft/hr (41.83 m/hr). Smooth drilling was experienced throughout the run due to the high-frequency axial oscillation of the FluidHammer tool, which lifts the entire bottomhole assembly (BHA) with each stroke.</p>
+        <p>The FluidHammer tool allowed the operator to save 10 days compared to the section plan. The operator drilled the section 8% faster than the previous record achieved on the prior well and set a new benchmark performance for the entire field. Additionally, the operator achieved their two best cost per meter (CPM) results in this section, reaffirming the FluidHammer tool as an efficient, cost-effective option for increasing performance in difficult formations.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190322T173554Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joannazhu
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "591697ef-7f95-40ee-945e-6a08d5e5bbe9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\joannazhu
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190322T174644Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "0f10eefb-f9da-4b41-83a0-87900c4e25ed"
+      Hint: body
+      Value: |
+        <h3>FluidHammer Case Study</h3>
+        <p>A major operator in North Africa needed to more cost-effectively drill a challenging 12¼-in. section. To accomplish this, the FluidHammer performance drilling tool was chosen to provide mechanical axial force above the bit. This enhanced the bit’s ability to improve rate of penetration (ROP) and reduced friction in the formation. Total depth was reached after drilling 2,703 ft (824 m) with the system active at an average ROP of 137.24 ft/hr (41.83 m/hr). Smooth drilling was experienced throughout the run due to the high-frequency axial oscillation of the FluidHammer tool, which lifts the entire bottomhole assembly (BHA) with each stroke.</p>
+        <p>The FluidHammer tool allowed the operator to save 10 days compared to the section plan. The operator drilled the section 8% faster than the previous record achieved on the prior well and set a new benchmark performance for the entire field. Additionally, the operator achieved their two best cost per meter (CPM) results in this section, reaffirming the FluidHammer tool as an efficient, cost-effective option for increasing performance in difficult formations.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190322T180820Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joannazhu
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "de6881de-7bce-44e1-a426-8fa19a5fd11c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\joannazhu
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190322T180820Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190322T180831Z

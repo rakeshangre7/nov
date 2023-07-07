@@ -1,0 +1,85 @@
+﻿---
+ID: "498db512-20d8-42ed-8bf9-134add6581b1"
+Parent: "db4ca8ce-7ba3-473d-8b1c-5f9c2510edac"
+Template: "12aa643a-e325-4871-8d72-6a40947f538e"
+Path: /sitecore/content/nov/nov/Data/Modules/Stories/Make Every Driller the Best Driller/Make Every Driller the Best Driller D4 Title Block
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1448f026-9a23-474a-8df4-af591b152850"
+      Hint: title
+      Value: NOVOS is 35% faster, saving up to 2.5 hours
+    - ID: "20cce792-a928-4cc0-890c-335dbb42ad4f"
+      Hint: body
+      Value: "<p>In a slip-to-weight sequences application, NOVOS is approximately 35% faster (3.8 minutes) in executing the sequence over a comparable number of sequences. The potential time savings over 40 sequences delivered by NOVOS is 2.5 hours.</p>"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190424T153909Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\charisgamroth
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4b26f5ce-a6a0-4fe4-9cef-0654369304a0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190424T160117Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1448f026-9a23-474a-8df4-af591b152850"
+      Hint: title
+      Value: NOVOS is 35% faster, saving up to 2.5 hours.
+    - ID: "20cce792-a928-4cc0-890c-335dbb42ad4f"
+      Hint: body
+      Value: "<p>In a slip-to-weight sequences application, NOVOS is approximately 35% faster (3.8 minutes) in executing the sequence over a comparable number of sequences. The potential time savings over 40 sequences delivered by NOVOS is 2.5 hours.</p>"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190617T151041Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\charisgamroth
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c71602b4-fbbb-42e6-a6c7-3e5560f6a7ad"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190617T151041Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190617T151128Z

@@ -1,0 +1,29 @@
+﻿---
+ID: "174c7596-72cb-4fd1-9571-61e1aed59c6f"
+Parent: "98a483aa-9a5f-4b9a-bb78-a479c24f3d42"
+Template: "3241ccf6-5818-4294-a855-ecfc784738d6"
+Path: /sitecore/content/nov/nov/Data/System/Social Links Folder/LinkedIn
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0b6a1390-f400-4e51-baca-1670a32bd64b"
+      Hint: socialChannelUrl
+      Value: "https://www.linkedin.com/company/national-oilwell-varco"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180930T164821Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4dec227e-a935-4574-abce-0010b3cae4f3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ashwin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20181106T225035Z
+    - ID: "ff68f760-fe3b-4cfb-97fa-10fae75c0ebe"
+      Hint: socialChannel
+      Value: "linked-in"

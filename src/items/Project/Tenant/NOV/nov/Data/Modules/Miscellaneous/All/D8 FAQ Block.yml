@@ -1,0 +1,51 @@
+﻿---
+ID: "b3815c0f-9482-49ee-86e2-e37f848d16c3"
+Parent: "f79ced02-cd8f-4953-91ca-8bc232fcda90"
+Template: "0fa91444-0757-4105-9640-41f7ed63dea3"
+Path: /sitecore/content/nov/nov/Data/Modules/Miscellaneous/All/D8 FAQ Block
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "0c7e482f-8883-4f9d-a8ec-aa948d62ea2d"
+      Hint: contactUs
+      Value: |
+        <link text="Contact Us" linktype="anchor" url="contact" anchor="contact" title="" class="" />
+    - ID: "15b1ae53-bee3-4d2e-9047-1db6c16757dc"
+      Hint: categories
+      Value: "{6747C16E-AAC0-4CFB-AF3B-05AE3532295A}|{FF21E447-DE25-4930-B817-40D09EB5CCAA}|{59ED3E61-9487-40F1-821D-C803721E75F0}|{1C341543-DC44-465F-AFF5-9A2A584C8A5B}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200128T205558Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{40251B7D-FBE3-4A0E-8947-D4B4FE8CD782}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "891a7573-2c2d-49e2-af61-72902e327940"
+      Hint: helpText
+      Value: "Can't find what you are looking for?"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2ab3274a-50ec-4e3d-98e0-f78f9aae17cc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200128T205926Z

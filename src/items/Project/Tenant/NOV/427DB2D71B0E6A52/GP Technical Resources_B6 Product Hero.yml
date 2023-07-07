@@ -1,0 +1,135 @@
+﻿---
+ID: "da8686a9-6ebb-4dca-8eaf-3c272940a9d7"
+Parent: "379c47f1-d67b-4d89-82ab-9be777d37361"
+Template: "5c70ee4b-1d66-41d1-a671-1cd882733bf5"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/WBT/Grant Prideco/GP Technical Resources/GP Technical Resources_B6 Product Hero
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190429T160229Z
+    - ID: "3bb32c55-8204-4e4c-bc91-26197822ead5"
+      Hint: image
+      Value: |
+        <image mediaid="{76A7FDAF-35A3-4178-9FB1-07665C66A355}" cropregion="0,98,1920,1178" ratio="1920:1080" width="1920" height="1080" />
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2729e06f-fff9-4e7d-b282-1fc44ef53384"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c722b334-9504-41e1-bcf9-d58e5646dd0c"
+      Hint: subheading
+      Value: Supporting our customers is our highest priority, and we look forward to partnering with you today and every day to achieve lasting success.
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190523T160439Z
+    - ID: "fe09ae44-5f98-442e-9b46-c524724c0c38"
+      Hint: heading
+      Value: Grant Prideco Technical Resources
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190523T161621Z
+    - ID: "3bb32c55-8204-4e4c-bc91-26197822ead5"
+      Hint: image
+      Value: |
+        <image mediaid="{76A7FDAF-35A3-4178-9FB1-07665C66A355}" cropregion="0,27,1920,1106" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7af4d5b8-d8d8-478b-9db5-387cd4c8f3f6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c722b334-9504-41e1-bcf9-d58e5646dd0c"
+      Hint: subheading
+      Value: Supporting our customers is our highest priority, and we look forward to partnering with you today and every day to achieve lasting success.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190523T161621Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190523T161643Z
+    - ID: "fe09ae44-5f98-442e-9b46-c524724c0c38"
+      Hint: heading
+      Value: Grant Prideco Technical Resources
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190524T202038Z
+    - ID: "3bb32c55-8204-4e4c-bc91-26197822ead5"
+      Hint: image
+      Value: |
+        <image mediaid="{76A7FDAF-35A3-4178-9FB1-07665C66A355}" cropregion="0,0,1920,1079" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a36b1b10-b31d-4b2f-b469-bee18cd72267"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c722b334-9504-41e1-bcf9-d58e5646dd0c"
+      Hint: subheading
+      Value: Supporting our customers is our highest priority, and we look forward to partnering with you today and every day to achieve lasting success.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190524T202038Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190524T202058Z
+    - ID: "fe09ae44-5f98-442e-9b46-c524724c0c38"
+      Hint: heading
+      Value: Grant Prideco Technical Resources

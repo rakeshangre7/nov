@@ -1,0 +1,134 @@
+﻿---
+ID: "b5ef908e-096b-4c79-af25-5ae0c21f645e"
+Parent: "89767e68-d253-4d4d-bd77-7d385dc947bc"
+Template: "89767e68-d253-4d4d-bd77-7d385dc947bc"
+Path: /sitecore/templates/Project/nov/Item Types/Home Root/__Standard Values
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Apps/32x32/Home.png
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {800EF4CB-3273-4756-AD58-FD9B119E02BF}
+    {34B41A4A-A8B5-432C-8A07-B6CA70ADA9DA}
+    {1B5D00BB-470B-48E5-A93F-C025446F3732}
+    {9D197B20-1ACF-4C40-9AEC-A6AC1879DC26}
+    {1BF45569-A9EE-482E-8C1F-6AED83C3C8AB}
+    {D845DF6C-DBFF-4280-ACDD-CC97D29844A8}
+    {D227AB0E-FD44-4AE0-878A-189949913D0B}
+    {9C2677BB-7840-4E59-AC44-4C5D4DFF7610}
+    {B1779D4B-ACE8-4B2D-9A65-B45F23A11A63}
+    {FA173E9D-FF30-4DDF-93B9-7E6D647C30AE}
+    {767FEF1E-1EB7-417D-93C6-CA72CAC21A26}
+    {6AD6B0C9-8586-4263-8FFB-9CBFC20B67D4}
+    {1D0EE984-9527-4CDE-AE7D-CD084F4E70E2}
+    {CED78EFE-1F24-4E4F-95F1-FFBEFBC22DB9}
+    {2FF882B0-4F69-4F0D-9D30-C3B5396F0E5B}
+    {DBC23D7D-62BD-46A5-B584-58B43C5DFAAD}
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{40C0E7ED-9887-49E1-8E89-43D16DD2AD6C}">
+        <r
+          ds="{5D0D63EE-DEF7-4C46-9669-47B79F45B829}"
+          id="{E5C4E4F6-B4DC-4A3C-89E3-0FFFA7AAC371}"
+          par=""
+          ph="main"
+          uid="{A409DEAE-A83C-4B8A-BB7E-241632B43108}" />
+        <r
+          ds="{274BB447-32EB-4791-B569-3F2E71225931}"
+          id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+          par="Alignment"
+          ph="main"
+          uid="{0E052187-985C-463E-A0F5-527BB8F6027C}" />
+        <r
+          ds="{E9BD5683-072B-4C57-9CE0-BF4C8F5C3C36}"
+          id="{7EE99E6C-C671-468E-8381-C6B9BB1E6416}"
+          par=""
+          ph="main"
+          uid="{E86C9E55-D05D-4F2E-862A-62B2162C70FF}" />
+        <r
+          ds="{274BB447-32EB-4791-B569-3F2E71225931}"
+          id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+          par="Alignment"
+          ph="main"
+          uid="{1929D91C-E320-43E3-8BBF-B8B6BD902DCE}" />
+        <r
+          ds="{DEA7CE43-D717-4956-82B9-95E9E7361FA9}"
+          id="{09A5B06F-A291-4BC8-8851-CC3FBB8D885D}"
+          par=""
+          ph="main"
+          uid="{19BAC161-A2C6-482D-86D5-455417B67F98}" />
+        <r
+          ds="{274BB447-32EB-4791-B569-3F2E71225931}"
+          id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+          par="Alignment"
+          ph="main"
+          uid="{48DAF69A-6A9E-43E8-A8DC-051CEC6089D7}" />
+        <r
+          ds="{3E75C232-A3C2-498A-9AD4-A762CA23BFB8}"
+          id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+          par=""
+          ph="main"
+          uid="{3A1F5ECB-AA04-4611-8577-BFBDE8784360}" />
+        <r
+          ds="{36B70B95-7C53-44B8-9F6F-99297D8A9F38}"
+          id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+          par=""
+          ph="main"
+          uid="{025975AE-380B-4D65-A241-0CA3D2432BF9}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20130418T235841Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a501d081-f4e9-41d8-832c-d87dd7e76d8d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\varalakshmi.md@horizontal.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230706T170915Z
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170307T221355Z
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: $name
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e25d13cc-fd7a-4d8c-b3d7-c7c9d48ed329"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "bcfd3e35-8ec5-4ba4-b22f-00669ef4d2d5"
+      Hint: Publish Date
+      Value: 20181015T000000Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190214T205005Z

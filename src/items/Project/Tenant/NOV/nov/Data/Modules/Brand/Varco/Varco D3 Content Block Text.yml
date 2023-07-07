@@ -1,0 +1,97 @@
+﻿---
+ID: "e68a750d-810f-4b26-8063-7360d8799d2b"
+Parent: "2b81eb37-3be2-4629-8b55-d04652dd4aab"
+Template: "fef13e36-84bd-4734-b569-e51d7f7e2a36"
+Path: /sitecore/content/nov/nov/Data/Modules/Brand/Varco/Varco D3 Content Block Text
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190311T223313Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "4593422d-98d7-497e-b649-a5ade9061f97"
+      Hint: heading
+      Value: Quality, safety, and efficiency in pipe handling and drilling systems
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "70e126a1-8914-4930-8325-b0090275e26e"
+      Hint: body
+      Value: |
+        <p>Beginning in metallurgy before moving into drill pipe handling tools, Varco pioneered spinning wrenches and torque wrenches before integrating the two in the world&rsquo;s first iron roughnecks. Varco ultimately expanded its innovative solutions into all markets with the industry&rsquo;s first top drives. When Varco consolidated and acquired BJ Machinery, M/D Totco, Shaffer, and Thule RigTech, the world&rsquo;s first fully integrated drilling rig package from a single supplier was introduced.</p>
+        <p>Many leading inventions pioneered by Varco are holistic industry standards for modern drilling rigs, including our top drives, iron roughnecks, power slips, pipe handling machines, and drawworks. The introduction of our AC top drives led to the AC rig revolution, developed modern rig design standards, and drove integrated standardized packages that changed the drilling industry.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "03a6f031-e848-4f04-8203-fb2dad7ebefd"
+    - ID: "9ce372ba-72d4-44e1-84d1-e5dc70965cc3"
+      Hint: image
+      Value: |
+        <image mediaid="{F4AEFC61-F378-41F3-8C1F-174C2336C188}" cropregion="0,0,768,768" ratio="385:385" width="385" height="385" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190311T223425Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190501T221446Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "4593422d-98d7-497e-b649-a5ade9061f97"
+      Hint: heading
+      Value: "Quality, safety, and efficiency in pipe-handling and drilling systems"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "70e126a1-8914-4930-8325-b0090275e26e"
+      Hint: body
+      Value: |
+        <p>Beginning in metallurgy before moving into drill pipe-handling tools, Varco pioneered spinning wrenches and torque wrenches before integrating the two in the world&rsquo;s first iron roughnecks. Varco ultimately expanded its innovative solutions into all markets with the industry&rsquo;s first top drives. When Varco consolidated and acquired BJ Machinery, M/D Totco, Shaffer, and Thule RigTech, the world&rsquo;s first fully integrated drilling rig package from a single supplier was introduced.</p>
+        <p>Many leading inventions pioneered by Varco are holistic industry standards for modern drilling rigs, including our top drives, iron roughnecks, power slips, pipe-handling machines, and drawworks. The introduction of our AC top drives led to the AC rig revolution, developed modern rig design standards, and drove integrated standardized packages that changed the drilling industry.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ca6db3a2-55f0-4b37-9b09-db01d6860f78"
+    - ID: "9ce372ba-72d4-44e1-84d1-e5dc70965cc3"
+      Hint: image
+      Value: |
+        <image mediaid="{F4AEFC61-F378-41F3-8C1F-174C2336C188}" cropregion="0,0,768,768" ratio="385:385" width="385" height="385" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190501T221446Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190501T221532Z

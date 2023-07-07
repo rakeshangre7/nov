@@ -1,0 +1,356 @@
+﻿---
+ID: "85172310-1e46-4c15-ad41-d60d16d0cd68"
+Parent: "f7f9784c-79ee-4304-8615-ac002a676b6d"
+Template: "5030864f-eb96-4da7-a417-e5a0108c59f8"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/WBT/Grant Prideco/Drill Collars/Drill Collars J6 Product Table
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190312T192933Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\shelbydumaine
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\shelbydumaine
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+          <thead>
+          <tr> <th>Drill Collar Material Mechanical Properties</th></tr>
+            </thead>
+          <tbody>
+        <tr>
+        <td>
+        <strong>Drill Collar Diameter (in.)</strong>
+        </td>
+        <td>
+        <strong>Minimum Yield Strength (psi)</strong>
+        </td>
+        <td>
+        <strong>Minimum Tensile Strength (psi)</strong>
+        </td>
+        <td>
+        <strong>Minimum Hardness (BHN)</strong>
+        </td>
+        </tr>
+        <tr>
+        <td>
+        3⅛ through 6⅞
+        </td>
+        <td>
+        110,000
+        </td>
+        <td>
+        140,000
+        </td>
+        <td>
+        285
+        </td>
+        </tr>
+        <tr>
+        <td>
+        7 and above
+        </td>
+        <td>
+        100,000
+        </td>
+        <td>
+        135,000
+        </td>
+        <td>
+        285
+        </td>
+        </tr>
+        </tbody>
+        </table>
+        <p />
+        <p>Tensile properties are determined by tests on cylindrical specimens conforming to the requirements of the current ASTM A370, 0.2% offset method. Hardness tests are performed on the OD of drill collars in compliance with current ASTM standards.</p>
+        <table>
+          <thead><tr><th>Slip and Elevator Recess Dimensions
+            </th></tr>
+        </thead>
+        <tbody>
+        <tr>
+        <td><strong>Drill Collar Diameter (in.)</strong></td>
+        <td>
+        <strong>Elevator Recess Diameter (in.)</strong>
+        </td>
+        <td>
+        <strong>Slip Recess Diameter (in.)</strong>
+        </td>
+        <td>
+        <strong>Elevator Recess Radius (in.)</strong>
+        </td>
+        </tr>
+        <tr>
+        <td>
+        4⅛
+        </td>
+        <td>
+        3<sup>11</sup>/<sub>16</sub>
+        </td>
+        <td>
+        3&frac34;
+        </td>
+        <td>
+        ⅛
+        </td>
+        </tr>
+        <tr>
+        <td>
+        4&frac34;
+        </td>
+        <td>
+        4&frac14;
+        </td>
+        <td>
+        4⅜
+        </td>
+        <td>
+        ⅛
+        </td>
+        </tr>
+        <tr>
+        <td>
+        5
+        </td>
+        <td>
+        4&frac12;
+        </td>
+        <td>
+        4⅝
+        </td>
+        <td>
+        ⅛
+        </td>
+        </tr>
+        <tr>
+        <td>
+        6
+        </td>
+        <td>
+        5⅜
+        </td>
+        <td>
+        5&frac12;
+        </td>
+        <td>
+        ⅛
+        </td>
+        </tr>
+        <tr>
+        <td>
+        6&frac14;
+        </td>
+        <td>
+        5⅝
+        </td>
+        <td>
+        5&frac34;
+        </td>
+        <td>
+        ⅛
+        </td>
+        </tr>
+        <tr>
+        <td>
+        6&frac12;
+        </td>
+        <td>
+        5⅞
+        </td>
+        <td>
+        6
+        </td>
+        <td>
+        ⅛
+        </td>
+        </tr>
+        <tr>
+        <td>
+        6&frac34;
+        </td>
+        <td>
+        6
+        </td>
+        <td>
+        6&frac14;
+        </td>
+        <td>
+        <sup>3</sup>/<sub>16</sub>
+        </td>
+        </tr>
+        <tr>
+        <td>
+        7
+        </td>
+        <td>
+        6&frac14;
+        </td>
+        <td>
+        6&frac12;
+        </td>
+        <td>
+        <sup>3</sup>/<sub>16</sub>
+        </td>
+        </tr>
+        <tr>
+        <td>
+        7&frac14;
+        </td>
+        <td>
+        6&frac12;
+        </td>
+        <td>
+        6&frac34;
+        </td>
+        <td>
+        <sup>3</sup>/<sub>16</sub>
+        </td>
+        </tr>
+        <tr>
+        <td>
+        7&frac34;
+        </td>
+        <td>
+        7
+        </td>
+        <td>
+        7&frac14;
+        </td>
+        <td>
+        <sup>3</sup>/<sub>16</sub>
+        </td>
+        </tr>
+        <tr>
+        <td>
+        8
+        </td>
+        <td>
+        7&frac14;
+        </td>
+        <td>
+        7&frac12;
+        </td>
+        <td>
+        <sup>3</sup>/<sub>16</sub>
+        </td>
+        </tr>
+        <tr>
+        <td>
+        8&frac14;
+        </td>
+        <td>
+        7&frac12;
+        </td>
+        <td>
+        7&frac34;
+        </td>
+        <td>
+        <sup>3</sup>/<sub>16</sub>
+        </td>
+        </tr>
+        <tr>
+        <td>
+        9
+        </td>
+        <td>
+        8⅛
+        </td>
+        <td>
+        8&frac14;
+        </td>
+        <td>
+        &frac14;
+        </td>
+        </tr>
+        <tr>
+        <td>
+        9&frac12;
+        </td>
+        <td>
+        8⅝
+        </td>
+        <td>
+        9
+        </td>
+        <td>
+        &frac14;
+        </td>
+        </tr>
+        <tr>
+        <td>
+        9&frac34;
+        </td>
+        <td>
+        8⅞
+        </td>
+        <td>
+        9&frac14;
+        </td>
+        <td>
+        &frac14;
+        </td>
+        </tr>
+        <tr>
+        <td>
+        10
+        </td>
+        <td>
+        9⅛
+        </td>
+        <td>
+        9&frac12;
+        </td>
+        <td>
+        &frac14;
+        &nbsp;
+        </td>
+        </tr>
+        <tr>
+        <td>
+        11
+        </td>
+        <td>
+        10⅛
+        </td>
+        <td>
+        10&frac12;
+        </td>
+        <td>
+        &frac14;
+        </td>
+        </tr>
+        </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "17f9b12e-bc4b-4992-beef-87fd12ea36da"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: Drill Collars Specifications
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190520T140638Z

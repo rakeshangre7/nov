@@ -1,0 +1,51 @@
+﻿---
+ID: "be51e81e-ca17-41cc-a7bf-d00756450a7a"
+Parent: "e5249a85-1186-4146-ac9c-13559eebba07"
+Template: "5c70ee4b-1d66-41d1-a671-1cd882733bf5"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/WBT/Downhole/Drilling Power Sections/Drilling Power Sections B6 Product Hero
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191218T210459Z
+    - ID: "26894bef-5803-40dd-8de7-01170daf29a6"
+      Hint: backgroundVideo
+      Value: "https://nov-web.s3.ca-central-1.amazonaws.com/Power+Sections/9552+WBT+DH+MT+-+Power+Sections+-+hero+banner_v1.mp4"
+    - ID: "3bb32c55-8204-4e4c-bc91-26197822ead5"
+      Hint: image
+      Value: |
+        <image mediaid="{887382DB-ECF6-47EF-BE63-E1F1DC2C5953}" cropregion="0,165,1920,1244" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "492cda75-be72-41de-b849-77bf42bda182"
+      Hint: contenttag
+      Value: "{1F7E6CF6-397F-43E3-8BE0-F22A71E03F76}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\charisgamroth
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d862fb20-6cc3-4fa5-9be0-55f2a0b7aec4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20191218T220850Z

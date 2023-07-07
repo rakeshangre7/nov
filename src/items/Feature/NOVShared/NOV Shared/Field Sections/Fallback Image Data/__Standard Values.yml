@@ -1,0 +1,39 @@
+﻿---
+ID: "6dd81015-0d44-4cb7-b457-b8937507d4c7"
+Parent: "77e9a574-29f2-4e52-a199-3b7415a1be21"
+Template: "77e9a574-29f2-4e52-a199-3b7415a1be21"
+Path: /sitecore/templates/Feature/NOV Shared/Field Sections/Fallback Image Data/__Standard Values
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190327T185748Z
+    - ID: "2d0af9b9-09ee-40a1-9d3e-c7e753c4896d"
+      Hint: Product Fallback Image
+      Value: |
+        <image mediaid="{0A4977A7-64A6-4B42-B409-4F4A56F35EF5}" cropregion="0,160,1920,1262" ratio="514:295" width="514" height="295" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ashwin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ashwin
+    - ID: "716f0333-fe93-4723-8096-39e231bbd972"
+      Hint: Content List Fallback Image
+      Value: |
+        <image mediaid="{48FB3A5F-4A4E-4CF6-8201-F0A477CE0E26}" cropregion="0,0,1088,624" ratio="514:295" width="514" height="295" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f3b9fd49-bcfc-44e8-8e84-cfdb8f5ee99a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210811T214724Z

@@ -1,0 +1,135 @@
+﻿---
+ID: "daaeda29-97d5-4b9a-a9bd-2020876e411c"
+Parent: "570293a2-0f2c-4c1a-8ddf-1efd37279901"
+Template: "5030864f-eb96-4da7-a417-e5a0108c59f8"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/CAPS/Process and Flow Technologies/High Temperature Lock HTL/J6 Product Table
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190409T122118Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticjandersen
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\verticjandersen
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td>
+                    <p>Metric (m<sup>3</sup>/day per 100 RPM &ndash; Lift in m)</p>
+                    </td>
+                    <td>
+                    <p>Imperial (B/D per 100 RPM &ndash; Lift in ft)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>16-1200 HTL, 16-1800 HTL, 16-2400 HTL, 16-3000 HTL, 16-3600 HTL</p>
+                    </td>
+                    <td>
+                    <p>094-4000 HTL, 094-6000 HTL, 094-8000 HTL, 094-10000 HTL, 094-12500 HTL</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>32-900 HTL, 32-1800 HTL</p>
+                    </td>
+                    <td>
+                    <p>200-3000 HTL, 200-6000 HTL</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>45-800 HTL, 45-1200 HTL, 45-1600 HTL&nbsp;</p>
+                    </td>
+                    <td>
+                    <p>280-2650 HTL, 280-4000 HTL, 280-5400 HTL</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>47-750 HTL, 47-1500 HTL, 47-2250 HTL&nbsp;</p>
+                    </td>
+                    <td>
+                    <p>295-2500 HTL, 295-5000 HTL, 295-7500 HTL</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>54-600 HTL, 54-1200 HTL, 54-1800 HTL&nbsp;</p>
+                    </td>
+                    <td>
+                    <p>340-2000 HTL, 340-4000 HTL, 340-6000 HTL</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>74-800 HTL, 74-1000 HTL, 74-1200 HTL&nbsp;</p>
+                    </td>
+                    <td>
+                    <p>495-2650 HTL, 495-3300 HTL, 495-4000 HTL</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>96-520 HTL, 96-1040 HTL, 96-1560 HTL&nbsp;</p>
+                    </td>
+                    <td>
+                    <p>600-1750 HTL, 600-3500 HTL, 600-5250 HTL</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>120-400 HTL, 120-800 HTL, 120-1200 HTL&nbsp;</p>
+                    </td>
+                    <td>
+                    <p>755-1350 HTL, 755-2650 HTL, 755-4000 HTL</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>155-450 HTL, 155-600 HTL, 155-750 HTL, 155-900 HTL</p>
+                    </td>
+                    <td>
+                    <p>975-1500 HTL, 975-2000 HTL, 975-2500 HTL, 975-3000 HTL</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p>
+        <br />
+        <br />
+        &nbsp;</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "936aaa6f-c110-45cc-b854-224b337798ae"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: "High-Temperature Lock (HTL) specifications"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\verticjandersen
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190409T123019Z

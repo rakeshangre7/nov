@@ -1,0 +1,269 @@
+﻿---
+ID: "c92853a4-fafc-4191-b67c-ee99fe901767"
+Parent: "bb0d8be7-18ee-46b5-ab6b-593226a72f35"
+Template: "5030864f-eb96-4da7-a417-e5a0108c59f8"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/CAPS/Completion Tools/Sentinel TRSV Lock Out Tool/Sentinel TRSV Lock Out_J6 Product Table
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190506T142311Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\arshmomin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\arshmomin
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td style="width: 128px;">
+                    <p><strong>Tubing Size</strong></p>
+                    <p>in. (mm)</p>
+                    </td>
+                    <td style="width: 128px;">
+                    <p><strong>Max OD</strong></p>
+                    <p>in. (mm)</p>
+                    </td>
+                    <td style="width: 128px;">
+                    <p><strong>Polished Bore Diameter</strong></p>
+                    <p>in. (mm)</p>
+                    </td>
+                    <td style="width: 128px;">
+                    <p><strong>Overall Length</strong></p>
+                    <p>in. (cm)</p>
+                    </td>
+                    <td style="width: 128px;">
+                    <p><strong>Weight</strong></p>
+                    <p>lbs (kg)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 128px;">
+                    <p>2.875 (73.03)</p>
+                    </td>
+                    <td style="width: 128px;">
+                    <p>2.298 (58.37)</p>
+                    <p>2.395 (59.92)</p>
+                    </td>
+                    <td style="width: 128px;">
+                    <p>2.250 (57.15)</p>
+                    <p>2.313 (58.75)</p>
+                    </td>
+                    <td style="width: 128px;">
+                    <p>76.59 (194.54)</p>
+                    </td>
+                    <td style="width: 128px;">
+                    <p>47.58 (21.58)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 128px;">
+                    <p>3.500 (88.90)</p>
+                    </td>
+                    <td style="width: 128px;">
+                    <p>2.796 (71.02)</p>
+                    <p>2.859 (72.62)</p>
+                    </td>
+                    <td style="width: 128px;">
+                    <p>2.750 (69.85)</p>
+                    <p>2.813 (71.45)</p>
+                    </td>
+                    <td style="width: 128px;">
+                    <p>77.59 (197.08)</p>
+                    </td>
+                    <td style="width: 128px;">
+                    <p>87.23 (39.57)</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e39d26bb-5884-49f2-80bf-2fa2faedf670"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: TRSV Lock Out Tool Specifications 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\arshmomin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190506T143118Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190612T194726Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\arshmomin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        #BBD0E0
+        &raquo;
+        <table>
+            <tbody>
+                <tr>
+                    <td>
+                    <p>Tubing size</p>
+                    </td>
+                    <td>
+                    <p>2.875 in. (73.03 mm)</p>
+                    </td>
+                    <td>
+                    <p>3.500 in. (88.90 mm)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Max OD</p>
+                    </td>
+                    <td>
+                    <p>2.298 in. (58.37 mm)</p>
+                    <p>2.395 in. (59.92 mm)</p>
+                    </td>
+                    <td>
+                    <p>2.796 in. (71.02 mm)</p>
+                    <p>2.859 in. (72.62 mm)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Polished bore diameter</p>
+                    </td>
+                    <td>
+                    <p>2.250 in. (57.15 mm)</p>
+                    <p>2.313 in. (58.75 mm)</p>
+                    </td>
+                    <td>
+                    <p>2.750 in. (69.85 mm)</p>
+                    <p>2.813 in. (71.45 mm)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Overall length</p>
+                    </td>
+                    <td>
+                    <p>76.59 in. (194.54 cm)</p>
+                    </td>
+                    <td>
+                    <p>77.59 in. (197.08 cm)</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3cd80172-feb7-4f9b-980c-7b9dc278aae8"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: "TRSV Lock-Out Tool Specifications "
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190612T194726Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190701T144006Z
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190705T211420Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\arshmomin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td>Tubing size</td>
+                    <td>2.875 in. (73.03 mm)</td>
+                    <td>3.500 in. (88.90 mm)</td>
+                </tr>
+                <tr>
+                    <td>Max. OD</td>
+                    <td>2.298 in. (58.37 mm)<br />
+                    2.395 in. (59.92 mm)</td>
+                    <td>2.796 in. (71.02 mm)<br />
+                    2.859 in. (72.62 mm)</td>
+                </tr>
+                <tr>
+                    <td>Polished bore diameter</td>
+                    <td>2.250 in. (57.15 mm)<br />
+                    2.313 in. (58.75 mm)</td>
+                    <td>2.750 in. (69.85 mm)<br />
+                    2.813 in. (71.45 mm)</td>
+                </tr>
+                <tr>
+                    <td>Overall length</td>
+                    <td>76.59 in. (194.54 cm)</td>
+                    <td>77.59 in. (197.08 cm)</td>
+                </tr>
+            </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4fd03615-5d30-42dd-ad6b-4f2fc28cb83c"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: "TRSV Lock-Out Tool Specifications "
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190705T211420Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190705T213453Z

@@ -1,0 +1,50 @@
+﻿---
+ID: "cf305c55-8149-4f6b-b8ad-ef4af83892a3"
+Parent: "00e6a8a1-ecb2-4685-a800-ac3613a68a33"
+Template: "2a8117d9-ebd1-430b-abd4-1d33b1fee79c"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/WBT/WellSite Services/Pinnacle Series Screen/Pinnacle Series Screen E5 Document List
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190416T212031Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bff68258-9d51-455a-bce4-09de3a90ff2a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190424T205146Z
+    - ID: "e4424681-e459-4738-a286-2240e08da75e"
+      Hint: assets
+      Value: |
+        {469C372A-A80E-4D9F-B9AB-29B203F1C01C}
+        {39709040-DEF6-4625-8C0F-53E996FFFDB6}
+        {96DA6C54-D1A3-4813-BF15-55D93A5B929D}
+        {AA4614FA-509E-47E8-BDF6-B249FC4374F6}
+        {1A35B379-7BCE-4737-9D70-E7EA8743C134}
+        {74B0EBDF-8736-4565-89D1-1AA8E233F9D6}

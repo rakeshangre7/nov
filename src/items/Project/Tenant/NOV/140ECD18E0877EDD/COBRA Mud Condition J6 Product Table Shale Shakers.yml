@@ -1,0 +1,124 @@
+﻿---
+ID: "5444b47b-f1bc-48d0-b96b-2c97d012f1fb"
+Parent: "005eebd6-d10c-4010-b031-2f3de6b21f47"
+Template: "5030864f-eb96-4da7-a417-e5a0108c59f8"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/WBT/WellSite Services/Mud Conditioners/COBRA Mud Condition J6 Product Table Shale Shakers
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190717T174955Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "43622441-3846-443d-a588-c8a468673d55"
+      Hint: description
+      Value: "*G-force dependent on starter options."
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\charisgamroth
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><strong>COBRA</strong></td>
+                    <td><strong>KING COBRA</strong></td>
+                </tr>
+                <tr>
+                    <td>Dimensions (L &times; W &times; H)</td>
+                    <td>94⅝ &times; 66⅛ &times; 61 in. (2404 &times; 1680 &times; 1549 mm)</td>
+                    <td>120&frac14; &times; 66⅜ &times; 66 in. (3054 &times; 1686 &times; 1676 mm)</td>
+                </tr>
+                <tr>
+                    <td>Weir height</td>
+                    <td>41 in. (1041 mm)</td>
+                    <td>41 in. (1041 mm)</td>
+                </tr>
+                <tr>
+                    <td>Weir height opt</td>
+                    <td>37 in. (940 mm)</td>
+                    <td>37 in. (940 mm)</td>
+                </tr>
+                <tr>
+                    <td>Weight</td>
+                    <td>3,800 lb (1725 kg)</td>
+                    <td>4,800 lb (2179 kg)</td>
+                </tr>
+                <tr>
+                    <td>Screen quantity</td>
+                    <td>3</td>
+                    <td>4</td>
+                </tr>
+                <tr>
+                    <td>Deck angle</td>
+                    <td>0&deg;, +5&deg;, +5&deg;</td>
+                    <td>0&deg;, +5&deg;, +5&deg;, +5&deg;</td>
+                </tr>
+                <tr>
+                    <td>Basket angle</td>
+                    <td>Adjustable, -7 to +3&deg;</td>
+                    <td>Adjustable, -5 to +3&deg;</td>
+                </tr>
+                <tr>
+                    <td>Screen type</td>
+                    <td>Pretension, repairable</td>
+                    <td>Pretension, repairable</td>
+                </tr>
+                <tr>
+                    <td>G-force</td>
+                    <td>5.4 Nominal G&rsquo;s</td>
+                    <td>Up to 7.3 G&rsquo;s*</td>
+                </tr>
+                <tr>
+                    <td>Deck area</td>
+                    <td>25.4 ft<sup>2</sup> (2.4 m<sup>2</sup>)</td>
+                    <td>33.4 ft<sup>2</sup> (3.1 m<sup>2</sup>)</td>
+                </tr>
+                <tr>
+                    <td>Motor type</td>
+                    <td>(2) Vibra-Motors</td>
+                    <td>(2) Vibra-Motors</td>
+                </tr>
+                <tr>
+                    <td>Motor power (each)</td>
+                    <td>2.0 hp (1.5 kW)</td>
+                    <td>2.5 hp (1.9 kW)</td>
+                </tr>
+                <tr>
+                    <td>Vibration motion</td>
+                    <td>Linear</td>
+                    <td>Linear</td>
+                </tr>
+            </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "05420319-e679-4935-a2da-9c66ed498757"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: COBRA Mud Conditioner Specifications
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190717T182040Z

@@ -1,0 +1,383 @@
+﻿---
+ID: "7c6d5a09-c564-467c-8c14-c386f026162a"
+Parent: "1d959471-e61b-41dc-8f97-b85f45b27f58"
+Template: "5030864f-eb96-4da7-a417-e5a0108c59f8"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/CAPS/Intervention and Stimulation Equipment/Nitrogen Vaporizer Systems/Nitrogen Vaporizer Systems J6 Product Table
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190530T184738Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "43622441-3846-443d-a588-c8a468673d55"
+      Hint: description
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mecoreyna
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mecoreyna
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td>
+                    <strong>Model</strong>
+                    </td>
+                    <td>
+                    <strong>DF 360</strong>
+                    </td>
+                    <td>
+                    <strong>DF 660</strong>
+                    </td>
+                    <td>
+                    <strong>DF 840</strong>
+                    </td>
+                    <td>
+                    <strong>DF 1200</strong>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Vaporization rate
+                    </td>
+                    <td>
+                    360,000 scfh (10 195 m<sup>3</sup>/hr)
+                    </td>
+                    <td>
+                    660,000&nbsp;scfh&nbsp;(18 691 m<sup>3</sup>/hr)
+                    </td>
+                    <td>
+                    840,000&nbsp;scfh&nbsp;(23 789 m<sup>3</sup>/hr)
+                    </td>
+                    <td>
+                    1,200,000&nbsp;scfh&nbsp;(33 984 m<sup>3</sup>/hr)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Weight
+                    </td>
+                    <td>
+                    2,500 lb (1134 kg)
+                    </td>
+                    <td>
+                    3,400 lb (1542 kg)
+                    </td>
+                    <td>
+                    4,100 lb (1860 kg)
+                    </td>
+                    <td>
+                    4,920 lb (2232 kg)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Length
+                    </td>
+                    <td>
+                    87 in. (221 cm)
+                    </td>
+                    <td>
+                    93 in. (236 cm)
+                    </td>
+                    <td>
+                    96 in. (254 cm)
+                    </td>
+                    <td>
+                    100 in. (254 cm)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Width
+                    </td>
+                    <td>
+                    43 in. (109 cm)
+                    </td>
+                    <td>
+                    47 in. (119 cm)
+                    </td>
+                    <td>
+                    52 in. (132 cm)
+                    </td>
+                    <td>
+                    56 in. (142 cm)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Height
+                    </td>
+                    <td>
+                    55 in. (140 cm)
+                    </td>
+                    <td>
+                    66 in. (168 cm)
+                    </td>
+                    <td>
+                    66 in. (168 cm)
+                    </td>
+                    <td>
+                    66 in. (168 cm)
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p>&nbsp;</p>
+        <p style="background: white; margin: 0in 0in 3pt;"><span style="margin: 0px; color: rgb(74, 74, 74);">Options</span></p>
+        <p style="background: white; margin: 0in 0in 3pt 0.5in;"><span style="margin: 0px; color: rgb(74, 74, 74);">-<span style="margin: 0px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="margin: 0px; color: rgb(74, 74, 74);">Fuel pre-heater system</span></p>
+        <p style="background: white; margin: 0in 0in 3pt 0.5in;"><span style="margin: 0px; color: rgb(74, 74, 74);">-<span style="margin: 0px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="margin: 0px; color: rgb(74, 74, 74);">Flame-out indicator&nbsp;</span></p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "11c01aa2-e5fb-4629-a5da-9c218df22b0d"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: Nitrogen Vaporizer Systems
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mecoreyna
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190530T190020Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190710T153849Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "43622441-3846-443d-a588-c8a468673d55"
+      Hint: description
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mecoreyna
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td>
+                    <strong>Model</strong>
+                    </td>
+                    <td>
+                    <strong>DF 360</strong>
+                    </td>
+                    <td>
+                    <strong>DF 660</strong>
+                    </td>
+                    <td>
+                    <strong>DF 840</strong>
+                    </td>
+                    <td>
+                    <strong>DF 1200</strong>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Vaporization rate
+                    </td>
+                    <td>
+                    360,000 scfh (10 195 m<sup>3</sup>/hr)
+                    </td>
+                    <td>
+                    660,000&nbsp;scfh&nbsp;(18 691 m<sup>3</sup>/hr)
+                    </td>
+                    <td>
+                    840,000&nbsp;scfh&nbsp;(23 789 m<sup>3</sup>/hr)
+                    </td>
+                    <td>
+                    1,200,000&nbsp;scfh&nbsp;(33 984 m<sup>3</sup>/hr)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Weight
+                    </td>
+                    <td>
+                    2,500 lb (1134 kg)
+                    </td>
+                    <td>
+                    3,400 lb (1542 kg)
+                    </td>
+                    <td>
+                    4,100 lb (1860 kg)
+                    </td>
+                    <td>
+                    4,920 lb (2232 kg)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Length
+                    </td>
+                    <td>
+                    87 in. (221 cm)
+                    </td>
+                    <td>
+                    93 in. (236 cm)
+                    </td>
+                    <td>
+                    96 in. (254 cm)
+                    </td>
+                    <td>
+                    100 in. (254 cm)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Width
+                    </td>
+                    <td>
+                    43 in. (109 cm)
+                    </td>
+                    <td>
+                    47 in. (119 cm)
+                    </td>
+                    <td>
+                    52 in. (132 cm)
+                    </td>
+                    <td>
+                    56 in. (142 cm)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Height
+                    </td>
+                    <td>
+                    55 in. (140 cm)
+                    </td>
+                    <td>
+                    66 in. (168 cm)
+                    </td>
+                    <td>
+                    66 in. (168 cm)
+                    </td>
+                    <td>
+                    66 in. (168 cm)
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d6e4296a-7654-4978-baed-6561ebf8d062"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: Nitrogen Vaporizer Systems
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190710T153849Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190710T153922Z
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190805T203844Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{40251B7D-FBE3-4A0E-8947-D4B4FE8CD782}"
+    - ID: "43622441-3846-443d-a588-c8a468673d55"
+      Hint: description
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mecoreyna
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+        <tbody>
+        <tr>
+        <td><strong>Model</strong></td>
+        <td><strong>Vaporization rate</strong></td>
+        <td><strong>Weight</strong></td>
+        <td><strong>Length &times; Width &times; Height</strong></td>
+        </tr>
+        <tr>
+        <td>DF 360</td>
+        <td>360,000 scf/hr (10 195 m<sup>3</sup>/hr)</td>
+        <td>2,500 lb (1134 kg)</td>
+        <td>87 &times; 43 &times; 55 in. (221 &times; 109 &times; 140 cm)</td>
+        </tr>
+        <tr>
+        <td>DF 660</td>
+        <td>660,000 scf/hr (18 691 m<sup>3</sup>/hr)</td>
+        <td>3,400 lb (1542 kg)</td>
+        <td>93 &times; 47 &times; 66 in. (236 &times; 119 &times; 168 cm)</td>
+        </tr>
+        <tr>
+        <td>DF 840</td>
+        <td>840,000 scf/hr (23 789 m<sup>3</sup>/hr)</td>
+        <td>4,100 lb (1860 kg)</td>
+        <td>96 &times; 52 &times; 66 in. (254 &times; 132 &times; 168 cm)</td>
+        </tr>
+        <tr>
+        <td>DF 1200</td>
+        <td>1,200,000 scf/hr (33 984 m<sup>3</sup>/hr)</td>
+        <td>4,920 lb (2232 kg)</td>
+        <td>100 &times; 56 &times; 66 in. (254 &times; 142 &times; 168 cm)</td>
+        </tr>
+        </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "be1eb394-c8cb-4bec-b3ca-b3fe9e034bd2"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: Nitrogen Vaporizer Systems
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190805T203844Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190805T210709Z

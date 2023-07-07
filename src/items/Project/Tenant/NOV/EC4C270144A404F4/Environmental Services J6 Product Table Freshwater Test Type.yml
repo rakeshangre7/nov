@@ -1,0 +1,179 @@
+﻿---
+ID: "953901fc-43f5-4925-8a83-5b5762aae4a9"
+Parent: "5b27436c-a823-4a17-9a33-b08cbabc9cf5"
+Template: "5030864f-eb96-4da7-a417-e5a0108c59f8"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/CAPS/Process and Flow Technologies/Environmental Services/Environmental Services J6 Product Table Freshwater Test Type
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200918T181528Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{40251B7D-FBE3-4A0E-8947-D4B4FE8CD782}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+        <tbody>
+        <tr>
+        <td>
+        <strong>REACH Annex VII ecotoxicology testing</strong>
+        </td>
+        <td>
+        <strong>Method</strong>
+        </td>
+        </tr>
+        <tr>
+        <td>
+        Algae EC(r)<sub>50</sub> 72hr screening or acute toxicity test with <em>Pseudokirchneriella subcapitata</em>
+        </td>
+        <td>
+        OECD 201
+        </td>
+        </tr>
+        <tr>
+        <td>
+        Crustacean LC<sub>50</sub>&shy; 48hr screening or acute toxicity test with <em>Daphnia magna</em>
+        </td>
+        <td>
+        OECD 202
+        </td>
+        </tr>
+        <tr>
+        <td>
+        <strong>REACH Annex VII biodegradation and bioaccumulation testing</strong>
+        </td>
+        <td>
+        <strong>Method</strong>
+        </td>
+        </tr>
+        <tr>
+        <td>
+        Freshwater 28day / 63day closed bottle biodegradation test
+        </td>
+        <td>
+        OECD 301D
+        </td>
+        </tr>
+        <tr>
+        <td>
+        Freshwater 28day CO<sub>2</sub> evolution test
+        </td>
+        <td>
+        OECD 301B
+        </td>
+        </tr>
+        <tr>
+        <td>
+        COD analysis
+        </td>
+        <td>
+        Potassium dichromate reactor digestion method
+        </td>
+        </tr>
+        <tr>
+        <td>
+        TOC analysis
+        </td>
+        <td>
+        Oxidative combustion-infrared analysis
+        </td>
+        </tr>
+        <tr>
+        <td>
+        Bioaccumulation HPLC Log P<sub>ow</sub> test
+        </td>
+        <td>
+        OECD 117
+        </td>
+        </tr>
+        <tr>
+        <td>
+        Bioaccumulation theoretical Log P<sub>ow</sub> test
+        </td>
+        <td>
+        EPI Suite<sup>TM</sup>
+        </td>
+        </tr>
+        <tr>
+        <td>
+        <strong>REACH Annex VIIII ecotoxicology testing</strong>
+        </td>
+        <td>
+        <strong>Method</strong>
+        </td>
+        </tr>
+        <tr>
+        <td>
+        Fish 96hr acute toxicity limit test or definitive LC<sub>50</sub> test with <em>Danio rerio</em>
+        </td>
+        <td>
+        OECD 203
+        </td>
+        </tr>
+        <tr>
+        <td>
+        <strong>REACH Annex IX chronic ecotoxicology testing</strong>
+        </td>
+        <td>
+        <strong>Method</strong>
+        </td>
+        </tr>
+        <tr>
+        <td>
+        Crustacean EC<sub>50</sub> &amp; NOEC 21day growth &amp; reproduction chronic test with <em>Daphnia magna</em>
+        </td>
+        <td>
+        OECD 211
+        </td>
+        </tr>
+        <tr>
+        <td>
+        Fish early-life stage toxicity chronic test with <em>Danio rerio</em>
+        </td>
+        <td>
+        OECD 210
+        </td>
+        </tr>
+        <tr>
+        <td>
+        Fish, short-term toxicity chronic test on embryo and sac-fry stages with <em>Danio rerio</em>
+        </td>
+        <td>
+        OECD 212
+        </td>
+        </tr>
+        </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8dbae9e2-c5d6-4541-8752-cf5ac14d44d2"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: Freshwater Test Type
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200918T181640Z

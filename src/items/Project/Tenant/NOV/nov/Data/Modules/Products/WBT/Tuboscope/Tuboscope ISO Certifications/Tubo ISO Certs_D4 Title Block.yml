@@ -1,0 +1,88 @@
+﻿---
+ID: "e8b7d50c-cc6f-40ca-bbff-e0d18a9fe7c7"
+Parent: "63adfaff-12fb-40fc-8963-851456a6957d"
+Template: "12aa643a-e325-4871-8d72-6a40947f538e"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/WBT/Tuboscope/Tuboscope ISO Certifications/Tubo ISO Certs_D4 Title Block
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1448f026-9a23-474a-8df4-af591b152850"
+      Hint: title
+      Value: Certified quality
+    - ID: "20cce792-a928-4cc0-890c-335dbb42ad4f"
+      Hint: body
+      Value: <p>For more than 70 years, Tuboscope has been inspecting, threading, and applying internal powder, liquid, and plastic coatings and external hardfacing to oil country tubular goods (OCTG), line pipe, couplings and associated equipment with a focus on quality and customer satisfaction.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190508T151804Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "06fdc1d2-d5d2-4f74-bf1b-7861f30088b4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190508T160844Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1448f026-9a23-474a-8df4-af591b152850"
+      Hint: title
+      Value: Certified quality
+    - ID: "20cce792-a928-4cc0-890c-335dbb42ad4f"
+      Hint: body
+      Value: |
+        <p>For more than 80 years, <a href="~/link.aspx?_id=63A9B3FFEFC7492799AA9AD146B25EB4&amp;_z=z">Tuboscope</a>&nbsp;has been the leading global service provider of inspection, corrosion control, and integrated solutions for oil country tubular goods (OCTG), drill pipe, line pipe, and accessories.</p>
+        <p>With safety at the forefront, we are dedicated to providing the highest-quality products and services that meet or exceed customer expectations.</p>
+        <p>Below is a list of Tuboscope facility certifications.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200107T171034Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "860c9d38-cf25-4a10-8a09-950d9784ef95"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200107T171034Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200603T201854Z

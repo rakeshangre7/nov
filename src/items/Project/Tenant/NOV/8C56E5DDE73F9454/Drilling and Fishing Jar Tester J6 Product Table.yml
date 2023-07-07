@@ -1,0 +1,750 @@
+﻿---
+ID: "90b63f8a-4f53-4e0f-bfcc-36b7a0c38a00"
+Parent: "484c7ca9-627f-4e7b-a1c3-ba552c7045a7"
+Template: "5030864f-eb96-4da7-a417-e5a0108c59f8"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/WBT/Downhole/Drilling and Fishing Jar Tester/Drilling and Fishing Jar Tester J6 Product Table
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190415T201823Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\shelbydumaine
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\shelbydumaine
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table width="100%">
+            <tbody>
+                <tr>
+                    <td>
+                    <p>Series</p>
+                    </td>
+                    <td>
+                    <p>1360&ndash;0001</p>
+                    </td>
+                    <td>
+                    <p>1361&ndash;0001</p>
+                    </td>
+                    <td>
+                    <p>1767&ndash;0001</p>
+                    </td>
+                    <td>
+                    <p>1786&ndash;0001</p>
+                    </td>
+                    <td style="width: 1px;">
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Max. force &ndash; tension</p>
+                    </td>
+                    <td>
+                    <p>206,000 lb</p>
+                    </td>
+                    <td>
+                    <p>206,000 lb</p>
+                    </td>
+                    <td>
+                    <p>130,000 lb</p>
+                    </td>
+                    <td>
+                    <p>130,000 lb</p>
+                    </td>
+                    <td style="width: 1px;">
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Max. force &ndash; compression</p>
+                    </td>
+                    <td>
+                    <p>235,000 lb</p>
+                    </td>
+                    <td>
+                    <p>235,000 lb</p>
+                    </td>
+                    <td>
+                    <p>150,000 lb</p>
+                    </td>
+                    <td>
+                    <p>150,000 lb</p>
+                    </td>
+                    <td style="width: 1px;">
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Stroke</p>
+                    </td>
+                    <td>
+                    <p>30 in.</p>
+                    </td>
+                    <td>
+                    <p>30 in.</p>
+                    </td>
+                    <td>
+                    <p>32 in.</p>
+                    </td>
+                    <td>
+                    <p>32 in.</p>
+                    </td>
+                    <td style="width: 1px;">
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Operating pressure (max.)</p>
+                    </td>
+                    <td>
+                    <p>3,200 psi</p>
+                    </td>
+                    <td>
+                    <p>3,200 psi</p>
+                    </td>
+                    <td>
+                    <p>3,200 psi</p>
+                    </td>
+                    <td>
+                    <p>3,200 psi</p>
+                    </td>
+                    <td style="width: 1px;">
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Max. tool diameter</p>
+                    </td>
+                    <td>
+                    <p>14 in.</p>
+                    </td>
+                    <td>
+                    <p>14 in.</p>
+                    </td>
+                    <td>
+                    <p>12 in.</p>
+                    </td>
+                    <td>
+                    <p>12 in.</p>
+                    </td>
+                    <td style="width: 1px;">
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Max. tool length</p>
+                    </td>
+                    <td>
+                    <p>30 ft</p>
+                    </td>
+                    <td>
+                    <p>34 ft</p>
+                    </td>
+                    <td>
+                    <p>24 ft</p>
+                    </td>
+                    <td>
+                    <p>16 ft</p>
+                    </td>
+                    <td style="width: 1px;">
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Frame type</p>
+                    </td>
+                    <td>
+                    <p>2-pc fixed</p>
+                    </td>
+                    <td>
+                    <p>2-pc fixed</p>
+                    </td>
+                    <td>
+                    <p>2-pc fixed</p>
+                    </td>
+                    <td>
+                    <p>Telescoping</p>
+                    </td>
+                    <td style="width: 1px;">
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Frame length</p>
+                    </td>
+                    <td>
+                    <p>39 ft 8 in.</p>
+                    </td>
+                    <td>
+                    <p>43 ft 8 in.</p>
+                    </td>
+                    <td>
+                    <p>31 ft</p>
+                    </td>
+                    <td>
+                    <p>22 ft 9 in. extended; 14 ft 10 in. collapsed</p>
+                    </td>
+                    <td style="width: 1px;">
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Frame width</p>
+                    </td>
+                    <td>
+                    <p>48 in.</p>
+                    </td>
+                    <td>
+                    <p>48 in.</p>
+                    </td>
+                    <td>
+                    <p>38 in.</p>
+                    </td>
+                    <td>
+                    <p>30 in.</p>
+                    </td>
+                    <td style="width: 1px;">
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Frame height</p>
+                    </td>
+                    <td>
+                    <p>19 in.</p>
+                    </td>
+                    <td>
+                    <p>19 in.</p>
+                    </td>
+                    <td>
+                    <p>15 in.</p>
+                    </td>
+                    <td>
+                    <p>17 in.</p>
+                    </td>
+                    <td style="width: 1px;">
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Console 8067&ndash;0100 &ndash; Dims (L &times; W &times; H)</p>
+                    </td>
+                    <td>
+                    <p>30 x 24&frac14; x 48 in.</p>
+                    </td>
+                    <td colspan="4" style="width: 407px;">
+                    <p>The same console is used for all models shown. Max. one console per unit.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Console 8067&ndash;0100 &ndash; weight</p>
+                    </td>
+                    <td>
+                    <p>980 lb</p>
+                    </td>
+                    <td>
+                    <p>980 lb</p>
+                    </td>
+                    <td>
+                    <p>980 lb</p>
+                    </td>
+                    <td>
+                    <p>980 lb</p>
+                    </td>
+                    <td style="width: 1px;">
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f1b72fde-48f1-4290-9d51-1c932d9bf008"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: Drilling and Fishing Jar Tester Tech Specs
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\shelbydumaine
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190415T204542Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190628T182845Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\shelbydumaine
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td>
+                    <p>Series</p>
+                    </td>
+                    <td>
+                    <p>1360&ndash;0001</p>
+                    </td>
+                    <td>
+                    <p>1361&ndash;0001</p>
+                    </td>
+                    <td>
+                    <p>1767&ndash;0001</p>
+                    </td>
+                    <td>
+                    <p>1786&ndash;0001</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Max. force &ndash; tension</p>
+                    </td>
+                    <td>
+                    <p>206,000 lb</p>
+                    </td>
+                    <td>
+                    <p>206,000 lb</p>
+                    </td>
+                    <td>
+                    <p>130,000 lb</p>
+                    </td>
+                    <td>
+                    <p>130,000 lb</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Max. force &ndash; compression</p>
+                    </td>
+                    <td>
+                    <p>235,000 lb</p>
+                    </td>
+                    <td>
+                    <p>235,000 lb</p>
+                    </td>
+                    <td>
+                    <p>150,000 lb</p>
+                    </td>
+                    <td>
+                    <p>150,000 lb</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Stroke</p>
+                    </td>
+                    <td>
+                    <p>30 in.</p>
+                    </td>
+                    <td>
+                    <p>30 in.</p>
+                    </td>
+                    <td>
+                    <p>32 in.</p>
+                    </td>
+                    <td>
+                    <p>32 in.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Operating pressure (max.)</p>
+                    </td>
+                    <td>
+                    <p>3,200 psi</p>
+                    </td>
+                    <td>
+                    <p>3,200 psi</p>
+                    </td>
+                    <td>
+                    <p>3,200 psi</p>
+                    </td>
+                    <td>
+                    <p>3,200 psi</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Max. tool diameter</p>
+                    </td>
+                    <td>
+                    <p>14 in.</p>
+                    </td>
+                    <td>
+                    <p>14 in.</p>
+                    </td>
+                    <td>
+                    <p>12 in.</p>
+                    </td>
+                    <td>
+                    <p>12 in.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Max. tool length</p>
+                    </td>
+                    <td>
+                    <p>30 ft</p>
+                    </td>
+                    <td>
+                    <p>34 ft</p>
+                    </td>
+                    <td>
+                    <p>24 ft</p>
+                    </td>
+                    <td>
+                    <p>16 ft</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Frame type</p>
+                    </td>
+                    <td>
+                    <p>2-pc fixed</p>
+                    </td>
+                    <td>
+                    <p>2-pc fixed</p>
+                    </td>
+                    <td>
+                    <p>2-pc fixed</p>
+                    </td>
+                    <td>
+                    <p>Telescoping</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Frame length</p>
+                    </td>
+                    <td>
+                    <p>39 ft 8 in.</p>
+                    </td>
+                    <td>
+                    <p>43 ft 8 in.</p>
+                    </td>
+                    <td>
+                    <p>31 ft</p>
+                    </td>
+                    <td>
+                    <p>22 ft 9 in. extended; 14 ft 10 in. collapsed</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Frame width</p>
+                    </td>
+                    <td>
+                    <p>48 in.</p>
+                    </td>
+                    <td>
+                    <p>48 in.</p>
+                    </td>
+                    <td>
+                    <p>38 in.</p>
+                    </td>
+                    <td>
+                    <p>30 in.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Frame height</p>
+                    </td>
+                    <td>
+                    <p>19 in.</p>
+                    </td>
+                    <td>
+                    <p>19 in.</p>
+                    </td>
+                    <td>
+                    <p>15 in.</p>
+                    </td>
+                    <td>
+                    <p>17 in.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <table>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0f6bad74-603b-427b-90c7-feff8f19f88f"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: Drilling and Fishing Jar Tester Tech Specs
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190628T182845Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190628T184350Z
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190717T202131Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\shelbydumaine
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td>
+                    Series
+                    </td>
+                    <td>
+                    1360&ndash;0001
+                    </td>
+                    <td>
+                    1361&ndash;0001
+                    </td>
+                    <td>
+                    1767&ndash;0001
+                    </td>
+                    <td>
+                    1786&ndash;0001
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Max. force &ndash; tension
+                    </td>
+                    <td>
+                    206,000 lb
+                    </td>
+                    <td>
+                    206,000 lb
+                    </td>
+                    <td>
+                    130,000 lb
+                    </td>
+                    <td>
+                    130,000 lb
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Max. force &ndash; compression
+                    </td>
+                    <td>
+                    235,000 lb
+                    </td>
+                    <td>
+                    235,000 lb
+                    </td>
+                    <td>
+                    150,000 lb
+                    </td>
+                    <td>
+                    150,000 lb
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Stroke
+                    </td>
+                    <td>
+                    30 in.
+                    </td>
+                    <td>
+                    30 in.
+                    </td>
+                    <td>
+                    32 in.
+                    </td>
+                    <td>
+                    32 in.
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Operating pressure (max.)
+                    </td>
+                    <td>
+                    3,200 psi
+                    </td>
+                    <td>
+                    3,200 psi
+                    </td>
+                    <td>
+                    3,200 psi
+                    </td>
+                    <td>
+                    3,200 psi
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Max. tool diameter
+                    </td>
+                    <td>
+                    14 in.
+                    </td>
+                    <td>
+                    14 in.
+                    </td>
+                    <td>
+                    12 in.
+                    </td>
+                    <td>
+                    12 in.
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Max. tool length
+                    </td>
+                    <td>
+                    30 ft
+                    </td>
+                    <td>
+                    34 ft
+                    </td>
+                    <td>
+                    24 ft
+                    </td>
+                    <td>
+                    16 ft
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Frame type
+                    </td>
+                    <td>
+                    2-pc fixed
+                    </td>
+                    <td>
+                    2-pc fixed
+                    </td>
+                    <td>
+                    2-pc fixed
+                    </td>
+                    <td>
+                    Telescoping
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Frame length
+                    </td>
+                    <td>
+                    39 ft 8 in.
+                    </td>
+                    <td>
+                    43 ft 8 in.
+                    </td>
+                    <td>
+                    31 ft
+                    </td>
+                    <td>
+                    22 ft 9 in. extended; 14 ft 10 in. collapsed
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Frame width
+                    </td>
+                    <td>
+                    48 in.
+                    </td>
+                    <td>
+                    48 in.
+                    </td>
+                    <td>
+                    38 in.
+                    </td>
+                    <td>
+                    30 in.
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Frame height
+                    </td>
+                    <td>
+                    19 in.
+                    </td>
+                    <td>
+                    19 in.
+                    </td>
+                    <td>
+                    15 in.
+                    </td>
+                    <td>
+                    17 in.
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4664d9b4-294b-4bcc-842e-4ac8c8d056e9"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: Drilling and Fishing Jar Tester Tech Specs
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190717T202131Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190717T202227Z

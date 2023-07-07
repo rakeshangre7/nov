@@ -1,0 +1,389 @@
+﻿---
+ID: "e7a3c364-02f9-4543-9cdf-740a19d8db26"
+Parent: "77d5d58e-23ea-4e7a-9955-236be7d80f47"
+Template: "5030864f-eb96-4da7-a417-e5a0108c59f8"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/CAPS/Process and Flow Technologies/3K Single Ram BOP/3K Single Ram BOP J6 Product Table
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190321T153935Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td>Top connection</td>
+                    <td>2.375 in. EUE</td>
+                    <td>2.875 in. EUE</td>
+                    <td>3.500 in. EUE</td>
+                </tr>
+                <tr>
+                    <td>Bottom connection</td>
+                    <td>2.375 in. EUE</td>
+                    <td>2.875 in. EUE</td>
+                    <td>3.500 in. EUE</td>
+                </tr>
+                <tr>
+                    <td>Vertical bore</td>
+                    <td>2.060 in.</td>
+                    <td>2.510 in.</td>
+                    <td>3.100 in.</td>
+                </tr>
+                <tr>
+                    <td>Working pressure</td>
+                    <td colspan="3">3,000 psi</td>
+                </tr>
+                <tr>
+                    <td>Body and cap material</td>
+                    <td colspan="3">Alloy steel</td>
+                </tr>
+                <tr>
+                    <td>Ram material</td>
+                    <td colspan="3">Alloy steel</td>
+                </tr>
+                <tr>
+                    <td>Ram screw and packing gland</td>
+                    <td colspan="3">Alloy steel</td>
+                </tr>
+                <tr>
+                    <td>Ram size options</td>
+                    <td colspan="3">1.25 and 1.50 in.</td>
+                </tr>
+                <tr>
+                    <td>Ram screw packing</td>
+                    <td colspan="3">HSN (HNBR)</td>
+                </tr>
+                <tr>
+                    <td>Side outlet connections</td>
+                    <td colspan="3">N/A</td>
+                </tr>
+                <tr>
+                    <td>Height</td>
+                    <td colspan="3">12 in.</td>
+                </tr>
+                <tr>
+                    <td>Weight</td>
+                    <td colspan="3">95 lb</td>
+                </tr>
+                <tr>
+                    <td>Width (rams open)</td>
+                    <td colspan="3">20.75 in./17.75 in.</td>
+                </tr>
+            </tbody>
+        </table>
+        <p>Note: The rams are bidirectional and <strong>do not</strong> need to be flipped before installation. This rod BOP can be installed pin-down or box-down.</p>
+        <table>
+            <tbody>
+                <tr>
+                    <td>Ram material</td>
+                    <td>AISI 4130</td>
+                </tr>
+                <tr>
+                    <td>Ram seal</td>
+                    <td>HSN</td>
+                </tr>
+                <tr>
+                    <td>Maximum temperature</td>
+                    <td>325 &deg;F</td>
+                </tr>
+                <tr>
+                    <td>Maximum H<sub>2</sub>S</td>
+                    <td>10%</td>
+                </tr>
+                <tr>
+                    <td>Maximum CO<sub>2</sub></td>
+                    <td>20%</td>
+                </tr>
+            </tbody>
+        </table>
+        <p>Note: Above temperatures are suggested maximum short-term ratings and should not be considered as a continuous operating temperature.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7f66b8aa-9e1f-4079-a3be-0d57bd9852fc"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: "3K Single-Ram BOP Specifications"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190321T155022Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190429T180154Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td>Top connection</td>
+                    <td>2.375 in. EUE</td>
+                    <td>2.875 in. EUE</td>
+                    <td>3.500 in. EUE</td>
+                </tr>
+                <tr>
+                    <td>Bottom connection</td>
+                    <td>2.375 in. EUE</td>
+                    <td>2.875 in. EUE</td>
+                    <td>3.500 in. EUE</td>
+                </tr>
+                <tr>
+                    <td>Vertical bore</td>
+                    <td>2.060 in.</td>
+                    <td>2.510 in.</td>
+                    <td>3.100 in.</td>
+                </tr>
+                <tr>
+                    <td>Working pressure</td>
+                    <td colspan="3">3,000 psi</td>
+                </tr>
+                <tr>
+                    <td>Body and cap material</td>
+                    <td colspan="3">Alloy steel</td>
+                </tr>
+                <tr>
+                    <td>Ram material</td>
+                    <td colspan="3">Alloy steel</td>
+                </tr>
+                <tr>
+                    <td>Ram screw and packing gland</td>
+                    <td colspan="3">Alloy steel</td>
+                </tr>
+                <tr>
+                    <td>Ram size options</td>
+                    <td colspan="3">1.25 and 1.50 in.</td>
+                </tr>
+                <tr>
+                    <td>Ram screw packing</td>
+                    <td colspan="3">HSN (HNBR)</td>
+                </tr>
+                <tr>
+                    <td>Side outlet connections</td>
+                    <td colspan="3">N/A</td>
+                </tr>
+                <tr>
+                    <td>Height</td>
+                    <td colspan="3">12 in.</td>
+                </tr>
+                <tr>
+                    <td>Weight</td>
+                    <td colspan="3">95 lb</td>
+                </tr>
+                <tr>
+                    <td>Width (rams open)</td>
+                    <td colspan="3">20.75 in./17.75 in.</td>
+                </tr>
+            </tbody>
+        </table>
+        <p style="background: white; margin: 0in 0in 0.0001pt;"><span style="color: #4a4a4a;">Note: The rams are bidirectional and <strong>do not</strong> need to be flipped before installation. This rod BOP can be installed pin-down or box-down..</span></p>
+        
+        <table>
+            <tbody>
+                <tr>
+                    <td>Ram material</td>
+                    <td>AISI 4130</td>
+                </tr>
+                <tr>
+                    <td>Ram seal</td>
+                    <td>HSN</td>
+                </tr>
+                <tr>
+                    <td>Maximum temperature</td>
+                    <td>325 &deg;F</td>
+                </tr>
+                <tr>
+                    <td>Maximum H<sub>2</sub>S</td>
+                    <td>10%</td>
+                </tr>
+                <tr>
+                    <td>Maximum CO<sub>2</sub></td>
+                    <td>20%</td>
+                </tr>
+            </tbody>
+        </table>
+        <p style="background: white; margin: 0in 0in 0.0001pt;"><span style="color: #4a4a4a;">Note: Above temperatures are suggested maximum short-term ratings and should not be considered as a continuous operating temperature.</span></p>
+        
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "71934a62-9a05-462b-b216-91516652f9fa"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: "3K Single-Ram BOP Specifications"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190429T180154Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190429T180211Z
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190628T204055Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td>Top connection</td>
+                    <td>2.375 in. EUE</td>
+                    <td>2.875 in. EUE</td>
+                    <td>3.500 in. EUE</td>
+                </tr>
+                <tr>
+                    <td>Bottom connection</td>
+                    <td>2.375 in. EUE</td>
+                    <td>2.875 in. EUE</td>
+                    <td>3.500 in. EUE</td>
+                </tr>
+                <tr>
+                    <td>Vertical bore</td>
+                    <td>2.060 in.</td>
+                    <td>2.510 in.</td>
+                    <td>3.100 in.</td>
+                </tr>
+                <tr>
+                    <td>Working pressure</td>
+                    <td colspan="3">3,000 psi</td>
+                </tr>
+                <tr>
+                    <td>Body and cap material</td>
+                    <td colspan="3">Alloy steel</td>
+                </tr>
+                <tr>
+                    <td>Ram material</td>
+                    <td colspan="3">Alloy steel</td>
+                </tr>
+                <tr>
+                    <td>Ram screw and packing gland</td>
+                    <td colspan="3">Alloy steel</td>
+                </tr>
+                <tr>
+                    <td>Ram size options</td>
+                    <td colspan="3">1.25 and 1.50 in.</td>
+                </tr>
+                <tr>
+                    <td>Ram screw packing</td>
+                    <td colspan="3">HSN (HNBR)</td>
+                </tr>
+                <tr>
+                    <td>Side outlet connections</td>
+                    <td colspan="3">N/A</td>
+                </tr>
+                <tr>
+                    <td>Height</td>
+                    <td colspan="3">12 in.</td>
+                </tr>
+                <tr>
+                    <td>Weight</td>
+                    <td colspan="3">95 lb</td>
+                </tr>
+                <tr>
+                    <td>Width (rams open)</td>
+                    <td colspan="3">20.75 in./17.75 in.</td>
+                </tr>
+            </tbody>
+        </table>
+        <p style="background: white; margin: 0in 0in 0.0001pt;"><span style="color: #4a4a4a;">Note: The rams are bidirectional and <strong>do not</strong> need to be flipped before installation. This rod BOP can be installed pin-down or box-down..</span></p>
+        <table>
+            <tbody>
+                <tr>
+                    <td>Ram material</td>
+                    <td>AISI 4130</td>
+                </tr>
+                <tr>
+                    <td>Ram seal</td>
+                    <td>HSN</td>
+                </tr>
+                <tr>
+                    <td>Maximum temperature</td>
+                    <td>325&deg;F</td>
+                </tr>
+                <tr>
+                    <td>Maximum H<sub>2</sub>S</td>
+                    <td>10%</td>
+                </tr>
+                <tr>
+                    <td>Maximum CO<sub>2</sub></td>
+                    <td>20%</td>
+                </tr>
+            </tbody>
+        </table>
+        <p style="background: white; margin: 0in 0in 0.0001pt;"><span style="color: #4a4a4a;">Note: Above temperatures are suggested maximum short-term ratings and should not be considered as a continuous operating temperature.</span></p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7c7ccfdb-33a7-40ca-a30b-51f69385b3a3"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: "3K Single-Ram BOP Specifications"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190628T204055Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190628T204126Z

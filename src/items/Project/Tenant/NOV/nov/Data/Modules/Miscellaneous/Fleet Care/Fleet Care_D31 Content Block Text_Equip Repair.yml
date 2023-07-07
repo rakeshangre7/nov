@@ -1,0 +1,148 @@
+﻿---
+ID: "0d0fd7ef-1604-446b-adf2-efab57c6048d"
+Parent: "b111968a-fa27-46dd-8ac8-21fb599a33f6"
+Template: "fef13e36-84bd-4734-b569-e51d7f7e2a36"
+Path: /sitecore/content/nov/nov/Data/Modules/Miscellaneous/Fleet Care/Fleet Care_D31 Content Block Text_Equip Repair
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190725T194656Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "4593422d-98d7-497e-b649-a5ade9061f97"
+      Hint: heading
+      Value: "Re-certification"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joannazhu
+    - ID: "70e126a1-8914-4930-8325-b0090275e26e"
+      Hint: body
+      Value: <p>With over 30 years of recertification experience and 40 full recertification projects since 2013, we work with you to understand how we can help to carry out your unique recertification needs in the most efficient way. Our experience team will provide support through the NOV corporation and coordinate all activities related to equipment recertification projects. By optimizing the work scope and ensuring a reduction in yard stay, we help you save time and money—maximizing your uptime.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e15b67f1-c093-496a-943a-9aa0ae4a8b79"
+    - ID: "9ce372ba-72d4-44e1-84d1-e5dc70965cc3"
+      Hint: image
+      Value: |
+        <image mediaid="{ACA68A1C-7D8E-40FF-AA36-46D4518757B4}" cropregion="247,0,1671,1424" ratio="385:385" width="385" height="385" />
+    - ID: "a14f8111-ad71-4562-b9b8-61e4996d3750"
+      Hint: cta
+      Value: |
+        <link text="Learn more" linktype="internal" title="Learn more" querystring="" target="" id="{CC397266-1124-4AA3-9406-139EED998EA8}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\joannazhu
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190725T210039Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190812T213718Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "4593422d-98d7-497e-b649-a5ade9061f97"
+      Hint: heading
+      Value: Rig Performance
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joannazhu
+    - ID: "70e126a1-8914-4930-8325-b0090275e26e"
+      Hint: body
+      Value: <p>Run at peak performance</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6d2f5efc-b7fe-4a65-86f2-10f19a8b2695"
+    - ID: "9ce372ba-72d4-44e1-84d1-e5dc70965cc3"
+      Hint: image
+      Value: |
+        <image mediaid="{EC613141-BAE0-47F1-8D6C-B22A082BC8D6}" cropregion="319,0,1600,1280" ratio="385:385" width="385" height="385" />
+    - ID: "a14f8111-ad71-4562-b9b8-61e4996d3750"
+      Hint: cta
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\joannazhu
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190812T213718Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190816T190317Z
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190830T151526Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "4593422d-98d7-497e-b649-a5ade9061f97"
+      Hint: heading
+      Value: Rig Performance
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joannazhu
+    - ID: "70e126a1-8914-4930-8325-b0090275e26e"
+      Hint: body
+      Value: "<p>Is your rig running at peak performance?</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b60cbdf5-4f3e-455f-a414-2a6008750bbd"
+    - ID: "9ce372ba-72d4-44e1-84d1-e5dc70965cc3"
+      Hint: image
+      Value: |
+        <image mediaid="{EC613141-BAE0-47F1-8D6C-B22A082BC8D6}" cropregion="319,0,1600,1280" ratio="385:385" width="385" height="385" />
+    - ID: "a14f8111-ad71-4562-b9b8-61e4996d3750"
+      Hint: cta
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\joannazhu
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190830T151526Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190830T151612Z

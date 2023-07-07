@@ -1,0 +1,40 @@
+﻿---
+ID: "4ab050b3-686a-4da2-965c-50e2f0fceb5f"
+Parent: "e4f383b1-e79b-4215-a3db-2457b45cd796"
+Template: "e4f383b1-e79b-4215-a3db-2457b45cd796"
+Path: /sitecore/templates/Feature/NOV Shared/Field Sections/Cookie Settings/__Standard Values
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0fae3531-5354-463f-81dd-2ce2f25c043f"
+      Hint: Accept Text
+      Value: I Accept
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190625T194919Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ashwin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ashwin
+    - ID: "81a22ada-6ae2-465f-bacc-2dcf71c63912"
+      Hint: Decline Text
+      Value: I Decline
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7195fc82-5c31-474e-a64e-bfbb6c72722e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ashwin
+    - ID: "c639aa9e-80c8-4675-b758-93b98ead993a"
+      Hint: Cookie Settings Content
+      Value: <p>This website would like to use cookies to store information on your computer which will help to customize your interactions with us and provide you with a better browser experience. You may delete and block cookies from this site, but parts of the site may not function as a result. More information about cookies and your choice can be found in our Privacy Policy. To accept cookies from this site, please click the &lsquo;I Accept&rsquo; button below.</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190629T032558Z

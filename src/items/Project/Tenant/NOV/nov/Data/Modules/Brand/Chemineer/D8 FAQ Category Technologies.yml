@@ -1,0 +1,85 @@
+﻿---
+ID: "085d1831-23f0-4730-a997-8e2dbef7b5e5"
+Parent: "d843bee8-cdb8-4ac2-96fc-51bc570033dd"
+Template: "e72055ed-0d80-45c5-85d8-3f8c7930b8cd"
+Path: /sitecore/content/nov/nov/Data/Modules/Brand/Chemineer/D8 FAQ Category Technologies
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210921T215320Z
+    - ID: "31c532ea-231a-485c-a147-2a76a6a36aa2"
+      Hint: category
+      Value: Superior Mixing Technology
+    - ID: "3b82af21-919f-4ad4-8061-7a01e9ac90b2"
+      Hint: accordion
+      Value: "{D99BF881-1F4A-41A3-AF9D-C4D35C722CCE}|{CF1675C1-3677-4DF8-B35F-089B64BFCF34}|{8B3437BD-8EEA-4E55-A57D-0F9CC7EBB51E}|{8F6A4894-5AC7-4B26-AAC3-FEE53900E3DF}|{3D38301C-3916-41D8-996D-625F7901851F}"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "01e333fc-430e-433a-a997-f26926f6df20"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20211027T144518Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211027T212101Z
+    - ID: "31c532ea-231a-485c-a147-2a76a6a36aa2"
+      Hint: category
+      Value: Superior Mixing Technology and R&D
+    - ID: "3b82af21-919f-4ad4-8061-7a01e9ac90b2"
+      Hint: accordion
+      Value: "{D99BF881-1F4A-41A3-AF9D-C4D35C722CCE}|{CF1675C1-3677-4DF8-B35F-089B64BFCF34}|{8B3437BD-8EEA-4E55-A57D-0F9CC7EBB51E}|{8F6A4894-5AC7-4B26-AAC3-FEE53900E3DF}|{3D38301C-3916-41D8-996D-625F7901851F}"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "00fbe9f2-6189-4d15-898a-6bac7bf0c89b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20211027T212101Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20211028T134308Z

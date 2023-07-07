@@ -1,0 +1,87 @@
+﻿---
+ID: "81601a21-e4e1-45ac-99d6-67f40824fb8b"
+Parent: "d291b40e-edcc-4b0c-a998-50b0f2d4268e"
+Template: "78044766-dc09-4cb2-8178-3771ed128705"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/CAPS/Intervention and Stimulation Equipment/SandBank Proppant Silo System/SandBank_D92 Image Block Small Square Lower Middle
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190321T185158Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticljensen
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\verticljensen
+    - ID: "6395e387-c2df-4300-85b3-93850c017f80"
+      Hint: image
+      Value: |
+        <image mediaid="{24491490-F330-410F-9364-0A06812E506D}" cropregion="0,360,1920,2520" ratio="480:540" width="480" height="540" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5a2ef2f4-2e66-4859-bdd4-cce6c69b74d9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\verticljensen
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190321T185734Z
+    - ID: "fdedb294-6ff7-4d32-bfc6-44c8e7828aee"
+      Hint: Headline
+      Value: Enclosed Feed Path Mitigates Dust
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190415T190348Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticljensen
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "6395e387-c2df-4300-85b3-93850c017f80"
+      Hint: image
+      Value: |
+        <image mediaid="{24491490-F330-410F-9364-0A06812E506D}" cropregion="0,360,1920,2520" ratio="480:540" width="480" height="540" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6dca248a-45f2-4525-8731-c77862429019"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190415T190348Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190702T151712Z
+    - ID: "fdedb294-6ff7-4d32-bfc6-44c8e7828aee"
+      Hint: Headline
+      Value: Enclosed feed path mitigates dust

@@ -1,0 +1,372 @@
+﻿---
+ID: "62813ee7-0cc2-4165-949d-b4ca6f9a77b2"
+Parent: "bb26ac8c-4364-441e-84ae-1f840bfbf56c"
+Template: "fef13e36-84bd-4734-b569-e51d7f7e2a36"
+Path: /sitecore/content/nov/nov/Data/Modules/Capability/Drilling/D3 Content Block Text Drilling
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190306T151952Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "4593422d-98d7-497e-b649-a5ade9061f97"
+      Hint: heading
+      Value: Drilling
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joshuashearer
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joshuashearer
+    - ID: "70e126a1-8914-4930-8325-b0090275e26e"
+      Hint: body
+      Value: |
+        We design and build rigs and a variety of drilling-related equipment, like top drives and iron roughnecks. Our drill bits and directional drilling tools help you geosteer into production sweet spots at higher ROP, with other downhole tools for drilling and intervention further enhancing performance. All this wouldn&rsquo;t be possible without drill pipe, drill pipe connections, and related corrosion-control and wear-prevention services for drill pipe lifecycle management. Instrumentation, data acquisition and analysis technology, and wellsite reporting software make sure you&rsquo;re getting the most out of your drilling program.&nbsp;<br />
+        <br />
+        <br />
+        We also offer solids control and waste management equipment and services, as well as a range of oil- and water-based drilling fluids systems. Our comprehensive portfolio of drilling equipment and technologies helps make your drilling operations more efficient and cost-effective.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "572f980f-e7d4-417b-b7d6-612eda7063f3"
+    - ID: "9ce372ba-72d4-44e1-84d1-e5dc70965cc3"
+      Hint: image
+      Value: |
+        <image ratio="385:385" height="385" mediaid="{ECBDC0CA-91D5-4C2D-9959-49A347A018BD}" cropregion="0,59,960,1019" width="385" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190723T141642Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190306T192423Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "4593422d-98d7-497e-b649-a5ade9061f97"
+      Hint: heading
+      Value: Drilling
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joshuashearer
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joshuashearer
+    - ID: "70e126a1-8914-4930-8325-b0090275e26e"
+      Hint: body
+      Value: |
+        We design and build rigs and a variety of drilling-related equipment, like top drives and iron roughnecks. Our drill bits and directional drilling tools help you geosteer into production sweet spots at higher ROP, with other downhole tools for drilling and intervention further enhancing performance. All this wouldn&rsquo;t be possible without drill pipe, drill pipe connections, and related corrosion-control and wear-prevention services for drill pipe lifecycle management. Instrumentation, data acquisition and analysis technology, and wellsite reporting software make sure you&rsquo;re getting the most out of your drilling program.&nbsp;<br />
+        <br />
+        <br />
+        We also offer solids control and waste management equipment and services, as well as a range of oil- and water-based drilling fluids systems. Our comprehensive portfolio of drilling equipment and technologies helps make your drilling operations more efficient and cost-effective.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "48b01950-08a9-4381-ae74-3546c21eb66d"
+    - ID: "9ce372ba-72d4-44e1-84d1-e5dc70965cc3"
+      Hint: image
+      Value: |
+        <image mediaid="{AD50081C-E7F5-4112-941D-E9668541E174}" cropregion="419,0,1499,1080" ratio="385:385" width="385" height="385" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\joshuashearer
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190306T192423Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190306T192453Z
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190306T192721Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "4593422d-98d7-497e-b649-a5ade9061f97"
+      Hint: heading
+      Value: Drilling
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joshuashearer
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joshuashearer
+    - ID: "70e126a1-8914-4930-8325-b0090275e26e"
+      Hint: body
+      Value: |
+        We design and build rigs and a variety of drilling-related equipment, like top drives and iron roughnecks. Our drill bits and directional drilling tools help you geosteer into production sweet spots at higher ROP, with other downhole tools for drilling and intervention further enhancing performance. All this wouldn&rsquo;t be possible without drill pipe, drill pipe connections, and related corrosion-control and wear-prevention services for drill pipe lifecycle management. Instrumentation, data acquisition and analysis technology, and wellsite reporting software make sure you&rsquo;re getting the most out of your drilling program.&nbsp;<br />
+        <br />
+        <br />
+        We also offer solids control and waste management equipment and services, as well as a range of oil- and water-based drilling fluids systems. Our comprehensive portfolio of drilling equipment and technologies helps make your drilling operations more efficient and cost-effective.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "043a8fb0-8181-49a4-86aa-021016da0457"
+    - ID: "9ce372ba-72d4-44e1-84d1-e5dc70965cc3"
+      Hint: image
+      Value: |
+        <image mediaid="{6924B624-AED0-4345-9A28-841673972176}" cropregion="419,0,1499,1080" ratio="385:385" width="385" height="385" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\joshuashearer
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190306T192721Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190306T192756Z
+  - Version: 4
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190327T191846Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "4593422d-98d7-497e-b649-a5ade9061f97"
+      Hint: heading
+      Value: Drilling
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joshuashearer
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\verticachang
+    - ID: "70e126a1-8914-4930-8325-b0090275e26e"
+      Hint: body
+      Value: |
+        We design and build rigs and a variety of drilling-related equipment, like top drives and iron roughnecks. Our drill bits and directional drilling tools help you geosteer into production sweet spots at higher ROP, with other downhole tools for drilling and intervention further enhancing performance. All this wouldn&rsquo;t be possible without drill pipe, drill pipe connections, and related corrosion-control and wear-prevention services for drill pipe lifecycle management. Instrumentation, data acquisition and analysis technology, and wellsite reporting software make sure you&rsquo;re getting the most out of your drilling program.&nbsp;<br />
+        <br />
+        <br />
+        We also offer solids control and waste management equipment and services, as well as a range of oil- and water-based drilling fluids systems. Our comprehensive portfolio of drilling equipment and technologies helps make your drilling operations more efficient and cost-effective.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e17937c6-ed7c-4453-a846-65f664f5b81d"
+    - ID: "9ce372ba-72d4-44e1-84d1-e5dc70965cc3"
+      Hint: image
+      Value: |
+        <image mediaid="{6924B624-AED0-4345-9A28-841673972176}" cropregion="419,0,1499,1080" ratio="385:385" width="385" height="385" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\verticachang
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190327T191846Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190327T191953Z
+  - Version: 5
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190418T141022Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "4593422d-98d7-497e-b649-a5ade9061f97"
+      Hint: heading
+      Value: Drilling
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joshuashearer
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "70e126a1-8914-4930-8325-b0090275e26e"
+      Hint: body
+      Value: |
+        <p>We design and build rigs and a variety of drilling-related equipment, like top drives and iron roughnecks. Our drill bits and directional drilling tools help you geosteer into production sweet spots at higher ROP, with other downhole tools for drilling and intervention further enhancing performance. All this wouldn’t be possible without drill pipe, drill pipe connections, and related corrosion-control and wear-prevention services for drill pipe lifecycle management. Instrumentation, data acquisition and analysis technology, and wellsite reporting software make sure you’re getting the most out of your drilling program.&nbsp;</p>
+        <p>We also offer solids control and waste management equipment and services, as well as a range of oil- and water-based drilling fluids systems. Our comprehensive portfolio of drilling equipment and technologies helps make your drilling operations more efficient and cost-effective.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4e48f1ac-6d78-4bbf-b9f4-44a6eca2831e"
+    - ID: "9ce372ba-72d4-44e1-84d1-e5dc70965cc3"
+      Hint: image
+      Value: |
+        <image mediaid="{6924B624-AED0-4345-9A28-841673972176}" cropregion="419,0,1499,1080" ratio="385:385" width="385" height="385" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190418T141022Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190418T141108Z
+  - Version: 6
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190418T141254Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "4593422d-98d7-497e-b649-a5ade9061f97"
+      Hint: heading
+      Value: Drilling
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joshuashearer
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "70e126a1-8914-4930-8325-b0090275e26e"
+      Hint: body
+      Value: |
+        <p>We design and build rigs and a variety of drilling-related equipment, like top drives and iron roughnecks. Our drill bits and directional drilling tools help you geosteer into production sweet spots at higher ROP, with other downhole tools for drilling and intervention further enhancing performance. All this wouldn’t be possible without drill pipe, drill pipe connections, and related corrosion-control and wear-prevention services for drill pipe lifecycle management. </p>
+        <p>Instrumentation, data acquisition and analysis technology, and wellsite reporting software make sure you’re getting the most out of your drilling program.&nbsp;</p>
+        <p>We also offer solids control and waste management equipment and services, as well as a range of oil- and water-based drilling fluids systems. Our comprehensive portfolio of drilling equipment and technologies helps make your drilling operations more efficient and cost-effective.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "93a157a6-a617-40ea-b32c-15d35e4139cb"
+    - ID: "9ce372ba-72d4-44e1-84d1-e5dc70965cc3"
+      Hint: image
+      Value: |
+        <image mediaid="{6924B624-AED0-4345-9A28-841673972176}" cropregion="419,0,1499,1080" ratio="385:385" width="385" height="385" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190418T141254Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190418T142027Z
+  - Version: 7
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190418T143022Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "4593422d-98d7-497e-b649-a5ade9061f97"
+      Hint: heading
+      Value: Drill safely and efficiently
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joshuashearer
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "70e126a1-8914-4930-8325-b0090275e26e"
+      Hint: body
+      Value: |
+        <p>We design and build rigs and a variety of drilling-related equipment, like top drives and iron roughnecks. Our drill bits and directional drilling tools help you geosteer into production sweet spots at higher ROP, with other downhole tools for drilling and intervention further enhancing performance. All this wouldn&rsquo;t be possible without drill pipe, drill pipe connections, and related corrosion-control and wear-prevention services for drill pipe life-cycle management. </p>
+        <p>Instrumentation, data acquisition and analysis technology, and wellsite reporting software make sure you&rsquo;re getting the most out of your drilling program.&nbsp;</p>
+        <p>We also offer solids control and waste management equipment and services, as well as a range of oil- and water-based drilling fluids systems. Our comprehensive portfolio of drilling equipment and technologies helps make your drilling operations more efficient and cost-effective.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ab50371b-84fc-422d-9895-07b2720962c4"
+    - ID: "9ce372ba-72d4-44e1-84d1-e5dc70965cc3"
+      Hint: image
+      Value: |
+        <image mediaid="{6924B624-AED0-4345-9A28-841673972176}" cropregion="841,0,1920,1079" ratio="385:385" width="385" height="385" alt="" hspace="" vspace="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190418T143022Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190418T152522Z
+  - Version: 8
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190418T152629Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "4593422d-98d7-497e-b649-a5ade9061f97"
+      Hint: heading
+      Value: Safe, efficient drilling solutions
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joshuashearer
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "70e126a1-8914-4930-8325-b0090275e26e"
+      Hint: body
+      Value: |
+        <p>We design and build rigs and a variety of drilling-related equipment, like top drives and iron roughnecks. Our drill bits and directional drilling tools help you geosteer into production sweet spots at higher ROP, with other downhole tools for drilling and intervention further enhancing performance. All this wouldn&rsquo;t be possible without drill pipe, drill pipe connections, and related corrosion-control and wear-prevention services for drill pipe life-cycle management. </p>
+        <p>Instrumentation, data acquisition and analysis technology, and wellsite reporting software make sure you&rsquo;re getting the most out of your drilling program.&nbsp;</p>
+        <p>We also offer solids control and waste management equipment and services, as well as a range of oil- and water-based drilling fluids systems. Our comprehensive portfolio of drilling equipment and technologies helps make your drilling operations more efficient and cost-effective.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2aef920d-288d-4315-99e6-aac633e59998"
+    - ID: "9ce372ba-72d4-44e1-84d1-e5dc70965cc3"
+      Hint: image
+      Value: |
+        <image mediaid="{6924B624-AED0-4345-9A28-841673972176}" cropregion="841,0,1920,1079" ratio="385:385" width="385" height="385" alt="" hspace="" vspace="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190418T152629Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190418T152736Z

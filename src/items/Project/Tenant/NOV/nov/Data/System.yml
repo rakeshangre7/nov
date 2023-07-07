@@ -1,0 +1,30 @@
+﻿---
+ID: "7709cdcf-ebe4-485d-9aca-b79bdda6bb2d"
+Parent: "8ca9de35-0aeb-45a5-90d7-0ccebeb23287"
+Template: "95f18b83-1ff4-439a-b05a-011155fe05cf"
+Path: /sitecore/content/nov/nov/Data/System
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 700
+- ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
+  Hint: __Security
+  Value: 
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180930T172827Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "678dde2c-6d1b-47b1-b001-7d8d6d95a543"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ashwin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20180930T172827Z

@@ -1,0 +1,106 @@
+﻿---
+ID: "7005c117-3de0-401f-8513-ec4bd8df4f3e"
+Parent: "4aaa02cf-6d54-4b86-87a0-da86c289e5ef"
+Template: "5030864f-eb96-4da7-a417-e5a0108c59f8"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/CAPS/Intervention and Stimulation Equipment/Bail Assembly Spreader System BASS/BASS J6 Product Table
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190318T205429Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\shelbydumaine
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\shelbydumaine
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td>
+                    <p><strong>&nbsp;</strong></p>
+                    </td>
+                    <td>
+                    <p><strong>500 T (453.59 mT) BASS with Bails</strong></p>
+                    </td>
+                    <td>
+                    <p><strong>500 T (453.59 mT) BASS with Beams</strong></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>ID</p>
+                    </td>
+                    <td>
+                    <p>-81 in. (2.06m)</p>
+                    </td>
+                    <td>
+                    <p>-80 in. (2.03m)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Weight</p>
+                    </td>
+                    <td>
+                    <p>20,060 lbs + Bails (89.23 kn)</p>
+                    </td>
+                    <td>
+                    <p>56,500 lbs (251.32 kn)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Length</p>
+                    </td>
+                    <td>
+                    <p>Up to 60 ft</p>
+                    </td>
+                    <td>
+                    <p>528 in. (913.41 m)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Overall width</p>
+                    </td>
+                    <td>
+                    <p>79 in. (2.01 m)</p>
+                    </td>
+                    <td>
+                    <p>102 in. (2.59 m)</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "efdea74f-60d4-4c75-8a82-3b0f796027b4"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: Bail Assembly Spreader System Specifications
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\shelbydumaine
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190318T205758Z

@@ -1,0 +1,48 @@
+﻿---
+ID: "fffaa500-0b42-48c9-8b52-f0452de9a1c6"
+Parent: "2910c5cc-8aee-4cae-b5b8-9e1244a1bee0"
+Template: "c9d1f897-2d95-4173-9c0e-be190a7fd69e"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/CAPS/Completion Tools/Feb 5 Test/D9 Image Block 1920x1080
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 3050
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190214T215845Z
+    - ID: "3bb32c55-8204-4e4c-bc91-26197822ead5"
+      Hint: image
+      Value: |
+        <image mediaid="{781775B9-347B-4F17-9626-C35C1DCD75EE}" cropregion="0,172,1920,1252" ratio="1920:1080" width="1920" height="1080" />
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "35a03d16-bc87-4328-94e8-4d548b8f9e21"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190214T215948Z
+    - ID: "fdedb294-6ff7-4d32-bfc6-44c8e7828aee"
+      Hint: Headline
+      Value: D9 Image Block

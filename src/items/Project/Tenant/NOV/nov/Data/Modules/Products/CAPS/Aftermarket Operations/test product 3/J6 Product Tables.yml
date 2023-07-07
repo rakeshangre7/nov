@@ -1,0 +1,240 @@
+﻿---
+ID: "a2396973-678c-4d33-a73c-3da6c029c24b"
+Parent: "34cb99d0-8495-497b-97b7-d988301ea459"
+Template: "5030864f-eb96-4da7-a417-e5a0108c59f8"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/CAPS/Aftermarket Operations/test product 3/J6 Product Tables
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 5400
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181205T094957Z
+    - ID: "43622441-3846-443d-a588-c8a468673d55"
+      Hint: description
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mathias
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mathias
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td>Product&nbsp;</td>
+                    <td>
+                    <p>Product</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>&nbsp;Design</td>
+                    <td>Design</td>
+                </tr>
+                <tr>
+                    <td>Product</td>
+                    <td>Product</td>
+                </tr>
+                <tr>
+                    <td>Design</td>
+                    <td>Design</td>
+                </tr>
+                <tr>
+                    <td>Product</td>
+                    <td>Product</td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td>&nbsp;</td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td>&nbsp;</td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td>&nbsp;</td>
+                </tr>
+            </tbody>
+        </table>
+        <br />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ac1a8cad-1e7f-4754-8c6c-0948e894efb2"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: TorqueMaster Model 8054 Unit
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mathias
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20181211T075903Z
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181211T202940Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{8B87E652-E3F7-4C54-BDD9-66E1B888FF8B}"
+    - ID: "43622441-3846-443d-a588-c8a468673d55"
+      Hint: description
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mathias
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\verticeditor
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td>Product&nbsp;</td>
+                    <td>
+                    <p>Product</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>&nbsp;Design</td>
+                    <td>Design</td>
+                </tr>
+                <tr>
+                    <td>Product</td>
+                    <td>Product</td>
+                </tr>
+                <tr>
+                    <td>Design</td>
+                    <td>Design</td>
+                </tr>
+                <tr>
+                    <td>Product</td>
+                    <td>Product</td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td>&nbsp;</td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td>&nbsp;</td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td>&nbsp;</td>
+                </tr>
+            </tbody>
+        </table>
+        <br />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8b6a27b6-3dc9-4ec2-92b6-ab56fc126b6a"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: TorqueMaster Model 8054 Unit
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\verticeditor
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20181211T202940Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20181211T203040Z
+  - Version: 3
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181217T101337Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{37CE6828-491E-4AF1-A858-254564BEE5B8}"
+    - ID: "43622441-3846-443d-a588-c8a468673d55"
+      Hint: description
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mathias
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mathias
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td style="text-align: left;">Product&nbsp;</td>
+                    <td style="text-align: left;">
+                    <p>Product</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align: left;">&nbsp;Design</td>
+                    <td style="text-align: left;">Design</td>
+                </tr>
+                <tr>
+                    <td style="text-align: left;">Product</td>
+                    <td style="text-align: left;">Product</td>
+                </tr>
+                <tr>
+                    <td style="text-align: left;">Design</td>
+                    <td style="text-align: left;">Design</td>
+                </tr>
+                <tr>
+                    <td style="text-align: left;">Product</td>
+                    <td style="text-align: left;">Product</td>
+                </tr>
+                <tr>
+                    <td style="text-align: left;">&nbsp;Design</td>
+                    <td style="text-align: left;">Design</td>
+                </tr>
+                <tr>
+                    <td style="text-align: left;">Product</td>
+                    <td style="text-align: left;">Product</td>
+                </tr>
+                <tr>
+                    <td style="text-align: left;">Design</td>
+                    <td style="text-align: left;">Design</td>
+                </tr>
+            </tbody>
+        </table>
+        <br />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "380cb63d-de36-47c6-9682-8c193c1adcd9"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: TorqueMaster Model 8054 Unit
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mathias
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20181217T101337Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190123T130958Z

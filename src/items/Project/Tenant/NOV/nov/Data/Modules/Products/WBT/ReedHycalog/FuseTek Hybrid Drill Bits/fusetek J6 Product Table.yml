@@ -1,0 +1,298 @@
+﻿---
+ID: "91db9583-b733-4b53-aac0-f7799542c4d9"
+Parent: "0e649d7d-6719-435f-b01b-ff4cc7ffa364"
+Template: "5030864f-eb96-4da7-a417-e5a0108c59f8"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/WBT/ReedHycalog/FuseTek Hybrid Drill Bits/fusetek J6 Product Table
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190327T195649Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\shelbydumaine
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\shelbydumaine
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td>
+                    <p><strong>Size (in.)</strong></p>
+                    </td>
+                    <td>
+                    <p><strong>Configuration</strong></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>13⅛</p>
+                    </td>
+                    <td>
+                    <p>FT616</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>12&frac14;</p>
+                    </td>
+                    <td>
+                    <p>FT716</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>8&frac12;</p>
+                    </td>
+                    <td>
+                    <p>FT813</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>8&frac12;</p>
+                    </td>
+                    <td>
+                    <p>FT613</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>8⅜</p>
+                    </td>
+                    <td>
+                    <p>FT813</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>6⅛</p>
+                    </td>
+                    <td>
+                    <p>FT613</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>6 </p>
+                    </td>
+                    <td>
+                    <p>FT713</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p>&nbsp;</p>
+        <p>Additional sizes are currently in development.&nbsp;&nbsp;</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a65d964b-614f-450c-af59-711e7ef0045f"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: Specification Table
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\shelbydumaine
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190327T204419Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190716T205455Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\shelbydumaine
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td>
+                    <p><strong>Size (in.)</strong></p>
+                    </td>
+                    <td>
+                    <p><strong>Configuration</strong></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>13⅛</p>
+                    </td>
+                    <td>
+                    <p>FT616</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>12&frac14;</p>
+                    </td>
+                    <td>
+                    <p>FT716</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>8&frac12;</p>
+                    </td>
+                    <td>
+                    <p>FT813</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>8&frac12;</p>
+                    </td>
+                    <td>
+                    <p>FT613</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>8⅜</p>
+                    </td>
+                    <td>
+                    <p>FT813</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>6⅛</p>
+                    </td>
+                    <td>
+                    <p>FT613</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>6 </p>
+                    </td>
+                    <td>
+                    <p>FT713</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p>&nbsp;</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d178f29e-53df-4b8b-927e-0ef2ea7a0eab"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: FuseTek Hybrid Drill Bit Specifications
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190716T205455Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190716T210053Z
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190923T140919Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\shelbydumaine
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td><strong>Size (in.)</strong></td>
+                    <td><strong>Configuration</strong></td>
+                </tr>
+                <tr>
+                    <td>13⅛</td>
+                    <td>FT616</td>
+                </tr>
+                <tr>
+                    <td>12&frac14;</td>
+                    <td>FT716</td>
+                </tr>
+                <tr>
+                    <td>8&frac12;</td>
+                    <td>FT813</td>
+                </tr>
+                <tr>
+                    <td>8&frac12;</td>
+                    <td>FT613</td>
+                </tr>
+                <tr>
+                    <td>8⅜</td>
+                    <td>FT813</td>
+                </tr>
+                <tr>
+                    <td>6⅛</td>
+                    <td>FT613</td>
+                </tr>
+                <tr>
+                    <td>6</td>
+                    <td>FT713</td>
+                </tr>
+            </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b6e08289-ea45-4082-b515-5058ce5187ce"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: FuseTek Hybrid Drill Bit Specifications
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190923T140919Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190923T141138Z

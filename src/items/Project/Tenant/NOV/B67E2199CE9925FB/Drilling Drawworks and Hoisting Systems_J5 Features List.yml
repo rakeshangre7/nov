@@ -1,0 +1,238 @@
+﻿---
+ID: "5439d146-71e2-4d37-90b0-6e28395b37ee"
+Parent: "3991efb9-895c-4446-8033-3bb7944a02ca"
+Template: "c0aa2bad-85b9-47e4-a236-901c3115fb87"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/RIG/Rig Equipment/Drilling Drawworks and Hoisting Systems/Drilling Drawworks and Hoisting Systems_J5 Features List
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190305T194518Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "4d669ee9-9ff5-4c31-a025-56035d1727a1"
+      Hint: column1Headline
+      Value: "Automation of repetitive drilling operations is offered through a variety of user-friendly NOV control systems. The control system software includes the following features as standard:"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4e96ccdd-563c-47ca-9d5d-80c225205987"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: |
+        <p>ADS drawworks are equipped with AC motors that provide significantly more performance and require approximately half the space and weight with less maintenance than traditional drawworks.</p>
+        <p>The AC electric-powered SSGD drawworks offer a design unique to the industry. By powering a drawworks with AC motors, we created a single-shaft, single-speed drawworks with hoisting performances comparable to a conventional drawworks. The result is a simple, lightweight design with few mechanical parts and a small footprint. These drawworks require minimal maintenance and are entirely self-contained.</p>
+        <p>Our Dual Speed Gear Driven™ (DSGD) drawworks are setting new standards in the drilling industry. These AC drawworks feature a two-speed helical gearbox mounted directly on the drum shaft, which is ideal for any application for which size and weight are critical factors. The two-speed functionality provides both extremely fast hoisting speeds and heavy hook-load hoisting capabilities. The new DSGD-CX425 drawworks is a simple, modular design that provides the flexibility needed for most drillfloor configurations.</p>
+        <p>The Active-Heave Drawworks (AHD) sets new drilling standards for compensation, accuracy, improved wireline life, workable load range, and rig safety by providing proven active-heave motion compensation for floating rig applications. These drawworks eliminate the need for overhead motion compensation, providing a lower center of gravity and less operational cost. The AC electric motors provide improved speed and torque control independent of load and speed as well as the ability to keep the maximum hookload at a standstill indefinitely. In addition, braking energy is regenerated and can be fed back into the drilling rig electrical system, which increases overall rig efficiency. And due to active heave compensation, the drilling operational window is increased by allowing drilling programs to continue in heavier seas than conventional drawworks.</p>
+        <p>The dual active-heave drawworks solution builds on value delivered by NOV’s active-heave compensating drawworks. There are numerous advantages associated with installing two independent AH drawworks as a dual AH drawworks solution versus a single drawworks. If one unit fails, the other provides 100% lifting capacity, 50% speed capacity, 50% heave compensating capacity at high loads, and 30% heave compensation capacity at low loads. Continuous uninterrupted operations can continue even if one unit is stopped for maintenance. This redundancy also increases safety for fixed-to-bottom operations, because one unit will continue heave compensation even if the other is stopped.</p>
+        <p>Our conventional, chain-driven drawworks are proven, reliable machines that set many standards in the drilling industry. The robust design and simplicity of these drawworks allow for easy operation and maintenance. These drawworks are designed to provide maximum power in minimum space and feature DC electric motor drives.</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190305T195404Z
+    - ID: "f6afec27-750a-4d77-962d-3ce002b623b9"
+      Hint: column1List
+      Value: |
+        <ul>
+            <li>Monitoring and control of brake and lube system</li>
+            <li>Monitoring of AC motor temperature and cooling pressure</li>
+            <li>Interface to hook load sensor (dead line)</li>
+            <li>Dynamic floor and crown saver system</li>
+            <li>Disc brake testing system</li>
+            <li>Disc brake burnishing system</li>
+            <li>Slip and cut function</li>
+            <li>Drawworks power management system</li>
+        </ul>
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190305T204602Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "4d669ee9-9ff5-4c31-a025-56035d1727a1"
+      Hint: column1Headline
+      Value: "Automation of repetitive drilling operations is offered through a variety of user-friendly NOV control systems. The control system software includes the following features as standard:"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "eaaeb97e-08d8-42e5-86c4-31b1ed56a439"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: |
+        <p>ADS drawworks are equipped with AC motors that provide significantly more performance and require approximately half the space and weight with less maintenance than traditional drawworks.</p>
+        <p>The AC electric-powered SSGD drawworks offer a design unique to the industry. By powering a drawworks with AC motors, we created a single-shaft, single-speed drawworks with hoisting performances comparable to a conventional drawworks. The result is a simple, lightweight design with few mechanical parts and a small footprint. These drawworks require minimal maintenance and are entirely self-contained.</p>
+        <p>Our DSGD drawworks are setting new standards in the drilling industry. These AC drawworks feature a two-speed helical gearbox mounted directly on the drum shaft, which is ideal for any application for which size and weight are critical factors. The two-speed functionality provides both extremely fast hoisting speeds and heavy hook-load hoisting capabilities. The new DSGD-CX425 drawworks is a simple, modular design that provides the flexibility needed for most drillfloor configurations.</p>
+        <p>The AHD drawworks set new drilling standards for compensation, accuracy, improved wireline life, workable load range, and rig safety by providing proven active-heave motion compensation for floating rig applications. These drawworks eliminate the need for overhead motion compensation, providing a lower center of gravity and less operational cost. The AC electric motors provide improved speed and torque control independent of load and speed as well as the ability to keep the maximum hookload at a standstill indefinitely. In addition, braking energy is regenerated and can be fed back into the drilling rig electrical system, which increases overall rig efficiency. And due to active-heave compensation, the drilling operational window is increased by allowing drilling programs to continue in heavier seas than conventional drawworks.</p>
+        <p>The dual active-heave drawworks solution builds on value delivered by NOV&rsquo;s active-heave compensating drawworks. There are numerous advantages associated with installing two independent AH drawworks as a dual AH drawworks solution versus a single drawworks. If one unit fails, the other provides 100% lifting capacity, 50% speed capacity, 50% heave compensating capacity at high loads, and 30% heave compensation capacity at low loads. Continuous uninterrupted operations can continue even if one unit is stopped for maintenance. This redundancy also increases safety for fixed-to-bottom operations, because one unit will continue heave compensation even if the other is stopped.</p>
+        <p>Our conventional, chain-driven drawworks are proven, reliable machines that set many standards in the drilling industry. The robust design and simplicity of these drawworks allow for easy operation and maintenance. These drawworks are designed to provide maximum power in minimum space and feature DC electric motor drives.</p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190305T204602Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190305T205533Z
+    - ID: "f6afec27-750a-4d77-962d-3ce002b623b9"
+      Hint: column1List
+      Value: |
+        <ul>
+            <li>Monitoring and control of brake and lube system</li>
+            <li>Monitoring of AC motor temperature and cooling pressure</li>
+            <li>Interface to hook load sensor (dead line)</li>
+            <li>Dynamic floor and crown saver system</li>
+            <li>Disc brake testing system</li>
+            <li>Disc brake burnishing system</li>
+            <li>Slip and cut function</li>
+            <li>Drawworks power management system</li>
+        </ul>
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190315T163409Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "4d669ee9-9ff5-4c31-a025-56035d1727a1"
+      Hint: column1Headline
+      Value: "Automation of repetitive drilling operations is offered through a variety of user-friendly NOV control systems. The control system software includes the following features as standard:"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "12a6d550-23a8-4b4b-8b86-fabde34202bc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: |
+        <p>Automated Drawworks Systems (ADS) drawworks are equipped with AC motors that provide significantly more performance and require approximately half the space and weight with less maintenance than traditional drawworks.</p>
+        <p>The AC electric-powered Single-Speed Gear-Driven (SSGD) drawworks offer a design unique to the industry. By powering a drawworks with AC motors, we created a single-shaft, single-speed drawworks with hoisting performances comparable to a conventional drawworks. The result is a simple, lightweight design with few mechanical parts and a small footprint. These drawworks require minimal maintenance and are entirely self-contained.</p>
+        <p>Our Dual Speed Gear Driven&nbsp;<span style="color: #000000;">(</span>DSGD&trade;) drawworks are setting new standards in the drilling industry. These AC drawworks feature a two-speed helical gearbox mounted directly on the drum shaft, which is ideal for any application for which size and weight are critical factors. The two-speed functionality provides both extremely fast hoisting speeds and heavy hook-load hoisting capabilities. The new DSGD-CX425 drawworks is a simple, modular design that provides the flexibility needed for most drillfloor configurations.</p>
+        <p>The Active Heave Drilling (AHD&trade;) drawworks set new drilling standards for compensation, accuracy, improved wireline life, workable load range, and rig safety by providing proven active-heave motion compensation for floating rig applications. These drawworks eliminate the need for overhead motion compensation, providing a lower center of gravity and less operational cost. The AC electric motors provide improved speed and torque control independent of load and speed as well as the ability to keep the maximum hookload at a standstill indefinitely. In addition, braking energy is regenerated and can be fed back into the drilling rig electrical system, which increases overall rig efficiency. And due to active-heave compensation, the drilling operational window is increased by allowing drilling programs to continue in heavier seas than conventional drawworks.</p>
+        <p>The dual active-heave drawworks solution builds on value delivered by NOV&rsquo;s active-heave compensating drawworks. There are numerous advantages associated with installing two independent AH drawworks as a dual AH drawworks solution versus a single drawworks. If one unit fails, the other provides 100% lifting capacity, 50% speed capacity, 50% heave compensating capacity at high loads, and 30% heave compensation capacity at low loads. Continuous uninterrupted operations can continue even if one unit is stopped for maintenance. This redundancy also increases safety for fixed-to-bottom operations, because one unit will continue heave compensation even if the other is stopped.</p>
+        <p>Our conventional, chain-driven drawworks are proven, reliable machines that set many standards in the drilling industry. The robust design and simplicity of these drawworks allow for easy operation and maintenance. These drawworks are designed to provide maximum power in minimum space and feature DC electric motor drives.</p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190315T163409Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190315T165211Z
+    - ID: "f6afec27-750a-4d77-962d-3ce002b623b9"
+      Hint: column1List
+      Value: |
+        <ul>
+            <li>Monitoring and control of brake and lube system</li>
+            <li>Monitoring of AC motor temperature and cooling pressure</li>
+            <li>Interface to hook load sensor (dead line)</li>
+            <li>Dynamic floor and crown saver system</li>
+            <li>Disc brake testing system</li>
+            <li>Disc brake burnishing system</li>
+            <li>Slip and cut function</li>
+            <li>Drawworks power management system</li>
+        </ul>
+  - Version: 4
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190426T170410Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "4d669ee9-9ff5-4c31-a025-56035d1727a1"
+      Hint: column1Headline
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e330e1ab-d379-4c59-be01-8fe85b1b1e91"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: |
+        <p>Automated Drawworks Systems (ADS) drawworks are equipped with AC motors that provide significantly more performance and require approximately half the space and weight with less maintenance than traditional drawworks.</p>
+        <p>The AC electric-powered Single-Speed Gear-Driven (SSGD) drawworks offer a design unique to the industry. By powering a drawworks with AC motors, we created a single-shaft, single-speed drawworks with hoisting performances comparable to a conventional drawworks. The result is a simple, lightweight design with few mechanical parts and a small footprint. These drawworks require minimal maintenance and are entirely self-contained.</p>
+        <p>Our Dual Speed Gear Driven&nbsp;<span style="color: #000000;">(</span>DSGD&trade;) drawworks are setting new standards in the drilling industry. These AC drawworks feature a two-speed helical gearbox mounted directly on the drum shaft, which is ideal for any application for which size and weight are critical factors. The two-speed functionality provides both extremely fast hoisting speeds and heavy hook-load hoisting capabilities. The new DSGD-CX425 drawworks is a simple, modular design that provides the flexibility needed for most drillfloor configurations.</p>
+        <p>The Active Heave Drilling (AHD&trade;) drawworks set new drilling standards for compensation, accuracy, improved wireline life, workable load range, and rig safety by providing proven active-heave motion compensation for floating rig applications. These drawworks eliminate the need for overhead motion compensation, providing a lower center of gravity and less operational cost. The AC electric motors provide improved speed and torque control independent of load and speed as well as the ability to keep the maximum hookload at a standstill indefinitely. In addition, braking energy is regenerated and can be fed back into the drilling rig electrical system, which increases overall rig efficiency. And due to active-heave compensation, the drilling operational window is increased by allowing drilling programs to continue in heavier seas than conventional drawworks.</p>
+        <p>The dual active-heave drawworks solution builds on value delivered by NOV&rsquo;s active-heave compensating drawworks. There are numerous advantages associated with installing two independent AH drawworks as a dual AH drawworks solution versus a single drawworks. If one unit fails, the other provides 100% lifting capacity, 50% speed capacity, 50% heave compensating capacity at high loads, and 30% heave compensation capacity at low loads. Continuous uninterrupted operations can continue even if one unit is stopped for maintenance. This redundancy also increases safety for fixed-to-bottom operations, because one unit will continue heave compensation even if the other is stopped.</p>
+        <p>Our conventional, chain-driven drawworks are proven, reliable machines that set many standards in the drilling industry. The robust design and simplicity of these drawworks allow for easy operation and maintenance. These drawworks are designed to provide maximum power in minimum space and feature DC electric motor drives.</p>
+        <p>Automation of repetitive drilling operations is offered through a variety of user-friendly NOV control systems. The control system software includes the following features as standard:</p>
+        <ul>
+            <li>Monitoring and control of brake and lube system</li>
+            <li>Monitoring of AC motor temperature and cooling pressure</li>
+            <li>Interface to hook load sensor (dead line)</li>
+            <li>Dynamic floor and crown saver system</li>
+            <li>Disc brake testing system</li>
+            <li>Disc brake burnishing system</li>
+            <li>Slip and cut function</li>
+            <li>Drawworks power management system</li>
+        </ul>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190426T170410Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190426T170450Z
+    - ID: "f6afec27-750a-4d77-962d-3ce002b623b9"
+      Hint: column1List
+      Value: 

@@ -1,0 +1,91 @@
+﻿---
+ID: "aa5b8fb9-76fe-47da-ae5d-b26542e3a71e"
+Parent: "b7c965fe-3cb2-426e-93ef-e1285c4f9df4"
+Template: "f1dd3a92-11da-48fd-8c6b-a1a776e58435"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/CAPS/Pole Products/Pole Products Field Support Services/Pole Products Field Support Services_E42 Content List 3x1
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190521T185552Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mecoreyna
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mecoreyna
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "39863b43-806c-467a-81fe-0864d5776e9a"
+    - ID: "8f3607eb-80dd-47ab-9f36-66ce787a5d33"
+      Hint: pages
+      Value: |
+        {BFF0BD1E-B27A-4E1E-A5B6-E37BA2706F03}
+        {02918F72-1AF8-4034-8397-ECE5ED5EA82F}
+    - ID: "ab8effd2-f3ac-49d1-8ea2-439030832c4c"
+      Hint: Headline
+      Value: Related Products
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mecoreyna
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190521T191734Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190524T153031Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mecoreyna
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mecoreyna
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d7d4efcc-38f4-47ff-8e1c-391e934005cb"
+    - ID: "8f3607eb-80dd-47ab-9f36-66ce787a5d33"
+      Hint: pages
+      Value: |
+        {142F3D98-23D6-4C94-B2F5-140D3EEDA83B}
+        {53A753AC-5875-4D2A-A59B-E0E0EA003BEB}
+        {93434A53-B124-417B-80FD-CFB8258AAAAB}
+        {396909AD-A0FB-469A-8ACF-F7CCD5E43553}
+    - ID: "ab8effd2-f3ac-49d1-8ea2-439030832c4c"
+      Hint: Headline
+      Value: Related Products
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190524T153031Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190703T130138Z

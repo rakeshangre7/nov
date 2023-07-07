@@ -1,0 +1,146 @@
+﻿---
+ID: "299c54fc-08c2-45fb-91df-060d97e69c59"
+Parent: "34b41a4a-a8b5-432c-8a07-b6ca70ada9da"
+Template: "34b41a4a-a8b5-432c-8a07-b6ca70ada9da"
+Path: /sitecore/templates/Project/nov/Item Types/Article Page/__Standard Values
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{40C0E7ED-9887-49E1-8E89-43D16DD2AD6C}">
+        <r
+          ds=""
+          id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+          par="Add Gradient&amp;Text Color=white"
+          ph="/main/hero-slide-{901672BD-109F-4BA8-9932-A6A9CA1537C0}-0"
+          uid="{9B4417AB-C22F-4C76-B2DC-98F2FCA8A71E}" />
+        <r
+          id="{AB213187-9551-4F9B-AE3D-261BB2B2434F}"
+          ph="main"
+          uid="{901672BD-109F-4BA8-9932-A6A9CA1537C0}" />
+        <r
+          ds="{3D607083-9FB4-413F-AEDF-C221259A4190}"
+          id="{2002D52F-38B0-48F3-8256-F67F34126723}"
+          par=""
+          ph="main"
+          uid="{10CEBA25-FC2A-4F84-8760-9B825D4EAF06}" />
+        <r
+          ds="{FFFAFFCA-08C2-4474-A8C4-B2001A435F64}"
+          id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+          par=""
+          ph="main"
+          uid="{37DC6908-9973-4BF3-AA1F-616581927F03}" />
+        <r
+          ds="{1354155E-6829-4E5D-944C-59CDCCCAE440}"
+          id="{F6988CA1-8F6A-4235-8851-39729DDF65B4}"
+          par="Alignment=right"
+          ph="main"
+          uid="{3A4E7139-50CB-4BD5-AB2E-460BC7CE5AAF}" />
+        <r
+          ds="{FFFAFFCA-08C2-4474-A8C4-B2001A435F64}"
+          id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+          par=""
+          ph="main"
+          uid="{29B80482-A671-447F-BB46-8121D422BD81}" />
+        <r
+          ds="{8D5667CF-68FB-49E9-A540-98DB9BB81728}"
+          id="{2E6C5F1E-BC4A-4FBE-BC72-FBCB237F8DDC}"
+          par=""
+          ph="main"
+          uid="{97344B92-7C95-4AC5-BA52-015B4E4B60A0}" />
+        <r
+          ds="{3E75C232-A3C2-498A-9AD4-A762CA23BFB8}"
+          id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+          par=""
+          ph="main"
+          uid="{7FCE1D2B-E077-4A3D-AF80-996014D9B527}" />
+        <r
+          ds="{FFFAFFCA-08C2-4474-A8C4-B2001A435F64}"
+          id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+          par=""
+          ph="main"
+          uid="{B7906B15-B51F-4DDA-9D56-0D4EDD3DF208}" />
+        <r
+          ds="{36B70B95-7C53-44B8-9F6F-99297D8A9F38}"
+          id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+          par=""
+          ph="main"
+          uid="{9B9C6914-204E-47B8-ABD6-F2712DC7BB72}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180918T212908Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ashwin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ashwin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2361e7df-bd98-45ca-976a-ed3239c67b5b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\varalakshmi.md@horizontal.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230706T170915Z
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1a57e23f-e82c-4721-8eaa-f1ccc23fcb00"
+      Hint: Author
+      Value: |
+        sitecore\admin
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: $name
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180919T141027Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: $name
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: $name
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ashwin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ashwin
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: $name
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "54bc8a2b-46c7-45b0-b480-318e04a6bd10"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "bcfd3e35-8ec5-4ba4-b22f-00669ef4d2d5"
+      Hint: Publish Date
+      Value: 20211214Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220505T200536Z

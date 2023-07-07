@@ -1,0 +1,46 @@
+﻿---
+ID: "268ffc24-5d49-4952-b5ab-23594ac04ada"
+Parent: "b53bdb3a-bbc7-4051-8dcf-ba3709252a63"
+Template: "b53bdb3a-bbc7-4051-8dcf-ba3709252a63"
+Path: /sitecore/templates/Feature/NOV Com/Modules/Search Modules/Search Stock/__Standard Values
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "18d4310a-0ed7-4bcf-b6c4-3184fca72a48"
+      Hint: price
+      Value: Price
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190121T205918Z
+    - ID: "44e4a266-0866-4d7e-90ab-113827fe555d"
+      Hint: timezone
+      Value: EST
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "76881cb9-cd5c-4db2-a909-dd822e333db5"
+      Hint: dataAsOf
+      Value: Data as of
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "20084b21-4ece-4db0-99be-d5154d575f93"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "cc1fa28f-7f85-4e66-aa6c-076b8d0f3cc0"
+      Hint: change
+      Value: Change
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190122T205657Z
+    - ID: "ff84eff2-36e7-4a5b-90bd-2529726f1e96"
+      Hint: volume
+      Value: Volume

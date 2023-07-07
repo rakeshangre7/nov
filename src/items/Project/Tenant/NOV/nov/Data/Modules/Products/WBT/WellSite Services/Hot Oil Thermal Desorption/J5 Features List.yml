@@ -1,0 +1,855 @@
+﻿---
+ID: "9f5a5c0b-1025-4c03-9a11-1f493a9868c1"
+Parent: "542fef69-a19b-4f4f-8d97-057c8bc79928"
+Template: "c0aa2bad-85b9-47e4-a236-901c3115fb87"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/WBT/WellSite Services/Hot Oil Thermal Desorption/J5 Features List
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190425T174328Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "443b76eb-a2d1-4050-b1d5-fc06c8737bee"
+      Hint: column3List
+      Value: |
+        <p>In addition to drilling waste treatment, the waste management site provides a high-quality commodity: recovered oil for reuse in base mud and in the TDU's heating process. The TDU processes the oil in a manner that does not significantly alter the chemical composition of the base oil. As an option, odor treatment of the oil is also available.<br />
+        Gas Chromatography and Mass Spectroscopy (GC/MS) scans are shown below. GC/MS scans routinely performed on base oil treated by the hot oil TDU demonstrate little change in the oil's chemical composition. Frequently, the oil has been used to make-up new OBM. Recovered base oil from the TDU typically displays a clear yellow color.</p>
+    - ID: "4d669ee9-9ff5-4c31-a025-56035d1727a1"
+      Hint: column1Headline
+      Value: "Oil-based drill cuttings treatment"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mecoreyna
+    - ID: "592042cb-e14f-4127-8f6b-3f25c3759c8e"
+      Hint: column2List
+      Value: |
+        <p>A typical waste management center designed by NOV contains locations for:<br />
+        -&nbsp;In-weighing of received waste<br />
+        -&nbsp;Discharge systems for waste containers (skips)<br />
+        -&nbsp;Wash bay for skips<br />
+        -&nbsp;Pits for cuttings<br />
+        -&nbsp;Tank farm for recovered oil and water<br />
+        -&nbsp;Tanks for water treatment<br />
+        -&nbsp;Thermal desorption units (TDUs)<br />
+        -&nbsp;Storage and inspection area for full or empty skips<br />
+        -&nbsp;Control center and laboratory<br />
+        -&nbsp;Surface layer and sewage systems&nbsp;<br />
+        -&nbsp;Compliance with the strictest international standards<br />
+        -&nbsp;Complete oil spill response systems and equipment<br />
+        <br />
+        Typically, the waste management site operates 24 hours a day, 7 days a week, with a total staff of 10 to 15 people. Depending on the requirements of the application, the site can be designed for the treatment of drill cuttings anywhere from 6,000 to 48,000 tons per annum.<br />
+        Erection of the site, including civil work, normally begins 6 months from the reception of the final treatment license. This license is typically issued by the operating country's national environmental agency. Upon arrival, the erection and commissioning of the processing equipment within the waste management site usually takes about 14 days. Additionally, the control center within the waste management site produces production reports for customers.</p>
+        <div>&nbsp;</div>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mecoreyna
+    - ID: "79b6230b-39a0-4a28-adf6-9ec3024425c2"
+      Hint: column2Headline
+      Value: Waste management site
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5c49f941-d331-4f9f-822a-21fb85a7e154"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mecoreyna
+    - ID: "cd6306bb-152c-471d-881c-66094f05d557"
+      Hint: column3Headline
+      Value: Base oil reuse
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190425T180908Z
+    - ID: "f6afec27-750a-4d77-962d-3ce002b623b9"
+      Hint: column1List
+      Value: |
+        <p>An increase in global awareness of the need for environmental preservation has led the drilling industry to adapt to changes in environmental policies. National environmental laws are now being strictly enforced, and companies must adapt their policies to abide by these regulations. The treatment of drill cuttings with thermal desorption provides an excellent option for meeting these standards. NOV has more than 20 years of experience in the thermal treatment of drill cuttings.</p>
+        <p>The Hot Oil Thermal Desorption cuttings treatment provides the following:</p>
+        <ul>
+            <li>A total waste management system for the treatment of oil-based mud (OBM) drill cuttings</li>
+            <li>Recovery of oil for reuse in OBM</li>
+            <li>Recovery of water</li>
+            <li>Recovery of solids with an oil residue of less than 0.5%</li>
+            <li>Compliance with the strictest legislation in the world</li>
+            <li>Complete waste management site layout</li>
+            <li>Handling and distribution systems for cuttings originating offshore</li>
+            <li>Transport from rig to waste management site</li>
+            <li>Complete QHSE system for control of the process</li>
+            <li>Complete process energy balance of 50% and below</li>
+            <li>Recovery of more than double the accumulated energy consumed in the procedure</li>
+        </ul>
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: |
+        <r owner="sitecore\mecoreyna" date="20190516T163233Z" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190516T163231Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{8B87E652-E3F7-4C54-BDD9-66E1B888FF8B}"
+    - ID: "443b76eb-a2d1-4050-b1d5-fc06c8737bee"
+      Hint: column3List
+      Value: &nbsp;
+    - ID: "4d669ee9-9ff5-4c31-a025-56035d1727a1"
+      Hint: column1Headline
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mecoreyna
+    - ID: "592042cb-e14f-4127-8f6b-3f25c3759c8e"
+      Hint: column2List
+      Value: <p>&nbsp;</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mecoreyna
+    - ID: "79b6230b-39a0-4a28-adf6-9ec3024425c2"
+      Hint: column2Headline
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "49d4416c-7417-42ea-80fb-0edd684e0e91"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mecoreyna
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: |
+        <p><strong>Oil-based drill cuttings treatment</strong></p>
+        <p>An increase in global awareness of the need for environmental preservation has led the drilling industry to adapt to changes in environmental policies. National environmental laws are now being strictly enforced, and companies must adapt their policies to abide by these regulations. The treatment of drill cuttings with thermal desorption provides an excellent option for meeting these standards. NOV has more than 20 years of experience in the thermal treatment of drill cuttings.</p>
+        <p>The Hot Oil Thermal Desorption cuttings treatment provides the following:</p>
+        <ul>
+            <li>A total waste management system for the treatment of oil-based mud (OBM) drill cuttings</li>
+            <li>Recovery of oil for reuse in OBM</li>
+            <li>Recovery of water</li>
+            <li>Recovery of solids with an oil residue of less than 0.5%</li>
+            <li>Compliance with the strictest legislation in the world</li>
+            <li>Complete waste management site layout</li>
+            <li>Handling and distribution systems for cuttings originating offshore</li>
+            <li>Transport from rig to waste management site</li>
+            <li>Complete QHSE system for control of the process</li>
+            <li>Complete process energy balance of 50% and below</li>
+            <li>Recovery of more than double the accumulated energy consumed in the procedure</li>
+        </ul>
+        <p><strong>Waste management site</strong></p>
+        <p>A typical waste management center designed by NOV contains locations for:</p>
+        <ul>
+            <li>In-weighing of received waste</li>
+            <li>Discharge systems for waste containers (skips)</li>
+            <li>Wash bay for skips</li>
+            <li>Pits for cuttings</li>
+            <li>Tank farm for recovered oil and water</li>
+            <li>Tanks for water treatment</li>
+            <li>Thermal desorption units (TDUs)</li>
+            <li>Storage and inspection area for full or empty skips</li>
+            <li>Control center and laboratory</li>
+            <li>Surface layer and sewage systems</li>
+            <li>Compliance with the strictest international standards</li>
+            <li>Complete oil spill response systems and equipment</li>
+        </ul>
+        <p>&nbsp;</p>
+        <p>Typically, the waste management site operates 24 hours a day, 7 days a week, with a total staff of 10 to 15 people. Depending on the requirements of the application, the site can be designed for the treatment of drill cuttings anywhere from 6,000 to 48,000 tons per annum.</p>
+        <p>Erection of the site, including civil work, normally begins 6 months from the reception of the final treatment license. This license is typically issued by the operating country's national environmental agency. Upon arrival, the erection and commissioning of the processing equipment within the waste management site usually takes about 14 days. Additionally, the control center within the waste management site produces&nbsp;production reports for&nbsp;customers.</p>
+        <p><strong>Technical</strong> <strong>description</strong></p>
+        <p>Drill cuttings are fed into the processing chamber of the TDU, where the rotating heat exchanger (rotor) heats up the cuttings via indirect heat. Indirect heating is accomplished through the circulation of heated oil as well as by use of electrical heating elements. This design avoids the possibility of direct fire exposure to the equipment.</p>
+        <p>The first section of the rotor evaporates water from the cuttings, while the subsequent section evaporates oil from the cuttings at temperatures up to 500 &deg;C. A condenser liquidizes the evaporated water and oil, which then flow into the water/oil separator. The solids are discharged at the end of the process, when they are then cooled and mixed with recovered water to avoid dust emissions when fed into solids containers (skips, etc.).</p>
+        <p><strong>Base oil reuse</strong></p>
+        <p>In addition to drilling waste treatment, the waste management site provides a high-quality commodity: recovered oil for reuse in base mud and in the TDU's heating process. The TDU processes the oil in a manner that does not significantly alter the chemical composition of the base oil. As an option, odor treatment of the oil is also available.</p>
+        <p>Gas Chromatography and Mass Spectroscopy (GC/MS) scans are shown below. GC/MS scans routinely performed on base oil treated by the hot oil TDU demonstrate little change in the oil's chemical composition. Frequently, the oil has been used to make-up new OBM. Recovered base oil from the TDU typically displays a clear yellow color.</p>
+        <p>The <a href="https://html-cleaner.com/css/">free online CSS code beautifier</a> takes care of your dirty code and strips every unwanted</p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190516T163231Z
+    - ID: "cd6306bb-152c-471d-881c-66094f05d557"
+      Hint: column3Headline
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190516T163235Z
+    - ID: "f6afec27-750a-4d77-962d-3ce002b623b9"
+      Hint: column1List
+      Value: <br />
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: |
+        <r owner="sitecore\mecoreyna" date="20190516T163924Z" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190516T163922Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{8B87E652-E3F7-4C54-BDD9-66E1B888FF8B}"
+    - ID: "443b76eb-a2d1-4050-b1d5-fc06c8737bee"
+      Hint: column3List
+      Value: &nbsp;
+    - ID: "4d669ee9-9ff5-4c31-a025-56035d1727a1"
+      Hint: column1Headline
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mecoreyna
+    - ID: "592042cb-e14f-4127-8f6b-3f25c3759c8e"
+      Hint: column2List
+      Value: <p>&nbsp;</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mecoreyna
+    - ID: "79b6230b-39a0-4a28-adf6-9ec3024425c2"
+      Hint: column2Headline
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6fdcdabe-e84d-44b0-aff3-954a0c797983"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mecoreyna
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: |
+        <p><strong>Oil-based drill cuttings treatment</strong></p>
+        <p>An increase in global awareness of the need for environmental preservation has led the drilling industry to adapt to changes in environmental policies. National environmental laws are now being strictly enforced, and companies must adapt their policies to abide by these regulations. The treatment of drill cuttings with thermal desorption provides an excellent option for meeting these standards. NOV has more than 20 years of experience in the thermal treatment of drill cuttings.</p>
+        <p>The Hot Oil Thermal Desorption cuttings treatment provides the following:</p>
+        <ul>
+            <li>A total waste management system for the treatment of oil-based mud (OBM) drill cuttings</li>
+            <li>Recovery of oil for reuse in OBM</li>
+            <li>Recovery of water</li>
+            <li>Recovery of solids with an oil residue of less than 0.5%</li>
+            <li>Compliance with the strictest legislation in the world</li>
+            <li>Complete waste management site layout</li>
+            <li>Handling and distribution systems for cuttings originating offshore</li>
+            <li>Transport from rig to waste management site</li>
+            <li>Complete QHSE system for control of the process</li>
+            <li>Complete process energy balance of 50% and below</li>
+            <li>Recovery of more than double the accumulated energy consumed in the procedure</li>
+        </ul>
+        <p><strong>Waste management site</strong></p>
+        <p>A typical waste management center designed by NOV contains locations for:</p>
+        <ul>
+            <li>In-weighing of received waste</li>
+            <li>Discharge systems for waste containers (skips)</li>
+            <li>Wash bay for skips</li>
+            <li>Pits for cuttings</li>
+            <li>Tank farm for recovered oil and water</li>
+            <li>Tanks for water treatment</li>
+            <li>Thermal desorption units (TDUs)</li>
+            <li>Storage and inspection area for full or empty skips</li>
+            <li>Control center and laboratory</li>
+            <li>Surface layer and sewage systems</li>
+            <li>Compliance with the strictest international standards</li>
+            <li>Complete oil spill response systems and equipment</li>
+        </ul>
+        <p>&nbsp;</p>
+        <p>Typically, the waste management site operates 24 hours a day, 7 days a week, with a total staff of 10 to 15 people. Depending on the requirements of the application, the site can be designed for the treatment of drill cuttings anywhere from 6,000 to 48,000 tons per annum.</p>
+        <p>Erection of the site, including civil work, normally begins 6 months from the reception of the final treatment license. This license is typically issued by the operating country's national environmental agency. Upon arrival, the erection and commissioning of the processing equipment within the waste management site usually takes about 14 days. Additionally, the control center within the waste management site produces&nbsp;production reports for&nbsp;customers.</p>
+        <p><strong>Technical</strong> <strong>description</strong></p>
+        <p>Drill cuttings are fed into the processing chamber of the TDU, where the rotating heat exchanger (rotor) heats up the cuttings via indirect heat. Indirect heating is accomplished through the circulation of heated oil as well as by use of electrical heating elements. This design avoids the possibility of direct fire exposure to the equipment.</p>
+        <p>The first section of the rotor evaporates water from the cuttings, while the subsequent section evaporates oil from the cuttings at temperatures up to 500 &deg;C. A condenser liquidizes the evaporated water and oil, which then flow into the water/oil separator. The solids are discharged at the end of the process, when they are then cooled and mixed with recovered water to avoid dust emissions when fed into solids containers (skips, etc.).</p>
+        <p><strong>Base oil reuse</strong></p>
+        <p>In addition to drilling waste treatment, the waste management site provides a high-quality commodity: recovered oil for reuse in base mud and in the TDU's heating process. The TDU processes the oil in a manner that does not significantly alter the chemical composition of the base oil. As an option, odor treatment of the oil is also available.</p>
+        <p>Gas Chromatography and Mass Spectroscopy (GC/MS) scans are shown below. GC/MS scans routinely performed on base oil treated by the hot oil TDU demonstrate little change in the oil's chemical composition. Frequently, the oil has been used to make-up new OBM. Recovered base oil from the TDU typically displays a clear yellow color.</p>
+        <p>The <a href="https://html-cleaner.com/css/">free online CSS code beautifier</a> takes care of your dirty code and strips every unwanted</p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190516T163922Z
+    - ID: "cd6306bb-152c-471d-881c-66094f05d557"
+      Hint: column3Headline
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190516T163925Z
+    - ID: "f6afec27-750a-4d77-962d-3ce002b623b9"
+      Hint: column1List
+      Value: <br />
+  - Version: 4
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: |
+        <r owner="sitecore\mecoreyna" date="20190516T163935Z" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190516T163933Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{8B87E652-E3F7-4C54-BDD9-66E1B888FF8B}"
+    - ID: "443b76eb-a2d1-4050-b1d5-fc06c8737bee"
+      Hint: column3List
+      Value: &nbsp;
+    - ID: "4d669ee9-9ff5-4c31-a025-56035d1727a1"
+      Hint: column1Headline
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mecoreyna
+    - ID: "592042cb-e14f-4127-8f6b-3f25c3759c8e"
+      Hint: column2List
+      Value: <p>&nbsp;</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mecoreyna
+    - ID: "79b6230b-39a0-4a28-adf6-9ec3024425c2"
+      Hint: column2Headline
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ea8b67f2-707d-41b4-91a0-b7e5fac59006"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mecoreyna
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: |
+        <p><strong>Oil-based drill cuttings treatment</strong></p>
+        <p>An increase in global awareness of the need for environmental preservation has led the drilling industry to adapt to changes in environmental policies. National environmental laws are now being strictly enforced, and companies must adapt their policies to abide by these regulations. The treatment of drill cuttings with thermal desorption provides an excellent option for meeting these standards. NOV has more than 20 years of experience in the thermal treatment of drill cuttings.</p>
+        <p>The Hot Oil Thermal Desorption cuttings treatment provides the following:</p>
+        <ul>
+            <li>A total waste management system for the treatment of oil-based mud (OBM) drill cuttings</li>
+            <li>Recovery of oil for reuse in OBM</li>
+            <li>Recovery of water</li>
+            <li>Recovery of solids with an oil residue of less than 0.5%</li>
+            <li>Compliance with the strictest legislation in the world</li>
+            <li>Complete waste management site layout</li>
+            <li>Handling and distribution systems for cuttings originating offshore</li>
+            <li>Transport from rig to waste management site</li>
+            <li>Complete QHSE system for control of the process</li>
+            <li>Complete process energy balance of 50% and below</li>
+            <li>Recovery of more than double the accumulated energy consumed in the procedure</li>
+        </ul>
+        <p><strong>Waste management site</strong></p>
+        <p>A typical waste management center designed by NOV contains locations for:</p>
+        <ul>
+            <li>In-weighing of received waste</li>
+            <li>Discharge systems for waste containers (skips)</li>
+            <li>Wash bay for skips</li>
+            <li>Pits for cuttings</li>
+            <li>Tank farm for recovered oil and water</li>
+            <li>Tanks for water treatment</li>
+            <li>Thermal desorption units (TDUs)</li>
+            <li>Storage and inspection area for full or empty skips</li>
+            <li>Control center and laboratory</li>
+            <li>Surface layer and sewage systems</li>
+            <li>Compliance with the strictest international standards</li>
+            <li>Complete oil spill response systems and equipment</li>
+        </ul>
+        <p>&nbsp;</p>
+        <p>Typically, the waste management site operates 24 hours a day, 7 days a week, with a total staff of 10 to 15 people. Depending on the requirements of the application, the site can be designed for the treatment of drill cuttings anywhere from 6,000 to 48,000 tons per annum.</p>
+        <p>Erection of the site, including civil work, normally begins 6 months from the reception of the final treatment license. This license is typically issued by the operating country's national environmental agency. Upon arrival, the erection and commissioning of the processing equipment within the waste management site usually takes about 14 days. Additionally, the control center within the waste management site produces&nbsp;production reports for&nbsp;customers.</p>
+        <p><strong>Technical</strong> <strong>description</strong></p>
+        <p>Drill cuttings are fed into the processing chamber of the TDU, where the rotating heat exchanger (rotor) heats up the cuttings via indirect heat. Indirect heating is accomplished through the circulation of heated oil as well as by use of electrical heating elements. This design avoids the possibility of direct fire exposure to the equipment.</p>
+        <p>The first section of the rotor evaporates water from the cuttings, while the subsequent section evaporates oil from the cuttings at temperatures up to 500 &deg;C. A condenser liquidizes the evaporated water and oil, which then flow into the water/oil separator. The solids are discharged at the end of the process, when they are then cooled and mixed with recovered water to avoid dust emissions when fed into solids containers (skips, etc.).</p>
+        <p><strong>Base oil reuse</strong></p>
+        <p>In addition to drilling waste treatment, the waste management site provides a high-quality commodity: recovered oil for reuse in base mud and in the TDU's heating process. The TDU processes the oil in a manner that does not significantly alter the chemical composition of the base oil. As an option, odor treatment of the oil is also available.</p>
+        <p>Gas Chromatography and Mass Spectroscopy (GC/MS) scans are shown below. GC/MS scans routinely performed on base oil treated by the hot oil TDU demonstrate little change in the oil's chemical composition. Frequently, the oil has been used to make-up new OBM. Recovered base oil from the TDU typically displays a clear yellow color.</p>
+        <p>The <a href="https://html-cleaner.com/css/">free online CSS code beautifier</a> takes care of your dirty code and strips every unwanted</p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190516T163933Z
+    - ID: "cd6306bb-152c-471d-881c-66094f05d557"
+      Hint: column3Headline
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190516T163936Z
+    - ID: "f6afec27-750a-4d77-962d-3ce002b623b9"
+      Hint: column1List
+      Value: <br />
+  - Version: 5
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: |
+        <r owner="sitecore\mecoreyna" date="20190516T163956Z" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190516T163953Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{8B87E652-E3F7-4C54-BDD9-66E1B888FF8B}"
+    - ID: "443b76eb-a2d1-4050-b1d5-fc06c8737bee"
+      Hint: column3List
+      Value: &nbsp;
+    - ID: "4d669ee9-9ff5-4c31-a025-56035d1727a1"
+      Hint: column1Headline
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mecoreyna
+    - ID: "592042cb-e14f-4127-8f6b-3f25c3759c8e"
+      Hint: column2List
+      Value: <p>&nbsp;</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mecoreyna
+    - ID: "79b6230b-39a0-4a28-adf6-9ec3024425c2"
+      Hint: column2Headline
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c22f9d0f-9651-4236-ad3c-09ccc5c45c1d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mecoreyna
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: |
+        <p><strong>Oil-based drill cuttings treatment</strong></p>
+        <p>An increase in global awareness of the need for environmental preservation has led the drilling industry to adapt to changes in environmental policies. National environmental laws are now being strictly enforced, and companies must adapt their policies to abide by these regulations. The treatment of drill cuttings with thermal desorption provides an excellent option for meeting these standards. NOV has more than 20 years of experience in the thermal treatment of drill cuttings.</p>
+        <p>The Hot Oil Thermal Desorption cuttings treatment provides the following:</p>
+        <ul>
+            <li>A total waste management system for the treatment of oil-based mud (OBM) drill cuttings</li>
+            <li>Recovery of oil for reuse in OBM</li>
+            <li>Recovery of water</li>
+            <li>Recovery of solids with an oil residue of less than 0.5%</li>
+            <li>Compliance with the strictest legislation in the world</li>
+            <li>Complete waste management site layout</li>
+            <li>Handling and distribution systems for cuttings originating offshore</li>
+            <li>Transport from rig to waste management site</li>
+            <li>Complete QHSE system for control of the process</li>
+            <li>Complete process energy balance of 50% and below</li>
+            <li>Recovery of more than double the accumulated energy consumed in the procedure</li>
+        </ul>
+        <p><strong>Waste management site</strong></p>
+        <p>A typical waste management center designed by NOV contains locations for:</p>
+        <ul>
+            <li>In-weighing of received waste</li>
+            <li>Discharge systems for waste containers (skips)</li>
+            <li>Wash bay for skips</li>
+            <li>Pits for cuttings</li>
+            <li>Tank farm for recovered oil and water</li>
+            <li>Tanks for water treatment</li>
+            <li>Thermal desorption units (TDUs)</li>
+            <li>Storage and inspection area for full or empty skips</li>
+            <li>Control center and laboratory</li>
+            <li>Surface layer and sewage systems</li>
+            <li>Compliance with the strictest international standards</li>
+            <li>Complete oil spill response systems and equipment</li>
+        </ul>
+        <p>&nbsp;</p>
+        <p>Typically, the waste management site operates 24 hours a day, 7 days a week, with a total staff of 10 to 15 people. Depending on the requirements of the application, the site can be designed for the treatment of drill cuttings anywhere from 6,000 to 48,000 tons per annum.</p>
+        <p>Erection of the site, including civil work, normally begins 6 months from the reception of the final treatment license. This license is typically issued by the operating country's national environmental agency. Upon arrival, the erection and commissioning of the processing equipment within the waste management site usually takes about 14 days. Additionally, the control center within the waste management site produces&nbsp;production reports for&nbsp;customers.</p>
+        <p><strong>Technical</strong> <strong>description</strong></p>
+        <p>Drill cuttings are fed into the processing chamber of the TDU, where the rotating heat exchanger (rotor) heats up the cuttings via indirect heat. Indirect heating is accomplished through the circulation of heated oil as well as by use of electrical heating elements. This design avoids the possibility of direct fire exposure to the equipment.</p>
+        <p>The first section of the rotor evaporates water from the cuttings, while the subsequent section evaporates oil from the cuttings at temperatures up to 500 &deg;C. A condenser liquidizes the evaporated water and oil, which then flow into the water/oil separator. The solids are discharged at the end of the process, when they are then cooled and mixed with recovered water to avoid dust emissions when fed into solids containers (skips, etc.).</p>
+        <p><strong>Base oil reuse</strong></p>
+        <p>In addition to drilling waste treatment, the waste management site provides a high-quality commodity: recovered oil for reuse in base mud and in the TDU's heating process. The TDU processes the oil in a manner that does not significantly alter the chemical composition of the base oil. As an option, odor treatment of the oil is also available.</p>
+        <p>Gas Chromatography and Mass Spectroscopy (GC/MS) scans are shown below. GC/MS scans routinely performed on base oil treated by the hot oil TDU demonstrate little change in the oil's chemical composition. Frequently, the oil has been used to make-up new OBM. Recovered base oil from the TDU typically displays a clear yellow color.</p>
+        <p>The <a href="https://html-cleaner.com/css/">free online CSS code beautifier</a> takes care of your dirty code and strips every unwanted</p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190516T163953Z
+    - ID: "cd6306bb-152c-471d-881c-66094f05d557"
+      Hint: column3Headline
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190516T163957Z
+    - ID: "f6afec27-750a-4d77-962d-3ce002b623b9"
+      Hint: column1List
+      Value: <br />
+  - Version: 6
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: |
+        <r owner="sitecore\mecoreyna" date="20190516T164001Z" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190516T163959Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{8B87E652-E3F7-4C54-BDD9-66E1B888FF8B}"
+    - ID: "443b76eb-a2d1-4050-b1d5-fc06c8737bee"
+      Hint: column3List
+      Value: &nbsp;
+    - ID: "4d669ee9-9ff5-4c31-a025-56035d1727a1"
+      Hint: column1Headline
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mecoreyna
+    - ID: "592042cb-e14f-4127-8f6b-3f25c3759c8e"
+      Hint: column2List
+      Value: <p>&nbsp;</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mecoreyna
+    - ID: "79b6230b-39a0-4a28-adf6-9ec3024425c2"
+      Hint: column2Headline
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bbd78aae-fc88-4aac-b7e0-652f169beb7d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mecoreyna
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: |
+        <p><strong>Oil-based drill cuttings treatment</strong></p>
+        <p>An increase in global awareness of the need for environmental preservation has led the drilling industry to adapt to changes in environmental policies. National environmental laws are now being strictly enforced, and companies must adapt their policies to abide by these regulations. The treatment of drill cuttings with thermal desorption provides an excellent option for meeting these standards. NOV has more than 20 years of experience in the thermal treatment of drill cuttings.</p>
+        <p>The Hot Oil Thermal Desorption cuttings treatment provides the following:</p>
+        <ul>
+            <li>A total waste management system for the treatment of oil-based mud (OBM) drill cuttings</li>
+            <li>Recovery of oil for reuse in OBM</li>
+            <li>Recovery of water</li>
+            <li>Recovery of solids with an oil residue of less than 0.5%</li>
+            <li>Compliance with the strictest legislation in the world</li>
+            <li>Complete waste management site layout</li>
+            <li>Handling and distribution systems for cuttings originating offshore</li>
+            <li>Transport from rig to waste management site</li>
+            <li>Complete QHSE system for control of the process</li>
+            <li>Complete process energy balance of 50% and below</li>
+            <li>Recovery of more than double the accumulated energy consumed in the procedure</li>
+        </ul>
+        <p><strong>Waste management site</strong></p>
+        <p>A typical waste management center designed by NOV contains locations for:</p>
+        <ul>
+            <li>In-weighing of received waste</li>
+            <li>Discharge systems for waste containers (skips)</li>
+            <li>Wash bay for skips</li>
+            <li>Pits for cuttings</li>
+            <li>Tank farm for recovered oil and water</li>
+            <li>Tanks for water treatment</li>
+            <li>Thermal desorption units (TDUs)</li>
+            <li>Storage and inspection area for full or empty skips</li>
+            <li>Control center and laboratory</li>
+            <li>Surface layer and sewage systems</li>
+            <li>Compliance with the strictest international standards</li>
+            <li>Complete oil spill response systems and equipment</li>
+        </ul>
+        <p>&nbsp;</p>
+        <p>Typically, the waste management site operates 24 hours a day, 7 days a week, with a total staff of 10 to 15 people. Depending on the requirements of the application, the site can be designed for the treatment of drill cuttings anywhere from 6,000 to 48,000 tons per annum.</p>
+        <p>Erection of the site, including civil work, normally begins 6 months from the reception of the final treatment license. This license is typically issued by the operating country's national environmental agency. Upon arrival, the erection and commissioning of the processing equipment within the waste management site usually takes about 14 days. Additionally, the control center within the waste management site produces&nbsp;production reports for&nbsp;customers.</p>
+        <p><strong>Technical</strong> <strong>description</strong></p>
+        <p>Drill cuttings are fed into the processing chamber of the TDU, where the rotating heat exchanger (rotor) heats up the cuttings via indirect heat. Indirect heating is accomplished through the circulation of heated oil as well as by use of electrical heating elements. This design avoids the possibility of direct fire exposure to the equipment.</p>
+        <p>The first section of the rotor evaporates water from the cuttings, while the subsequent section evaporates oil from the cuttings at temperatures up to 500 &deg;C. A condenser liquidizes the evaporated water and oil, which then flow into the water/oil separator. The solids are discharged at the end of the process, when they are then cooled and mixed with recovered water to avoid dust emissions when fed into solids containers (skips, etc.).</p>
+        <p><strong>Base oil reuse</strong></p>
+        <p>In addition to drilling waste treatment, the waste management site provides a high-quality commodity: recovered oil for reuse in base mud and in the TDU's heating process. The TDU processes the oil in a manner that does not significantly alter the chemical composition of the base oil. As an option, odor treatment of the oil is also available.</p>
+        <p>Gas Chromatography and Mass Spectroscopy (GC/MS) scans are shown below. GC/MS scans routinely performed on base oil treated by the hot oil TDU demonstrate little change in the oil's chemical composition. Frequently, the oil has been used to make-up new OBM. Recovered base oil from the TDU typically displays a clear yellow color.</p>
+        <p>The <a href="https://html-cleaner.com/css/">free online CSS code beautifier</a> takes care of your dirty code and strips every unwanted</p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190516T163959Z
+    - ID: "cd6306bb-152c-471d-881c-66094f05d557"
+      Hint: column3Headline
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190516T164002Z
+    - ID: "f6afec27-750a-4d77-962d-3ce002b623b9"
+      Hint: column1List
+      Value: <br />
+  - Version: 7
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190516T164021Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "443b76eb-a2d1-4050-b1d5-fc06c8737bee"
+      Hint: column3List
+      Value: &nbsp;
+    - ID: "4d669ee9-9ff5-4c31-a025-56035d1727a1"
+      Hint: column1Headline
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mecoreyna
+    - ID: "592042cb-e14f-4127-8f6b-3f25c3759c8e"
+      Hint: column2List
+      Value: <p>&nbsp;</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mecoreyna
+    - ID: "79b6230b-39a0-4a28-adf6-9ec3024425c2"
+      Hint: column2Headline
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fff75661-3872-4e96-87ec-b02ee55b33dc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mecoreyna
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: |
+        <p><strong>Oil-based drill cuttings treatment</strong></p>
+        <p>An increase in global awareness of the need for environmental preservation has led the drilling industry to adapt to changes in environmental policies. National environmental laws are now being strictly enforced, and companies must adapt their policies to abide by these regulations. The treatment of drill cuttings with thermal desorption provides an excellent option for meeting these standards. NOV has more than 20 years of experience in the thermal treatment of drill cuttings.</p>
+        <p>The Hot Oil Thermal Desorption cuttings treatment provides the following:</p>
+        <ul>
+            <li>A total waste management system for the treatment of oil-based mud (OBM) drill cuttings</li>
+            <li>Recovery of oil for reuse in OBM</li>
+            <li>Recovery of water</li>
+            <li>Recovery of solids with an oil residue of less than 0.5%</li>
+            <li>Compliance with the strictest legislation in the world</li>
+            <li>Complete waste management site layout</li>
+            <li>Handling and distribution systems for cuttings originating offshore</li>
+            <li>Transport from rig to waste management site</li>
+            <li>Complete QHSE system for control of the process</li>
+            <li>Complete process energy balance of 50% and below</li>
+            <li>Recovery of more than double the accumulated energy consumed in the procedure</li>
+        </ul>
+        <p><strong>Waste management site</strong></p>
+        <p>A typical waste management center designed by NOV contains locations for:</p>
+        <ul>
+            <li>In-weighing of received waste</li>
+            <li>Discharge systems for waste containers (skips)</li>
+            <li>Wash bay for skips</li>
+            <li>Pits for cuttings</li>
+            <li>Tank farm for recovered oil and water</li>
+            <li>Tanks for water treatment</li>
+            <li>Thermal desorption units (TDUs)</li>
+            <li>Storage and inspection area for full or empty skips</li>
+            <li>Control center and laboratory</li>
+            <li>Surface layer and sewage systems</li>
+            <li>Compliance with the strictest international standards</li>
+            <li>Complete oil spill response systems and equipment</li>
+        </ul>
+        <p>&nbsp;</p>
+        <p>Typically, the waste management site operates 24 hours a day, 7 days a week, with a total staff of 10 to 15 people. Depending on the requirements of the application, the site can be designed for the treatment of drill cuttings anywhere from 6,000 to 48,000 tons per annum.</p>
+        <p>Erection of the site, including civil work, normally begins 6 months from the reception of the final treatment license. This license is typically issued by the operating country's national environmental agency. Upon arrival, the erection and commissioning of the processing equipment within the waste management site usually takes about 14 days. Additionally, the control center within the waste management site produces&nbsp;production reports for&nbsp;customers.</p>
+        <p><strong>Technical</strong> <strong>description</strong></p>
+        <p>Drill cuttings are fed into the processing chamber of the TDU, where the rotating heat exchanger (rotor) heats up the cuttings via indirect heat. Indirect heating is accomplished through the circulation of heated oil as well as by use of electrical heating elements. This design avoids the possibility of direct fire exposure to the equipment.</p>
+        <p>The first section of the rotor evaporates water from the cuttings, while the subsequent section evaporates oil from the cuttings at temperatures up to 500 &deg;C. A condenser liquidizes the evaporated water and oil, which then flow into the water/oil separator. The solids are discharged at the end of the process, when they are then cooled and mixed with recovered water to avoid dust emissions when fed into solids containers (skips, etc.).</p>
+        <p><strong>Base oil reuse</strong></p>
+        <p>In addition to drilling waste treatment, the waste management site provides a high-quality commodity: recovered oil for reuse in base mud and in the TDU's heating process. The TDU processes the oil in a manner that does not significantly alter the chemical composition of the base oil. As an option, odor treatment of the oil is also available.</p>
+        <p>Gas Chromatography and Mass Spectroscopy (GC/MS) scans are shown below. GC/MS scans routinely performed on base oil treated by the hot oil TDU demonstrate little change in the oil's chemical composition. Frequently, the oil has been used to make-up new OBM. Recovered base oil from the TDU typically displays a clear yellow color.</p>
+        <p>The <a href="https://html-cleaner.com/css/">free online CSS code beautifier</a> takes care of your dirty code and strips every unwanted</p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190516T164021Z
+    - ID: "cd6306bb-152c-471d-881c-66094f05d557"
+      Hint: column3Headline
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190516T164120Z
+    - ID: "f6afec27-750a-4d77-962d-3ce002b623b9"
+      Hint: column1List
+      Value: <br />
+  - Version: 8
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190520T152304Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "443b76eb-a2d1-4050-b1d5-fc06c8737bee"
+      Hint: column3List
+      Value: &nbsp;
+    - ID: "4d669ee9-9ff5-4c31-a025-56035d1727a1"
+      Hint: column1Headline
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mecoreyna
+    - ID: "592042cb-e14f-4127-8f6b-3f25c3759c8e"
+      Hint: column2List
+      Value: <p>&nbsp;</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mecoreyna
+    - ID: "79b6230b-39a0-4a28-adf6-9ec3024425c2"
+      Hint: column2Headline
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "084f24e6-aa04-4b79-936b-46a918a821e7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mecoreyna
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: |
+        <p><strong>Oil-based drill cuttings treatment</strong></p>
+        <p>An increase in global awareness of the need for environmental preservation has led the drilling industry to adapt to changes in environmental policies. National environmental laws are now being strictly enforced, and companies must adapt their policies to abide by these regulations. The treatment of drill cuttings with thermal desorption provides an excellent option for meeting these standards. NOV has more than 20 years of experience in the thermal treatment of drill cuttings.</p>
+        <p>The Hot Oil Thermal Desorption cuttings treatment provides the following:</p>
+        <ul>
+            <li>A total waste management system for the treatment of oil-based mud (OBM) drill cuttings</li>
+            <li>Recovery of oil for reuse in OBM</li>
+            <li>Recovery of water</li>
+            <li>Recovery of solids with an oil residue of less than 0.5%</li>
+            <li>Compliance with the strictest legislation in the world</li>
+            <li>Complete waste management site layout</li>
+            <li>Handling and distribution systems for cuttings originating offshore</li>
+            <li>Transport from rig to waste management site</li>
+            <li>Complete QHSE system for control of the process</li>
+            <li>Complete process energy balance of 50% and below</li>
+            <li>Recovery of more than double the accumulated energy consumed in the procedure</li>
+        </ul>
+        <p><strong>Waste management site</strong></p>
+        <p>A typical waste management center designed by NOV contains locations for:</p>
+        <ul>
+            <li>In-weighing of received waste</li>
+            <li>Discharge systems for waste containers (skips)</li>
+            <li>Wash bay for skips</li>
+            <li>Pits for cuttings</li>
+            <li>Tank farm for recovered oil and water</li>
+            <li>Tanks for water treatment</li>
+            <li>Thermal desorption units (TDUs)</li>
+            <li>Storage and inspection area for full or empty skips</li>
+            <li>Control center and laboratory</li>
+            <li>Surface layer and sewage systems</li>
+            <li>Compliance with the strictest international standards</li>
+            <li>Complete oil spill response systems and equipment</li>
+        </ul>
+        <p>&nbsp;</p>
+        <p>Typically, the waste management site operates 24 hours a day, 7 days a week, with a total staff of 10 to 15 people. Depending on the requirements of the application, the site can be designed for the treatment of drill cuttings anywhere from 6,000 to 48,000 tons per annum.</p>
+        <p>Erection of the site, including civil work, normally begins 6 months from the reception of the final treatment license. This license is typically issued by the operating country's national environmental agency. Upon arrival, the erection and commissioning of the processing equipment within the waste management site usually takes about 14 days. Additionally, the control center within the waste management site produces&nbsp;production reports for&nbsp;customers.</p>
+        <p><strong>Technical</strong> <strong>description</strong></p>
+        <p>Drill cuttings are fed into the processing chamber of the TDU, where the rotating heat exchanger (rotor) heats up the cuttings via indirect heat. Indirect heating is accomplished through the circulation of heated oil as well as by use of electrical heating elements. This design avoids the possibility of direct fire exposure to the equipment.</p>
+        <p>The first section of the rotor evaporates water from the cuttings, while the subsequent section evaporates oil from the cuttings at temperatures up to 500 &deg;C. A condenser liquidizes the evaporated water and oil, which then flow into the water/oil separator. The solids are discharged at the end of the process, when they are then cooled and mixed with recovered water to avoid dust emissions when fed into solids containers (skips, etc.).</p>
+        <p><strong>Base oil reuse</strong></p>
+        <p>In addition to drilling waste treatment, the waste management site provides a high-quality commodity: recovered oil for reuse in base mud and in the TDU's heating process. The TDU processes the oil in a manner that does not significantly alter the chemical composition of the base oil. As an option, odor treatment of the oil is also available.</p>
+        <p>Gas Chromatography and Mass Spectroscopy (GC/MS) scans are shown below. GC/MS scans routinely performed on base oil treated by the hot oil TDU demonstrate little change in the oil's chemical composition. Frequently, the oil has been used to make-up new OBM. Recovered base oil from the TDU typically displays a clear yellow color.</p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190520T152304Z
+    - ID: "cd6306bb-152c-471d-881c-66094f05d557"
+      Hint: column3Headline
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190520T152413Z
+    - ID: "f6afec27-750a-4d77-962d-3ce002b623b9"
+      Hint: column1List
+      Value: <br />
+  - Version: 9
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190703T212423Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "443b76eb-a2d1-4050-b1d5-fc06c8737bee"
+      Hint: column3List
+      Value: &nbsp;
+    - ID: "4d669ee9-9ff5-4c31-a025-56035d1727a1"
+      Hint: column1Headline
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mecoreyna
+    - ID: "592042cb-e14f-4127-8f6b-3f25c3759c8e"
+      Hint: column2List
+      Value: <p>&nbsp;</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "79b6230b-39a0-4a28-adf6-9ec3024425c2"
+      Hint: column2Headline
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c160f7d4-fd05-4dca-a9b1-7cc31317a035"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: |
+        <h2>Oil-based drill cuttings treatment</h2>
+        <p>An increase in global awareness of the need for environmental preservation has led the drilling industry to adapt to changes in environmental policies. National environmental laws are now being strictly enforced, and companies must adapt their policies to abide by these regulations. The treatment of drill cuttings with thermal desorption provides an excellent option for meeting these standards. NOV has more than 20 years of experience in the thermal treatment of drill cuttings.</p>
+        <p>The Hot Oil Thermal Desorption cuttings treatment provides the following:</p>
+        <ul>
+        <li>A total waste management system for the treatment of oil-based mud (OBM) drill cuttings</li>
+        <li>Recovery of oil for reuse in OBM</li>
+        <li>Recovery of water</li>
+        <li>Recovery of solids with an oil residue of less than 0.5%</li>
+        <li>Compliance with the strictest legislation in the world</li>
+        <li>Complete waste management site layout</li>
+        <li>Handling and distribution systems for cuttings originating offshore</li>
+        <li>Transport from rig to waste management site</li>
+        <li>Complete QHSE system for control of the process</li>
+        <li>Complete process energy balance of 50% and below</li>
+        <li>Recovery of more than double the accumulated energy consumed in the procedure</li>
+        </ul>
+        <h2>Waste management site</h2>
+        <p>A typical waste management center designed by NOV contains locations for:</p>
+        <ul>
+        <li>In-weighing of received waste</li>
+        <li>Discharge systems for waste containers (skips)</li>
+        <li>Wash bay for skips</li>
+        <li>Pits for cuttings</li>
+        <li>Tank farm for recovered oil and water</li>
+        <li>Tanks for water treatment</li>
+        <li>Thermal desorption units (TDUs)</li>
+        <li>Storage and inspection area for full or empty skips</li>
+        <li>Control center and laboratory</li>
+        <li>Surface layer and sewage systems</li>
+        <li>Compliance with the strictest international standards</li>
+        <li>Complete oil spill response systems and equipment</li>
+        </ul>
+        <p>Typically, the waste management site operates 24 hours a day, 7 days a week, with a total staff of 10 to 15 people. Depending on the requirements of the application, the site can be designed for the treatment of drill cuttings anywhere from 6,000 to 48,000 tons per annum.</p>
+        <p>Erection of the site, including civil work, normally begins 6 months from the reception of the final treatment license. This license is typically issued by the operating country's national environmental agency. Upon arrival, the erection and commissioning of the processing equipment within the waste management site usually takes about 14 days. Additionally, the control center within the waste management site produces&nbsp;production reports for&nbsp;customers.</p>
+        <h2>Technical description</h2>
+        <p>Drill cuttings are fed into the processing chamber of the TDU, where the rotating heat exchanger (rotor) heats up the cuttings via indirect heat. Indirect heating is accomplished through the circulation of heated oil as well as by use of electrical heating elements. This design avoids the possibility of direct fire exposure to the equipment.</p>
+        <p>The first section of the rotor evaporates water from the cuttings, while the subsequent section evaporates oil from the cuttings at temperatures up to 500 &deg;C. A condenser liquidizes the evaporated water and oil, which then flow into the water/oil separator. The solids are discharged at the end of the process, when they are then cooled and mixed with recovered water to avoid dust emissions when fed into solids containers (skips, etc.).</p>
+        <h2>Base oil reuse</h2>
+        <p>In addition to drilling waste treatment, the waste management site provides a high-quality commodity: recovered oil for reuse in base mud and in the TDU's heating process. The TDU processes the oil in a manner that does not significantly alter the chemical composition of the base oil. As an option, odor treatment of the oil is also available.</p>
+        <p>Gas Chromatography and Mass Spectroscopy (GC/MS) scans are shown below. GC/MS scans routinely performed on base oil treated by the hot oil TDU demonstrate little change in the oil's chemical composition. Frequently, the oil has been used to make-up new OBM. Recovered base oil from the TDU typically displays a clear yellow color.</p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190703T212423Z
+    - ID: "cd6306bb-152c-471d-881c-66094f05d557"
+      Hint: column3Headline
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190703T212542Z
+    - ID: "f6afec27-750a-4d77-962d-3ce002b623b9"
+      Hint: column1List
+      Value: <br />

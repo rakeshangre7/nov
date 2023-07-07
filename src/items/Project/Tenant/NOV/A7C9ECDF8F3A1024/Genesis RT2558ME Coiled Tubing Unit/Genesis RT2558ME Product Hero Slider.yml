@@ -1,0 +1,222 @@
+﻿---
+ID: "6ca63440-f0bf-4bdd-9bf4-2f643286fdb9"
+Parent: "d32b9bb9-fab2-4cf3-8b14-cdccf2d9b1e1"
+Template: "b9b14542-d575-4172-8156-287af574e776"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/CAPS/Intervention and Stimulation Equipment/Genesis Coiled Tubing Units/Genesis RT2558ME Coiled Tubing Unit/Genesis RT2558ME Product Hero Slider
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 700
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190306T204215Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticgappau
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\verticgappau
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "17b6d0ff-369e-42ad-8de5-5099857c9e3e"
+    - ID: "98da31d5-82d8-4c7c-97ab-5e2bad0549c6"
+      Hint: models
+      Value: |
+        {A6A83EDC-6111-4FEA-8A2E-9DB502BF470D}
+        {FED9E32A-86A3-4505-81F8-413F9BCE6555}
+        {186F3B80-E1C7-4672-9336-0EF19292F09C}
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\verticgappau
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190307T152902Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190403T105724Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticgappau
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\verticmpetersen
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f7d00205-ee2c-40e4-9e25-5742edd11a50"
+    - ID: "98da31d5-82d8-4c7c-97ab-5e2bad0549c6"
+      Hint: models
+      Value: |
+        {A6A83EDC-6111-4FEA-8A2E-9DB502BF470D}
+        {FED9E32A-86A3-4505-81F8-413F9BCE6555}
+        {186F3B80-E1C7-4672-9336-0EF19292F09C}
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\verticmpetersen
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190403T105724Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190403T105811Z
+    - ID: "f6363053-8898-4c0c-a161-b09b3468ab22"
+      Hint: contactLink
+      Value: |
+        <link text="Have a question? Contact us" linktype="anchor" url="contactus" anchor="contactus" title="" class="" />
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190510T121844Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticgappau
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\verticljensen
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2c98857e-f3d7-43cf-bee8-bb364c80dd71"
+    - ID: "98da31d5-82d8-4c7c-97ab-5e2bad0549c6"
+      Hint: models
+      Value: |
+        {186F3B80-E1C7-4672-9336-0EF19292F09C}
+        {FED9E32A-86A3-4505-81F8-413F9BCE6555}
+        {A6A83EDC-6111-4FEA-8A2E-9DB502BF470D}
+        {F0098379-9BBF-4E63-B587-F8AD021B9465}
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\verticljensen
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190510T121844Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190510T122033Z
+    - ID: "f6363053-8898-4c0c-a161-b09b3468ab22"
+      Hint: contactLink
+      Value: |
+        <link text="Have a question? Contact us" linktype="anchor" url="contactus" anchor="contactus" title="" class="" />
+  - Version: 4
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190626T192224Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticgappau
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "14d5d549-e950-422e-8b3f-76f394b4b1b3"
+    - ID: "98da31d5-82d8-4c7c-97ab-5e2bad0549c6"
+      Hint: models
+      Value: |
+        {186F3B80-E1C7-4672-9336-0EF19292F09C}
+        {FED9E32A-86A3-4505-81F8-413F9BCE6555}
+        {A6A83EDC-6111-4FEA-8A2E-9DB502BF470D}
+        {F0098379-9BBF-4E63-B587-F8AD021B9465}
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190626T192224Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190626T192321Z
+    - ID: "f6363053-8898-4c0c-a161-b09b3468ab22"
+      Hint: contactLink
+      Value: |
+        <link text="Have a question? Contact us." linktype="anchor" url="contactus" anchor="contactus" title="" class="" />
+  - Version: 5
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200107T204404Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticgappau
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e81ab94a-dfdb-4d9e-9733-195934c0b0bf"
+    - ID: "98da31d5-82d8-4c7c-97ab-5e2bad0549c6"
+      Hint: models
+      Value: |
+        {186F3B80-E1C7-4672-9336-0EF19292F09C}
+        {FED9E32A-86A3-4505-81F8-413F9BCE6555}
+        {54923672-20CD-4CD3-9AB4-CDA21388E07A}
+        {A6A83EDC-6111-4FEA-8A2E-9DB502BF470D}
+        {F0098379-9BBF-4E63-B587-F8AD021B9465}
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200107T204404Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200107T204439Z
+    - ID: "f6363053-8898-4c0c-a161-b09b3468ab22"
+      Hint: contactLink
+      Value: |
+        <link text="Have a question? Contact us." linktype="anchor" url="contactus" anchor="contactus" title="" class="" />

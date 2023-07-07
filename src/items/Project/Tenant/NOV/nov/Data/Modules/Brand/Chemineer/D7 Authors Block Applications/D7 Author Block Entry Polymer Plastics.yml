@@ -1,0 +1,78 @@
+﻿---
+ID: "cbdce7de-1269-48ac-9488-9277d854fa17"
+Parent: "e6c0ea60-5365-4d76-a05b-b4f05557ad5c"
+Template: "f83d9c61-6488-4a85-a988-1338257534e8"
+Path: /sitecore/content/nov/nov/Data/Modules/Brand/Chemineer/D7 Authors Block Applications/D7 Author Block Entry Polymer Plastics
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210921T160545Z
+    - ID: "3daeba35-b5c3-46cb-a587-bd8431066769"
+      Hint: jobTitle
+      Value: 
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{8B87E652-E3F7-4C54-BDD9-66E1B888FF8B}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e68a92f5-3a45-48ae-8854-b79e9bcf1d81"
+    - ID: "95e7dbea-d495-4414-aa9e-4ce9425d16eb"
+      Hint: authorName
+      Value: Polymer / Plastics
+    - ID: "ae98adc0-112a-4fd9-9103-1075d3bb9555"
+      Hint: bio
+      Value: |
+        <p>The key to understanding the production process of synthetic plastic, rubber, or fiber lies in the four principle
+        methods commercially used in polymer production.  All polymers and copolymers are made by either the use of one
+        or a combination of methods.  These methods are bulk, solution, suspension, and emulsion.  </p>
+        <p>Chemineer agitators and Kenics static mixers and heat exchangers are used extensively in polymer and plastic
+        production.  Batch reactors, continuous processing, tubular reactors, and heat exchangers are utilized, often
+        in combination, in polymer production plants.</p>
+        <p>Below is information on the different methods of polymer production along with different applications for specific
+        polymers.</p>
+        <h3>General Polymer Applications</h3>
+        <ul>
+            <li>Bulk</li>
+            <li>Suspension</li>
+            <li>Emulsion</li>
+            <li>Solution</li>
+        </ul>
+        <h3>Types of Polymers:</h3>
+        <ul>
+            <li>PVC (Poly-Vinyl Chloride)</li>
+            <li>Polystyrene/ABS (Acrylonitrile Butadiene-Styrene)</li>
+            <li>Polyethylene</li>
+            <li>PTA (Purified Terephthalic Acid)</li>
+            <li>Polypropylene</li>
+            <li>Polyesters</li>
+            <li>Nylon</li>
+            <li>Bio-Degradable Plastics</li>
+            <li>Synthetic Rubber</li>
+            <li>Latex</li>
+        </ul>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210921T161257Z

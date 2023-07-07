@@ -1,0 +1,87 @@
+﻿---
+ID: "d98198d2-6f8e-418a-9c6a-6c55c2fe6534"
+Parent: "0c56d878-244b-41e1-8b63-effd352da655"
+Template: "7769813d-70b0-4541-b84c-d4a87d4f77bf"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/RIG/Aftermarket Operations/Condition Monitoring Services/Condition Monitoring Services D9 Image Block Small Landscape 2
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "0d3bd014-3110-4756-98aa-95f667c64386"
+      Hint: image
+      Value: |
+        <image mediaid="{CCDA37FE-D98A-4AAA-B451-41358CDAF8E9}" cropregion="0,346,1920,1425" ratio="960:540" width="960" height="540" alt="" hspace="" vspace="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190307T151548Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{37CE6828-491E-4AF1-A858-254564BEE5B8}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c62fa749-1cb5-4712-ad84-cfe44e16e5f1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190307T192749Z
+    - ID: "fdedb294-6ff7-4d32-bfc6-44c8e7828aee"
+      Hint: Headline
+      Value: A Piperacking System on an offshore rig.
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "0d3bd014-3110-4756-98aa-95f667c64386"
+      Hint: image
+      Value: |
+        <image mediaid="{CCDA37FE-D98A-4AAA-B451-41358CDAF8E9}" cropregion="0,346,1920,1425" ratio="960:540" width="960" height="540" alt="" hspace="" vspace="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190426T203226Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5e77deed-8be4-4868-b437-fa6569f50c34"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190426T203226Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190426T203241Z
+    - ID: "fdedb294-6ff7-4d32-bfc6-44c8e7828aee"
+      Hint: Headline
+      Value: "Dual column-rackers"

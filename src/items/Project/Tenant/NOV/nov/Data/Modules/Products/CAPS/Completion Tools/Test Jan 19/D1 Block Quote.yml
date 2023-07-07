@@ -1,0 +1,64 @@
+﻿---
+ID: "8c27fd9c-5878-4674-ab23-be2ba0e80536"
+Parent: "181771cb-06cf-4553-9d2a-043ec2a34ce0"
+Template: "248a71e3-4d3b-4372-9558-c8bcab08539f"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/CAPS/Completion Tools/Test Jan 19/D1 Block Quote
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1500
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0ee37543-0d4f-4fae-bc5e-c828c7df5931"
+      Hint: cta
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190124T100813Z
+    - ID: "26894bef-5803-40dd-8de7-01170daf29a6"
+      Hint: backgroundVideo
+      Value: 
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mathias
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mathias
+    - ID: "75bac910-2e4d-4438-863a-aba8e68cb75e"
+      Hint: quoteText
+      Value: |
+        <p><span style="background-color: #ffffff; text-align: justify; color: #000000;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo. Proin sodales pulvinar tempor.</span></p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5bbc6ef8-e1d6-45e3-88ee-025f62496e14"
+    - ID: "9ce372ba-72d4-44e1-84d1-e5dc70965cc3"
+      Hint: image
+      Value: |
+        <image mediaid="{7541ACAA-FD07-4944-B32C-865D9BDFDEB8}" cropregion="247,0,1671,1424" ratio="385:385" width="385" height="385" />
+    - ID: "aa872c07-d771-40f6-a843-5722b9ee1a00"
+      Hint: quoteName
+      Value: First name, Last name
+    - ID: "b8e9dd5c-1d84-47a9-b3a9-b5172c560c82"
+      Hint: jobTitle
+      Value: Job Title
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190124T100813Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190214T175750Z

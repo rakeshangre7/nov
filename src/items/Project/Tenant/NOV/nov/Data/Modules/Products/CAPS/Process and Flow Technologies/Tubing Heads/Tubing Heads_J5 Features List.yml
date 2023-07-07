@@ -1,0 +1,578 @@
+﻿---
+ID: "f76ea77f-dc87-4aca-8b3f-fa813343d293"
+Parent: "f0cd8710-7767-43e3-9c94-2e536591ddb5"
+Template: "c0aa2bad-85b9-47e4-a236-901c3115fb87"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/CAPS/Process and Flow Technologies/Tubing Heads/Tubing Heads_J5 Features List
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190402T180737Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "4d669ee9-9ff5-4c31-a025-56035d1727a1"
+      Hint: column1Headline
+      Value: Features/Benefits
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticachang
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\verticachang
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f2934a83-e568-4ea7-b908-dbdd66384031"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\verticachang
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: "<p>Our Hercules patented slip design with positive mechanical stop limits slip travel and reduces stress in the wellhead body. The advanced top metal ring design reduces the gap between the top metal ring halves, preventing packing extrusion and minimizing water and dirt entrapment. Pressure-assisted contoured packing assures positive pack-off with minimum compression. The slip design allows as much weight as the threaded connection will withstand without crushing the casing inside diameter (ID) below the API drift diameter.</p>"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190402T183136Z
+    - ID: "f6afec27-750a-4d77-962d-3ce002b623b9"
+      Hint: column1List
+      Value: |
+        <p style="color: #000000;">Patented Positive Mechanical Stop-Slip Design</p>
+        <ul>
+            <li style="color: #000000;">Limits slip travel</li>
+            <li style="color: #000000;">Reduces hoop stress in wellhead body</li>
+            <li style="color: #000000;">Slip load capacity equals thread joint capacity</li>
+            <li style="color: #000000;">Will not crush pipe ID below API drift</li>
+            <li style="color: #000000;">Nonrestrictive to side outlet flow</li>
+        </ul>
+        <p style="color: #000000;">Contoured Packing Design</p>
+        <ul>
+            <li style="color: #000000;">For improved seal</li>
+        </ul>
+        <p style="color: #000000;">Improved Top Metal Ring Design</p>
+        <ul>
+            <li style="color: #000000;">Prevents packing extrusion</li>
+        </ul>
+        <p style="color: #000000;">Interchangeable Parts</p>
+        <ul>
+            <li style="color: #000000;">All internal casing head parts on 1,500, 2,000, and 3,000 psi</li>
+        </ul>
+        <p style="color: #000000;">Options</p>
+        <ul>
+            <li style="color: #000000;">Casing head sizes: 7-, 8⅝-, 9⅝-, and 10¾-in. bottom connections</li>
+            <li style="color: #000000;">Tubing head sizes: 2-, 2½-, 3-, 4½-, 5½-, and 7-in. bottom connections</li>
+            <li style="color: #000000;">Maximum working pressure (MWP) up to 3,000 psi</li>
+            <li style="color: #000000;">Submergible designs available</li>
+            <li style="color: #000000;">Accessories include flange adaptors, belled nipples, couplings, and tubing clamps<br /></li>
+        </ul>
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: |
+        <r owner="sitecore\verticachang" date="20190402T184935Z" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190402T184933Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{8B87E652-E3F7-4C54-BDD9-66E1B888FF8B}"
+    - ID: "4d669ee9-9ff5-4c31-a025-56035d1727a1"
+      Hint: column1Headline
+      Value: Features/Benefits
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticachang
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\verticachang
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9a1c5503-8971-4fc8-a010-4894fed3469a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\verticachang
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: "<p>Our Hercules patented slip design with positive mechanical stop limits slip travel and reduces stress in the wellhead body. The advanced top metal ring design reduces the gap between the top metal ring halves, preventing packing extrusion and minimizing water and dirt entrapment. Pressure-assisted contoured packing assures positive pack-off with minimum compression. The slip design allows as much weight as the threaded connection will withstand without crushing the casing inside diameter (ID) below the API drift diameter.</p>"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190402T184933Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190402T184935Z
+    - ID: "f6afec27-750a-4d77-962d-3ce002b623b9"
+      Hint: column1List
+      Value: |
+        <p style="color: #000000;">Patented Positive Mechanical Stop-Slip Design</p>
+        <ul>
+            <li style="color: #000000;">Limits slip travel</li>
+            <li style="color: #000000;">Reduces hoop stress in wellhead body</li>
+            <li style="color: #000000;">Slip load capacity equals thread joint capacity</li>
+            <li style="color: #000000;">Will not crush pipe ID below API drift</li>
+            <li style="color: #000000;">Nonrestrictive to side outlet flow</li>
+        </ul>
+        <p style="color: #000000;">Contoured Packing Design</p>
+        <ul>
+            <li style="color: #000000;">For improved seal</li>
+        </ul>
+        <p style="color: #000000;">Improved Top Metal Ring Design</p>
+        <ul>
+            <li style="color: #000000;">Prevents packing extrusion</li>
+        </ul>
+        <p style="color: #000000;">Interchangeable Parts</p>
+        <ul>
+            <li style="color: #000000;">All internal casing head parts on 1,500, 2,000, and 3,000 psi</li>
+        </ul>
+        <p style="color: #000000;">Options</p>
+        <ul>
+            <li style="color: #000000;">Casing head sizes: 7-, 8⅝-, 9⅝-, and 10¾-in. bottom connections</li>
+            <li style="color: #000000;">Tubing head sizes: 2-, 2½-, 3-, 4½-, 5½-, and 7-in. bottom connections</li>
+            <li style="color: #000000;">Maximum working pressure (MWP) up to 3,000 psi</li>
+            <li style="color: #000000;">Submergible designs available</li>
+            <li style="color: #000000;">Accessories include flange adaptors, belled nipples, couplings, and tubing clamps<br /></li>
+        </ul>
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190402T195038Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "4d669ee9-9ff5-4c31-a025-56035d1727a1"
+      Hint: column1Headline
+      Value: Features/Benefits
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticachang
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\verticachang
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a0253d9e-31e5-4c10-9820-9e023e9051a5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\verticachang
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: "<p>Our Hercules patented slip design with positive mechanical stop limits slip travel and reduces stress in the wellhead body. The advanced top metal ring design reduces the gap between the top metal ring halves, preventing packing extrusion and minimizing water and dirt entrapment. Pressure-assisted contoured packing assures positive pack-off with minimum compression. The slip design allows as much weight as the threaded connection will withstand without crushing the casing inside diameter (ID) below the API drift diameter.</p>"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190402T195038Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190402T195725Z
+    - ID: "f6afec27-750a-4d77-962d-3ce002b623b9"
+      Hint: column1List
+      Value: |
+        <p>Patented Positive Mechanical Stop-Slip Design</p>
+        <ul>
+            <li>Limits slip travel</li>
+            <li>Reduces hoop stress in wellhead body</li>
+            <li>Slip load capacity equals thread joint capacity</li>
+            <li>Will not crush pipe ID below API drift</li>
+            <li>Nonrestrictive to side outlet flow</li>
+        </ul>
+        <p>Contoured Packing Design</p>
+        <ul>
+            <li>For improved seal</li>
+        </ul>
+        <p>Improved Top Metal Ring Design</p>
+        <ul>
+            <li>Prevents packing extrusion</li>
+        </ul>
+        <p>Interchangeable Parts</p>
+        <ul>
+            <li>All internal casing head parts on 1,500, 2,000, and 3,000 psi</li>
+        </ul>
+        <p>Options</p>
+        <ul>
+            <li>Casing head sizes: 7-, 8⅝-, 9⅝-, and 10&frac34;-in. bottom connections</li>
+            <li>Tubing head sizes: 2-, 2&frac12;-, 3-, 4&frac12;-, 5&frac12;-, and 7-in. bottom connections</li>
+            <li>Maximum working pressure (MWP) up to 3,000 psi</li>
+            <li>Submergible designs available</li>
+            <li>Accessories include flange adaptors, belled nipples, couplings, and tubing clamps</li>
+        </ul>
+  - Version: 4
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190508T190702Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "4d669ee9-9ff5-4c31-a025-56035d1727a1"
+      Hint: column1Headline
+      Value: Features/Benefits
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticachang
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\verticgappau
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "503de20a-7092-44be-b7d4-ebec33aa9e64"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\verticgappau
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: "<p>Our Hercules<sup>TM</sup> patented slip design with positive mechanical stop limits slip travel and reduces stress in the wellhead body. The advanced top metal ring design reduces the gap between the top metal ring halves, preventing packing extrusion and minimizing water and dirt entrapment. Pressure-assisted contoured packing assures positive pack-off with minimum compression. The slip design allows as much weight as the threaded connection will withstand without crushing the casing inside diameter (ID) below the API drift diameter.</p>"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190508T190702Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190508T191100Z
+    - ID: "f6afec27-750a-4d77-962d-3ce002b623b9"
+      Hint: column1List
+      Value: |
+        <p><strong>Patented Positive Mechanical Stop-Slip Design</strong></p>
+        <ul>
+            <li>Limits slip travel</li>
+            <li>Reduces hoop stress in wellhead body</li>
+            <li>Slip load capacity equals thread joint capacity</li>
+            <li>Will not crush pipe ID below API drift</li>
+            <li>Nonrestrictive to side outlet flow</li>
+        </ul>
+        <p><strong><br />
+        Contoured Packing Design</strong></p>
+        <ul>
+            <li>For improved seal</li>
+        </ul>
+        <p><strong><br />
+        Improved Top Metal Ring Design</strong></p>
+        <ul>
+            <li>Prevents packing extrusion</li>
+        </ul>
+        <p><strong><br />
+        Interchangeable Parts</strong></p>
+        <ul>
+            <li>All internal casing head parts on 1,500, 2,000, and 3,000 psi</li>
+        </ul>
+        <p><strong><br />
+        Options</strong></p>
+        <ul>
+            <li>Casing head sizes: 7-, 8⅝-, 9⅝-, and 10&frac34;-in. bottom connections</li>
+            <li>Tubing head sizes: 2-, 2&frac12;-, 3-, 4&frac12;-, 5&frac12;-, and 7-in. bottom connections</li>
+            <li>Maximum working pressure (MWP) up to 3,000 psi</li>
+            <li>Submergible designs available</li>
+            <li>Accessories include flange adaptors, belled nipples, couplings, and tubing clamps</li>
+        </ul>
+  - Version: 5
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190530T141859Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "4d669ee9-9ff5-4c31-a025-56035d1727a1"
+      Hint: column1Headline
+      Value: Features/Benefits
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticachang
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2ee601ed-ddd1-46a4-96df-71f005674938"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: "<p>Our Hercules<sup>TM</sup> patented slip design with positive mechanical stop limits slip travel and reduces stress in the wellhead body. The advanced top metal ring design reduces the gap between the top metal ring halves, preventing packing extrusion and minimizing water and dirt entrapment. Pressure-assisted contoured packing assures positive pack-off with minimum compression. The slip design allows as much weight as the threaded connection will withstand without crushing the casing inside diameter (ID) below the API drift diameter.</p>"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190530T141859Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190530T141927Z
+    - ID: "f6afec27-750a-4d77-962d-3ce002b623b9"
+      Hint: column1List
+      Value: |
+        <p><strong>Patented Positive Mechanical Stop-Slip Design</strong></p>
+        <ul>
+            <li>Limits slip travel</li>
+            <li>Reduces hoop stress in wellhead body</li>
+            <li>Slip load capacity equals thread joint capacity</li>
+            <li>Will not crush pipe ID below API drift</li>
+            <li>Nonrestrictive to side outlet flow</li>
+        </ul>
+        <p><strong><br />
+        Contoured Packing Design</strong></p>
+        <ul>
+            <li>For improved seal</li>
+        </ul>
+        <p><strong><br />
+        Improved Top Metal Ring Design</strong></p>
+        <ul>
+            <li>Prevents packing extrusion</li>
+        </ul>
+        <p><strong><br />
+        Interchangeable Parts</strong></p>
+        <ul>
+            <li>All internal casing head parts on 1,500, 2,000, and 3,000 psi</li>
+        </ul>
+        <p><strong><br />
+        Options</strong></p>
+        <ul>
+            <li>Casing head sizes: 7-, 8⅝-, 9⅝-, and 10¾-in. bottom connections</li>
+            <li>Tubing head sizes: 2-, 2½-, 3-, 4½-, 5½-, and 7-in. bottom connections</li>
+            <li>Maximum working pressure (MWP) up to 3,000 psi</li>
+            <li>Submergible designs available</li>
+            <li>Accessories include flange adaptors, belled nipples, couplings, and tubing clamps</li>
+        </ul>
+  - Version: 6
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190626T203904Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "4d669ee9-9ff5-4c31-a025-56035d1727a1"
+      Hint: column1Headline
+      Value: Features/Benefits
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticachang
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6d7280e9-2c51-4d5e-b40f-fa90a358a55e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: "<p>Our Hercules<sup>TM</sup> patented slip design with positive mechanical stop limits slip travel and reduces stress in the wellhead body. The advanced top metal ring design reduces the gap between the top metal ring halves, preventing packing extrusion and minimizing water and dirt entrapment. Pressure-assisted contoured packing assures positive pack-off with minimum compression. The slip design allows as much weight as the threaded connection will withstand without crushing the casing inside diameter (ID) below the API drift diameter.</p>"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190626T203904Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190703T175406Z
+    - ID: "f6afec27-750a-4d77-962d-3ce002b623b9"
+      Hint: column1List
+      Value: |
+        <p>Patented Positive Mechanical Stop-Slip Design</p>
+        <ul>
+            <li>Limits slip travel</li>
+            <li>Reduces hoop stress in wellhead body</li>
+            <li>Slip load capacity equals thread joint capacity</li>
+            <li>Will not crush pipe ID below API drift</li>
+            <li>Nonrestrictive to side outlet flow</li>
+        </ul>
+        <p>
+        Contoured Packing Design</p>
+        <ul>
+            <li>For improved seal</li>
+        </ul>
+        <p>
+        Improved Top Metal Ring Design</p>
+        <ul>
+            <li>Prevents packing extrusion</li>
+        </ul>
+        <p>
+        Interchangeable Parts</p>
+        <ul>
+            <li>All internal casing head parts on 1,500, 2,000, and 3,000 psi</li>
+        </ul>
+        <p>
+        Options</p>
+        <ul>
+            <li>Casing head sizes: 7-, 8⅝-, 9⅝-, and 10&frac34;-in. bottom connections</li>
+            <li>Tubing head sizes: 2-, 2&frac12;-, 3-, 4&frac12;-, 5&frac12;-, and 7-in. bottom connections</li>
+            <li>Maximum working pressure (MWP) up to 3,000 psi</li>
+            <li>Submergible designs available</li>
+            <li>Accessories include flange adaptors, belled nipples, couplings, and tubing clamps</li>
+        </ul>
+  - Version: 7
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190703T175410Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "4d669ee9-9ff5-4c31-a025-56035d1727a1"
+      Hint: column1Headline
+      Value: Features/Benefits
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticachang
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "60ff1c66-a0d0-4b7c-98bb-db29a01c2007"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: "<p>Our Hercules&trade; patented slip design with positive mechanical stop limits slip travel and reduces stress in the wellhead body. The advanced top metal ring design reduces the gap between the top metal ring halves, preventing packing extrusion and minimizing water and dirt entrapment. Pressure-assisted contoured packing assures positive pack-off with minimum compression. The slip design allows as much weight as the threaded connection will withstand without crushing the casing inside diameter (ID) below the API drift diameter.</p>"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190703T175410Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190703T175743Z
+    - ID: "f6afec27-750a-4d77-962d-3ce002b623b9"
+      Hint: column1List
+      Value: |
+        <ul>
+            <li>Patented positive mechanical stop-slip design</li>
+            <ul>
+                <li>Limits slip travel</li>
+                <li>Reduces hoop stress in wellhead body</li>
+                <li>Slip load capacity equals thread joint capacity</li>
+                <li>Will not crush pipe ID below API drift</li>
+                <li>Nonrestrictive to side outlet flow</li>
+            </ul>
+            <li>Contoured packing design</li>
+            <ul>
+                <li>For improved seal</li>
+            </ul>
+            <li>Improved top metal ring design</li>
+            <ul>
+                <li>Prevents packing extrusion</li>
+            </ul>
+            <li>Interchangeable parts</li>
+            <ul>
+                <li>All internal casing head parts on 1,500, 2,000, and 3,000 psi</li>
+            </ul>
+            <li>Options</li>
+            <ul>
+                <li>Casing head sizes: 7-, 8⅝-, 9⅝-, and 10&frac34;-in. bottom connections</li>
+                <li>Tubing head sizes: 2-, 2&frac12;-, 3-, 4&frac12;-, 5&frac12;-, and 7-in. bottom connections</li>
+                <li>Maximum working pressure (MWP) up to 3,000 psi</li>
+                <li>Submergible designs available</li>
+                <li>Accessories include flange adaptors, belled nipples, couplings, and tubing clamps</li>
+            </ul>
+        </ul>
+  - Version: 8
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190711T155811Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "4d669ee9-9ff5-4c31-a025-56035d1727a1"
+      Hint: column1Headline
+      Value: Features/Benefits
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticachang
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1c90a90a-bdfd-4a05-950a-68bea6dcbef9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: "<p>Our Hercules&trade; patented slip design with positive mechanical stop limits slip travel and reduces stress in the wellhead body. The advanced top metal ring design reduces the gap between the top metal ring halves, preventing packing extrusion and minimizing water and dirt entrapment. Pressure-assisted contoured packing assures positive pack-off with minimum compression. The slip design allows as much weight as the threaded connection will withstand without crushing the casing inside diameter (ID) below the API drift diameter.</p>"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190711T155811Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190711T155859Z
+    - ID: "f6afec27-750a-4d77-962d-3ce002b623b9"
+      Hint: column1List
+      Value: |
+        <ul>
+            <li>Patented positive mechanical stop-slip design
+            <ul>
+                <li>Limits slip travel</li>
+                <li>Reduces hoop stress in wellhead body</li>
+                <li>Slip load capacity equals thread joint capacity</li>
+                <li>Will not crush pipe ID below API drift</li>
+                <li>Nonrestrictive to side outlet flow</li>
+            </ul></li>
+            <li>Contoured packing design
+            <ul>
+                <li>For improved seal</li>
+            </ul></li>
+            <li>Improved top metal ring design
+            <ul>
+                <li>Prevents packing extrusion</li>
+            </ul></li>
+            <li>Interchangeable parts
+            <ul>
+                <li>All internal casing head parts on 1,500, 2,000, and 3,000 psi</li>
+            </ul></li>
+            <li>Options
+            <ul>
+                <li>Casing head sizes: 7-, 8⅝-, 9⅝-, and 10&frac34;-in. bottom connections</li>
+                <li>Tubing head sizes: 2-, 2&frac12;-, 3-, 4&frac12;-, 5&frac12;-, and 7-in. bottom connections</li>
+                <li>Maximum working pressure (MWP) up to 3,000 psi</li>
+                <li>Submergible designs available</li>
+                <li>Accessories include flange adaptors, belled nipples, couplings, and tubing clamps</li>
+            </ul></li>
+        </ul>

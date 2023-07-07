@@ -1,0 +1,38 @@
+﻿---
+ID: "5ccebc46-accc-4e2e-bed2-bbe482c1a690"
+Parent: "1a872218-9180-4d6b-a607-605ca0d7f0e4"
+Template: "5cf4c398-c248-4e85-aba6-a912f9d972ae"
+Path: /sitecore/content/nov/nov/Data/System/Content Tags/Job Function
+Languages:
+- Language: "en-US"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Article - Job Function"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181005T183154Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ashwin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ashwin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b1036e95-e051-4c4b-9e78-7908e3bedf0e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ashwin
+    - ID: "d069cc38-abf0-4a43-a177-3a33e1ef8f03"
+      Hint: tag
+      Value: Job Function
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20181119T225859Z

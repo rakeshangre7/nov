@@ -1,0 +1,786 @@
+﻿---
+ID: "6d288ed7-b642-4a44-a452-606326f2ad1d"
+Parent: "d49f9177-e65e-409a-a20c-654f2a5eb3f0"
+Template: "5030864f-eb96-4da7-a417-e5a0108c59f8"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/WBT/WellSite Services/HS 2000M Centrifuge/HS 2000M Centrifuge J6 Product Table
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190318T155158Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\charisgamroth
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+        <tbody>
+        <tr>
+        <td>
+        <strong>General</strong>
+        </td>
+        <td>
+        <strong>HS-2000M</strong>
+        </td>
+        </tr>
+        <tr>
+        <td>
+        Length
+        </td>
+        <td>
+        171.5 in. (4356 mm)
+        </td>
+        </tr>
+        <tr>
+        <td>
+        Width (at bowl drive end)
+        </td>
+        <td>
+        40.25 in. (1022 mm)
+        </td>
+        </tr>
+        <tr>
+        <td>
+        Width (at conveyor drive end)
+        </td>
+        <td>
+        40.25 in. (1022 mm)
+        </td>
+        </tr>
+        <tr>
+        <td>
+        Height (lid closed)
+        </td>
+        <td>
+        46.6 in. (1185 mm)
+        </td>
+        </tr>
+        <tr>
+        <td>
+        Height (lid open)
+        </td>
+        <td>
+        69.4 in. (1762 mm)
+        </td>
+        </tr>
+        <tr>
+        <td>
+        Weight "dry"
+        </td>
+        <td>
+        9,000 lb (4082 kg)
+        </td>
+        </tr>
+        <tr>
+        <td>
+        Bowl diameter
+        </td>
+        <td>
+        18 in. (457 mm)
+        </td>
+        </tr>
+        <tr>
+        <td>
+        Bowl length
+        </td>
+        <td>
+        60 in. (1524 mm)
+        </td>
+        </tr>
+        <tr>
+        <td>
+        Maximum bowl speed
+        </td>
+        <td>
+        3,200 RPM
+        </td>
+        </tr>
+        <tr>
+        <td>
+        Typical bowl speed
+        </td>
+        <td>
+        2,600 RPM
+        </td>
+        </tr>
+        <tr>
+        <td>
+        Maximum processing capacity (water)
+        </td>
+        <td>
+        250 gal/min (946 L/min)
+        </td>
+        </tr>
+        <tr>
+        <td>
+        Drive type
+        </td>
+        <td>
+        VFD
+        </td>
+        </tr>
+        <tr>
+        <td>
+        Maximum G-force
+        </td>
+        <td>
+        2,617
+        </td>
+        </tr>
+        <tr>
+        <td>
+        <strong>Rotating assembly</strong>
+        </td>
+        </tr>
+        <tr>
+        <td>
+        Conveyor pitch
+        </td>
+        <td>
+        5 in. (127 mm)
+        </td>
+        </tr>
+        <tr>
+        <td>
+        Conveyor type
+        </td>
+        <td>
+        Single
+        </td>
+        </tr>
+        <tr>
+        <td>
+        Feed chamber discharge type
+        </td>
+        <td>
+        12 nozzles
+        </td>
+        </tr>
+        <tr>
+        <td>
+        Gearbox type
+        </td>
+        <td>
+        Single-stage, Cycloidal
+        </td>
+        </tr>
+        <tr>
+        <td>
+        Gearbox ratio
+        </td>
+        <td>
+        59:1
+        </td>
+        </tr>
+        <tr>
+        <td>
+        <strong>Power requirements</strong>
+        </td>
+        </tr>
+        <tr>
+        <td>
+        Bowl drive motor
+        </td>
+        <td>
+        75 hp (56 kW)
+        </td>
+        </tr>
+        <tr>
+        <td>
+        Conveyor drive motor
+        </td>
+        <td>
+        30 hp (22 kW)
+        </td>
+        </tr>
+        <tr>
+        <td>
+        Voltage
+        </td>
+        <td>
+        460 VAC
+        </td>
+        </tr>
+        </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1423c612-8d2d-4b4d-a3a2-fd51097a12ce"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: "HS-2000M Centrifuge"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190318T160538Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190318T160702Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\charisgamroth
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+        <tbody>
+        <tr>
+        <td>
+        <strong>General</strong>
+        </td>
+        <td>
+        <strong>HS-2000M</strong>
+        </td>
+        </tr>
+        <tr>
+        <td>
+        Length
+        </td>
+        <td>
+        171.5 in. (4356 mm)
+        </td>
+        </tr>
+        <tr>
+        <td>
+        Width (at bowl drive end)
+        </td>
+        <td>
+        40.25 in. (1022 mm)
+        </td>
+        </tr>
+        <tr>
+        <td>
+        Width (at conveyor drive end)
+        </td>
+        <td>
+        40.25 in. (1022 mm)
+        </td>
+        </tr>
+        <tr>
+        <td>
+        Height (lid closed)
+        </td>
+        <td>
+        46.6 in. (1185 mm)
+        </td>
+        </tr>
+        <tr>
+        <td>
+        Height (lid open)
+        </td>
+        <td>
+        69.4 in. (1762 mm)
+        </td>
+        </tr>
+        <tr>
+        <td>
+        Weight "dry"
+        </td>
+        <td>
+        9,000 lb (4082 kg)
+        </td>
+        </tr>
+        <tr>
+        <td>
+        Bowl diameter
+        </td>
+        <td>
+        18 in. (457 mm)
+        </td>
+        </tr>
+        <tr>
+        <td>
+        Bowl length
+        </td>
+        <td>
+        60 in. (1524 mm)
+        </td>
+        </tr>
+        <tr>
+        <td>
+        Maximum bowl speed
+        </td>
+        <td>
+        3,200 RPM
+        </td>
+        </tr>
+        <tr>
+        <td>
+        Typical bowl speed
+        </td>
+        <td>
+        2,600 RPM
+        </td>
+        </tr>
+        <tr>
+        <td>
+        Maximum processing capacity (water)
+        </td>
+        <td>
+        250 gal/min (946 L/min)
+        </td>
+        </tr>
+        <tr>
+        <td>
+        Drive type
+        </td>
+        <td>
+        VFD
+        </td>
+        </tr>
+        <tr>
+        <td>
+        Maximum G-force
+        </td>
+        <td>
+        2,617
+        </td>
+        </tr>
+        <tr>
+        <td>
+        <strong>Rotating assembly</strong>
+        </td>
+        </tr>
+        <tr>
+        <td>
+        Conveyor pitch
+        </td>
+        <td>
+        5 in. (127 mm)
+        </td>
+        </tr>
+        <tr>
+        <td>
+        Conveyor type
+        </td>
+        <td>
+        Single
+        </td>
+        </tr>
+        <tr>
+        <td>
+        Feed chamber discharge type
+        </td>
+        <td>
+        12 nozzles
+        </td>
+        </tr>
+        <tr>
+        <td>
+        Gearbox type
+        </td>
+        <td>
+        Single-stage, Cycloidal
+        </td>
+        </tr>
+        <tr>
+        <td>
+        Gearbox ratio
+        </td>
+        <td>
+        59:1
+        </td>
+        </tr>
+        <tr>
+        <td>
+        <strong>Power requirements</strong>
+        </td>
+        </tr>
+        <tr>
+        <td>
+        Bowl drive motor
+        </td>
+        <td>
+        75 hp (56 kW)
+        </td>
+        </tr>
+        <tr>
+        <td>
+        Conveyor drive motor
+        </td>
+        <td>
+        30 hp (22 kW)
+        </td>
+        </tr>
+        <tr>
+        <td>
+        Voltage
+        </td>
+        <td>
+        460 VAC*
+        </td>
+        </tr>
+        </tbody>
+        </table>
+        <p>* Optional 380, 480, and 575 VAC also available</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "39e1f968-cd74-4a0b-9b4d-4422f4760e14"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: "HS-2000M Centrifuge"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190318T160702Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190318T160800Z
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190422T201549Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\charisgamroth
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td>
+                    <strong>General</strong>
+                    </td>
+                    <td>
+                    <strong>HS-2000M</strong>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Length
+                    </td>
+                    <td>
+                    171.5 in. (4356 mm)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Width (at bowl drive end)
+                    </td>
+                    <td>
+                    40.25 in. (1022 mm)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Width (at conveyor drive end)
+                    </td>
+                    <td>
+                    40.25 in. (1022 mm)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Height (lid closed)
+                    </td>
+                    <td>
+                    46.6 in. (1185 mm)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Height (lid open)
+                    </td>
+                    <td>
+                    69.4 in. (1762 mm)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Weight "dry"
+                    </td>
+                    <td>
+                    9,000 lb (4082 kg)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Bowl diameter
+                    </td>
+                    <td>
+                    18 in. (457 mm)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Bowl length
+                    </td>
+                    <td>
+                    60 in. (1524 mm)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Maximum bowl speed
+                    </td>
+                    <td>
+                    3,200 rpm&nbsp;</td>
+                </tr>
+                <tr>
+                    <td>
+                    Typical bowl speed
+                    </td>
+                    <td>
+                    2,600 rpm</td>
+                </tr>
+                <tr>
+                    <td>
+                    Maximum processing capacity (water)
+                    </td>
+                    <td>
+                    250 gal/min (946 L/min)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Drive type
+                    </td>
+                    <td>
+                    VFD
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Maximum G-force
+                    </td>
+                    <td>
+                    2,617
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2"><strong>Rotating assembly</strong>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Conveyor pitch
+                    </td>
+                    <td>
+                    5 in. (127 mm)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Conveyor type
+                    </td>
+                    <td>
+                    Single
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Feed chamber discharge type
+                    </td>
+                    <td>
+                    12 nozzles
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Gearbox type
+                    </td>
+                    <td>
+                    Single-stage, Cycloidal
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Gearbox ratio
+                    </td>
+                    <td>
+                    59:1
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2">
+                    <strong>Power requirements</strong>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Bowl drive motor
+                    </td>
+                    <td>
+                    75 hp (56 kW)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Conveyor drive motor
+                    </td>
+                    <td>
+                    30 hp (22 kW)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Voltage
+                    </td>
+                    <td>
+                    460 VAC*
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p>* Optional 380, 480, and 575 VAC also available</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3ae0b9d6-1b1b-4d54-83a3-0a4adfe2024d"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: "HS-2000M Centrifuge"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190422T201549Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190422T201829Z
+  - Version: 4
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190617T144157Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\charisgamroth
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td>Length</td>
+                    <td>171.5 in. (4356 mm)</td>
+                </tr>
+                <tr>
+                    <td>Width (at bowl drive end)</td>
+                    <td>40.25 in. (1022 mm)</td>
+                </tr>
+                <tr>
+                    <td>Width (at conveyor drive end)</td>
+                    <td>40.25 in. (1022 mm)</td>
+                </tr>
+                <tr>
+                    <td>Height (lid closed)</td>
+                    <td>46.6 in. (1185 mm)</td>
+                </tr>
+                <tr>
+                    <td>Height (lid open)</td>
+                    <td>69.4 in. (1762 mm)</td>
+                </tr>
+                <tr>
+                    <td>Weight "dry"</td>
+                    <td>9,000 lb (4082 kg)</td>
+                </tr>
+                <tr>
+                    <td>Bowl diameter</td>
+                    <td>18 in. (457 mm)</td>
+                </tr>
+                <tr>
+                    <td>Bowl length</td>
+                    <td>60 in. (1524 mm)</td>
+                </tr>
+                <tr>
+                    <td>Maximum bowl speed</td>
+                    <td>3,200 rpm&nbsp;</td>
+                </tr>
+                <tr>
+                    <td>Typical bowl speed</td>
+                    <td>2,600 rpm</td>
+                </tr>
+                <tr>
+                    <td>Maximum processing capacity (water)</td>
+                    <td>250 gal/min (946 L/min)</td>
+                </tr>
+                <tr>
+                    <td>Drive type</td>
+                    <td>VFD</td>
+                </tr>
+                <tr>
+                    <td>Maximum G-force</td>
+                    <td>2,617</td>
+                </tr>
+            </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1165e0ff-4c18-4d07-90aa-956295a4aec6"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: "HS-2000M Centrifuge General Specifications"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190617T144157Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190617T150040Z

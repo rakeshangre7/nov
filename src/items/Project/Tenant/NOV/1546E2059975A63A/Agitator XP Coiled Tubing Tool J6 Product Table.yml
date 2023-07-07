@@ -1,0 +1,441 @@
+﻿---
+ID: "d8bb0390-6dac-4736-8eb0-c4fe3c8e8754"
+Parent: "d6185633-bf46-441d-8abb-bf4d53f277e2"
+Template: "5030864f-eb96-4da7-a417-e5a0108c59f8"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/WBT/Downhole/Agitator XP Coiled Tubing Tool/Agitator XP Coiled Tubing Tool J6 Product Table
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190417T213022Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td style="width: 149px;">
+                    <p>Tool size (OD)</p>
+                    </td>
+                    <td style="width: 149px;">
+                    <p>2⅛ in.</p>
+                    </td>
+                    <td style="width: 178px;">
+                    <p>2⅞ in.</p>
+                    </td>
+                    <td style="width: 166px;">
+                    <p>3⅛ in.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 149px;">
+                    <p>Connections</p>
+                    </td>
+                    <td style="width: 149px;">
+                    <p>1&frac12;-in. AMMT pin &times; box</p>
+                    </td>
+                    <td style="width: 178px;">
+                    <p>2⅜-in. PAC pin &times; box</p>
+                    </td>
+                    <td style="width: 166px;">
+                    <p>2⅜-in. REG pin &times; box</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 149px;">
+                    <p>Overall length</p>
+                    </td>
+                    <td style="width: 149px;">
+                    <p>72 in.</p>
+                    </td>
+                    <td style="width: 178px;">
+                    <p>61⅜ in.</p>
+                    </td>
+                    <td style="width: 166px;">
+                    <p>61⅜ in.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 149px;">
+                    <p>Recommended flow range</p>
+                    </td>
+                    <td style="width: 149px;">
+                    <p>40&ndash;80 gpm</p>
+                    </td>
+                    <td style="width: 178px;">
+                    <p>40&ndash;140 gpm</p>
+                    </td>
+                    <td style="width: 166px;">
+                    <p>40&ndash;140 gpm</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 149px;">
+                    <p>Operating frequency</p>
+                    </td>
+                    <td style="width: 149px;">
+                    <p>9 Hz at 40 gpm</p>
+                    </td>
+                    <td style="width: 178px;">
+                    <p>9 Hz at 120 gpm</p>
+                    </td>
+                    <td style="width: 166px;">
+                    <p>9 Hz at 120 gpm</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 149px;">
+                    <p>Operational pressure drop generated</p>
+                    </td>
+                    <td style="width: 149px;">
+                    <p>600&ndash;800 psi</p>
+                    </td>
+                    <td style="width: 178px;">
+                    <p>500&ndash;700 psi</p>
+                    </td>
+                    <td style="width: 166px;">
+                    <p>500&ndash;700 psi</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 149px;">
+                    <p>Max. pull</p>
+                    </td>
+                    <td style="width: 149px;">
+                    <p>51,000 lb</p>
+                    </td>
+                    <td style="width: 178px;">
+                    <p>78,000 lb</p>
+                    </td>
+                    <td style="width: 166px;">
+                    <p>129,000 lb</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 149px;">
+                    <p>Temp. range</p>
+                    </td>
+                    <td style="width: 149px;">
+                    <p>320 &deg;F</p>
+                    </td>
+                    <td style="width: 178px;">
+                    <p>320 &deg;F</p>
+                    </td>
+                    <td style="width: 166px;">
+                    <p>320 &deg;F</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 149px;">
+                    <p>Weight</p>
+                    </td>
+                    <td style="width: 149px;">
+                    <p>80 lb</p>
+                    </td>
+                    <td style="width: 178px;">
+                    <p>100 lb</p>
+                    </td>
+                    <td style="width: 166px;">
+                    <p>125 lb</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1022be11-743f-474b-961c-00eef59de54d"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: Agitator XP Coiled Tubing Tool Specifications
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190417T213454Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190813T211622Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td style="width: 149px;">
+                    <p>Tool size (OD)</p>
+                    </td>
+                    <td style="width: 149px;">
+                    <p>2⅛ in.</p>
+                    </td>
+                    <td style="width: 178px;">
+                    <p>2⅞ in.</p>
+                    </td>
+                    <td style="width: 166px;">
+                    <p>3⅛ in.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 149px;">
+                    <p>Connections</p>
+                    </td>
+                    <td style="width: 149px;">
+                    <p>1&frac12;-in. AMMT pin &times; box</p>
+                    </td>
+                    <td style="width: 178px;">
+                    <p>2⅜-in. PAC pin &times; box</p>
+                    </td>
+                    <td style="width: 166px;">
+                    <p>2⅜-in. REG pin &times; box</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 149px;">
+                    <p>Overall length</p>
+                    </td>
+                    <td style="width: 149px;">
+                    <p>72 in.</p>
+                    </td>
+                    <td style="width: 178px;">
+                    <p>61⅜ in.</p>
+                    </td>
+                    <td style="width: 166px;">
+                    <p>61⅜ in.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 149px;">
+                    <p>Recommended flow range</p>
+                    </td>
+                    <td style="width: 149px;">
+                    <p>40 to 80 gal/min</p>
+                    </td>
+                    <td style="width: 178px;">
+                    <p>40 to 140 gal/min</p>
+                    </td>
+                    <td style="width: 166px;">
+                    <p>40 to 140 gal/min</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 149px;">
+                    <p>Operating frequency</p>
+                    </td>
+                    <td style="width: 149px;">
+                    <p>9 Hz at 40 gal/min</p>
+                    </td>
+                    <td style="width: 178px;">
+                    <p>9 Hz at 120 gal/min</p>
+                    </td>
+                    <td style="width: 166px;">
+                    <p>9 Hz at 120 gal/min</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 149px;">
+                    <p>Operational pressure drop generated</p>
+                    </td>
+                    <td style="width: 149px;">
+                    <p>600 to 800 psi</p>
+                    </td>
+                    <td style="width: 178px;">
+                    <p>500 to 700 psi</p>
+                    </td>
+                    <td style="width: 166px;">
+                    <p>500 to 700 psi</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 149px;">
+                    <p>Max. pull</p>
+                    </td>
+                    <td style="width: 149px;">
+                    <p>51,000 lb</p>
+                    </td>
+                    <td style="width: 178px;">
+                    <p>78,000 lb</p>
+                    </td>
+                    <td style="width: 166px;">
+                    <p>129,000 lb</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 149px;">
+                    <p>Temp. range</p>
+                    </td>
+                    <td style="width: 149px;">
+                    <p>320 &deg;F</p>
+                    </td>
+                    <td style="width: 178px;">
+                    <p>320 &deg;F</p>
+                    </td>
+                    <td style="width: 166px;">
+                    <p>320 &deg;F</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 149px;">
+                    <p>Weight</p>
+                    </td>
+                    <td style="width: 149px;">
+                    <p>80 lb</p>
+                    </td>
+                    <td style="width: 178px;">
+                    <p>100 lb</p>
+                    </td>
+                    <td style="width: 166px;">
+                    <p>125 lb</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b7561656-bf4e-4cc0-8a9a-c45a35e68c48"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: Agitator XP Coiled Tubing Tool Specifications
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190813T211622Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190813T211749Z
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190813T211809Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td>Tool size (OD)</td>
+                    <td>2⅛ in.</td>
+                    <td>2⅞ in.</td>
+                    <td>3⅛ in.</td>
+                </tr>
+                <tr>
+                    <td>Connections</td>
+                    <td>1&frac12;-in. AMMT pin &times; box</td>
+                    <td>2⅜-in. PAC pin &times; box</td>
+                    <td>2⅜-in. REG pin &times; box</td>
+                </tr>
+                <tr>
+                    <td>Overall length</td>
+                    <td>72 in.</td>
+                    <td>61⅜ in.</td>
+                    <td>61⅜ in.</td>
+                </tr>
+                <tr>
+                    <td>Recommended flow range</td>
+                    <td>40 to 80 gal/min</td>
+                    <td>40 to 140 gal/min</td>
+                    <td>40 to 140 gal/min</td>
+                </tr>
+                <tr>
+                    <td>Operating frequency</td>
+                    <td>9 Hz at 40 gal/min</td>
+                    <td>9 Hz at 120 gal/min</td>
+                    <td>9 Hz at 120 gal/min</td>
+                </tr>
+                <tr>
+                    <td>Operational pressure drop generated</td>
+                    <td>600 to 800 psi</td>
+                    <td>500 to 700 psi</td>
+                    <td>500 to 700 psi</td>
+                </tr>
+                <tr>
+                    <td>Max. pull</td>
+                    <td>51,000 lb</td>
+                    <td>78,000 lb</td>
+                    <td>129,000 lb</td>
+                </tr>
+                <tr>
+                    <td>Temp. range </td>
+                    <td>320 &deg;F</td>
+                    <td>320 &deg;F</td>
+                    <td>320 &deg;F</td>
+                </tr>
+                <tr>
+                    <td>Weight</td>
+                    <td>80 lb</td>
+                    <td>100 lb</td>
+                    <td>125 lb</td>
+                </tr>
+            </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c6d84d80-47b1-4abc-a759-385f3a8b25e1"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: Agitator XP Coiled Tubing Tool Specifications
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190813T211809Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190813T212240Z

@@ -1,0 +1,64 @@
+﻿---
+ID: "4fbf09f0-41b2-4ba8-b111-621561359ad4"
+Parent: "3377d130-18e6-4f85-9e94-83b9e6c1a928"
+Template: "5030864f-eb96-4da7-a417-e5a0108c59f8"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/CAPS/Process and Flow Technologies/Epsilon Vertical Pump/Epsilon Vertical Pump J6 Product Table
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190328T133425Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\melissapastrano
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\melissapastrano
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table style="width: 612px; height: 62px;">
+            <tbody>
+                <tr>
+                    <td>&nbsp;<span style="color: #4a4a4a;">Capacity</span></td>
+                    <td>&nbsp;<span style="color: #000000;">Up to 1,850 gal/min (420 m<sup><span style="color: #211d1e;">3</span></sup><span style="color: #211d1e;">/hr</span>)&nbsp;</span></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;<span style="color: #4a4a4a;">Pressure</span></td>
+                    <td>&nbsp;<span style="color: #000000;">Up to 350 psi (24 bar)&nbsp;</span></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;<span style="color: #4a4a4a;">Temperature</span></td>
+                    <td>&nbsp;<span style="color: #000000;">14 to 212 &deg;F (10 to 110 &deg;C)&nbsp;</span></td>
+                </tr>
+            </tbody>
+        </table>
+        <br />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "88aa8d83-d05b-4394-b1b6-37fa534df561"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: Epsilon Vertical Pump
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\melissapastrano
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190328T135138Z

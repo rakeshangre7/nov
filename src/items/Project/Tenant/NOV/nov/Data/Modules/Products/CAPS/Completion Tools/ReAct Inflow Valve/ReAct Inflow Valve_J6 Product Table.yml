@@ -1,0 +1,392 @@
+﻿---
+ID: "1d68f7d7-5563-49ba-b453-d1ad31da02af"
+Parent: "203613bb-1272-47b4-8dca-a6828be47419"
+Template: "5030864f-eb96-4da7-a417-e5a0108c59f8"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/CAPS/Completion Tools/ReAct Inflow Valve/ReAct Inflow Valve_J6 Product Table
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 700
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190412T074815Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticjandersen
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\verticjandersen
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td style="width: 214px;">
+                    <p><strong>Tool Size</strong></p>
+                    </td>
+                    <td style="width: 214px;">
+                    <p><strong>4.500&rdquo;</strong></p>
+                    </td>
+                    <td style="width: 214px;">
+                    <p><strong>5.500&rdquo;</strong></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 214px;">
+                    <p>End Connections</p>
+                    </td>
+                    <td style="width: 214px;">
+                    <p>4-&frac12;&rdquo; 12.6# SL-HT</p>
+                    </td>
+                    <td style="width: 214px;">
+                    <p>5-&frac12;&rdquo; 15.5# SL-HT</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 214px;">
+                    <p>Material</p>
+                    </td>
+                    <td style="width: 214px;">
+                    <p>13% Cr &amp; Inconel 718</p>
+                    </td>
+                    <td style="width: 214px;">
+                    <p>13% Cr</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 214px;">
+                    <p>OD</p>
+                    </td>
+                    <td style="width: 214px;">
+                    <p>5.750&rdquo; max</p>
+                    </td>
+                    <td style="width: 214px;">
+                    <p>7.578&rdquo; max</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 214px;">
+                    <p>ID</p>
+                    </td>
+                    <td style="width: 214px;">
+                    <p>3.250&rdquo; min</p>
+                    </td>
+                    <td style="width: 214px;">
+                    <p>4.313&rdquo; min</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 214px;">
+                    <p>Flow Area Through Valve Body</p>
+                    </td>
+                    <td style="width: 214px;">
+                    <p>8.295 in&sup2;</p>
+                    </td>
+                    <td style="width: 214px;">
+                    <p>14.610 in&sup2;</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 214px;">
+                    <p>Length</p>
+                    </td>
+                    <td style="width: 214px;">
+                    <p>114.0&rdquo;</p>
+                    </td>
+                    <td style="width: 214px;">
+                    <p>136.0&rdquo;</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 214px;">
+                    <p>Tensile Rating</p>
+                    </td>
+                    <td style="width: 214px;">
+                    <p>288,00 lbs٭</p>
+                    </td>
+                    <td style="width: 214px;">
+                    <p>361,200 lbs٭</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 214px;">
+                    <p>Compressive Rating</p>
+                    </td>
+                    <td style="width: 214px;">
+                    <p>215,700 lbs٭</p>
+                    </td>
+                    <td style="width: 214px;">
+                    <p>181,300 lbs٭</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 214px;">
+                    <p>Torque Rating</p>
+                    </td>
+                    <td style="width: 214px;">
+                    <p>11,000 ft-lbs٭</p>
+                    </td>
+                    <td style="width: 214px;">
+                    <p>8,700 ft-lbs٭</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 214px;">
+                    <p>Working Pressure</p>
+                    </td>
+                    <td style="width: 214px;">
+                    <p>5,000 psi</p>
+                    </td>
+                    <td style="width: 214px;">
+                    <p>5,000 psi</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 214px;">
+                    <p>Shi ing Force Per 1,000 psi Well Pressure</p>
+                    </td>
+                    <td style="width: 214px;">
+                    <p>8,618 lbs</p>
+                    </td>
+                    <td style="width: 214px;">
+                    <p>11,600 lbs</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 214px;">
+                    <p>Temperature Rating</p>
+                    </td>
+                    <td style="width: 214px;">
+                    <p>125&deg;C</p>
+                    </td>
+                    <td style="width: 214px;">
+                    <p>125&deg;C</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p>٭ Governed by end connection rating</p>
+        <p>
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        &nbsp;</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e218fdf9-4ffe-4ceb-9563-0123ada3ad05"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: ReAct Inflow Valve Specifications
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190614T153453Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190614T153457Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticjandersen
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td>
+                    Tool size
+                    </td>
+                    <td>
+                    <strong>4.500 in.</strong>
+                    </td>
+                    <td>
+                    <strong>5.500 in.</strong>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    End connections
+                    </td>
+                    <td>
+                    4&frac12;-in. 12.6# SL-HT
+                    </td>
+                    <td>
+                    5&frac12;-in. 15.5# SL-HT
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Material
+                    </td>
+                    <td>
+                    13% Cr and Inconel 718
+                    </td>
+                    <td>
+                    13% Cr
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    OD
+                    </td>
+                    <td>
+                    5.750 in. max.
+                    </td>
+                    <td>
+                    7.578 in. max.
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    ID
+                    </td>
+                    <td>
+                    3.250 in. min.
+                    </td>
+                    <td>
+                    4.313 in. min.
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Flow area through valve body
+                    </td>
+                    <td>
+                    8.295 in.<sup>2</sup>
+                    </td>
+                    <td>
+                    14.610 in.<sup>2</sup>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Length
+                    </td>
+                    <td>
+                    114.0 in.
+                    </td>
+                    <td>
+                    136.0 in.
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Tensile rating
+                    </td>
+                    <td>
+                    288,00 lb٭
+                    </td>
+                    <td>
+                    361,200 lb٭
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Compressive rating
+                    </td>
+                    <td>
+                    215,700 lb٭
+                    </td>
+                    <td>
+                    181,300 lb٭
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Torque rating
+                    </td>
+                    <td>
+                    11,000 ft-lb٭
+                    </td>
+                    <td>
+                    8,700 ft-lb٭
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Working pressure
+                    </td>
+                    <td>
+                    5,000 psi
+                    </td>
+                    <td>
+                    5,000 psi
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Shi-ing force per 1,000 psi well pressure
+                    </td>
+                    <td>
+                    8,618 lb
+                    </td>
+                    <td>
+                    11,600 lb
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Temperature rating
+                    </td>
+                    <td>
+                    125 &deg;C
+                    </td>
+                    <td>
+                    125 &deg;C
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <br />
+        <p>*Governed by end connection rating.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "813e4e99-9fa3-4944-b79d-ce013a1048e7"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: ReAct Inflow Valve Specifications
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190614T153457Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190614T154432Z

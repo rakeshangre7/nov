@@ -1,0 +1,55 @@
+﻿---
+ID: "d99bf881-1f4a-41a3-af9d-c4d35c722cce"
+Parent: "085d1831-23f0-4730-a997-8e2dbef7b5e5"
+Template: "6fad82ca-252c-458f-9f63-55e7b6216d46"
+Path: /sitecore/content/nov/nov/Data/Modules/Brand/Chemineer/D8 FAQ Category Technologies/D8 FAQ Category Accordion Item Computational Fluid Mixing CFM
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "13079de1-566c-4c90-afdf-61b31b00eb5a"
+      Hint: answer
+      Value: |
+        <div class="rte">
+        <img alt="" src="-/media/459fd12ddcd146599d0b1f77a3610bbb.ashx?h=134&amp;w=300" style="width: 300px; height: 134px; float:right; margin: 0 0 1em 1em;" />
+        <p>Computational Fluid Mixing (CFM) is a powerful tool used to mathematically model fluid flows of different agitator/impeller designs in mixing tanks and analyze mixing and reaction rates of chemicals and heat transfer.</p>
+        <p>Mixing of single and multi-phase fluids in stirred tank reactors is common in many industries. Understanding the fluid flow in these tanks is critical for equipment design, scale-up, process control, and economics. CFM models allow you to see what is taking place in the mixing vessel and then use that information to select the best agitator design for the desired outcome.</p>
+        <p>The flow patterns in stirred tanks are complex, making traditional CFM a time-consuming process. A CFM technician may need as many as three days to define all the equations and run the program. However, our proprietary techniques expedite this process. Chemineer engineers can obtain a two-dimensional CFM analysis in as little as 10 minutes and a 3D analysis in 3 to 4 hours.</p>
+        <p>Our analytical capabilities are not limited to just cylindrical stirred tanks. Our CFM technology can also be used to evaluate rectangular and side-entering agitated tanks and turbulent and laminar flow static mixers.</p>
+        <p>Chemineer's CFM models receive extensive validation using advanced experimental techniques. Chemineer is the first in the industry to use laser-based Particle Image Velocimetry (PIV) for mixing analysis. The unique data obtained with PIV further improves our modeling capabilities and provides you with the most accurate design for your agitation needs.</p>
+        </div>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210921T215405Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "7551f9c8-d8cd-48da-a370-36884f1d2b56"
+      Hint: question
+      Value: Computational Fluid Mixing
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4eb02e48-f8d7-424e-922e-533549c01418"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20211027T144400Z

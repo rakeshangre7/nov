@@ -1,0 +1,102 @@
+﻿---
+ID: "88ebc522-78c3-427a-b1d9-496c8f14e955"
+Parent: "571286a8-1324-42f9-a085-38b3f1948fb0"
+Template: "5030864f-eb96-4da7-a417-e5a0108c59f8"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/WBT/Downhole/Tube x Cable x Tube Connector/Tube x Cable x Tube Connector_J6 Product Table
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190412T190737Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joannazhu
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+        <thead><tr><th>Part Number</th><th>Tool Description</th><th>Coiled Tubing Sizing</th><th>OD</th><th>Service Kits</th><th>Connections</th><th>Length</th><th>Service Kits</th><th>Operating Pressure</th><th>Extension Sub</th><th>Min Temp Rating</th><th>Max Temp Rating</th><th>Tensile Strength</th></tr></thead><tbody>
+         <tr><td>8094-600</td><td>2⅞-in. Tube × Cable × Tube with ⅝-in. Cable Button (8½ in. long)</td><td>2⅞-in. Tube × ⅝-in. Cable × 2⅞-in. Tube</td><td>2⅞ in.</td><td>8094-600-RDK</td><td>1" AMMT Box x Pin</td><td>23"</td><td>C064-108-08/KS</td><td>5,000 PSI</td><td>0-37162</td><td>0oF</td><td>350oF</td><td>17,496 lbs</td></tr>
+         <tr><td>8081-000</td><td>1¼-in. Tube Slip Connector × Cable for ⅜-in. Cable Button - No cable included</td><td>1¼ in.</td><td>⅜-in. Cable OD and No Cable</td><td>8081-000-RDK</td><td>1 ½" AMMT Box x Pin</td><td>23"</td><td>C064-074-09/KS</td><td>5,000 PSI</td><td>00-27112</td><td>0oF</td><td>350oF</td><td>30,240 lbs</td></tr>
+         <tr><td>8088-100</td><td>1½-in. Tubing Slip Connector × Cable for ⅜-in. Cable Button - No cable included</td><td>1½ in.</td><td>⅜-in. Cable OD and No Cable</td><td>8088-100-RDK</td><td>1 ½" AMMT Box x Pin</td><td>21"</td><td>C064-072-09/KS</td><td>5,000 PSI</td><td>01-27112</td><td>0oF</td><td>350oF</td><td>26,500 lbs </td></tr>
+        </tbody></table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "02c0942e-d896-4454-bdb1-25c73893f250"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: Tube × Cable × Tube Internal Slip Connector Technical Specifications
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\joannazhu
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190412T190902Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190412T191153Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joannazhu
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+        <thead><tr><th>Part Number</th><th>Tool Description</th><th>Coiled Tubing Sizing</th><th>OD</th><th>Service Kits</th></tr></thead><tbody>
+         <tr><td>8094-600</td><td>2⅞-in. Tube × Cable × Tube with ⅝-in. Cable Button (8½ in. long)</td><td>2⅞-in. Tube × ⅝-in. Cable × 2⅞-in. Tube</td><td>2⅞ in.</td><td>8094-600-RDK</td></tr>
+         <tr><td>8081-000</td><td>1¼-in. Tube Slip Connector × Cable for ⅜-in. Cable Button - No cable included</td><td>1¼ in.</td><td>⅜-in. Cable OD and No Cable</td><td>8081-000-RDK</td></tr>
+         <tr><td>8088-100</td><td>1½-in. Tubing Slip Connector × Cable for ⅜-in. Cable Button - No cable included</td><td>1½ in.</td><td>⅜-in. Cable OD and No Cable</td><td>8088-100-RDK</td></tr>
+         <tr><td>8095-300</td><td>2-in. Tube × Cable - Ball Joint Type for ⅜-in. Cable Button - No cable included</td><td>2 in.</td><td>⅜-in. Cable OD and No Cable</td><td>8095-300-RDK</td></tr>
+         <tr><td>8094-100</td><td>2⅞-in. Tube × Cable - Ball Joint Type For ⅜-in. Cable Button - No cable included</td><td>2⅞ in.</td><td>⅜-in. Cable OD and No Cable</td><td>8094-100-RCK</td></tr>
+         <tr><td>8084-200</td><td>2⅞-in. Tube × Cable - Button Style w/=ith ⅝-in. Cable Button (20-ft)</td><td>2⅞ in.</td><td>⅝-in. Cable OD and 20-ft Long Cable</td><td>8084-200-RDK</td></tr>
+         <tr><td>8087-200</td><td>3¼-in. Tube × Cable - Button Style with ⅝-in. Cable Button (20-ft)</td><td>3¼ in.</td><td>⅝-in. Cable OD and 20-ft Long Cable</td><td>8087-200-RDK</td></tr>
+         <tr><td>8086-200</td><td>3½-in. Tube × Cable - Button Style with ⅝-in. Cable Button (20-ft)</td><td>3½ in.</td><td>⅝-in. Cable OD and 20-ft Long Cable</td><td>8086-200-RDK</td></tr>
+        </tbody></table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3332df9a-dbf7-4481-8cc0-a6b8adacdfff"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: Tube × Cable × Tube Internal Slip Connector Technical Specifications
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\joannazhu
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190412T191153Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190412T191203Z

@@ -1,0 +1,51 @@
+﻿---
+ID: "8d5424f1-3d74-4584-a2b6-cf899921b05e"
+Parent: "97b03949-dc69-403f-bdb7-495d301e7607"
+Template: "fef13e36-84bd-4734-b569-e51d7f7e2a36"
+Path: /sitecore/content/nov/nov/Data/Modules/About/Corporate Responsibility/HSE/HSE D3 Content Block Text Upper
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190308T214758Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "4593422d-98d7-497e-b649-a5ade9061f97"
+      Hint: heading
+      Value: Our HSE Commitment
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\charisgamroth
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "70e126a1-8914-4930-8325-b0090275e26e"
+      Hint: body
+      Value: "<p>To sustain our commitment, National Oilwell Varco manages HSE under a Health, Safety, and Environmental Management System (HSE MS) model. The benefits with an HSE MS are vast, including its alignment with recognized global standards such as OHSAS and ISO. The HSE MS at NOV is overseen by the Corporate HSE Department and involves the commitment of each and every employee within the NOV organization. The “Guiding Principles” are critical to our HSE MS, and they provide our business groups with tools to achieve world-class success in all matters related to health, safety, and the environment. The HSE MS at NOV is continuously monitored by the Corporate HSE Department to ensure maximum benefits are being realized and to make certain that no opportunity for improvement is lost.</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "245f7a9d-91bc-4ef2-8ab1-5c4aba9387fd"
+    - ID: "9ce372ba-72d4-44e1-84d1-e5dc70965cc3"
+      Hint: image
+      Value: |
+        <image mediaid="{5C0648E7-955F-4A39-AB59-D61FE9E7A9BD}" cropregion="311,0,1390,1079" ratio="385:385" width="385" height="385" alt="" hspace="" vspace="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190308T220604Z

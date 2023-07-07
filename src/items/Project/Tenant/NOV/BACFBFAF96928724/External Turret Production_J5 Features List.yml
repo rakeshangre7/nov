@@ -1,0 +1,79 @@
+﻿---
+ID: "fdb2f491-8aca-4bb2-a7fd-bdaa9fb02d18"
+Parent: "7662f81d-d82d-4d54-bb65-880294b64b75"
+Template: "c0aa2bad-85b9-47e4-a236-901c3115fb87"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/CAPS/Floating Production Systems/External Turret Production/External Turret Production_J5 Features List
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190401T124722Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticjandersen
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\verticjandersen
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "572d935e-42e9-4c49-9085-68ad5ded191f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: "<p>The External Turret Production (ETP) is mounted at the extreme end of an outrigger structure attached to the bow of the floating production, storage, and offloading (FPSO) vessel, with the turret, swivel, and main part of the transfer system above the main deck level. The turret is supported in a ring-shaped turret support structure that is mounted on the vessel&rsquo;s bow by a cantilever structure. The external turret including parts of the outrigger can be installed as one integrated structure on the vessel bow, minimising the scope of work for the integration of the turret into the vessel. This integration can be executed while the vessel is afloat. The cantilever outrigger structure is integrated above the main deck of the vessel. Depending on the departure angle of the mooring lines and the outrigger structure size, part of the bulbous bow might need to be removed to avoid clashes between the vessel and the mooring lines.</p>"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190416T151235Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190416T151548Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticjandersen
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4f78f84c-a4f3-435e-b12f-966af5db9e80"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: "<p>The External Turret Production (ETP) is mounted at the extreme end of an outrigger structure and attached to the bow of the floating production, storage, and offloading (FPSO) vessel, with the turret, swivel, and main part of the transfer system above the main deck level. The turret is supported in a ring-shaped turret support structure that is mounted on the vessel&rsquo;s bow by a cantilever structure. The external turret including parts of the outrigger can be installed as one integrated structure on the vessel bow, minimizing the scope of work for the integration of the turret into the vessel. This integration can be executed while the vessel is afloat. The cantilever outrigger structure is integrated above the main deck of the vessel. Depending on the departure angle of the mooring lines and the outrigger structure size, part of the bulbous bow might need to be removed to avoid clashes between the vessel and the mooring lines.</p>"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190416T151548Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190416T152157Z

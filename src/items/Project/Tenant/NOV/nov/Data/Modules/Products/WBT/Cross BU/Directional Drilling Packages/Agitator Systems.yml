@@ -1,0 +1,155 @@
+﻿---
+ID: "0bca024e-ad64-49b2-8453-79014810bc92"
+Parent: "0e54f6be-50f6-441b-8a8a-d90ab6ec360c"
+Template: "fef13e36-84bd-4734-b569-e51d7f7e2a36"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/WBT/Cross BU/Directional Drilling Packages/Agitator Systems
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200117T171213Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "4593422d-98d7-497e-b649-a5ade9061f97"
+      Hint: heading
+      Value: Agitator Systems
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "70e126a1-8914-4930-8325-b0090275e26e"
+      Hint: body
+      Value: |
+        <p>The Agitator System is 100% compatible with all drive-type systems, including motors and RSS, as well as all MWD/LWD systems. The Agitator system is the most efficient technology to reduce downhole vibration, deliver consistent differential to the bit, and increase drilling performance. Directional drillers and rig personnel continuously report the Agitator&rsquo;s friction breaking energy improves weight transfer and directional control with both motor BHAs as well as RSS BHAs.&nbsp;</p>
+        <p>&nbsp;&nbsp;</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e37512b5-2688-4b38-b6a7-51d76186ab46"
+    - ID: "9ce372ba-72d4-44e1-84d1-e5dc70965cc3"
+      Hint: image
+      Value: |
+        <image mediaid="{A778A490-0A70-4349-9965-9D769CB263B8}" cropregion="0,0,1424,1424" ratio="385:385" width="385" height="385" alt="" hspace="" vspace="" />
+    - ID: "a14f8111-ad71-4562-b9b8-61e4996d3750"
+      Hint: cta
+      Value: |
+        <link linktype="internal" querystring="" target="" id="{1C082304-70C9-4E63-9E01-FA3A0D2DF7C9}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200117T171413Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200117T173542Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "4593422d-98d7-497e-b649-a5ade9061f97"
+      Hint: heading
+      Value: Agitator Systems
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "70e126a1-8914-4930-8325-b0090275e26e"
+      Hint: body
+      Value: |
+        <p>The Agitator System is 100% compatible with all drive-type systems, including motors and RSS, as well as all MWD/LWD systems. The Agitator system is the most efficient technology to reduce downhole vibration, deliver consistent differential to the bit, and increase drilling performance. Directional drillers and rig personnel continuously report the Agitator’s friction breaking energy improves weight transfer and directional control with both motor BHAs as well as RSS BHAs.&nbsp;</p>
+        <p>&nbsp;&nbsp;</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a10c4687-3a84-413c-94c6-6bb333b1e8e2"
+    - ID: "9ce372ba-72d4-44e1-84d1-e5dc70965cc3"
+      Hint: image
+      Value: |
+        <image mediaid="{A778A490-0A70-4349-9965-9D769CB263B8}" cropregion="0,0,1424,1424" ratio="385:385" width="385" height="385" alt="" hspace="" vspace="" />
+    - ID: "a14f8111-ad71-4562-b9b8-61e4996d3750"
+      Hint: cta
+      Value: |
+        <link linktype="internal" querystring="" target="" id="{1C082304-70C9-4E63-9E01-FA3A0D2DF7C9}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200117T173542Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200117T184114Z
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200121T164212Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "4593422d-98d7-497e-b649-a5ade9061f97"
+      Hint: heading
+      Value: Agitator Systems
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "70e126a1-8914-4930-8325-b0090275e26e"
+      Hint: body
+      Value: |
+        <p>The <a href="~/link.aspx?_id=610C098D187548C0A6CC5CF5D527F67C&amp;_z=z">Agitator&trade; System</a>&nbsp;is 100% compatible with all drive-type systems, including motors and RSS, as well as all MWD/LWD systems. The Agitator system is the most efficient technology to reduce downhole vibration, deliver consistent differential to the bit, and increase drilling performance. Directional drillers and rig personnel continuously report the Agitator&rsquo;s friction breaking energy improves weight transfer and directional control with both motor BHAs as well as RSS BHAs.</p>
+        <p><a href="~/link.aspx?_id=1C08230470C94E639E01FA3A0D2DF7C9&amp;_z=z">AgitatorHE System<br />
+        </a><a href="~/link.aspx?_id=EC205156EA764E5DADB5F8313B20AA11&amp;_z=z">AgitatorHE On-Demand System<br />
+        </a><a href="~/link.aspx?_id=44004860B230484093E478886015412D&amp;_z=z">AgitatorRS System</a><a href="~/link.aspx?_id=610C098D187548C0A6CC5CF5D527F67C&amp;_z=z"><br />
+        </a></p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "277e6f07-98fc-47d3-a273-129f41af09f5"
+    - ID: "9ce372ba-72d4-44e1-84d1-e5dc70965cc3"
+      Hint: image
+      Value: |
+        <image mediaid="{A778A490-0A70-4349-9965-9D769CB263B8}" cropregion="0,0,1424,1424" ratio="385:385" width="385" height="385" alt="" hspace="" vspace="" />
+    - ID: "a14f8111-ad71-4562-b9b8-61e4996d3750"
+      Hint: cta
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200121T164212Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200408T171147Z

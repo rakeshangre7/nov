@@ -1,0 +1,38 @@
+﻿---
+ID: "060c19be-8b93-4a87-bb26-db4063ab3e29"
+Parent: "0d856a2f-e817-46ae-91b7-8158b018d99f"
+Template: "0d856a2f-e817-46ae-91b7-8158b018d99f"
+Path: /sitecore/templates/Feature/NOV Shared/Rendering Parameters/Stat Suffix Alignment/__Standard Values
+SharedFields:
+- ID: "3094d236-5985-4c4f-ae6a-e30740885532"
+  Hint: Caching
+  Value: 0|0|0|0|0|0|0|0
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "071398c4-e6ab-4dc6-a360-3fff421677c1"
+      Hint: Alignment
+      Value: right
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180921T182216Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ashwin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ashwin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a65e1ff1-8447-4b09-b4b5-d68b05a909bb"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ashwin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20181220T181242Z

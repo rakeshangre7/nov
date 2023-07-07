@@ -1,0 +1,116 @@
+﻿---
+ID: "8e646520-6448-4337-84cd-eaa6c72e9b0c"
+Parent: "b111968a-fa27-46dd-8ac8-21fb599a33f6"
+Template: "2a8117d9-ebd1-430b-abd4-1d33b1fee79c"
+Path: /sitecore/content/nov/nov/Data/Modules/Miscellaneous/Fleet Care/Fleet Care_E5 Document List
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190725T215529Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joannazhu
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3dd16078-ee3b-4386-9cf7-220e8d2a9406"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20191021T191559Z
+    - ID: "e4424681-e459-4738-a286-2240e08da75e"
+      Hint: assets
+      Value: |
+        {2B6F0147-2698-46EC-9393-AAEF4C68ACA8}
+        {F369E7BE-C595-46E6-923E-A2A399DCC940}
+        {A9B2BE8E-3F7C-4A2B-BB47-B11B26F37E62}
+        {A5DA1E6D-5802-4775-A558-DED3E1D87793}
+        {95F9A2F6-A015-4F90-BB0A-14CB9A14C28C}
+        {C33F97D0-89B1-4E95-AD26-323777C34538}
+        {8E0D00A8-7F37-49AE-AA94-EA018B45B591}
+        {F10F5A81-5FA0-439C-9F58-16E1E53A7A94}
+        {38F3F6B7-82FD-4805-9043-6B46BE563A99}
+        {C474E400-9908-43A0-A12D-1A349F2930CC}
+        {EC37BCA2-F17B-4D1F-8795-405701D507DF}
+        {9CB55C38-9A51-4545-BDBB-E6DAEDFB26AF}
+        {F85A08BF-0748-44BA-8560-2F08F39FDDA7}
+        {6F08971D-23FD-48BE-8C4F-DE5BCA4977FC}
+        {78A6D01E-FD68-460F-8295-70A506C1F0D9}
+        {2CC820B8-475D-4B28-A5AA-AEFA3EAF2CB7}
+        {B3CFFCF8-FA68-4009-8488-B7FAD3919496}
+        {1C7D3A40-7395-42EE-9E0B-F58A29BDC5AB}
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190822T184117Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joannazhu
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c62b54f0-fdc0-4149-af0c-2ab6dba1d482"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\joannazhu
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190822T184117Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20191119T193844Z
+    - ID: "e4424681-e459-4738-a286-2240e08da75e"
+      Hint: assets
+      Value: |
+        {2B6F0147-2698-46EC-9393-AAEF4C68ACA8}
+        {F369E7BE-C595-46E6-923E-A2A399DCC940}
+        {A9B2BE8E-3F7C-4A2B-BB47-B11B26F37E62}
+        {A5DA1E6D-5802-4775-A558-DED3E1D87793}
+        {95F9A2F6-A015-4F90-BB0A-14CB9A14C28C}
+        {C33F97D0-89B1-4E95-AD26-323777C34538}
+        {F10F5A81-5FA0-439C-9F58-16E1E53A7A94}
+        {38F3F6B7-82FD-4805-9043-6B46BE563A99}
+        {C474E400-9908-43A0-A12D-1A349F2930CC}
+        {EC37BCA2-F17B-4D1F-8795-405701D507DF}
+        {9CB55C38-9A51-4545-BDBB-E6DAEDFB26AF}
+        {F85A08BF-0748-44BA-8560-2F08F39FDDA7}
+        {6F08971D-23FD-48BE-8C4F-DE5BCA4977FC}
+        {78A6D01E-FD68-460F-8295-70A506C1F0D9}
+        {BFC8701E-4643-425D-B8C6-B3D2DBE06514}
+        {2CC820B8-475D-4B28-A5AA-AEFA3EAF2CB7}
+        {B3CFFCF8-FA68-4009-8488-B7FAD3919496}
+        {1C7D3A40-7395-42EE-9E0B-F58A29BDC5AB}
+        {70DB27D3-B347-4F94-B0AE-A5373FFA01BE}

@@ -1,0 +1,45 @@
+﻿---
+ID: "3d2c098b-d59c-400c-a73a-9af947489aba"
+Parent: "5d6aa6fc-cbee-4d07-9bd2-27bea4286be4"
+Template: "9671df3c-93fb-42e7-ab2f-3026ff0bcfc3"
+Path: /sitecore/content/nov/nov/Data/Modules/About/Events/Adipec/ADIPEC H2 Social Share
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190610T184005Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5cad57f0-87e1-43cc-a775-a66c77891926"
+      Hint: shareIcons
+      Value: |
+        {A80AAC59-AEB3-4A3B-ADBD-3AFF31942000}
+        {12495D45-7C50-417E-8F9C-FF37AFF188FA}
+        {612306ED-B302-412D-AE7B-A61E58917DC0}
+        {88DC154D-FE46-425C-847D-2FE3D9E91E57}
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bdacba75-2417-4ac2-8de8-cdb92f53c994"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\varalakshmi.md@horizontal.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230706T172511Z
+    - ID: "f0ba5eea-3a6b-4a5c-8968-168920c268ab"
+      Hint: page
+      Value: |
+        <link querystring="" id="{6DCF3EBB-A834-4147-A125-1F67EA1199E7}" target="" linktype="internal" url="/NOV Com/Home/About/Events/ADIPEC" />

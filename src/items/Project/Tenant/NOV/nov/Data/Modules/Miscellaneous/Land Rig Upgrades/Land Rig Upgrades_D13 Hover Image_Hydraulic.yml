@@ -1,0 +1,86 @@
+﻿---
+ID: "d4725c78-263b-4fa7-aaaf-306ec3047fa8"
+Parent: "e1d6ed4c-0499-4b27-ab5c-05c6c5f309b1"
+Template: "a42be250-5aa9-4984-a08b-0a88e538acc0"
+Path: /sitecore/content/nov/nov/Data/Modules/Miscellaneous/Land Rig Upgrades/Land Rig Upgrades_D13 Hover Image_Hydraulic
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "042aa8d7-4dff-44d2-b316-177ccc7fe3e7"
+      Hint: body3
+      Value: Increase solid controls capabilities by adding a 3rd shaker
+    - ID: "1d75ac17-3b90-4147-be3b-68f7c844017f"
+      Hint: headline3
+      Value: Add a 3rd Shale Shaker
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190807T143251Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "3f427f31-5ae2-4eb7-b01a-a9eb09e3fe47"
+      Hint: cta2
+      Value: |
+        <link linktype="internal" querystring="" target="" id="{807BB69F-7F75-4C66-8BBB-C80A3B7F8A83}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joannazhu
+    - ID: "6448a25f-1cf7-4c4a-9b99-f0a7b205764d"
+      Hint: headline2
+      Value: VFD Upgrades and 4th Genset
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8cb7baa7-9db7-4a24-9952-f7be7f0db368"
+    - ID: "97b737d5-e611-423a-ae3f-e98eb69fd090"
+      Hint: image1
+      Value: |
+        <image mediaid="{AE100230-CF5A-483D-8670-D539E91BEDA7}" cropregion="540,0,1378,1280" ratio="393:600" width="393" height="600" />
+    - ID: "9c6e71f7-4cf3-4ef6-ab11-dc1f89a31a29"
+      Hint: headline1
+      Value: 7500 PSI conversion & 3rd Mud Pumps
+    - ID: "b955311a-73da-4c61-adda-1b6e24665d63"
+      Hint: cta1
+      Value: |
+        <link linktype="internal" querystring="" target="" id="{FD4ADD5D-D46F-48A4-BD76-E3B21F57FD1D}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\varalakshmi.md@horizontal.com
+    - ID: "ce25f5fe-d974-4b7a-a13d-b1e135ea53ad"
+      Hint: image2
+      Value: |
+        <image mediaid="{09D7EE9A-1453-4A2A-82B6-264AA2481517}" cropregion="883,0,1815,1424" ratio="393:600" width="393" height="600" alt="" hspace="" vspace="" />
+    - ID: "d3d4c3a9-9927-4a25-abfa-c7a3e9dc65db"
+      Hint: image3
+      Value: |
+        <image mediaid="{A2E074B6-173D-430C-AE77-77AA0772F378}" cropregion="1171,0,1878,1079" ratio="393:600" width="393" height="600" alt="" hspace="" vspace="" />
+    - ID: "d4f2e5cb-0c8c-4e04-a7a7-875b529e21c3"
+      Hint: body1
+      Value: Increase uptime and streamline maintenance schedules by adding a 3rd mud pump
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230706T172712Z
+    - ID: "e6f374a5-5af2-4c17-ad70-1c7514edc276"
+      Hint: cta3
+      Value: |
+        <link querystring="" id="{2AAB3D3C-93B5-42EC-9322-0DBB19759EB1}" target="" linktype="internal" url="/NOV Com/Home/Products and Services/Brands/BRANDT" />
+    - ID: "f07d95f3-950f-48a4-af60-589eeaac2e95"
+      Hint: body2
+      Value: Increase power capabilities by adding a 4th genset and enhancing your VFD house

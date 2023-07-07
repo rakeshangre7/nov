@@ -1,0 +1,51 @@
+﻿---
+ID: "ccecffdd-4133-4e39-9e4b-a75f4014e8e7"
+Parent: "d353613a-9758-4b46-a1ce-c39d0d18152c"
+Template: "f1dd3a92-11da-48fd-8c6b-a1a776e58435"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/WBT/Downhole/Griffith Double Acting Hydraulic Mechanical Drilling Jar/Griffith Double Acting Hydraulic Mechanical Drilling Jar E4 Content List 3x1
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190524T174112Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a36559fe-9738-400f-b23d-910aa97e9150"
+    - ID: "8f3607eb-80dd-47ab-9f36-66ce787a5d33"
+      Hint: pages
+      Value: |
+        {2AE72B2A-5F11-461E-8825-0D3A412045AD}
+        {67F37664-B17E-47C7-B740-DC198BC3960F}
+        {70DE5470-EBD5-4AD6-9011-B8F0F22E6CCD}
+        {B0056C07-EFBA-45BF-A285-DA31AFBCFFFE}
+    - ID: "ab8effd2-f3ac-49d1-8ea2-439030832c4c"
+      Hint: Headline
+      Value: Related Products
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190524T174340Z

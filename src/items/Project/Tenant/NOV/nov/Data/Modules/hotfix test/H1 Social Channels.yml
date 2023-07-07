@@ -1,0 +1,61 @@
+﻿---
+ID: "708ccbdb-02d1-480e-b702-6581435a8fdf"
+Parent: "25532cc4-b291-4ac5-b7e9-2f081dfb5291"
+Template: "27f6aa64-10a7-4215-a6f4-516e5ffecf33"
+Path: /sitecore/content/nov/nov/Data/Modules/hotfix test/H1 Social Channels
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 4800
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1fff9011-1283-4841-803d-00fb80f874ad"
+      Hint: socialIcons
+      Value: |
+        {D1DC540C-6C9B-416A-A920-A9399800947E}
+        {70258B4A-7252-41D0-8216-D28BBFEC216A}
+        {174C7596-72CB-4FD1-9571-61E1AED59C6F}
+        {E12896DA-600E-44D7-B72B-952C0D8C1EE5}
+        {B981C0B3-BB80-4031-9C4E-E9E2D7923699}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181214T115425Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{37CE6828-491E-4AF1-A858-254564BEE5B8}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mathias
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mathias
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ed69c7c7-ea90-4adb-9377-51dd42417616"
+    - ID: "8d3d7ad2-67ac-4bcd-8a61-06b494740e85"
+      Hint: copy
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, aene an euismod bibendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo.</p>
+    - ID: "8fa80c09-c998-475a-a4f6-2a131a48f48f"
+      Hint: backgroundColor
+      Value: grey
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "c64aff67-f2cc-4387-b6d7-fbcda5fb7645"
+      Hint: headline
+      Value: Social Media Channels
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20181214T115425Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190214T182229Z

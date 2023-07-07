@@ -1,0 +1,54 @@
+﻿---
+ID: "2b8fd07f-ad1a-4645-82c3-1802eb86ba50"
+Parent: "dd3fa788-d00d-4b81-8146-4bb68bfd9f6f"
+Template: "d1074c40-2825-4904-b6f4-c2043506ca7a"
+Path: /sitecore/content/nov/nov/Data/Modules/About/NOV Today Podcast/Episode 13 In Plain Sight/D32 Content Block Testimonial
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1d492e00-d85b-4e82-b886-b2a132868f60"
+      Hint: testimonial
+      Value: Once you're working with great people, sometimes the field or job you do is nothing compared to the relationships you're building.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190610T205702Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "6e55701e-3592-4485-b207-06bbc930cd56"
+      Hint: image
+      Value: |
+        <image mediaid="{0A48F1B3-1BC8-432C-AF5B-4F5AA38E376D}" cropregion="568,0,1647,1079" ratio="385:385" width="385" height="385" alt="" hspace="" vspace="" />
+    - ID: "72554dfc-f78b-4bf8-9683-9e194f27fd6d"
+      Hint: fullName
+      Value: Broddrick Stringfellow
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "95ec36e1-6e0b-449a-9ce6-03a52470de20"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190610T211033Z
+    - ID: "f08a3d3d-a321-46bd-9d13-f38031fdf21f"
+      Hint: jobTitle
+      Value: Supervisor II, DP

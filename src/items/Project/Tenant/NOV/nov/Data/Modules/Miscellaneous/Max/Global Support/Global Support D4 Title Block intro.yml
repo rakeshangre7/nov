@@ -1,0 +1,85 @@
+﻿---
+ID: "33f68469-98cc-4fdf-b6e3-a465567e9a83"
+Parent: "1c32bc59-0f2e-4c08-8716-1535b1190a37"
+Template: "12aa643a-e325-4871-8d72-6a40947f538e"
+Path: /sitecore/content/nov/nov/Data/Modules/Miscellaneous/Max/Global Support/Global Support D4 Title Block intro
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1448f026-9a23-474a-8df4-af591b152850"
+      Hint: title
+      Value: 24/7 Global Support Infrastructure
+    - ID: "20cce792-a928-4cc0-890c-335dbb42ad4f"
+      Hint: body
+      Value: "<p><span>Our leading-edge Max digital ecosystem is backed by a 24/7 global field support organization and Network Operating Center supported by M/D Totco&trade;. Our field service technicians undergo a rigorous training program that, upon completion ensures they are ready to install, maintain and troubleshoot any of our digital products. Today, we have more than 30 global service centers to ensure we are available to support you from every major basin to even the most remote locations. </span></p>"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200113T183718Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "929f2a87-7fa0-4914-a757-48b46cd7df49"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\laurenflynn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20201112T195200Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1448f026-9a23-474a-8df4-af591b152850"
+      Hint: title
+      Value: 24/7 Global Support Infrastructure
+    - ID: "20cce792-a928-4cc0-890c-335dbb42ad4f"
+      Hint: body
+      Value: "<p><span>Our leading-edge Max digital ecosystem is backed by a 24/7 global field support organization and Network Operating Center supported by M/D Totco&trade;. Our field service technicians undergo a rigorous training program that, upon completion ensures they are ready to install, maintain and troubleshoot any of our digital products. Today, we have more than 30 global service centers to ensure we are available to support you from every major basin to even the most remote locations. </span></p>"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201112T195215Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{37CE6828-491E-4AF1-A858-254564BEE5B8}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\laurenflynn
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "35f5800c-84a8-43e4-a0ec-00f183c524e3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\laurenflynn
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20201112T195215Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20201112T195235Z

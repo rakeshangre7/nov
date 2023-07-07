@@ -1,0 +1,131 @@
+﻿---
+ID: "87aec22d-d408-415f-b757-8931c3236a24"
+Parent: "c6d16fca-3a9c-40d3-abd8-819323f36606"
+Template: "5030864f-eb96-4da7-a417-e5a0108c59f8"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/WBT/Downhole/Coiled Tubing Motor Test Stand Model 8118/8118 J6 Product Table
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190410T223717Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\shelbydumaine
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\shelbydumaine
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table width="100%">
+        <tbody>
+        <tr>
+        <td>
+        <p>Tool OD range</p>
+        </td>
+        <td>
+        <p>1<sup>11</sup>&frasl;<sub>16</sub> to 3<sup>1</sup>/<sub>2</sub> in.</p>
+        </td>
+        </tr>
+        <tr>
+        <td>
+        <p>Torque capacity</p>
+        </td>
+        <td>
+        <p>0 to 2,500 ft-lb</p>
+        </td>
+        </tr>
+        <tr>
+        <td>
+        <p>Fuild capacity (at max. flow)</p>
+        </td>
+        <td>
+        <p>124 gpm at 2,500 psi</p>
+        </td>
+        </tr>
+        <tr>
+        <td>
+        <p>Fuild capacity (at max. pressure)</p>
+        </td>
+        <td>
+        <p>100 gpm at 3,000 psi</p>
+        </td>
+        </tr>
+        <tr>
+        <td>
+        <p>Electrical</p>
+        </td>
+        <td>
+        <p>200 gp, 460 V, 3-PH, 245 Amp</p>
+        </td>
+        </tr>
+        <tr>
+        <td>
+        <p>Tank capacity</p>
+        </td>
+        <td>
+        <p>550 gallons</p>
+        </td>
+        </tr>
+        <tr>
+        <td>
+        <p>Frame dims</p>
+        </td>
+        <td>
+        <p>180 &times; 30 &times; 48 in.</p>
+        </td>
+        </tr>
+        <tr>
+        <td>
+        <p>HPU dims</p>
+        </td>
+        <td>
+        <p>84" &times; 48 &times; 36 in.</p>
+        </td>
+        </tr>
+        <tr>
+        <td>
+        <p>Console dims</p>
+        </td>
+        <td>
+        <p>21 &times; 18 &times; 48 in.</p>
+        </td>
+        </tr>
+        <tr>
+        <td>
+        <p>Tank dims</p>
+        </td>
+        <td>
+        <p>48 &times; 48 &times; 77 in.</p>
+        </td>
+        </tr>
+        </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f6bbb521-725d-4be4-85d6-e1ec04f8ccaa"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: Coiled Tubing Motor Test Stand Model 8118 Specifications
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\shelbydumaine
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190410T224946Z

@@ -1,0 +1,137 @@
+﻿---
+ID: "9e152ad1-5220-4254-a99b-5a80163f0de4"
+Parent: "16aed58a-79ca-4ca3-b814-0dc7aa44f92c"
+Template: "2a8117d9-ebd1-430b-abd4-1d33b1fee79c"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/WBT/WellSite Services/HS 1960 Centrifuge/HS 1960 Centrifuge E5 Document List
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190318T172217Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\charisgamroth
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0d18c9af-f67d-4b56-b972-8e6deb4b5e89"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190318T172902Z
+    - ID: "e4424681-e459-4738-a286-2240e08da75e"
+      Hint: assets
+      Value: |
+        {0BA21B38-9776-4BFC-B87A-75D03C1549A8}
+        {E3731ACE-9504-4FC6-B252-9C13B231F389}
+        {F583D1B1-1228-4D3F-964B-349D398FB3C4}
+        {BE192CDE-BB90-47CB-A8A3-403791AE277D}
+        {6E087E3F-A975-4D17-9408-2369D9947C4D}
+        {0AD1C13B-B3C1-4AE7-873F-E31A5232C0AE}
+        {37A3FAE4-B69C-412C-AEB7-B4EA00E093AC}
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201001T150533Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\charisgamroth
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\laurenflynn
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "52085591-5cc3-4055-badf-847291739660"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\laurenflynn
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20201001T150533Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20201001T150624Z
+    - ID: "e4424681-e459-4738-a286-2240e08da75e"
+      Hint: assets
+      Value: |
+        {04B9346D-9513-4FA9-9997-576174210E75}
+        {0BA21B38-9776-4BFC-B87A-75D03C1549A8}
+        {E3731ACE-9504-4FC6-B252-9C13B231F389}
+        {F583D1B1-1228-4D3F-964B-349D398FB3C4}
+        {BE192CDE-BB90-47CB-A8A3-403791AE277D}
+        {6E087E3F-A975-4D17-9408-2369D9947C4D}
+        {0AD1C13B-B3C1-4AE7-873F-E31A5232C0AE}
+        {37A3FAE4-B69C-412C-AEB7-B4EA00E093AC}
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201001T150659Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\charisgamroth
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\laurenflynn
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "448c21a9-4d99-4f25-9ff4-87d5f95abdea"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\laurenflynn
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20201001T150659Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20201001T150719Z
+    - ID: "e4424681-e459-4738-a286-2240e08da75e"
+      Hint: assets
+      Value: |
+        {04B9346D-9513-4FA9-9997-576174210E75}
+        {0BA21B38-9776-4BFC-B87A-75D03C1549A8}
+        {E3731ACE-9504-4FC6-B252-9C13B231F389}
+        {F583D1B1-1228-4D3F-964B-349D398FB3C4}
+        {BE192CDE-BB90-47CB-A8A3-403791AE277D}
+        {6E087E3F-A975-4D17-9408-2369D9947C4D}
+        {0AD1C13B-B3C1-4AE7-873F-E31A5232C0AE}
+        {37A3FAE4-B69C-412C-AEB7-B4EA00E093AC}

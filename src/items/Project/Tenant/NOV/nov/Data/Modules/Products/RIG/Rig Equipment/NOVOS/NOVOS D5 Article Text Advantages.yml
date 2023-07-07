@@ -1,0 +1,56 @@
+﻿---
+ID: "e573c5d2-bf1a-4201-bb35-ae216eb77ddf"
+Parent: "ddbf48b5-4116-4a46-9d9a-c6b85e14f0dc"
+Template: "07c63710-4422-42b9-adb7-67b4bad63607"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/RIG/Rig Equipment/NOVOS/NOVOS D5 Article Text Advantages
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "0f10eefb-f9da-4b41-83a0-87900c4e25ed"
+      Hint: body
+      Value: |
+        <h2>NOVOS Advantages</h2>
+        <p>NOVOS provides control and consistency for any operation. It allows drillers to automate repetitive drilling activities, such as making a connection (offshore), coming off and on bottom, with specific parameters for circulation, weight-on-bit and more. The result is greater consistency, with every driller – regardless of individual experience level – able to achieve the same improved performance time and time again.</p>
+        <h3>Precise Control</h3>
+        <p>Set the exact parameters to meet the needs of your drilling program, from circulation to weight-on-bit and everything in between, and the NOVOS system performs at the push of a button.</p>
+        <h3>Unmatched Consistency</h3>
+        <p>Regardless of who’s at the controls, the NOVOS system offers the same performance, again and again, eliminating NPT and protecting your equipment.</p>
+        <h3>Increased Performance</h3>
+        <p>With more consistency comes greater performance. Because the reflexive system automates repetitive tasks, you’ll achieve better average performance throughout the entire drilling lifecycle, regardless of the experience level of the driller.</p>
+        <h3>Infinite Customization</h3>
+        <p>With additional off-the-shelf apps that can be tailored to your needs or completely custom designs, the NOVOS system can be updated to meet specific needs with just a bit of software.</p>
+        <h3>Minimal Interruption</h3>
+        <p>The whole system can be installed in 12 hours and requires limited additional hardware.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T174408Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{8B87E652-E3F7-4C54-BDD9-66E1B888FF8B}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "eef265e0-e523-40f3-8c4a-8437e4dfb484"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20191022T204204Z

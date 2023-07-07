@@ -1,0 +1,1053 @@
+﻿---
+ID: "a93d596c-90f9-457c-a7bc-19ac31b2f8c6"
+Parent: "f51079d9-45c1-44bd-ad33-f52475acef84"
+Template: "5030864f-eb96-4da7-a417-e5a0108c59f8"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/CAPS/Intervention and Stimulation Equipment/Acid Transport Trailer/J6 Product Table
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190308T162235Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticgappau
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\verticgappau
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table width="571">
+            <tbody>
+                <tr>
+                    <td>
+                    <p>&nbsp;</p>
+                    </td>
+                    <td>
+                    <p><strong>FRP</strong></p>
+                    </td>
+                    <td>
+                    <p><strong>5,000-gallon</strong></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p><strong>Tank(s)</strong></p>
+                    </td>
+                    <td>
+                    <p>Meets ASME Sec VIII, Div 1</p>
+                    </td>
+                    <td>
+                    <p>Meets ASME Sec VIII, Div 1</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p><strong>Shell and heads</strong></p>
+                    </td>
+                    <td>
+                    <p>Material ⅝-in. FRP</p>
+                    </td>
+                    <td>
+                    <p>&nbsp;</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p><strong>Manways</strong></p>
+                    </td>
+                    <td>
+                    <p>Hawk FRP or Wilco</p>
+                    </td>
+                    <td>
+                    <p>Clay and Bailey</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p><strong>Vents</strong></p>
+                    </td>
+                    <td>
+                    <p>DOT-approved vents for each compartment</p>
+                    </td>
+                    <td>
+                    <p>DOT-approved vents for each compartment</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p><strong>Recirculation manifold</strong></p>
+                    </td>
+                    <td>
+                    <p>3-in. remote control butterfly valves</p>
+                    </td>
+                    <td>
+                    <p>3-in. penetrations in tank for addition of recirculation manifold</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p><strong>Discharge manifold</strong></p>
+                    </td>
+                    <td>
+                    <p>4 in., with acid-resistant hose</p>
+                    </td>
+                    <td>
+                    <p>4-in. nominal UHMW PE tubing with 4-in. nominal UHMW PE tees</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p><strong>Discharge valves from unit manifold</strong></p>
+                    </td>
+                    <td>
+                    <p>4-in. manual valves</p>
+                    </td>
+                    <td>
+                    <p>4-in. manual valves</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p><strong>Discharge valves from individual tank compartments</strong></p>
+                    </td>
+                    <td>
+                    <p>4-in. air actuated butterfly valves at exit for each compartment</p>
+                    </td>
+                    <td>
+                    <p>4-in. air actuated butterfly valves at exit for each compartment</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p><strong>Discharge and recirculation manifold</strong></p>
+                    </td>
+                    <td>
+                    <p>All steel components are lined.</p>
+                    </td>
+                    <td>
+                    <p>All components are UHMW PE</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p><strong>Discharge and recirculation manifold ends</strong></p>
+                    </td>
+                    <td>
+                    <p>4-in. male unions per customer spec</p>
+                    </td>
+                    <td>
+                    <p>4-in. female unions</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p><strong>Recirculation line along top</strong></p>
+                    </td>
+                    <td>
+                    <p>3 in.</p>
+                    </td>
+                    <td>
+                    <p>&nbsp;</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p><strong>Catch basin</strong></p>
+                    </td>
+                    <td>
+                    <p>Located at rear of unit. Used to collect any fluids from hose rack and pipe ends. 5-gallon capacity.</p>
+                    </td>
+                    <td>
+                    <p>Located at rear of unit. Used to collect any fluids from hose rack and pipe ends. 5-gallon capacity.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p><strong>DOT overturn protection</strong></p>
+                    </td>
+                    <td>
+                    <p>Tombstones</p>
+                    </td>
+                    <td>
+                    <p>Tombstones</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p><strong>Trailer</strong></p>
+                    </td>
+                    <td>
+                    <p>DOT 412MS</p>
+                    </td>
+                    <td>
+                    <p>DOT 412MS</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p><strong>Ladder</strong></p>
+                    </td>
+                    <td>
+                    <p>Located on roadside</p>
+                    </td>
+                    <td>
+                    <p>Located on roadside</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p><strong>Walkway</strong></p>
+                    </td>
+                    <td>
+                    <p>Walkway with fiberglass grating, handrails, and OSHA-approved safety gate</p>
+                    </td>
+                    <td>
+                    <p>On roadside with fiberglass grating, handrails, and OSHA-approved safety gate</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p><strong>Hose tray</strong></p>
+                    </td>
+                    <td>
+                    <p>28-ft fiberglass hose tray with grating and drain</p>
+                    </td>
+                    <td>
+                    <p>28-ft fiberglass hose tray with grating and drain</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p><strong>Paint</strong></p>
+                    </td>
+                    <td>
+                    <p>Epoxy primer coat and polyurethane top coat (customer choice of colors)</p>
+                    </td>
+                    <td>
+                    <p>Shot blasted with epoxy primer coat and polyurethane top coat (customer choice of colors)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p><strong>Placards</strong></p>
+                    </td>
+                    <td>
+                    <p>DOT placards as required</p>
+                    </td>
+                    <td>
+                    <p>DOT placards as required</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p><strong>Controls</strong></p>
+                    </td>
+                    <td>
+                    <p>Air controls for discharge and recirculation lines, including emergency kill switch located on front driver&rsquo;s side on trailer</p>
+                    </td>
+                    <td>
+                    <p>Air controls for discharge, including emergency kill switch located on both sides of trailer</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p><strong>Volume</strong></p>
+                    </td>
+                    <td>
+                    <p>5,000 gallons available in two, three, or four compartments</p>
+                    </td>
+                    <td>
+                    <p>5,000 gallons, two compartment shells<br />
+                    F&amp;D heads: Material &frac14;-in. SA-36</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p><strong>Width</strong></p>
+                    </td>
+                    <td>
+                    <p>96 in.</p>
+                    </td>
+                    <td>
+                    <p>98 in.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p><strong>Overall length</strong></p>
+                    </td>
+                    <td>
+                    <p>&nbsp;</p>
+                    </td>
+                    <td>
+                    <p>37.5 ft</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p><strong>Length, kingpin to rear bumper</strong></p>
+                    </td>
+                    <td>
+                    <p>40 ft 2 in.</p>
+                    </td>
+                    <td>
+                    <p>34 ft 5 in.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p><strong>Suspension</strong></p>
+                    </td>
+                    <td>
+                    <p>Two axles, 25-kip Neway Air Ride with ABS</p>
+                    </td>
+                    <td>
+                    <p>Two axles, 25-kip Hutch leaf spring with ABS or Air Ride suspension with ABS</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p><strong>Tires</strong></p>
+                    </td>
+                    <td>
+                    <p>Eight 11R 22.5 radial tires on unimount wheels</p>
+                    </td>
+                    <td>
+                    <p>Four 445/50R22.5 Michelin super single tires with 22.5&times;14.0 steel wheels</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p><strong>Landing gear</strong></p>
+                    </td>
+                    <td>
+                    <p>Holland trailer landing gear with self-leveling foot</p>
+                    </td>
+                    <td>
+                    <p>Holland trailer landing gear with self-leveling foot</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p><strong>Kingpin</strong></p>
+                    </td>
+                    <td>
+                    <p>2- or 3-in. welded or bolted kingpin assembly</p>
+                    </td>
+                    <td>
+                    <p>2-in. welded kingpin assembly</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p><strong>Fenders</strong></p>
+                    </td>
+                    <td>
+                    <p>⅛-in. steel or FRP available</p>
+                    </td>
+                    <td>
+                    <p>14-gauge steel</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2b794d8b-c65e-4439-bf5e-11c9d7a92a2e"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: Acid Transport Trailers Specifications
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\verticgappau
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190318T211801Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190327T133223Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticgappau
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table width="571">
+            <tbody>
+                <tr>
+                    <td>
+                    <p>&nbsp;</p>
+                    </td>
+                    <td>
+                    <p><strong>FRP</strong></p>
+                    </td>
+                    <td>
+                    <p><strong>5,000-gallon</strong></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p><strong>Tank(s)</strong></p>
+                    </td>
+                    <td>
+                    <p>Meets ASME Sec VIII, Div 1</p>
+                    </td>
+                    <td>
+                    <p>Meets ASME Sec VIII, Div 1</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p><strong>Shell and heads</strong></p>
+                    </td>
+                    <td>
+                    <p>Material ⅝-in. FRP</p>
+                    </td>
+                    <td>
+                    <p>&nbsp;</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p><strong>Manways</strong></p>
+                    </td>
+                    <td>
+                    <p>Hawk FRP or Wilco</p>
+                    </td>
+                    <td>
+                    <p>Clay and Bailey</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p><strong>Vents</strong></p>
+                    </td>
+                    <td>
+                    <p>DOT-approved vents for each compartment</p>
+                    </td>
+                    <td>
+                    <p>DOT-approved vents for each compartment</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p><strong>Recirculation manifold</strong></p>
+                    </td>
+                    <td>
+                    <p>3-in. remote control butterfly valves</p>
+                    </td>
+                    <td>
+                    <p>3-in. penetrations in tank for addition of recirculation manifold</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p><strong>Discharge manifold</strong></p>
+                    </td>
+                    <td>
+                    <p>4 in., with acid-resistant hose</p>
+                    </td>
+                    <td>
+                    <p>4-in. nominal UHMW PE tubing with 4-in. nominal UHMW PE tees</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p><strong>Discharge valves from unit manifold</strong></p>
+                    </td>
+                    <td>
+                    <p>4-in. manual valves</p>
+                    </td>
+                    <td>
+                    <p>4-in. manual valves</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p><strong>Discharge valves from individual tank compartments</strong></p>
+                    </td>
+                    <td>
+                    <p>4-in. air actuated butterfly valves at exit for each compartment</p>
+                    </td>
+                    <td>
+                    <p>4-in. air actuated butterfly valves at exit for each compartment</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p><strong>Discharge and recirculation manifold</strong></p>
+                    </td>
+                    <td>
+                    <p>All steel components are lined.</p>
+                    </td>
+                    <td>
+                    <p>All components are UHMW PE</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p><strong>Discharge and recirculation manifold ends</strong></p>
+                    </td>
+                    <td>
+                    <p>4-in. male unions per customer spec</p>
+                    </td>
+                    <td>
+                    <p>4-in. female unions</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p><strong>Recirculation line along top</strong></p>
+                    </td>
+                    <td>
+                    <p>3 in.</p>
+                    </td>
+                    <td>
+                    <p>&nbsp;</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p><strong>Catch basin</strong></p>
+                    </td>
+                    <td>
+                    <p>Located at rear of unit. Used to collect any fluids from hose rack and pipe ends. 5-gallon capacity.</p>
+                    </td>
+                    <td>
+                    <p>Located at rear of unit. Used to collect any fluids from hose rack and pipe ends. 5-gallon capacity.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p><strong>DOT overturn protection</strong></p>
+                    </td>
+                    <td>
+                    <p>Tombstones</p>
+                    </td>
+                    <td>
+                    <p>Tombstones</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p><strong>Trailer</strong></p>
+                    </td>
+                    <td>
+                    <p>DOT 412MS</p>
+                    </td>
+                    <td>
+                    <p>DOT 412MS</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p><strong>Ladder</strong></p>
+                    </td>
+                    <td>
+                    <p>Located on roadside</p>
+                    </td>
+                    <td>
+                    <p>Located on roadside</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p><strong>Walkway</strong></p>
+                    </td>
+                    <td>
+                    <p>Walkway with fiberglass grating, handrails, and OSHA-approved safety gate</p>
+                    </td>
+                    <td>
+                    <p>On roadside with fiberglass grating, handrails, and OSHA-approved safety gate</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p><strong>Hose tray</strong></p>
+                    </td>
+                    <td>
+                    <p>28-ft fiberglass hose tray with grating and drain</p>
+                    </td>
+                    <td>
+                    <p>28-ft fiberglass hose tray with grating and drain</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p><strong>Paint</strong></p>
+                    </td>
+                    <td>
+                    <p>Epoxy primer coat and polyurethane top coat (customer choice of colors)</p>
+                    </td>
+                    <td>
+                    <p>Shot blasted with epoxy primer coat and polyurethane top coat (customer choice of colors)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p><strong>Placards</strong></p>
+                    </td>
+                    <td>
+                    <p>DOT placards as required</p>
+                    </td>
+                    <td>
+                    <p>DOT placards as required</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p><strong>Controls</strong></p>
+                    </td>
+                    <td>
+                    <p>Air controls for discharge and recirculation lines, including emergency kill switch located on front driver&rsquo;s side on trailer</p>
+                    </td>
+                    <td>
+                    <p>Air controls for discharge, including emergency kill switch located on both sides of trailer</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p><strong>Volume</strong></p>
+                    </td>
+                    <td>
+                    <p>5,000 gallons available in two, three, or four compartments</p>
+                    </td>
+                    <td>
+                    <p>5,000 gallons, two compartment shells<br />
+                    F&amp;D heads: Material &frac14;-in. SA-36</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p><strong>Width</strong></p>
+                    </td>
+                    <td>
+                    <p>96 in.</p>
+                    </td>
+                    <td>
+                    <p>98 in.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p><strong>Overall length</strong></p>
+                    </td>
+                    <td>
+                    <p>&nbsp;</p>
+                    </td>
+                    <td>
+                    <p>37.5 ft</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p><strong>Length, kingpin to rear bumper</strong></p>
+                    </td>
+                    <td>
+                    <p>40 ft 2 in.</p>
+                    </td>
+                    <td>
+                    <p>34 ft 5 in.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p><strong>Suspension</strong></p>
+                    </td>
+                    <td>
+                    <p>Two axles, 25-kip Neway Air Ride with ABS</p>
+                    </td>
+                    <td>
+                    <p>Two axles, 25-kip Hutch leaf spring with ABS or Air Ride suspension with ABS</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p><strong>Tires</strong></p>
+                    </td>
+                    <td>
+                    <p>Eight 11R 22.5 radial tires on unimount wheels</p>
+                    </td>
+                    <td>
+                    <p>Four 445/50R22.5 Michelin super single tires with 22.5&times;14.0 steel wheels</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p><strong>Landing gear</strong></p>
+                    </td>
+                    <td>
+                    <p>Holland trailer landing gear with self-leveling foot</p>
+                    </td>
+                    <td>
+                    <p>Holland trailer landing gear with self-leveling foot</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p><strong>Kingpin</strong></p>
+                    </td>
+                    <td>
+                    <p>2- or 3-in. welded or bolted kingpin assembly</p>
+                    </td>
+                    <td>
+                    <p>2-in. welded kingpin assembly</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p><strong>Fenders</strong></p>
+                    </td>
+                    <td>
+                    <p>⅛-in. steel or FRP available</p>
+                    </td>
+                    <td>
+                    <p>14-gauge steel</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fc9734a1-8016-4b5d-835b-1eeac88cf1ce"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: We custom engineer our trailers to fit your operational needs and specifications.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190327T133223Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190327T133255Z
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190712T204341Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticgappau
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table style="width: 550px;">
+            <tbody>
+                <tr>
+                    <td style="width: 120px;">
+                    </td>
+                    <td style="width: 215px;">FRP</td>
+                    <td style="width: 215px;">5,000-gallon</td>
+                </tr>
+                <tr>
+                    <td style="width: 120px;">Tank(s)</td>
+                    <td style="width: 215px;">Meets ASME Sec VIII, Div 1</td>
+                    <td style="width: 215px;">Meets ASME Sec VIII, Div 1</td>
+                </tr>
+                <tr>
+                    <td style="width: 120px;">Shell and heads</td>
+                    <td style="width: 215px;">Material ⅝-in. FRP</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td style="width: 120px;">Manways</td>
+                    <td style="width: 215px;">Hawk FRP or Wilco</td>
+                    <td style="width: 215px;">Clay and Bailey</td>
+                </tr>
+                <tr>
+                    <td style="width: 120px;">Vents</td>
+                    <td style="width: 215px;">DOT-approved vents for each compartment</td>
+                    <td style="width: 215px;">DOT-approved vents for each compartment</td>
+                </tr>
+                <tr>
+                    <td style="width: 120px;">Recirculation manifold</td>
+                    <td style="width: 215px;">3-in. remote control butterfly valves</td>
+                    <td style="width: 215px;">3-in. penetrations in tank for addition of recirculation manifold</td>
+                </tr>
+                <tr>
+                    <td style="width: 120px;">Discharge manifold</td>
+                    <td style="width: 215px;">4 in., with acid-resistant hose</td>
+                    <td style="width: 215px;">4-in. nominal UHMW PE tubing with 4-in. nominal UHMW PE tees</td>
+                </tr>
+                <tr>
+                    <td style="width: 120px;">Discharge valves from unit manifold</td>
+                    <td style="width: 215px;">4-in. manual valves</td>
+                    <td style="width: 215px;">4-in. manual valves</td>
+                </tr>
+                <tr>
+                    <td style="width: 120px;">Discharge valves from individual tank compartments</td>
+                    <td style="width: 215px;">4-in. air actuated butterfly valves at exit for each compartment</td>
+                    <td style="width: 215px;">4-in. air actuated butterfly valves at exit for each compartment</td>
+                </tr>
+                <tr>
+                    <td style="width: 120px;">Discharge and recirculation manifold</td>
+                    <td style="width: 215px;">All steel components are lined.</td>
+                    <td style="width: 215px;">All components are UHMW PE</td>
+                </tr>
+                <tr>
+                    <td style="width: 120px;">Discharge and recirculation manifold ends</td>
+                    <td style="width: 215px;">4-in. male unions per customer spec</td>
+                    <td style="width: 215px;">4-in. female unions</td>
+                </tr>
+                <tr>
+                    <td style="width: 120px;">Recirculation line along top</td>
+                    <td style="width: 215px;">3 in.</td>
+                    <td style="width: 215px;"></td>
+                </tr>
+                <tr>
+                    <td style="width: 120px;">Catch basin</td>
+                    <td style="width: 215px;">Located at rear of unit. Used to collect any fluids from hose rack and pipe ends. 5-gallon capacity.</td>
+                    <td style="width: 215px;">Located at rear of unit. Used to collect any fluids from hose rack and pipe ends. 5-gallon capacity.</td>
+                </tr>
+                <tr>
+                    <td style="width: 120px;">DOT overturn protection</td>
+                    <td style="width: 215px;">Tombstones</td>
+                    <td style="width: 215px;">Tombstones</td>
+                </tr>
+                <tr>
+                    <td style="width: 120px;">Trailer</td>
+                    <td style="width: 215px;">DOT 412MS</td>
+                    <td style="width: 215px;">DOT 412MS</td>
+                </tr>
+                <tr>
+                    <td style="width: 120px;">Ladder</td>
+                    <td style="width: 215px;">Located on roadside</td>
+                    <td style="width: 215px;">Located on roadside</td>
+                </tr>
+                <tr>
+                    <td style="width: 120px;">Walkway</td>
+                    <td style="width: 215px;">Walkway with fiberglass grating, handrails, and OSHA-approved safety gate</td>
+                    <td style="width: 215px;">On roadside with fiberglass grating, handrails, and OSHA-approved safety gate</td>
+                </tr>
+                <tr>
+                    <td style="width: 120px;">Hose tray</td>
+                    <td style="width: 215px;">28-ft fiberglass hose tray with grating and drain</td>
+                    <td style="width: 215px;">28-ft fiberglass hose tray with grating and drain</td>
+                </tr>
+                <tr>
+                    <td style="width: 120px;">Paint</td>
+                    <td style="width: 215px;">Epoxy primer coat and polyurethane top coat (customer choice of colors)</td>
+                    <td style="width: 215px;">Shot blasted with epoxy primer coat and polyurethane top coat (customer choice of colors)</td>
+                </tr>
+                <tr>
+                    <td style="width: 120px;">Placards</td>
+                    <td style="width: 215px;">DOT placards as required</td>
+                    <td style="width: 215px;">DOT placards as required</td>
+                </tr>
+                <tr>
+                    <td style="width: 120px;">Controls</td>
+                    <td style="width: 215px;">Air controls for discharge and recirculation lines, including emergency kill switch located on front driver&rsquo;s side on trailer</td>
+                    <td style="width: 215px;">Air controls for discharge, including emergency kill switch located on both sides of trailer</td>
+                </tr>
+                <tr>
+                    <td style="width: 120px;">Volume</td>
+                    <td style="width: 215px;">5,000 gallons available in two, three, or four compartments</td>
+                    <td style="width: 215px;">5,000 gallons, two compartment shells<br />
+                    F&amp;D heads: Material &frac14;-in. SA-36</td>
+                </tr>
+                <tr>
+                    <td style="width: 120px;">Width</td>
+                    <td style="width: 215px;">96 in.</td>
+                    <td style="width: 215px;">98 in.</td>
+                </tr>
+                <tr>
+                    <td style="width: 120px;">Overall length</td>
+                    <td style="width: 215px;"></td>
+                    <td style="width: 215px;">37.5 ft</td>
+                </tr>
+                <tr>
+                    <td style="width: 120px;">Length, kingpin to rear bumper</td>
+                    <td style="width: 215px;">40 ft 2 in.</td>
+                    <td style="width: 215px;">34 ft 5 in.</td>
+                </tr>
+                <tr>
+                    <td style="width: 120px;">Suspension</td>
+                    <td style="width: 215px;">Two axles, 25-kip Neway Air Ride with ABS</td>
+                    <td style="width: 215px;">Two axles, 25-kip Hutch leaf spring with ABS or Air Ride suspension with ABS</td>
+                </tr>
+                <tr>
+                    <td style="width: 120px;">Tires</td>
+                    <td style="width: 215px;">Eight 11R 22.5 radial tires on unimount wheels</td>
+                    <td style="width: 215px;">Four 445/50R22.5 Michelin super single tires with 22.5&times;14.0 steel wheels</td>
+                </tr>
+                <tr>
+                    <td style="width: 120px;">Landing gear</td>
+                    <td style="width: 215px;">Holland trailer landing gear with self-leveling foot</td>
+                    <td style="width: 215px;">Holland trailer landing gear with self-leveling foot</td>
+                </tr>
+                <tr>
+                    <td style="width: 120px;">Kingpin</td>
+                    <td style="width: 215px;">2- or 3-in. welded or bolted kingpin assembly</td>
+                    <td style="width: 215px;">2-in. welded kingpin assembly</td>
+                </tr>
+                <tr>
+                    <td style="width: 120px;">Fenders</td>
+                    <td style="width: 215px;">⅛-in. steel or FRP available</td>
+                    <td style="width: 215px;">14-gauge steel</td>
+                </tr>
+            </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "074bf049-6c11-4579-8473-8ee9898f3e4a"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: Acid Transport Trailer Specifications
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190712T204341Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190712T210011Z
+  - Version: 4
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200623T211329Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticgappau
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaylakaplan
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table style="width: 550px;">
+            <tbody>
+                <tr>
+                    <td style="width: 120px;">
+                    </td>
+                    <td style="width: 215px;">FRP</td>
+                    <td style="width: 215px;">Steel with liner</td>
+                </tr>
+                <tr>
+                    <td style="width: 120px;">Tank(s)</td>
+                    <td style="width: 215px;">Meets ASME Sec VIII, Div 1</td>
+                    <td style="width: 215px;">Meets ASME Sec VIII, Div 1</td>
+                </tr>
+                <tr>
+                    <td style="width: 120px;">Manways</td>
+                    <td style="width: 215px;">Hawk FRP or Wilco</td>
+                    <td style="width: 215px;">Clay and Bailey</td>
+                </tr>
+                <tr>
+                    <td style="width: 120px;">Vents</td>
+                    <td style="width: 215px;">DOT-approved vents for each compartment</td>
+                    <td style="width: 215px;">DOT-approved vents for each compartment</td>
+                </tr>
+                <tr>
+                    <td style="width: 120px;">Recirculation manifold</td>
+                    <td style="width: 215px;">3-in. remote control butterfly valves</td>
+                    <td style="width: 215px;">3-in. penetrations in tank for addition of recirculation manifold</td>
+                </tr>
+                <tr>
+                    <td style="width: 120px;">Discharge manifold</td>
+                    <td style="width: 215px;">4 in., with acid-resistant hose</td>
+                    <td style="width: 215px;">4-in. nominal UHMW PE tubing with 4-in. nominal UHMW PE tees</td>
+                </tr>
+                <tr>
+                    <td style="width: 120px;">Catch basin</td>
+                    <td style="width: 215px;">Located at rear of unit. Used to collect any fluids from hose rack and pipe ends. 5-gallon capacity.</td>
+                    <td style="width: 215px;">Located at rear of unit. Used to collect any fluids from hose rack and pipe ends. 5-gallon capacity.</td>
+                </tr>
+                <tr>
+                    <td style="width: 120px;">DOT overturn protection</td>
+                    <td style="width: 215px;">Tombstones</td>
+                    <td style="width: 215px;">Tombstones</td>
+                </tr>
+                <tr>
+                    <td style="width: 120px;">Trailer</td>
+                    <td style="width: 215px;">DOT 412MS</td>
+                    <td style="width: 215px;">DOT 412MS</td>
+                </tr>
+                <tr>
+                    <td style="width: 120px;">Hose tray</td>
+                    <td style="width: 215px;">28-ft fiberglass hose tray with grating and drain</td>
+                    <td style="width: 215px;">28-ft fiberglass hose tray with grating and drain</td>
+                </tr>
+                <tr>
+                    <td style="width: 120px;">Controls</td>
+                    <td style="width: 215px;">Air controls for discharge and recirculation lines, including emergency kill switch located on front driver&rsquo;s side on trailer</td>
+                    <td style="width: 215px;">Air controls for discharge, including emergency kill switch located on both sides of trailer</td>
+                </tr>
+                <tr>
+                    <td style="width: 120px;">Volume</td>
+                    <td style="width: 215px;">5,000 gallons available in two, three, or four compartments</td>
+                    <td style="width: 215px;">5,000 gallons, two compartment shells<br />
+                    F&amp;D heads: Material &frac14;-in. SA-36</td>
+                </tr>
+            </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "eba40afd-588f-4976-9be4-f941b2022aa5"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: Acid Transport Trailer Specifications
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaylakaplan
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200623T211329Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200623T211549Z

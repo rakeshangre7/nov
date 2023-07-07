@@ -1,0 +1,102 @@
+﻿---
+ID: "aaed1975-3bdc-4854-8730-a7a9c5d9f8ae"
+Parent: "ed230943-f173-4c4b-a53b-112baeb478d3"
+Template: "07c63710-4422-42b9-adb7-67b4bad63607"
+Path: /sitecore/content/nov/nov/Data/Modules/About/NOV Today Podcast/Episode 23 NOVOS Expert Pannel Part 2 of 3/NOVOS expert panel 2 transcript D5 Article Text
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "0f10eefb-f9da-4b41-83a0-87900c4e25ed"
+      Hint: body
+      Value: |
+        <p><b>00:00 Vinesh Rambally: </b>We do a great job in presentations, talking about what NOVOS is, what the drillers are doing, but till you get someone in a chair that actually has controls and the NOVOS system on there, the light bulb clicks.</p>
+        <p>[music]</p>
+        <p><b>00:15 Michael Gaines:</b> Hello, and welcome to NOV Today. I’m your host Michael Gaines. And we are here again talking about NOVOS and we’re following up on our conversation that we had with Craig Johnson last time with a new guest who is going to talk to us a little bit about simulations and how that integrates with NOVOS. So today I have Vinesh Rambally who is the business development manager for applications with NOVOS, so Vinesh thanks for being here.</p>
+        <p><b>00:41 Vinesh Rambally: </b>Oh, glad to be here, thank you for having me.</p>
+        <p><b>00:42 Michael Gaines:</b> Absolutely. So last time, as I said we talked with Craig Johnson, he talked a little bit about NOVOS and some of the installations and kind of dove deep into some of the practical aspects of it. And now, kind of pivoting now, where we’re looking more along the lines of simulations and how that plays a role in NOVOS. And so obviously it’s in your title, so I wanted to talk a little bit about how simulations work in relationship to those that are interacting with NOVOS, how does that play a part?&nbsp;</p>
+        <p><b>01:18 Vinesh Rambally:</b> Gotcha, so simulation plays a big part in the way we talk to customers, the way we work internally. There’s a couple of different type of simulations that we have. We have QA, so Quality Assurance team that they have a setup where they test all their software, everything that goes out to the field before it gets to the field, it goes through our testing group. So we have simulators there to kind of get feedback from down home, make sure things are happening the way they should. So the software is verified before it leaves our office. On top of that, on the customer-facing side, we have a lot of demo simulators, we have a rise chair in the office where we have customers coming in-house looking at what NOVOS is. Right? We do a great job in presentations, talking about what NOVOS is, what the drillers are doing, but till you get someone in a chair that actually has controls and the NOVOS system on there, the light bulb clicks. It’s like, “Oh, this is what we’ve been talking about the whole time. This is what process automation means.” When you guys say the driller’s overwhelmed, these are the steps he’s doing. Alright, so that chair in our office helps that. On top of that, we have a couple of other simulators, depending on the shows we go to, we have a table top, so we can carry that from event to event. Basic concept is the same. Amphion and NOVOS allows customers there or bypassers, they see a video game, they get excited. You get that chance to talk about, “Hey this is what NOVOS is doing, it’s a real thing. This is the actual core software that drillers would interact with in the field.”<br />
+        <br /><b>
+        02:51 Michael Gaines:</b> In a mobile package, I think. Oh wow.<br />
+        <br /><b>
+        02:53 Vinesh Rambally:</b> Yeah, basically it’s great.<br />
+        <br /><b>
+        02:53 Michael Gaines:</b> Sounds like a show in a backpack, kind of thing.<br />
+        <br /><b>
+        02:55 Vinesh Rambally:</b> Well, so... Just talk about show in a backpack, that’s our third simulator...<br />
+        <br /><b>
+        02:58 Michael Gaines:</b> Oh, okay.<br />
+        <br /><b>
+        02:58 Vinesh Rambally: </b>We just came out with that, probably a month ago. I feel like I’ve been traveling the world with this backpack. But it’s our little, extremely versatile carry-on simulator that fits in a backpack.<br />
+        <br /><b>
+        03:11 Michael Gaines:</b> Oh, wow.<br />
+        <br /><b>
+        03:11 Vinesh Rambally:</b> It’s a couple HMI screens or Surface Pros, I should say, a laptop, and joystick. So you walk around the airport with this joystick in your hand, people will start watching a little funny. [laughter] It gets customers involved. We can take it to their office, set it up. We can take it to a conference, and it’s not huge footprint to take a lot of space.<br />
+        <br /><b>
+        03:31 Michael Gaines: </b>Okay. So, I mean when you’re talking to customers, and especially when you’re trying to help them understand NOVOS, can you talk a little bit about the difference, I guess, the difference between like a manual drilling and with NOVOS and how that kind of ties into some of the work that you’re doing.<br />
+        <br /><b>
+        03:51 Vinesh Rambally: </b>Definitely. So that’s one of the challenges we have, right? So when we talk the NOVOS challenge, it’s not a race against the manual drilling, but showing the person that’s typically not on the right floor, that’s not drilling a well, what the drillers are doing, the steps to tag bottom, the steps to turn on tools, engage the formation, drill a stand, come back off bottom, and park those tools. So that’s a lot of button-pushing, a lot of joystick movements that the driller has to do, every time he drills a stand. So, the challenge or the simulation that we have is going through their process, showing them on top of focusing on these buttons that you’ve been focusing on, if you didn’t notice, you haven’t looked up at the screen the entire time—you’re focused on pushing these buttons. So saying, “This is what the driller has to deal with,” these are the type of safety and type of crew safety and what’s happening on the rig. They have to make sure these steps are done right. If there are different formations, making sure set points are changed to match that formation for optimized drilling. Then after they complete that portion, we let them do the same exact thing through NOVOS. Basic concept, they hit initialize, confirm they’ve connected and now they just sit back and watch the process happens. That being said, we’ve had a couple of times where they’re like, “Oh, this is rigged, this is probably just a little game you guys have.” I’m like, “Well, what do you want to do?” You know, “Play with it.” So they’ll start pushing buttons, they’ll start pulling back on the joystick, like “Oh well, it stopped.” Yes that’s the point of... When you’re in NOVOS and something’s happening that you don’t want, you grab that joystick, you can revert back to the base control. So you’re back to doing things your way, if something needs to be reverted. So once they see that, they see the interactive system, how it actually works on the rig, again that light pops like, “Oh, this makes sense for what the driller is doing, for what NOV is doing with process automation.”<br />
+        <br /><b>
+        05:46 Michael Gaines:</b> So it sounds like NOVOS really is a benefit and an enabler for those that are already in the industry to become more efficient and help them in their processes. But what does it look like, especially as we’re using, talking about training simulations, for those that haven’t necessarily gotten into the chair for the first time, how is... How are simulations and how are we helping those folks as they kind of make that transition?&nbsp;<br />
+        <br /><b>
+        06:13 Vinesh Rambally: </b>So referring to the drillers that haven’t used NOVOS, or...<br />
+        <br /><b>
+        06:17 Michael Gaines:</b> Yeah, yeah.<br />
+        <br /><b>
+        06:18 Vinesh Rambally: </b>So, we’ve done a few of that when we first launched NOVOS we had drillers come in the house. And that’s where we’ve gotten a lot of feedback, that’s how we’ve updated the system is getting that feedback from the drillers. But they’ll come in-house, they’ll jump on the simulator, we have the training courses at Bammel where they’ll go there and they’ll spend a couple days on the simulators going through that process of understanding how NOVOS works, how it interacts with the control system, what they can do with it, what they can’t do with it, and giving them that understanding of “this is NOVOS, this is how you use it” helps them tremendously. When they get out to the rig, it’s a whole another scenario there, right? It’s not a playground; they’re on a time crunch, dollars are the bottom line. They have to focus on pay-day, and making sure they’re doing their job, they’re on strict deadlines. It’s not the place to learn new technology, new software, when you have all these things they’re doing as their daily job. Crew safety, making sure the steps are being managed. Adding a new task is not the brightest idea on a rig. So getting them to come in house and getting them trained on simulators here, once they get out to the field, they’re not perfect at it, but now they’re more familiar with the way the system works and how they can utilize it. So it’s that learning curve has just gotten so much better.<br />
+        <br /><b>
+        07:35 Michael Gaines:</b> So part of the benefit of NOVOS is the apps that you’re able to use in the system. Can you talk a little bit about how using simulations sort of helps both from a development cycle, but also from a cost-saving standpoint when folks are looking to sort of test and validate some of those apps?&nbsp;<br />
+        <br /><b>
+        08:00 Vinesh Rambally:</b> So for on the development side, they have the developer’s kit. So they take that, they build their apps with it, there’s a mini simulation there, they can make sure things are flowing in and flowing out. They can come in-house and with the simulator and download feedback. They can see what’s happening, they can interject issues into the will, they can have different simulators doing different things so they can see, make sure the app’s working the way it should, right? Again, the rig is not the best place to test something. You don’t want to have nonproductive time on a rig; you’re losing money. So, having them come into a safe environment in the office and be able to test that has been tremendous to these guys. They can say, “Okay, this works. Why don’t you make tweaks?” They can go back to their office and make tweaks to it. So they’re saving money, they’re not causing down time on a rig, they’re not causing the rig to stop work and have to do this new app. If something happens, people would be upset.<br />
+        <br /><b>
+        08:51 Michael Gaines:</b> Right. So when you’re in your head space as you’re looking down the road and trying to continue to refine some of the approaches and options that we have in the simulation space, where is your head? Where are you looking as we’re looking down the road here?&nbsp;<br />
+        <br /><b>
+        09:10 Vinesh Rambally: </b>So a future state for simulators?&nbsp;<br />
+        <br /><b>
+        09:12 Michael Gaines:</b> Yeah.<br />
+        <br /><b>
+        09:14 Vinesh Rambally:</b> Well, everyone’s looking at virtual reality, right? Or augmented reality. That seems to be the trend. That’d be a great experience. I would love to have a customer come in, put on the goggles, put on the gloves, and they’re immersed in a rig in the office. They can go through a NOVOS challenge, they can see apps working, you can interject kicks or downhole issues, have them interact with how they would fix that through NOVOS. If they need to revert, how they’d revert, and then be able to take that rig tour and see the equipment that NOVOS is actually affecting. How the top drive reacts to it, how the drill bit from... Drill bit, the BHAs, how all that’s affected by the way you engage, how your process automation works for you. So I would love to have a full-on 3D simulation to where you can go through the whole process. So we’ve been talking to marketing, trying to do that, doing different things along those lines. We also have those augmented realities where they’re walking around with the iPads and they scan something and it gives more information about a system versus just having a piece of paper in front of them, right? Being more interactive with our customer. The oil and gas field has been very slow to keep up with the cutting-edge technology, so I think we’re getting a lot better with that and I think that’s the way we should be heading.<br />
+        <br /><b>
+        10:30 Michael Gaines: </b>Well, that sounds really exciting. I can’t wait to see that myself. Sounds really cool.<br />
+        <br /><b>
+        10:35 Vinesh Rambally: </b>Yeah. Me too, so...<br />
+        <br /><b>
+        10:35 Michael Gaines:</b> Yeah you too, I guess I’m number two in line. So, good. Well, been talking with Vinesh Rambally, the business development manager for applications regarding NOVOS, so Vinesh, thanks for being here.<br />
+        <br /><b>
+        10:46 Vinesh Rambally: </b>Thanks for having me.<br />
+        <br /><b>
+        10:48 Michael Gaines:</b> Thanks for joining us, and, as always, if you have any questions or comments, feel free to put them in the comments section. You can also find more about NOVOS by visiting nov.com/novos. For NOV Today, I’m Michael Gaines. Thanks for listening, and we’ll talk to you later.<br />
+        <br /><b>
+        11:05 Michael Gaines:</b> Thanks for listening to this episode of NOV Today. We’d like to hear your feedback. Share your thoughts by tweeting us @NOVGlobal and using the hashtag #NOVToday. Or you can contact us by sending an email to podcast@nov.com. To stay up to date on the latest episodes, visit our website at www.nov.com/podcast. There you can find show summaries and links to subscribe on iTunes, Google podcasts, SoundCloud, or wherever you get your favorite podcasts. For NOV Today, I’m Michael Gaines. Thanks for listening, and we’ll talk to you later.<span style="color: rgb(0, 0, 0);">&nbsp;</span></p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190930T192133Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9b554c0b-3737-4530-a0ba-dac993f245ca"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190930T192827Z

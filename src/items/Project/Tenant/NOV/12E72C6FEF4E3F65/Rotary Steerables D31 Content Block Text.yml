@@ -1,0 +1,108 @@
+﻿---
+ID: "f8ef088a-bc55-4808-a958-9421094415c7"
+Parent: "0e54f6be-50f6-441b-8a8a-d90ab6ec360c"
+Template: "fef13e36-84bd-4734-b569-e51d7f7e2a36"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/WBT/Cross BU/Directional Drilling Packages/Rotary Steerables D31 Content Block Text
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200117T173300Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "4593422d-98d7-497e-b649-a5ade9061f97"
+      Hint: heading
+      Value: Rotary Steerables
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "70e126a1-8914-4930-8325-b0090275e26e"
+      Hint: body
+      Value: |
+        <p>Rotary steerable systems (RSS) have become standard equipment in many directional drilling operations, and we ensure that directional drillers around the world have access to this critical technology. We offer three different systems that use industry-preferred push-the-bit steering:</p>
+        <p><a href="~/link.aspx?_id=DFB9FE059E7046C4BAE709E3BB921A1E&amp;_z=z">VectorEXAKT™</a> – precise vertical control for large diameter sections&nbsp;<br />
+        <a href="~/link.aspx?_id=890968F7E7B946429E8F3E5CA24D6DE6&amp;_z=z">VectorZIEL™</a> – premium, 3D RSS with integrated MWD/LWD&nbsp;<br />
+        <a href="~/link.aspx?_id=537D57884B4A4757A5193B2E029C3542&amp;_z=z">VectorEDGE™</a> – simple, reliable and cost-effective tool for unconventional applications&nbsp;</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "351df3bb-2bf4-4e5f-87f6-a4bd5a44b6a7"
+    - ID: "9ce372ba-72d4-44e1-84d1-e5dc70965cc3"
+      Hint: image
+      Value: |
+        <image mediaid="{7B237D5D-FD4D-4A02-99E2-AD0A2F725846}" cropregion="522,0,1805,1279" ratio="385:385" width="385" height="385" alt="" hspace="" vspace="" />
+    - ID: "a14f8111-ad71-4562-b9b8-61e4996d3750"
+      Hint: cta
+      Value: |
+        <link linktype="internal" querystring="" target="" id="{890968F7-E7B9-4642-9E8F-3E5CA24D6DE6}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200117T184435Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200707T150428Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "4593422d-98d7-497e-b649-a5ade9061f97"
+      Hint: heading
+      Value: Rotary Steerables
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ELISEGARLAND
+    - ID: "70e126a1-8914-4930-8325-b0090275e26e"
+      Hint: body
+      Value: |
+        <p>Rotary steerable systems (RSS) have become standard equipment in many directional drilling operations, and we ensure that directional drillers around the world have access to this critical technology. We offer two different systems that use industry-preferred push-the-bit steering:</p>
+        <p><a href="~/link.aspx?_id=DFB9FE059E7046C4BAE709E3BB921A1E&amp;_z=z">VectorEXAKT&trade;</a> &ndash; precise vertical control for large diameter sections&nbsp;<br />
+        <a href="~/link.aspx?_id=890968F7E7B946429E8F3E5CA24D6DE6&amp;_z=z">VectorZIEL&trade;</a> &ndash; premium, 3D RSS with integrated MWD/LWD&nbsp;</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5ef0f515-c889-4cdf-9ff5-505a53c90b82"
+    - ID: "9ce372ba-72d4-44e1-84d1-e5dc70965cc3"
+      Hint: image
+      Value: |
+        <image mediaid="{7B237D5D-FD4D-4A02-99E2-AD0A2F725846}" cropregion="522,0,1805,1279" ratio="385:385" width="385" height="385" alt="" hspace="" vspace="" />
+    - ID: "a14f8111-ad71-4562-b9b8-61e4996d3750"
+      Hint: cta
+      Value: |
+        <link linktype="internal" querystring="" target="" id="{890968F7-E7B9-4642-9E8F-3E5CA24D6DE6}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ELISEGARLAND
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200707T150428Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200707T150825Z

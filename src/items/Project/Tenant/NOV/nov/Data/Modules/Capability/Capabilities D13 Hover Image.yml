@@ -1,0 +1,83 @@
+﻿---
+ID: "b0c7eb46-4a15-4c68-97de-754e3e4936cc"
+Parent: "cd0711e4-fde5-43dd-9f07-bea6d0720c33"
+Template: "a42be250-5aa9-4984-a08b-0a88e538acc0"
+Path: /sitecore/content/nov/nov/Data/Modules/Capability/Capabilities D13 Hover Image
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "042aa8d7-4dff-44d2-b316-177ccc7fe3e7"
+      Hint: body3
+      Value: With a combined history dating back more than 175 years, our brands are backed by individual legacies of trust, reliability, and performance.
+    - ID: "1d75ac17-3b90-4147-be3b-68f7c844017f"
+      Hint: headline3
+      Value: Brands
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190627T202302Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "3f427f31-5ae2-4eb7-b01a-a9eb09e3fe47"
+      Hint: cta2
+      Value: |
+        <link querystring="" id="{A98608AB-B52D-46D3-AA4C-79B35ADF2B3F}" target="" linktype="internal" url="/NOV Com/Home/About/Our Business Units" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\melissapastrano
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\melissapastrano
+    - ID: "6448a25f-1cf7-4c4a-9b99-f0a7b205764d"
+      Hint: headline2
+      Value: Our Business Units
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c409e82e-49a3-440b-ba88-995862eb2e03"
+    - ID: "97b737d5-e611-423a-ae3f-e98eb69fd090"
+      Hint: image1
+      Value: |
+        <image mediaid="{58B716BC-8310-4503-BC11-72B82387DACF}" cropregion="991,0,1697,1079" ratio="393:600" width="393" height="600" alt="" hspace="" vspace="" />
+    - ID: "9c6e71f7-4cf3-4ef6-ab11-dc1f89a31a29"
+      Hint: headline1
+      Value: About Us
+    - ID: "b955311a-73da-4c61-adda-1b6e24665d63"
+      Hint: cta1
+      Value: |
+        <link querystring="" id="{784DD9E8-C40D-47F4-ACCF-893251B02EB3}" target="" linktype="internal" url="/NOV Com/Home/About" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\varalakshmi.md@horizontal.com
+    - ID: "ce25f5fe-d974-4b7a-a13d-b1e135ea53ad"
+      Hint: image2
+      Value: |
+        <image mediaid="{F2551412-A12E-42F0-87C8-C28085FA73E3}" cropregion="0,0,1882,2880" ratio="393:600" width="393" height="600" alt="" hspace="" vspace="" />
+    - ID: "d3d4c3a9-9927-4a25-abfa-c7a3e9dc65db"
+      Hint: image3
+      Value: |
+        <image mediaid="{6DA416D4-DE49-4C83-9C43-7C62A2028EA6}" cropregion="238,0,746,774" ratio="393:600" width="393" height="600" alt="" hspace="" vspace="" />
+    - ID: "d4f2e5cb-0c8c-4e04-a7a7-875b529e21c3"
+      Hint: body1
+      Value: Every day, the oil and gas industry’s best minds put more than 150 years of experience to work to help our customers achieve lasting success. 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230706T172709Z
+    - ID: "e6f374a5-5af2-4c17-ad70-1c7514edc276"
+      Hint: cta3
+      Value: |
+        <link querystring="" id="{B6E77496-7BEE-48DC-9AFB-11DF7EACC15A}" target="" linktype="internal" url="/NOV Com/Home/Products and Services/Brands" />
+    - ID: "f07d95f3-950f-48a4-af60-589eeaac2e95"
+      Hint: body2
+      Value: Our business units work together across our operations around the globe to deliver the equipment and technologies you need to work smarter, faster, and safer.

@@ -1,0 +1,143 @@
+﻿---
+ID: "520c9bbd-02c5-4453-bf01-1aaab12553e2"
+Parent: "16c06d63-4951-4e40-917b-2a8ef7c3b0fa"
+Template: "07c63710-4422-42b9-adb7-67b4bad63607"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/CAPS/Intervention and Stimulation Equipment/LineMinder Touchscreen Panels for Wireline Units/LineMinder D5 Article Text Options
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "0f10eefb-f9da-4b41-83a0-87900c4e25ed"
+      Hint: body
+      Value: |
+        <p><strong>Well Pressures</strong> &ndash; The LineMinder Logging system can display well pressures where suitable sensors are connected. These signals are input into the system through the well-pressure interface box, which is connected to the LineMinder Logging system through a serial bus. The box is available in Rigsafe and ATEX Zone 2 versions.</p>
+        <p>Through the well-pressures interface box, up to four well pressures can be displayed on the LineMinder Logging main screen (not available with the LineMinder Slickline). A maximum of three well-pressure signals can be displayed on the trend display of the LineMinder Logging, giving the operator direct visible feedback on the main job parameters. The pressures are recorded together with depth, speed, and tension signals, making job analysis and reporting easy.</p>
+        <p>Each well pressure can be assigned with a specific name. This name is used as reference in each of the display locations: main screen, recording files, and trend chart.</p>
+        <p><strong>Data Forwarding</strong> &ndash; The LineMinder data forwarding box is required to interface with logging systems. Eclips and Warrior systems are supported as standard; please contact us for details of other systems.
+        </p>
+        <p><strong>Eclips (Serial)</strong> &ndash; When using the Eclips system, the data forwarding box receives depth, speed, and tension data from the Eclips system via serial communication. The Eclips data are displayed on the LineMinder. Commands (e.g., set depth) given on LineMinder will be sent through the data forwarding box to the Eclips system. The physical connection type is serial RS-232 with full handshake.</p>
+        <p><strong>Warrior (Ethernet)</strong> &ndash; When using the Warrior system, the data forwarding box sends depth, speed, and tension data to the Warrior system via Ethernet. Commands (e.g., set depth) given by the Warrior system are processed by the LineMinder system. On the Warrior system, SmartOff ice needs to be installed. This program is responsible for the Ethernet communication with the Warrior system.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190506T185856Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\charisgamroth
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a3cda79e-a3b2-482c-8037-2a495e146f10"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190506T205534Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "0f10eefb-f9da-4b41-83a0-87900c4e25ed"
+      Hint: body
+      Value: |
+        <h4>LineMinder Backup</h4>
+        <p>The LineMinder Backup is designed for use as a secondary backup display for measuring head signals. The screen has the same touch and feel as a LineMinder Slickline, but the alarms and shutdown are suppressed.</p>
+        <h4>LineMinder Options</h4>
+        <p>In addition to our standard products, we offer several options and upgrades to the LineMinder software.</p>
+        <p><strong>Well Pressures</strong> – The LineMinder Logging system can display well pressures where suitable sensors are connected. These signals are input into the system through the well-pressure interface box, which is connected to the LineMinder Logging system through a serial bus. The box is available in Rigsafe and ATEX Zone 2 versions.</p>
+        <p>Through the well-pressures interface box, up to four well pressures can be displayed on the LineMinder Logging main screen (not available with the LineMinder Slickline). A maximum of three well-pressure signals can be displayed on the trend display of the LineMinder Logging, giving the operator direct visible feedback on the main job parameters. The pressures are recorded together with depth, speed, and tension signals, making job analysis and reporting easy.</p>
+        <p>Each well pressure can be assigned with a specific name. This name is used as reference in each of the display locations: main screen, recording files, and trend chart.</p>
+        <p><strong>Data Forwarding</strong> – The LineMinder data forwarding box is required to interface with logging systems. Eclips and Warrior systems are supported as standard; please contact us for details of other systems.
+        </p>
+        <p><strong>Eclips (Serial)</strong> – When using the Eclips system, the data forwarding box receives depth, speed, and tension data from the Eclips system via serial communication. The Eclips data are displayed on the LineMinder. Commands (e.g., set depth) given on LineMinder will be sent through the data forwarding box to the Eclips system. The physical connection type is serial RS-232 with full handshake.</p>
+        <p><strong>Warrior (Ethernet)</strong> – When using the Warrior system, the data forwarding box sends depth, speed, and tension data to the Warrior system via Ethernet. Commands (e.g., set depth) given by the Warrior system are processed by the LineMinder system. On the Warrior system, SmartOff ice needs to be installed. This program is responsible for the Ethernet communication with the Warrior system.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190508T165516Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\charisgamroth
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8e29a5ed-7229-4916-a266-ccdbf7ce84d3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190508T165516Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190514T143301Z
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "0f10eefb-f9da-4b41-83a0-87900c4e25ed"
+      Hint: body
+      Value: |
+        <h2>LineMinder Backup</h2>
+        <p>The LineMinder Backup is designed for use as a secondary backup display for measuring head signals. The screen has the same touch and feel as a LineMinder Slickline, but the alarms and shutdown are suppressed.</p>
+        <h4>LineMinder Options</h4>
+        <p>In addition to our standard products, we offer several options and upgrades to the LineMinder software.</p>
+        <p><strong>Well Pressures</strong> &ndash; The LineMinder Logging system can display well pressures where suitable sensors are connected. These signals are input into the system through the well-pressure interface box, which is connected to the LineMinder Logging system through a serial bus. The box is available in Rigsafe and ATEX Zone 2 versions.</p>
+        <p>Through the well-pressures interface box, up to four well pressures can be displayed on the LineMinder Logging main screen (not available with the LineMinder Slickline). A maximum of three well-pressure signals can be displayed on the trend display of the LineMinder Logging, giving the operator direct visible feedback on the main job parameters. The pressures are recorded together with depth, speed, and tension signals, making job analysis and reporting easy.</p>
+        <p>Each well pressure can be assigned with a specific name. This name is used as reference in each of the display locations: main screen, recording files, and trend chart.</p>
+        <p><strong>Data Forwarding</strong> &ndash; The LineMinder data forwarding box is required to interface with logging systems. Eclips and Warrior systems are supported as standard; please contact us for details of other systems.
+        </p>
+        <p><strong>Eclips (Serial)</strong> &ndash; When using the Eclips system, the data forwarding box receives depth, speed, and tension data from the Eclips system via serial communication. The Eclips data are displayed on the LineMinder. Commands (e.g., set depth) given on LineMinder will be sent through the data forwarding box to the Eclips system. The physical connection type is serial RS-232 with full handshake.</p>
+        <p><strong>Warrior (Ethernet)</strong> &ndash; When using the Warrior system, the data forwarding box sends depth, speed, and tension data to the Warrior system via Ethernet. Commands (e.g., set depth) given by the Warrior system are processed by the LineMinder system. On the Warrior system, SmartOff ice needs to be installed. This program is responsible for the Ethernet communication with the Warrior system.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190701T202835Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\charisgamroth
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9d701d85-a54f-41c6-bc24-de815b07e779"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190701T202835Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190701T203005Z

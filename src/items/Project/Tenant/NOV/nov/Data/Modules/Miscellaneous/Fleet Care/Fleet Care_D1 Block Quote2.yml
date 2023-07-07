@@ -1,0 +1,50 @@
+﻿---
+ID: "6029bce7-f99b-4f06-a80e-c81e500ee6ea"
+Parent: "b111968a-fa27-46dd-8ac8-21fb599a33f6"
+Template: "248a71e3-4d3b-4372-9558-c8bcab08539f"
+Path: /sitecore/content/nov/nov/Data/Modules/Miscellaneous/Fleet Care/Fleet Care_D1 Block Quote2
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190725T213335Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joannazhu
+    - ID: "75bac910-2e4d-4438-863a-aba8e68cb75e"
+      Hint: quoteText
+      Value: "<p>Sahil Shaikh was the Field Project Manager for the Ocean Monarch shipyard project, which was hugely successful allowing the rig to depart ahead of schedule. His vast knowledge of all the different types of NOV equipment on-board the rig, excellent project management skills, and willingness to continue to meet or exceed our expectations proved everyday to be a huge factor in the success of this project. I had the pleasure to work with Sahil on the GreatWhite Project, and that project was handled extremely professionally as well. Diamond had the support and assistance from the entire NOV Singapore Team, which without their guidance and support, we could not have reached our goal. The Aftermarket support we get from NOV Singapore is incredible, and nothing is too hard... Diamond management recognizes the benefit of having 'quality project management' with regards to actually reducing overall project cost by being ahead of schedule and ensuring the equipment is 100% operational for best chance a trouble free operation when the rig is back at work.</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "504ed276-0884-4d82-a497-7de8f06fd3fa"
+    - ID: "aa872c07-d771-40f6-a843-5722b9ee1a00"
+      Hint: quoteName
+      Value: Diamond Offshore
+    - ID: "b8e9dd5c-1d84-47a9-b3a9-b5172c560c82"
+      Hint: jobTitle
+      Value: Management
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\joannazhu
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190725T213434Z

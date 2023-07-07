@@ -1,0 +1,36 @@
+﻿---
+ID: "dc06ce39-f25e-4ff9-bfb0-7198c88617f9"
+Parent: "89e6b8f3-ba36-4d94-87b0-074c74b812c7"
+Template: "035f0fcd-adda-4ce6-a3f6-5467a65ab544"
+Path: /sitecore/content/nov/nov/Data/Modules/ivan test page/Test Pages/Podcast Feed Page/D10 Article Subhead
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 3300
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181021T003309Z
+    - ID: "5064d9a2-e987-4183-a9cb-d3da7e4c88e0"
+      Hint: showDate
+      Value: 1
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ba427888-509c-4f62-83ab-c2ffe5042cf5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ashwin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190427T202731Z
+    - ID: "e7321868-d6dc-4955-b788-53ee24cc95ee"
+      Hint: subheadText
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo. Proin sodales pulvinar sic tempor. Sociis natoque penatibus et magnis dis parturient, Lorem ipsum dolor sit amet, consectetur Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo. Proin sodales pulvinar sic tempor. Sociis natoque penatibus et magnis dis parturient, Lorem ipsum dolor sit amet, consectetur</p>

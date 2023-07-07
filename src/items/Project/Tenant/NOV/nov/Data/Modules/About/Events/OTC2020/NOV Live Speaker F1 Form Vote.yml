@@ -1,0 +1,50 @@
+﻿---
+ID: "96352fc8-b655-41cf-a596-304ecae91604"
+Parent: "9c54ab73-a465-46a3-8cd8-ca64c809b8ec"
+Template: "1127d4e6-36bc-4cb8-882c-2a85978c8ea0"
+Path: /sitecore/content/nov/nov/Data/Modules/About/Events/OTC2020/NOV Live Speaker F1 Form Vote
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1cd3a0bc-77f4-4c90-b41b-41e8c52e4916"
+      Hint: thankYouHeadline
+      Value: Thank you for your question
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200225T215557Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{40251B7D-FBE3-4A0E-8947-D4B4FE8CD782}"
+    - ID: "43bd34e9-91da-4536-af90-08194556e17b"
+      Hint: thankYouBody
+      Value: <p>An NOV representative will review your question and post it to this page once approved. If you submitted your email address, we'll get back to you with an answer shortly.</p>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8f28d828-db01-4539-9976-3c01abc779c8"
+    - ID: "aa739485-b16d-4712-8daf-696ceeb928c5"
+      Hint: eloquaForm
+      Value: "{44668DA7-6A34-4595-A7DD-4349A91CBEEB}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200306T164946Z

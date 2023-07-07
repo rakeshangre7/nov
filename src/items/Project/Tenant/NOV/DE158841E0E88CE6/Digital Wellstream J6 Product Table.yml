@@ -1,0 +1,91 @@
+﻿---
+ID: "6417c401-d980-4f28-b00b-54c0f3b99f80"
+Parent: "9cc76aac-1cec-4e25-987a-3dd4eee003b6"
+Template: "5030864f-eb96-4da7-a417-e5a0108c59f8"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/CAPS/Process and Flow Technologies/Digital Wellstream/Digital Wellstream J6 Product Table
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200925T175910Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{40251B7D-FBE3-4A0E-8947-D4B4FE8CD782}"
+    - ID: "43622441-3846-443d-a588-c8a468673d55"
+      Hint: description
+      Value: GoConnectTM Condition Monitoring Family
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+        <tbody>
+        <tr>
+        <td>
+        SWT Insight
+        </td>
+        <td>
+        <ul>
+        <li>Snapshot of topside equipment via native and optional CM sensors</li>
+        <li>Smart notifications that turn equipment data into usable condition information</li>
+        <li>On-demand visualization of equipment data, notification status, and reports</li>
+        </ul>
+        </td>
+        </tr>
+        <tr>
+        <td>
+        SWT Predictive
+        </td>
+        <td>
+        <ul>
+        <li>All information provided by SWT Insight</li>
+        <li>Warning of potential failure modes through predictive analytics</li>
+        <li>Early detection of fouling differentiating between the five most common types</li>
+        <li>Recommendation of best suitable cleaning-in-place procedures</li>
+        <li>Ability to address issues before they occur without compromising production and equipment lifetime</li>
+        <li>Equipment lifespan monitoring and reporting</li>
+        </ul>
+        </td>
+        </tr>
+        <tr>
+        <td>
+        SWT CBM Services
+        </td>
+        <td>
+        <ul>
+        <li>A customized program created with our OEM expertise to reduce the total cost of ownership for your drilling equipment</li>
+        </ul>
+        </td>
+        </tr>
+        </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a0783820-82fa-4cd7-a5a3-6df2485f1c56"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: Seawater Treatment Systems
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200925T180456Z

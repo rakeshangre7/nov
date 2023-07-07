@@ -1,0 +1,49 @@
+﻿---
+ID: "9f5e75c3-2b95-4937-99f0-da24e19f2bc6"
+Parent: "95f18b83-1ff4-439a-b05a-011155fe05cf"
+Template: "95f18b83-1ff4-439a-b05a-011155fe05cf"
+Path: /sitecore/templates/Feature/NOV Shared/Components/System Folder/__Standard Values
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Applications/32x32/folder_gear.png
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {035DDD4F-D879-4B7E-9523-F4B5C2018B8D}
+    {EC6E335A-1205-4327-91BE-80459828D619}
+    {F5D34297-7ACD-42B2-B6E9-BC71D7E7F57A}
+    {D25CD826-E78B-4C0D-A0C3-477990803EC4}
+    {40D96C96-BE5B-4A14-9C68-AD2608C70F19}
+    {EB33E993-9588-4785-AF28-615A604B0CCE}
+    {8EA745C3-C333-4D50-B246-E302E50F69EF}
+    {DDA8D2E3-97E2-45B4-806E-AF8A6C71F872}
+    {40AB30E1-E63D-4F8F-8189-0BD30233044E}
+    {1A211F3F-1DB9-4069-A2FB-564FA2E47852}
+    {C1F71C6C-9CED-46BB-A275-3D65AC2A6C07}
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180930T172653Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ashwin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ashwin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a0db66a5-67b3-4295-ba93-1de9065839b8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200116T213809Z

@@ -1,0 +1,561 @@
+﻿---
+ID: "31dfc820-00be-4478-b493-2e4c5c5ebd9b"
+Parent: "13355393-7fac-4246-9a59-1cc70a87b2e2"
+Template: "5030864f-eb96-4da7-a417-e5a0108c59f8"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/RIG/Marine and Construction/Riser Pull In Systems/Riser Pull in System J6 Product Table
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190318T184622Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "43622441-3846-443d-a588-c8a468673d55"
+      Hint: description
+      Value: "* HPU customized to customer needs. CE marked, any zone, lebus/flat drum fiber or wire rope. Table contains one-layer rope winch; several-layer rope winch is also available."
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+        <thead>
+        <tr>
+        <th>
+        Model
+        </th>
+        <th>
+        Pull Capacity
+        </th>
+        <th>
+        Weight
+        </th>
+        <th>
+        Drive
+        </th>
+        <th>
+        Pull-In Wire Rope Length
+        </th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+        <td>
+        PW175
+        </td>
+        <td>
+        175 mt
+        </td>
+        <td>
+        15 000 kg
+        </td>
+        <td rowspan="6">
+        Hydraulic or all-electric drive options available
+        </td>
+        <td rowspan="6">
+        Up to 800 m<br /> (more on request)
+        </td>
+        </tr>
+        <tr>
+        <td>
+        PW250
+        </td>
+        <td>
+        250 mt
+        </td>
+        <td>
+        20 000 kg
+        </td>
+        </tr>
+        <tr>
+        <td>
+        PW400
+        </td>
+        <td>
+        400 mt
+        </td>
+        <td>
+        30 000 kg
+        </td>
+        </tr>
+        <tr>
+        <td>
+        PW500
+        </td>
+        <td>
+        500 mt
+        </td>
+        <td>
+        40 000 kg
+        </td>
+        </tr>
+        <tr>
+        <td>
+        PW600
+        </td>
+        <td>
+        600 mt
+        </td>
+        <td>
+        50 000 kg
+        </td>
+        </tr>
+        <tr>
+        <td>
+        PW800
+        </td>
+        <td>
+        800 mt
+        </td>
+        <td>
+        55 000 kg
+        </td>
+        </tr>
+        </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "94805b41-a0fb-42c5-9d8c-f6836bb77931"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: "Riser Pull-In Technical Specifications"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190318T191218Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190406T012500Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "43622441-3846-443d-a588-c8a468673d55"
+      Hint: description
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\verticachang
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td style="width: 83px;">
+                    <p>Model</p>
+                    </td>
+                    <td style="width: 106px;">
+                    <p>Pull Capacity</p>
+                    </td>
+                    <td style="width: 117px;">
+                    <p>Weight</p>
+                    </td>
+                    <td style="width: 139px;">
+                    <p>Drive</p>
+                    </td>
+                    <td style="width: 133px;">
+                    <p>Pull-In Wire Rope Length</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 83px;">
+                    <p>PW175</p>
+                    </td>
+                    <td style="width: 106px;">
+                    <p>175 mt</p>
+                    </td>
+                    <td style="width: 117px;">
+                    <p>15 000 kg</p>
+                    </td>
+                    <td rowspan="6" style="width: 139px;">
+                    <p>Hydraulic or all-electric drive options available</p>
+                    </td>
+                    <td rowspan="6" style="width: 133px;">
+                    <p>Up to 800 m<br />
+                    (more on request)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 83px;">
+                    <p>PW250</p>
+                    </td>
+                    <td style="width: 106px;">
+                    <p>250 mt</p>
+                    </td>
+                    <td style="width: 117px;">
+                    <p>20 000 kg</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 83px;">
+                    <p>PW400</p>
+                    </td>
+                    <td style="width: 106px;">
+                    <p>400 mt</p>
+                    </td>
+                    <td style="width: 117px;">
+                    <p>30 000 kg</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 83px;">
+                    <p>PW500</p>
+                    </td>
+                    <td style="width: 106px;">
+                    <p>500 mt</p>
+                    </td>
+                    <td style="width: 117px;">
+                    <p>40 000 kg</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 83px;">
+                    <p>PW600</p>
+                    </td>
+                    <td style="width: 106px;">
+                    <p>600 mt</p>
+                    </td>
+                    <td style="width: 117px;">
+                    <p>50 000 kg</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 83px;">
+                    <p>PW800</p>
+                    </td>
+                    <td style="width: 106px;">
+                    <p>800 mt</p>
+                    </td>
+                    <td style="width: 117px;">
+                    <p>55 000 kg</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="5" style="width: 579px;">
+                    <p>* HPU customized to customer needs<br />
+                    * CE marked, any zone, lebus/flat drum fiber or wire rope. Table contains one-layer rope winch; several-layer rope winch is also available.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "14f6a8a6-05bb-448e-9fe5-80c05220204b"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: "Riser Pull-In Technical Specifications"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\verticachang
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190406T012500Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190406T012653Z
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190710T203358Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "43622441-3846-443d-a588-c8a468673d55"
+      Hint: description
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+        <tbody>
+        <tr>
+        <td>
+        Model
+        </td>
+        <td>
+        Pull Capacity
+        </td>
+        <td>
+        Weight
+        </td>
+        <td>
+        Drive
+        </td>
+        <td>
+        Pull-In Wire Rope Length
+        </td>
+        </tr>
+        <tr>
+        <td>
+        PW175
+        </td>
+        <td>
+        175 mt
+        </td>
+        <td>
+        15 000 kg
+        </td>
+        <td rowspan="6">
+        Hydraulic or all-electric drive options available
+        </td>
+        <td rowspan="6">
+        Up to 800 m<br /> (more on request)
+        </td>
+        </tr>
+        <tr>
+        <td>
+        PW250
+        </td>
+        <td>
+        250 mt
+        </td>
+        <td>
+        20 000 kg
+        </td>
+        </tr>
+        <tr>
+        <td>
+        PW400
+        </td>
+        <td>
+        400 mt
+        </td>
+        <td>
+        30 000 kg
+        </td>
+        </tr>
+        <tr>
+        <td>
+        PW500
+        </td>
+        <td>
+        500 mt
+        </td>
+        <td>
+        40 000 kg
+        </td>
+        </tr>
+        <tr>
+        <td>
+        PW600
+        </td>
+        <td>
+        600 mt
+        </td>
+        <td>
+        50 000 kg
+        </td>
+        </tr>
+        <tr>
+        <td>
+        PW800
+        </td>
+        <td>
+        800 mt
+        </td>
+        <td>
+        55 000 kg
+        </td>
+        </tr>
+        </tbody>
+        </table>
+        <p>
+          * HPU customized to customer needs<br /> * CE marked, any zone, lebus/flat drum fiber or wire rope. Table contains one-layer rope winch; several-layer rope winch is also available.
+        </p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "904ca0fa-b0dc-44fd-a10d-17b358843f43"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: "Riser Pull-In Technical Specifications"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190710T203358Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190710T203457Z
+  - Version: 4
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190716T125917Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "43622441-3846-443d-a588-c8a468673d55"
+      Hint: description
+      Value: |
+        * HPU customized to customer needs
+        * CE marked, any zone, lebus/flat drum fiber or wire rope. Table contains one-layer rope winch; several-layer rope winch is also available
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td><strong>
+                    Model
+                    </strong></td>
+                    <td><strong>
+                    Pull Capacity
+                    </strong></td>
+                    <td><strong>
+                    Weight
+                    </strong></td>
+                    <td><strong>
+                    Drive
+                    </strong></td>
+                    <td><strong>
+                    Pull-In Wire Rope Length</strong>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    PW175
+                    </td>
+                    <td>
+                    175 mt
+                    </td>
+                    <td>
+                    15 000 kg
+                    </td>
+                    <td rowspan="6">
+                    Hydraulic or all-electric drive options available
+                    </td>
+                    <td rowspan="6">
+                    Up to 800 m<br />
+                    (more on request)
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    PW250
+                    </td>
+                    <td>
+                    250 mt
+                    </td>
+                    <td>
+                    20 000 kg
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    PW400
+                    </td>
+                    <td>
+                    400 mt
+                    </td>
+                    <td>
+                    30 000 kg
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    PW500
+                    </td>
+                    <td>
+                    500 mt
+                    </td>
+                    <td>
+                    40 000 kg
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    PW600
+                    </td>
+                    <td>
+                    600 mt
+                    </td>
+                    <td>
+                    50 000 kg
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    PW800
+                    </td>
+                    <td>
+                    800 mt
+                    </td>
+                    <td>
+                    55 000 kg
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        &nbsp;
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "65660d69-99f0-4496-b9fe-897863e75955"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: "Riser Pull-In Technical Specifications"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190716T125917Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190716T130042Z

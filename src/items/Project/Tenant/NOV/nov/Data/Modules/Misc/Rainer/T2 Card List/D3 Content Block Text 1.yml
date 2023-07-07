@@ -1,0 +1,155 @@
+﻿---
+ID: "a4756dd5-5941-4f22-8379-6bd95896ec70"
+Parent: "e5db712d-28ff-4df1-bbbd-9b33e83cb8fc"
+Template: "fef13e36-84bd-4734-b569-e51d7f7e2a36"
+Path: /sitecore/content/nov/nov/Data/Modules/Misc/Rainer/T2 Card List/D3 Content Block Text 1
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1700
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190109T101419Z
+    - ID: "26894bef-5803-40dd-8de7-01170daf29a6"
+      Hint: backgroundVideo
+      Value: |
+        <file mediaid="{E9121A92-3CA8-4D9A-9C4A-630AFCCAB7E1}" src="-/media/e9121a923ca84d9a9c4a630afccab7e1.ashx" />
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "4593422d-98d7-497e-b649-a5ade9061f97"
+      Hint: heading
+      Value: Title Lorem Ipsum
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mathias
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mathias
+    - ID: "70e126a1-8914-4930-8325-b0090275e26e"
+      Hint: body
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo. Proin sodales pulvinar tempor.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8d5645ff-393b-4de0-b576-0d53107a47e4"
+    - ID: "9ce372ba-72d4-44e1-84d1-e5dc70965cc3"
+      Hint: image
+      Value: |
+        <image mediaid="{59E9A63B-3CE8-445D-8A31-08902C4B7ED6}" cropregion="274,0,924,650" ratio="385:385" width="385" height="385" />
+    - ID: "a14f8111-ad71-4562-b9b8-61e4996d3750"
+      Hint: cta
+      Value: |
+        <link class="" querystring="" id="{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}" anchor="" target="" title="" linktype="internal" text="Learn More" url="/NOV Com/Home" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\varalakshmi.md@horizontal.com
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190109T101419Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230706T172430Z
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190124T104614Z
+    - ID: "26894bef-5803-40dd-8de7-01170daf29a6"
+      Hint: backgroundVideo
+      Value: |
+        <file mediaid="{E9121A92-3CA8-4D9A-9C4A-630AFCCAB7E1}" src="-/media/e9121a923ca84d9a9c4a630afccab7e1.ashx" />
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "4593422d-98d7-497e-b649-a5ade9061f97"
+      Hint: heading
+      Value: Title Lorem Ipsum
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mathias
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mathias
+    - ID: "70e126a1-8914-4930-8325-b0090275e26e"
+      Hint: body
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo. Proin sodales pulvinar tempor.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4f6d5597-e15a-499d-9671-cbafd64c4b7f"
+    - ID: "9ce372ba-72d4-44e1-84d1-e5dc70965cc3"
+      Hint: image
+      Value: |
+        <image mediaid="{7541ACAA-FD07-4944-B32C-865D9BDFDEB8}" cropregion="247,0,1671,1424" ratio="385:385" width="385" height="385" />
+    - ID: "a14f8111-ad71-4562-b9b8-61e4996d3750"
+      Hint: cta
+      Value: |
+        <link class="" querystring="" id="{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}" anchor="" target="" title="" linktype="internal" text="Learn More" url="/NOV Com/Home" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\varalakshmi.md@horizontal.com
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190124T104614Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230706T172431Z
+  - Version: 3
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190125T165501Z
+    - ID: "26894bef-5803-40dd-8de7-01170daf29a6"
+      Hint: backgroundVideo
+      Value: 
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "4593422d-98d7-497e-b649-a5ade9061f97"
+      Hint: heading
+      Value: Title Lorem Ipsum
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mathias
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kgallagher
+    - ID: "70e126a1-8914-4930-8325-b0090275e26e"
+      Hint: body
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo. Proin sodales pulvinar tempor.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b8498acf-f551-4160-a8b9-b7af46089bf8"
+    - ID: "9ce372ba-72d4-44e1-84d1-e5dc70965cc3"
+      Hint: image
+      Value: |
+        <image mediaid="{7541ACAA-FD07-4944-B32C-865D9BDFDEB8}" cropregion="247,0,1671,1424" ratio="385:385" width="385" height="385" />
+    - ID: "a14f8111-ad71-4562-b9b8-61e4996d3750"
+      Hint: cta
+      Value: |
+        <link class="" querystring="" id="{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}" anchor="" target="" title="" linktype="internal" text="Learn More" url="/NOV Com/Home" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\varalakshmi.md@horizontal.com
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190125T165501Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230706T172431Z

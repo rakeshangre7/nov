@@ -1,0 +1,84 @@
+﻿---
+ID: "4ef58599-1244-4708-b102-dc76c0af678c"
+Parent: "86bc24a2-8960-4660-bf2c-fbade650f3ca"
+Template: "5ea3de5f-8a8e-46a4-8f88-c65b9a2ee2d6"
+Path: /sitecore/content/nov/nov/Data/Modules/Stories/Water Management Technology Beats the Heat/Water Management Tech Beats the Heat D6 Article Image
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190702T174326Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\charisgamroth
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1a070402-5edb-4a79-b24f-7acecf687951"
+    - ID: "ae74a8fe-bc82-4888-9113-844666a1a5a2"
+      Hint: image
+      Value: |
+        <image mediaid="{A3F1C8E6-F517-418B-96AB-0DA21D9CF8FE}" cropregion="0,97,1920,1177" ratio="800:450" width="800" height="450" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190702T180647Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "119aa641-3cc4-4b43-8b1f-a294710be186"
+      Hint: caption
+      Value: A Compact Electrostatic Coalescer (CEC™) is encased in a cage for testing.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190702T192207Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\charisgamroth
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d2d02168-58c6-4d6e-a012-1099599566fd"
+    - ID: "ae74a8fe-bc82-4888-9113-844666a1a5a2"
+      Hint: image
+      Value: |
+        <image mediaid="{A3F1C8E6-F517-418B-96AB-0DA21D9CF8FE}" cropregion="0,97,1920,1177" ratio="800:450" width="800" height="450" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190702T192207Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190702T192340Z

@@ -1,0 +1,158 @@
+﻿---
+ID: "a7037131-cac1-48a7-8997-723452d17092"
+Parent: "537c2bf8-c6fe-4717-a823-bf456edd4c54"
+Template: "c0aa2bad-85b9-47e4-a236-901c3115fb87"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/CAPS/Intervention and Stimulation Equipment/Motion Buster/Motion Buster J5 Features List
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190318T155312Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "4d669ee9-9ff5-4c31-a025-56035d1727a1"
+      Hint: column1Headline
+      Value: "Features/Benefits:"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a80e8721-9b00-4570-9008-8143b61a8512"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: <p>The Motion Buster is a passive compensator that reacts to the motion it encounters and enables equipment to stay in place relative to the seafloor. The stability provided reduces the risk of injury and facilitates operation in difficult conditions. Working with nitrogen (N2), the system is easy to operate and increases the safety and efficiency of well intervention projects on rigless floating vessels.</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190318T155544Z
+    - ID: "f6afec27-750a-4d77-962d-3ce002b623b9"
+      Hint: column1List
+      Value: |
+        <ul>
+            <li>Rated to 250,000 lbs maximum load&nbsp;</li>
+            <li>Provides a total of 6 ft of compensation with the option of 8 and 10 ft upon request&nbsp;</li>
+            <li>Passive system works with 150-gallon accumulator bottle&nbsp;</li>
+            <li>Comes with its own supply of nitrogen&nbsp;</li>
+            <li>Reduce load on wellhead&nbsp;</li>
+            <li>Account for tidal variation</li>
+        </ul>
+        <p>&nbsp;</p>
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190318T215603Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "4d669ee9-9ff5-4c31-a025-56035d1727a1"
+      Hint: column1Headline
+      Value: Features/Benefits
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ff1f1402-8dd6-4f57-baee-04caf413114e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: <p>The Devin&trade; Motion Buster&trade; is a passive compensator that reacts to the motion it encounters and enables equipment to stay in place relative to the seafloor. The stability provided reduces the risk of injury and facilitates operation in difficult conditions. Working with nitrogen (N2), the system is easy to operate and increases the safety and efficiency of well intervention projects on rigless floating vessels.</p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190318T215603Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190416T173859Z
+    - ID: "f6afec27-750a-4d77-962d-3ce002b623b9"
+      Hint: column1List
+      Value: |
+        <ul>
+            <li>Rated to 250,000 lbs maximum load&nbsp;</li>
+            <li>Provides a total of 6 ft of compensation with the option of 8 and 10 ft upon request&nbsp;</li>
+            <li>Passive system works with 150-gallon accumulator bottle&nbsp;</li>
+            <li>Comes with its own supply of nitrogen&nbsp;</li>
+            <li>Reduce load on wellhead&nbsp;</li>
+            <li>Account for tidal variation</li>
+        </ul>
+        <p>&nbsp;</p>
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190501T184725Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "4d669ee9-9ff5-4c31-a025-56035d1727a1"
+      Hint: column1Headline
+      Value: Features/Benefits
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0fe60006-5f02-400b-9f81-434e8fb5423a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: <p>The Devin&trade; Motion Buster&trade; is a passive compensator that reacts to the motion it encounters and enables equipment to stay in place relative to the seafloor. The stability provided reduces the risk of injury and facilitates operation in difficult conditions. Working with nitrogen (N<sub>2</sub>), the system is easy to operate and increases the safety and efficiency of well intervention projects on rigless floating vessels.</p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190501T184725Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190501T184939Z
+    - ID: "f6afec27-750a-4d77-962d-3ce002b623b9"
+      Hint: column1List
+      Value: |
+        <ul>
+            <li>Rated to 250,000-lb maximum load&nbsp;</li>
+            <li>Provides a total of 6 ft of compensation with the option of 8 and 10 ft upon request&nbsp;</li>
+            <li>Passive system works with 150-gallon accumulator bottle&nbsp;</li>
+            <li>Comes with its own supply of nitrogen&nbsp;</li>
+            <li>Reduce load on wellhead&nbsp;</li>
+            <li>Account for tidal variation</li>
+        </ul>

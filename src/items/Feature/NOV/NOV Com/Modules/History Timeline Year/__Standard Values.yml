@@ -1,0 +1,34 @@
+﻿---
+ID: "1832fa8c-45c2-44d8-aefa-581e45e681f9"
+Parent: "c52e41bd-2350-424d-830e-261036fd174d"
+Template: "c52e41bd-2350-424d-830e-261036fd174d"
+Path: /sitecore/templates/Feature/NOV Com/Modules/History Timeline Year/__Standard Values
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181101T142035Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ashwin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ashwin
+    - ID: "63457259-8a2f-4e28-8a76-9d798367e1e0"
+      Hint: year
+      Value: $name
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9ea463aa-806b-43d1-bdf1-0c8c2d8857aa"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200116T193105Z

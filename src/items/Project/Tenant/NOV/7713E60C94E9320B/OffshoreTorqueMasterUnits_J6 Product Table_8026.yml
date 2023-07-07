@@ -1,0 +1,194 @@
+﻿---
+ID: "45ae0f03-4ae4-47ca-bc09-7105f2612c88"
+Parent: "2248cb5e-6c6a-472e-b2d2-2ab6da59a882"
+Template: "5030864f-eb96-4da7-a417-e5a0108c59f8"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/WBT/Downhole/Offshore TorqueMaster Units/OffshoreTorqueMasterUnits_J6 Product Table_8026
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 150
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190312T153458Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joannazhu
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td>Headstock Design</td>
+                    <td>Hinged Closed</td>
+                </tr>
+                <tr>
+                    <td>Tailstock Design</td>
+                    <td>Fully Closed</td>
+                </tr>
+                <tr>
+                    <td>Headstock Clamp OD Range</td>
+                    <td>3½" – 18"(standard tong die)<br />2½" – 17" (extra tall tong die)</td>
+                </tr>
+                <tr>
+                    <td>Tailstock Clamp OD Range</td>
+                    <td>3¾" – 11¾"(standard tong die)<br />2¾" – 10¾" (extra tall tong die)</td>
+                </tr>
+                <tr>
+                    <td>Make-Up Torque</td>
+                    <td>4,000 ft-lb – 150,000 ft-lb</td>
+                </tr>
+                <tr>
+                    <td>Breakout Torque (max)</td>
+                    <td>190,000 ft-lb</td>
+                </tr>
+                <tr>
+                    <td>Console Operating Pressure</td>
+                    <td>3,200 psi</td>
+                </tr>
+                <tr>
+                    <td>Console Noise Rating</td>
+                    <td>80 dB (A)</td>
+                </tr>
+                <tr>
+                    <td>Base Unit Dimensions (L x W x H)</td>
+                    <td>192" x 61" x 78"(closed) – 192" x 75" x 93" (open)</td>
+                </tr>
+                <tr>
+                    <td>Base Unit Weight (16' bed w/o accessories)</td>
+                    <td>10,750 lb</td>
+                </tr>
+                <tr>
+                    <td>Console Dimensions (L x W x H)</td>
+                    <td>60" x 24" x 45"</td>
+                </tr>
+                <tr>
+                    <td>Console Weight</td>
+                    <td>1,500 lb</td>
+                </tr>
+            </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7e85e8bd-5893-426a-9ae6-03db0b56d826"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: TorqueMaster Model 8026 Unit
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190620T192707Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190620T192732Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td>Headstock design</td>
+                    <td>Hinged closed</td>
+                </tr>
+                <tr>
+                    <td>Tailstock design</td>
+                    <td>Fully closed</td>
+                </tr>
+                <tr>
+                    <td>Headstock clamp OD range</td>
+                    <td>3&frac12; to 18 in. (standard tong die)<br />
+                    2&frac12; to 17 in. (extra tall tong die)</td>
+                </tr>
+                <tr>
+                    <td>Tailstock clamp OD range</td>
+                    <td>3&frac34; to 11&frac34; in. (standard tong die)<br />
+                    2&frac34; to 10&frac34; in. (extra tall tong die)</td>
+                </tr>
+                <tr>
+                    <td>Makeup torque</td>
+                    <td>4,000 to 150,000 ft-lb</td>
+                </tr>
+                <tr>
+                    <td>Breakout torque (max.)</td>
+                    <td>190,000 ft-lb</td>
+                </tr>
+                <tr>
+                    <td>Console operating pressure</td>
+                    <td>3,200 psi</td>
+                </tr>
+                <tr>
+                    <td>Console noise rating</td>
+                    <td>80 dB (A)</td>
+                </tr>
+                <tr>
+                    <td>Base unit dimensions (L &times; W &times; H)</td>
+                    <td>192 &times; 61 &times; 78 in. (closed) to 192 <span>&times;</span> 75 &times; 93 in. (open)</td>
+                </tr>
+                <tr>
+                    <td>Base unit weight (16-ft bed w/o accessories)</td>
+                    <td>10,750 lb</td>
+                </tr>
+                <tr>
+                    <td>Console dimensions (L &times; W &times; H)</td>
+                    <td>60 &times; 24 &times; 45 in.</td>
+                </tr>
+                <tr>
+                    <td>Console weight</td>
+                    <td>1,500 lb</td>
+                </tr>
+            </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "37e846f9-2807-4268-b987-d6b0da7a8753"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: TorqueMaster Model 8026 Unit
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190620T192732Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190620T193235Z

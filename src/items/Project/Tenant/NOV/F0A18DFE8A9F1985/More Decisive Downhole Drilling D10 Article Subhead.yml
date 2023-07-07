@@ -1,0 +1,44 @@
+﻿---
+ID: "a843499a-9395-437f-8b62-b6b347940af0"
+Parent: "5bebd526-c79d-42df-bd58-d2ba63267ae8"
+Template: "035f0fcd-adda-4ce6-a3f6-5467a65ab544"
+Path: /sitecore/content/nov/nov/Data/Modules/Stories/More Decisive Downhole Drilling/More Decisive Downhole Drilling D10 Article Subhead
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191204T215640Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ef7f3006-d17e-4db2-a885-1ffdbe8317e0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20191217T171503Z
+    - ID: "e7321868-d6dc-4955-b788-53ee24cc95ee"
+      Hint: subheadText
+      Value: <p>Directional drilling involves deviating a wellbore in multiple angles to more effectively reach the targeted reservoir. Though this oil and gas practice has been around for nearly a century, new technologies developed in recent years have made it safer, more efficient, and more environmentally friendly, enabling operators to drill faster and farther than ever before. And yet, harsh, abrasive well sections continue to jeopardize the durability of drilling equipment, and tripping pipe operations continue to force unwanted downtime.</p>

@@ -1,0 +1,215 @@
+﻿---
+ID: "30c314d0-a042-4039-acce-63c2862148a2"
+Parent: "fcd4bcbe-99ad-4d49-98d2-531eb3b3f7f5"
+Template: "5030864f-eb96-4da7-a417-e5a0108c59f8"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/RIG/Aftermarket Operations/Rig Equipment Rentals/Rig Equipment Rentals J6 Product Table
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190315T175625Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <thead>
+                <tr>
+                    <th>
+                        Equipment available to rent
+                    </th>
+                    <th>
+                        Models available to rent
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>
+                        Top drives
+                    </td>
+                    <td>
+                        <ul>
+                            <li>TDS-11SA</li>
+                            <li>TDS-10SA</li>
+                            <li>TDS-10SH</li>
+                            <li>TDS-11SH</li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Iron roughnecks
+                    </td>
+                    <td>
+                        <ul>
+                            <li>ST-80</li>
+                            <li>ST-100</li>
+                            <li>AR 3200</li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Flowline, choke, and kill manifolds for offshore
+                    </td>
+                    <td>
+                        <ul>
+                            <li>3 in. 5K throughout</li>
+                            <li>3 in. 10K/4 in. 5K</li>
+                            <li>3 in. 10K/3 in. 5K</li>
+                            <li>3 in. 15K/4 in. 10K</li>
+                            <li>4 in. 15K/4 in. 10K</li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Flowline, choke, and kill manifolds for land
+                    </td>
+                    <td>
+                        <ul>
+                            <li>3 in. 5K</li>
+                            <li>4 in. 10K</li>
+                            <li>4 in. 10K/4 in. 5K</li>
+                            <li>4 in. 15K/3 in. 15K</li>
+                        </ul>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5b7f8afa-f1f7-4ca4-9548-de2695aeac8a"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: Rig Equipment Rental Availability
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190315T183212Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190710T203124Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td>
+                        <b>Equipment available to rent</b>
+                    </td>
+                    <td>
+                        <b>Models available to rent</b>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Top drives
+                    </td>
+                    <td>
+                        <ul>
+                            <li>TDS-11SA</li>
+                            <li>TDS-10SA</li>
+                            <li>TDS-10SH</li>
+                            <li>TDS-11SH</li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Iron roughnecks
+                    </td>
+                    <td>
+                        <ul>
+                            <li>ST-80</li>
+                            <li>ST-100</li>
+                            <li>AR 3200</li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Flowline, choke, and kill manifolds for offshore
+                    </td>
+                    <td>
+                        <ul>
+                            <li>3 in. 5K throughout</li>
+                            <li>3 in. 10K/4 in. 5K</li>
+                            <li>3 in. 10K/3 in. 5K</li>
+                            <li>3 in. 15K/4 in. 10K</li>
+                            <li>4 in. 15K/4 in. 10K</li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Flowline, choke, and kill manifolds for land
+                    </td>
+                    <td>
+                        <ul>
+                            <li>3 in. 5K</li>
+                            <li>4 in. 10K</li>
+                            <li>4 in. 10K/4 in. 5K</li>
+                            <li>4 in. 15K/3 in. 15K</li>
+                        </ul>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "362a260f-8406-4d6f-88ed-8f06f72eb022"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: Rig Equipment Rental Availability
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190710T203124Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190710T203258Z

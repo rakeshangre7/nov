@@ -1,0 +1,333 @@
+﻿---
+ID: "76f16c07-7dfc-462f-adfc-052ea13cb315"
+Parent: "d9cbf2ae-ebc8-4008-94eb-322d82331690"
+Template: "5030864f-eb96-4da7-a417-e5a0108c59f8"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/WBT/WellSite Services/HMA RG Series Agitators/HMA RG Series Agitators J6 Product Table
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190425T182056Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+        <tbody>
+        <tr>
+        <td>
+        <strong>Model </strong>
+        </td>
+        <td>
+        <strong>hp/kW</strong>
+        </td>
+        <td>
+        <strong>Length</strong>
+        </td>
+        <td>
+        <strong>Width </strong>
+        </td>
+        <td>
+        <strong>Height </strong>
+        </td>
+        <td>
+        <strong>Weight (less the shaft and impeller)</strong>
+        </td>
+        </tr>
+        <tr>
+        <td>
+        <strong>HMA-25RG </strong>
+        </td>
+        <td>
+        25 hp (18.6 kW)
+        </td>
+        <td>
+        NEMA: 85¼ in. (2165 mm) IEC: 88½ in. (2248 mm)
+        </td>
+        <td>
+        NEMA: 39 in. (993 mm) IEC: 44 in. (1118 mm)
+        </td>
+        <td>
+        NEMA: 32 in. (813 mm) IEC: 34¼ in. (870 mm)
+        </td>
+        <td>
+        2,250 lb (1020.5 kg)
+        </td>
+        </tr>
+        <tr>
+        <td>
+        <strong>HMA-30RG </strong>
+        </td>
+        <td>
+        30 hp (22.4 kW)
+        </td>
+        <td>
+        NEMA: 88½ in. (2248 mm) IEC: 88½ in. (2248 mm)
+        </td>
+        <td>
+        NEMA: 44 in. (1118 mm) IEC: 44 in. (1118 mm)
+        </td>
+        <td>
+        NEMA: 31¾ in. (806 mm) IEC: 28½ in. (724 mm)
+        </td>
+        <td>
+        2,950 lb (1338.1 kg)
+        </td>
+        </tr>
+        <tr>
+        <td>
+        <strong>HMA-40RG </strong>
+        </td>
+        <td>
+        40 hp (30 kW)
+        </td>
+        <td>
+        NEMA: 88½ in. (2248 mm) IEC: 88½ in. (2248 mm)
+        </td>
+        <td>
+        NEMA: 44 in. (1118 mm) IEC: 44 in. (1118 mm)
+        </td>
+        <td>
+        NEMA: 29 in. (735 mm) IEC: 34¼ in. (870 mm)
+        </td>
+        <td>
+        3,300 lb (1497 kg)
+        </td>
+        </tr>
+        <tr>
+        <td>
+        <strong>HMA-50RG </strong>
+        </td>
+        <td>
+        50 hp (37.3 kW)
+        </td>
+        <td>
+        NEMA: 88½ in. (2248 mm) IEC: 88½ in. (2248 mm)
+        </td>
+        <td>
+        NEMA: 44 in. (1118 mm) IEC: 44 in. (1118 mm)
+        </td>
+        <td>
+        NEMA: 28½ in. (724 mm) IEC: 35¾ in. (907 mm)
+        </td>
+        <td>
+        3,300 lb (1497 kg)
+        </td>
+        </tr>
+        <tr>
+        <td>
+        <strong>HMA-75RG </strong>
+        </td>
+        <td>
+        75 hp (55.59 kW)
+        </td>
+        <td>
+        NEMA: 90½ in. (2301 mm) IEC: 96½ in. (2451 mm)
+        </td>
+        <td>
+        NEMA: 42½ in. (1079 mm) IEC: 44½ in. (1127 mm)
+        </td>
+        <td>
+        NEMA: 63½ in. (1613 mm) IEC: 42½ in. (1078 mm)
+        </td>
+        <td>
+        5,500 lb (2495 kg)
+        </td>
+        </tr>
+        </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d321d2b3-497a-4251-8829-a9e6a6b5cc5a"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: Specifications and Dimensions
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190425T184015Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190718T140254Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+        <tbody>
+        <tr>
+        <td>
+        <strong>Model </strong>
+        </td>
+        <td>
+        <strong>hp/kW</strong>
+        </td>
+        <td>
+        <strong>Length</strong>
+        </td>
+        <td>
+        <strong>Width </strong>
+        </td>
+        <td>
+        <strong>Height </strong>
+        </td>
+        <td>
+        <strong>Weight (less the shaft and impeller)</strong>
+        </td>
+        </tr>
+        <tr>
+        <td>
+        <strong>HMA-25RG </strong>
+        </td>
+        <td>
+        25 hp (18.6 kW)
+        </td>
+        <td>
+        NEMA: 85¼ in. (2165 mm) IEC: 88½ in. (2248 mm)
+        </td>
+        <td>
+        NEMA: 39 in. (993 mm) IEC: 44 in. (1118 mm)
+        </td>
+        <td>
+        NEMA: 32 in. (813 mm) IEC: 34¼ in. (870 mm)
+        </td>
+        <td>
+        2,250 lb (1020.5 kg)
+        </td>
+        </tr>
+        <tr>
+        <td>
+        <strong>HMA-30RG </strong>
+        </td>
+        <td>
+        30 hp (22.4 kW)
+        </td>
+        <td>
+        NEMA: 88½ in. (2248 mm) IEC: 88½ in. (2248 mm)
+        </td>
+        <td>
+        NEMA: 44 in. (1118 mm) IEC: 44 in. (1118 mm)
+        </td>
+        <td>
+        NEMA: 31¾ in. (806 mm) IEC: 28½ in. (724 mm)
+        </td>
+        <td>
+        2,950 lb (1338.1 kg)
+        </td>
+        </tr>
+        <tr>
+        <td>
+        <strong>HMA-40RG </strong>
+        </td>
+        <td>
+        40 hp (30 kW)
+        </td>
+        <td>
+        NEMA: 88½ in. (2248 mm) IEC: 88½ in. (2248 mm)
+        </td>
+        <td>
+        NEMA: 44 in. (1118 mm) IEC: 44 in. (1118 mm)
+        </td>
+        <td>
+        NEMA: 29 in. (735 mm) IEC: 34¼ in. (870 mm)
+        </td>
+        <td>
+        3,300 lb (1497 kg)
+        </td>
+        </tr>
+        <tr>
+        <td>
+        <strong>HMA-50RG </strong>
+        </td>
+        <td>
+        50 hp (37.3 kW)
+        </td>
+        <td>
+        NEMA: 88½ in. (2248 mm) IEC: 88½ in. (2248 mm)
+        </td>
+        <td>
+        NEMA: 44 in. (1118 mm) IEC: 44 in. (1118 mm)
+        </td>
+        <td>
+        NEMA: 28½ in. (724 mm) IEC: 35¾ in. (907 mm)
+        </td>
+        <td>
+        3,300 lb (1497 kg)
+        </td>
+        </tr>
+        <tr>
+        <td>
+        <strong>HMA-75RG </strong>
+        </td>
+        <td>
+        75 hp (55.59 kW)
+        </td>
+        <td>
+        NEMA: 90½ in. (2301 mm) IEC: 96½ in. (2451 mm)
+        </td>
+        <td>
+        NEMA: 42½ in. (1079 mm) IEC: 44½ in. (1127 mm)
+        </td>
+        <td>
+        NEMA: 63½ in. (1613 mm) IEC: 42½ in. (1078 mm)
+        </td>
+        <td>
+        5,500 lb (2495 kg)
+        </td>
+        </tr>
+        </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4da6717b-7204-473d-96b5-0aa964b7cdd7"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: "HMA-RG Series Agitator Specifications"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190718T140254Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190718T140506Z

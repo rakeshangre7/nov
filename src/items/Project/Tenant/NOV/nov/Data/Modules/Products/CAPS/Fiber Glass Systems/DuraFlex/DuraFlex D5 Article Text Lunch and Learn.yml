@@ -1,0 +1,53 @@
+﻿---
+ID: "b66ce15d-6071-4be7-8a25-c8c11ab55c51"
+Parent: "9353f7aa-483b-4e1b-93e2-bc0f4e003d66"
+Template: "07c63710-4422-42b9-adb7-67b4bad63607"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/CAPS/Fiber Glass Systems/DuraFlex/DuraFlex D5 Article Text Lunch and Learn
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "0f10eefb-f9da-4b41-83a0-87900c4e25ed"
+      Hint: body
+      Value: |
+        <h2>Lunch and Learn Meeting</h2>
+        <p>Interested in scheduling a lunch and learn meeting? Join us as we walk you through the many features and benefits DuraFlex&trade; has to offer during lunch and an educational meeting. </p>
+        <p>Schedule a lunch and learn meeting with us today.</p>
+        <style>
+            .D5-article-text {text-align: center;}
+        </style>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200506T202801Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{37CE6828-491E-4AF1-A858-254564BEE5B8}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1b49a989-6208-4b01-9d0b-1c2917bffc60"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200510T022311Z
+    - ID: "e4965b05-120c-4b0a-b5c7-60e1ebdf07cd"
+      Hint: ctaLink
+      Value: "<link text='Schedule' linktype='mailto' style='' url='mailto:Christopher.Makselon@nov.com?subject=I%20want%20to%20schedule%20a%20DuraFlex%20lunch%20and%20learn%20meeting!&amp;body=I%20would%20like%20to%20learn%20more%20about%20how%20DuraFlex,%20the%20next-generation%20composite%20spoolable%20pipe,%20can%20help%20me%20reduce%20costs%20and%20improve%20reliability.%20Contact%20me%20to%20schedule%20a%20lunch%20and%20learn%20meeting.'  title='' />"

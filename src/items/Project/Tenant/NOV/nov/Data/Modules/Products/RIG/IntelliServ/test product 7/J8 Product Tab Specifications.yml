@@ -1,0 +1,48 @@
+﻿---
+ID: "91cb395f-8eb8-4e73-8195-93df44329875"
+Parent: "e6c0350a-1d05-4a76-88c2-78f9fe9b73eb"
+Template: "2659cddc-79d0-4767-8a68-fbd97433c99c"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/RIG/IntelliServ/test product 7/J8 Product Tab Specifications
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 5600
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181214T112458Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{37CE6828-491E-4AF1-A858-254564BEE5B8}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mathias
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mathias
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d76b580d-d418-46b0-bb84-7e80dc8022c0"
+    - ID: "92baba32-70f6-4863-ada1-18b60b45d8c4"
+      Hint: label
+      Value: Specifications
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190311T220336Z
+    - ID: "f2769814-e81b-4b30-b4d8-a513a8d035d7"
+      Hint: icon
+      Value: |
+        <image mediaid="{CAFE38D7-F9F3-4DFB-BDAD-6986E592A1AB}" cropregion="0,0,72,72" ratio="44:44" width="44" height="44" />

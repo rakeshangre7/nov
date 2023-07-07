@@ -1,0 +1,51 @@
+﻿---
+ID: "801eb328-eaaf-4f55-9b16-68f5f1e6e03b"
+Parent: "bfbb4e83-8f5e-4458-9617-dfc460feec16"
+Template: "5c70ee4b-1d66-41d1-a671-1cd882733bf5"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/CAPS/Completion Tools/Drill Pipe Darts/Drill Pipe Dart with Wiper Ball/B6 Product Hero
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190322T144141Z
+    - ID: "3bb32c55-8204-4e4c-bc91-26197822ead5"
+      Hint: image
+      Value: |
+        <image mediaid="{9465A1EE-EA01-4782-8690-1D6A77995B15}" cropregion="0,180,1920,1260" ratio="1920:1080" width="1920" height="1080" />
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticmpetersen
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\verticmpetersen
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "04d96ae7-fd56-4a92-a50a-976927ed026c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\verticmpetersen
+    - ID: "c722b334-9504-41e1-bcf9-d58e5646dd0c"
+      Hint: subheading
+      Value: <p>Drill pipe darts (DPD) separate the cement column in the drill string and activate and release the wiper plugs.</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190322T144940Z
+    - ID: "fe09ae44-5f98-442e-9b46-c524724c0c38"
+      Hint: heading
+      Value: Drill Pipe Darts with Wiper Ball

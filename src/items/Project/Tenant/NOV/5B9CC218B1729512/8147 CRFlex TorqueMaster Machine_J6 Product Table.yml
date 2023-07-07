@@ -1,0 +1,59 @@
+﻿---
+ID: "c5a350db-4c9b-452d-87e4-49f8dc94d2c7"
+Parent: "e75fd346-c595-4573-ad20-4476b1d1ab9e"
+Template: "5030864f-eb96-4da7-a417-e5a0108c59f8"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/WBT/Downhole/8147 CRFlex TorqueMaster Machine/8147 CRFlex TorqueMaster Machine_J6 Product Table
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190620T205207Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joannazhu
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+        <tbody>
+         <tr><td>Chucking capacity</td><td>2⅜- to 18-in. headstock and tailstock</td></tr>
+         <tr><td>Low center working height</td><td>Chuck is 47¼ in. above the bed and hose chain.</td></tr>
+         <tr><td>Make/break torque</td><td>1,000 to 100,000 lb-ft capacity</td></tr>
+         <tr><td>Center clamping distance</td><td>9 in.</td></tr>
+         <tr><td>Revolutions per minute range</td><td>0.5 to 3 rpm while logging, 5 rpm max.</td></tr>
+         <tr><td>Power requirements</td><td>35 kW full load</td></tr>
+         <tr><td>Bed length</td><td>21 ft, 18 ft, 15 ft, 12 ft standard (inquire for different sizes)</td></tr>
+         <tr><td>Accessories</td><td>Up to four jacks can be applied on the headstock beam, tailstock beam, or on the bed</td></tr>
+         <tr><td>HPU noise rating (idle)</td><td>70 dB (from 3 ft)</td></tr>
+        </tbody></table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bcee1ea4-fb64-4eaa-bd37-232a59f32d0d"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: CRFLex TorqueMaster Machine Specifications
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\joannazhu
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190620T212620Z

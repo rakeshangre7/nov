@@ -1,0 +1,714 @@
+﻿---
+ID: "2306a400-fc3f-4088-8e35-a11da6ad2167"
+Parent: "f11be422-58a0-43f8-88ef-78de1f2e7729"
+Template: "07c63710-4422-42b9-adb7-67b4bad63607"
+Path: /sitecore/content/nov/nov/Data/Modules/Miscellaneous/Device and Network Protection/Device and network protection D5 Article Text
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "0f10eefb-f9da-4b41-83a0-87900c4e25ed"
+      Hint: body
+      Value: |
+        <p>sThe resources you find listed below contain some of NOV&rsquo;s IT Security staff favorite recommendations. We hope you find them helpful.&nbsp; We have tried to make the recommendations as useful and reliable as possible. However, the purpose of this resources page is to provide NOV employees with general guidance and useful tips only. It does not necessarily deal with every important topic or cover every aspect of the topics with which it deals and might not be relevant or appropriate in all circumstances. It is not designed to provide professional advice and should not be relied on as such. If in any doubt, you should consult an appropriately qualified expert for specific advice before acting on any of the information or recommendations contained on this resources page. By providing this page, NOV disclaims all liability (including direct and indirect damages or injury) for your use of the information or opinions expressed on this resources page.</p>
+        <h2>Device and Network Protection</h2>
+        <p>Most households now run networks of devices linked to the Internet, including computers, laptops, gaming devices, TVs, tablets, and smartphones that access wireless networks. To protect your home network and your family, you need to have the right tools in place and confidence that family members can use the Internet safely and securely.</p>
+        <h4>Antivirus</h4>
+        <a href="https://support.microsoft.com/en-us/help/14210/security-essentials-download">Windows </a>- free Microsoft Antivirus
+        <a href="https://home.sophos.com/en-us/download-mac-anti-virus.aspx">Mac</a> - free Sophos Antivirus
+        <h4>Backup</h4>
+        To avoid losing all of your information, make backups of important information and store the backups in a separate location. Not only will you still be able to access the information, but you'll be able to identify and report exactly what information is at risk.<br />
+        <br />
+        <a href="https://www.us-cert.gov/ncas/tips/ST04-003">Back up all of your data</a><br />
+        <a href="https://support.microsoft.com/en-us/help/17127/windows-back-up-restore">Back up Windows</a>&nbsp;<br />
+        <a href="https://support.apple.com/mac-backup">Back up Mac OS X</a><br />
+        <h4>Firewall</h4>
+        <a href="https://www.us-cert.gov/ncas/tips/ST04-004">Keep your firewall turned on</a>&nbsp;<br />
+        <a href="https://support.microsoft.com/en-us/help/17228/windows-protect-my-pc-from-viruses">Turn on firewall in Windows</a><br />
+        <a href="https://support.apple.com/en-us/HT201642">Turn on firewall in Mac OS X</a>
+        <h4>
+        Web Filtering</h4>
+        <p>
+        <em><a href="https://www.opendns.com/home-internet-security/">OpenDNS</a><br />
+        </em>Provides a cloud-delivered network security service that delivers automated protection against attacks for any device, anywhere.</p>
+        <em><a href="https://support.microsoft.com/en-us/help/17443/windows-internet-explorer-smartscreen-filter-faq">SmartScreen</a></em><br />
+        In Internet Explorer you can turn on or off the smartscreen functionality for web filtering.<br />
+        <br />
+        <a href="https://support.symantec.com/en_US/K9WebProtection.html"><em>K9</em></a>
+        <br />
+        This another software for parental control. K9 is free for home use:<br />
+        <br />
+        <em><a href="https://www.mywot.com/en/download">Web of Trust (WOT)</a></em>
+        <br />
+        Browser add-on shows you which websites you can trust based on millions of users&rsquo; experiences around the world to help you stay safe when you search, surf, and shop online.&nbsp;
+        <h4>
+        Patching</h4>
+        Mistakes, bugs, and vulnerabilities happen and need to be fixed.&nbsp; Always make sure you are using the latest version.<br />
+        <a href="https://support.microsoft.com/en-us/help/12373/windows-update-faq">Turn on Auto-updating for Windows</a>
+        <br />
+        <br />
+        For other Windows applications, consider the following:
+        <br />
+        <a href="https://filehippo.com/download_app_manager">http://www.filehippo.com/updatechecker/</a>
+        <br />
+        <br />
+        <a href="https://support.apple.com/en-us/HT201541">Turn on Auto-updating for Mac OS X in System Preferences</a> (or App Store)
+        <br />
+        <br />
+        <a href="https://support.apple.com/en-us/HT204204">How to update the iOS Operating System<br />
+        </a>
+        <a href="https://support.apple.com/en-us/HT202180">How to enable automatic updates to iOS Applications<br />
+        <br />
+        </a>
+        <a href="https://support.google.com/googleplay/answer/113412?hl=en">How to enable automatic updates to Android Applications<br />
+        </a>
+        <a href="https://www.att.com/devicehowto/dsm.html#!/">Android updates for AT&amp;T devices</a>
+        <a href="https://support.sprint.com/support/devicelistpage">Android updates for Sprint devices</a>
+        <a href="https://support.t-mobile.com/community/phones-tablets-devices#android/">Android updates for T-Mobile devices<br />
+        </a>
+        <a href="https://www.verizonwireless.com/support/software-updates/">Android updates for Verizon devices</a>
+        <h4>
+        Wireless</h4>
+        <p>
+        Change the name of your router<br />
+        The default ID - called a service set identifier&rdquo; (SSID) or &ldquo;extended service set identifier&rdquo; (ESSID ) &ndash; is assigned by the manufacturer. Change your router to a name that is unique to you and won&rsquo;t be easily guessed by others.<br />
+        <br />
+        Change the pre-set password on your router<br />
+        When creating a new password, make sure it is long and strong, using a mix of numbers, letters and symbols.<br />
+        <br />
+        Review security options<br />
+        When choosing your router&rsquo;s level of security, opt for WPA2, if available, or WPA. They are more secure than the WEP option.<br />
+        <a href="https://lifehacker.com/how-to-stay-safe-on-public-wi-fi-networks-5576927">How to Stay Safe on Public Wi-Fi Networks</a>&nbsp;</p>
+        <h2>Identity and Privacy Protection</h2>
+        <p>Though companies, email providers and retailers should take on responsibility to respect privacy and safeguard data, individuals can protect their personal information in the following ways:&nbsp;</p>
+        <h4>Passwords</h4>
+        <a href="https://support.microsoft.com/en-us/hub/4338813/windows-help?os=windows-10">Passwords</a> provide the first line of defense against unauthorized access to your computer. You should make sure you have strong passwords for all accounts on your computer.&nbsp;
+        Recommended Password Managers:&nbsp; &nbsp;<a href="https://1password.com/sign-up/">1Password&nbsp;</a> |&nbsp; &nbsp;<a href="https://www.lastpass.com/hp">LastPass<br />
+        </a>
+        <h4>Get Two Steps Ahead</h4>
+        <p>Switch on two-step verification or multi-factor authentication wherever offered to prevent unauthorized access.</p>
+        <p>
+        <a href="https://support.apple.com/en-us/HT204152">Apple</a> - All Apple services such as AppleID, iTunes, iCloud, iMessage, etc.<br />
+        <a href="https://www.bankofamerica.com/privacy/faq/safepass-faq.go">Bank of America</a> - Bank of America account<br />
+        <a href="http://www.citibank.com/transactionservices/home/region/university/docs/QRC_MFA_Login_110813.pdf">CitiBank</a> - CitiBank account<br />
+        <a href="https://help.dropbox.com/security/enable-two-step-verification">Dropbox</a> - Dropbox account<br />
+        <a href="https://us.etrade.com/landing/secureid_enter">eTrade</a> - eTrade account<br />
+        <a href="https://evernote.com/blog/">Evernote</a> - For both free and premium accounts<br />
+        <a href="https://www.facebook.com/note.php?note_id=10150172618258920">Facebook</a> - Facebook account<br />
+        <a href="https://www.google.com/landing/2step/">Google</a> - All Google services such as GMail, Drive, Google+, etc.<br />
+        <a href="https://www.linkedin.com/help/linkedin/answer/544?lang=en">LinkedIn </a>- LinkedIn account<br />
+        <a href="https://support.microsoft.com/en-us/help/12408/microsoft-account-how-to-use-two-step-verification">Microsoft</a> - Microsoft services such as Outlook.com, Hotmail, Skype, OneDrive, etc.<br />
+        <a href="https://blog.twitter.com/official/en_us/a/2013/getting-started-with-login-verification.html">Twitter</a> - Twitter account<br />
+        <a href="https://www.usaa.com/inet/pages/security_token_logon_options?akredirect=true#tab2">USAA </a>- USAA account<br />
+        <a href="https://www.lifewire.com/two-step-authentication-yahoo-1174470">Yahoo!</a> - Yahoo! mail account<br />
+        <a href="https://twofactorauth.org/">Everyone Else</a> - A website that has compiled all known services that offer Two-Factor</p>
+        <h4>Think Before You Act</h4>
+        <p>Phishing</p>
+        <p>
+        Be wary of <a href="https://support.microsoft.com/en-us/help/4033787/windows-protect-yourself-from-phishing">phishing </a>-- communications that implore you to act immediately, offer something that sounds too <br />
+        good to be true or ask for personal information.</p>
+        <p><span style="font-weight: 600; letter-spacing: 0px; font-size: 24px; color: #000000;">Hoaxes</span></p>
+        <p>
+        Always check to make sure amazing stories or offers are true before taking any action.<br />
+        <a href="https://www.snopes.com/">Snopes</a> gives information on urban legends, common fallacies, misinformation, old wives' tales, strange news stories, rumors, celebrity gossip, and similar items.<br />
+        <a href="https://www.thoughtco.com/urban-legends-4132595">About.com</a> compiles urban legend information.<br />
+        <a rel="noopener noreferrer" rel="noopener noreferrer" href="https://www.truthorfiction.com/" target="_blank">TruthorFiction</a> exposes the truth on various claims.</p>
+        <h4>Share With Care</h4>
+        <p>Set privacy and security settings on web services and devices to your comfort level for <a href="https://www.socialmediaexaminer.com/social-media-privacy-settings/">information sharing</a>. It&rsquo;s okay to limit how and with whom you share information.&nbsp;&nbsp;</p>
+        <h2>Training</h2>
+        <h4>Internet</h4>
+        <p>General knowledge about Internet security that's relevant:<br />
+        <a href="https://www.stopthinkconnect.org/">http://www.stopthinkconnect.org/</a></p>
+        <p>Good place to know about high level cyber security related information:<br />
+        https://www.us-cert.gov/security-publications</p>
+        <p>Home network security:<br />
+        https://www.us-cert.gov/Home-Network-Security</p>
+        <p>Be safe and social:<br />
+        https://www.privacyrights.org/social-networking-privacy-how-be-safe-secure-and-social</p>
+        <p>Place that you can learn about cyber bullying. This is very important information to know and to teach our next generation:<br />
+        https://www.isc2cares.org/safe-and-secure/</p>
+        <p>What is Two-Factor or Two-Step Verification:<br />
+        https://www.youtube.com/watch?v=zMabEyrtPRg</p>
+        <h4>Least Privilege Principle</h4>
+        <p>Practice the principle of least privilege. Do not log into a computer with administrator rights unless you must do so to perform specific tasks.   </p>
+        <p>http://en.wikipedia.org/wiki/Principle_of_least_privilege</p>
+        <h4>Free Security Check Ups</h4>
+        <p>Many computer security vendors offer free computer security checks for your computer. Visit a link below to check your computer for known viruses, spyware, and more and discover if your computer is vulnerable to cyber attacks.</p>
+        <p><a href="https://discover.aol.com/products-and-services">AOL Computer Checkup</a><br />
+        <a href="https://www.auditmypc.com/">Audit My PC</a><br />
+        <a href="https://www.avast.com/index#pc">avast! Free Antivirus (for PCs)</a><br />
+        <a href="https://www.avast.com/free-mobile-security">avast! Mobile Security (for Android)</a><br />
+        <a href="https://www.avg.com/en-us/free-antivirus-download">AVG AntiVirus FREE 2015</a><br />
+        <a href="https://www.bitdefender.com/toolbox/">Bitdefender</a><br />
+        <a href="https://www.eset.com/us/home/online-scanner/">ESET Online Scanner</a><br />
+        <a href="https://usa.kaspersky.com/free-virus-scan">Kaspersky Virus Scanner</a><br />
+        <a href="https://home.mcafee.com/downloads/free-virus-scan">McAfee Security Scan</a><br />
+        <a href="https://docs.microsoft.com/en-us/windows/security/threat-protection/intelligence/safety-scanner-download">Microsoft Safety Scanner</a><br />
+        <a href="https://purecloud.ncircle.com/accounts/login/?next=/home/%3Fncsa">nCircle PureCloud Vulnerability Scanner</a><br />
+        <a href="https://www.pandasecurity.com/usa/homeusers/solutions/online-antivirus/?ref=activescan">Panda Security Antivirus Scan</a><br />
+        <a href="https://browsercheck.qualys.com/">Qualys Browser Check</a><br />
+        <a href="https://www.qualys.com/free-trial/#/mds">QualysGuard Malware Protection</a><br />
+        <a href="https://www.flexera.com/products/operations/software-vulnerability-manager.html">Secunia PSI</a><br />
+        <a href="https://www.sophos.com/en-us/products/free-tools.aspx">Sophos Free Security Tools</a><br />
+        <a href="https://www.trendmicro.com/en_us/business.html">Trend Micro Security Assessment</a><br />
+        <a href="https://www.vipre.com/vipre-home-protection/">Vipre Internet Security 2013</a><br />
+        <a href="https://www.webroot.com/us/en/home/products-spysweeper">Webroot Secure Anywhere Antivirus</a>&nbsp;&nbsp;</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190506T133726Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "70d0b4b8-3110-42dc-b738-c2490793a123"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190506T163312Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "0f10eefb-f9da-4b41-83a0-87900c4e25ed"
+      Hint: body
+      Value: |
+        <p>The resources you find listed below contain some of NOV&rsquo;s IT Security staff favorite recommendations. We hope you find them helpful.&nbsp; We have tried to make the recommendations as useful and reliable as possible. However, the purpose of this resources page is to provide NOV employees with general guidance and useful tips only. It does not necessarily deal with every important topic or cover every aspect of the topics with which it deals and might not be relevant or appropriate in all circumstances. It is not designed to provide professional advice and should not be relied on as such. If in any doubt, you should consult an appropriately qualified expert for specific advice before acting on any of the information or recommendations contained on this resources page. By providing this page, NOV disclaims all liability (including direct and indirect damages or injury) for your use of the information or opinions expressed on this resources page.</p>
+        <h3>Device and Network Protection</h3>
+        <p>Most households now run networks of devices linked to the Internet, including computers, laptops, gaming devices, TVs, tablets, and smartphones that access wireless networks. To protect your home network and your family, you need to have the right tools in place and confidence that family members can use the Internet safely and securely.</p>
+        <h5>Antivirus</h5>
+        <p><a href="https://support.microsoft.com/en-us/help/14210/security-essentials-download">Windows </a>- free Microsoft Antivirus
+        <a href="https://home.sophos.com/en-us/download-mac-anti-virus.aspx">Mac</a> - free Sophos Antivirus
+        </p>
+        <h5>Backup</h5>
+        <p>
+        To avoid losing all of your information, make backups of important information and store the backups in a separate location. Not only will you still be able to access the information, but you'll be able to identify and report exactly what information is at risk.<br />
+        <br />
+        <a href="https://www.us-cert.gov/ncas/tips/ST04-003">Back up all of your data</a><br />
+        <a href="https://support.microsoft.com/en-us/help/17127/windows-back-up-restore">Back up Windows</a>&nbsp;<br />
+        <a href="https://support.apple.com/mac-backup">Back up Mac OS X</a></p>
+        <h5>Firewall</h5>
+        <p><a href="https://www.us-cert.gov/ncas/tips/ST04-004">Keep your firewall turned on</a>&nbsp;<br />
+        <a href="https://support.microsoft.com/en-us/help/17228/windows-protect-my-pc-from-viruses">Turn on firewall in Windows</a><br />
+        <a href="https://support.apple.com/en-us/HT201642">Turn on firewall in Mac OS X</a>
+        </p>
+        <h5>
+        Web Filtering</h5>
+        <p>
+        </p>
+        <p><em><a href="https://www.opendns.com/home-internet-security/">OpenDNS</a><br />
+        </em>Provides a cloud-delivered network security service that delivers automated protection against attacks for any device, anywhere.</p>
+        <p><em><a href="https://support.microsoft.com/en-us/help/17443/windows-internet-explorer-smartscreen-filter-faq">SmartScreen</a>&nbsp;<br />
+        </em>In Internet Explorer you can turn on or off the smartscreen functionality for web filtering.</p>
+        <p>
+        <a href="https://support.symantec.com/en_US/K9WebProtection.html"><em>K9</em></a>
+        <br />
+        This another software for parental control. K9 is free for home use:</p>
+        <p>
+        <em><a href="https://www.mywot.com/en/download">Web of Trust (WOT)</a></em>
+        <br />
+        Browser add-on shows you which websites you can trust based on millions of users&rsquo; experiences around the world to help you stay safe when you search, surf, and shop online.&nbsp;
+        </p>
+        <p>&nbsp;</p>
+        <h5>
+        Patching</h5>
+        <p>
+        Mistakes, bugs, and vulnerabilities happen and need to be fixed.&nbsp; Always make sure you are using the latest version.<br />
+        <a href="https://support.microsoft.com/en-us/help/12373/windows-update-faq">Turn on Auto-updating for Windows</a>
+        <br />
+        <br />
+        For other Windows applications, consider the following:
+        <br />
+        <a href="https://filehippo.com/download_app_manager">http://www.filehippo.com/updatechecker/</a>
+        <br />
+        <br />
+        <a href="https://support.apple.com/en-us/HT201541">Turn on Auto-updating for Mac OS X in System Preferences</a> (or App Store)
+        <br />
+        <br />
+        <a href="https://support.apple.com/en-us/HT204204">How to update the iOS Operating System<br />
+        </a>
+        <a href="https://support.apple.com/en-us/HT202180">How to enable automatic updates to iOS Applications<br />
+        <br />
+        </a>
+        <a href="https://support.google.com/googleplay/answer/113412?hl=en">How to enable automatic updates to Android Applications<br />
+        </a>
+        <a href="https://www.att.com/devicehowto/dsm.html#!/">Android updates for AT&amp;T devices</a>
+        <a href="https://support.sprint.com/support/devicelistpage">Android updates for Sprint devices</a>
+        <a href="https://support.t-mobile.com/community/phones-tablets-devices#android/">Android updates for T-Mobile devices<br />
+        </a>
+        <a href="https://www.verizonwireless.com/support/software-updates/">Android updates for Verizon devices</a>
+        </p>
+        <h5>
+        Wireless</h5>
+        <p><strong>
+        Change the name of your router</strong><br />
+        The default ID - called a service set identifier&rdquo; (SSID) or &ldquo;extended service set identifier&rdquo; (ESSID ) &ndash; is assigned by the manufacturer. Change your router to a name that is unique to you and won&rsquo;t be easily guessed by others.<br />
+        <br />
+        <strong>
+        Change the pre-set password on your router</strong><br />
+        When creating a new password, make sure it is long and strong, using a mix of numbers, letters and symbols.<br />
+        <br />
+        <strong>
+        Review security options</strong><br />
+        When choosing your router&rsquo;s level of security, opt for WPA2, if available, or WPA. They are more secure than the WEP option.&nbsp;<a href="https://lifehacker.com/how-to-stay-safe-on-public-wi-fi-networks-5576927">How to Stay Safe on Public Wi-Fi Networks</a>&nbsp;</p>
+        <p><strong>Identity and Privacy Protection<br />
+        </strong>Though companies, email providers and retailers should take on responsibility to respect privacy and safeguard data, individuals can protect their personal information in the following ways:&nbsp;</p>
+        <h5>Passwords</h5>
+        <p><a href="https://support.microsoft.com/en-us/hub/4338813/windows-help?os=windows-10">Passwords</a> provide the first line of defense against unauthorized access to your computer. You should make sure you have strong passwords for all accounts on your computer.&nbsp;
+        Recommended Password Managers:&nbsp; &nbsp;<a href="https://1password.com/sign-up/">1Password&nbsp;</a> |&nbsp; &nbsp;<a href="https://www.lastpass.com/hp">LastPass<br />
+        </a>
+        </p>
+        <h5>Get Two Steps Ahead</h5>
+        <p>Switch on two-step verification or multi-factor authentication wherever offered to prevent unauthorized access.</p>
+        <p>
+        </p>
+        <p><a href="https://support.apple.com/en-us/HT204152">Apple</a> - All Apple services such as AppleID, iTunes, iCloud, iMessage, etc.<br />
+        <a href="https://www.bankofamerica.com/privacy/faq/safepass-faq.go">Bank of America</a> - Bank of America account<br />
+        <a href="http://www.citibank.com/transactionservices/home/region/university/docs/QRC_MFA_Login_110813.pdf">CitiBank</a> - CitiBank account<br />
+        <a href="https://help.dropbox.com/security/enable-two-step-verification">Dropbox</a> - Dropbox account<br />
+        <a href="https://us.etrade.com/landing/secureid_enter">eTrade</a> - eTrade account<br />
+        <a href="https://evernote.com/blog/">Evernote</a> - For both free and premium accounts<br />
+        <a href="https://www.facebook.com/note.php?note_id=10150172618258920">Facebook</a> - Facebook account<br />
+        <a href="https://www.google.com/landing/2step/">Google</a> - All Google services such as GMail, Drive, Google+, etc.<br />
+        <a href="https://www.linkedin.com/help/linkedin/answer/544?lang=en">LinkedIn </a>- LinkedIn account<br />
+        <a href="https://support.microsoft.com/en-us/help/12408/microsoft-account-how-to-use-two-step-verification">Microsoft</a> - Microsoft services such as Outlook.com, Hotmail, Skype, OneDrive, etc.<br />
+        <a href="https://blog.twitter.com/official/en_us/a/2013/getting-started-with-login-verification.html">Twitter</a> - Twitter account<br />
+        <a href="https://www.usaa.com/inet/pages/security_token_logon_options?akredirect=true#tab2">USAA </a>- USAA account<br />
+        <a href="https://www.lifewire.com/two-step-authentication-yahoo-1174470">Yahoo!</a> - Yahoo! mail account<br />
+        <a href="https://twofactorauth.org/">Everyone Else</a> - A website that has compiled all known services that offer Two-Factor</p>
+        <h5>Think Before You Act</h5>
+        <p><strong>Phishing</strong></p>
+        <p>
+        Be wary of <a href="https://support.microsoft.com/en-us/help/4033787/windows-protect-yourself-from-phishing">phishing </a>- communications that implore you to act immediately, offer something that sounds too <br />
+        good to be true or ask for personal information.</p>
+        <p><strong>Hoaxes</strong></p>
+        <p>
+        Always check to make sure amazing stories or offers are true before taking any action.<br />
+        <a href="https://www.snopes.com/">Snopes</a> gives information on urban legends, common fallacies, misinformation, old wives' tales, strange news stories, rumors, celebrity gossip, and similar items.<br />
+        <a href="https://www.thoughtco.com/urban-legends-4132595">About.com</a> compiles urban legend information.<br />
+        <a rel="noopener noreferrer" rel="noopener noreferrer" href="https://www.truthorfiction.com/" target="_blank">TruthorFiction</a> exposes the truth on various claims.</p>
+        <h5>Share With Care</h5>
+        <p>Set privacy and security settings on web services and devices to your comfort level for <a href="https://www.socialmediaexaminer.com/social-media-privacy-settings/">information sharing</a>. It&rsquo;s okay to limit how and with whom you share information.&nbsp;&nbsp;</p>
+        <h2>Training</h2>
+        <h5>Internet</h5>
+        <p><a href="http://www.stopthinkconnect.org/">General knowledge about Internet security that's relevant<br />
+        </a><a href="https://www.us-cert.gov/security-publications">Good place to know about high level cyber security related information<br />
+        </a><a href="https://www.us-cert.gov/Home-Network-Security">Home network security<br />
+        </a><a href="https://www.privacyrights.org/social-networking-privacy-how-be-safe-secure-and-social">Be safe and social<br />
+        </a><a href="https://www.isc2cares.org/safe-and-secure/">Place that you can learn about cyber bullying. This is very important information to know and to teach our next generation.<br />
+        </a><a href="https://www.youtube.com/watch?v=zMabEyrtPRg">What is Two-Factor or Two-Step Verification?</a></p>
+        <h5>Least Privilege Principle</h5>
+        <p>Practice the <a href="http://en.wikipedia.org/wiki/Principle_of_least_privilege">principle of least privilege</a>. Do not log into a computer with administrator rights unless you must do so to perform specific tasks.</p>
+        <h5>Free Security Check Ups</h5>
+        <p>Many computer security vendors offer free computer security checks for your computer. Visit a link below to check your computer for known viruses, spyware, and more and discover if your computer is vulnerable to cyber attacks.</p>
+        <p><a href="https://discover.aol.com/products-and-services">AOL Computer Checkup</a><br />
+        <a href="https://www.auditmypc.com/">Audit My PC</a><br />
+        <a href="https://www.avast.com/index#pc">avast! Free Antivirus (for PCs)</a><br />
+        <a href="https://www.avast.com/free-mobile-security">avast! Mobile Security (for Android)</a><br />
+        <a href="https://www.avg.com/en-us/free-antivirus-download">AVG AntiVirus FREE 2015</a><br />
+        <a href="https://www.bitdefender.com/toolbox/">Bitdefender</a><br />
+        <a href="https://www.eset.com/us/home/online-scanner/">ESET Online Scanner</a><br />
+        <a href="https://usa.kaspersky.com/free-virus-scan">Kaspersky Virus Scanner</a><br />
+        <a href="https://home.mcafee.com/downloads/free-virus-scan">McAfee Security Scan</a><br />
+        <a href="https://docs.microsoft.com/en-us/windows/security/threat-protection/intelligence/safety-scanner-download">Microsoft Safety Scanner</a><br />
+        <a href="https://purecloud.ncircle.com/accounts/login/?next=/home/%3Fncsa">nCircle PureCloud Vulnerability Scanner</a><br />
+        <a href="https://www.pandasecurity.com/usa/homeusers/solutions/online-antivirus/?ref=activescan">Panda Security Antivirus Scan</a><br />
+        <a href="https://browsercheck.qualys.com/">Qualys Browser Check</a><br />
+        <a href="https://www.qualys.com/free-trial/#/mds">QualysGuard Malware Protection</a><br />
+        <a href="https://www.flexera.com/products/operations/software-vulnerability-manager.html">Secunia PSI</a><br />
+        <a href="https://www.sophos.com/en-us/products/free-tools.aspx">Sophos Free Security Tools</a><br />
+        <a href="https://www.trendmicro.com/en_us/business.html">Trend Micro Security Assessment</a><br />
+        <a href="https://www.vipre.com/vipre-home-protection/">Vipre Internet Security 2013</a><br />
+        <a href="https://www.webroot.com/us/en/home/products-spysweeper">Webroot Secure Anywhere Antivirus</a>&nbsp;&nbsp;</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190506T164148Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e4bd8f72-a2e3-40e9-a6bf-18a983f820d8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190506T164148Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190506T164243Z
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "0f10eefb-f9da-4b41-83a0-87900c4e25ed"
+      Hint: body
+      Value: |
+        <p>The resources you find listed below contain some of NOV’s IT Security staff favorite recommendations. We hope you find them helpful.&nbsp; We have tried to make the recommendations as useful and reliable as possible. However, the purpose of this resources page is to provide NOV employees with general guidance and useful tips only. It does not necessarily deal with every important topic or cover every aspect of the topics with which it deals and might not be relevant or appropriate in all circumstances. It is not designed to provide professional advice and should not be relied on as such. If in any doubt, you should consult an appropriately qualified expert for specific advice before acting on any of the information or recommendations contained on this resources page. By providing this page, NOV disclaims all liability (including direct and indirect damages or injury) for your use of the information or opinions expressed on this resources page.</p>
+        <h3>Device and Network Protection</h3>
+        <p>Most households now run networks of devices linked to the Internet, including computers, laptops, gaming devices, TVs, tablets, and smartphones that access wireless networks. To protect your home network and your family, you need to have the right tools in place and confidence that family members can use the Internet safely and securely.</p>
+        <h5>Antivirus</h5>
+        <p><a href="https://support.microsoft.com/en-us/help/14210/security-essentials-download">Windows </a>- free Microsoft Antivirus
+        <br />
+        <a href="https://home.sophos.com/en-us/download-mac-anti-virus.aspx">Mac</a> - free Sophos Antivirus</p>
+        <h5>Backup</h5>
+        <p>
+        To avoid losing all of your information, make backups of important information and store the backups in a separate location. Not only will you still be able to access the information, but you'll be able to identify and report exactly what information is at risk.<br />
+        <br />
+        <a href="https://www.us-cert.gov/ncas/tips/ST04-003">Back up all of your data</a><br />
+        <a href="https://support.microsoft.com/en-us/help/17127/windows-back-up-restore">Back up Windows</a>&nbsp;<br />
+        <a href="https://support.apple.com/mac-backup">Back up Mac OS X</a></p>
+        <h5>Firewall</h5>
+        <p><a href="https://www.us-cert.gov/ncas/tips/ST04-004">Keep your firewall turned on</a>&nbsp;<br />
+        <a href="https://support.microsoft.com/en-us/help/17228/windows-protect-my-pc-from-viruses">Turn on firewall in Windows</a><br />
+        <a href="https://support.apple.com/en-us/HT201642">Turn on firewall in Mac OS X</a>
+        </p>
+        <h5>
+        Web Filtering</h5>
+        <p>
+        </p>
+        <p><em><a href="https://www.opendns.com/home-internet-security/">OpenDNS</a><br />
+        </em>Provides a cloud-delivered network security service that delivers automated protection against attacks for any device, anywhere.</p>
+        <p><em><a href="https://support.microsoft.com/en-us/help/17443/windows-internet-explorer-smartscreen-filter-faq">SmartScreen</a>&nbsp;<br />
+        </em>In Internet Explorer you can turn on or off the smartscreen functionality for web filtering.</p>
+        <p>
+        <a href="https://support.symantec.com/en_US/K9WebProtection.html"><em>K9</em></a>
+        <br />
+        This another software for parental control. K9 is free for home use:</p>
+        <p>
+        <em><a href="https://www.mywot.com/en/download">Web of Trust (WOT)</a></em>
+        <br />
+        Browser add-on shows you which websites you can trust based on millions of users’ experiences around the world to help you stay safe when you search, surf, and shop online.&nbsp;</p>
+        <h5>
+        Patching</h5>
+        <p>
+        Mistakes, bugs, and vulnerabilities happen and need to be fixed.&nbsp; Always make sure you are using the latest version.<br />
+        <a href="https://support.microsoft.com/en-us/help/12373/windows-update-faq">Turn on Auto-updating for Windows</a>
+        <br />
+        <br />
+        For other Windows applications, consider the following:
+        <br />
+        <a href="https://filehippo.com/download_app_manager">http://www.filehippo.com/updatechecker/</a>
+        <br />
+        <br />
+        <a href="https://support.apple.com/en-us/HT201541">Turn on Auto-updating for Mac OS X in System Preferences</a> (or App Store)
+        <br />
+        <br />
+        <a href="https://support.apple.com/en-us/HT204204">How to update the iOS Operating System<br />
+        </a>
+        <a href="https://support.apple.com/en-us/HT202180">How to enable automatic updates to iOS Applications<br />
+        <br />
+        </a>
+        <a href="https://support.google.com/googleplay/answer/113412?hl=en">How to enable automatic updates to Android Applications<br />
+        </a>
+        <a href="https://www.att.com/devicehowto/dsm.html#!/">Android updates for AT&amp;T devices</a>
+        <a href="https://support.sprint.com/support/devicelistpage">Android updates for Sprint devices</a>
+        <a href="https://support.t-mobile.com/community/phones-tablets-devices#android/">Android updates for T-Mobile devices<br />
+        </a>
+        <a href="https://www.verizonwireless.com/support/software-updates/">Android updates for Verizon devices</a>
+        </p>
+        <h5>
+        Wireless</h5>
+        <p><strong>
+        Change the name of your router</strong><br />
+        The default ID - called a service set identifier” (SSID) or “extended service set identifier” (ESSID ) – is assigned by the manufacturer. Change your router to a name that is unique to you and won’t be easily guessed by others.<br />
+        <br />
+        <strong>
+        Change the pre-set password on your router</strong><br />
+        When creating a new password, make sure it is long and strong, using a mix of numbers, letters and symbols.<br />
+        <br />
+        <strong>
+        Review security options</strong><br />
+        When choosing your router’s level of security, opt for WPA2, if available, or WPA. They are more secure than the WEP option.&nbsp;<a href="https://lifehacker.com/how-to-stay-safe-on-public-wi-fi-networks-5576927">How to Stay Safe on Public Wi-Fi Networks</a>&nbsp;</p>
+        <p><strong>Identity and Privacy Protection<br />
+        </strong>Though companies, email providers and retailers should take on responsibility to respect privacy and safeguard data, individuals can protect their personal information in the following ways:&nbsp;</p>
+        <h5>Passwords</h5>
+        <p><a href="https://support.microsoft.com/en-us/hub/4338813/windows-help?os=windows-10">Passwords</a> provide the first line of defense against unauthorized access to your computer. You should make sure you have strong passwords for all accounts on your computer.&nbsp;
+        Recommended Password Managers:&nbsp; &nbsp;<a href="https://1password.com/sign-up/">1Password&nbsp;</a> |&nbsp; &nbsp;<a href="https://www.lastpass.com/hp">LastPass<br />
+        </a>
+        </p>
+        <h5>Get Two Steps Ahead</h5>
+        <p>Switch on two-step verification or multi-factor authentication wherever offered to prevent unauthorized access.</p>
+        <p>
+        </p>
+        <p><a href="https://support.apple.com/en-us/HT204152">Apple</a> - All Apple services such as AppleID, iTunes, iCloud, iMessage, etc.<br />
+        <a href="https://www.bankofamerica.com/privacy/faq/safepass-faq.go">Bank of America</a> - Bank of America account<br />
+        <a href="http://www.citibank.com/transactionservices/home/region/university/docs/QRC_MFA_Login_110813.pdf">CitiBank</a> - CitiBank account<br />
+        <a href="https://help.dropbox.com/security/enable-two-step-verification">Dropbox</a> - Dropbox account<br />
+        <a href="https://us.etrade.com/landing/secureid_enter">eTrade</a> - eTrade account<br />
+        <a href="https://evernote.com/blog/">Evernote</a> - For both free and premium accounts<br />
+        <a href="https://www.facebook.com/note.php?note_id=10150172618258920">Facebook</a> - Facebook account<br />
+        <a href="https://www.google.com/landing/2step/">Google</a> - All Google services such as GMail, Drive, Google+, etc.<br />
+        <a href="https://www.linkedin.com/help/linkedin/answer/544?lang=en">LinkedIn </a>- LinkedIn account<br />
+        <a href="https://support.microsoft.com/en-us/help/12408/microsoft-account-how-to-use-two-step-verification">Microsoft</a> - Microsoft services such as Outlook.com, Hotmail, Skype, OneDrive, etc.<br />
+        <a href="https://blog.twitter.com/official/en_us/a/2013/getting-started-with-login-verification.html">Twitter</a> - Twitter account<br />
+        <a href="https://www.usaa.com/inet/pages/security_token_logon_options?akredirect=true#tab2">USAA </a>- USAA account<br />
+        <a href="https://www.lifewire.com/two-step-authentication-yahoo-1174470">Yahoo!</a> - Yahoo! mail account<br />
+        <a href="https://twofactorauth.org/">Everyone Else</a> - A website that has compiled all known services that offer Two-Factor</p>
+        <h5>Think Before You Act</h5>
+        <p><strong>Phishing</strong></p>
+        <p>
+        Be wary of <a href="https://support.microsoft.com/en-us/help/4033787/windows-protect-yourself-from-phishing">phishing </a>- communications that implore you to act immediately, offer something that sounds too <br />
+        good to be true or ask for personal information.</p>
+        <p><strong>Hoaxes</strong></p>
+        <p>
+        Always check to make sure amazing stories or offers are true before taking any action.<br />
+        <a href="https://www.snopes.com/">Snopes</a> gives information on urban legends, common fallacies, misinformation, old wives' tales, strange news stories, rumors, celebrity gossip, and similar items.<br />
+        <a href="https://www.thoughtco.com/urban-legends-4132595">About.com</a> compiles urban legend information.<br />
+        <a rel="noopener noreferrer" href="https://www.truthorfiction.com/" target="_blank">TruthorFiction</a> exposes the truth on various claims.</p>
+        <h5>Share With Care</h5>
+        <p>Set privacy and security settings on web services and devices to your comfort level for <a href="https://www.socialmediaexaminer.com/social-media-privacy-settings/">information sharing</a>. It’s okay to limit how and with whom you share information.&nbsp;&nbsp;</p>
+        <h2>Training</h2>
+        <h5>Internet</h5>
+        <p><a href="http://www.stopthinkconnect.org/">General knowledge about Internet security that's relevant<br />
+        </a><a href="https://www.us-cert.gov/security-publications">Good place to know about high level cyber security related information<br />
+        </a><a href="https://www.us-cert.gov/Home-Network-Security">Home network security<br />
+        </a><a href="https://www.privacyrights.org/social-networking-privacy-how-be-safe-secure-and-social">Be safe and social<br />
+        </a><a href="https://www.isc2cares.org/safe-and-secure/">Place that you can learn about cyber bullying. This is very important information to know and to teach our next generation.<br />
+        </a><a href="https://www.youtube.com/watch?v=zMabEyrtPRg">What is Two-Factor or Two-Step Verification?</a></p>
+        <h5>Least Privilege Principle</h5>
+        <p>Practice the <a href="http://en.wikipedia.org/wiki/Principle_of_least_privilege">principle of least privilege</a>. Do not log into a computer with administrator rights unless you must do so to perform specific tasks.</p>
+        <h5>Free Security Check Ups</h5>
+        <p>Many computer security vendors offer free computer security checks for your computer. Visit a link below to check your computer for known viruses, spyware, and more and discover if your computer is vulnerable to cyber attacks.</p>
+        <p><a href="https://discover.aol.com/products-and-services">AOL Computer Checkup</a><br />
+        <a href="https://www.auditmypc.com/">Audit My PC</a><br />
+        <a href="https://www.avast.com/index#pc">avast! Free Antivirus (for PCs)</a><br />
+        <a href="https://www.avast.com/free-mobile-security">avast! Mobile Security (for Android)</a><br />
+        <a href="https://www.avg.com/en-us/free-antivirus-download">AVG AntiVirus FREE 2015</a><br />
+        <a href="https://www.bitdefender.com/toolbox/">Bitdefender</a><br />
+        <a href="https://www.eset.com/us/home/online-scanner/">ESET Online Scanner</a><br />
+        <a href="https://usa.kaspersky.com/free-virus-scan">Kaspersky Virus Scanner</a><br />
+        <a href="https://home.mcafee.com/downloads/free-virus-scan">McAfee Security Scan</a><br />
+        <a href="https://docs.microsoft.com/en-us/windows/security/threat-protection/intelligence/safety-scanner-download">Microsoft Safety Scanner</a><br />
+        <a href="https://purecloud.ncircle.com/accounts/login/?next=/home/%3Fncsa">nCircle PureCloud Vulnerability Scanner</a><br />
+        <a href="https://www.pandasecurity.com/usa/homeusers/solutions/online-antivirus/?ref=activescan">Panda Security Antivirus Scan</a><br />
+        <a href="https://browsercheck.qualys.com/">Qualys Browser Check</a><br />
+        <a href="https://www.qualys.com/free-trial/#/mds">QualysGuard Malware Protection</a><br />
+        <a href="https://www.flexera.com/products/operations/software-vulnerability-manager.html">Secunia PSI</a><br />
+        <a href="https://www.sophos.com/en-us/products/free-tools.aspx">Sophos Free Security Tools</a><br />
+        <a href="https://www.trendmicro.com/en_us/business.html">Trend Micro Security Assessment</a><br />
+        <a href="https://www.vipre.com/vipre-home-protection/">Vipre Internet Security 2013</a><br />
+        <a href="https://www.webroot.com/us/en/home/products-spysweeper">Webroot Secure Anywhere Antivirus</a>&nbsp;&nbsp;</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190506T164417Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "421fb787-6d45-47dd-9e3e-d5bea5afdfb1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190506T164417Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190506T164444Z
+  - Version: 4
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "0f10eefb-f9da-4b41-83a0-87900c4e25ed"
+      Hint: body
+      Value: |
+        <p>The resources you find listed below contain some of NOV&rsquo;s IT Security staff favorite recommendations. We hope you find them helpful.&nbsp; We have tried to make the recommendations as useful and reliable as possible. However, the purpose of this resources page is to provide NOV employees with general guidance and useful tips only. It does not necessarily deal with every important topic or cover every aspect of the topics with which it deals and might not be relevant or appropriate in all circumstances. It is not designed to provide professional advice and should not be relied on as such. If in any doubt, you should consult an appropriately qualified expert for specific advice before acting on any of the information or recommendations contained on this resources page. By providing this page, NOV disclaims all liability (including direct and indirect damages or injury) for your use of the information or opinions expressed on this resources page.</p>
+        <h2>Device and Network Protection</h2>
+        <p>Most households now run networks of devices linked to the Internet, including computers, laptops, gaming devices, TVs, tablets, and smartphones that access wireless networks. To protect your home network and your family, you need to have the right tools in place and confidence that family members can use the Internet safely and securely.</p>
+        <h3>Antivirus</h3>
+        <ul>
+        <li><a href="https://support.microsoft.com/en-us/help/14210/security-essentials-download">Windows </a>- free Microsoft Antivirus</li>
+        <li><a href="https://home.sophos.com/en-us/download-mac-anti-virus.aspx">Mac</a> - free Sophos Antivirus</li>
+        </ul>
+        <h3>Backup</h3>
+        <p>To avoid losing all of your information, make backups of important information and store the backups in a separate location. Not only will you still be able to access the information, but you'll be able to identify and report exactly what information is at risk.</p>
+        <ul>
+        <li><a href="https://www.us-cert.gov/ncas/tips/ST04-003">Back up all of your data</a></li>
+        <li><a href="https://support.microsoft.com/en-us/help/17127/windows-back-up-restore">Back up Windows</a></li>
+        <li><a href="https://support.apple.com/mac-backup">Back up Mac OS X</a></li>
+        </ul>
+        <h3>Firewall</h3>
+        <ul>
+        <li><a href="https://www.us-cert.gov/ncas/tips/ST04-004">Keep your firewall turned on</a></li>
+        <li><a href="https://support.microsoft.com/en-us/help/17228/windows-protect-my-pc-from-viruses">Turn on firewall in Windows</a></li>
+        <li><a href="https://support.apple.com/en-us/HT201642">Turn on firewall in Mac OS X</a></li>
+        </ul>
+        <h3>Web Filtering</h3>
+        <ul>
+        <li><a href="https://www.opendns.com/home-internet-security/">OpenDNS</a>&nbsp;-&nbsp;Provides a cloud-delivered network security service that delivers automated protection against attacks for any device, anywhere.</li>
+        <li><a href="https://support.microsoft.com/en-us/help/17443/windows-internet-explorer-smartscreen-filter-faq">SmartScreen</a>&nbsp;-&nbsp;In Internet Explorer you can turn on or off the smartscreen functionality for web filtering.</li>
+        <li><a href="https://support.symantec.com/en_US/K9WebProtection.html">K9</a>&nbsp;-&nbsp;This another software for parental control. K9 is free for home use:</li>
+        <li><a href="https://www.mywot.com/en/download">Web of Trust (WOT)</a>&nbsp;-&nbsp;Browser add-on shows you which websites you can trust based on millions of users&rsquo; experiences around the world to help you stay safe when you search, surf, and shop online.&nbsp;</li>
+        </ul>
+        <h3>Patching</h3>
+        <h4>Windows</h4>
+        <ul>
+        <li><a href="https://support.microsoft.com/en-us/help/12373/windows-update-faq">Turn on Auto-updating for Windows</a> - Mistakes, bugs, and vulnerabilities happen and need to be fixed. Always make sure you are using the latest version.</li>
+        <li>For other Windows applications, consider the following:&nbsp;<a href="https://filehippo.com/download_app_manager">http://www.filehippo.com/updatechecker/</a></li>
+        </ul>
+        <h4>macOS</h4>
+        <ul>
+        <li><a href="https://support.apple.com/en-us/HT201541">Turn on Auto-updating for Mac OS X in System Preferences</a> (or App Store)</li>
+        </ul>
+        <h4>iOS</h4>
+        <ul>
+        <li><a href="https://support.apple.com/en-us/HT204204">How to update the iOS Operating System<br /> </a></li>
+        <li><a href="https://support.apple.com/en-us/HT202180">How to enable automatic updates to iOS Applications<br /> </a></li>
+        </ul>
+        <h4>Android</h4>
+        <ul>
+        <li><a href="https://support.google.com/googleplay/answer/113412?hl=en">How to enable automatic updates to Android Applications<br /> </a></li>
+        <li><a href="https://www.att.com/devicehowto/dsm.html#!/">Android updates for AT&amp;T devices</a> <a href="https://support.sprint.com/support/devicelistpage">Android updates for Sprint devices</a> <a href="https://support.t-mobile.com/community/phones-tablets-devices#android/">Android updates for T-Mobile devices<br /> </a></li>
+        <li><a href="https://www.verizonwireless.com/support/software-updates/">Android updates for Verizon devices</a></li>
+        </ul>
+        <h3>Wireless</h3>
+        <p><strong> Change the name of your router</strong><br /> The default ID - called a service set identifier&rdquo; (SSID) or &ldquo;extended service set identifier&rdquo; (ESSID ) &ndash; is assigned by the manufacturer. Change your router to a name that is unique to you and won&rsquo;t be easily guessed by others.</p>
+        <p><strong>Change the pre-set password on your router</strong><br /> When creating a new password, make sure it is long and strong, using a mix of numbers, letters and symbols.</p>
+        <p><strong>Review security options</strong><br /> When choosing your router&rsquo;s level of security, opt for WPA2, if available, or WPA. They are more secure than the WEP option.&nbsp;<a href="https://lifehacker.com/how-to-stay-safe-on-public-wi-fi-networks-5576927">How to Stay Safe on Public Wi-Fi Networks</a>&nbsp;</p>
+        <p><strong>Identity and Privacy Protection<br /> </strong>Though companies, email providers and retailers should take on responsibility to respect privacy and safeguard data, individuals can protect their personal information in the following ways:&nbsp;</p>
+        <h3>Passwords</h3>
+        <p><a href="https://support.microsoft.com/en-us/hub/4338813/windows-help?os=windows-10">Passwords</a> provide the first line of defense against unauthorized access to your computer. You should make sure you have strong passwords for all accounts on your computer. Recommended Password Managers:</p>
+        <ul>
+        <li><a href="https://1password.com/sign-up/">1Password</a></li>
+        <li><a href="https://www.lastpass.com/hp">LastPass<br /> </a></li>
+        </ul>
+        <h3>Get Two Steps Ahead</h3>
+        <p>Switch on two-step verification or multi-factor authentication wherever offered to prevent unauthorized access.</p>
+        <ul>
+        <li><a href="https://support.apple.com/en-us/HT204152">Apple</a> - All Apple services such as AppleID, iTunes, iCloud, iMessage, etc.</li>
+        <li><a href="https://www.bankofamerica.com/privacy/faq/safepass-faq.go">Bank of America</a> - Bank of America account</li>
+        <li><a href="http://www.citibank.com/transactionservices/home/region/university/docs/QRC_MFA_Login_110813.pdf">CitiBank</a> - CitiBank account</li>
+        <li><a href="https://help.dropbox.com/security/enable-two-step-verification">Dropbox</a> - Dropbox account</li>
+        <li><a href="https://us.etrade.com/landing/secureid_enter">eTrade</a> - eTrade account</li>
+        <li><a href="https://evernote.com/blog/">Evernote</a> - For both free and premium accounts</li>
+        <li><a href="https://www.facebook.com/note.php?note_id=10150172618258920">Facebook</a> - Facebook account</li>
+        <li><a href="https://www.google.com/landing/2step/">Google</a> - All Google services such as GMail, Drive, Google+, etc.</li>
+        <li><a href="https://www.linkedin.com/help/linkedin/answer/544?lang=en">LinkedIn </a>- LinkedIn account</li>
+        <li><a href="https://support.microsoft.com/en-us/help/12408/microsoft-account-how-to-use-two-step-verification">Microsoft</a> - Microsoft services such as Outlook.com, Hotmail, Skype, OneDrive, etc.</li>
+        <li><a href="https://blog.twitter.com/official/en_us/a/2013/getting-started-with-login-verification.html">Twitter</a> - Twitter account</li>
+        <li><a href="https://www.usaa.com/inet/pages/security_token_logon_options?akredirect=true#tab2">USAA </a>- USAA account</li>
+        <li><a href="https://www.lifewire.com/two-step-authentication-yahoo-1174470">Yahoo!</a> - Yahoo! mail account</li>
+        <li><a href="https://twofactorauth.org/">Everyone Else</a> - A website that has compiled all known services that offer Two-Factor</li>
+        </ul>
+        <h3>Think Before You Act</h3>
+        <h4>Phishing</h4>
+        <p>Be wary of <a href="https://support.microsoft.com/en-us/help/4033787/windows-protect-yourself-from-phishing">phishing </a>- communications that implore you to act immediately, offer something that sounds too <br /> good to be true or ask for personal information.</p>
+        <h4>Hoaxes</h4>
+        <ul>
+        <li>Always check to make sure amazing stories or offers are true before taking any action.</li>
+        <li><a href="https://www.snopes.com/">Snopes</a> gives information on urban legends, common fallacies, misinformation, old wives' tales, strange news stories, rumors, celebrity gossip, and similar items.</li>
+        <li><a href="https://www.thoughtco.com/urban-legends-4132595">About.com</a> compiles urban legend information.</li>
+        <li><a href="https://www.truthorfiction.com/" target="_blank" rel="noopener noreferrer">TruthorFiction</a> exposes the truth on various claims.</li>
+        </ul>
+        <h4>Share With Care</h4>
+        <p>Set privacy and security settings on web services and devices to your comfort level for <a href="https://www.socialmediaexaminer.com/social-media-privacy-settings/">information sharing</a>. It&rsquo;s okay to limit how and with whom you share information.&nbsp;&nbsp;</p>
+        <h2>Training</h2>
+        <h3>Internet</h3>
+        <ul>
+        <li><a href="http://www.stopthinkconnect.org/">General knowledge about Internet security that's relevant<br /> </a></li>
+        <li><a href="https://www.us-cert.gov/security-publications">Good place to know about high level cyber security related information<br /> </a></li>
+        <li><a href="https://www.us-cert.gov/Home-Network-Security">Home network security<br /> </a></li>
+        <li><a href="https://www.privacyrights.org/social-networking-privacy-how-be-safe-secure-and-social">Be safe and social<br /> </a></li>
+        <li><a href="https://www.isc2cares.org/safe-and-secure/">Place that you can learn about cyber bullying. This is very important information to know and to teach our next generation.<br /> </a></li>
+        <li><a href="https://www.youtube.com/watch?v=zMabEyrtPRg">What is Two-Factor or Two-Step Verification?</a></li>
+        </ul>
+        <h3>Least Privilege Principle</h3>
+        <p>Practice the <a href="http://en.wikipedia.org/wiki/Principle_of_least_privilege">principle of least privilege</a>. Do not log into a computer with administrator rights unless you must do so to perform specific tasks.</p>
+        <h3>Free Security Check Ups</h3>
+        <p>Many computer security vendors offer free computer security checks for your computer. Visit a link below to check your computer for known viruses, spyware, and more and discover if your computer is vulnerable to cyber attacks.</p>
+        <ul>
+        <li><a href="https://discover.aol.com/products-and-services">AOL Computer Checkup</a></li>
+        <li><a href="https://www.auditmypc.com/">Audit My PC</a></li>
+        <li><a href="https://www.avast.com/index#pc">avast! Free Antivirus (for PCs)</a></li>
+        <li><a href="https://www.avast.com/free-mobile-security">avast! Mobile Security (for Android)</a></li>
+        <li><a href="https://www.avg.com/en-us/free-antivirus-download">AVG AntiVirus FREE 2015</a></li>
+        <li><a href="https://www.bitdefender.com/toolbox/">Bitdefender</a></li>
+        <li><a href="https://www.eset.com/us/home/online-scanner/">ESET Online Scanner</a></li>
+        <li><a href="https://usa.kaspersky.com/free-virus-scan">Kaspersky Virus Scanner</a></li>
+        <li><a href="https://home.mcafee.com/downloads/free-virus-scan">McAfee Security Scan</a></li>
+        <li><a href="https://docs.microsoft.com/en-us/windows/security/threat-protection/intelligence/safety-scanner-download">Microsoft Safety Scanner</a></li>
+        <li><a href="https://purecloud.ncircle.com/accounts/login/?next=/home/%3Fncsa">nCircle PureCloud Vulnerability Scanner</a></li>
+        <li><a href="https://www.pandasecurity.com/usa/homeusers/solutions/online-antivirus/?ref=activescan">Panda Security Antivirus Scan</a></li>
+        <li><a href="https://browsercheck.qualys.com/">Qualys Browser Check</a></li>
+        <li><a href="https://www.qualys.com/free-trial/#/mds">QualysGuard Malware Protection</a></li>
+        <li><a href="https://www.flexera.com/products/operations/software-vulnerability-manager.html">Secunia PSI</a></li>
+        <li><a href="https://www.sophos.com/en-us/products/free-tools.aspx">Sophos Free Security Tools</a></li>
+        <li><a href="https://www.trendmicro.com/en_us/business.html">Trend Micro Security Assessment</a></li>
+        <li><a href="https://www.vipre.com/vipre-home-protection/">Vipre Internet Security 2013</a></li>
+        <li><a href="https://www.webroot.com/us/en/home/products-spysweeper">Webroot Secure Anywhere Antivirus</a></li>
+        </ul>
+        <style>
+        .header {
+            background-color: black;
+        }
+        </style>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190715T161931Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5b04bd94-7aaf-49aa-a70d-34310c3d9d75"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190715T161931Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190715T163709Z

@@ -1,0 +1,454 @@
+﻿---
+ID: "4736d393-088f-4136-b09a-1d827ed05822"
+Parent: "4b575d9d-904b-4d19-8192-7ef01c2652a0"
+Template: "c0aa2bad-85b9-47e4-a236-901c3115fb87"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/WBT/Downhole/Flow Activated Double Ended Selective Shifting Tool/Flow Activated Double Ended Selective Shifting Tool_J5 Features List
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190313T165035Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "592042cb-e14f-4127-8f6b-3f25c3759c8e"
+      Hint: column2List
+      Value: |
+        <ul>
+        <li>Solid construction</li>
+        </ul>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joannazhu
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ca8a265c-cf1a-49ec-b7f2-b2e745321827"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\joannazhu
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: "<p>The straight bar provides a means of extending the tool string while maintaining the maximum through bore. The tubular section between the top and bottom sub can be interchanged to vary the length of the straight bar, offering an ideal solution for spacing out tools within the tool string without compromising the flow requirements of flow-activated or jetting tools.</p>"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190318T141423Z
+    - ID: "f6afec27-750a-4d77-962d-3ce002b623b9"
+      Hint: column1List
+      Value: |
+        <ul>
+        <li>Full flow through bore</li>
+        </ul>
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190318T141947Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "443b76eb-a2d1-4050-b1d5-fc06c8737bee"
+      Hint: column3List
+      Value: |
+        <ul>
+        <li>Precision-calibrated valve opening pressure against predetermined bottomhole pressure</li>
+        </ul>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "592042cb-e14f-4127-8f6b-3f25c3759c8e"
+      Hint: column2List
+      Value: |
+        <ul>
+        <li>Multiple operating delivery pressure configurations</li>
+        </ul>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joannazhu
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "afd27f53-3d25-48ff-8f06-df91031492d0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\joannazhu
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: |
+        <p>The Cement Valve is a check valve designed to support a column of fluid until an increase in pressure is applied to the column from above. Once the increased pressure is seen at the valve, it will open, and the column of fluid will be allowed to flow through the valve. By reducing pressure to the column of fluid to its original level, the valve will close, and the fluid will cease to flow.</p>
+        
+        <p>As pressure is applied to the column of fluid, it identifies the selected cross-sectional area and begins to compress the disc springs. The disc springs are compressed, holding the piston nose on seat and preventing the from traveling through the tool. Pressure acting on the piston</p>
+        
+        <p>When the pressure is increased, the force acting on the piston the fluid  bypasses the piston seat and travels down the tool.</p>
+        
+        <p>The cement valve can be reconfigured to operate at different pressures in a range from 500 psi.</p>
+        
+        <p>The cement valve was originally developed as a control valve capable of accurately delivering cement during coiled tubing cementing operations. The same tool can also be used to deliver any fluid downhole using the same principle.</p>
+        
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190318T141947Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190318T142731Z
+    - ID: "f6afec27-750a-4d77-962d-3ce002b623b9"
+      Hint: column1List
+      Value: |
+        <ul>
+        <li>Works in under-balanced situations</li>
+        <li>Suitable for most fluid applications</li>
+        </ul>
+  - Version: 3
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190318T143122Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "443b76eb-a2d1-4050-b1d5-fc06c8737bee"
+      Hint: column3List
+      Value: |
+        <ul>
+        <li>Eliminates the possibility of dropping tools in the lubricator</li>
+        <li>Suitable for fluid and gas applications</li>
+        </ul>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "592042cb-e14f-4127-8f6b-3f25c3759c8e"
+      Hint: column2List
+      Value: |
+        <ul>
+        <li>Simple field adjustment of closing differential pressure</li>
+        <li>Quick to dump internal coil pressure at the tool</li>
+        </ul>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joannazhu
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d796a4ae-63b5-484f-98ce-5c14d61a6ea0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\joannazhu
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: |
+        <p>The flow-activated sequencing valve is a normally open valve that allows circulation through the tool to the annulus, while running into the well. Once a predetermined differential pressure is exceeded, the flow path to the annulus is closed and diverted into the internal bore of the tool string, thereby enabling hydraulic activation of any tools in the lower and upper ends of the tool string.</p>
+        <p>When pulling a tool string out of the well, a sequencing valve can be used to safely bleed off internal coil pressure. When the coil pressure is decreased to a predetermined pressure, the Sequencing Valve opens and allows bleed through its bypass ports. Therefore, during bleed-down the internal/external pressures are balanced, eliminating the possibility of prematurely releasing flow-activated manipulation tools in the lubricator.</p>
+        <p>The closing differential pressure of the sequencing valve can be field adjusted to between 500 to 2,000 psi.</p>
+        
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190318T143122Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190318T143139Z
+    - ID: "f6afec27-750a-4d77-962d-3ce002b623b9"
+      Hint: column1List
+      Value: |
+        <ul>
+        <li>Normally open, allowing circulation to the annulus while running into wellbore</li>
+        <li>Flow activated; no drop ball required</li>
+        </ul>
+  - Version: 4
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190318T143451Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "443b76eb-a2d1-4050-b1d5-fc06c8737bee"
+      Hint: column3List
+      Value: |
+        <ul>
+        <li>Eliminates the possibility of dropping tools in the lubricator</li>
+        <li>Suitable for fluid and gas applications</li>
+        </ul>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "592042cb-e14f-4127-8f6b-3f25c3759c8e"
+      Hint: column2List
+      Value: |
+        <ul>
+        <li>Simple field adjustment of closing differential pressure</li>
+        <li>Quick to dump internal coil pressure at the tool</li>
+        </ul>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joannazhu
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "99f3f943-9290-4b5c-801e-aa8989fb8585"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\joannazhu
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: |
+        <p>The flow-activated sequencing valve is a normally open valve that allows circulation through the tool to the annulus, while running into the well. Once a predetermined differential pressure is exceeded, the flow path to the annulus is closed and diverted into the internal bore of the tool string, thereby enabling hydraulic activation of any tools in the lower and upper ends of the tool string.</p>
+        <p>When pulling a tool string out of the well, a sequencing valve can be used to safely bleed off internal coil pressure. When the coil pressure is decreased to a predetermined pressure, the sequencing valve opens and allows bleed through its bypass ports. Therefore, during bleed-down the internal/external pressures are balanced, eliminating the possibility of prematurely releasing flow-activated manipulation tools in the lubricator.</p>
+        <p>The closing differential pressure of the sequencing valve can be field adjusted to between 500 to 2,000 psi.</p>
+        
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190318T143451Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190318T145941Z
+    - ID: "f6afec27-750a-4d77-962d-3ce002b623b9"
+      Hint: column1List
+      Value: |
+        <ul>
+        <li>Normally open, allowing circulation to the annulus while running into wellbore</li>
+        <li>Flow activated; no drop ball required</li>
+        </ul>
+  - Version: 5
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190318T150903Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "443b76eb-a2d1-4050-b1d5-fc06c8737bee"
+      Hint: column3List
+      Value: 
+    - ID: "4d669ee9-9ff5-4c31-a025-56035d1727a1"
+      Hint: column1Headline
+      Value: Features/Benefits
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "592042cb-e14f-4127-8f6b-3f25c3759c8e"
+      Hint: column2List
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joannazhu
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "165a822e-1bee-4928-9cff-53af9dad60f7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\joannazhu
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: |
+        <p>The FluidHammer Intensifier is used in conjunction with the Coiled Tubing FluidHammer Impact Jar to provide the necessary tool movement and acceleration for the FluidHammer Impact Jar to operate efficiently. This is achieved by storing upward energy in the discs and compression spring that will impart a predictable downward blow.</p>
+        <p>Operations in which large-diameter or heavy-wall coil is used may require an extra intensifier to optimize the performance of the FluidHammer Impact Jar.</p>
+        <p>The full pump-through capability of the FluidHammer Intensifier is compatible with the FluidHammer Impact Jar.</p>
+        
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190318T150903Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190318T173830Z
+    - ID: "f6afec27-750a-4d77-962d-3ce002b623b9"
+      Hint: column1List
+      Value: |
+        <ul>
+        <li>Full flow through bore</li>
+        <li>Maximized stroke</li>
+        <li>High sit-down load</li>
+        <li>Simple redress</li>
+        <li>Only one dynamic seal</li>
+        </ul>
+  - Version: 6
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190318T175201Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "443b76eb-a2d1-4050-b1d5-fc06c8737bee"
+      Hint: column3List
+      Value: 
+    - ID: "4d669ee9-9ff5-4c31-a025-56035d1727a1"
+      Hint: column1Headline
+      Value: Features/Benefits
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "592042cb-e14f-4127-8f6b-3f25c3759c8e"
+      Hint: column2List
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joannazhu
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ac0fa9dc-4640-41ff-986e-d3ca1810d428"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\joannazhu
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: |
+        <p>The Double-Ended Selective Shifting Tool (DESST) has been designed specifically to selectively shift PCE, Otis, Camco, and Baker sliding sleeves (SSDs) in horizontal wellbores.</p>
+        <p>The DESST shifting keys are normally retracted during the running operation and are hydraulically flow activated to the open shift position by increasing surface pump volume and, in turn, pressure at the downhole location of the DESST and SSD. The DESST can selectively open or close multiple SSDs in a single coiled tubing trip.</p>
+        
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190318T175201Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190318T175222Z
+    - ID: "f6afec27-750a-4d77-962d-3ce002b623b9"
+      Hint: column1List
+      Value: |
+        <ul>
+        <li>Flow activated (no drop balls required)</li>
+        <li>Dual action for opening or closing sliding sleeves</li>
+        <li>Positive or selective key options</li>
+        <li>Optional external fish neck</li>
+        </ul>
+  - Version: 7
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190319T182131Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "443b76eb-a2d1-4050-b1d5-fc06c8737bee"
+      Hint: column3List
+      Value: 
+    - ID: "4d669ee9-9ff5-4c31-a025-56035d1727a1"
+      Hint: column1Headline
+      Value: Features/Benefits
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "592042cb-e14f-4127-8f6b-3f25c3759c8e"
+      Hint: column2List
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fcd0d882-892c-48a4-8545-d1d8e0145838"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: |
+        <p>The Double-Ended Selective Shifting Tool (DESST) has been designed specifically to selectively shift PCE, Otis, Camco, and Baker sliding sleeves (SSDs) in horizontal wellbores.</p>
+        <p>The DESST shifting keys are normally retracted during the running operation and are hydraulically flow activated to the open shift position by increasing surface pump volume and, in turn, pressure at the downhole location of the DESST and SSD. The DESST can selectively open or close multiple SSDs in a single coiled tubing trip.</p>
+        <p>When ordering Double-Ended Selective Shifting Tools, please specify size and thread connection.</p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190319T182131Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190319T183422Z
+    - ID: "f6afec27-750a-4d77-962d-3ce002b623b9"
+      Hint: column1List
+      Value: |
+        <ul>
+        <li>Flow activated (no drop balls required)</li>
+        <li>Dual action for opening or closing sliding sleeves</li>
+        <li>Positive or selective key options</li>
+        <li>Optional external fish neck</li>
+        </ul>
+  - Version: 8
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190402T141908Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "443b76eb-a2d1-4050-b1d5-fc06c8737bee"
+      Hint: column3List
+      Value: 
+    - ID: "4d669ee9-9ff5-4c31-a025-56035d1727a1"
+      Hint: column1Headline
+      Value: Features/Benefits
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "592042cb-e14f-4127-8f6b-3f25c3759c8e"
+      Hint: column2List
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a7ebc3ae-03d7-42a9-aab2-2e0bc930f3c9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: |
+        <p>The Double-Ended Selective Shifting Tool (DESST) has been designed specifically to selectively shift PCE, Otis, Camco, and Baker sliding sleeves (SSDs) in horizontal wellbores.</p>
+        <p>The DESST shifting keys are normally retracted during the running operation and are hydraulically flow activated to the open shift position by increasing surface pump volume and, in turn, pressure at the downhole location of the DESST and SSD. The DESST can selectively open or close multiple SSDs in a single coiled tubing trip.</p>
+        <p>When ordering Double-Ended Selective Shifting Tools, please specify size and thread connection.</p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190402T141908Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190402T141923Z
+    - ID: "f6afec27-750a-4d77-962d-3ce002b623b9"
+      Hint: column1List
+      Value: |
+        <ul>
+        <li>Flow activated (no drop balls required)</li>
+        <li>Dual action for opening or closing sliding sleeves</li>
+        <li>Positive or selective key options</li>
+        <li>Optional external fish neck</li>
+        </ul>

@@ -1,0 +1,794 @@
+﻿---
+ID: "c2674bef-80f9-4598-ad2b-0eeb5a277552"
+Parent: "59c4f41d-bbee-4639-b08a-0d2aa06ed725"
+Template: "5030864f-eb96-4da7-a417-e5a0108c59f8"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/CAPS/Completion Tools/ReAct Tubing Filler Sub/ReAct Tubing Filler Sub_J6 Product Table
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190411T122630Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticjandersen
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\verticjandersen
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td style="width: 160px;">
+                    <p><strong>Tool Size</strong></p>
+                    </td>
+                    <td style="width: 160px;">
+                    <p><strong>3</strong><strong>&frac12;</strong><strong>&rdquo;</strong></p>
+                    </td>
+                    <td style="width: 160px;">
+                    <p><strong>4</strong><strong>&frac12;</strong><strong>&rdquo;</strong></p>
+                    </td>
+                    <td style="width: 160px;">
+                    <p><strong>5</strong><strong>&frac12;</strong><strong>&rdquo;</strong></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 160px;">
+                    <p>Top Connection</p>
+                    </td>
+                    <td style="width: 160px;">
+                    <p>Customer Specified</p>
+                    </td>
+                    <td style="width: 160px;">
+                    <p>Customer Specified</p>
+                    </td>
+                    <td style="width: 160px;">
+                    <p>Customer Specified</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 160px;">
+                    <p>Metallic Materials</p>
+                    </td>
+                    <td style="width: 160px;">
+                    <p>80 ksi</p>
+                    </td>
+                    <td style="width: 160px;">
+                    <p>80 ksi</p>
+                    </td>
+                    <td style="width: 160px;">
+                    <p>80 ksi</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 160px;">
+                    <p>OD</p>
+                    </td>
+                    <td style="width: 160px;">
+                    <p>4.45&rdquo;</p>
+                    </td>
+                    <td style="width: 160px;">
+                    <p>5.85&rdquo;</p>
+                    </td>
+                    <td style="width: 160px;">
+                    <p>7.625&rdquo;</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 160px;">
+                    <p>ID</p>
+                    </td>
+                    <td style="width: 160px;">
+                    <p>2.25&rdquo;</p>
+                    </td>
+                    <td style="width: 160px;">
+                    <p>3.84&rdquo;</p>
+                    </td>
+                    <td style="width: 160px;">
+                    <p>4.562&rdquo;</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 160px;">
+                    <p>Length</p>
+                    </td>
+                    <td style="width: 160px;">
+                    <p>40.50&rdquo;</p>
+                    </td>
+                    <td style="width: 160px;">
+                    <p>40.50&rdquo;</p>
+                    </td>
+                    <td style="width: 160px;">
+                    <p>48.00&rdquo;</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 160px;">
+                    <p>Tensile Rating</p>
+                    </td>
+                    <td style="width: 160px;">
+                    <p>As per top connection</p>
+                    </td>
+                    <td style="width: 160px;">
+                    <p>As per top connection</p>
+                    </td>
+                    <td style="width: 160px;">
+                    <p>As per top connection</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 160px;">
+                    <p>Working Pressure Rating</p>
+                    </td>
+                    <td style="width: 160px;">
+                    <p>5,000 psi</p>
+                    </td>
+                    <td style="width: 160px;">
+                    <p>5,000 psi</p>
+                    </td>
+                    <td style="width: 160px;">
+                    <p>5,000 psi</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p>Other sizes and rating are available upon request</p>
+        <p>
+        <br />
+        &nbsp;</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "81789e7c-2821-4c88-a244-ba0b32a1ed0e"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: ReAct Tubing Filler Sub specifications
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\verticjandersen
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190411T122943Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190607T201221Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticjandersen
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td style="width: 160px;">
+                    <p><strong>Tool Size</strong></p>
+                    </td>
+                    <td style="width: 160px;">
+                    <p><strong>3</strong><strong>&frac12;</strong><strong>&rdquo;</strong></p>
+                    </td>
+                    <td style="width: 160px;">
+                    <p><strong>4</strong><strong>&frac12;</strong><strong>&rdquo;</strong></p>
+                    </td>
+                    <td style="width: 160px;">
+                    <p><strong>5</strong><strong>&frac12;</strong><strong>&rdquo;</strong></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 160px;">
+                    <p>Top Connection</p>
+                    </td>
+                    <td style="width: 160px;">
+                    <p>Customer Specified</p>
+                    </td>
+                    <td style="width: 160px;">
+                    <p>Customer Specified</p>
+                    </td>
+                    <td style="width: 160px;">
+                    <p>Customer Specified</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 160px;">
+                    <p>Metallic Materials</p>
+                    </td>
+                    <td style="width: 160px;">
+                    <p>80 ksi</p>
+                    </td>
+                    <td style="width: 160px;">
+                    <p>80 ksi</p>
+                    </td>
+                    <td style="width: 160px;">
+                    <p>80 ksi</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 160px;">
+                    <p>OD</p>
+                    </td>
+                    <td style="width: 160px;">
+                    <p>4.45&rdquo;</p>
+                    </td>
+                    <td style="width: 160px;">
+                    <p>5.85&rdquo;</p>
+                    </td>
+                    <td style="width: 160px;">
+                    <p>7.625&rdquo;</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 160px;">
+                    <p>ID</p>
+                    </td>
+                    <td style="width: 160px;">
+                    <p>2.25&rdquo;</p>
+                    </td>
+                    <td style="width: 160px;">
+                    <p>3.84&rdquo;</p>
+                    </td>
+                    <td style="width: 160px;">
+                    <p>4.562&rdquo;</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 160px;">
+                    <p>Length</p>
+                    </td>
+                    <td style="width: 160px;">
+                    <p>40.50&rdquo;</p>
+                    </td>
+                    <td style="width: 160px;">
+                    <p>40.50&rdquo;</p>
+                    </td>
+                    <td style="width: 160px;">
+                    <p>48.00&rdquo;</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 160px;">
+                    <p>Tensile Rating</p>
+                    </td>
+                    <td style="width: 160px;">
+                    <p>As per top connection</p>
+                    </td>
+                    <td style="width: 160px;">
+                    <p>As per top connection</p>
+                    </td>
+                    <td style="width: 160px;">
+                    <p>As per top connection</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 160px;">
+                    <p>Working Pressure Rating</p>
+                    </td>
+                    <td style="width: 160px;">
+                    <p>5,000 psi</p>
+                    </td>
+                    <td style="width: 160px;">
+                    <p>5,000 psi</p>
+                    </td>
+                    <td style="width: 160px;">
+                    <p>5,000 psi</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p>Other sizes and rating are available upon request</p>
+        <p>
+        <br />
+        &nbsp;</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7a0822ea-e51c-4ee5-be32-06e130b29acf"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: ReAct Tubing Filler Sub Specifications
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190607T201221Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190607T201300Z
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190613T182039Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticjandersen
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td>
+                    Tool size (in.)
+                    <p>&nbsp;</p>
+                    </td>
+                    <td>
+                    <strong>3</strong><strong>&frac12;</strong>
+                    </td>
+                    <td>
+                    <strong>4</strong><strong>&frac12;</strong>
+                    </td>
+                    <td>
+                    <strong>5</strong><strong>&frac12;</strong>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Top connection
+                    </td>
+                    <td>
+                    Customer specified
+                    </td>
+                    <td>
+                    Customer specified
+                    </td>
+                    <td>
+                    Customer specified
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Metallic materials (ksi)
+                    </td>
+                    <td>
+                    80
+                    </td>
+                    <td>
+                    80
+                    </td>
+                    <td>
+                    80
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    OD (in.)
+                    </td>
+                    <td>
+                    4.45
+                    </td>
+                    <td>
+                    5.85
+                    </td>
+                    <td>
+                    7.625
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    ID (in.)
+                    </td>
+                    <td>
+                    2.25
+                    </td>
+                    <td>
+                    3.84
+                    </td>
+                    <td>
+                    4.562
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Length (in.)
+                    </td>
+                    <td>
+                    40.50
+                    </td>
+                    <td>
+                    40.50
+                    </td>
+                    <td>
+                    48.00
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Tensile rating
+                    </td>
+                    <td>
+                    As per top connection
+                    </td>
+                    <td>
+                    As per top connection
+                    </td>
+                    <td>
+                    As per top connection
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Working pressure rating (psi)
+                    </td>
+                    <td>
+                    5,000
+                    </td>
+                    <td>
+                    5,000
+                    </td>
+                    <td>
+                    5,000
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <br />
+        <p>Other sizes and rating are available upon request</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "03b2f942-a4c7-4c2a-bcb0-bf5c1a9dbd48"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: ReAct Tubing Filler Sub Specifications
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190613T182039Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190613T182625Z
+  - Version: 4
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190613T182736Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticjandersen
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td>
+                    Tool size (in.)
+                    </td>
+                    <td>
+                    <strong>3</strong><strong>&frac12;</strong>
+                    </td>
+                    <td>
+                    <strong>4</strong><strong>&frac12;</strong>
+                    </td>
+                    <td>
+                    <strong>5</strong><strong>&frac12;</strong>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Top connection
+                    </td>
+                    <td>
+                    Customer specified
+                    </td>
+                    <td>
+                    Customer specified
+                    </td>
+                    <td>
+                    Customer specified
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Metallic materials (ksi)
+                    </td>
+                    <td>
+                    80
+                    </td>
+                    <td>
+                    80
+                    </td>
+                    <td>
+                    80
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    OD (in.)
+                    </td>
+                    <td>
+                    4.45
+                    </td>
+                    <td>
+                    5.85
+                    </td>
+                    <td>
+                    7.625
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    ID (in.)
+                    </td>
+                    <td>
+                    2.25
+                    </td>
+                    <td>
+                    3.84
+                    </td>
+                    <td>
+                    4.562
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Length (in.)
+                    </td>
+                    <td>
+                    40.50
+                    </td>
+                    <td>
+                    40.50
+                    </td>
+                    <td>
+                    48.00
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Tensile rating
+                    </td>
+                    <td>
+                    As per top connection
+                    </td>
+                    <td>
+                    As per top connection
+                    </td>
+                    <td>
+                    As per top connection
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Working pressure rating (psi)
+                    </td>
+                    <td>
+                    5,000
+                    </td>
+                    <td>
+                    5,000
+                    </td>
+                    <td>
+                    5,000
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <br />
+        <p>Other sizes and rating are available upon request</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "56b5fd67-e48f-4640-b9b9-6d6191f5ff6f"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: ReAct Tubing Filler Sub Specifications
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190613T182736Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190613T182815Z
+  - Version: 5
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190613T183021Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticjandersen
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td>
+                    Tool size (in.)
+                    </td>
+                    <td>
+                    <strong>3</strong><strong>&frac12;</strong>
+                    </td>
+                    <td>
+                    <strong>4</strong><strong>&frac12;</strong>
+                    </td>
+                    <td>
+                    <strong>5</strong><strong>&frac12;</strong>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Top connection
+                    </td>
+                    <td>
+                    Customer specified
+                    </td>
+                    <td>
+                    Customer specified
+                    </td>
+                    <td>
+                    Customer specified
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Metallic materials (ksi)
+                    </td>
+                    <td>
+                    80
+                    </td>
+                    <td>
+                    80
+                    </td>
+                    <td>
+                    80
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    OD (in.)
+                    </td>
+                    <td>
+                    4.45
+                    </td>
+                    <td>
+                    5.85
+                    </td>
+                    <td>
+                    7.625
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    ID (in.)
+                    </td>
+                    <td>
+                    2.25
+                    </td>
+                    <td>
+                    3.84
+                    </td>
+                    <td>
+                    4.562
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Length (in.)
+                    </td>
+                    <td>
+                    40.50
+                    </td>
+                    <td>
+                    40.50
+                    </td>
+                    <td>
+                    48.00
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Tensile rating
+                    </td>
+                    <td>
+                    As per top connection
+                    </td>
+                    <td>
+                    As per top connection
+                    </td>
+                    <td>
+                    As per top connection
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Working pressure rating (psi)
+                    </td>
+                    <td>
+                    5,000
+                    </td>
+                    <td>
+                    5,000
+                    </td>
+                    <td>
+                    5,000
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <br />
+        <p>Other sizes and ratings are available upon request.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ae9b0c9e-4960-4414-86c7-62d8842e44f4"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: ReAct Tubing Filler Sub Specifications
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190613T183021Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190613T183127Z

@@ -1,0 +1,112 @@
+﻿---
+ID: "41e1608c-8717-4ad9-97ea-b9217acbee89"
+Parent: "df4f0592-351e-49f0-8a1a-bfb934844ee5"
+Template: "5030864f-eb96-4da7-a417-e5a0108c59f8"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/CAPS/Process and Flow Technologies/Seawater Treatment/Seawater Treatment J6 Product Table
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200918T204522Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{40251B7D-FBE3-4A0E-8947-D4B4FE8CD782}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td>
+                    Technology
+                    </td>
+                    <td>
+                    Product Specification
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Coarse Filtration
+                    </td>
+                    <td>
+                    Removal of 98% of particles &gt;25 to 500 microns
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Multimedia Filtration
+                    </td>
+                    <td>
+                    Removal of 98% of particles &gt;2 to 10 microns
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Cartridge Filtration&nbsp;
+                    </td>
+                    <td>
+                    Removal of 98% of particles &gt;2 to 10 microns
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Ultrafiltration
+                    </td>
+                    <td>
+                    Removal of 99% of particles &gt;0.1 micron
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Sulfate Removal
+                    </td>
+                    <td>
+                    Permeate sulphate concentration 20 to 100 mg/l
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Deoxygenation
+                    </td>
+                    <td>
+                    Removal of oxygen down to 1 to 20 ppb
+                    </td>
+                </tr>
+                <tr>
+                    <td>Desalination</td>
+                    <td>Removal of salinity down to 500 to 10,000 mg/l<br />
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "240c456e-07a9-4afd-b9fe-6018363b8ed6"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: Seawater Treatment Specifications
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20201020T162526Z

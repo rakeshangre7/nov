@@ -1,0 +1,115 @@
+﻿---
+ID: "82850f30-e7b5-48d1-a1aa-e50747e20295"
+Parent: "118bb8a7-c1a9-445e-8b1f-a66fd8c611db"
+Template: "c0aa2bad-85b9-47e4-a236-901c3115fb87"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/WBT/WellSite Services/BRANDT AX 1 Shale Shaker/AX1 Shaker J5 Features List
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190311T162054Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\charisgamroth
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b7d5a3c0-835f-49b0-b623-21f7f5052d28"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: |
+        <p>The AX-1 shale shaker offers the ability to change configuration to suit the nature of your operation. Featuring a triple-deck layout that allows sized material retention (SMR) and a unique flow distribution system, the shaker is available in interchangeable parallel and series modes. In parallel mode, fluid handling capacity increases by load-sharing the flow between the middle and lower decks. In series mode, the fluid is consecutively screened through the three decks, optimizing solids removal efficiency and the life of the ultrafine screens employed.
+        </p>
+        <p>The AX-1 shale shaker offers exceptional raw throughput capacity and solids separation efficiency and effectively handles large circulation rates for fast top-hole drilling. With the ability to deliver improved separation through sequential screening, it improves screen life on very fine meshes.
+        </p>
+        <h2>Sized material retention</h2>
+        <p>
+        Drilling fluids engineered to contain specifically sized particles can include conventional lost-circulation materials that combat significant downhole losses or material sized to bridge fractures and pore spaces. These can allow higher fluid densities above the fracture gradient to be employed, resulting in reduced whole fluid losses in depleted zones, reduced number of casing runs, and an increased margin of safety. The AX-1 increases the efficiency and cost-effectiveness of these fluid formulations by retaining the sized particles on the middle deck while removing the larger and finer-drilled solids on the upper and lower decks.
+        </p>
+        <p><strong>Capacity: </strong>In parallel mode, AX-1 delivers about twice the throughput capacity of current dual-deck shaker brands.
+        </p>
+        <p><strong>Improved separation:</strong> When configured for series mode, the AX-1 has the ability to operate sequential screen sizes, which improves solid/liquid separation and reduces the attrition rate on the ultra-fine screens.
+        </p>
+        <p><strong>Flexibility:</strong> While the AX-1 offers high capacity to contend with upper hole sections, an ability to switch to sequential screening for smaller hole sections ensures optimum separation efficiency. SMR mode offers further flexibility with special screens for removal of milled swarf and the option to set up the shaker for offline processing of fluids.
+        </p>
+        <p><strong>Footprint:</strong> The AX-1 delivers a massive throughput differential, and the number of machines required can be significantly reduced, resulting in a smaller installed footprint.</p>
+        <p><strong>Reliability:</strong> The AX-1 shaker basket structure has field-proven, ruggedized drive system components to increase uptime and reduce maintenance costs.
+        </p>
+        <p><strong>Screens: </strong>The AX-1 uses the AX screening system.</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190311T164155Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190408T132400Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\charisgamroth
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d18d6daf-9710-4e01-8de8-ee7f87cecdcd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: |
+        <p>The AX-1 shale shaker offers the ability to change configuration to suit the nature of your operation. Featuring a triple-deck layout that allows sized material retention (SMR) and a unique flow distribution system, the shaker is available in interchangeable parallel and series modes. In parallel mode, fluid handling capacity increases by load-sharing the flow between the middle and lower decks. In series mode, the fluid is consecutively screened through the three decks, optimizing solids removal efficiency and the life of the ultrafine screens employed.
+        </p>
+        <p>The AX-1 shale shaker offers exceptional raw throughput capacity and solids separation efficiency and effectively handles large circulation rates for fast tophole drilling. With the ability to deliver improved separation through sequential screening, it improves screen life on very fine meshes.
+        </p>
+        <h2>Sized material retention</h2>
+        <p>
+        Drilling fluids engineered to contain specifically sized particles can include conventional lost-circulation materials that combat significant downhole losses or material sized to bridge fractures and pore spaces. These can allow higher fluid densities above the fracture gradient to be employed, resulting in reduced whole fluid losses in depleted zones, reduced number of casing runs, and an increased margin of safety. The AX-1 increases the efficiency and cost-effectiveness of these fluid formulations by retaining the sized particles on the middle deck while removing the larger and finer-drilled solids on the upper and lower decks.
+        </p>
+        <p><strong>Capacity: </strong>In parallel mode, AX-1 delivers about twice the throughput capacity of current dual-deck shaker brands.
+        </p>
+        <p><strong>Improved separation:</strong> When configured for series mode, the AX-1 has the ability to operate sequential screen sizes, which improves solid/liquid separation and reduces the attrition rate on the ultrafine screens.
+        </p>
+        <p><strong>Flexibility:</strong> While the AX-1 offers high capacity to contend with upper hole sections, an ability to switch to sequential screening for smaller hole sections ensures optimum separation efficiency. SMR mode offers further flexibility with special screens for removal of milled swarf and the option to set up the shaker for offline processing of fluids.
+        </p>
+        <p><strong>Footprint:</strong> The AX-1 delivers a massive throughput differential, and the number of machines required can be significantly reduced, resulting in a smaller installed footprint.</p>
+        <p><strong>Reliability:</strong> The AX-1 shaker basket structure has field-proven, ruggedized drive system components to increase uptime and reduce maintenance costs.
+        </p>
+        <p><strong>Screens: </strong>The AX-1 uses the AX screening system.</p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190408T132400Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190408T132410Z

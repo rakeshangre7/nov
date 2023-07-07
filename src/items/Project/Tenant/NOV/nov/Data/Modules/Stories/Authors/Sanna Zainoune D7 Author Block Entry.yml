@@ -1,0 +1,91 @@
+﻿---
+ID: "bbb31fe5-b334-41fd-9712-e66dd7fbba64"
+Parent: "0e16eaee-dcfc-431e-9caa-093856d5cffd"
+Template: "f83d9c61-6488-4a85-a988-1338257534e8"
+Path: /sitecore/content/nov/nov/Data/Modules/Stories/Authors/Sanna Zainoune D7 Author Block Entry
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190328T154907Z
+    - ID: "3daeba35-b5c3-46cb-a587-bd8431066769"
+      Hint: jobTitle
+      Value: Senior Dynamic Drilling Solutions Engineer
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\charisgamroth
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a3c1e53c-0d9d-4934-823a-3c086264195d"
+    - ID: "95e7dbea-d495-4414-aa9e-4ce9425d16eb"
+      Hint: authorName
+      Value: Sanna Zainoune
+    - ID: "ae98adc0-112a-4fd9-9103-1075d3bb9555"
+      Hint: bio
+      Value: Sanna Zainoune is a Senior Dynamic Drilling Solutions Engineer who has worked in the industry since 2005 and joined NOV in 2015. She provides technical support to operational projects in the North Sea – advising on hole cleaning, vibration analysis and drilling optimization. She holds a Master’s Degree in Process Engineering from Engineering School of Grenoble, France.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190328T155059Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190617T210853Z
+    - ID: "3daeba35-b5c3-46cb-a587-bd8431066769"
+      Hint: jobTitle
+      Value: Senior Dynamic Drilling Solutions Engineer
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\charisgamroth
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b14c6b09-d44e-482e-b1ca-a011a9714be1"
+    - ID: "95e7dbea-d495-4414-aa9e-4ce9425d16eb"
+      Hint: authorName
+      Value: Sanna Zainoune
+    - ID: "ae98adc0-112a-4fd9-9103-1075d3bb9555"
+      Hint: bio
+      Value: Sanna Zainoune is a senior Dynamic Drilling Solutions engineer who has worked in the industry since 2005 and joined NOV in 2015. She provides technical support to operational projects in the North Sea, advising on hole cleaning, vibration analysis, and drilling optimization. She holds a master&rsquo;s degree in process engineering from Engineering School of Grenoble, France.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190617T210853Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190617T210949Z

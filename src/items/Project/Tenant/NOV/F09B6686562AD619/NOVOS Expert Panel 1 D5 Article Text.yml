@@ -1,0 +1,125 @@
+﻿---
+ID: "227e34d3-fac2-4a6b-b358-872ada75c7d8"
+Parent: "4c1c74de-4726-49a0-9fa1-e8b82baa7097"
+Template: "07c63710-4422-42b9-adb7-67b4bad63607"
+Path: /sitecore/content/nov/nov/Data/Modules/About/NOV Today Podcast/Episode 22 NOVOS Expert Pannel Part 1 of 3/NOVOS Expert Panel 1 D5 Article Text
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "0f10eefb-f9da-4b41-83a0-87900c4e25ed"
+      Hint: body
+      Value: |
+        <p><b>00:00 Craig Johnson II:</b> The thing that I’ve noticed with all of our drillers that I’ve worked with is that, usually the drillers that are the ones that are most against it are the ones that are actually our biggest champions. It’s because they learn the system and the system actually proves itself to them.</p>
+        <p>[music]</p>
+        <p><b>00:20 Michael Gaines:</b> Welcome to NOV Today. I’m your host Michael Gaines, and today we’re here talking about NOVOS. And to give us a little more light and to help us understand what the system is all about, I have Craig Johnson here who is the NOVOS systems engineer. So, Craig, thanks for being here.</p>
+        <p><b>
+        00:38 Craig Johnson II:</b> No problem. Thanks for having me.</p>
+        <p><b>
+        00:39 Michael Gaines:</b> Yeah, absolutely. So when we’re looking at NOVOS and talking about it, can you help me understand what is it? We say that it’s a reflexive drilling system. So for those that aren’t familiar, what is that?&nbsp;</p>
+        <p><b>
+        00:52 Craig Johnson II:</b> So when we say reflexive, what we mean is the system has the ability to fit into what your drilling operations are. So we don’t just design a system that only drills in one certain piece of the world or a certain area. What we’re saying is that the system can be configured to fit your specific drilling operations.</p>
+        <p><b>
+        01:15 Michael Gaines:</b> Okay, okay. So, and in that, I guess, the assumption then is that it can fit in the specific drilling operations, whether that’s on land or offshore, right?&nbsp;</p>
+        <p><b>
+        01:25 Craig Johnson II:</b> Absolutely. Our system is designed to be control system agnostic. And so it can fit on both land and offshore, as well as any parts of the world. We have operations that are in Alaska, West Texas, Pennsylvania. We have our first two offshore drilling platforms that are also in operations.</p>
+        <p><b>
+        01:47 Michael Gaines:</b> Okay, great. And NOVOS, it's not something that we kind of cooked up overnight. This has actually been a technology that we've developed for many years, and I think you've been a part of that from the get-go, right?&nbsp;</p>
+        <p><b>
+        02:01 Craig Johnson II: </b>Yeah, absolutely. So I’ve been with NOV for about 5 years now. I’ve been working on the NOVOS project for four, doing my onboarding and orientation. They gave us a presentation about NOVOS. And so, in the back of my head, I was like, “That sounds cool. And I really want to work on the project.” After a year in the program, basically I was given the opportunity to start working in NOVOS. So I’ve been with NOVOS for 4 years now. I’ve been on the very first rig and I'm still with the product as it’s growing on and graduating to what it is in the industry today.</p>
+        <p><b>
+        02:38 Michael Gaines:</b> I’m just disappointed your license plate doesn’t say NOVOS.</p>
+        <p><b>
+        02:41 Craig Johnson II:</b> I have a tattoo.</p>
+        <p><b>
+        02:42 Michael Gaines:</b> Yeah.</p>
+        <p>
+        [laughter]</p>
+        <p><b>
+        02:45 Michael Gaines:</b> Oh, no. That’s really cool. So when you talk about NOVOS with those that are in the field, and especially when you’re talking to those that are part of the installation process, what are those conversations like? And can you talk about sort of the ease of installation when you're installing NOVOS?&nbsp;<br />
+        <br /><b>
+        03:03 Craig Johnson II: </b>Sure, sure, absolutely. So as I told you, mentioned earlier, our control system is, we have two major flavors, <a href="~/link.aspx?_id=0A6DE8B5A6C74FC88FD9AA83055447B6&amp;_z=z">Cyberbase and Amphion</a>. What NOVOS is, is designed to sit on top of both. And how that happens is, there’s minimal changes that have to happen to the actual control system on the rig. And so you could actually break it up into two parts. You can commission the changes that have to happen on the control system. And then once you finish with that, if you don't have the time to actually do both at the same time, you can split that up, get back to drilling, and then have your NOVOS install going on while the rig is actually in operations. Then once you have another opportunity for a window, you can actually commission the NOVOS system in that way; you can do it with minimal downtime.<br />
+        <br />
+        0<b>3:51 Michael Gaines: </b>And so when you’re looking at that, again, I know we talked about both applications for land and offshore, that’s the same across the board, right?&nbsp;<br />
+        <br /><b>
+        03:58 Craig Johnson II: </b>Yeah, absolutely.<br />
+        <br /><b>
+        04:00 Michael Gaines: </b>Right. Once you get the system installed, I know that obviously there’s a learning curve, but the feedback that you get from drillers I'm sure has to be quite exciting and entertaining, right?&nbsp;<br />
+        <br /><b>
+        04:15 Craig Johnson II:</b> Yeah. So I’ve actually heard the best of the feedback and also the worst.<br />
+        <br /><b>
+        04:19 Michael Gaines: </b>Sure.<br />
+        <br /><b>
+        04:20 Craig Johnson II:</b> But the thing that I’ve noticed with all of our drillers that I’ve worked with is that usually the drillers that are the ones that are most against it are the ones that are actually our biggest champions. It’s because they learn the system and the system actually proves itself to them. So usually after a week or so with the system, they’re starting to gain that trust with the system and let it be able to do and don’t want to interact, not necessarily do not interact, but they don’t want to interrupt the actual automation that’s going on. After about a month, they begin to see, “Okay, how have I not been drilling with NOVOS since I’ve been drilling? Why is that all drillers don't have this yet?”<br />
+        <br /><b>
+        05:02 Michael Gaines:</b> Which is, it’s kind of an interesting concept, in terms of change, because like you said, you expect those that say, “Hey, this is not for me,” end up actually supporting or being most supportive of that change.<br />
+        <br /><b>
+        05:15 Craig Johnson II:</b> Yes, yes, absolutely. Usually those drillers are the ones that they're our greatest asset, I think, because they give us the best feedback. They say, “You do this great. It would be great if you could improve on this.” Or, “It would be awesome if you would do this instead of the way you’re doing it now.” So that actually, that feedback is, I say is the most viable thing we get from those drillers because it makes our system better. It takes our systems to the next level.<br />
+        <br /><b>
+        05:44 Michael Gaines:</b> So you’ve mentioned some of the commentary and feedback that you get from drillers. What else do you hear from the likes of drilling contractors, and company men? Especially in the area of the consistency that NOVOS provides?<br />
+        <br /><b>
+        05:58 Craig Johnson II:</b> So, a level consistency, from our customers we’ve seen that they’re getting a reduction in their flat time as well as their connection time. So from the moment they come out of slips and engage a bit to bottom, that’s where NOVOS really shines. NOVOS does the sequence in a way that they’re not waiting on those normal rule of thumbs or... And it’s actually being data driven on those decisions that it’s making. And then also from the point of where you finished drilling your stand and then we’re going back in the slips of that process is where NOVOS shines as well. Because, like I said, we’re making decisions based on data, not necessarily on rule of thumbs.<br />
+        <br /><b>
+        06:43 Michael Gaines:</b> Which I know is a complete game changer.<br />
+        <br /><b>
+        06:45 Craig Johnson II:</b> Absolutely.<br />
+        <br /><b>
+        06:46 Michael Gaines:</b> Another aspect to NOVOS that I know many have talked about in terms of the benefit is the reduction in flat time using NOVOS. Can you talk a little bit about that?&nbsp;<br />
+        <br /><b>
+        06:58 Craig Johnson II:</b> Yeah, so reduction of flat time is, as I mentioned was, they were making decisions based on the data. And so normally, a driller would say, “I’m going to sit here for 5 seconds before I continue on, or before I go ahead and turn on my top drive.” So the fact that we’re actually looking for actually when the fluid is moving, we don’t necessarily have to wait that 5 seconds. If we see returns or if we see that we do have an increase in our pressure, that means that that fluid is actually moving. So that means we can continue on with the process. So the normal time the driller’s sitting there waiting for just time we can actually cut that out, and over an entire well that time adds up.<br />
+        <br /><b>
+        07:42 Michael Gaines:</b> Right. So when you look at NOVOS, and if we’re zooming in on the operations from a daily basis, how does NOVOS impact in that regard?&nbsp;<br />
+        <br /><b>
+        07:57 Craig Johnson II: </b>So, normally the daily operation is you have two drillers. The drillers usually meet at the end of their shift and they have a handover meeting. What I’ve seen is, I’ve been on rigs with the system for a while, and those meetings become shorter and shorter, because usually one driller is telling the other driller, “I did it everything this way.” And so he’s telling him what he did for the entire day and all those settings that he normally does things. So with the NOVOS system, being that those settings are saved in the system, that time is now, it’s there for you, you just give him a normal overview, and then that meeting is done. It doesn’t have to be that whole drawn out of, looking over all his notes for the day, things he experienced. All those things are saved within NOVOS. So how he tags the bottom if they’re in a hard formation or a softer formation. All those settings are still in the system.<br />
+        <br /><b>
+        08:48 Michael Gaines: </b>So when you look at NOVOS and having been a part of it from, essentially the very beginning, what is the most exciting part of the NOVOS system to you? What really just gets you going when you work on it?&nbsp;<br />
+        <br /><b>
+        09:05 Craig Johnson II:</b> The most exciting part for me is the applications. And so with the applications, what it does is it gives anyone that has knowledge about drilling operations and dynamics, they don’t have to worry about how they’re going to control the tools anymore, they can just worry about optimizing that particular thing that they’re great at. So it cuts down on there, from idea to implementation, because they don’t have to worry about how they’re going to control things or how they have to limit things or worry about if they’re going to, those edge cases of sending a weird set points to the system. Those things are built into our platform. So what happens is, a normal Joe can say, “I have a better way to do it.” He can basically program the application that can do it, and as long as he has buy-in from the contractor or the operator to test out this application, they can deploy it to the system within 2 weeks.<br />
+        <br /><b>
+        10:08 Michael Gaines:</b> It doesn’t sound dissimilar from if I was developing an app for my phone or something like that.<br />
+        <br /><b>
+        10:13 Craig Johnson II: </b>Exactly. It’s just the same way.<br />
+        <br /><b>
+        10:14 Michael Gaines: </b>Yeah, yeah, wow. So if people want to get a little more information on NOVOS and understand a little bit more about some of the benefits and how it might help them, where can they go for more information?&nbsp;<br />
+        <br /><b>
+        10:27 Craig Johnson II: </b>They can go to nov.com/novos.<br />
+        <br /><b>
+        10:28 Michael Gaines:</b> Okay, great.<br />
+        <br /><b>
+        10:29 Michael Gaines: </b>So we’ve been talking with Craig Johnson, the NOVOS systems engineer. And in our next episode, we’ll be talking with Vanesh Remballi about simulations and its impact on NOVOS. For NOV Today, I’m Michael Gaines. Thanks for listening, and we’ll talk to you later.<br />
+        <br />
+        [music]<br />
+        <br /><b>
+        10:48 Michael Gaines: </b>Thanks for listening to this episode of NOV Today. We’d like to hear your feedback. Share your thoughts by tweeting us at NOV Global and using the #novtoday. Or you can contact us by sending an email to podcast@nov.com. To stay up to date on the latest episodes, visit our website at <a href="~/link.aspx?_id=FE9EEA38FF53464791BC2667AC395223&amp;_z=z">www.nov.com/podcast</a>. There you can find show summaries and links to subscribe on iTunes, Google podcasts, SoundCloud, or wherever you get your favorite podcasts. For NOV Today, I’m Michael Gaines. Thanks for listening, and we’ll talk to you later.&nbsp;</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190927T203326Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a7b8898d-cf8a-4ded-a274-b03ad694a9be"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\joannazhu
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20191016T213026Z

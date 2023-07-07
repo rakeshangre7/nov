@@ -1,0 +1,464 @@
+﻿---
+ID: "83957b6c-d54c-4e55-862d-396b57fde8c2"
+Parent: "4d06f6ec-cacc-474e-9a66-325054177cc7"
+Template: "5030864f-eb96-4da7-a417-e5a0108c59f8"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/WBT/Grant Prideco/TT Connections/Turbotorque connections Product Table
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190520T182140Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mecoreyna
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mecoreyna
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table width="659">
+            <tbody>
+                <tr>
+                    <td style="width: 90px;">
+                    Pipe OD (in.)
+                    </td>
+                    <td style="width: 168px;">
+                    Nominal Weight (lb/ft)
+                    </td>
+                    <td style="width: 83px;">
+                    Connection
+                    </td>
+                    <td style="width: 150px;">
+                    Tool Joint OD &times; ID (in.)
+                    </td>
+                    <td style="width: 168px;">
+                    Maximum MUT (ft-lb)
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 90px;">
+                    3.500
+                    </td>
+                    <td style="width: 168px;">
+                    13.30
+                    </td>
+                    <td style="width: 83px;">
+                    TT 380
+                    </td>
+                    <td style="width: 150px;">
+                    4.750 &times; 2.625
+                    </td>
+                    <td style="width: 168px;">
+                    27,100
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 90px;">
+                    4.000
+                    </td>
+                    <td style="width: 168px;">
+                    14.00
+                    </td>
+                    <td style="width: 83px;">
+                    TT 390
+                    </td>
+                    <td style="width: 150px;">
+                    4.875 &times; 2.688
+                    </td>
+                    <td style="width: 168px;">
+                    29,700
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 90px;">
+                    4.500
+                    </td>
+                    <td style="width: 168px;">
+                    16.60
+                    </td>
+                    <td style="width: 83px;">
+                    TT 485
+                    </td>
+                    <td style="width: 150px;">
+                    6.000 &times; 3.563
+                    </td>
+                    <td style="width: 168px;">
+                    47,600
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 90px;">
+                    5.000
+                    </td>
+                    <td style="width: 168px;">
+                    19.50
+                    </td>
+                    <td style="width: 83px;">
+                    TT 525
+                    </td>
+                    <td style="width: 150px;">
+                    6.500 &times; 3.750
+                    </td>
+                    <td style="width: 168px;">
+                    63,800
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 90px;">
+                    5.500
+                    </td>
+                    <td style="width: 168px;">
+                    21.90
+                    </td>
+                    <td style="width: 83px;">
+                    TT 585
+                    </td>
+                    <td style="width: 150px;">
+                    7.000 &times; 4.500
+                    </td>
+                    <td style="width: 168px;">
+                    72,400
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 90px;">
+                    5.875
+                    </td>
+                    <td style="width: 168px;">
+                    23.40
+                    </td>
+                    <td style="width: 83px;">
+                    TT 585
+                    </td>
+                    <td style="width: 150px;">
+                    7.000 &times; 4.500
+                    </td>
+                    <td style="width: 168px;">
+                    72,400
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 90px;">
+                    6.625
+                    </td>
+                    <td style="width: 168px;">
+                    27.70
+                    </td>
+                    <td style="width: 83px;">
+                    TT 690
+                    </td>
+                    <td style="width: 150px;">
+                    8.250 &times; 5.375
+                    </td>
+                    <td style="width: 168px;">
+                    106,700
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6f629376-f24d-4850-9537-32811cdc6e61"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: Standard TurboTorque Configurations for S135 Grade Drill Pipe
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mecoreyna
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190520T182808Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190522T221604Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mecoreyna
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table width="659">
+            <tbody>
+                <tr>
+                    <td style="width: 90px;">
+                    <strong>Pipe OD (in.)
+                    </strong></td>
+                    <td style="width: 168px;"><strong>
+                    Nominal Weight (lb/ft)
+                    </strong></td>
+                    <td style="width: 83px;"><strong>
+                    Connection
+                    </strong></td>
+                    <td style="width: 150px;"><strong>
+                    Tool Joint OD &times; ID (in.)
+                    </strong></td>
+                    <td style="width: 168px;"><strong>
+                    Maximum MUT (ft-lb)</strong>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 90px;">
+                    3.500
+                    </td>
+                    <td style="width: 168px;">
+                    13.30
+                    </td>
+                    <td style="width: 83px;">
+                    TT 380
+                    </td>
+                    <td style="width: 150px;">
+                    4.750 &times; 2.625
+                    </td>
+                    <td style="width: 168px;">
+                    27,100
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 90px;">
+                    4.000
+                    </td>
+                    <td style="width: 168px;">
+                    14.00
+                    </td>
+                    <td style="width: 83px;">
+                    TT 390
+                    </td>
+                    <td style="width: 150px;">
+                    4.875 &times; 2.688
+                    </td>
+                    <td style="width: 168px;">
+                    29,700
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 90px;">
+                    4.500
+                    </td>
+                    <td style="width: 168px;">
+                    16.60
+                    </td>
+                    <td style="width: 83px;">
+                    TT 485
+                    </td>
+                    <td style="width: 150px;">
+                    6.000 &times; 3.563
+                    </td>
+                    <td style="width: 168px;">
+                    47,600
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 90px;">
+                    5.000
+                    </td>
+                    <td style="width: 168px;">
+                    19.50
+                    </td>
+                    <td style="width: 83px;">
+                    TT 525
+                    </td>
+                    <td style="width: 150px;">
+                    6.500 &times; 3.750
+                    </td>
+                    <td style="width: 168px;">
+                    63,800
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 90px;">
+                    5.500
+                    </td>
+                    <td style="width: 168px;">
+                    21.90
+                    </td>
+                    <td style="width: 83px;">
+                    TT 585
+                    </td>
+                    <td style="width: 150px;">
+                    7.000 &times; 4.500
+                    </td>
+                    <td style="width: 168px;">
+                    72,400
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 90px;">
+                    5.875
+                    </td>
+                    <td style="width: 168px;">
+                    23.40
+                    </td>
+                    <td style="width: 83px;">
+                    TT 585
+                    </td>
+                    <td style="width: 150px;">
+                    7.000 &times; 4.500
+                    </td>
+                    <td style="width: 168px;">
+                    72,400
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 90px;">
+                    6.625
+                    </td>
+                    <td style="width: 168px;">
+                    27.70
+                    </td>
+                    <td style="width: 83px;">
+                    TT 690
+                    </td>
+                    <td style="width: 150px;">
+                    8.250 &times; 5.375
+                    </td>
+                    <td style="width: 168px;">
+                    106,700
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "51915163-6c48-4e40-8adb-576a3021a5ad"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: Standard TurboTorque Configurations for S135 Grade Drill Pipe
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190522T221604Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190522T221714Z
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190523T152112Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mecoreyna
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+        <tbody>
+        <tr>
+        <td><strong>Pipe OD (in.) </strong></td>
+        <td><strong>Nominal Weight (lb/ft) </strong></td>
+        <td><strong>Connection </strong></td>
+        <td><strong>Tool Joint OD &times; ID (in.) </strong></td>
+        <td><strong>Maximum MUT (ft-lb)</strong></td>
+        </tr>
+        <tr>
+        <td>3.500</td>
+        <td>13.30</td>
+        <td>TT 380</td>
+        <td>4.750 &times; 2.625</td>
+        <td>27,100</td>
+        </tr>
+        <tr>
+        <td>4.000</td>
+        <td>14.00</td>
+        <td>TT 390</td>
+        <td>4.875 &times; 2.688</td>
+        <td>29,700</td>
+        </tr>
+        <tr>
+        <td>4.500</td>
+        <td>16.60</td>
+        <td>TT 485</td>
+        <td>6.000 &times; 3.563</td>
+        <td>47,600</td>
+        </tr>
+        <tr>
+        <td>5.000</td>
+        <td>19.50</td>
+        <td>TT 525</td>
+        <td>6.500 &times; 3.750</td>
+        <td>63,800</td>
+        </tr>
+        <tr>
+        <td>5.500</td>
+        <td>21.90</td>
+        <td>TT 585</td>
+        <td>7.000 &times; 4.500</td>
+        <td>72,400</td>
+        </tr>
+        <tr>
+        <td>5.875</td>
+        <td>23.40</td>
+        <td>TT 585</td>
+        <td>7.000 &times; 4.500</td>
+        <td>72,400</td>
+        </tr>
+        <tr>
+        <td>6.625</td>
+        <td>27.70</td>
+        <td>TT 690</td>
+        <td>8.250 &times; 5.375</td>
+        <td>106,700</td>
+        </tr>
+        </tbody>
+        </table>
+        <p>Contact your Grant Prideco representative for further tool joint OD and ID configurations.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f63081bd-2410-416a-ae0b-330175a7d15a"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: Standard TurboTorque Configurations for S135 Grade Drill Pipe
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190523T152112Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190523T152319Z

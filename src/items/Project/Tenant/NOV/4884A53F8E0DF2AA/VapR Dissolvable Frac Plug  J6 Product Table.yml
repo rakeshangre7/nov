@@ -1,0 +1,505 @@
+﻿---
+ID: "6573837f-e792-4543-8948-77357d1a249a"
+Parent: "7dcd0c3b-7cf0-4d97-8f51-5c8a27a70f7d"
+Template: "5030864f-eb96-4da7-a417-e5a0108c59f8"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/CAPS/Completion Tools/VapR Dissolvable Frac Plug/VapR Dissolvable Frac Plug  J6 Product Table
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191011T195049Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\melissapastrano
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\melissapastrano
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td style="width: 200px;">
+                    <p>Casing size</p>
+                    </td>
+                    <td style="width: 200px;">
+                    <p>4.500 in. (114.30 mm)</p>
+                    </td>
+                    <td style="width: 200px;">
+                    <p>5.500 in. (139.70 mm)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 200px;">
+                    <p>Casing weight range</p>
+                    </td>
+                    <td style="width: 200px;">
+                    <p>13.500 to 15.100 in.</p>
+                    <p>(20.09 to 22.47 mm)</p>
+                    </td>
+                    <td style="width: 200px;">
+                    <p>20.000 to 23.000 in.</p>
+                    <p>(29.76 to 34.22 mm)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 200px;">
+                    <p>Maximum plug OD</p>
+                    </td>
+                    <td style="width: 200px;">
+                    <p>3.600 in.</p>
+                    <p>(91.44 mm)</p>
+                    </td>
+                    <td style="width: 200px;">
+                    <p>4.390 in.</p>
+                    <p>(111.51 mm)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 200px;">
+                    <p>Minimum plug ID</p>
+                    </td>
+                    <td style="width: 200px;">
+                    <p>1.650 in.</p>
+                    <p>(41.91 mm)</p>
+                    </td>
+                    <td style="width: 200px;">
+                    <p>2.000 in.</p>
+                    <p>(50.80 mm)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 200px;">
+                    <p>Plug length</p>
+                    </td>
+                    <td style="width: 200px;">
+                    <p>8.067 in.</p>
+                    <p>(204.90 mm)</p>
+                    </td>
+                    <td style="width: 200px;">
+                    <p>9.725 in.</p>
+                    <p>(247.02 mm)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 200px;">
+                    <p>Material</p>
+                    </td>
+                    <td style="width: 200px;">
+                    <p>Dissolvable</p>
+                    </td>
+                    <td style="width: 200px;">
+                    <p>Dissolvable</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 200px;">
+                    <p>Temperature rating</p>
+                    </td>
+                    <td style="width: 200px;">
+                    <p>200 &deg;F</p>
+                    <p>(93.33 &deg;C )</p>
+                    </td>
+                    <td style="width: 200px;">
+                    <p>200 &deg;F</p>
+                    <p>(93.33 &deg;C )</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 200px;">
+                    <p>Pressure rating</p>
+                    </td>
+                    <td style="width: 200px;">
+                    <p>10,000 psi</p>
+                    <p>(68 947 kPa)</p>
+                    </td>
+                    <td style="width: 200px;">
+                    <p>10,000 psi</p>
+                    <p>(68 947 kPa)</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0597585d-4029-43ec-8fb8-469378dcb778"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: VapR Dissolvable Frac Plug Specifications
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\melissapastrano
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20191015T120644Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200720T170325Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\melissapastrano
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaylakaplan
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <br />
+        <table border="0" cellpadding="0" cellspacing="0" width="851" style="width: 640pt;">
+            <colgroup><col width="139" style="width: 104pt;" /> <col width="178" span="4" style="width: 134pt;" /> </colgroup>
+            <tbody>
+                <tr height="21" style="height: 15.5pt;">
+                    <td style="height: 15.5pt; width: 104pt; text-align: left;">Casing</td>
+                    <td style="width: 134pt; text-align: left;">4.500 in. (114.30 mm)</td>
+                    <td style="width: 134pt; text-align: left;">4.500 in. (114.30 mm)</td>
+                    <td style="width: 134pt; text-align: left;">5.500 in. (139.70 mm)</td>
+                    <td style="width: 134pt; text-align: left;">5.500 in. (139.70 mm)</td>
+                </tr>
+                <tr height="21" style="height: 15.5pt;">
+                    <td style="height: 15.5pt; text-align: left;">Casing weight range</td>
+                    <td style="text-align: left;">13.5 &ndash; 15.1 lbf <br />
+                    (20.09 &ndash; 22.47 kg/m)</td>
+                    <td style="text-align: left;">13.5 &ndash; 15.1 lbf&nbsp;<br />
+                    (20.09 &ndash; 22.47 kg/m)</td>
+                    <td style="text-align: left;">20.0 &ndash; 23.0 lbf&nbsp;<br />
+                    (29.76 &ndash; 34.22 kg/m)</td>
+                    <td style="text-align: left;">20.0 &ndash; 23.0 lbf&nbsp;<br />
+                    (29.76 &ndash; 34.22 kg/m)</td>
+                </tr>
+                <tr height="21" style="height: 15.5pt;">
+                    <td style="height: 15.5pt; text-align: left;">Maximum plug OD</td>
+                    <td style="text-align: left;">3.600 in. (91.44 mm)</td>
+                    <td style="text-align: left;">3.600 in. (91.44 mm)</td>
+                    <td style="text-align: left;">4.390 in. (111.51 mm)</td>
+                    <td style="text-align: left;">4.390 in. (111.51 mm)</td>
+                </tr>
+                <tr height="21" style="height: 15.5pt;">
+                    <td style="height: 15.5pt; text-align: left;">Minimum plug ID</td>
+                    <td style="text-align: left;">1.200 in. (30.48 mm)</td>
+                    <td style="text-align: left;">1.650 in. (41.91 mm)</td>
+                    <td style="text-align: left;">1.975 in. (50.17 mm)</td>
+                    <td style="text-align: left;">1.380 in. (35.05 mm)</td>
+                </tr>
+                <tr height="21" style="height: 15.5pt;">
+                    <td style="height: 15.5pt; text-align: left;">Plug length</td>
+                    <td style="text-align: left;">7.070 in. (179.58 mm)</td>
+                    <td style="text-align: left;">8.310 in. (211.07 mm)</td>
+                    <td style="text-align: left;">8.975 in. (227.97 mm)</td>
+                    <td style="text-align: left;">8.950 in. (227.33 mm)</td>
+                </tr>
+                <tr height="21" style="height: 15.5pt;">
+                    <td style="height: 15.5pt; text-align: left;">Ball type</td>
+                    <td style="text-align: left;">Ball in place</td>
+                    <td style="text-align: left;">Drop ball</td>
+                    <td style="text-align: left;">Drop ball</td>
+                    <td style="text-align: left;">Ball in place</td>
+                </tr>
+                <tr height="21" style="height: 15.5pt;">
+                    <td style="height: 15.5pt; text-align: left;">Material</td>
+                    <td style="text-align: left;">Dissolvable</td>
+                    <td style="text-align: left;">Dissolvable</td>
+                    <td style="text-align: left;">Dissolvable</td>
+                    <td style="text-align: left;">Dissolvable</td>
+                </tr>
+                <tr height="21" style="height: 15.5pt;">
+                    <td style="height: 15.5pt; text-align: left;">Temperature rating</td>
+                    <td style="text-align: left;">300 &deg;F (148.89 &deg;C)</td>
+                    <td style="text-align: left;">300 &deg;F (148.89 &deg;C)</td>
+                    <td style="text-align: left;">200 &deg;F (93.33 &deg;C)</td>
+                    <td style="text-align: left;">200 &deg;F (93.33 &deg;C)</td>
+                </tr>
+                <tr height="21" style="height: 15.5pt;">
+                    <td style="height: 15.5pt; text-align: left;">Pressure rating</td>
+                    <td style="text-align: left;">10,000 psi (68,947 kPa)</td>
+                    <td style="text-align: left;">10,000 psi (68,947 kPa)</td>
+                    <td style="text-align: left;">10,000 psi (68,947 kPa)</td>
+                    <td style="text-align: left;">10,000 psi (68,947 kPa)</td>
+                </tr>
+            </tbody>
+        </table>
+        <br />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8077ce57-e700-4f88-9296-8b3c981ab944"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: VapR Dissolvable Frac Plug Specifications
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaylakaplan
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200720T170325Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200720T172725Z
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200720T172732Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\melissapastrano
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaylakaplan
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <br />
+        <table border="0" cellpadding="0" cellspacing="0" width="851" style="width: 640pt;">
+            <colgroup><col width="139" style="width: 104pt;" /> <col width="178" span="4" style="width: 134pt;" /> </colgroup>
+            <tbody>
+                <tr height="21" style="height: 15.5pt;">
+                    <td style="height: 15.5pt; width: 104pt; text-align: left;">Casing</td>
+                    <td style="width: 134pt; text-align: left;">&nbsp;4.500 in. (114.30 mm)</td>
+                    <td style="width: 134pt; text-align: left;">4.500 in. (114.30 mm)</td>
+                    <td style="width: 134pt; text-align: left;">4.500 in. (114.30 mm)</td>
+                    <td style="width: 134pt; text-align: left;">5.500 in. (139.70 mm)</td>
+                    <td style="width: 134pt; text-align: left;">5.500 in. (139.70 mm)</td>
+                </tr>
+                <tr height="21" style="height: 15.5pt;">
+                    <td style="height: 15.5pt; text-align: left;">Casing weight range</td>
+                    <td style="text-align: left;">&nbsp;11.6 lbf (17.26 kg/m)</td>
+                    <td style="text-align: left;">13.5 &ndash; 15.1 lbf <br />
+                    (20.09 &ndash; 22.47 kg/m)</td>
+                    <td style="text-align: left;">13.5 &ndash; 15.1 lbf&nbsp;<br />
+                    (20.09 &ndash; 22.47 kg/m)</td>
+                    <td style="text-align: left;">20.0 &ndash; 23.0 lbf&nbsp;<br />
+                    (29.76 &ndash; 34.22 kg/m)</td>
+                    <td style="text-align: left;">20.0 &ndash; 23.0 lbf&nbsp;<br />
+                    (29.76 &ndash; 34.22 kg/m)</td>
+                </tr>
+                <tr height="21" style="height: 15.5pt;">
+                    <td style="height: 15.5pt; text-align: left;">Maximum plug OD</td>
+                    <td style="text-align: left;">&nbsp;3.600 in. (91.44 mm)</td>
+                    <td style="text-align: left;">3.600 in. (91.44 mm)</td>
+                    <td style="text-align: left;">3.600 in. (91.44 mm)</td>
+                    <td style="text-align: left;">4.390 in. (111.51 mm)</td>
+                    <td style="text-align: left;">4.390 in. (111.51 mm)</td>
+                </tr>
+                <tr height="21" style="height: 15.5pt;">
+                    <td style="height: 15.5pt; text-align: left;">Minimum plug ID</td>
+                    <td style="text-align: left;">&nbsp;1.200 in. (30.48 mm)</td>
+                    <td style="text-align: left;">1.200 in. (30.48 mm)</td>
+                    <td style="text-align: left;">1.650 in. (41.91 mm)</td>
+                    <td style="text-align: left;">1.975 in. (50.17 mm)</td>
+                    <td style="text-align: left;">1.380 in. (35.05 mm)</td>
+                </tr>
+                <tr height="21" style="height: 15.5pt;">
+                    <td style="height: 15.5pt; text-align: left;">Plug length</td>
+                    <td style="text-align: left;">&nbsp;7.240 in. (183.90 mm)</td>
+                    <td style="text-align: left;">7.070 in. (179.58 mm)</td>
+                    <td style="text-align: left;">8.310 in. (211.07 mm)</td>
+                    <td style="text-align: left;">8.975 in. (227.97 mm)</td>
+                    <td style="text-align: left;">8.950 in. (227.33 mm)</td>
+                </tr>
+                <tr height="21" style="height: 15.5pt;">
+                    <td style="height: 15.5pt; text-align: left;">Ball type</td>
+                    <td style="text-align: left;">&nbsp;Ball in place</td>
+                    <td style="text-align: left;">Ball in place</td>
+                    <td style="text-align: left;">Drop ball</td>
+                    <td style="text-align: left;">Drop ball</td>
+                    <td style="text-align: left;">Ball in place</td>
+                </tr>
+                <tr height="21" style="height: 15.5pt;">
+                    <td style="height: 15.5pt; text-align: left;">Material</td>
+                    <td style="text-align: left;">&nbsp;Dissolvable</td>
+                    <td style="text-align: left;">Dissolvable</td>
+                    <td style="text-align: left;">Dissolvable</td>
+                    <td style="text-align: left;">Dissolvable</td>
+                    <td style="text-align: left;">Dissolvable</td>
+                </tr>
+                <tr height="21" style="height: 15.5pt;">
+                    <td style="height: 15.5pt; text-align: left;">Temperature rating</td>
+                    <td style="text-align: left;">&nbsp;200 &deg;F (93.33 &deg;C)</td>
+                    <td style="text-align: left;">300 &deg;F (148.89 &deg;C)</td>
+                    <td style="text-align: left;">300 &deg;F (148.89 &deg;C)</td>
+                    <td style="text-align: left;">200 &deg;F (93.33 &deg;C)</td>
+                    <td style="text-align: left;">200 &deg;F (93.33 &deg;C)</td>
+                </tr>
+                <tr height="21" style="height: 15.5pt;">
+                    <td style="height: 15.5pt; text-align: left;">Pressure rating</td>
+                    <td style="text-align: left;">&nbsp;10,000 psi (68,947 kPa)</td>
+                    <td style="text-align: left;">10,000 psi (68,947 kPa)</td>
+                    <td style="text-align: left;">10,000 psi (68,947 kPa)</td>
+                    <td style="text-align: left;">10,000 psi (68,947 kPa)</td>
+                    <td style="text-align: left;">10,000 psi (68,947 kPa)</td>
+                </tr>
+            </tbody>
+        </table>
+        <br />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b28a7a0a-541f-4e91-a4d4-12a6a21b13b8"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: VapR Dissolvable Frac Plug Specifications
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaylakaplan
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200720T172732Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20201110T180818Z
+  - Version: 4
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201110T180957Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\melissapastrano
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaylakaplan
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <br />
+        <table border="0" cellpadding="0" cellspacing="0" width="851" style="width: 640pt;">
+            <colgroup><col width="139" style="width: 104pt;" /> <col width="178" span="4" style="width: 134pt;" /> </colgroup>
+            <tbody>
+                <tr height="21" style="height: 15.5pt;">
+                    <td style="height: 15.5pt; width: 104pt; text-align: left;">Casing</td>
+                    <td style="width: 134pt; text-align: left;">4.500 in. (114.30 mm)</td>
+                    <td style="width: 134pt; text-align: left;">4.500 in. (114.30 mm)</td>
+                    <td style="width: 134pt; text-align: left;">4.500 in. (114.30 mm)</td>
+                    <td style="width: 134pt; text-align: left;">5.500 in. (139.70 mm)</td>
+                    <td style="width: 134pt; text-align: left;">5.500 in. (139.70 mm)</td>
+                </tr>
+                <tr height="21" style="height: 15.5pt;">
+                    <td style="height: 15.5pt; text-align: left;">Casing weight range</td>
+                    <td style="text-align: left;">11.6 lbf (17.26 kg/m)</td>
+                    <td style="text-align: left;">13.5 &ndash; 15.1 lbf <br />
+                    (20.09 &ndash; 22.47 kg/m)</td>
+                    <td style="text-align: left;">13.5 &ndash; 15.1 lbf&nbsp;<br />
+                    (20.09 &ndash; 22.47 kg/m)</td>
+                    <td style="text-align: left;">20.0 &ndash; 23.0 lbf&nbsp;<br />
+                    (29.76 &ndash; 34.22 kg/m)</td>
+                    <td style="text-align: left;">20.0 &ndash; 23.0 lbf&nbsp;<br />
+                    (29.76 &ndash; 34.22 kg/m)</td>
+                </tr>
+                <tr height="21" style="height: 15.5pt;">
+                    <td style="height: 15.5pt; text-align: left;">Maximum plug OD</td>
+                    <td style="text-align: left;">3.600 in. (91.44 mm)</td>
+                    <td style="text-align: left;">3.600 in. (91.44 mm)</td>
+                    <td style="text-align: left;">3.600 in. (91.44 mm)</td>
+                    <td style="text-align: left;">4.390 in. (111.51 mm)</td>
+                    <td style="text-align: left;">4.390 in. (111.51 mm)</td>
+                </tr>
+                <tr height="21" style="height: 15.5pt;">
+                    <td style="height: 15.5pt; text-align: left;">Minimum plug ID</td>
+                    <td style="text-align: left;">1.200 in. (30.48 mm)</td>
+                    <td style="text-align: left;">1.200 in. (30.48 mm)</td>
+                    <td style="text-align: left;">1.650 in. (41.91 mm)</td>
+                    <td style="text-align: left;">1.975 in. (50.17 mm)</td>
+                    <td style="text-align: left;">1.380 in. (35.05 mm)</td>
+                </tr>
+                <tr height="21" style="height: 15.5pt;">
+                    <td style="height: 15.5pt; text-align: left;">Plug length</td>
+                    <td style="text-align: left;">7.240 in. (183.90 mm)</td>
+                    <td style="text-align: left;">7.070 in. (179.58 mm)</td>
+                    <td style="text-align: left;">8.310 in. (211.07 mm)</td>
+                    <td style="text-align: left;">8.975 in. (227.97 mm)</td>
+                    <td style="text-align: left;">8.950 in. (227.33 mm)</td>
+                </tr>
+                <tr height="21" style="height: 15.5pt;">
+                    <td style="height: 15.5pt; text-align: left;">Ball type</td>
+                    <td style="text-align: left;">Ball in place</td>
+                    <td style="text-align: left;">Ball in place</td>
+                    <td style="text-align: left;">Drop ball</td>
+                    <td style="text-align: left;">Drop ball</td>
+                    <td style="text-align: left;">Ball in place</td>
+                </tr>
+                <tr height="21" style="height: 15.5pt;">
+                    <td style="height: 15.5pt; text-align: left;">Material</td>
+                    <td style="text-align: left;">Dissolvable</td>
+                    <td style="text-align: left;">Dissolvable</td>
+                    <td style="text-align: left;">Dissolvable</td>
+                    <td style="text-align: left;">Dissolvable</td>
+                    <td style="text-align: left;">Dissolvable</td>
+                </tr>
+                <tr height="21" style="height: 15.5pt;">
+                    <td style="height: 15.5pt; text-align: left;">Temperature rating</td>
+                    <td style="text-align: left;">200 &deg;F (93.33 &deg;C)</td>
+                    <td style="text-align: left;">300 &deg;F (148.89 &deg;C)</td>
+                    <td style="text-align: left;">300 &deg;F (148.89 &deg;C)</td>
+                    <td style="text-align: left;">200 &deg;F (93.33 &deg;C)</td>
+                    <td style="text-align: left;">200 &deg;F (93.33 &deg;C)</td>
+                </tr>
+                <tr height="21" style="height: 15.5pt;">
+                    <td style="height: 15.5pt; text-align: left;">Pressure rating</td>
+                    <td style="text-align: left;">10,000 psi (68,947 kPa)</td>
+                    <td style="text-align: left;">10,000 psi (68,947 kPa)</td>
+                    <td style="text-align: left;">10,000 psi (68,947 kPa)</td>
+                    <td style="text-align: left;">10,000 psi (68,947 kPa)</td>
+                    <td style="text-align: left;">10,000 psi (68,947 kPa)</td>
+                </tr>
+            </tbody>
+        </table>
+        <br />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "548c5fb5-57af-4f57-a205-222903818cc1"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: VapR Dissolvable Frac Plug Specifications
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaylakaplan
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20201110T180957Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20201110T181046Z

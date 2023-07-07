@@ -1,0 +1,534 @@
+﻿---
+ID: "fca913bd-2dfc-4e0a-b31c-5ec426743f95"
+Parent: "21d68515-212e-403a-a5cb-168f3e31cb55"
+Template: "5030864f-eb96-4da7-a417-e5a0108c59f8"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/CAPS/Completion Tools/Bulldog DS Dual Shift/Bulldog DS Dual Shift_J6 Product Table
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190306T182607Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticmpetersen
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\verticmpetersen
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td><strong>Bulldog DS</strong>&nbsp;</td>
+                    <td>&nbsp;450 DS</td>
+                </tr>
+                <tr>
+                    <td>
+                    <p><strong>OD</strong></p>
+                    <p>In. (mm)</p>
+                    </td>
+                    <td>&nbsp;5.6 (142.24)</td>
+                </tr>
+                <tr>
+                    <td>
+                    <p><strong>Body ID</strong></p>
+                    <p>In. (mm)</p>
+                    </td>
+                    <td>&nbsp;3.90 (99.06)</td>
+                </tr>
+                <tr>
+                    <td>
+                    <p><strong>Length&sup1;</strong></p>
+                    <p>In. (mm)</p>
+                    </td>
+                    <td>&nbsp;44 (1,118)</td>
+                </tr>
+                <tr>
+                    <td>
+                    <p><strong>Weight </strong></p>
+                    <p>Lbs (kg)</p>
+                    </td>
+                    <td>&nbsp;132 (60)</td>
+                </tr>
+                <tr>
+                    <td>
+                    <p><strong>Working Pressure</strong></p>
+                    <p>Psi (kPa)</p>
+                    </td>
+                    <td>&nbsp;10,000 (69,000)</td>
+                </tr>
+                <tr>
+                    <td>
+                    <p><strong>Tensile Strength</strong></p>
+                    <p>Lbf (kN)</p>
+                    </td>
+                    <td>&nbsp;325,000 (147,425)</td>
+                </tr>
+                <tr>
+                    <td>
+                    <p><strong>Temperature</strong></p>
+                    <p>&deg;F (&deg;C)</p>
+                    </td>
+                    <td>&nbsp;350 (177)</td>
+                </tr>
+                <tr>
+                    <td>&nbsp;<strong>Threads&sup2;</strong></td>
+                    <td>&nbsp;LTC Standard</td>
+                </tr>
+            </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cb831c55-551d-4432-b7eb-8628f9218e63"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: Technical Data
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190612T210739Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190612T210807Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticmpetersen
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td>Bulldog DS</td>
+                    <td>450 DS</td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>OD</p>
+                    </td>
+                    <td>5.6 in. (142.24 mm)</td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Body ID</p>
+                    </td>
+                    <td>3.9 in. (99.06 mm)</td>
+                </tr>
+                <tr>
+                    <td>Length<sup>1</sup></td>
+                    <td>44.0 in. (1118 mm)</td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Weight</p>
+                    </td>
+                    <td>132 lb (60 kg)</td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Working pressure</p>
+                    </td>
+                    <td>10,000 psi (69 000 kPa)</td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Tensile strength</p>
+                    </td>
+                    <td>325,000 lbf (147,425 kN)</td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Temperature</p>
+                    </td>
+                    <td>350 &deg;F (177 &deg;C)</td>
+                </tr>
+                <tr>
+                    <td>Threads<sup>2</sup></td>
+                    <td>LTC standard</td>
+                </tr>
+            </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5a6f2bb0-3c97-4126-9ef1-0068b754248b"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: "Bulldog Dual-Shift Frac Sleeve Specifications"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190612T210807Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190612T211549Z
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190612T211553Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticmpetersen
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td>Bulldog DS</td>
+                    <td>450 DS</td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>OD</p>
+                    </td>
+                    <td>5.6 in. (142.24 mm)</td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Body ID</p>
+                    </td>
+                    <td>3.9 in. (99.06 mm)</td>
+                </tr>
+                <tr>
+                    <td>Length<sup>1</sup></td>
+                    <td>44.0 in. (1118 mm)</td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Weight</p>
+                    </td>
+                    <td>132 lb (60 kg)</td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Working pressure</p>
+                    </td>
+                    <td>10,000 psi (69 000 kPa)</td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Tensile strength</p>
+                    </td>
+                    <td>325,000 lbf (147,425 kN)</td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>Temperature</p>
+                    </td>
+                    <td>350 &deg;F (177 &deg;C)</td>
+                </tr>
+                <tr>
+                    <td>Threads<sup>2</sup></td>
+                    <td>LTC standard</td>
+                </tr>
+            </tbody>
+        </table>
+        <br />
+        <p><sup>1</sup> Lengths will vary depending on end sub threading and screen size.</p>
+        <p><sup>1</sup> Premium connections are available.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1867cbbb-5b12-41b1-b882-51663683b3c2"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: "Bulldog Dual-Shift Frac Sleeve Specifications"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190612T211553Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190612T211825Z
+  - Version: 4
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190612T211857Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticmpetersen
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td>Bulldog DS</td>
+                    <td>450 DS</td>
+                </tr>
+                <tr>
+                    <td>OD</td>
+                    <td>5.6 in. (142.24 mm)</td>
+                </tr>
+                <tr>
+                    <td>Body ID</td>
+                    <td>3.9 in. (99.06 mm)</td>
+                </tr>
+                <tr>
+                    <td>Length<sup>1</sup></td>
+                    <td>44.0 in. (1118 mm)</td>
+                </tr>
+                <tr>
+                    <td>Weight</td>
+                    <td>132 lb (60 kg)</td>
+                </tr>
+                <tr>
+                    <td>Working pressure</td>
+                    <td>10,000 psi (69 000 kPa)</td>
+                </tr>
+                <tr>
+                    <td>Tensile strength</td>
+                    <td>325,000 lbf (147,425 kN)</td>
+                </tr>
+                <tr>
+                    <td>Temperature</td>
+                    <td>350 &deg;F (177 &deg;C)</td>
+                </tr>
+                <tr>
+                    <td>Threads<sup>2</sup></td>
+                    <td>LTC standard</td>
+                </tr>
+            </tbody>
+        </table>
+        <br />
+        <p><sup>1</sup> Lengths will vary depending on end sub threading and screen size.</p>
+        <p><sup>1</sup> Premium connections are available.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ee9f692d-9a4a-4a34-86a9-adccbfda9595"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: "Bulldog Dual-Shift Frac Sleeve Specifications"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190612T211857Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190612T212832Z
+  - Version: 5
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190619T181800Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticmpetersen
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td>Bulldog DS</td>
+                    <td>450 DS</td>
+                </tr>
+                <tr>
+                    <td>OD</td>
+                    <td>5.6 in. (142.24 mm)</td>
+                </tr>
+                <tr>
+                    <td>Body ID</td>
+                    <td>3.9 in. (99.06 mm)</td>
+                </tr>
+                <tr>
+                    <td>Length<sup>1</sup></td>
+                    <td>44.0 in. (1118 mm)</td>
+                </tr>
+                <tr>
+                    <td>Weight</td>
+                    <td>132 lb (60 kg)</td>
+                </tr>
+                <tr>
+                    <td>Working pressure</td>
+                    <td>10,000 psi (69 000 kPa)</td>
+                </tr>
+                <tr>
+                    <td>Tensile strength</td>
+                    <td>325,000 lbf (147,425 kN)</td>
+                </tr>
+                <tr>
+                    <td>Temperature</td>
+                    <td>350 &deg;F (177 &deg;C)</td>
+                </tr>
+                <tr>
+                    <td>Threads<sup>2</sup></td>
+                    <td>LTC standard</td>
+                </tr>
+            </tbody>
+        </table>
+        <br />
+        <p><sup>1</sup> Lengths will vary depending on end sub threading and screen size.</p>
+        <p><sup>2</sup> Premium connections are available.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4030786a-8e71-4f1d-8b68-57051c1b2cb9"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: "Bulldog Dual-Shift Frac Sleeve Specifications"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190619T181800Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190619T181833Z
+  - Version: 6
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190619T193203Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticmpetersen
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td>Bulldog DS</td>
+                    <td>450 DS</td>
+                </tr>
+                <tr>
+                    <td>OD</td>
+                    <td>5.6 in. (142.24 mm)</td>
+                </tr>
+                <tr>
+                    <td>Body ID</td>
+                    <td>3.9 in. (99.06 mm)</td>
+                </tr>
+                <tr>
+                    <td>Length<sup>1</sup></td>
+                    <td>44.0 in. (1118 mm)</td>
+                </tr>
+                <tr>
+                    <td>Weight</td>
+                    <td>132 lb (60 kg)</td>
+                </tr>
+                <tr>
+                    <td>Working pressure</td>
+                    <td>10,000 psi (69 000 kPa)</td>
+                </tr>
+                <tr>
+                    <td>Tensile strength</td>
+                    <td>325,000 lbf (147 425 kN)</td>
+                </tr>
+                <tr>
+                    <td>Temperature</td>
+                    <td>350 &deg;F (177 &deg;C)</td>
+                </tr>
+                <tr>
+                    <td>Threads<sup>2</sup></td>
+                    <td>LTC standard</td>
+                </tr>
+            </tbody>
+        </table>
+        <br />
+        <p><sup>1</sup> Lengths will vary depending on end sub threading and screen size.</p>
+        <p><sup>2</sup> Premium connections are available.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "314fbe44-99b1-41e3-9f57-460d822be005"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: "Bulldog Dual-Shift Frac Sleeve Specifications"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190619T193203Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190619T193231Z

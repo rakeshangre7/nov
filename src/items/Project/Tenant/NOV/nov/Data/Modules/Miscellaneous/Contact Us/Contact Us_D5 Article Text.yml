@@ -1,0 +1,174 @@
+﻿---
+ID: "6d024931-bf7a-4720-9ae7-af979585b44e"
+Parent: "aebe91d7-6ec2-4600-885c-eb8b91c8beb4"
+Template: "07c63710-4422-42b9-adb7-67b4bad63607"
+Path: /sitecore/content/nov/nov/Data/Modules/Miscellaneous/Contact Us/Contact Us_D5 Article Text
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "0f10eefb-f9da-4b41-83a0-87900c4e25ed"
+      Hint: body
+      Value: |
+        <h2>We're Here to Help</h2>
+        <p>If you've got a question, we've got your answer. Fill out and submit our contact form below, and one of our representatives will follow up with you directly within a few business days.</p>
+        <h3>Wherever You Need Us</h3>
+        <p>You can also use our map below to browse through our global index of NOV facilities to view the contact information for any location worldwide. <strong>Customize your search</strong> by entering a keyword such as a product name or capability or by filtering by segment, business unit, and/or facility type to refine your results.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190712T165657Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "10ee55db-c6ee-433c-893b-fa3103ed2bec"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190712T165852Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "0f10eefb-f9da-4b41-83a0-87900c4e25ed"
+      Hint: body
+      Value: |
+        <h2 style="text-align:center;">We're Here to Help</h2>
+        <p style="text-align:center;">If you've got a question, we've got your answer. Fill out and submit our contact form below, and one of our representatives will follow up with you directly within a few business days.</p>
+        <h2 style="text-align:center;">Find and Locate Us</h2>
+        <p style="text-align:center;">Use our map below to browse through our global index of NOV facilities and view the address and contact information for any location worldwide. <strong>Customize your search</strong> by entering a keyword such as a product name or by filtering by segment, business unit, and/or facility type to refine your results.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190712T170613Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1d34450f-2cdf-4a64-8c69-16d59a6a5c41"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190712T170613Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190712T170740Z
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "0f10eefb-f9da-4b41-83a0-87900c4e25ed"
+      Hint: body
+      Value: |
+        <h2 style="text-align:center;">We&rsquo;re Here to Help</h2>
+        <p style="text-align:center;">If you've got a question, we've got your answer. Fill out and submit our contact form below, and one of our representatives will follow up with you directly within a few business days.</p>
+        <h2 style="text-align:center;">Find and Locate Us</h2>
+        <p style="text-align:center;">Use our map at the bottom of the page to browse through our global index of NOV facilities and view the address and contact information for any location worldwide. <strong>Customize your search</strong> by entering a keyword such as a product name or by filtering by segment, business unit, and/or facility type to refine your results.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190712T175748Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1f03c20a-be73-4780-80ec-cc626891193f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190712T175748Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190910T151927Z
+    - ID: "e4965b05-120c-4b0a-b5c7-60e1ebdf07cd"
+      Hint: ctaLink
+      Value: |
+        <link text="Map" linktype="anchor" url="map" anchor="map" title="" class="" />
+  - Version: 4
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "0f10eefb-f9da-4b41-83a0-87900c4e25ed"
+      Hint: body
+      Value: |
+        <h2>We’re Here to Help</h2>
+        <p>If you've got a question, we've got your answer. Fill out and submit our contact form below, and one of our representatives will follow up with you directly within a few business days.</p>
+        <h2>Find and Locate Us</h2>
+        <p>Use our map at the bottom of the page to browse through our global index of NOV facilities and view the address and contact information for any location worldwide. <strong>Customize your search</strong> by entering a keyword such as a product name or by filtering by segment, business unit, and/or facility type to refine your results.</p>
+        <style>section.module.D5-article-text.standard-padding {text-align: center;}</style>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190910T151928Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "01281791-be64-417d-b1ef-e02eca35c493"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190910T151928Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190910T153136Z
+    - ID: "e4965b05-120c-4b0a-b5c7-60e1ebdf07cd"
+      Hint: ctaLink
+      Value: |
+        <link text="View our map" linktype="anchor" url="map" anchor="map" title="" class="" />

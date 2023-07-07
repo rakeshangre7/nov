@@ -1,0 +1,279 @@
+﻿---
+ID: "41e569e4-cd5d-4539-acb5-9bdea7fe130e"
+Parent: "687ef23f-d2f1-4b7e-b610-f69fb68f521b"
+Template: "5030864f-eb96-4da7-a417-e5a0108c59f8"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/WBT/WellSite Services/MPowerD Backpressure Pump/Backpressure Pump J6 Product Table
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190312T163013Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\charisgamroth
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td>
+                    Pump size
+                    </td>
+                    <td>
+                    4&frac12; in. &times; 5 in.
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Maximum pressure
+                    </td>
+                    <td>
+                    10,000 psi
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Maximum speed
+                    </td>
+                    <td>
+                    450 RPM
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Maximum plunger
+                    </td>
+                    <td>
+                    4 in.
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Maximum piston
+                    </td>
+                    <td>
+                    4&frac12; in.
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Stroke length
+                    </td>
+                    <td>
+                    5 in.
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f22fd0ed-dd8d-4cad-8d2d-71642d0c545e"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: Backpressure Pump Specifications
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190312T163757Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190516T181301Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\charisgamroth
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td>
+                    Pump size
+                    </td>
+                    <td>
+                    4&frac12; in. &times; 5 in.
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Maximum pressure
+                    </td>
+                    <td>
+                    10,000 psi
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Maximum speed
+                    </td>
+                    <td>
+                    450 RPM
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Maximum plunger
+                    </td>
+                    <td>
+                    4 in.
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Maximum piston
+                    </td>
+                    <td>
+                    4&frac12; in.
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Stroke length
+                    </td>
+                    <td>
+                    5 in.
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3d82183f-dceb-46d7-8426-84e25892c108"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: Back Pressure Pump Specifications
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190516T181301Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190516T181345Z
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190613T142803Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\charisgamroth
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td>
+                    Pump size
+                    </td>
+                    <td>
+                    4&frac12; in. &times; 5 in.
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Maximum pressure
+                    </td>
+                    <td>
+                    10,000 psi
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Maximum speed
+                    </td>
+                    <td>
+                    450 RPM
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Maximum plunger
+                    </td>
+                    <td>
+                    4 in.
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Maximum piston
+                    </td>
+                    <td>
+                    4&frac12; in.
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    Stroke length
+                    </td>
+                    <td>
+                    5 in.
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8e1a2791-cc69-4827-ae8e-872294352052"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: Backpressure Pump Specifications
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190613T142803Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190613T142831Z

@@ -1,0 +1,620 @@
+﻿---
+ID: "f7c481d8-d8b5-4fe6-ac8f-14c8dc483b09"
+Parent: "a0e526c8-69dd-4b19-bf78-1e7ae4f2f481"
+Template: "c0aa2bad-85b9-47e4-a236-901c3115fb87"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/WBT/Grant Prideco/Corrosion Control/Corrosion Control_J5 Features List
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190322T200058Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1dd33229-b86b-4030-950a-369d2c84b3ac"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: |
+        <p>Best practices to mitigate corrosion in drilling and completion operations.</p>
+        <p><strong>Mitigation in drilling operations</strong></p>
+        <p>While tripping:</p>
+        <ul>
+            <li>Use a wiper rubber while tripping out of hole.</li>
+            <li>Keep the racking area clean (free of well fluid and solids).</li>
+            <li>Apply thread compound to connections.</li>
+        </ul>
+        <p>&nbsp;</p>
+        <p>When laying pipe down:</p>
+        <ul>
+            <li>Clean the inside and outside of pipe.</li>
+            <li>Clean thread protectors before putting them back on connections.</li>
+            <li>Clean and dope connections before putting thread protectors back on.</li>
+        </ul>
+        <p>Corrosion rings can be used with API connections seating in the box tapered section. Double-shouldered connections leave no space for corrosion rings to seat on. A special tool (double sub) needs to be built to hold the ring.</p>
+        <p><strong>&nbsp;</strong></p>
+        <p><strong>Mitigation in completion operations</strong></p>
+        <p>While tripping the completion string:</p>
+        <ul>
+            <li>Use a wiper rubber while tripping out of hole.</li>
+            <li>Wash the pipe on every trip out.</li>
+            <li>Clean, dry, and dope pins and boxes before racking.</li>
+            <li>Use a rubber racking mat to prevent accumulation of completion fluid around pins.</li>
+        </ul>
+        <p>&nbsp;</p>
+        <p>A sufficient amount of dope should be applied when running completion. Completion fluids are generally more corrosive than drilling fluids.</p>
+        <div>&nbsp;</div>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190322T200058Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190322T201111Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190325T195737Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ecf671e1-5f2d-4b0d-a6a9-220959dde6e0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: |
+        <p>Best practices to mitigate corrosion in drilling and completion operations.</p>
+        <p><strong>Mitigation in drilling operations</strong></p>
+        <p>While tripping:</p>
+        <ul>
+            <li>Use a wiper rubber while tripping out of hole.</li>
+            <li>Keep the racking area clean (free of well fluid and solids).</li>
+            <li>Apply thread compound to connections.</li>
+        </ul>
+        <br />
+        <p>When laying pipe down:</p>
+        <ul>
+            <li>Clean the inside and outside of pipe.</li>
+            <li>Clean thread protectors before putting them back on connections.</li>
+            <li>Clean and dope connections before putting thread protectors back on.</li>
+        </ul>
+        <p>Corrosion rings can be used with API connections seating in the box tapered section. Double-shouldered connections leave no space for corrosion rings to seat on. A special tool (double sub) needs to be built to hold the ring.</p>
+        <br />
+        <p><strong>Mitigation in completion operations</strong></p>
+        <p>While tripping the completion string:</p>
+        <ul>
+            <li>Use a wiper rubber while tripping out of hole.</li>
+            <li>Wash the pipe on every trip out.</li>
+            <li>Clean, dry, and dope pins and boxes before racking.</li>
+            <li>Use a rubber racking mat to prevent accumulation of completion fluid around pins.</li>
+        </ul>
+        <p>&nbsp;</p>
+        <p>A sufficient amount of dope should be applied when running completion. Completion fluids are generally more corrosive than drilling fluids.</p>
+        <div>&nbsp;</div>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190325T195737Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190325T195859Z
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190325T195918Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e47d5cf2-de04-49a5-94d7-fb6577b7c370"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: |
+        <p>Best practices to mitigate corrosion in drilling and completion operations.</p>
+        <p><strong>Mitigation in drilling operations</strong></p>
+        <p>While tripping:</p>
+        <ul>
+            <li>Use a wiper rubber while tripping out of hole.</li>
+            <li>Keep the racking area clean (free of well fluid and solids).</li>
+            <li>Apply thread compound to connections.</li>
+        </ul>
+        <br />
+        <p>When laying pipe down:</p>
+        <ul>
+            <li>Clean the inside and outside of pipe.</li>
+            <li>Clean thread protectors before putting them back on connections.</li>
+            <li>Clean and dope connections before putting thread protectors back on.</li>
+        </ul>
+        <br />
+        <p>Corrosion rings can be used with API connections seating in the box tapered section. Double-shouldered connections leave no space for corrosion rings to seat on. A special tool (double sub) needs to be built to hold the ring.</p>
+        <p><strong>Mitigation in completion operations</strong></p>
+        <p>While tripping the completion string:</p>
+        <ul>
+            <li>Use a wiper rubber while tripping out of hole.</li>
+            <li>Wash the pipe on every trip out.</li>
+            <li>Clean, dry, and dope pins and boxes before racking.</li>
+            <li>Use a rubber racking mat to prevent accumulation of completion fluid around pins.</li>
+        </ul>
+        <br />
+        <p>A sufficient amount of dope should be applied when running completion. Completion fluids are generally more corrosive than drilling fluids.</p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190325T195918Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190325T200135Z
+  - Version: 4
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190325T200220Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "74b2e7a3-4b11-4822-abf0-34b75546a539"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: |
+        <p>Best practices to mitigate corrosion in drilling and completion operations.</p>
+        <h2>Mitigation in drilling operations</h2>
+        <p>While tripping:</p>
+        <ul>
+            <li>Use a wiper rubber while tripping out of hole.</li>
+            <li>Keep the racking area clean (free of well fluid and solids).</li>
+            <li>Apply thread compound to connections.</li>
+        </ul>
+        <br />
+        <p>When laying pipe down:</p>
+        <ul>
+            <li>Clean the inside and outside of pipe.</li>
+            <li>Clean thread protectors before putting them back on connections.</li>
+            <li>Clean and dope connections before putting thread protectors back on.</li>
+        </ul>
+        <p>Corrosion rings can be used with API connections seating in the box tapered section. Double-shouldered connections leave no space for corrosion rings to seat on. A special tool (double sub) needs to be built to hold the ring.</p>
+        <h2>Mitigation in completion operations</h2>
+        <p>While tripping the completion string:</p>
+        <ul>
+            <li>Use a wiper rubber while tripping out of hole.</li>
+            <li>Wash the pipe on every trip out.</li>
+            <li>Clean, dry, and dope pins and boxes before racking.</li>
+            <li>Use a rubber racking mat to prevent accumulation of completion fluid around pins.</li>
+        </ul>
+        <p>A sufficient amount of dope should be applied when running completion. Completion fluids are generally more corrosive than drilling fluids.</p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190325T200220Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190325T200318Z
+  - Version: 5
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190325T200335Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "51125700-11cd-44b6-9f54-cda54f6ae8cc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: |
+        <p>Best practices to mitigate corrosion in drilling and completion operations.</p>
+        <h2>Mitigation in drilling operations</h2>
+        <p>While tripping:</p>
+        <ul>
+            <li>Use a wiper rubber while tripping out of hole.</li>
+            <li>Keep the racking area clean (free of well fluid and solids).</li>
+            <li>Apply thread compound to connections.</li>
+        </ul>
+        <br />
+        <p>When laying pipe down:</p>
+        <ul>
+            <li>Clean the inside and outside of pipe.</li>
+            <li>Clean thread protectors before putting them back on connections.</li>
+            <li>Clean and dope connections before putting thread protectors back on.</li>
+        </ul>
+        <br />
+        <p>Corrosion rings can be used with API connections seating in the box tapered section. Double-shouldered connections leave no space for corrosion rings to seat on. A special tool (double sub) needs to be built to hold the ring.</p>
+        <h2>Mitigation in completion operations</h2>
+        <p>While tripping the completion string:</p>
+        <ul>
+            <li>Use a wiper rubber while tripping out of hole.</li>
+            <li>Wash the pipe on every trip out.</li>
+            <li>Clean, dry, and dope pins and boxes before racking.</li>
+            <li>Use a rubber racking mat to prevent accumulation of completion fluid around pins.</li>
+        </ul>
+        <br />
+        <p>A sufficient amount of dope should be applied when running completion. Completion fluids are generally more corrosive than drilling fluids.</p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190325T200335Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190325T200407Z
+  - Version: 6
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190325T200437Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e5f9e574-30b0-4f84-9d83-c95afedcdc3a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: |
+        <p>Best practices to mitigate corrosion in drilling and completion operations</p>
+        <h2>Mitigation in drilling operations</h2>
+        <p>While tripping:</p>
+        <ul>
+            <li>Use a wiper rubber while tripping out of hole.</li>
+            <li>Keep the racking area clean (free of well fluid and solids).</li>
+            <li>Apply thread compound to connections.</li>
+        </ul>
+        <br />
+        <p>When laying pipe down:</p>
+        <ul>
+            <li>Clean the inside and outside of pipe.</li>
+            <li>Clean thread protectors before putting them back on connections.</li>
+            <li>Clean and dope connections before putting thread protectors back on.</li>
+        </ul>
+        <br />
+        <p>Corrosion rings can be used with API connections seating in the box tapered section. Double-shouldered connections leave no space for corrosion rings to seat on. A special tool (double sub) needs to be built to hold the ring.</p>
+        <h2>Mitigation in completion operations</h2>
+        <p>While tripping the completion string:</p>
+        <ul>
+            <li>Use a wiper rubber while tripping out of hole.</li>
+            <li>Wash the pipe on every trip out.</li>
+            <li>Clean, dry, and dope pins and boxes before racking.</li>
+            <li>Use a rubber racking mat to prevent accumulation of completion fluid around pins.</li>
+        </ul>
+        <br />
+        <p>A sufficient amount of dope should be applied when running completion. Completion fluids are generally more corrosive than drilling fluids.</p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190325T200437Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190325T200542Z
+  - Version: 7
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190402T162508Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fa5c7254-c942-43a8-ab70-6ef2ccf46fc8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: |
+        <p>Best practices to mitigate corrosion in drilling and completion operations</p>
+        <h2>Mitigation in drilling operations</h2>
+        <p>While tripping:</p>
+        <ul>
+            <li>Use a wiper rubber while tripping out of hole.</li>
+            <li>Keep the racking area clean (free of well fluid and solids).</li>
+            <li>Apply thread compound to connections.</li>
+        </ul>
+        <p>When laying pipe down:</p>
+        <ul>
+            <li>Clean the inside and outside of pipe.</li>
+            <li>Clean thread protectors before putting them back on connections.</li>
+            <li>Clean and dope connections before putting thread protectors back on.</li>
+        </ul>
+        <p>Corrosion rings can be used with API connections seating in the box tapered section. Double-shouldered connections leave no space for corrosion rings to seat on. A special tool (double sub) needs to be built to hold the ring.</p>
+        <h2>Mitigation in completion operations</h2>
+        <p>While tripping the completion string:</p>
+        <ul>
+            <li>Use a wiper rubber while tripping out of hole.</li>
+            <li>Wash the pipe on every trip out.</li>
+            <li>Clean, dry, and dope pins and boxes before racking.</li>
+            <li>Use a rubber racking mat to prevent accumulation of completion fluid around pins.</li>
+        </ul>
+        <p>A sufficient amount of dope should be applied when running completion. Completion fluids are generally more corrosive than drilling fluids.</p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190402T162508Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190402T162627Z
+  - Version: 8
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190429T143603Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f2771387-b827-4533-94aa-4b3f940511a8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: |
+        <p>Best practices to mitigate corrosion in drilling and completion operations</p>
+        <h2>Mitigation in drilling operations</h2>
+        <p>While tripping:</p>
+        <ul>
+            <li>Use a wiper rubber while tripping out of hole.</li>
+            <li>Keep the racking area clean (free of well fluid and solids).</li>
+            <li>Apply thread compound to connections.</li>
+        </ul>
+        <p>When laying pipe down:</p>
+        <ul>
+            <li>Clean the inside and outside of pipe.</li>
+            <li>Clean thread protectors before putting them back on connections.</li>
+            <li>Clean and dope connections before putting thread protectors back on.</li>
+        </ul>
+        <p>Corrosion rings can be used with API connections seating in the box tapered section. Double-shouldered connections leave no space for corrosion rings to seat on. A special tool (double sub) needs to be built to hold the ring.</p>
+        <h2>Mitigation in completion operations</h2>
+        <p>While tripping the completion string:</p>
+        <ul>
+            <li>Use a wiper rubber while tripping out of hole.</li>
+            <li>Wash the pipe on every trip out.</li>
+            <li>Clean, dry, and dope pins and boxes before racking.</li>
+            <li>Use a rubber racking mat to prevent accumulation of completion fluid around pins.</li>
+        </ul>
+        <p>A sufficient amount of dope should be applied when running completion. Completion fluids are generally more corrosive than drilling fluids.</p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190429T143603Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190429T143838Z
+  - Version: 9
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190429T144121Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cc36913e-8945-40fb-b5e2-02d1199334b7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: |
+        <p>Best practices to mitigate corrosion in drilling and completion operations</p>
+        <h2>Mitigation in drilling operations</h2>
+        <p>While tripping:</p>
+        <ul>
+            <li>Use a wiper rubber while tripping out of hole.</li>
+            <li>Keep the racking area clean (free of well fluid and solids).</li>
+            <li>Apply thread compound to connections.</li>
+        </ul>
+        <p>When laying pipe down:</p>
+        <ul>
+            <li>Clean the inside and outside of pipe.</li>
+            <li>Clean thread protectors before putting them back on connections.</li>
+            <li>Clean and dope connections before putting thread protectors back on.</li>
+        </ul>
+        <p>Corrosion rings can be used with API connections seating in the box tapered section. Double-shouldered connections leave no space for corrosion rings to seat on. A special tool (double sub) needs to be built to hold the ring.</p>
+        <h2>Mitigation in completion operations</h2>
+        <p>While tripping the completion string:</p>
+        <ul>
+            <li>Use a wiper rubber while tripping out of hole.</li>
+            <li>Wash the pipe on every trip out.</li>
+            <li>Clean, dry, and dope pins and boxes before racking.</li>
+            <li>Use a rubber racking mat to prevent accumulation of completion fluid around pins.</li>
+        </ul>
+        <p>A sufficient amount of dope should be applied when running completion. Completion fluids are generally more corrosive than drilling fluids.</p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190429T144121Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190429T144245Z
+  - Version: 10
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190517T153703Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "202d11f5-0756-4794-8081-dec79d956d59"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: |
+        <h2>Best practices to mitigate corrosion in drilling and completion operations</h2>
+        <h3>Mitigation in drilling operations</h3>
+        <p>While tripping:</p>
+        <ul>
+            <li>Use a wiper rubber while tripping out of hole.</li>
+            <li>Keep the racking area clean (free of well fluid and solids).</li>
+            <li>Apply thread compound to connections.</li>
+        </ul>
+        <p>When laying pipe down:</p>
+        <ul>
+            <li>Clean the inside and outside of pipe.</li>
+            <li>Clean thread protectors before putting them back on connections.</li>
+            <li>Clean and dope connections before putting thread protectors back on.</li>
+        </ul>
+        <p>Corrosion rings can be used with API connections seating in the box tapered section. Double-shouldered connections leave no space for corrosion rings to seat on. A special tool (double sub) needs to be built to hold the ring.</p>
+        <h3>Mitigation in completion operations</h3>
+        <p>While tripping the completion string:</p>
+        <ul>
+            <li>Use a wiper rubber while tripping out of hole.</li>
+            <li>Wash the pipe on every trip out.</li>
+            <li>Clean, dry, and dope pins and boxes before racking.</li>
+            <li>Use a rubber racking mat to prevent accumulation of completion fluid around pins.</li>
+        </ul>
+        <p>A sufficient amount of dope should be applied when running completion. Completion fluids are generally more corrosive than drilling fluids.</p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190517T153703Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190517T153724Z

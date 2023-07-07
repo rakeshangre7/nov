@@ -1,0 +1,55 @@
+﻿---
+ID: "6f4a71e0-d4b9-446f-a936-8afbd29793fd"
+Parent: "677d5914-9be1-4e3e-a069-c4741e9a1f75"
+Template: "2a8117d9-ebd1-430b-abd4-1d33b1fee79c"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/WBT/WellSite Services/Ideal Mud Tank System/Ideal Mud Tank System E5 Document List
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190416T155105Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "51f295eb-cdde-4fe9-b693-6edaf1fadd7f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190416T160237Z
+    - ID: "e4424681-e459-4738-a286-2240e08da75e"
+      Hint: assets
+      Value: |
+        {4D5A9525-8A9C-4725-B2A8-E4A9CD3E2204}
+        {F2FEF786-B35E-44FB-9D9F-D89FACA69DF9}
+        {7C5B8586-1421-4141-B373-81818B82383B}
+        {8BCB6A22-7B85-415B-8BE5-6C679593732E}
+        {9AC3848C-C6D7-4812-A81D-2E4169AD7E59}
+        {4DAD0DD2-92CD-42D5-B3F2-A447A750C0B7}
+        {4C392A9C-8694-423D-B918-BF0C5487AF54}
+        {62F57FD8-A39A-4FCD-B248-3E9CB12B320D}
+        {F694C15F-6ADF-44C0-B0F4-DEC3A809D42E}
+        {3DFC3E07-477F-4F44-A22D-5C8C67411405}
+        {CFDE6766-6B2B-4478-BCA1-DFE947C91736}

@@ -1,0 +1,132 @@
+﻿---
+ID: "f1a90664-4e49-4ab2-9862-bcadd630c10f"
+Parent: "77d0b455-878e-42ab-867d-e2b847c210e7"
+Template: "07c63710-4422-42b9-adb7-67b4bad63607"
+Path: /sitecore/content/nov/nov/Data/Modules/Stories/Preserving Lost Energy/Preserving Lost Energy D5 Article Text 2
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "0f10eefb-f9da-4b41-83a0-87900c4e25ed"
+      Hint: body
+      Value: |
+        <p>As a kinetic energy recovery system (KERS), PowerBlade preserves lost energy to reduce fuel costs and emissions while increasing operational safety and reliability. KERS technology is widely used in Formula One racing vehicles and NASA exploration spacecraft for recovering a moving vehicle&rsquo;s kinetic energy while braking and storing it in a reservoir (flywheel) for later use under acceleration.</p>
+        <p>PowerBlade works by absorbing the braking energy emitted when a drill is lowered and then storing and reusing that energy for the next hoist of the drill string. This reduces power consumption on a rig by up to 80% in active heave compensation mode compared to traditional design.</p>
+        <p>On an offshore rig, the drilling drawworks places the heaviest burden on the rig&rsquo;s energy supply by causing a wide variation in energy consumption over large power peaks. Typically, six to 10 large diesel generators account for the rig&rsquo;s total energy supply. An energy storage system smooths the load, levels out the power peaks of the lifting system, and provides the generator system a uniform load, improving equipment performance, enabling the generators to run at optimal load, and easing wear and tear. By turning off some of the generator sets, a single generator running on high load consumes 14% less energy compared to two generators producing together at an equivalent total power at light load. PowerBlade therefore enables the operator to rely on a higher, optimum sustained generator load.</p>
+        <p>PowerBlade-H is NOV&rsquo;s hybrid solution, combining the best of the flywheel and battery options. Its flywheel technology supports highly cyclic energy demands typically experienced during heave compensating without affecting the battery lifespan. For longer energy demands such as tripping operations, our battery package support those operations. The combined effect of these two technologies enables reduced energy demand related to drilling operations through peak shaving, resulting in less fuel consumption, reduced environmental footprint, reduced generator maintenance, and increased efficiency for energy consumers. PowerBlade-H can also act as an emergency energy source in case of a rig blackout, increasing on-board safety.</p>
+        <p>Recently, a drilling partner conducted a study to estimate the effects of installing PowerBlade on their offshore Atlantic rig, basing their analysis in comparison to log data from the previous year&rsquo;s operations. The direct and indirect impacts included saving the drilling partner 6.7 tonnes of diesel, 17 tonnes of CO<sub>2</sub>, and 300 kg of NOx. This same partner aims to perform zero-emissions drilling within the next few years, and PowerBlade will be crucial in helping them achieve their sustainability goals.</p>
+        <p>As more operators look to decrease their environmental footprint, PowerBlade is primed to lead the industry as an environmentally friendly power system solution.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191029T165957Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b76c91e2-bb0c-47f0-94d0-f89902a0d09d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20191030T172728Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "0f10eefb-f9da-4b41-83a0-87900c4e25ed"
+      Hint: body
+      Value: |
+        <p>As a kinetic energy recovery system (KERS), PowerBlade preserves lost energy to reduce fuel costs and emissions while increasing operational safety and reliability. KERS technology is widely used in Formula One racing vehicles and NASA exploration spacecraft for recovering a moving vehicle&rsquo;s kinetic energy while braking and storing it in a reservoir (flywheel) for later use under acceleration.</p>
+        <p>PowerBlade works by absorbing the braking energy emitted when a drill is lowered and then storing and reusing that energy for the next hoist of the drill string. This reduces power consumption on a rig by up to 80% in active heave compensation mode compared to traditional design.</p>
+        <p>On an offshore rig, the drilling drawworks places the heaviest burden on the rig&rsquo;s energy supply by causing a wide variation in energy consumption over large power peaks. Typically, six to 10 large diesel generators account for the rig&rsquo;s total energy supply. An energy storage system smooths the load, levels out the power peaks of the lifting system, and provides the generator system a uniform load, improving equipment performance, enabling the generators to run at optimal load, and easing wear and tear. By turning off some of the generator sets, a single generator running on high load consumes 14% less energy compared to two generators producing together at an equivalent total power at light load. PowerBlade therefore enables the operator to rely on a higher, optimum sustained generator load.</p>
+        <p>PowerBlade-H is NOV&rsquo;s hybrid solution, combining the best of the flywheel and battery options. Its flywheel technology supports highly cyclic energy demands typically experienced during heave compensating without affecting the battery lifespan. For longer energy demands such as tripping operations, our battery package support those operations. The combined effect of these two technologies enables reduced energy demand related to drilling operations through peak shaving, resulting in less fuel consumption, reduced environmental footprint, reduced generator maintenance, and increased efficiency for energy consumers. PowerBlade-H can also act as an emergency energy source in case of a rig blackout, increasing on-board safety.</p>
+        <p>Recently, a drilling partner conducted a study to estimate the effects of installing PowerBlade on their offshore Atlantic rig, basing their analysis in comparison to log data from the previous year&rsquo;s operations. The direct and indirect impacts included saving the drilling partner 6.7 tonnes of diesel, 17 tonnes of CO<sub>2</sub>, and 300 kg of NOx per day. This same partner aims to perform zero-emissions drilling within the next few years, and PowerBlade will be crucial in helping them achieve their sustainability goals.</p>
+        <p>As more operators look to decrease their environmental footprint, PowerBlade is primed to lead the industry as an environmentally friendly power system solution.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191030T183430Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3169a6aa-966a-40f5-b8ff-604c2aacc8f5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20191030T183430Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20191030T183451Z
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "0f10eefb-f9da-4b41-83a0-87900c4e25ed"
+      Hint: body
+      Value: |
+        <p>As a kinetic energy recovery system (KERS), PowerBlade preserves lost energy to reduce fuel costs and emissions while increasing operational safety and reliability. KERS technology is widely used in Formula One racing vehicles and NASA exploration spacecraft for recovering a moving vehicle&rsquo;s kinetic energy while braking and storing it in a reservoir (flywheel) for later use under acceleration.</p>
+        <p>PowerBlade works by absorbing the braking energy emitted when a drill is lowered and then storing and reusing that energy for the next hoist of the drill string. This reduces power consumption on a rig by up to 80% in active heave compensation mode compared to traditional design.</p>
+        <p>On an offshore rig, the <a href="~/link.aspx?_id=64D00F14C52D4FFB9EAC3C5B52234717&amp;_z=z">drilling drawworks</a>&nbsp;places the heaviest burden on the rig&rsquo;s energy supply by causing a wide variation in energy consumption over large power peaks. Typically, six to 10 large diesel generators account for the rig&rsquo;s total energy supply. An energy storage system smooths the load, levels out the power peaks of the lifting system, and provides the generator system a uniform load, improving equipment performance, enabling the generators to run at optimal load, and easing wear and tear. By turning off some of the generator sets, a single generator running on high load consumes 14% less energy compared to two generators producing together at an equivalent total power at light load. PowerBlade therefore enables the operator to rely on a higher, optimum sustained generator load.</p>
+        <p>PowerBlade-H is NOV&rsquo;s hybrid solution, combining the best of the flywheel and battery options. Its flywheel technology supports highly cyclic energy demands typically experienced during heave compensating without affecting the battery lifespan. For longer energy demands such as tripping operations, our battery package support those operations. The combined effect of these two technologies enables reduced energy demand related to drilling operations through peak shaving, resulting in less fuel consumption, reduced environmental footprint, reduced generator maintenance, and increased efficiency for energy consumers. PowerBlade-H can also act as an emergency energy source in case of a rig blackout, increasing on-board safety.</p>
+        <p>Recently, a drilling partner conducted a study to estimate the effects of installing PowerBlade on their offshore Atlantic rig, basing their analysis in comparison to log data from the previous year&rsquo;s operations. The direct and indirect impacts included saving the drilling partner 6.7 tonnes of diesel, 17 tonnes of CO<sub>2</sub>, and 300 kg of NOx per day. This same partner aims to perform zero-emissions drilling within the next few years, and PowerBlade will be crucial in helping them achieve their sustainability goals.</p>
+        <p>As more operators look to decrease their environmental footprint, PowerBlade is primed to lead the industry as an environmentally friendly power system solution.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191101T210414Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2003ebb5-3b6f-4eda-8503-5a49800efd4f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20191101T210414Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20191101T210726Z

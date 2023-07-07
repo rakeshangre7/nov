@@ -1,0 +1,153 @@
+﻿---
+ID: "6b7c2c88-56e5-4bf2-b64d-1e729e14fa97"
+Parent: "011b65b6-43f1-4714-91ff-693a4d738414"
+Template: "fef13e36-84bd-4734-b569-e51d7f7e2a36"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/CAPS/Subsea Production Systems/Seabox/Seabox_D3 Content Block_Seabox Module
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190401T162104Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "4593422d-98d7-497e-b649-a5ade9061f97"
+      Hint: heading
+      Value: Seabox Module
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "70e126a1-8914-4930-8325-b0090275e26e"
+      Hint: body
+      Value: |
+        <p>The Seabox module enables an optimum water flooding regime and is based on the principles of electrolysis and gravitational separation.</p>
+        <p>The Seabox module uses electro-chlorination and hydroxyl radicals to eliminate bacteria, and a large chamber allows for 99% settlement of inorganic particles larger than 8.5 μm. We’ve moved water treatment to the seabed, where the 8 × 8 × 8-m Seabox module with a nominal capacity of 40,000 b/d treats surrounding seawater to superior quality for injection into oil reservoirs.<br />
+        <br />
+        The Seabox module consist of three parts: tray, still room, and treatment unit—where all structures can be made of fiber-reinforced polymer. The tray is the base structure of the modules and has a chamber to collect settled out particles; the still room is a settlement tank that ensures an effective chlorine soak to disinfect water and to settle out suspended solids. Both the still room and the tray will stay on the seabed—either until end of field life or until moved to another injection wellsite.<br />
+        <br />
+        All critical components with an operational lifetime such as the electrochemical processes as well as the module’s power and control system are placed in the treatment unit. Intervention intervals are expected to take place every 4 to 5 years, when the 9-ton treatment unit—the size of a 40-ft container—will be retrieved in its entirety.<br />
+        <br />
+        The Seabox module is qualified for water depths down to 3000 m.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7a3881e1-ff7d-47af-9902-c08f6d1c055c"
+    - ID: "9ce372ba-72d4-44e1-84d1-e5dc70965cc3"
+      Hint: image
+      Value: |
+        <image mediaid="{D70E70EB-9128-40D9-B174-4E036F7D14BB}" cropregion="0,1408,4081,5489" ratio="385:385" width="385" height="385" alt="" hspace="" vspace="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190401T180531Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190401T183150Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "4593422d-98d7-497e-b649-a5ade9061f97"
+      Hint: heading
+      Value: Seabox Module
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "70e126a1-8914-4930-8325-b0090275e26e"
+      Hint: body
+      Value: |
+        <p>The Seabox module enables an optimum water flooding regime and is based on the principles of electrolysis and gravitational separation.</p>
+        <p>The Seabox module uses electro-chlorination and hydroxyl radicals to eliminate bacteria, and a large chamber allows for 99% settlement of inorganic particles larger than 8.5 &mu;m. We&rsquo;ve moved water treatment to the seabed, where the 8 &times; 8 &times; 8-m Seabox module with a nominal capacity of 40,000 b/d treats surrounding seawater to superior quality for injection into oil reservoirs.</p>
+        <p>The Seabox module consist of three parts: tray, still room, and treatment unit&mdash;where all structures can be made of fiber-reinforced polymer. The tray is the base structure of the modules and has a chamber to collect settled out particles; the still room is a settlement tank that ensures an effective chlorine soak to disinfect water and to settle out suspended solids. Both the still room and the tray will stay on the seabed&mdash;either until end of field life or until moved to another injection wellsite.</p>
+        <p>All critical components with an operational lifetime such as the electrochemical processes as well as the module&rsquo;s power and control system are placed in the treatment unit. Intervention intervals are expected to take place every 4 to 5 years, when the 9-ton treatment unit&mdash;the size of a 40-ft container&mdash;will be retrieved in its entirety.</p>
+        <p>The Seabox module is qualified for water depths down to 3000 m.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "79734367-7e5a-4568-a82f-215ac8a5f6a2"
+    - ID: "9ce372ba-72d4-44e1-84d1-e5dc70965cc3"
+      Hint: image
+      Value: |
+        <image mediaid="{95F7D297-0538-4F97-AEAA-87705C8AC1B8}" cropregion="246,0,1670,1425" ratio="385:385" width="385" height="385" alt="" hspace="" vspace="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190401T183150Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190401T183209Z
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190401T184919Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "4593422d-98d7-497e-b649-a5ade9061f97"
+      Hint: heading
+      Value: Seabox Module
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "70e126a1-8914-4930-8325-b0090275e26e"
+      Hint: body
+      Value: |
+        <p>The Seabox module enables an optimum water flooding regime and is based on the principles of electrolysis and gravitational separation.</p>
+        <p>The Seabox module uses electro-chlorination and hydroxyl radicals to eliminate bacteria, and a large chamber allows for 99% settlement of inorganic particles larger than 8.5 &mu;m. We&rsquo;ve moved water treatment to the seabed, where the 8 &times; 8 &times; 8-m Seabox module with a nominal capacity of 40,000 b/d treats surrounding seawater to superior quality for injection into oil reservoirs.</p>
+        <p>The Seabox module consist of three parts: tray, still room, and treatment unit&mdash;where all structures can be made of fiber-reinforced polymer. The tray is the base structure of the modules and has a chamber to collect settled out particles; the still room is a settlement tank that ensures an effective chlorine soak to disinfect water and to settle out suspended solids. Both the still room and the tray will stay on the seabed&mdash;either until end of field life or until moved to another injection wellsite.</p>
+        <p>All critical components with an operational lifetime such as the electrochemical processes as well as the module&rsquo;s power and control system are placed in the treatment unit. Intervention intervals are expected to take place every 4 to 5 years, when the 9-ton treatment unit&mdash;the size of a 40-ft container&mdash;will be retrieved in its entirety.</p>
+        <p>The Seabox module is qualified for water depths down to 3000 m.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c3099e8c-73b0-45d1-95df-31cdb86502f8"
+    - ID: "9ce372ba-72d4-44e1-84d1-e5dc70965cc3"
+      Hint: image
+      Value: |
+        <image mediaid="{95F7D297-0538-4F97-AEAA-87705C8AC1B8}" cropregion="246,0,1670,1425" ratio="385:385" width="385" height="385" alt="" hspace="" vspace="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190401T184919Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190401T185004Z

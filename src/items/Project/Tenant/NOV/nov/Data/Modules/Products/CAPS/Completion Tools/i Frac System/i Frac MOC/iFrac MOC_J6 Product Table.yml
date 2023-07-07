@@ -1,0 +1,219 @@
+﻿---
+ID: "ea00a371-60fe-4475-87ec-e612ec2e29bb"
+Parent: "b39fd0da-194c-4403-873d-64b321350a4a"
+Template: "5030864f-eb96-4da7-a417-e5a0108c59f8"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/CAPS/Completion Tools/i Frac System/i Frac MOC/iFrac MOC_J6 Product Table
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190327T132529Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticjandersen
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\verticjandersen
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td style="width: 144px;">
+                    <p><strong>i-Frac MOC</strong></p>
+                    </td>
+                    <td style="width: 150px;">
+                    <p>450</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 144px;">
+                    <p><strong>OD</strong></p>
+                    <p>In. (mm)</p>
+                    </td>
+                    <td style="width: 150px;">
+                    <p>5.600 (142.24)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 144px;">
+                    <p><strong>ID</strong></p>
+                    <p>In. (mm)</p>
+                    </td>
+                    <td style="width: 150px;">
+                    <p>3.735 (94.87)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 144px;">
+                    <p><strong>Length</strong></p>
+                    <p>In. (mm)</p>
+                    </td>
+                    <td style="width: 150px;">
+                    <p>54.5 (1,384)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 144px;">
+                    <p><strong>Material</strong></p>
+                    </td>
+                    <td style="width: 150px;">
+                    <p>P110</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 144px;">
+                    <p><strong>Seat Material</strong></p>
+                    </td>
+                    <td style="width: 150px;">
+                    <p>Millable Cast Iron</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 144px;">
+                    <p><strong>Burst Pressure </strong></p>
+                    <p>Psi (kPa)</p>
+                    </td>
+                    <td style="width: 150px;">
+                    <p>69,000 (10,000)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 144px;">
+                    <p><strong>Flow Port Area </strong></p>
+                    <p>In.<sup>2</sup> (mm<sup>2</sup>)</p>
+                    </td>
+                    <td style="width: 150px;">
+                    <p>10.734 (6,925)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 144px;">
+                    <p><strong>Shifting Distance</strong></p>
+                    <p>In. (mm)</p>
+                    </td>
+                    <td style="width: 150px;">
+                    <p>7.500 (190.5)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 144px;">
+                    <p><strong>Threads</strong></p>
+                    </td>
+                    <td style="width: 150px;">
+                    <p>All threads available</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2f16f8e8-8ac3-447d-9d65-d027303bafb5"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: Technical Data
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190628T162328Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190709T155401Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticjandersen
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "89e0d08a-ef09-4651-9d48-1e619efc4cb2"
+      Hint: table
+      Value: |
+        <table>
+        <tbody>
+        <tr>
+        <td>i-Frac MOC</td>
+        <td>450</td>
+        </tr>
+        <tr>
+        <td>OD In. (mm)</td>
+        <td>5.600 (142.24)</td>
+        </tr>
+        <tr>
+        <td>ID In. (mm)</td>
+        <td>3.735 (94.87)</td>
+        </tr>
+        <tr>
+        <td>Length In. (mm)</td>
+        <td>54.5 (1,384)</td>
+        </tr>
+        <tr>
+        <td>Material</td>
+        <td>P110</td>
+        </tr>
+        <tr>
+        <td>Seat Material</td>
+        <td>Millable Cast Iron</td>
+        </tr>
+        <tr>
+        <td>Burst Pressure  Psi (kPa)</td>
+        <td>69,000 (10,000)</td>
+        </tr>
+        <tr>
+        <td>Flow Port Area  In.<sup>2</sup> (mm<sup>2</sup>)</td>
+        <td>10.734 (6,925)</td>
+        </tr>
+        <tr>
+        <td>Shifting Distance In. (mm)</td>
+        <td>7.500 (190.5)</td>
+        </tr>
+        <tr>
+        <td>Threads</td>
+        <td>All threads available</td>
+        </tr>
+        </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "957378f4-0b20-48e0-9dd7-901cab94212c"
+    - ID: "915a3100-b6af-4b83-a168-471e1b3e74be"
+      Hint: headline
+      Value: Technical Data
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190709T155401Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190709T155547Z

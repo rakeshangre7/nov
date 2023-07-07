@@ -1,0 +1,110 @@
+﻿---
+ID: "065ec454-d8bd-4c55-b22d-099ee3becb5a"
+Parent: "66227d82-536a-4fcb-a074-9ad0521b9e1c"
+Template: "c0aa2bad-85b9-47e4-a236-901c3115fb87"
+Path: /sitecore/content/nov/nov/Data/Modules/Products/WBT/Grant Prideco/Picking Up New Pipe and BHA Components/Picking Up New Pipe_J5 Features List
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190314T214742Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8e5dcc37-dc62-4d64-9ab0-5c6f76603959"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: |
+        <h2>Visual inspection</h2>
+        <p>Visually examine thread protectors for damage such as dents or crushing. If thread protectors are damaged, the connection itself may be damaged as well. Inspect connection threads as well as primary and secondary shoulders, and look for bent pipe or surface damage.</p>
+        <h2>Remove storage compound</h2>
+        <p>If joints were shipped to the rig with rust preventive (storage) compound on the threads, it must be removed. Use soap and water, steam, or a vapor degreasing solvent. It is important that no residue remains on the threads after cleaning. Avoid diesel, because it leaves a slippery film that prevents good adhesion of thread running compound.</p>
+        <p>If thread running compound is already applied when the joints are shipped to the rig, it is not necessary to remove it unless there is a suspected problem (such as dryness or contamination).</p>
+        <p>Once the connection is clean and free of storage compound, visually inspect the threads for damage and foreign material. Damaged threads or foreign material on the threads can cause galling or prevent proper makeup.</p>
+        <h2>Thread protectors</h2>
+        <p>Thread protectors must be on the connections at all times when the joints are moved or when bringing the joints up to the rig floor. Protectors shall be removed on the rig floor.</p>
+        <p>Do not use thread protectors when racking back stands of pipe on the rig floor (dope squeezing).</p>
+        <p>Replace broken protectors to protect connections. Have a stock of spares on the rig.</p>
+        <p>When drifting pipe, make sure that you are not breaking pin protectors (especially plastic ones) while throwing the drift or rabbit down.</p>
+        <p>We recommend using heavy-duty plastic protectors.</p>
+        <h2>Getting drill pipe and BHA components up to the floor</h2>
+        <p>Avoid lifting drill stem products without protection on the connections. Use protectors or lifting bail protectors to prevent damage.</p>
+        <div>&nbsp;</div>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190314T220352Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190517T154732Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0fa64b14-f114-4e99-881d-60386bab44a4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c3afee16-1dbc-4a49-8037-9d03d0d7d62e"
+      Hint: description
+      Value: |
+        <h2>Visual inspection</h2>
+        <p>Visually examine thread protectors for damage such as dents or crushing. If thread protectors are damaged, the connection itself may be damaged as well. Inspect connection threads as well as primary and secondary shoulders, and look for bent pipe or surface damage.</p>
+        <h2>Remove storage compound</h2>
+        <p>If joints were shipped to the rig with rust preventive (storage) compound on the threads, it must be removed. Use soap and water, steam, or a vapor degreasing solvent. It is important that no residue remains on the threads after cleaning. Avoid diesel, because it leaves a slippery film that prevents good adhesion of thread running compound.</p>
+        <p>If thread running compound is already applied when the joints are shipped to the rig, it is not necessary to remove it unless there is a suspected problem (such as dryness or contamination).</p>
+        <p>Once the connection is clean and free of storage compound, visually inspect the threads for damage and foreign material. Damaged threads or foreign material on the threads can cause galling or prevent proper makeup.</p>
+        <h2>Thread protectors</h2>
+        <ul>
+            <li>Thread protectors must be on the connections at all times when the joints are moved or when bringing the joints up to the rig floor. Protectors shall be removed on the rig floor.</li>
+            <li>Do not use thread protectors when racking back stands of pipe on the rig floor (dope squeezing).</li>
+            <li>Replace broken protectors to protect connections. Have a stock of spares on the rig.</li>
+            <li>When drifting pipe, make sure that you are not breaking pin protectors (especially plastic ones) while throwing the drift or rabbit down.</li>
+            <li>We recommend using heavy-duty plastic protectors.</li>
+        </ul>
+        <h2>Getting drill pipe and BHA components up to the floor</h2>
+        <p>Avoid lifting drill stem products without protection on the connections. Use protectors or lifting bail protectors to prevent damage.</p>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190517T154732Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190517T154756Z
