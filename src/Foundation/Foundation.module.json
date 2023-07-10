@@ -1,0 +1,13 @@
+{
+    "$schema": "../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "Foundation.Nov",
+    "items": {
+        "includes": [
+            {
+                "name": "Image Cropping Module",
+                "path": "/sitecore/system/Modules/Image Cropping Module",
+                "allowedPushOperations":"CreateUpdateAndDelete"
+            }
+        ]
+    }
+}

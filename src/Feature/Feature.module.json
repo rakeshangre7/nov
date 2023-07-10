@@ -1,0 +1,29 @@
+{
+  "$schema": "../../.sitecore/schemas/ModuleFile.schema.json",
+  "namespace": "Feature.Nov",
+  "items": {
+    "includes": [
+      {
+        "name": "Templates",
+        "path": "/sitecore/templates/Feature/NOV Com",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "SharedTemplates",
+        "path": "/sitecore/templates/Feature/NOV Shared",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+
+      {
+        "name": "Renderings",
+        "path": "/sitecore/layout/Renderings/Feature/NOV",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "SharedRenderings",
+        "path": "/sitecore/layout/Renderings/Feature/NOV Shared",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      }
+    ]
+  }
+}
