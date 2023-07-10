@@ -1,0 +1,40 @@
+﻿---
+ID: "0469588a-79d4-499b-bdb3-b0f18f11f984"
+Parent: "dffe84c5-228a-49b7-9c74-517a328d11be"
+Template: "dffe84c5-228a-49b7-9c74-517a328d11be"
+Path: /sitecore/templates/Project/nov/NOV Com/Components/Search/Search Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {A9655E15-9ACB-4423-9DB2-CD10BB0147DB}
+    {045402DC-2AE3-4CFE-B815-A98A5950AE87}
+- ID: "c9283d9e-7c29-4419-9c28-5a5c8ff53e84"
+  Hint: __Bucketable
+  Value: 
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170426T194557Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f022ad36-7970-408d-bc70-e24226fdf4af"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20170426T200550Z

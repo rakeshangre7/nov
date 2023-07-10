@@ -1,0 +1,64 @@
+﻿---
+ID: "cfb4420d-3b99-457b-a5e3-f67145851e93"
+Parent: "d27e8c67-e503-4596-8126-2569d7e1c68f"
+Template: "d27e8c67-e503-4596-8126-2569d7e1c68f"
+Path: /sitecore/templates/Project/nov/NOV Com/Modules/Product/Dynamic Products List/__Standard Values
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0836d85d-885a-4145-89ff-fb8700faf5cb"
+      Hint: applyFilter
+      Value: Apply filter
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181119T163146Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ashwin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ashwin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4dcaab51-4f4a-4ced-8833-2ed944282fb8"
+    - ID: "9ac85de3-bc27-4562-bea1-65b0fd39bf8d"
+      Hint: loading
+      Value: Loading...
+    - ID: "a1e251dd-10be-4e4b-a738-850fa6aa31e6"
+      Hint: cardsPerPage
+      Value: 9
+    - ID: "a248019e-e443-45b6-b77d-ffa3b043e8ec"
+      Hint: filters
+      Value: Filters
+    - ID: "afc60743-7466-4c28-ad92-3d03ce8565b6"
+      Hint: filterByCategoryLabel
+      Value: Filter By Category
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "bf59c6e1-5b12-4fe4-b946-800d91aa2e4c"
+      Hint: resultsOutOfText
+      Value: "Showing [start]-[end] of [total]"
+    - ID: "c3067e26-1b16-4a74-95a5-93ea71711def"
+      Hint: resetFiltersText
+      Value: Reset
+    - ID: "cdff5836-0052-4e63-9d02-fcf1d2dcecd2"
+      Hint: capabilityFilterText
+      Value: Capability
+    - ID: "d5df5870-38f4-405b-87ca-63363c64b16f"
+      Hint: learnMoreText
+      Value: Learn More
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190629T020255Z
+    - ID: "ef8804c5-4f71-4513-a682-a654694de616"
+      Hint: filterByBrandsText
+      Value: Filter By Brands
+    - ID: "fe02c66e-665b-44e8-abe2-bdd207139b2c"
+      Hint: brandFilterText
+      Value: Brand

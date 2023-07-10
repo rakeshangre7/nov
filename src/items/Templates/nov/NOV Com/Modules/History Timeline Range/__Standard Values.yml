@@ -1,0 +1,38 @@
+﻿---
+ID: "949a5139-c030-4921-8999-4c676862bb15"
+Parent: "612d6bbb-6133-4d1c-b9d0-37a1d36955cf"
+Template: "612d6bbb-6133-4d1c-b9d0-37a1d36955cf"
+Path: /sitecore/templates/Project/nov/NOV Com/Modules/History Timeline Range/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{C52E41BD-2350-424D-830E-261036FD174D}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181101T150813Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ashwin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ashwin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1ea4adfd-2f5e-459a-bd78-058425064621"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200116T185512Z
+    - ID: "fd6a1ca5-9fb5-4c86-8cdb-cc5f380a1011"
+      Hint: yearsRange
+      Value: $name

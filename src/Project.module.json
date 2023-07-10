@@ -1,0 +1,38 @@
+{
+  "$schema": "../../.sitecore/schemas/ModuleFile.schema.json",
+  "namespace": "Project.Nov",
+  "items": {
+    "includes": [
+      {
+        "name": "Templates",
+        "path": "/sitecore/templates/Project/nov",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+      {
+        "name": "ContentRoot",
+        "path": "/sitecore/content/nov",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+      {
+        "name": "Layout",
+        "path": "/sitecore/layout/Layouts/Project/NOV",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+      {
+        "name": "PlaceholderSettings",
+        "path": "/sitecore/layout/Placeholder Settings/Project/nov",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+      {
+        "name": "Media",
+        "path": "/sitecore/media library/Project/nov",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+      {
+        "name": "Renderings",
+        "path": "/sitecore/layout/Renderings/Project/nov",
+        "allowedPushOperations": "CreateAndUpdate"
+      }
+    ]
+  }
+}

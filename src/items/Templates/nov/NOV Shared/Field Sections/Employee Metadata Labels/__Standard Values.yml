@@ -1,0 +1,40 @@
+﻿---
+ID: "ec7d5912-04d1-4e0c-80ed-d64a33180c21"
+Parent: "5e70d3a6-b7e2-4038-bdd3-06ebccabb58e"
+Template: "5e70d3a6-b7e2-4038-bdd3-06ebccabb58e"
+Path: /sitecore/templates/Project/nov/NOV Shared/Field Sections/Employee Metadata Labels/__Standard Values
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190701T191515Z
+    - ID: "45eaecaf-4be0-48ee-afd3-7105583b4ae7"
+      Hint: Position
+      Value: "Position: "
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ashwin
+    - ID: "548528d3-0b53-439e-8725-cee70073ce46"
+      Hint: Location
+      Value: "Location: "
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ashwin
+    - ID: "72eef758-3095-4be0-a5d1-0dd80cba4fe8"
+      Hint: Experience
+      Value: "Started with NOV: "
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d4f9508a-b4ee-4390-8788-f251dc0c773a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ashwin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190701T192311Z

@@ -1,0 +1,68 @@
+﻿---
+ID: "74b2047e-9ae1-4618-a7cc-d7dcd68b5605"
+Parent: "8e409c3b-3e30-456e-9328-32c8e2db0dc9"
+Template: "8e409c3b-3e30-456e-9328-32c8e2db0dc9"
+Path: /sitecore/templates/Project/nov/NOV Shared/Modules/Search Base/__Standard Values
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14d4d785-2438-47ad-9bf4-1a3498bb7894"
+      Hint: Load More Button Text
+      Value: Load more
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170706T195736Z
+    - ID: "276c3b15-8a5d-445f-86ce-08ca4840b110"
+      Hint: All Results Text
+      Value: All results
+    - ID: "4586da8e-057d-4ecf-a27c-5f634ace317e"
+      Hint: Multiple Results Found
+      Value: results found
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "718ab35c-1e98-4be6-a05c-1189bb8fc620"
+      Hint: No Results Found
+      Value: No search results found
+    - ID: "75babc5e-3c1c-4057-9d84-0ca8ec4b184a"
+      Hint: Search Button
+      Value: Search
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2a111dca-c40c-478d-96b7-540ca52fb414"
+    - ID: "9a749318-5ee7-4a25-a53f-d2a19fd944bd"
+      Hint: Related Text
+      Value: Related search suggestions
+    - ID: "b49b5d8e-9da8-46d7-933d-29d65e4e869a"
+      Hint: Search Placeholder
+      Value: "What are you looking for?"
+    - ID: "b5b43237-31a3-4de3-bc23-bec8ed2a7e57"
+      Hint: Did you mean Text
+      Value: |
+        Sorry, "{0}" Yielded No Results
+    - ID: "b81bad38-123c-4f6e-9a2c-f202881dd0a4"
+      Hint: One Result Found
+      Value: result found
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "bf51afeb-c54c-47d2-a365-8565eb3b7413"
+      Hint: Search Label
+      Value: Search
+    - ID: "c4891513-b12d-4216-86d7-d5d15a33a9af"
+      Hint: Learn More Link Text
+      Value: Learn more
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190111T030215Z
+    - ID: "dfdec92e-83af-46a2-a581-f0c5429b9a26"
+      Hint: For Text
+      Value: for

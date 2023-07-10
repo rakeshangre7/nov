@@ -1,0 +1,73 @@
+﻿---
+ID: "d0084ca9-ca06-4a4a-87e2-41b75de79262"
+Parent: "20bc9be5-fdd6-428f-b4ad-d69d955c34f0"
+Template: "20bc9be5-fdd6-428f-b4ad-d69d955c34f0"
+Path: /sitecore/templates/Project/nov/NOV Shared/Field Sections/Cookie Policy/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20150213T143032Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2c75a22f-8f17-48ac-988c-ed212d642b8c"
+    - ID: "ac64a043-45ed-4dc9-b74a-91525f28e395"
+      Hint: cookiePolicyHeadline
+      Value: We're using cookies
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "cdf4c047-0300-4715-82ad-7386910e60cd"
+      Hint: Cookie Policy Accept
+      Value: Close
+    - ID: "d5157f2f-a1de-4b17-a246-9449edb92134"
+      Hint: Cookie Policy Text
+      Value: Privacy
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: "20150213T152635:635594379952418855Z"
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170515T185721Z
+    - ID: "4ec98bc1-f2a4-4b18-aa35-29aba67d557c"
+      Hint: Cookie Policy Decline
+      Value: Decline
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "97363b9a-0221-4735-b22a-7a6469a870e6"
+    - ID: "ac64a043-45ed-4dc9-b74a-91525f28e395"
+      Hint: cookiePolicyHeadline
+      Value: Cookie Policy
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "cdf4c047-0300-4715-82ad-7386910e60cd"
+      Hint: Cookie Policy Accept
+      Value: Accept
+    - ID: "d5157f2f-a1de-4b17-a246-9449edb92134"
+      Hint: Cookie Policy Text
+      Value: |
+        <p>Like many websites, this website uses cookies (what are cookies?) to enhance your experience and to help us understand how to best serve our customers. Under the European Union's Privacy and Communications Directive, we are required to ask for your consent before setting certain types of cookies. If you will allow this site to set these cookies, please click Accept below.</p>
+        <p>Please be advised that refusing to accept cookies may result in a significantly degraded experience.</p>
+        <p>Please review our Privacy Policy for more information.</p>
+        
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20180522T133855Z

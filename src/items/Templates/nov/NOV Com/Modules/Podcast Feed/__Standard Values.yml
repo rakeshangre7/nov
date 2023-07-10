@@ -1,0 +1,46 @@
+﻿---
+ID: "fb78c6bc-5811-4008-89f5-db64de135a8d"
+Parent: "24f6be70-0662-4e79-9131-2fab6e180325"
+Template: "24f6be70-0662-4e79-9131-2fab6e180325"
+Path: /sitecore/templates/Project/nov/NOV Com/Modules/Podcast Feed/__Standard Values
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0d0230f2-590b-451e-9d41-148366c5cc93"
+      Hint: loadMoreCount
+      Value: 2
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181023T205728Z
+    - ID: "2b52284b-20cd-4881-a5cd-691a8d6cf5db"
+      Hint: learnMoreText
+      Value: Learn More
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ashwin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ashwin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fa8381be-5e5a-4fbb-adb5-b86993304160"
+    - ID: "af646db3-6b48-4e87-82d3-912bc7fe9a29"
+      Hint: initialItemCount
+      Value: 6
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ashwin
+    - ID: "c56f7aae-2412-4859-a4e8-7e0798dd666d"
+      Hint: loadMoreText
+      Value: Lore More
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190603T154128Z
+    - ID: "e0202a60-7a2a-4b67-97e3-3603ceba20e6"
+      Hint: episodePrefix
+      Value: Episode #
