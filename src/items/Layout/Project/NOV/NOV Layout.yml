@@ -1,0 +1,34 @@
+﻿---
+ID: "40c0e7ed-9887-49e1-8e89-43d16dd2ad6c"
+Parent: "ea0de4a7-4978-45b0-afa9-ac2073f5b706"
+Template: "e4e11508-04a4-4b0b-a263-5201f811c9cd"
+Path: /sitecore/layout/Layouts/Project/NOV/NOV Layout
+SharedFields:
+- ID: "80334869-86dc-4472-aa89-44cf1b2f6c9b"
+  Hint: Placeholders
+  Value: "{105FAFDC-847D-449C-B1AE-4FBA8AEA05AD}"
+- ID: "a036b2bc-ba04-44f6-a75f-bae6cd242abf"
+  Hint: Path
+  Value: /Views/SXA JSS/SXA JSS Layout.cshtml
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180911T183745Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "93ff58d3-772f-498d-9c7f-7bc93a3b3a18"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\varalakshmi.md@horizontal.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230706T153630Z

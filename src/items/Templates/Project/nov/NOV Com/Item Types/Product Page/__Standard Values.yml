@@ -1,0 +1,169 @@
+﻿---
+ID: "db4b8d33-f7ff-431c-b83f-3336f61da965"
+Parent: "e04d0d00-c0f7-41a6-917b-af108bb097e1"
+Template: "e04d0d00-c0f7-41a6-917b-af108bb097e1"
+Path: /sitecore/templates/Project/nov/NOV Com/Item Types/Product Page/__Standard Values
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Apps/32x32/Experiment.png
+- ID: "c9283d9e-7c29-4419-9c28-5a5c8ff53e84"
+  Hint: __Bucketable
+  Value: 1
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{40C0E7ED-9887-49E1-8E89-43D16DD2AD6C}">
+        <r
+          ds="{3EBBBA7B-FC20-41D1-9B9C-25EC7C0D4DF0}"
+          id="{703C4FCC-55FD-48C3-8F29-1B196484B61C}"
+          ph="/main/product-tabs-container-{F104C8A3-7E83-46CF-8B1C-E65C0723C66C}-0/product-tab-content-{B309DB79-99C5-4B91-9229-76ABD1ED636A}-0"
+          uid="{622F21DA-001A-46EB-96AB-EFE6D7980D1E}" />
+        <r
+          ds="{0D181D40-F343-4E67-92AB-62CCA2F7072D}"
+          id="{C7A79FD5-CEFD-4F76-8FA8-A9E71EDE918F}"
+          ph="/main/product-tabs-container-{F104C8A3-7E83-46CF-8B1C-E65C0723C66C}-0/product-tab-content-{698267E1-A383-4345-A993-329D64EEACC1}-0"
+          uid="{AB506CE7-58AF-4C80-A596-70A9BA80BBA2}" />
+        <r
+          ds="{CCCBE445-C09E-4D7E-B3D1-2A418A7B2413}"
+          id="{541C8841-7802-4878-BBC4-5B3AC533A4BA}"
+          ph="/main/product-tabs-container-{F104C8A3-7E83-46CF-8B1C-E65C0723C66C}-0/product-tab-content-{291F3530-6E32-42C4-B3BC-EAB79D7753CF}-0"
+          uid="{BC70FFD2-9A48-4A47-862D-541DBCDDD036}" />
+        <r
+          ds="{AB7958D1-3853-4968-B2DC-BDE1EEBFFE01}"
+          id="{B808CC07-CA5C-462C-B138-F7DD0BF0AD17}"
+          ph="/main/image-block-main"
+          uid="{9A0D115E-863C-4A12-A507-D78FDCA54173}" />
+        <r
+          ds="{7A0BB778-4EAB-417D-87D0-0B4391133C62}"
+          id="{CABE2E45-C5EB-4990-AD19-E203DFF43BE7}"
+          ph="/main/product-tabs-container-{F104C8A3-7E83-46CF-8B1C-E65C0723C66C}-0"
+          uid="{291F3530-6E32-42C4-B3BC-EAB79D7753CF}" />
+        <r
+          ds="{F10B97DA-6867-4B88-8961-7772E8C13B6A}"
+          id="{CABE2E45-C5EB-4990-AD19-E203DFF43BE7}"
+          ph="/main/product-tabs-container-{F104C8A3-7E83-46CF-8B1C-E65C0723C66C}-0"
+          uid="{698267E1-A383-4345-A993-329D64EEACC1}" />
+        <r
+          ds="{40FFEFF7-860A-43C4-8D91-EC784AA492A2}"
+          id="{CABE2E45-C5EB-4990-AD19-E203DFF43BE7}"
+          ph="/main/product-tabs-container-{F104C8A3-7E83-46CF-8B1C-E65C0723C66C}-0"
+          uid="{B309DB79-99C5-4B91-9229-76ABD1ED636A}" />
+        <r
+          ds=""
+          id="{9CA51EAB-92E4-4A77-8B48-966774577172}"
+          par="Add Gradient=1"
+          ph="/main/product-hero-{B068A55B-ABA9-4A32-875F-86E0D0B756FF}-0"
+          uid="{5D92478F-2ACD-4F6F-86BA-9ADE748567D9}" />
+        <r
+          ds="{DB7BAB29-A94C-445B-B541-5C88B4C85EB8}"
+          id="{C3DD97A2-2C6B-4FDA-922C-7127AE10C976}"
+          par="Enable Autoplay=true&amp;Wait Time=5000"
+          ph="main"
+          uid="{B068A55B-ABA9-4A32-875F-86E0D0B756FF}" />
+        <r
+          id="{F60303F6-09BF-456C-BCA8-CDCC7CDB4E14}"
+          ph="main"
+          uid="{F104C8A3-7E83-46CF-8B1C-E65C0723C66C}" />
+        <r
+          id="{31CEB9C9-A9C8-43EA-9093-A6CDD02D7F90}"
+          ph="main"
+          uid="{34011DB6-FAAD-437E-974C-CD79A04C8DED}" />
+        <r
+          ds="{274BB447-32EB-4791-B569-3F2E71225931}"
+          id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+          par="Alignment=center"
+          ph="main"
+          uid="{D9A0E15D-85B8-4164-B572-8B1B7F9900BD}" />
+        <r
+          ds="{3E75C232-A3C2-498A-9AD4-A762CA23BFB8}"
+          id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+          par=""
+          ph="main"
+          uid="{973DF9CD-0771-4C2E-AC0C-C836D505B855}" />
+        <r
+          ds="{36B70B95-7C53-44B8-9F6F-99297D8A9F38}"
+          id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+          par=""
+          ph="main"
+          uid="{BAB975DE-6C4B-45BD-B30F-C1C5664FED15}" />
+        <r
+          ds="{4E1FB948-29CC-43BA-A9A4-400222C28D3E}"
+          id="{404FE8DE-C601-4E14-8D3D-32F27B41D06D}"
+          par=""
+          ph="main"
+          uid="{83C71140-19FF-4C00-B02D-0B4843E722CC}" />
+        <r
+          ds="{D5EC64F5-E90A-44BE-92E3-BFDFE13FE68A}"
+          id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+          par=""
+          ph="main"
+          uid="{88860320-6AB0-4F0C-9111-B0955AEEC4CC}" />
+        <r
+          ds="{BF5F6030-AB5B-4B33-BE76-CAA8C856E00B}"
+          id="{8811D96E-0023-4E45-BF2A-E9827DB7E4BB}"
+          par=""
+          ph="main"
+          uid="{DB0F338F-12E2-4EAC-B2F7-62C9B90951BB}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180918T213610Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ashwin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ashwin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fb14ad55-f045-4ee9-ab39-155237068bc0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190625T211212Z
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180919T152009Z
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: $name
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ashwin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ashwin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6627c8fb-ad09-4411-9962-ff3885a6f91c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220505T200321Z

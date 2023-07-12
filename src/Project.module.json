@@ -1,0 +1,49 @@
+{
+  "$schema": "../../.sitecore/schemas/ModuleFile.schema.json",
+  "namespace": "Project.Nov",
+  "items": {
+    "includes": [
+      {
+        "name": "Templates",
+        "path": "/sitecore/templates/Project",
+        "allowedPushOperations": "CreateAndUpdate",
+        "scope": "descendantsOnly"
+      },
+      {
+        "name": "ContentRoot",
+        "path": "/sitecore/content/nov",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+      {
+        "name": "Layout",
+        "path": "/sitecore/layout/Layouts/Project",
+        "allowedPushOperations": "CreateAndUpdate",
+        "scope": "descendantsOnly"
+      },
+      {
+        "name": "PlaceholderSettings",
+        "path": "/sitecore/layout/Placeholder Settings/Project",
+        "allowedPushOperations": "CreateAndUpdate",
+        "scope": "descendantsOnly"
+      },
+      {
+        "name": "Media",
+        "path": "/sitecore/media library/Project",
+        "allowedPushOperations": "CreateAndUpdate",
+        "scope": "descendantsOnly"
+      },
+      {
+        "name": "Renderings",
+        "path": "/sitecore/layout/Renderings/Project",
+        "allowedPushOperations": "CreateAndUpdate",
+        "scope": "descendantsOnly"
+      },
+      {
+        "name": "System",
+        "path": "/sitecore/system/Settings/Services/Rendering Hosts",
+        "allowedPushOperations": "CreateAndUpdate",
+        "scope": "descendantsOnly"
+      }
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+﻿---
+ID: "41d72f0f-ff5e-41ce-a07d-7d357717b0b8"
+Parent: "d2e04b7e-096a-4484-9928-496eac07a798"
+Template: "d2e04b7e-096a-4484-9928-496eac07a798"
+Path: /sitecore/templates/Project/nov/NOV Com/Modules/Filtered Document List/__Standard Values
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181027T174611Z
+    - ID: "4c2b65a5-6c42-4751-b78d-95e5ad01e97b"
+      Hint: fieldForFiltering
+      Value: Asset Type
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ashwin
+    - ID: "5d1a7ae4-4dad-4589-ac3d-34cbf176e820"
+      Hint: downloadSelectedFilesText
+      Value: Download Selected Files
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ashwin
+    - ID: "6a30af0b-2599-4920-a85b-74cfb56148db"
+      Hint: businessUnitsText
+      Value: Business Units
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0637c678-9abd-4cd9-8f66-aca6eb70d97b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "bbf43090-654a-4a55-b6ca-6aa97c94e92a"
+      Hint: downloadAllFilesText
+      Value: Download All Files
+    - ID: "cb9dab56-bef6-4292-a507-f7fc6515cc0e"
+      Hint: singleFileSelectedText
+      Value: Selected File
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230622T124117Z
+    - ID: "e7078197-d8cc-4bd9-9228-0ec9de39f190"
+      Hint: allBusinessSegmentsText
+      Value: Filter by Segment/Business Unit
+    - ID: "eb2eca7c-5543-4bfd-994d-100c1f58b92d"
+      Hint: businessFiltersText
+      Value: Segment Filters
+    - ID: "ec7febb7-7f57-45ab-9ee7-f694f2671be7"
+      Hint: downloadText
+      Value: Download
+    - ID: "fb455da1-e362-431d-8f8b-ed6dee31eb73"
+      Hint: categoryText
+      Value: Category
+    - ID: "fc04bd48-57c0-4b49-95e4-ef853c35496b"
+      Hint: multipleFilesSelectedText
+      Value: Selected Files

@@ -1,0 +1,30 @@
+﻿---
+ID: "1d66b428-b008-4d96-8c93-bc2868e63565"
+Parent: "46bffb03-a558-4a20-bef7-10309672b3ea"
+Template: "46bffb03-a558-4a20-bef7-10309672b3ea"
+Path: /sitecore/templates/Project/nov/NOV Shared/Rendering Parameters/Product Table Options/__Standard Values
+SharedFields:
+- ID: "3094d236-5985-4c4f-ae6a-e30740885532"
+  Hint: Caching
+  Value: 0|0|0|0|0|0|0|0
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190325T212010Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5f0dafcb-602a-46d2-ac53-2bad5204e9f7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20191031T205222Z
+    - ID: "dba74f85-5206-4d41-a0bc-3fb2b6b1520a"
+      Hint: Enable First Column Header
+      Value: 1

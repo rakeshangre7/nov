@@ -1,0 +1,95 @@
+﻿---
+ID: "cccb95a0-c353-49d2-8c92-8827b2b5de33"
+Parent: "1d0ee984-9527-4cde-ae7d-cd084f4e70e2"
+Template: "1d0ee984-9527-4cde-ae7d-cd084f4e70e2"
+Path: /sitecore/templates/Project/nov/NOV Com/Item Types/Overview Page/__Standard Values
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Apps/32x32/Monitor.png
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{40C0E7ED-9887-49E1-8E89-43D16DD2AD6C}">
+        <r
+          id="{13EC6ADB-6326-43B6-8A85-0D8510F63F5B}"
+          ph="/main/text-only-hero-slide-{EAD6C629-1FBA-4F5A-86DE-92F7C0771592}-0"
+          uid="{9ED68B73-DFBC-4455-A82D-6AE336E6B342}" />
+        <r
+          id="{BD41E061-3601-46AF-AC01-7B0617E0836B}"
+          ph="main"
+          uid="{EAD6C629-1FBA-4F5A-86DE-92F7C0771592}" />
+        <r
+          ds="{961452BF-F2DF-40BF-9470-82DD85568F4C}"
+          id="{88C2CC12-F008-40D3-97CE-A9D1C7CE929D}"
+          par=""
+          ph="main"
+          uid="{E1DA10A3-25D1-4FAF-BE97-A562E5CFFBFA}" />
+        <r
+          ds="{961452BF-F2DF-40BF-9470-82DD85568F4C}"
+          id="{88C2CC12-F008-40D3-97CE-A9D1C7CE929D}"
+          par=""
+          ph="main"
+          uid="{2D30EBC3-FEF6-4783-9146-C258C8356A40}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180918T213748Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ashwin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ashwin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "029ec84b-66bf-4930-9ad3-6e416a4f0dad"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20180925T185504Z
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180919T151211Z
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: $name
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ashwin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ashwin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "20739429-a08d-4555-8eb4-00003a8d86eb"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190214T212541Z
