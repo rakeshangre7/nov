@@ -37,6 +37,12 @@
         "path": "/sitecore/layout/Renderings/Project",
         "allowedPushOperations": "CreateAndUpdate",
         "scope": "descendantsOnly"
+      },
+      {
+        "name": "System",
+        "path": "/sitecore/system/Settings/Services/Rendering Hosts",
+        "allowedPushOperations": "CreateAndUpdate",
+        "scope": "descendantsOnly"
       }
     ]
   }
