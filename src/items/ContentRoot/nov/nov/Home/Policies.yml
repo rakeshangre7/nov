@@ -7,6 +7,10 @@ SharedFields:
 - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
   Hint: __Workflow
   Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{C4DCC364-F5C0-46D6-BF4C-CA78A4525198}" />
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -1541,7 +1545,7 @@ Languages:
       Value: Policies
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "368f5dd2-61bd-478f-ab69-5382f4603362"
+      Value: "f1023819-6d3b-46dc-a700-8252b962a00c"
     - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
       Hint: contentTag
       Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
@@ -1551,7 +1555,7 @@ Languages:
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\jeremygrzywa
+        sitecore\rangre@horizontal.com
     - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
       Hint: Meta Description
       Value: "Our company policies affirm our global business ethics and principles for operating in an ever-evolving energy industry."
@@ -1564,8 +1568,14 @@ Languages:
         <image mediaid="{96450674-AE6E-40D3-B1C2-5D32D0DA449A}" cropregion="0,227,2705,1780" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20201007T201048Z
+      Value: 20230712T114126Z
+    - ID: "ef381982-a6ec-4ad7-920f-a6f2b9c654aa"
+      Hint: PageImageCropRegion
+      Value: 0,265,2705,1785
     - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
       Hint: Page Image
       Value: |
         <image mediaid="{96450674-AE6E-40D3-B1C2-5D32D0DA449A}" cropregion="0,265,2705,1785" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+    - ID: "faff44dd-d253-4e38-8a2c-5c5ded64cb05"
+      Hint: CardImageCropRegion
+      Value: 0,227,2705,1780
