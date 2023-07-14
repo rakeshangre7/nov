@@ -26,34 +26,33 @@ SharedFields:
     <r xmlns:p="p" xmlns:s="s"
       p:p="1">
       <d
-        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
-        s:l="{96E5F4BA-A2CF-4A4C-A4E7-64DA88226362}">
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
         <r
           uid="{BA077E75-780B-4654-A220-10E63520C582}"
           s:ccb="Clear on publish"
           s:par="CSSStyles&amp;Add Gradient=1&amp;Text Color=white"
-          s:ph="/headless-footer/hero-slide-2" />
+          s:ph="" />
         <r
           uid="{83C96A38-D18A-4E35-9D8D-71F869B259F3}"
           s:ccb="Clear on publish"
           s:ds=""
-          s:par="CSSStyles"
-          s:ph="headless-main" />
+          s:par="CSSStyles" />
         <r
           uid="{C4ACEA35-73C2-4347-B325-2FC6FCDAAB8F}"
           s:ccb="Clear on publish"
-          s:par="CSSStyles"
-          s:ph="headless-main" />
+          s:par="CSSStyles" />
         <r
           uid="{E655A92B-3794-4099-AF60-076BAFA33189}"
           s:ccb="Clear on publish"
-          s:par="CSSStyles"
-          s:ph="headless-main" />
+          s:par="CSSStyles" />
         <r
           uid="{0D97EC48-A616-4503-81F3-8B0A22142C87}"
           s:ccb="Clear on publish"
-          s:par="CSSStyles"
-          s:ph="headless-main" />
+          s:par="CSSStyles" />
+        <r
+          uid="{1FD9ED8E-765E-4D75-AEB7-9C5643309FB1}"
+          s:ccb="Clear on publish"
+          s:par="CSSStyles" />
       </d>
     </r>
 Languages:
@@ -89,14 +88,14 @@ Languages:
       Value: FAQ
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "e5693b6f-7c91-4731-8568-2987e160e036"
+      Value: "4c96408a-21d4-43ca-8b94-a50e1af1b1ee"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\varalakshmi.md@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230712T074339Z
+      Value: 20230713T101528Z
 - Language: "en-US"
   Versions:
   - Version: 1
@@ -247,7 +246,7 @@ Languages:
       Value: FAQ
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "1f68e235-d6d6-4293-b7ab-bf490c61b398"
+      Value: "02e615f2-8e2c-425c-a59f-7531eca16362"
     - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
       Hint: contentTag
       Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
@@ -263,4 +262,4 @@ Languages:
       Value: 20190617T195715Z
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230707T094029Z
+      Value: 20230713T095656Z

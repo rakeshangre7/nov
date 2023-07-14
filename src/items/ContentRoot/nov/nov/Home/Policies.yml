@@ -10,7 +10,7 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{C4DCC364-F5C0-46D6-BF4C-CA78A4525198}" />
+    <image mediaid="{35B587BA-BB2F-404F-8109-B2DCFA6CEFE3}" />
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -1543,9 +1543,12 @@ Languages:
     - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
       Hint: Menu Title
       Value: Policies
+    - ID: "7ebfc7bd-18ca-47d9-afd9-01e1aadc498d"
+      Hint: Title
+      Value: Policies
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "f1023819-6d3b-46dc-a700-8252b962a00c"
+      Value: "75cc5138-99da-47e5-9f07-32a262413ed9"
     - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
       Hint: contentTag
       Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
@@ -1555,7 +1558,7 @@ Languages:
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\rangre@horizontal.com
+        sitecore\varalakshmi.md@horizontal.com
     - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
       Hint: Meta Description
       Value: "Our company policies affirm our global business ethics and principles for operating in an ever-evolving energy industry."
@@ -1568,7 +1571,7 @@ Languages:
         <image mediaid="{96450674-AE6E-40D3-B1C2-5D32D0DA449A}" cropregion="0,227,2705,1780" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230712T114126Z
+      Value: 20230713T094510Z
     - ID: "ef381982-a6ec-4ad7-920f-a6f2b9c654aa"
       Hint: PageImageCropRegion
       Value: 0,265,2705,1785
