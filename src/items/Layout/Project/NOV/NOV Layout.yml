@@ -6,7 +6,10 @@ Path: /sitecore/layout/Layouts/Project/NOV/NOV Layout
 SharedFields:
 - ID: "80334869-86dc-4472-aa89-44cf1b2f6c9b"
   Hint: Placeholders
-  Value: "{105FAFDC-847D-449C-B1AE-4FBA8AEA05AD}"
+  Value: |
+    {A66F18E2-27B8-41CB-B2E6-67DF2577A9F1}
+    {105FAFDC-847D-449C-B1AE-4FBA8AEA05AD}
+    {6CA045CE-1D28-442B-A272-BC3213D5B771}
 - ID: "a036b2bc-ba04-44f6-a75f-bae6cd242abf"
   Hint: Path
   Value: /Views/SXA JSS/SXA JSS Layout.cshtml
@@ -24,11 +27,11 @@ Languages:
         sitecore\admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "93ff58d3-772f-498d-9c7f-7bc93a3b3a18"
+      Value: "8a03c59f-05d2-4a0c-a79f-c14b848f3499"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\varalakshmi.md@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230706T153630Z
+      Value: 20230714T124427Z

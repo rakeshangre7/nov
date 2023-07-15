@@ -5,6 +5,9 @@ Template: "1d915b19-3df3-4fc4-a479-a70f16661a03"
 Path: /sitecore/content/nov/nov/Home
 BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
 SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{1AE8D3F5-0037-498B-9702-D237ADC45B38}"
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
@@ -86,11 +89,11 @@ Languages:
       Value: Home
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "8198aefa-41f4-4460-8bfe-351cee9be711"
+      Value: "a1b27780-6439-4d8b-8526-9c0f3df90b32"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\varalakshmi.md@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230704T144945Z
+      Value: 20230713T103239Z

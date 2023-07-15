@@ -1,19 +1,20 @@
 ﻿---
-ID: "6db5ea9a-22c3-4a8d-b560-62ab9ffbf9c8"
-Parent: "dcbfae24-ba20-4c67-874e-fb4b6247ea27"
-Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
-Path: /sitecore/content/nov/nov/Home/FAQ/Data/Text 1
+ID: "a66f18e2-27b8-41cb-b2e6-67df2577a9f1"
+Parent: "49d09070-2005-4ad5-a370-667b34a7a39a"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: /sitecore/layout/Placeholder Settings/Project/nov/Header
+SharedFields:
+- ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+  Hint: Placeholder Key
+  Value: header
 Languages:
 - Language: en
   Versions:
   - Version: 1
     Fields:
-    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
-      Hint: __Lock
-      Value: <r />
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20230706T165350Z
+      Value: 20230714T124327Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -22,16 +23,13 @@ Languages:
       Hint: __Created by
       Value: |
         sitecore\varalakshmi.md@horizontal.com
-    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
-      Hint: Text
-      Value: <p>asdhjkkl;</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "813ff8f4-d358-43c7-84c8-dc86a0fd34fb"
+      Value: "adf8c006-50a2-450f-96a5-d730c3fa24d8"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\varalakshmi.md@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230706T165418Z
+      Value: 20230714T124437Z
