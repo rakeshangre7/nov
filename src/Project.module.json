@@ -12,7 +12,7 @@
       {
         "name": "ContentRoot",
         "path": "/sitecore/content/nov",
-        "allowedPushOperations": "CreateAndUpdate"
+        "allowedPushOperations": "createUpdateAndDelete"
       },
       {
         "name": "Layout",
