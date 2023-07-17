@@ -43,6 +43,12 @@
         "path": "/sitecore/system/Settings/Services/Rendering Hosts",
         "allowedPushOperations": "CreateAndUpdate",
         "scope": "descendantsOnly"
+      },
+      {
+        "name": "Language",
+        "path": "/sitecore/system/Languages/en-US",
+        "allowedPushOperations": "CreateAndUpdate",
+        "scope": "SingleItem"
       }
     ]
   }
