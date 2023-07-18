@@ -12,6 +12,7 @@
 
 # graphql code generation
 /.generated
+!/.generated/templates
 *.graphql.d.ts
 *.graphqls.d.ts
 
