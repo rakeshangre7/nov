@@ -9,6 +9,7 @@ import Scripts from 'src/Scripts';
 
 // Prefix public assets with a public URL to enable compatibility with Sitecore Experience Editor.
 // If you're not supporting the Experience Editor, you can remove this.
+//testting only
 const publicUrl = getPublicUrl();
 
 interface LayoutProps {
