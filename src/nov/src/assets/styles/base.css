@@ -1,0 +1,50 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  body {
+    @apply font-sans;
+    @apply text-base;
+    @apply text-black;
+  }
+
+  /*
+    Hides Sitecore editor markup,
+    if you run the app in connected mode while the Sitecore cookies
+    are set to edit mode.
+  */
+  .scChromeData,
+  .scpm {
+    display: none !important;
+  }
+
+  /*
+    Styles for default JSS error components
+  */
+  .sc-jss-editing-error,
+  .sc-jss-placeholder-error {
+    background-color: #ffffe0;
+    padding: 1em;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  body:not(.light) {
+    @apply text-gray;
+
+    background-color: #1b1c1d;
+  }
+}
+@media (prefers-color-scheme: light) {
+  body.dark {
+    @apply text-gray;
+
+    background-color: #1b1c1d;
+  }
+}
