@@ -10,7 +10,7 @@
     ],
     "sitecoreConfigPath": "/App_Config/Include/zzz",
     "graphQLEndpointPath": "/api/graphql/v1",
-    "language": "en",
+    "language": "en-US",
     "templates": [
       "nextjs",
       "nextjs-styleguide",
@@ -131,22 +131,23 @@
   },
   "scripts": {
     "bootstrap": "ts-node --project tsconfig.scripts.json scripts/bootstrap.ts && graphql-let",
-    "build": "yarpm-pnpm run bootstrap",
+    "build": "npm-run-all --serial bootstrap next:build",
     "graphql:update": "ts-node --project tsconfig.scripts.json ./scripts/fetch-graphql-introspection-data.ts",
     "jss": "jss",
-    "lint:staged": "lint-staged",
     "lint:js": "eslint ./src/**/*.tsx ./src/**/*.ts ./scripts/**/*.ts",
+    "lint:staged": "lint-staged",
     "next:build": "next build",
     "next:dev": "cross-env NODE_OPTIONS='--inspect' next dev",
     "next:start": "next start",
-    "scaffold": "ts-node --project tsconfig.scripts.json scripts/scaffold-component.ts",
-    "start": "cross-env-shell JSS_MODE=disconnected \"yarpm-pnpm run start:connected\"",
-    "start:connected": "yarpm-pnpm run bootstrap && (yarpm-pnpm run next:dev &  yarpm-pnpm run start:watch-components)",
+    "scaffold": "ts-node --project tsconfig.scripts.json scripts/scaffold-component/index.ts",
+    "start": "cross-env-shell JSS_MODE=disconnected \"npm-run-all --serial bootstrap --parallel next:dev start:disconnected-proxy start:watch-components\"",
+    "start:connected": "npm-run-all --serial bootstrap --parallel next:dev start:watch-components",
     "start:disconnected-proxy": "ts-node --project tsconfig.scripts.json ./scripts/disconnected-mode-proxy.ts",
-    "start:production": "yarpm-pnpm run bootstrap && yarpm-pnpm run next:build && yarpm-pnpm run next:start",
-    "start:watch-components": "ts-node --project tsconfig.scripts.json scripts/generate-component-factory.ts --watch",
+    "start:production": "npm-run-all --serial bootstrap next:build next:start",
+    "start:watch-components": "ts-node --project tsconfig.scripts.json scripts/generate-component-builder/index.ts --watch",
     "test": "jest",
-    "storybook": "yarpm-pnpm run bootstrap && storybook dev -p 6006",
-    "build-storybook": "yarpm-pnpm run bootstrap && storybook build"
+    "storybook": "npm-run-all --serial bootstrap & storybook dev -p 6006",
+    "build-storybook": "npm-run-all --serial bootstrap & storybook build",
+    "serve-storybook": "npx serve storybook-static"
   }
 }

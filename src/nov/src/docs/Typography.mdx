@@ -1,0 +1,48 @@
+import { Typeset } from '@storybook/blocks';
+
+export const typography = {
+  type: {
+    primary: '"Modern Era", Helvetica, Arial, sans-serif',
+  },
+  weight: {
+    regular: '400',
+    bold: '700',
+    black: '900',
+  },
+  size: {
+    s1: 14,
+    s2: 16,
+    m1: 18,
+    l1: 24,
+    l2: 30,
+    l3: 36,
+    l4: 36,
+    l5: 38,
+    l6: 64,
+  },
+};
+
+export const SampleText = 'The quick brown fox jumps over the lazy dog.';
+
+# Typography
+
+**Font:** Modern Era
+
+**Weights:** 400(regular), 700(bold), 900(black)
+
+<Typeset
+  fontSizes={[
+    Number(typography.size.s1),
+    Number(typography.size.s2),
+    Number(typography.size.m1),
+    Number(typography.size.l1),
+    Number(typography.size.l2),
+    Number(typography.size.l3),
+    Number(typography.size.l4),
+    Number(typography.size.l5),
+    Number(typography.size.l6),
+  ]}
+  fontWeight={typography.weight.regular}
+  sampleText={SampleText}
+  fontFamily={typography.type.primary}
+/>
