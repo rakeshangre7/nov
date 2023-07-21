@@ -5,7 +5,7 @@ import {
   ErrorPages,
 } from '@sitecore-jss/sitecore-jss-nextjs';
 import { SitecorePageProps } from 'lib/page-props';
-import Layout from 'src/Layout';
+import PageLayout from '@/components/layout/PageLayout';
 import { componentBuilder } from 'temp/componentBuilder';
 import { GetStaticProps } from 'next';
 import config from 'temp/config';
@@ -37,7 +37,7 @@ const Custom500 = (props: SitecorePageProps): JSX.Element => {
       componentFactory={componentBuilder.getComponentFactory()}
       layoutData={props.layoutData}
     >
-      <Layout layoutData={props.layoutData} headLinks={props.headLinks} />
+      <PageLayout layoutData={props.layoutData} />
     </SitecoreContext>
   );
 };
