@@ -1,0 +1,10 @@
+
+  query RobotsText($datasource: String!, $language: String!) {
+    datasource: item(path: $datasource, language: $language) {
+      field(name: "RobotsContent") {
+        ... on TextField {
+          value
+        }
+      }
+    }
+  }
