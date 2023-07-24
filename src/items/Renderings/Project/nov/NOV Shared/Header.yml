@@ -1,0 +1,204 @@
+﻿---
+ID: "828bcf66-8a7a-4a71-92eb-f45a6182f987"
+Parent: "62aea773-6a06-4003-beb0-d9fd12d88a49"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Project/nov/NOV Shared/Header
+SharedFields:
+- ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
+  Hint: componentName
+  Value: Header
+- ID: "17bb046a-a32a-41b3-8315-81217947611b"
+  Hint: ComponentQuery
+  Value: |
+    fragment standardPageFields on StandardPage {
+      name
+      id
+      title {
+        jsonValue
+      }
+      cardImage {
+        ... on ImageField {
+          alt
+          src
+        }
+      }
+      cardImageCropRegion {
+        value
+      }
+      pageImage {
+        ... on ImageField {
+          alt
+          src
+        }
+      }
+      pageImageCropRegion {
+        value
+      }
+      hideInNavigation {
+        value
+      }
+      hideInFooterNavigation {
+        value
+      }
+      hideSecondaryNavigation {
+        value
+      }
+      submenuText {
+        value
+      }
+      headline {
+        value
+      }
+      template {
+        id
+      }
+    }
+    
+    fragment homeRootFields on HomeRoot {
+      searchLabel {
+        value
+      }
+      searchSuggestionsLabel {
+        value
+      }
+      searchPlaceholder {
+        value
+      }
+      productsAndServicesLabel {
+        value
+      }
+      menuLabel {
+        value
+      }
+      featuredStoryHeadline {
+        value
+      }
+      featuredStoryAbstract {
+        value
+      }
+      featuredStoryCTAText {
+        value
+      }
+      labelReadMore {
+        value
+      }
+      cardImage {
+        ... on ImageField {
+          alt
+          src
+        }
+      }
+      portalHeader {
+        value
+      }
+      portalDescription {
+        value
+      }
+      portalRegisterUrl {
+        ... on LinkField {
+          url
+          text
+        }
+      }
+      nOVPortalLogin {
+        ... on LinkField {
+          url
+          text
+        }
+      }
+      labelViewAll {
+        value
+      }
+      featuredStorySubItemLink {
+        ... on LinkField {
+          url
+          target
+        }
+      }
+    }
+    
+    query {
+      layout(site: "nov", routePath: "/", language: "en") {
+        item {
+          name
+          ... on HomeRoot {
+            ...homeRootFields
+          }
+          ... on StandardPage {
+            ...standardPageFields
+          }
+          children(hasLayout: true, includeTemplateIDs: "{559ADBC8-D9CA-436B-BA12-4019404BBE11}") {
+            results {
+              name
+              ... on StandardPage {
+                ...standardPageFields
+              }
+              
+              children(hasLayout: true, includeTemplateIDs: "{559ADBC8-D9CA-436B-BA12-4019404BBE11}") {
+                results {
+                  name
+                  ... on StandardPage {
+                    ...standardPageFields
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+    
+- ID: "a3411ff6-c978-40aa-b059-a49b9ca2209b"
+  Hint: Can select Page as a data source
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230721T092552Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rangre@horizontal.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rangre@horizontal.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7ea11707-9f4a-4e08-b376-8259ed9d2c27"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rangre@horizontal.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230724T070033Z
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230721T093406Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rangre@horizontal.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rangre@horizontal.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ae4f0018-9d42-45b7-85b3-6be05469882a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rangre@horizontal.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230721T131226Z
