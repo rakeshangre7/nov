@@ -12,7 +12,7 @@ import {
 import NextLink from 'next/link';
 import {
   ConnectedDemoQueryDocument,
-  AppRoute as AppRoute,
+  AppRoute,
   Item,
   GraphQlConnectedDemo as GrapQLConnectedDemoDatasource,
 } from './GraphQL-ConnectedDemo.dynamic.graphql';
