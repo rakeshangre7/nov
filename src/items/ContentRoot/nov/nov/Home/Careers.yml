@@ -1,0 +1,2138 @@
+﻿---
+ID: "499ba885-4bff-484a-98db-08e7f6867cb1"
+Parent: "447b01de-b691-4983-b4a7-1e03dff32250"
+Template: "d227ab0e-fd44-4ae0-878a-189949913d0b"
+Path: /sitecore/content/nov/nov/Home/Careers
+SharedFields:
+- ID: "6fd695e7-7f6d-4ca5-8b49-a829e5950ae9"
+  Hint: __Subitems Sorting
+  Value: "{44D1A0D2-E17B-4DAA-ADDF-53F2E8F58525}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1000
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "019c3c8b-3d47-4b92-a8e9-838880ddf307"
+      Hint: Open Graph Title
+      Value: Careers at NOV
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{BA077E75-780B-4654-A220-10E63520C582}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{83C96A38-D18A-4E35-9D8D-71F869B259F3}"
+              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}" />
+            <r
+              uid="{C4ACEA35-73C2-4347-B325-2FC6FCDAAB8F}">
+              <p:d />
+            </r>
+            <r
+              uid="{E655A92B-3794-4099-AF60-076BAFA33189}">
+              <p:d />
+            </r>
+            <r
+              uid="{0D97EC48-A616-4503-81F3-8B0A22142C87}">
+              <p:d />
+            </r>
+            <r
+              uid="{1FD9ED8E-765E-4D75-AEB7-9C5643309FB1}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3E128BD-C527-476C-B850-4FF98996AE1F}">
+              <p:d />
+            </r>
+            <r
+              uid="{9E4C6427-3865-4F4C-AF91-EFDF6A58DA77}">
+              <p:d />
+            </r>
+            <r
+              uid="{ACAD23C8-9219-4D65-B38A-4537A73C4FE0}">
+              <p:d />
+            </r>
+            <r
+              uid="{FB4C5C8E-DF5F-4300-950E-536065A8707B}">
+              <p:d />
+            </r>
+            <r
+              uid="{2849CE03-88F2-4FBC-BAE4-0D1B29D7AEAA}">
+              <p:d />
+            </r>
+            <r
+              uid="{014A8D72-4B6D-4918-972B-13651266E760}"
+              p:after="r[@uid='{83C96A38-D18A-4E35-9D8D-71F869B259F3}']"
+              s:ds="{1E0BD8EE-1931-40A4-9F18-A2D8DDECBA81}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{B549F397-D84D-4CDE-AD8D-59FFF436DED6}"
+              p:after="r[@uid='{014A8D72-4B6D-4918-972B-13651266E760}']"
+              s:ds="{615E65D3-79E3-427B-99F6-51049A4F6876}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:par="Use Button for Link=1"
+              s:ph="main" />
+            <r
+              uid="{3EDA1BA0-72B8-46D1-8D2A-C910904A6342}"
+              p:after="r[@uid='{B549F397-D84D-4CDE-AD8D-59FFF436DED6}']"
+              s:ds="{CCE2ADAF-B40B-4EEA-9A19-FB5F6B77F3D9}"
+              s:id="{2E6C5F1E-BC4A-4FBE-BC72-FBCB237F8DDC}"
+              s:ph="main" />
+            <r
+              uid="{FF407A71-79F8-4C05-BB7C-F061ACEB4DA8}"
+              p:after="r[@uid='{3EDA1BA0-72B8-46D1-8D2A-C910904A6342}']"
+              s:ds="{79F7A2A7-75BD-40E0-B8AC-363D1E575AE6}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{6BED82BF-D6EF-41EA-B644-16C64B9A0C26}"
+              p:after="r[@uid='{FF407A71-79F8-4C05-BB7C-F061ACEB4DA8}']"
+              s:ds="{799114CB-C64C-40A1-8BE7-3691459F7E1A}"
+              s:id="{2E6C5F1E-BC4A-4FBE-BC72-FBCB237F8DDC}"
+              s:ph="main" />
+            <r
+              uid="{4CE5836D-0222-4716-A971-B76A196355ED}"
+              p:after="r[@uid='{6BED82BF-D6EF-41EA-B644-16C64B9A0C26}']"
+              s:ds="{5DCDBCD4-99CF-4A44-A457-E07D57BD8A49}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{B20FB73D-230B-411A-9910-2A2D8240E6F8}"
+              p:after="r[@uid='{4CE5836D-0222-4716-A971-B76A196355ED}']"
+              s:ds="{882DD974-422C-46A2-97A1-1174D36E0774}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{46F42864-FE69-4624-9547-38EECA22054B}"
+              p:after="r[@uid='{B20FB73D-230B-411A-9910-2A2D8240E6F8}']"
+              s:ds="{4809C534-9000-406A-89A5-1EEF3EA8C987}"
+              s:id="{846AE873-D5C7-4033-928F-6BD96E963742}"
+              s:ph="main" />
+            <r
+              uid="{84FAC81F-B9EE-4BBF-A5B8-5ACA442529BE}"
+              p:after="*[1=2]"
+              s:ds="{FC9F375C-4337-4EE2-A0F8-36607988FE06}"
+              s:id="{404FE8DE-C601-4E14-8D3D-32F27B41D06D}"
+              s:ph="main" />
+            <r
+              uid="{B5407315-4598-49BA-A716-8895E8E1539E}">
+              <p:d />
+            </r>
+            <r
+              uid="{35F5B041-CCEA-40B8-948D-6DE09851A28E}">
+              <p:d />
+            </r>
+            <r
+              uid="{99B4E79C-EEB8-49BC-8779-24C4AD0CF113}">
+              <p:d />
+            </r>
+            <r
+              uid="{CDF8E396-F69A-48ED-A6DB-B665BD98B242}">
+              <p:d />
+            </r>
+            <r
+              uid="{3ADDDF2A-6C4B-4473-ACB2-EADC8ABD6475}">
+              <p:d />
+            </r>
+            <r
+              uid="{8036035A-E577-44BC-A961-631ADBC08C0F}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Careers
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Join our global family and become part of the company that&rsquo;s leading innovation within the upstream oil and gas industry.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Careers
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191121T155428Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Careers
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Careers
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticgappau
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Careers
+    - ID: "7c2c7685-a8a6-4130-86ae-102efa679725"
+      Hint: Featured Story Abstract
+      Value: Join our global family and become part of the company that’s leading innovation within the upstream oil and gas industry.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "10c149ec-dfff-488a-adae-e16ad5e039a1"
+    - ID: "9c306482-94bb-47b2-b1ba-62ffc01637e4"
+      Hint: Open Graph Description
+      Value: Join our global family and become part of the company that’s leading innovation within the upstream oil and gas industry.
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Careers
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Join our global family and become part of the company that’s leading innovation within the upstream oil and gas industry.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20191121T155428Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{FEC5FA09-C8A4-4936-A3A9-7219EEB54171}" cropregion="0,88,1920,1192" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20191121T155513Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{FEC5FA09-C8A4-4936-A3A9-7219EEB54171}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "019c3c8b-3d47-4b92-a8e9-838880ddf307"
+      Hint: Open Graph Title
+      Value: Careers at NOV
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{BA077E75-780B-4654-A220-10E63520C582}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{83C96A38-D18A-4E35-9D8D-71F869B259F3}"
+              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}" />
+            <r
+              uid="{C4ACEA35-73C2-4347-B325-2FC6FCDAAB8F}">
+              <p:d />
+            </r>
+            <r
+              uid="{E655A92B-3794-4099-AF60-076BAFA33189}">
+              <p:d />
+            </r>
+            <r
+              uid="{0D97EC48-A616-4503-81F3-8B0A22142C87}">
+              <p:d />
+            </r>
+            <r
+              uid="{1FD9ED8E-765E-4D75-AEB7-9C5643309FB1}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3E128BD-C527-476C-B850-4FF98996AE1F}">
+              <p:d />
+            </r>
+            <r
+              uid="{9E4C6427-3865-4F4C-AF91-EFDF6A58DA77}">
+              <p:d />
+            </r>
+            <r
+              uid="{ACAD23C8-9219-4D65-B38A-4537A73C4FE0}">
+              <p:d />
+            </r>
+            <r
+              uid="{FB4C5C8E-DF5F-4300-950E-536065A8707B}">
+              <p:d />
+            </r>
+            <r
+              uid="{2849CE03-88F2-4FBC-BAE4-0D1B29D7AEAA}">
+              <p:d />
+            </r>
+            <r
+              uid="{014A8D72-4B6D-4918-972B-13651266E760}"
+              p:after="r[@uid='{83C96A38-D18A-4E35-9D8D-71F869B259F3}']"
+              s:ds="{1E0BD8EE-1931-40A4-9F18-A2D8DDECBA81}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{B549F397-D84D-4CDE-AD8D-59FFF436DED6}"
+              p:after="r[@uid='{014A8D72-4B6D-4918-972B-13651266E760}']"
+              s:ds="{615E65D3-79E3-427B-99F6-51049A4F6876}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:par="Use Button for Link=1"
+              s:ph="main" />
+            <r
+              uid="{3EDA1BA0-72B8-46D1-8D2A-C910904A6342}"
+              p:after="r[@uid='{B549F397-D84D-4CDE-AD8D-59FFF436DED6}']"
+              s:ds="{CCE2ADAF-B40B-4EEA-9A19-FB5F6B77F3D9}"
+              s:id="{2E6C5F1E-BC4A-4FBE-BC72-FBCB237F8DDC}"
+              s:ph="main" />
+            <r
+              uid="{FF407A71-79F8-4C05-BB7C-F061ACEB4DA8}"
+              p:after="r[@uid='{3EDA1BA0-72B8-46D1-8D2A-C910904A6342}']"
+              s:ds="{79F7A2A7-75BD-40E0-B8AC-363D1E575AE6}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{6BED82BF-D6EF-41EA-B644-16C64B9A0C26}"
+              p:after="r[@uid='{FF407A71-79F8-4C05-BB7C-F061ACEB4DA8}']"
+              s:ds="{799114CB-C64C-40A1-8BE7-3691459F7E1A}"
+              s:id="{2E6C5F1E-BC4A-4FBE-BC72-FBCB237F8DDC}"
+              s:ph="main" />
+            <r
+              uid="{4CE5836D-0222-4716-A971-B76A196355ED}"
+              p:after="r[@uid='{6BED82BF-D6EF-41EA-B644-16C64B9A0C26}']"
+              s:ds="{5DCDBCD4-99CF-4A44-A457-E07D57BD8A49}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{B20FB73D-230B-411A-9910-2A2D8240E6F8}"
+              p:after="r[@uid='{4CE5836D-0222-4716-A971-B76A196355ED}']"
+              s:ds="{882DD974-422C-46A2-97A1-1174D36E0774}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{46F42864-FE69-4624-9547-38EECA22054B}"
+              p:after="r[@uid='{B20FB73D-230B-411A-9910-2A2D8240E6F8}']"
+              s:ds="{4809C534-9000-406A-89A5-1EEF3EA8C987}"
+              s:id="{846AE873-D5C7-4033-928F-6BD96E963742}"
+              s:ph="main" />
+            <r
+              uid="{84FAC81F-B9EE-4BBF-A5B8-5ACA442529BE}"
+              p:after="*[1=2]"
+              s:ds="{FC9F375C-4337-4EE2-A0F8-36607988FE06}"
+              s:id="{404FE8DE-C601-4E14-8D3D-32F27B41D06D}"
+              s:ph="main" />
+            <r
+              uid="{B5407315-4598-49BA-A716-8895E8E1539E}">
+              <p:d />
+            </r>
+            <r
+              uid="{35F5B041-CCEA-40B8-948D-6DE09851A28E}">
+              <p:d />
+            </r>
+            <r
+              uid="{99B4E79C-EEB8-49BC-8779-24C4AD0CF113}">
+              <p:d />
+            </r>
+            <r
+              uid="{CDF8E396-F69A-48ED-A6DB-B665BD98B242}">
+              <p:d />
+            </r>
+            <r
+              uid="{3ADDDF2A-6C4B-4473-ACB2-EADC8ABD6475}">
+              <p:d />
+            </r>
+            <r
+              uid="{8036035A-E577-44BC-A961-631ADBC08C0F}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Careers
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Join our global family and become part of the company that&rsquo;s leading innovation within the upstream oil and gas industry.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Careers
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200414T155004Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Careers
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Careers
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticgappau
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Careers
+    - ID: "7c2c7685-a8a6-4130-86ae-102efa679725"
+      Hint: Featured Story Abstract
+      Value: Join our global family and become part of the company that’s leading innovation within the upstream oil and gas industry.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dda3c0e7-9cd3-43b8-a7e3-91c3f526b78d"
+    - ID: "9c306482-94bb-47b2-b1ba-62ffc01637e4"
+      Hint: Open Graph Description
+      Value: Join our global family and become part of the company that’s leading innovation within the upstream oil and gas industry.
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Careers
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Join our global family and become part of the company that’s leading innovation within the upstream oil and gas industry.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200414T155004Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{FEC5FA09-C8A4-4936-A3A9-7219EEB54171}" cropregion="0,88,1920,1192" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200414T155144Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{FEC5FA09-C8A4-4936-A3A9-7219EEB54171}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "019c3c8b-3d47-4b92-a8e9-838880ddf307"
+      Hint: Open Graph Title
+      Value: Careers at NOV
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{BA077E75-780B-4654-A220-10E63520C582}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{83C96A38-D18A-4E35-9D8D-71F869B259F3}"
+              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}" />
+            <r
+              uid="{C4ACEA35-73C2-4347-B325-2FC6FCDAAB8F}">
+              <p:d />
+            </r>
+            <r
+              uid="{E655A92B-3794-4099-AF60-076BAFA33189}">
+              <p:d />
+            </r>
+            <r
+              uid="{0D97EC48-A616-4503-81F3-8B0A22142C87}">
+              <p:d />
+            </r>
+            <r
+              uid="{1FD9ED8E-765E-4D75-AEB7-9C5643309FB1}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3E128BD-C527-476C-B850-4FF98996AE1F}">
+              <p:d />
+            </r>
+            <r
+              uid="{9E4C6427-3865-4F4C-AF91-EFDF6A58DA77}">
+              <p:d />
+            </r>
+            <r
+              uid="{ACAD23C8-9219-4D65-B38A-4537A73C4FE0}">
+              <p:d />
+            </r>
+            <r
+              uid="{FB4C5C8E-DF5F-4300-950E-536065A8707B}">
+              <p:d />
+            </r>
+            <r
+              uid="{2849CE03-88F2-4FBC-BAE4-0D1B29D7AEAA}">
+              <p:d />
+            </r>
+            <r
+              uid="{B5407315-4598-49BA-A716-8895E8E1539E}">
+              <p:d />
+            </r>
+            <r
+              uid="{014A8D72-4B6D-4918-972B-13651266E760}"
+              p:after="r[@uid='{83C96A38-D18A-4E35-9D8D-71F869B259F3}']"
+              s:ds="{1E0BD8EE-1931-40A4-9F18-A2D8DDECBA81}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{B549F397-D84D-4CDE-AD8D-59FFF436DED6}"
+              p:after="r[@uid='{014A8D72-4B6D-4918-972B-13651266E760}']"
+              s:ds="{615E65D3-79E3-427B-99F6-51049A4F6876}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:par="Use Button for Link=1"
+              s:ph="main" />
+            <r
+              uid="{3EDA1BA0-72B8-46D1-8D2A-C910904A6342}"
+              p:after="r[@uid='{B549F397-D84D-4CDE-AD8D-59FFF436DED6}']"
+              s:ds="{CCE2ADAF-B40B-4EEA-9A19-FB5F6B77F3D9}"
+              s:id="{2E6C5F1E-BC4A-4FBE-BC72-FBCB237F8DDC}"
+              s:ph="main" />
+            <r
+              uid="{FF407A71-79F8-4C05-BB7C-F061ACEB4DA8}"
+              p:after="r[@uid='{3EDA1BA0-72B8-46D1-8D2A-C910904A6342}']"
+              s:ds="{79F7A2A7-75BD-40E0-B8AC-363D1E575AE6}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{6BED82BF-D6EF-41EA-B644-16C64B9A0C26}"
+              p:after="r[@uid='{FF407A71-79F8-4C05-BB7C-F061ACEB4DA8}']"
+              s:ds="{799114CB-C64C-40A1-8BE7-3691459F7E1A}"
+              s:id="{2E6C5F1E-BC4A-4FBE-BC72-FBCB237F8DDC}"
+              s:ph="main" />
+            <r
+              uid="{4CE5836D-0222-4716-A971-B76A196355ED}"
+              p:after="r[@uid='{6BED82BF-D6EF-41EA-B644-16C64B9A0C26}']"
+              s:ds="{5DCDBCD4-99CF-4A44-A457-E07D57BD8A49}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{B20FB73D-230B-411A-9910-2A2D8240E6F8}"
+              p:after="r[@uid='{4CE5836D-0222-4716-A971-B76A196355ED}']"
+              s:ds="{882DD974-422C-46A2-97A1-1174D36E0774}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{9D91F714-3DCC-48BD-808D-88B177B9FB9D}"
+              p:after="r[@uid='{B20FB73D-230B-411A-9910-2A2D8240E6F8}']"
+              s:ds="{96BA7561-7DFD-46FE-AE1C-81F18677832E}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{46F42864-FE69-4624-9547-38EECA22054B}"
+              p:after="r[@uid='{9D91F714-3DCC-48BD-808D-88B177B9FB9D}']"
+              s:ds="{4809C534-9000-406A-89A5-1EEF3EA8C987}"
+              s:id="{846AE873-D5C7-4033-928F-6BD96E963742}"
+              s:ph="main" />
+            <r
+              uid="{84FAC81F-B9EE-4BBF-A5B8-5ACA442529BE}"
+              p:after="*[1=2]"
+              s:ds="{FC9F375C-4337-4EE2-A0F8-36607988FE06}"
+              s:id="{404FE8DE-C601-4E14-8D3D-32F27B41D06D}"
+              s:ph="main" />
+            <r
+              uid="{35F5B041-CCEA-40B8-948D-6DE09851A28E}">
+              <p:d />
+            </r>
+            <r
+              uid="{99B4E79C-EEB8-49BC-8779-24C4AD0CF113}">
+              <p:d />
+            </r>
+            <r
+              uid="{CDF8E396-F69A-48ED-A6DB-B665BD98B242}">
+              <p:d />
+            </r>
+            <r
+              uid="{3ADDDF2A-6C4B-4473-ACB2-EADC8ABD6475}">
+              <p:d />
+            </r>
+            <r
+              uid="{8036035A-E577-44BC-A961-631ADBC08C0F}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Careers
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Join our global family and become part of the company that&rsquo;s leading innovation within the upstream oil and gas industry.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Careers
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210129T201906Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Careers
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Careers
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticgappau
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Careers
+    - ID: "7c2c7685-a8a6-4130-86ae-102efa679725"
+      Hint: Featured Story Abstract
+      Value: Join our global family and become part of the company that’s leading innovation within the upstream oil and gas industry.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a7ba616a-e858-433b-b976-7a4648174516"
+    - ID: "9c306482-94bb-47b2-b1ba-62ffc01637e4"
+      Hint: Open Graph Description
+      Value: Join our global family and become part of the company that’s leading innovation within the upstream oil and gas industry.
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Careers
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Join our global family and become part of the company that’s leading innovation within the upstream oil and gas industry.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20210129T201906Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{FEC5FA09-C8A4-4936-A3A9-7219EEB54171}" cropregion="0,88,1920,1192" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210129T211023Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{FEC5FA09-C8A4-4936-A3A9-7219EEB54171}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 4
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "019c3c8b-3d47-4b92-a8e9-838880ddf307"
+      Hint: Open Graph Title
+      Value: Careers at NOV
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{BA077E75-780B-4654-A220-10E63520C582}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{83C96A38-D18A-4E35-9D8D-71F869B259F3}"
+              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}" />
+            <r
+              uid="{C4ACEA35-73C2-4347-B325-2FC6FCDAAB8F}">
+              <p:d />
+            </r>
+            <r
+              uid="{E655A92B-3794-4099-AF60-076BAFA33189}">
+              <p:d />
+            </r>
+            <r
+              uid="{0D97EC48-A616-4503-81F3-8B0A22142C87}">
+              <p:d />
+            </r>
+            <r
+              uid="{1FD9ED8E-765E-4D75-AEB7-9C5643309FB1}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3E128BD-C527-476C-B850-4FF98996AE1F}">
+              <p:d />
+            </r>
+            <r
+              uid="{9E4C6427-3865-4F4C-AF91-EFDF6A58DA77}">
+              <p:d />
+            </r>
+            <r
+              uid="{ACAD23C8-9219-4D65-B38A-4537A73C4FE0}">
+              <p:d />
+            </r>
+            <r
+              uid="{FB4C5C8E-DF5F-4300-950E-536065A8707B}">
+              <p:d />
+            </r>
+            <r
+              uid="{2849CE03-88F2-4FBC-BAE4-0D1B29D7AEAA}">
+              <p:d />
+            </r>
+            <r
+              uid="{B5407315-4598-49BA-A716-8895E8E1539E}">
+              <p:d />
+            </r>
+            <r
+              uid="{014A8D72-4B6D-4918-972B-13651266E760}"
+              p:after="r[@uid='{83C96A38-D18A-4E35-9D8D-71F869B259F3}']"
+              s:ds="{1E0BD8EE-1931-40A4-9F18-A2D8DDECBA81}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{B549F397-D84D-4CDE-AD8D-59FFF436DED6}"
+              p:after="r[@uid='{014A8D72-4B6D-4918-972B-13651266E760}']"
+              s:ds="{615E65D3-79E3-427B-99F6-51049A4F6876}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:par="Use Button for Link=1"
+              s:ph="main" />
+            <r
+              uid="{3EDA1BA0-72B8-46D1-8D2A-C910904A6342}"
+              p:after="r[@uid='{B549F397-D84D-4CDE-AD8D-59FFF436DED6}']"
+              s:ds="{CCE2ADAF-B40B-4EEA-9A19-FB5F6B77F3D9}"
+              s:id="{2E6C5F1E-BC4A-4FBE-BC72-FBCB237F8DDC}"
+              s:ph="main" />
+            <r
+              uid="{FF407A71-79F8-4C05-BB7C-F061ACEB4DA8}"
+              p:after="r[@uid='{3EDA1BA0-72B8-46D1-8D2A-C910904A6342}']"
+              s:ds="{79F7A2A7-75BD-40E0-B8AC-363D1E575AE6}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{6BED82BF-D6EF-41EA-B644-16C64B9A0C26}"
+              p:after="r[@uid='{FF407A71-79F8-4C05-BB7C-F061ACEB4DA8}']"
+              s:ds="{799114CB-C64C-40A1-8BE7-3691459F7E1A}"
+              s:id="{2E6C5F1E-BC4A-4FBE-BC72-FBCB237F8DDC}"
+              s:ph="main" />
+            <r
+              uid="{4CE5836D-0222-4716-A971-B76A196355ED}"
+              p:after="r[@uid='{6BED82BF-D6EF-41EA-B644-16C64B9A0C26}']"
+              s:ds="{5DCDBCD4-99CF-4A44-A457-E07D57BD8A49}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{B20FB73D-230B-411A-9910-2A2D8240E6F8}"
+              p:after="r[@uid='{4CE5836D-0222-4716-A971-B76A196355ED}']"
+              s:ds="{882DD974-422C-46A2-97A1-1174D36E0774}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{E885BBB3-D59B-4E3B-82F6-ED1ECC9AAECE}"
+              p:after="r[@uid='{B20FB73D-230B-411A-9910-2A2D8240E6F8}']"
+              s:ds="{BD4BB94A-191A-4503-A105-47B52BFDCB38}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{46F42864-FE69-4624-9547-38EECA22054B}"
+              p:after="r[@uid='{E885BBB3-D59B-4E3B-82F6-ED1ECC9AAECE}']"
+              s:ds="{4809C534-9000-406A-89A5-1EEF3EA8C987}"
+              s:id="{846AE873-D5C7-4033-928F-6BD96E963742}"
+              s:ph="main" />
+            <r
+              uid="{84FAC81F-B9EE-4BBF-A5B8-5ACA442529BE}"
+              p:after="*[1=2]"
+              s:ds="{FC9F375C-4337-4EE2-A0F8-36607988FE06}"
+              s:id="{404FE8DE-C601-4E14-8D3D-32F27B41D06D}"
+              s:ph="main" />
+            <r
+              uid="{35F5B041-CCEA-40B8-948D-6DE09851A28E}">
+              <p:d />
+            </r>
+            <r
+              uid="{99B4E79C-EEB8-49BC-8779-24C4AD0CF113}">
+              <p:d />
+            </r>
+            <r
+              uid="{CDF8E396-F69A-48ED-A6DB-B665BD98B242}">
+              <p:d />
+            </r>
+            <r
+              uid="{3ADDDF2A-6C4B-4473-ACB2-EADC8ABD6475}">
+              <p:d />
+            </r>
+            <r
+              uid="{8036035A-E577-44BC-A961-631ADBC08C0F}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Careers
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Join our global family and become part of the company that&rsquo;s leading innovation within the upstream oil and gas industry.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Careers
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210226T230203Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Careers
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Careers
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticgappau
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Careers
+    - ID: "7c2c7685-a8a6-4130-86ae-102efa679725"
+      Hint: Featured Story Abstract
+      Value: Join our global family and become part of the company that’s leading innovation within the upstream oil and gas industry.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5c466920-160f-4fe8-a9c1-d7932843bb75"
+    - ID: "9c306482-94bb-47b2-b1ba-62ffc01637e4"
+      Hint: Open Graph Description
+      Value: Join our global family and become part of the company that’s leading innovation within the upstream oil and gas industry.
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Careers
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Join our global family and become part of the company that’s leading innovation within the upstream oil and gas industry.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20210226T230203Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{FEC5FA09-C8A4-4936-A3A9-7219EEB54171}" cropregion="0,88,1920,1192" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210301T174447Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{FEC5FA09-C8A4-4936-A3A9-7219EEB54171}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 5
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "019c3c8b-3d47-4b92-a8e9-838880ddf307"
+      Hint: Open Graph Title
+      Value: Careers at NOV
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{BA077E75-780B-4654-A220-10E63520C582}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{83C96A38-D18A-4E35-9D8D-71F869B259F3}"
+              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}" />
+            <r
+              uid="{C4ACEA35-73C2-4347-B325-2FC6FCDAAB8F}">
+              <p:d />
+            </r>
+            <r
+              uid="{E655A92B-3794-4099-AF60-076BAFA33189}">
+              <p:d />
+            </r>
+            <r
+              uid="{0D97EC48-A616-4503-81F3-8B0A22142C87}">
+              <p:d />
+            </r>
+            <r
+              uid="{1FD9ED8E-765E-4D75-AEB7-9C5643309FB1}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3E128BD-C527-476C-B850-4FF98996AE1F}">
+              <p:d />
+            </r>
+            <r
+              uid="{9E4C6427-3865-4F4C-AF91-EFDF6A58DA77}">
+              <p:d />
+            </r>
+            <r
+              uid="{ACAD23C8-9219-4D65-B38A-4537A73C4FE0}">
+              <p:d />
+            </r>
+            <r
+              uid="{FB4C5C8E-DF5F-4300-950E-536065A8707B}">
+              <p:d />
+            </r>
+            <r
+              uid="{2849CE03-88F2-4FBC-BAE4-0D1B29D7AEAA}">
+              <p:d />
+            </r>
+            <r
+              uid="{014A8D72-4B6D-4918-972B-13651266E760}"
+              p:after="r[@uid='{83C96A38-D18A-4E35-9D8D-71F869B259F3}']"
+              s:ds="{1E0BD8EE-1931-40A4-9F18-A2D8DDECBA81}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{B549F397-D84D-4CDE-AD8D-59FFF436DED6}"
+              p:after="r[@uid='{014A8D72-4B6D-4918-972B-13651266E760}']"
+              s:ds="{615E65D3-79E3-427B-99F6-51049A4F6876}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:par="Use Button for Link=1"
+              s:ph="main" />
+            <r
+              uid="{3EDA1BA0-72B8-46D1-8D2A-C910904A6342}"
+              p:after="r[@uid='{B549F397-D84D-4CDE-AD8D-59FFF436DED6}']"
+              s:ds="{CCE2ADAF-B40B-4EEA-9A19-FB5F6B77F3D9}"
+              s:id="{2E6C5F1E-BC4A-4FBE-BC72-FBCB237F8DDC}"
+              s:ph="main" />
+            <r
+              uid="{FF407A71-79F8-4C05-BB7C-F061ACEB4DA8}"
+              p:after="r[@uid='{3EDA1BA0-72B8-46D1-8D2A-C910904A6342}']"
+              s:ds="{79F7A2A7-75BD-40E0-B8AC-363D1E575AE6}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{4CE5836D-0222-4716-A971-B76A196355ED}"
+              p:after="r[@uid='{FF407A71-79F8-4C05-BB7C-F061ACEB4DA8}']"
+              s:ds="{5DCDBCD4-99CF-4A44-A457-E07D57BD8A49}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{B20FB73D-230B-411A-9910-2A2D8240E6F8}"
+              p:after="r[@uid='{4CE5836D-0222-4716-A971-B76A196355ED}']"
+              s:ds="{882DD974-422C-46A2-97A1-1174D36E0774}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{E885BBB3-D59B-4E3B-82F6-ED1ECC9AAECE}"
+              p:after="r[@uid='{B20FB73D-230B-411A-9910-2A2D8240E6F8}']"
+              s:ds="{BD4BB94A-191A-4503-A105-47B52BFDCB38}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{46F42864-FE69-4624-9547-38EECA22054B}"
+              p:after="r[@uid='{E885BBB3-D59B-4E3B-82F6-ED1ECC9AAECE}']"
+              s:ds="{4809C534-9000-406A-89A5-1EEF3EA8C987}"
+              s:id="{846AE873-D5C7-4033-928F-6BD96E963742}"
+              s:ph="main" />
+            <r
+              uid="{84FAC81F-B9EE-4BBF-A5B8-5ACA442529BE}"
+              p:after="*[1=2]"
+              s:ds="{FC9F375C-4337-4EE2-A0F8-36607988FE06}"
+              s:id="{404FE8DE-C601-4E14-8D3D-32F27B41D06D}"
+              s:ph="main" />
+            <r
+              uid="{B5407315-4598-49BA-A716-8895E8E1539E}">
+              <p:d />
+            </r>
+            <r
+              uid="{35F5B041-CCEA-40B8-948D-6DE09851A28E}">
+              <p:d />
+            </r>
+            <r
+              uid="{99B4E79C-EEB8-49BC-8779-24C4AD0CF113}">
+              <p:d />
+            </r>
+            <r
+              uid="{CDF8E396-F69A-48ED-A6DB-B665BD98B242}">
+              <p:d />
+            </r>
+            <r
+              uid="{3ADDDF2A-6C4B-4473-ACB2-EADC8ABD6475}">
+              <p:d />
+            </r>
+            <r
+              uid="{8036035A-E577-44BC-A961-631ADBC08C0F}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Careers
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Join our global family and become part of the company that&rsquo;s leading innovation within the energy industry.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Careers
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210409T181156Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Careers
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{40251B7D-FBE3-4A0E-8947-D4B4FE8CD782}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Careers
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticgappau
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jeremygrzywa
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Careers
+    - ID: "7c2c7685-a8a6-4130-86ae-102efa679725"
+      Hint: Featured Story Abstract
+      Value: Join our global family and become part of the company that’s leading innovation within the upstream oil and gas industry.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "11faa106-d693-4b22-8470-da3d9107c0fc"
+    - ID: "9c306482-94bb-47b2-b1ba-62ffc01637e4"
+      Hint: Open Graph Description
+      Value: Join our global family and become part of the company that’s leading innovation within the upstream oil and gas industry.
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Careers
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jeremygrzywa
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Join our global family and become part of the company that’s leading innovation within the upstream oil and gas industry.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20210409T181156Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{FEC5FA09-C8A4-4936-A3A9-7219EEB54171}" cropregion="0,88,1920,1192" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210409T182336Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{FEC5FA09-C8A4-4936-A3A9-7219EEB54171}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 6
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: |
+        <r owner="sitecore\jeremygrzywa" date="20210409T184359Z" />
+    - ID: "019c3c8b-3d47-4b92-a8e9-838880ddf307"
+      Hint: Open Graph Title
+      Value: Careers at NOV
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{BA077E75-780B-4654-A220-10E63520C582}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{83C96A38-D18A-4E35-9D8D-71F869B259F3}"
+              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}" />
+            <r
+              uid="{C4ACEA35-73C2-4347-B325-2FC6FCDAAB8F}">
+              <p:d />
+            </r>
+            <r
+              uid="{E655A92B-3794-4099-AF60-076BAFA33189}">
+              <p:d />
+            </r>
+            <r
+              uid="{0D97EC48-A616-4503-81F3-8B0A22142C87}">
+              <p:d />
+            </r>
+            <r
+              uid="{1FD9ED8E-765E-4D75-AEB7-9C5643309FB1}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3E128BD-C527-476C-B850-4FF98996AE1F}">
+              <p:d />
+            </r>
+            <r
+              uid="{9E4C6427-3865-4F4C-AF91-EFDF6A58DA77}">
+              <p:d />
+            </r>
+            <r
+              uid="{ACAD23C8-9219-4D65-B38A-4537A73C4FE0}">
+              <p:d />
+            </r>
+            <r
+              uid="{FB4C5C8E-DF5F-4300-950E-536065A8707B}">
+              <p:d />
+            </r>
+            <r
+              uid="{2849CE03-88F2-4FBC-BAE4-0D1B29D7AEAA}">
+              <p:d />
+            </r>
+            <r
+              uid="{B5407315-4598-49BA-A716-8895E8E1539E}">
+              <p:d />
+            </r>
+            <r
+              uid="{014A8D72-4B6D-4918-972B-13651266E760}"
+              p:after="r[@uid='{83C96A38-D18A-4E35-9D8D-71F869B259F3}']"
+              s:ds="{1E0BD8EE-1931-40A4-9F18-A2D8DDECBA81}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{B549F397-D84D-4CDE-AD8D-59FFF436DED6}"
+              p:after="r[@uid='{014A8D72-4B6D-4918-972B-13651266E760}']"
+              s:ds="{615E65D3-79E3-427B-99F6-51049A4F6876}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:par="Use Button for Link=1"
+              s:ph="main" />
+            <r
+              uid="{3EDA1BA0-72B8-46D1-8D2A-C910904A6342}"
+              p:after="r[@uid='{B549F397-D84D-4CDE-AD8D-59FFF436DED6}']"
+              s:ds="{CCE2ADAF-B40B-4EEA-9A19-FB5F6B77F3D9}"
+              s:id="{2E6C5F1E-BC4A-4FBE-BC72-FBCB237F8DDC}"
+              s:ph="main" />
+            <r
+              uid="{FF407A71-79F8-4C05-BB7C-F061ACEB4DA8}"
+              p:after="r[@uid='{3EDA1BA0-72B8-46D1-8D2A-C910904A6342}']"
+              s:ds="{79F7A2A7-75BD-40E0-B8AC-363D1E575AE6}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{6BED82BF-D6EF-41EA-B644-16C64B9A0C26}"
+              p:after="r[@uid='{FF407A71-79F8-4C05-BB7C-F061ACEB4DA8}']"
+              s:ds="{799114CB-C64C-40A1-8BE7-3691459F7E1A}"
+              s:id="{2E6C5F1E-BC4A-4FBE-BC72-FBCB237F8DDC}"
+              s:ph="main" />
+            <r
+              uid="{4CE5836D-0222-4716-A971-B76A196355ED}"
+              p:after="r[@uid='{6BED82BF-D6EF-41EA-B644-16C64B9A0C26}']"
+              s:ds="{5DCDBCD4-99CF-4A44-A457-E07D57BD8A49}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{B20FB73D-230B-411A-9910-2A2D8240E6F8}"
+              p:after="r[@uid='{4CE5836D-0222-4716-A971-B76A196355ED}']"
+              s:ds="{882DD974-422C-46A2-97A1-1174D36E0774}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{E885BBB3-D59B-4E3B-82F6-ED1ECC9AAECE}"
+              p:after="r[@uid='{B20FB73D-230B-411A-9910-2A2D8240E6F8}']"
+              s:ds="{BD4BB94A-191A-4503-A105-47B52BFDCB38}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{46F42864-FE69-4624-9547-38EECA22054B}"
+              p:after="r[@uid='{E885BBB3-D59B-4E3B-82F6-ED1ECC9AAECE}']"
+              s:ds="{4809C534-9000-406A-89A5-1EEF3EA8C987}"
+              s:id="{846AE873-D5C7-4033-928F-6BD96E963742}"
+              s:ph="main" />
+            <r
+              uid="{84FAC81F-B9EE-4BBF-A5B8-5ACA442529BE}"
+              p:after="*[1=2]"
+              s:ds="{FC9F375C-4337-4EE2-A0F8-36607988FE06}"
+              s:id="{404FE8DE-C601-4E14-8D3D-32F27B41D06D}"
+              s:ph="main" />
+            <r
+              uid="{35F5B041-CCEA-40B8-948D-6DE09851A28E}">
+              <p:d />
+            </r>
+            <r
+              uid="{99B4E79C-EEB8-49BC-8779-24C4AD0CF113}">
+              <p:d />
+            </r>
+            <r
+              uid="{CDF8E396-F69A-48ED-A6DB-B665BD98B242}">
+              <p:d />
+            </r>
+            <r
+              uid="{3ADDDF2A-6C4B-4473-ACB2-EADC8ABD6475}">
+              <p:d />
+            </r>
+            <r
+              uid="{8036035A-E577-44BC-A961-631ADBC08C0F}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Careers
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Join our global family and become part of the company that&rsquo;s leading innovation within the upstream oil and gas industry.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Careers
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210409T184359Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Careers
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{8B87E652-E3F7-4C54-BDD9-66E1B888FF8B}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Careers
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticgappau
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jeremygrzywa
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Careers
+    - ID: "7c2c7685-a8a6-4130-86ae-102efa679725"
+      Hint: Featured Story Abstract
+      Value: Join our global family and become part of the company that’s leading innovation within the upstream oil and gas industry.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "48379555-136d-4a93-bf87-3a5c747f1968"
+    - ID: "9c306482-94bb-47b2-b1ba-62ffc01637e4"
+      Hint: Open Graph Description
+      Value: Join our global family and become part of the company that’s leading innovation within the upstream oil and gas industry.
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Careers
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jeremygrzywa
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Join our global family and become part of the company that’s leading innovation within the upstream oil and gas industry.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20210409T184359Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{FEC5FA09-C8A4-4936-A3A9-7219EEB54171}" cropregion="0,88,1920,1192" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210409T184359Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{FEC5FA09-C8A4-4936-A3A9-7219EEB54171}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 7
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "019c3c8b-3d47-4b92-a8e9-838880ddf307"
+      Hint: Open Graph Title
+      Value: Careers at NOV
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{83C96A38-D18A-4E35-9D8D-71F869B259F3}"
+              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}" />
+            <r
+              uid="{C4ACEA35-73C2-4347-B325-2FC6FCDAAB8F}">
+              <p:d />
+            </r>
+            <r
+              uid="{E655A92B-3794-4099-AF60-076BAFA33189}">
+              <p:d />
+            </r>
+            <r
+              uid="{0D97EC48-A616-4503-81F3-8B0A22142C87}">
+              <p:d />
+            </r>
+            <r
+              uid="{1FD9ED8E-765E-4D75-AEB7-9C5643309FB1}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3E128BD-C527-476C-B850-4FF98996AE1F}">
+              <p:d />
+            </r>
+            <r
+              uid="{9E4C6427-3865-4F4C-AF91-EFDF6A58DA77}">
+              <p:d />
+            </r>
+            <r
+              uid="{ACAD23C8-9219-4D65-B38A-4537A73C4FE0}">
+              <p:d />
+            </r>
+            <r
+              uid="{FB4C5C8E-DF5F-4300-950E-536065A8707B}">
+              <p:d />
+            </r>
+            <r
+              uid="{2849CE03-88F2-4FBC-BAE4-0D1B29D7AEAA}">
+              <p:d />
+            </r>
+            <r
+              uid="{014A8D72-4B6D-4918-972B-13651266E760}"
+              p:after="r[@uid='{83C96A38-D18A-4E35-9D8D-71F869B259F3}']"
+              s:ds="{1E0BD8EE-1931-40A4-9F18-A2D8DDECBA81}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{B549F397-D84D-4CDE-AD8D-59FFF436DED6}"
+              p:after="r[@uid='{014A8D72-4B6D-4918-972B-13651266E760}']"
+              s:ds="{615E65D3-79E3-427B-99F6-51049A4F6876}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:par="Use Button for Link=1"
+              s:ph="main" />
+            <r
+              uid="{3EDA1BA0-72B8-46D1-8D2A-C910904A6342}"
+              p:after="r[@uid='{B549F397-D84D-4CDE-AD8D-59FFF436DED6}']"
+              s:ds="{CCE2ADAF-B40B-4EEA-9A19-FB5F6B77F3D9}"
+              s:id="{2E6C5F1E-BC4A-4FBE-BC72-FBCB237F8DDC}"
+              s:ph="main" />
+            <r
+              uid="{FF407A71-79F8-4C05-BB7C-F061ACEB4DA8}"
+              p:after="r[@uid='{3EDA1BA0-72B8-46D1-8D2A-C910904A6342}']"
+              s:ds="{79F7A2A7-75BD-40E0-B8AC-363D1E575AE6}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{4CE5836D-0222-4716-A971-B76A196355ED}"
+              p:after="r[@uid='{FF407A71-79F8-4C05-BB7C-F061ACEB4DA8}']"
+              s:ds="{5DCDBCD4-99CF-4A44-A457-E07D57BD8A49}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{B20FB73D-230B-411A-9910-2A2D8240E6F8}"
+              p:after="r[@uid='{4CE5836D-0222-4716-A971-B76A196355ED}']"
+              s:ds="{882DD974-422C-46A2-97A1-1174D36E0774}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{E885BBB3-D59B-4E3B-82F6-ED1ECC9AAECE}"
+              p:after="r[@uid='{B20FB73D-230B-411A-9910-2A2D8240E6F8}']"
+              s:ds="{BD4BB94A-191A-4503-A105-47B52BFDCB38}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{46F42864-FE69-4624-9547-38EECA22054B}"
+              p:after="r[@uid='{E885BBB3-D59B-4E3B-82F6-ED1ECC9AAECE}']"
+              s:ds="{4809C534-9000-406A-89A5-1EEF3EA8C987}"
+              s:id="{846AE873-D5C7-4033-928F-6BD96E963742}"
+              s:ph="main" />
+            <r
+              uid="{84FAC81F-B9EE-4BBF-A5B8-5ACA442529BE}"
+              p:after="*[1=2]"
+              s:ds="{FC9F375C-4337-4EE2-A0F8-36607988FE06}"
+              s:id="{404FE8DE-C601-4E14-8D3D-32F27B41D06D}"
+              s:ph="main" />
+            <r
+              uid="{B5407315-4598-49BA-A716-8895E8E1539E}">
+              <p:d />
+            </r>
+            <r
+              uid="{35F5B041-CCEA-40B8-948D-6DE09851A28E}">
+              <p:d />
+            </r>
+            <r
+              uid="{99B4E79C-EEB8-49BC-8779-24C4AD0CF113}">
+              <p:d />
+            </r>
+            <r
+              uid="{CDF8E396-F69A-48ED-A6DB-B665BD98B242}">
+              <p:d />
+            </r>
+            <r
+              uid="{3ADDDF2A-6C4B-4473-ACB2-EADC8ABD6475}">
+              <p:d />
+            </r>
+            <r
+              uid="{8036035A-E577-44BC-A961-631ADBC08C0F}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Careers
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Join our global family and become part of the company that&rsquo;s empowering the global energy industry.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Careers
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210409T184427Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Careers
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Careers
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticgappau
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jeremygrzywa
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Careers
+    - ID: "7c2c7685-a8a6-4130-86ae-102efa679725"
+      Hint: Featured Story Abstract
+      Value: Join our global family and become part of the company that’s leading innovation within the upstream oil and gas industry.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b484b26d-79cf-4351-b289-2f96bc0c688a"
+    - ID: "9c306482-94bb-47b2-b1ba-62ffc01637e4"
+      Hint: Open Graph Description
+      Value: Join our global family and become part of the company that’s leading innovation within the upstream oil and gas industry.
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Careers
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jeremygrzywa
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Join our global family and become part of the company that’s leading innovation within the upstream oil and gas industry.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20210409T184427Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{FEC5FA09-C8A4-4936-A3A9-7219EEB54171}" cropregion="0,88,1920,1192" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210429T183326Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{FEC5FA09-C8A4-4936-A3A9-7219EEB54171}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 8
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "019c3c8b-3d47-4b92-a8e9-838880ddf307"
+      Hint: Open Graph Title
+      Value: Careers at NOV
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{83C96A38-D18A-4E35-9D8D-71F869B259F3}"
+              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}" />
+            <r
+              uid="{C4ACEA35-73C2-4347-B325-2FC6FCDAAB8F}">
+              <p:d />
+            </r>
+            <r
+              uid="{E655A92B-3794-4099-AF60-076BAFA33189}">
+              <p:d />
+            </r>
+            <r
+              uid="{0D97EC48-A616-4503-81F3-8B0A22142C87}">
+              <p:d />
+            </r>
+            <r
+              uid="{1FD9ED8E-765E-4D75-AEB7-9C5643309FB1}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3E128BD-C527-476C-B850-4FF98996AE1F}">
+              <p:d />
+            </r>
+            <r
+              uid="{9E4C6427-3865-4F4C-AF91-EFDF6A58DA77}">
+              <p:d />
+            </r>
+            <r
+              uid="{ACAD23C8-9219-4D65-B38A-4537A73C4FE0}">
+              <p:d />
+            </r>
+            <r
+              uid="{FB4C5C8E-DF5F-4300-950E-536065A8707B}">
+              <p:d />
+            </r>
+            <r
+              uid="{2849CE03-88F2-4FBC-BAE4-0D1B29D7AEAA}">
+              <p:d />
+            </r>
+            <r
+              uid="{014A8D72-4B6D-4918-972B-13651266E760}"
+              p:after="r[@uid='{83C96A38-D18A-4E35-9D8D-71F869B259F3}']"
+              s:ds="{1E0BD8EE-1931-40A4-9F18-A2D8DDECBA81}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{B549F397-D84D-4CDE-AD8D-59FFF436DED6}"
+              p:after="r[@uid='{014A8D72-4B6D-4918-972B-13651266E760}']"
+              s:ds="{615E65D3-79E3-427B-99F6-51049A4F6876}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:par="Use Button for Link=1"
+              s:ph="main" />
+            <r
+              uid="{3EDA1BA0-72B8-46D1-8D2A-C910904A6342}"
+              p:after="r[@uid='{B549F397-D84D-4CDE-AD8D-59FFF436DED6}']"
+              s:ds="{CCE2ADAF-B40B-4EEA-9A19-FB5F6B77F3D9}"
+              s:id="{2E6C5F1E-BC4A-4FBE-BC72-FBCB237F8DDC}"
+              s:ph="main" />
+            <r
+              uid="{FF407A71-79F8-4C05-BB7C-F061ACEB4DA8}"
+              p:after="r[@uid='{3EDA1BA0-72B8-46D1-8D2A-C910904A6342}']"
+              s:ds="{79F7A2A7-75BD-40E0-B8AC-363D1E575AE6}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{4CE5836D-0222-4716-A971-B76A196355ED}"
+              p:after="r[@uid='{FF407A71-79F8-4C05-BB7C-F061ACEB4DA8}']"
+              s:ds="{5DCDBCD4-99CF-4A44-A457-E07D57BD8A49}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{B20FB73D-230B-411A-9910-2A2D8240E6F8}"
+              p:after="r[@uid='{4CE5836D-0222-4716-A971-B76A196355ED}']"
+              s:ds="{882DD974-422C-46A2-97A1-1174D36E0774}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{E885BBB3-D59B-4E3B-82F6-ED1ECC9AAECE}"
+              p:after="r[@uid='{B20FB73D-230B-411A-9910-2A2D8240E6F8}']"
+              s:ds="{BD4BB94A-191A-4503-A105-47B52BFDCB38}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{46F42864-FE69-4624-9547-38EECA22054B}"
+              p:after="r[@uid='{E885BBB3-D59B-4E3B-82F6-ED1ECC9AAECE}']"
+              s:ds="{4809C534-9000-406A-89A5-1EEF3EA8C987}"
+              s:id="{846AE873-D5C7-4033-928F-6BD96E963742}"
+              s:ph="main" />
+            <r
+              uid="{84FAC81F-B9EE-4BBF-A5B8-5ACA442529BE}"
+              p:after="*[1=2]"
+              s:ds="{FC9F375C-4337-4EE2-A0F8-36607988FE06}"
+              s:id="{404FE8DE-C601-4E14-8D3D-32F27B41D06D}"
+              s:ph="main" />
+            <r
+              uid="{B5407315-4598-49BA-A716-8895E8E1539E}">
+              <p:d />
+            </r>
+            <r
+              uid="{35F5B041-CCEA-40B8-948D-6DE09851A28E}">
+              <p:d />
+            </r>
+            <r
+              uid="{99B4E79C-EEB8-49BC-8779-24C4AD0CF113}">
+              <p:d />
+            </r>
+            <r
+              uid="{CDF8E396-F69A-48ED-A6DB-B665BD98B242}">
+              <p:d />
+            </r>
+            <r
+              uid="{3ADDDF2A-6C4B-4473-ACB2-EADC8ABD6475}">
+              <p:d />
+            </r>
+            <r
+              uid="{8036035A-E577-44BC-A961-631ADBC08C0F}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Careers
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Join our global family and become part of the company that&rsquo;s empowering the global energy industry.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Careers
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210503T181929Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Careers
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Careers
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticgappau
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jeremygrzywa
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Careers
+    - ID: "7c2c7685-a8a6-4130-86ae-102efa679725"
+      Hint: Featured Story Abstract
+      Value: Join our global family and become part of the company that’s leading innovation within the upstream oil and gas industry.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "83a4c1e0-348c-43e9-b256-db18f8cf89c7"
+    - ID: "9c306482-94bb-47b2-b1ba-62ffc01637e4"
+      Hint: Open Graph Description
+      Value: Join our global family and become part of the company that’s leading innovation within the upstream oil and gas industry.
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Careers
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jeremygrzywa
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Join our global family and become part of the company that’s leading innovation within the upstream oil and gas industry.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20210503T181929Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{FEC5FA09-C8A4-4936-A3A9-7219EEB54171}" cropregion="0,88,1920,1192" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210503T182516Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{FEC5FA09-C8A4-4936-A3A9-7219EEB54171}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 9
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "019c3c8b-3d47-4b92-a8e9-838880ddf307"
+      Hint: Open Graph Title
+      Value: Careers at NOV
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{83C96A38-D18A-4E35-9D8D-71F869B259F3}"
+              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}" />
+            <r
+              uid="{C4ACEA35-73C2-4347-B325-2FC6FCDAAB8F}">
+              <p:d />
+            </r>
+            <r
+              uid="{E655A92B-3794-4099-AF60-076BAFA33189}">
+              <p:d />
+            </r>
+            <r
+              uid="{0D97EC48-A616-4503-81F3-8B0A22142C87}">
+              <p:d />
+            </r>
+            <r
+              uid="{1FD9ED8E-765E-4D75-AEB7-9C5643309FB1}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3E128BD-C527-476C-B850-4FF98996AE1F}">
+              <p:d />
+            </r>
+            <r
+              uid="{9E4C6427-3865-4F4C-AF91-EFDF6A58DA77}">
+              <p:d />
+            </r>
+            <r
+              uid="{ACAD23C8-9219-4D65-B38A-4537A73C4FE0}">
+              <p:d />
+            </r>
+            <r
+              uid="{FB4C5C8E-DF5F-4300-950E-536065A8707B}">
+              <p:d />
+            </r>
+            <r
+              uid="{2849CE03-88F2-4FBC-BAE4-0D1B29D7AEAA}">
+              <p:d />
+            </r>
+            <r
+              uid="{014A8D72-4B6D-4918-972B-13651266E760}"
+              p:after="r[@uid='{83C96A38-D18A-4E35-9D8D-71F869B259F3}']"
+              s:ds="{1E0BD8EE-1931-40A4-9F18-A2D8DDECBA81}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{B549F397-D84D-4CDE-AD8D-59FFF436DED6}"
+              p:after="r[@uid='{014A8D72-4B6D-4918-972B-13651266E760}']"
+              s:ds="{615E65D3-79E3-427B-99F6-51049A4F6876}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:par="Use Button for Link=1"
+              s:ph="main" />
+            <r
+              uid="{3EDA1BA0-72B8-46D1-8D2A-C910904A6342}"
+              p:after="r[@uid='{B549F397-D84D-4CDE-AD8D-59FFF436DED6}']"
+              s:ds="{CCE2ADAF-B40B-4EEA-9A19-FB5F6B77F3D9}"
+              s:id="{2E6C5F1E-BC4A-4FBE-BC72-FBCB237F8DDC}"
+              s:ph="main" />
+            <r
+              uid="{FF407A71-79F8-4C05-BB7C-F061ACEB4DA8}"
+              p:after="r[@uid='{3EDA1BA0-72B8-46D1-8D2A-C910904A6342}']"
+              s:ds="{79F7A2A7-75BD-40E0-B8AC-363D1E575AE6}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{4CE5836D-0222-4716-A971-B76A196355ED}"
+              p:after="r[@uid='{FF407A71-79F8-4C05-BB7C-F061ACEB4DA8}']"
+              s:ds="{5DCDBCD4-99CF-4A44-A457-E07D57BD8A49}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{B20FB73D-230B-411A-9910-2A2D8240E6F8}"
+              p:after="r[@uid='{4CE5836D-0222-4716-A971-B76A196355ED}']"
+              s:ds="{882DD974-422C-46A2-97A1-1174D36E0774}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{E885BBB3-D59B-4E3B-82F6-ED1ECC9AAECE}"
+              p:after="r[@uid='{B20FB73D-230B-411A-9910-2A2D8240E6F8}']"
+              s:ds="{BD4BB94A-191A-4503-A105-47B52BFDCB38}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{46F42864-FE69-4624-9547-38EECA22054B}"
+              p:after="r[@uid='{E885BBB3-D59B-4E3B-82F6-ED1ECC9AAECE}']"
+              s:ds="{4809C534-9000-406A-89A5-1EEF3EA8C987}"
+              s:id="{846AE873-D5C7-4033-928F-6BD96E963742}"
+              s:ph="main" />
+            <r
+              uid="{84FAC81F-B9EE-4BBF-A5B8-5ACA442529BE}"
+              p:after="*[1=2]"
+              s:ds="{FC9F375C-4337-4EE2-A0F8-36607988FE06}"
+              s:id="{404FE8DE-C601-4E14-8D3D-32F27B41D06D}"
+              s:ph="main" />
+            <r
+              uid="{B5407315-4598-49BA-A716-8895E8E1539E}">
+              <p:d />
+            </r>
+            <r
+              uid="{35F5B041-CCEA-40B8-948D-6DE09851A28E}">
+              <p:d />
+            </r>
+            <r
+              uid="{99B4E79C-EEB8-49BC-8779-24C4AD0CF113}">
+              <p:d />
+            </r>
+            <r
+              uid="{CDF8E396-F69A-48ED-A6DB-B665BD98B242}">
+              <p:d />
+            </r>
+            <r
+              uid="{3ADDDF2A-6C4B-4473-ACB2-EADC8ABD6475}">
+              <p:d />
+            </r>
+            <r
+              uid="{8036035A-E577-44BC-A961-631ADBC08C0F}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Careers
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Join our global family and become part of the company that&rsquo;s empowering the global energy industry.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Careers
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210507T160816Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Careers
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Careers
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticgappau
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jeremygrzywa
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Careers
+    - ID: "7c2c7685-a8a6-4130-86ae-102efa679725"
+      Hint: Featured Story Abstract
+      Value: Join our global family and become part of the company that’s leading innovation within the upstream oil and gas industry.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "49d4b6b6-4eba-4160-822d-f820c1eb4c01"
+    - ID: "9c306482-94bb-47b2-b1ba-62ffc01637e4"
+      Hint: Open Graph Description
+      Value: Join our global family and become part of the company that’s leading innovation within the upstream oil and gas industry.
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Careers
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jeremygrzywa
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Join our global family and become part of the company that’s leading innovation within the upstream oil and gas industry.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20210507T160816Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{FEC5FA09-C8A4-4936-A3A9-7219EEB54171}" cropregion="0,88,1920,1192" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210507T161832Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{FEC5FA09-C8A4-4936-A3A9-7219EEB54171}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 10
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "019c3c8b-3d47-4b92-a8e9-838880ddf307"
+      Hint: Open Graph Title
+      Value: Careers at NOV
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{83C96A38-D18A-4E35-9D8D-71F869B259F3}"
+              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}" />
+            <r
+              uid="{C4ACEA35-73C2-4347-B325-2FC6FCDAAB8F}">
+              <p:d />
+            </r>
+            <r
+              uid="{E655A92B-3794-4099-AF60-076BAFA33189}">
+              <p:d />
+            </r>
+            <r
+              uid="{0D97EC48-A616-4503-81F3-8B0A22142C87}">
+              <p:d />
+            </r>
+            <r
+              uid="{1FD9ED8E-765E-4D75-AEB7-9C5643309FB1}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3E128BD-C527-476C-B850-4FF98996AE1F}">
+              <p:d />
+            </r>
+            <r
+              uid="{9E4C6427-3865-4F4C-AF91-EFDF6A58DA77}">
+              <p:d />
+            </r>
+            <r
+              uid="{ACAD23C8-9219-4D65-B38A-4537A73C4FE0}">
+              <p:d />
+            </r>
+            <r
+              uid="{FB4C5C8E-DF5F-4300-950E-536065A8707B}">
+              <p:d />
+            </r>
+            <r
+              uid="{2849CE03-88F2-4FBC-BAE4-0D1B29D7AEAA}">
+              <p:d />
+            </r>
+            <r
+              uid="{014A8D72-4B6D-4918-972B-13651266E760}"
+              p:after="r[@uid='{83C96A38-D18A-4E35-9D8D-71F869B259F3}']"
+              s:ds="{1E0BD8EE-1931-40A4-9F18-A2D8DDECBA81}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{B549F397-D84D-4CDE-AD8D-59FFF436DED6}"
+              p:after="r[@uid='{014A8D72-4B6D-4918-972B-13651266E760}']"
+              s:ds="{615E65D3-79E3-427B-99F6-51049A4F6876}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:par="Use Button for Link=1"
+              s:ph="main" />
+            <r
+              uid="{3EDA1BA0-72B8-46D1-8D2A-C910904A6342}"
+              p:after="r[@uid='{B549F397-D84D-4CDE-AD8D-59FFF436DED6}']"
+              s:ds="{CCE2ADAF-B40B-4EEA-9A19-FB5F6B77F3D9}"
+              s:id="{2E6C5F1E-BC4A-4FBE-BC72-FBCB237F8DDC}"
+              s:ph="main" />
+            <r
+              uid="{FF407A71-79F8-4C05-BB7C-F061ACEB4DA8}"
+              p:after="r[@uid='{3EDA1BA0-72B8-46D1-8D2A-C910904A6342}']"
+              s:ds="{79F7A2A7-75BD-40E0-B8AC-363D1E575AE6}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{4CE5836D-0222-4716-A971-B76A196355ED}"
+              p:after="r[@uid='{FF407A71-79F8-4C05-BB7C-F061ACEB4DA8}']"
+              s:ds="{5DCDBCD4-99CF-4A44-A457-E07D57BD8A49}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{B20FB73D-230B-411A-9910-2A2D8240E6F8}"
+              p:after="r[@uid='{4CE5836D-0222-4716-A971-B76A196355ED}']"
+              s:ds="{882DD974-422C-46A2-97A1-1174D36E0774}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{E885BBB3-D59B-4E3B-82F6-ED1ECC9AAECE}"
+              p:after="r[@uid='{B20FB73D-230B-411A-9910-2A2D8240E6F8}']"
+              s:ds="{BD4BB94A-191A-4503-A105-47B52BFDCB38}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{46F42864-FE69-4624-9547-38EECA22054B}"
+              p:after="r[@uid='{E885BBB3-D59B-4E3B-82F6-ED1ECC9AAECE}']"
+              s:ds="{4809C534-9000-406A-89A5-1EEF3EA8C987}"
+              s:id="{846AE873-D5C7-4033-928F-6BD96E963742}"
+              s:ph="main" />
+            <r
+              uid="{84FAC81F-B9EE-4BBF-A5B8-5ACA442529BE}"
+              p:after="*[1=2]"
+              s:ds="{FC9F375C-4337-4EE2-A0F8-36607988FE06}"
+              s:id="{404FE8DE-C601-4E14-8D3D-32F27B41D06D}"
+              s:ph="main" />
+            <r
+              uid="{B5407315-4598-49BA-A716-8895E8E1539E}">
+              <p:d />
+            </r>
+            <r
+              uid="{35F5B041-CCEA-40B8-948D-6DE09851A28E}">
+              <p:d />
+            </r>
+            <r
+              uid="{99B4E79C-EEB8-49BC-8779-24C4AD0CF113}">
+              <p:d />
+            </r>
+            <r
+              uid="{CDF8E396-F69A-48ED-A6DB-B665BD98B242}">
+              <p:d />
+            </r>
+            <r
+              uid="{3ADDDF2A-6C4B-4473-ACB2-EADC8ABD6475}">
+              <p:d />
+            </r>
+            <r
+              uid="{8036035A-E577-44BC-A961-631ADBC08C0F}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Careers
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Join our global family and become part of the company that&rsquo;s empowering the global energy industry.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Careers
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220406T113228Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Careers
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{8B87E652-E3F7-4C54-BDD9-66E1B888FF8B}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Careers
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticgappau
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Careers
+    - ID: "7c2c7685-a8a6-4130-86ae-102efa679725"
+      Hint: Featured Story Abstract
+      Value: Join our global family and become part of the company that’s leading innovation within the upstream oil and gas industry.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7fa82131-49f9-42ff-9413-8702a452e21f"
+    - ID: "9c306482-94bb-47b2-b1ba-62ffc01637e4"
+      Hint: Open Graph Description
+      Value: Join our global family and become part of the company that’s leading innovation within the upstream oil and gas industry.
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Careers
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\varalakshmi.md@horizontal.com
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Join our global family and become part of the company that’s leading innovation within the upstream oil and gas industry.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20220406T113228Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{FEC5FA09-C8A4-4936-A3A9-7219EEB54171}" cropregion="0,88,1920,1192" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230725T095055Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{FEC5FA09-C8A4-4936-A3A9-7219EEB54171}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" />

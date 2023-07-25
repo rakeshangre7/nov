@@ -1,0 +1,667 @@
+﻿---
+ID: "365a9543-0583-413f-af2c-d94b2ce4cb13"
+Parent: "0efcb894-1233-44a0-9b5d-268dc82ee1a0"
+Template: "6ad6b0c9-8586-4263-8ffb-9cbfc20b67d4"
+Path: /sitecore/content/nov/nov/Home/Products and Services/Capabilities/Saltwater Disposal
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{EA6ADDA6-E802-4B40-8E59-5479C0D197AD}" />
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{8A7BFE2B-A77E-4F73-90D2-3D897ED5E369}"
+              p:after="*[1=2]"
+              s:ds="{0A3C61A9-7898-4225-9321-AD1DDC3E6F66}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Saltwater Disposal
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>From equipment design and installation, to aftermarket and digital monitoring, we help you achieve a more effective saltwater disposal site.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Saltwater Disposal
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190325T224024Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Saltwater Disposal
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Saltwater Disposal
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Saltwater Disposal
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f95fbd4a-442a-4f7d-8a57-e72a8bbee126"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{894AD693-62BC-4D0F-8E34-42401EBEF1F3}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Saltwater Disposal
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: From equipment design and installation, to aftermarket and digital monitoring, we help you achieve a more effective saltwater disposal site.
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{83449257-C072-4C34-B38A-090035F4F52C}" cropregion="38,0,1920,1079" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190325T224441Z
+    - ID: "da134e40-cb02-4645-9846-115fb9a5aeca"
+      Hint: capability
+      Value: "{4F6F963B-79C8-4F55-8148-57C9C2B78EE3}"
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{130040B8-F561-4EBA-B382-798AA1DD1314}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{8A7BFE2B-A77E-4F73-90D2-3D897ED5E369}"
+              p:after="r[@uid='{37A7ADD6-9046-4B18-B22A-BE9133614F3D}']"
+              s:ds="{0A3C61A9-7898-4225-9321-AD1DDC3E6F66}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{85837F24-D350-4937-8790-3615A80DC882}"
+              p:after="*[1=2]"
+              s:ds="{68A1C7AD-8460-4430-A9F9-166DBFB695DE}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:ph="main" />
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Saltwater Disposal
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>From equipment design and installation, to aftermarket and digital monitoring, we help you achieve a more effective saltwater disposal site.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Saltwater Disposal
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190325T224453Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Saltwater Disposal
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Saltwater Disposal
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Saltwater Disposal
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c2c8478c-82bb-4db5-b642-87af5194787d"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{894AD693-62BC-4D0F-8E34-42401EBEF1F3}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Saltwater Disposal
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: From equipment design and installation, to aftermarket and digital monitoring, we help you achieve a more effective saltwater disposal site.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190325T224453Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{83449257-C072-4C34-B38A-090035F4F52C}" cropregion="38,0,1920,1079" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190325T224906Z
+    - ID: "da134e40-cb02-4645-9846-115fb9a5aeca"
+      Hint: capability
+      Value: "{4F6F963B-79C8-4F55-8148-57C9C2B78EE3}"
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{130040B8-F561-4EBA-B382-798AA1DD1314}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+            <r
+              uid="{8A7BFE2B-A77E-4F73-90D2-3D897ED5E369}"
+              p:after="r[@uid='{37A7ADD6-9046-4B18-B22A-BE9133614F3D}']"
+              s:ds="{0A3C61A9-7898-4225-9321-AD1DDC3E6F66}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{85837F24-D350-4937-8790-3615A80DC882}"
+              p:after="r[@uid='{8A7BFE2B-A77E-4F73-90D2-3D897ED5E369}']"
+              s:ds="{68A1C7AD-8460-4430-A9F9-166DBFB695DE}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:ph="main" />
+            <r
+              uid="{5EA33F62-C591-4EDB-9662-404AE3E08634}"
+              p:after="*[1=2]"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Saltwater Disposal
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>From equipment design and installation, to aftermarket and digital monitoring, we help you achieve a more effective saltwater disposal site.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Saltwater Disposal
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190606T184753Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Saltwater Disposal
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Saltwater Disposal
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Saltwater Disposal
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7806f6a7-6293-4cce-af3e-9a706db8044c"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{894AD693-62BC-4D0F-8E34-42401EBEF1F3}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Saltwater Disposal
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: From equipment design and installation, to aftermarket and digital monitoring, we help you achieve a more effective saltwater disposal site.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190606T184753Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{34EB5F29-DEA7-4164-B4CA-9196A7C8CD5B}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190606T184954Z
+    - ID: "da134e40-cb02-4645-9846-115fb9a5aeca"
+      Hint: capability
+      Value: "{4F6F963B-79C8-4F55-8148-57C9C2B78EE3}"
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{34EB5F29-DEA7-4164-B4CA-9196A7C8CD5B}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 4
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+            <r
+              uid="{8A7BFE2B-A77E-4F73-90D2-3D897ED5E369}"
+              p:after="r[@uid='{37A7ADD6-9046-4B18-B22A-BE9133614F3D}']"
+              s:ds="{0A3C61A9-7898-4225-9321-AD1DDC3E6F66}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{85837F24-D350-4937-8790-3615A80DC882}"
+              p:after="r[@uid='{8A7BFE2B-A77E-4F73-90D2-3D897ED5E369}']"
+              s:ds="{68A1C7AD-8460-4430-A9F9-166DBFB695DE}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:ph="main" />
+            <r
+              uid="{5EA33F62-C591-4EDB-9662-404AE3E08634}"
+              p:after="*[1=2]"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Saltwater Disposal
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>From equipment design and installation, to aftermarket and digital monitoring, we help you achieve a more effective saltwater disposal site.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Saltwater Disposal
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200515T150042Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Saltwater Disposal
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Saltwater Disposal
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joshuashearer
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Saltwater Disposal
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "32010865-f4f0-4a2f-a4bc-1d4f93099ebd"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{894AD693-62BC-4D0F-8E34-42401EBEF1F3}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Saltwater Disposal
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\joshuashearer
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: From equipment design and installation, to aftermarket and digital monitoring, we help you achieve a more effective saltwater disposal site.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200515T150042Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{34EB5F29-DEA7-4164-B4CA-9196A7C8CD5B}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200522T170036Z
+    - ID: "da134e40-cb02-4645-9846-115fb9a5aeca"
+      Hint: capability
+      Value: "{4F6F963B-79C8-4F55-8148-57C9C2B78EE3}"
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{34EB5F29-DEA7-4164-B4CA-9196A7C8CD5B}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 5
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+            <r
+              uid="{8A7BFE2B-A77E-4F73-90D2-3D897ED5E369}"
+              p:after="r[@uid='{37A7ADD6-9046-4B18-B22A-BE9133614F3D}']"
+              s:ds="{0A3C61A9-7898-4225-9321-AD1DDC3E6F66}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{85837F24-D350-4937-8790-3615A80DC882}"
+              p:after="r[@uid='{8A7BFE2B-A77E-4F73-90D2-3D897ED5E369}']"
+              s:ds="{68A1C7AD-8460-4430-A9F9-166DBFB695DE}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:ph="main" />
+            <r
+              uid="{5EA33F62-C591-4EDB-9662-404AE3E08634}"
+              p:after="*[1=2]"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Saltwater Disposal
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>From equipment design and installation, to aftermarket and digital monitoring, we help you achieve a more effective saltwater disposal site.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Saltwater Disposal
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200526T163327Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Saltwater Disposal
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{37CE6828-491E-4AF1-A858-254564BEE5B8}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Saltwater Disposal
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joshuashearer
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Saltwater Disposal
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e9f878df-2850-474c-afaa-1ae317fc71f8"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{894AD693-62BC-4D0F-8E34-42401EBEF1F3}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Saltwater Disposal
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\joshuashearer
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: From equipment design and installation, to aftermarket and digital monitoring, we help you achieve a more effective saltwater disposal site.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200526T163327Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{34EB5F29-DEA7-4164-B4CA-9196A7C8CD5B}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200526T170158Z
+    - ID: "da134e40-cb02-4645-9846-115fb9a5aeca"
+      Hint: capability
+      Value: "{4F6F963B-79C8-4F55-8148-57C9C2B78EE3}"
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{34EB5F29-DEA7-4164-B4CA-9196A7C8CD5B}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 6
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+            <r
+              uid="{8A7BFE2B-A77E-4F73-90D2-3D897ED5E369}"
+              p:after="r[@uid='{37A7ADD6-9046-4B18-B22A-BE9133614F3D}']"
+              s:ds="{0A3C61A9-7898-4225-9321-AD1DDC3E6F66}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{85837F24-D350-4937-8790-3615A80DC882}"
+              p:after="r[@uid='{8A7BFE2B-A77E-4F73-90D2-3D897ED5E369}']"
+              s:ds="{68A1C7AD-8460-4430-A9F9-166DBFB695DE}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:ph="main" />
+            <r
+              uid="{5EA33F62-C591-4EDB-9662-404AE3E08634}"
+              p:after="*[1=2]"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Saltwater Disposal
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>From equipment design and installation, to aftermarket and digital monitoring, we help you achieve a more effective saltwater disposal site.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Saltwater Disposal
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200717T214605Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Saltwater Disposal
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Saltwater Disposal
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kimmontgomery
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Saltwater Disposal
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "558b3082-9e5e-49f7-b8a2-0e0d9cb73dcb"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{894AD693-62BC-4D0F-8E34-42401EBEF1F3}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Saltwater Disposal
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\varalakshmi.md@horizontal.com
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: From equipment design and installation, to aftermarket and digital monitoring, we help you achieve a more effective saltwater disposal site.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200717T214605Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{115AA207-A039-4AE4-B306-BDF6FAF93A77}" cropregion="15,0,1584,900" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230725T095025Z
+    - ID: "da134e40-cb02-4645-9846-115fb9a5aeca"
+      Hint: capability
+      Value: "{4F6F963B-79C8-4F55-8148-57C9C2B78EE3}"
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{115AA207-A039-4AE4-B306-BDF6FAF93A77}" cropregion="107,0,3041,1650" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />

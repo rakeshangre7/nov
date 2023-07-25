@@ -1,0 +1,1739 @@
+﻿---
+ID: "e73abb1e-408d-496a-b7d8-4ec26b220d1f"
+Parent: "ee57e866-1947-4382-8672-2b304e437349"
+Template: "d845df6c-dbff-4280-acdd-cc97d29844a8"
+Path: /sitecore/content/nov/nov/Home/Careers/Our Employees/Megan
+SharedFields:
+- ID: "66afdd9e-0c87-4ef2-9ef2-405f3b88a047"
+  Hint: Hide From Search
+  Value: 1
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{636F77A5-5615-49CF-B282-8ABA365D3A16}" />
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{1D9F7519-1A07-4B02-9D49-1D933DACE3F8}"
+          s:par="Add Gradient=1&amp;Text Color=white" />
+        <r
+          uid="{4BB25428-E6C6-4301-AAFF-F88D64F59B05}"
+          s:ds=""
+          s:par="Enable Autoplay=true&amp;Add Gradient=1&amp;Text Color=white&amp;Wait Time=5000" />
+      </d>
+    </r>
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{59CF16C9-C9C9-4BF6-B54B-998297D07A5A}"
+              p:before="*"
+              s:ds="{F9D46F88-EB0F-406D-A86F-B8B24FAB8F83}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{71166F98-8745-4892-8D8E-15C8551B0296}"
+              p:after="r[@uid='{59CF16C9-C9C9-4BF6-B54B-998297D07A5A}']"
+              s:ds="{FFE15BD4-9DF8-4426-B65A-FD1117C375E2}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{B58AA28B-FEFB-4C25-B4B2-475C18856B92}"
+              p:after="r[@uid='{71166F98-8745-4892-8D8E-15C8551B0296}']"
+              s:ds="{68A15100-B51B-4AE8-9E4E-1C9DC4AC9A87}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-right/image-block-splitter-960x540-top" />
+            <r
+              uid="{2D1F5B9F-2C01-4704-B547-F06DB894F1B5}"
+              p:after="r[@uid='{B58AA28B-FEFB-4C25-B4B2-475C18856B92}']"
+              s:ds="{4CF87D2D-B79C-4139-8389-EB7914D24EE1}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom/image-block-splitter-480x540-left" />
+            <r
+              uid="{F098275B-BB74-4AC4-972C-3990563DC2BA}"
+              p:after="r[@uid='{2D1F5B9F-2C01-4704-B547-F06DB894F1B5}']"
+              s:ds="{B3A16023-3470-4B6E-B660-099DA59473A1}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-left/image-block-splitter-960x540-top" />
+            <r
+              uid="{2892488C-6AA7-4C10-A71F-5170272F5F1D}"
+              p:after="r[@uid='{F098275B-BB74-4AC4-972C-3990563DC2BA}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-right" />
+            <r
+              uid="{A01078DA-AE86-42E0-8A64-1F11FBD14F50}"
+              p:after="r[@uid='{2892488C-6AA7-4C10-A71F-5170272F5F1D}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-left" />
+            <r
+              uid="{7F9CF4F7-962B-4DFC-9683-330D84D5EF29}"
+              p:after="r[@uid='{A01078DA-AE86-42E0-8A64-1F11FBD14F50}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main" />
+            <r
+              uid="{EB0C67D7-CBAE-4EE7-B412-9964BD8F0F4C}">
+              <p:d />
+            </r>
+            <r
+              uid="{53ACC004-BCE1-4C03-82DD-4BADD9637005}">
+              <p:d />
+            </r>
+            <r
+              uid="{FF24F78C-1E13-4C62-8615-08CCB61E123D}">
+              <p:d />
+            </r>
+            <r
+              uid="{CBB1341C-3A61-4C5F-9880-5079456425CC}">
+              <p:d />
+            </r>
+            <r
+              uid="{60D19D74-4E08-4244-A106-160C07761BB9}">
+              <p:d />
+            </r>
+            <r
+              uid="{ADA57895-D415-45B8-B789-E38730D94E5C}"
+              p:after="r[@uid='{21C7C9D9-C4AD-4A1E-8F55-B927F1A450B6}']"
+              s:ds="{AD2DB02F-6F65-46E8-B97A-3F4532A0216B}"
+              s:id="{2002D52F-38B0-48F3-8256-F67F34126723}"
+              s:ph="main" />
+            <r
+              uid="{79E4F90F-CD16-485A-80BD-6F61649793FE}"
+              p:after="r[@uid='{ADA57895-D415-45B8-B789-E38730D94E5C}']"
+              s:ds="{9BF18E9F-E78E-4A6F-8EFB-559945849B4A}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{F38F8F9B-4CE3-4F6F-95E1-B59A30A4E6E4}"
+              p:after="r[@uid='{79E4F90F-CD16-485A-80BD-6F61649793FE}']"
+              s:ds="{BFEE4A6C-21C2-4461-AF26-5CAE73BCCFDC}"
+              s:id="{2E6C5F1E-BC4A-4FBE-BC72-FBCB237F8DDC}"
+              s:ph="main" />
+            <r
+              uid="{3BA5D2ED-744F-42FD-8C8B-E085A27EDA4A}"
+              p:after="r[@uid='{F38F8F9B-4CE3-4F6F-95E1-B59A30A4E6E4}']"
+              s:ds="{101AB3F1-AE94-4F9B-BB6C-0C5BD873713A}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{FC3FB646-E971-4C79-80A6-A3042B5094EE}"
+              p:after="*[1=2]"
+              s:id="{31CEB9C9-A9C8-43EA-9093-A6CDD02D7F90}"
+              s:ph="main" />
+            <r
+              uid="{3205AF76-5295-41B7-AEE1-050025A6783B}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Megan
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: |
+        <p>Position: HR Director&ndash;Process and Flow Technologies</p>
+        <p>Location: Houston, TX</p>
+        <p>Time with NOV: 8 years</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Megan
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190417T184432Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Megan
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Megan
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "552d2f72-38dc-4292-a4d4-c25d7659a547"
+      Hint: Experience
+      Value: 8 years
+    - ID: "59d8c695-4c77-4e28-aca2-18e95ced59be"
+      Hint: Job Function
+      Value: HR
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Megan
+    - ID: "81beeffb-e4e6-44ad-aa32-b3380b8d3fcd"
+      Hint: city
+      Value: Houston
+    - ID: "8481aefe-5414-437b-bf8b-6d95d2dc9fc8"
+      Hint: Job Title
+      Value: HR Director – Process and Flow Technologies
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f9f8b27d-3ba2-4c67-86c7-868d80659318"
+    - ID: "8d7bd282-7922-440b-bf50-8260e886c806"
+      Hint: Job Location
+      Value: Houston, TX
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{B5A8267A-94DD-4EDB-A526-48C8D84F7477}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Megan
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "bba7d4dd-7d1e-428e-b80d-055170466dc3"
+      Hint: country
+      Value: United States
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "Position: HR Director, Process and Flow Technologies - Location: Houston, TX - Time with NOV: 8 years"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190417T184432Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{09E3B6A2-55FC-43BA-B0FC-ADED0C2996E6}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190417T184819Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{09E3B6A2-55FC-43BA-B0FC-ADED0C2996E6}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: |
+        <r owner="sitecore\melissapastrano" date="20190626T134900Z" />
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Megan Phelps
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: |
+        <p>Position: HR Director&ndash;Process and Flow Technologies</p>
+        <p>Location: Houston, TX</p>
+        <p>Time with NOV: 8 years</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Megan Phelps
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190626T134857Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Megan Phelps
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{8B87E652-E3F7-4C54-BDD9-66E1B888FF8B}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Megan Phelps
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\melissapastrano
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Megan Phelps
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "69d2e05f-998e-4d73-b94d-02410d1d4212"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{B5A8267A-94DD-4EDB-A526-48C8D84F7477}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Megan Phelps
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\melissapastrano
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190626T134857Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190626T134900Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: 
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Megan Phelps
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: |
+        <p>HR Director&ndash;Process and Flow Technologies</p>
+        <p>Location: Houston, TX</p>
+        <p>Time with NOV: 8 years</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Megan Phelps
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190626T142145Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Megan Phelps
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{40251B7D-FBE3-4A0E-8947-D4B4FE8CD782}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Megan Phelps
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\melissapastrano
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Megan Phelps
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "66540ba7-b47a-4b71-a244-d63217d448a5"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{B5A8267A-94DD-4EDB-A526-48C8D84F7477}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Megan Phelps
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\melissapastrano
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190626T142145Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190626T142242Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{85C8FF05-5C50-4AF4-8BF3-411CBFCE750F}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 4
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{59CF16C9-C9C9-4BF6-B54B-998297D07A5A}"
+              p:before="*"
+              s:ds="{F9D46F88-EB0F-406D-A86F-B8B24FAB8F83}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{71166F98-8745-4892-8D8E-15C8551B0296}"
+              p:after="r[@uid='{59CF16C9-C9C9-4BF6-B54B-998297D07A5A}']"
+              s:ds="{FFE15BD4-9DF8-4426-B65A-FD1117C375E2}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{B58AA28B-FEFB-4C25-B4B2-475C18856B92}"
+              p:after="r[@uid='{71166F98-8745-4892-8D8E-15C8551B0296}']"
+              s:ds="{68A15100-B51B-4AE8-9E4E-1C9DC4AC9A87}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-right/image-block-splitter-960x540-top" />
+            <r
+              uid="{2D1F5B9F-2C01-4704-B547-F06DB894F1B5}"
+              p:after="r[@uid='{B58AA28B-FEFB-4C25-B4B2-475C18856B92}']"
+              s:ds="{4CF87D2D-B79C-4139-8389-EB7914D24EE1}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom/image-block-splitter-480x540-left" />
+            <r
+              uid="{F098275B-BB74-4AC4-972C-3990563DC2BA}"
+              p:after="r[@uid='{2D1F5B9F-2C01-4704-B547-F06DB894F1B5}']"
+              s:ds="{B3A16023-3470-4B6E-B660-099DA59473A1}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-left/image-block-splitter-960x540-top" />
+            <r
+              uid="{2892488C-6AA7-4C10-A71F-5170272F5F1D}"
+              p:after="r[@uid='{F098275B-BB74-4AC4-972C-3990563DC2BA}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-right" />
+            <r
+              uid="{A01078DA-AE86-42E0-8A64-1F11FBD14F50}"
+              p:after="r[@uid='{2892488C-6AA7-4C10-A71F-5170272F5F1D}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-left" />
+            <r
+              uid="{7F9CF4F7-962B-4DFC-9683-330D84D5EF29}"
+              p:after="r[@uid='{A01078DA-AE86-42E0-8A64-1F11FBD14F50}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main" />
+            <r
+              uid="{ADA57895-D415-45B8-B789-E38730D94E5C}"
+              p:after="r[@uid='{4BB25428-E6C6-4301-AAFF-F88D64F59B05}']"
+              s:ds="{AD2DB02F-6F65-46E8-B97A-3F4532A0216B}"
+              s:id="{2002D52F-38B0-48F3-8256-F67F34126723}"
+              s:ph="main" />
+            <r
+              uid="{79E4F90F-CD16-485A-80BD-6F61649793FE}"
+              p:after="r[@uid='{ADA57895-D415-45B8-B789-E38730D94E5C}']"
+              s:ds="{9BF18E9F-E78E-4A6F-8EFB-559945849B4A}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{F38F8F9B-4CE3-4F6F-95E1-B59A30A4E6E4}"
+              p:after="r[@uid='{79E4F90F-CD16-485A-80BD-6F61649793FE}']"
+              s:ds="{BFEE4A6C-21C2-4461-AF26-5CAE73BCCFDC}"
+              s:id="{2E6C5F1E-BC4A-4FBE-BC72-FBCB237F8DDC}"
+              s:ph="main" />
+            <r
+              uid="{3BA5D2ED-744F-42FD-8C8B-E085A27EDA4A}"
+              p:after="r[@uid='{F38F8F9B-4CE3-4F6F-95E1-B59A30A4E6E4}']"
+              s:ds="{101AB3F1-AE94-4F9B-BB6C-0C5BD873713A}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{FC3FB646-E971-4C79-80A6-A3042B5094EE}"
+              p:after="r[@uid='{3BA5D2ED-744F-42FD-8C8B-E085A27EDA4A}']"
+              s:id="{31CEB9C9-A9C8-43EA-9093-A6CDD02D7F90}"
+              s:ph="main" />
+            <r
+              uid="{EB0C67D7-CBAE-4EE7-B412-9964BD8F0F4C}">
+              <p:d />
+            </r>
+            <r
+              uid="{53ACC004-BCE1-4C03-82DD-4BADD9637005}">
+              <p:d />
+            </r>
+            <r
+              uid="{FF24F78C-1E13-4C62-8615-08CCB61E123D}">
+              <p:d />
+            </r>
+            <r
+              uid="{CBB1341C-3A61-4C5F-9880-5079456425CC}">
+              <p:d />
+            </r>
+            <r
+              uid="{60D19D74-4E08-4244-A106-160C07761BB9}">
+              <p:d />
+            </r>
+            <r
+              uid="{3205AF76-5295-41B7-AEE1-050025A6783B}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Megan Phelps
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: |
+        <p>HR Director&ndash;Process and Flow Technologies</p>
+        <p>Location: Houston, TX</p>
+        <p>Started&nbsp;with NOV: 2011</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Megan Phelps
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190627T125606Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Megan Phelps
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Megan Phelps
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "552d2f72-38dc-4292-a4d4-c25d7659a547"
+      Hint: Experience
+      Value: 8 years
+    - ID: "59d8c695-4c77-4e28-aca2-18e95ced59be"
+      Hint: Job Function
+      Value: HR
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\melissapastrano
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Megan Phelps
+    - ID: "81beeffb-e4e6-44ad-aa32-b3380b8d3fcd"
+      Hint: city
+      Value: Houston
+    - ID: "8481aefe-5414-437b-bf8b-6d95d2dc9fc8"
+      Hint: Job Title
+      Value: HR Director – Process and Flow Technologies
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "656a0d8c-9483-41e8-ab7e-6df9a60aae3a"
+    - ID: "8d7bd282-7922-440b-bf50-8260e886c806"
+      Hint: Job Location
+      Value: Houston, TX
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{B5A8267A-94DD-4EDB-A526-48C8D84F7477}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Megan Phelps
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\melissapastrano
+    - ID: "bba7d4dd-7d1e-428e-b80d-055170466dc3"
+      Hint: country
+      Value: United States
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "HR Director, Process and Flow Technologies - Location: Houston, TX - Time with NOV: 8 years"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190627T125606Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{09E3B6A2-55FC-43BA-B0FC-ADED0C2996E6}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190627T130115Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{09E3B6A2-55FC-43BA-B0FC-ADED0C2996E6}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 5
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{59CF16C9-C9C9-4BF6-B54B-998297D07A5A}"
+              p:before="*"
+              s:ds="{F9D46F88-EB0F-406D-A86F-B8B24FAB8F83}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{71166F98-8745-4892-8D8E-15C8551B0296}"
+              p:after="r[@uid='{59CF16C9-C9C9-4BF6-B54B-998297D07A5A}']"
+              s:ds="{FFE15BD4-9DF8-4426-B65A-FD1117C375E2}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{B58AA28B-FEFB-4C25-B4B2-475C18856B92}"
+              p:after="r[@uid='{71166F98-8745-4892-8D8E-15C8551B0296}']"
+              s:ds="{68A15100-B51B-4AE8-9E4E-1C9DC4AC9A87}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-right/image-block-splitter-960x540-top" />
+            <r
+              uid="{2D1F5B9F-2C01-4704-B547-F06DB894F1B5}"
+              p:after="r[@uid='{B58AA28B-FEFB-4C25-B4B2-475C18856B92}']"
+              s:ds="{4CF87D2D-B79C-4139-8389-EB7914D24EE1}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom/image-block-splitter-480x540-left" />
+            <r
+              uid="{F098275B-BB74-4AC4-972C-3990563DC2BA}"
+              p:after="r[@uid='{2D1F5B9F-2C01-4704-B547-F06DB894F1B5}']"
+              s:ds="{B3A16023-3470-4B6E-B660-099DA59473A1}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-left/image-block-splitter-960x540-top" />
+            <r
+              uid="{2892488C-6AA7-4C10-A71F-5170272F5F1D}"
+              p:after="r[@uid='{F098275B-BB74-4AC4-972C-3990563DC2BA}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-right" />
+            <r
+              uid="{A01078DA-AE86-42E0-8A64-1F11FBD14F50}"
+              p:after="r[@uid='{2892488C-6AA7-4C10-A71F-5170272F5F1D}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-left" />
+            <r
+              uid="{7F9CF4F7-962B-4DFC-9683-330D84D5EF29}"
+              p:after="r[@uid='{A01078DA-AE86-42E0-8A64-1F11FBD14F50}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main" />
+            <r
+              uid="{ADA57895-D415-45B8-B789-E38730D94E5C}"
+              p:after="r[@uid='{4BB25428-E6C6-4301-AAFF-F88D64F59B05}']"
+              s:ds="{AD2DB02F-6F65-46E8-B97A-3F4532A0216B}"
+              s:id="{2002D52F-38B0-48F3-8256-F67F34126723}"
+              s:ph="main" />
+            <r
+              uid="{79E4F90F-CD16-485A-80BD-6F61649793FE}"
+              p:after="r[@uid='{ADA57895-D415-45B8-B789-E38730D94E5C}']"
+              s:ds="{9BF18E9F-E78E-4A6F-8EFB-559945849B4A}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{F38F8F9B-4CE3-4F6F-95E1-B59A30A4E6E4}"
+              p:after="r[@uid='{79E4F90F-CD16-485A-80BD-6F61649793FE}']"
+              s:ds="{BFEE4A6C-21C2-4461-AF26-5CAE73BCCFDC}"
+              s:id="{2E6C5F1E-BC4A-4FBE-BC72-FBCB237F8DDC}"
+              s:ph="main" />
+            <r
+              uid="{3BA5D2ED-744F-42FD-8C8B-E085A27EDA4A}"
+              p:after="r[@uid='{F38F8F9B-4CE3-4F6F-95E1-B59A30A4E6E4}']"
+              s:ds="{101AB3F1-AE94-4F9B-BB6C-0C5BD873713A}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{FC3FB646-E971-4C79-80A6-A3042B5094EE}"
+              p:after="r[@uid='{3BA5D2ED-744F-42FD-8C8B-E085A27EDA4A}']"
+              s:id="{31CEB9C9-A9C8-43EA-9093-A6CDD02D7F90}"
+              s:ph="main" />
+            <r
+              uid="{EB0C67D7-CBAE-4EE7-B412-9964BD8F0F4C}">
+              <p:d />
+            </r>
+            <r
+              uid="{53ACC004-BCE1-4C03-82DD-4BADD9637005}">
+              <p:d />
+            </r>
+            <r
+              uid="{FF24F78C-1E13-4C62-8615-08CCB61E123D}">
+              <p:d />
+            </r>
+            <r
+              uid="{CBB1341C-3A61-4C5F-9880-5079456425CC}">
+              <p:d />
+            </r>
+            <r
+              uid="{60D19D74-4E08-4244-A106-160C07761BB9}">
+              <p:d />
+            </r>
+            <r
+              uid="{3205AF76-5295-41B7-AEE1-050025A6783B}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Megan Phelps
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: |
+        <p>HR Director&ndash;Process and Flow Technologies</p>
+        <p>Location: Houston, TX</p>
+        <p>Started&nbsp;with NOV: 2011</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Megan
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190628T184701Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Megan Phelps
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Megan
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "552d2f72-38dc-4292-a4d4-c25d7659a547"
+      Hint: Experience
+      Value: 8 years
+    - ID: "59d8c695-4c77-4e28-aca2-18e95ced59be"
+      Hint: Job Function
+      Value: HR
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\melissapastrano
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Megan Phelps
+    - ID: "81beeffb-e4e6-44ad-aa32-b3380b8d3fcd"
+      Hint: city
+      Value: Houston
+    - ID: "8481aefe-5414-437b-bf8b-6d95d2dc9fc8"
+      Hint: Job Title
+      Value: HR Director – Process and Flow Technologies
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8b4b9b36-100d-47a0-b394-d83a075f6a25"
+    - ID: "8d7bd282-7922-440b-bf50-8260e886c806"
+      Hint: Job Location
+      Value: Houston, TX
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{B5A8267A-94DD-4EDB-A526-48C8D84F7477}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Megan Phelps
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\melissapastrano
+    - ID: "bba7d4dd-7d1e-428e-b80d-055170466dc3"
+      Hint: country
+      Value: United States
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "HR Director, Process and Flow Technologies - Location: Houston, TX - Time with NOV: 8 years"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190628T184701Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{09E3B6A2-55FC-43BA-B0FC-ADED0C2996E6}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190628T185023Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{09E3B6A2-55FC-43BA-B0FC-ADED0C2996E6}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 6
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{59CF16C9-C9C9-4BF6-B54B-998297D07A5A}"
+              p:before="*"
+              s:ds="{F9D46F88-EB0F-406D-A86F-B8B24FAB8F83}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{71166F98-8745-4892-8D8E-15C8551B0296}"
+              p:after="r[@uid='{59CF16C9-C9C9-4BF6-B54B-998297D07A5A}']"
+              s:ds="{FFE15BD4-9DF8-4426-B65A-FD1117C375E2}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{B58AA28B-FEFB-4C25-B4B2-475C18856B92}"
+              p:after="r[@uid='{71166F98-8745-4892-8D8E-15C8551B0296}']"
+              s:ds="{68A15100-B51B-4AE8-9E4E-1C9DC4AC9A87}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-right/image-block-splitter-960x540-top" />
+            <r
+              uid="{2D1F5B9F-2C01-4704-B547-F06DB894F1B5}"
+              p:after="r[@uid='{B58AA28B-FEFB-4C25-B4B2-475C18856B92}']"
+              s:ds="{4CF87D2D-B79C-4139-8389-EB7914D24EE1}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom/image-block-splitter-480x540-left" />
+            <r
+              uid="{F098275B-BB74-4AC4-972C-3990563DC2BA}"
+              p:after="r[@uid='{2D1F5B9F-2C01-4704-B547-F06DB894F1B5}']"
+              s:ds="{B3A16023-3470-4B6E-B660-099DA59473A1}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-left/image-block-splitter-960x540-top" />
+            <r
+              uid="{2892488C-6AA7-4C10-A71F-5170272F5F1D}"
+              p:after="r[@uid='{F098275B-BB74-4AC4-972C-3990563DC2BA}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-right" />
+            <r
+              uid="{A01078DA-AE86-42E0-8A64-1F11FBD14F50}"
+              p:after="r[@uid='{2892488C-6AA7-4C10-A71F-5170272F5F1D}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-left" />
+            <r
+              uid="{7F9CF4F7-962B-4DFC-9683-330D84D5EF29}"
+              p:after="r[@uid='{A01078DA-AE86-42E0-8A64-1F11FBD14F50}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main" />
+            <r
+              uid="{ADA57895-D415-45B8-B789-E38730D94E5C}"
+              p:after="r[@uid='{4BB25428-E6C6-4301-AAFF-F88D64F59B05}']"
+              s:ds="{AD2DB02F-6F65-46E8-B97A-3F4532A0216B}"
+              s:id="{2002D52F-38B0-48F3-8256-F67F34126723}"
+              s:ph="main" />
+            <r
+              uid="{79E4F90F-CD16-485A-80BD-6F61649793FE}"
+              p:after="r[@uid='{ADA57895-D415-45B8-B789-E38730D94E5C}']"
+              s:ds="{9BF18E9F-E78E-4A6F-8EFB-559945849B4A}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{F38F8F9B-4CE3-4F6F-95E1-B59A30A4E6E4}"
+              p:after="r[@uid='{79E4F90F-CD16-485A-80BD-6F61649793FE}']"
+              s:ds="{BFEE4A6C-21C2-4461-AF26-5CAE73BCCFDC}"
+              s:id="{2E6C5F1E-BC4A-4FBE-BC72-FBCB237F8DDC}"
+              s:ph="main" />
+            <r
+              uid="{3BA5D2ED-744F-42FD-8C8B-E085A27EDA4A}"
+              p:after="r[@uid='{F38F8F9B-4CE3-4F6F-95E1-B59A30A4E6E4}']"
+              s:ds="{101AB3F1-AE94-4F9B-BB6C-0C5BD873713A}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{FC3FB646-E971-4C79-80A6-A3042B5094EE}"
+              p:after="r[@uid='{3BA5D2ED-744F-42FD-8C8B-E085A27EDA4A}']"
+              s:id="{31CEB9C9-A9C8-43EA-9093-A6CDD02D7F90}"
+              s:ph="main" />
+            <r
+              uid="{EB0C67D7-CBAE-4EE7-B412-9964BD8F0F4C}">
+              <p:d />
+            </r>
+            <r
+              uid="{53ACC004-BCE1-4C03-82DD-4BADD9637005}">
+              <p:d />
+            </r>
+            <r
+              uid="{FF24F78C-1E13-4C62-8615-08CCB61E123D}">
+              <p:d />
+            </r>
+            <r
+              uid="{CBB1341C-3A61-4C5F-9880-5079456425CC}">
+              <p:d />
+            </r>
+            <r
+              uid="{60D19D74-4E08-4244-A106-160C07761BB9}">
+              <p:d />
+            </r>
+            <r
+              uid="{3205AF76-5295-41B7-AEE1-050025A6783B}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Megan Phelps
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: |
+        <p>HR Director&ndash;Process and Flow Technologies</p>
+        <p>Location: Houston, TX</p>
+        <p>Started&nbsp;with NOV: 2011</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Megan Phelps
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190628T201348Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Megan Phelps
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{40251B7D-FBE3-4A0E-8947-D4B4FE8CD782}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Megan Phelps
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "552d2f72-38dc-4292-a4d4-c25d7659a547"
+      Hint: Experience
+      Value: 8 years
+    - ID: "59d8c695-4c77-4e28-aca2-18e95ced59be"
+      Hint: Job Function
+      Value: HR
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\melissapastrano
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Megan Phelps
+    - ID: "81beeffb-e4e6-44ad-aa32-b3380b8d3fcd"
+      Hint: city
+      Value: Houston
+    - ID: "8481aefe-5414-437b-bf8b-6d95d2dc9fc8"
+      Hint: Job Title
+      Value: HR Director – Process and Flow Technologies
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1c5fb27d-dc92-4eae-ae22-73729bf0216f"
+    - ID: "8d7bd282-7922-440b-bf50-8260e886c806"
+      Hint: Job Location
+      Value: Houston, TX
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{B5A8267A-94DD-4EDB-A526-48C8D84F7477}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Megan Phelps
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\melissapastrano
+    - ID: "bba7d4dd-7d1e-428e-b80d-055170466dc3"
+      Hint: country
+      Value: United States
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "HR Director, Process and Flow Technologies - Location: Houston, TX - Time with NOV: 8 years"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190628T201348Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{09E3B6A2-55FC-43BA-B0FC-ADED0C2996E6}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190628T201821Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{09E3B6A2-55FC-43BA-B0FC-ADED0C2996E6}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 7
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{59CF16C9-C9C9-4BF6-B54B-998297D07A5A}"
+              p:before="*"
+              s:ds="{F9D46F88-EB0F-406D-A86F-B8B24FAB8F83}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{71166F98-8745-4892-8D8E-15C8551B0296}"
+              p:after="r[@uid='{59CF16C9-C9C9-4BF6-B54B-998297D07A5A}']"
+              s:ds="{FFE15BD4-9DF8-4426-B65A-FD1117C375E2}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{B58AA28B-FEFB-4C25-B4B2-475C18856B92}"
+              p:after="r[@uid='{71166F98-8745-4892-8D8E-15C8551B0296}']"
+              s:ds="{68A15100-B51B-4AE8-9E4E-1C9DC4AC9A87}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-right/image-block-splitter-960x540-top" />
+            <r
+              uid="{2D1F5B9F-2C01-4704-B547-F06DB894F1B5}"
+              p:after="r[@uid='{B58AA28B-FEFB-4C25-B4B2-475C18856B92}']"
+              s:ds="{4CF87D2D-B79C-4139-8389-EB7914D24EE1}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom/image-block-splitter-480x540-left" />
+            <r
+              uid="{F098275B-BB74-4AC4-972C-3990563DC2BA}"
+              p:after="r[@uid='{2D1F5B9F-2C01-4704-B547-F06DB894F1B5}']"
+              s:ds="{B3A16023-3470-4B6E-B660-099DA59473A1}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-left/image-block-splitter-960x540-top" />
+            <r
+              uid="{2892488C-6AA7-4C10-A71F-5170272F5F1D}"
+              p:after="r[@uid='{F098275B-BB74-4AC4-972C-3990563DC2BA}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-right" />
+            <r
+              uid="{A01078DA-AE86-42E0-8A64-1F11FBD14F50}"
+              p:after="r[@uid='{2892488C-6AA7-4C10-A71F-5170272F5F1D}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-left" />
+            <r
+              uid="{7F9CF4F7-962B-4DFC-9683-330D84D5EF29}"
+              p:after="r[@uid='{A01078DA-AE86-42E0-8A64-1F11FBD14F50}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main" />
+            <r
+              uid="{ADA57895-D415-45B8-B789-E38730D94E5C}"
+              p:after="r[@uid='{4BB25428-E6C6-4301-AAFF-F88D64F59B05}']"
+              s:ds="{AD2DB02F-6F65-46E8-B97A-3F4532A0216B}"
+              s:id="{2002D52F-38B0-48F3-8256-F67F34126723}"
+              s:ph="main" />
+            <r
+              uid="{79E4F90F-CD16-485A-80BD-6F61649793FE}"
+              p:after="r[@uid='{ADA57895-D415-45B8-B789-E38730D94E5C}']"
+              s:ds="{9BF18E9F-E78E-4A6F-8EFB-559945849B4A}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{F38F8F9B-4CE3-4F6F-95E1-B59A30A4E6E4}"
+              p:after="r[@uid='{79E4F90F-CD16-485A-80BD-6F61649793FE}']"
+              s:ds="{BFEE4A6C-21C2-4461-AF26-5CAE73BCCFDC}"
+              s:id="{2E6C5F1E-BC4A-4FBE-BC72-FBCB237F8DDC}"
+              s:ph="main" />
+            <r
+              uid="{3BA5D2ED-744F-42FD-8C8B-E085A27EDA4A}"
+              p:after="r[@uid='{F38F8F9B-4CE3-4F6F-95E1-B59A30A4E6E4}']"
+              s:ds="{101AB3F1-AE94-4F9B-BB6C-0C5BD873713A}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{FC3FB646-E971-4C79-80A6-A3042B5094EE}"
+              p:after="r[@uid='{3BA5D2ED-744F-42FD-8C8B-E085A27EDA4A}']"
+              s:id="{31CEB9C9-A9C8-43EA-9093-A6CDD02D7F90}"
+              s:ph="main" />
+            <r
+              uid="{EB0C67D7-CBAE-4EE7-B412-9964BD8F0F4C}">
+              <p:d />
+            </r>
+            <r
+              uid="{53ACC004-BCE1-4C03-82DD-4BADD9637005}">
+              <p:d />
+            </r>
+            <r
+              uid="{FF24F78C-1E13-4C62-8615-08CCB61E123D}">
+              <p:d />
+            </r>
+            <r
+              uid="{CBB1341C-3A61-4C5F-9880-5079456425CC}">
+              <p:d />
+            </r>
+            <r
+              uid="{60D19D74-4E08-4244-A106-160C07761BB9}">
+              <p:d />
+            </r>
+            <r
+              uid="{3205AF76-5295-41B7-AEE1-050025A6783B}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Megan
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: |
+        <p>HR Director&ndash;Process and Flow Technologies</p>
+        <p>Location: Houston, TX</p>
+        <p>Started&nbsp;with NOV: 2011</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Megan
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190628T201841Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Megan
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Megan
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "552d2f72-38dc-4292-a4d4-c25d7659a547"
+      Hint: Experience
+      Value: 8 years
+    - ID: "59d8c695-4c77-4e28-aca2-18e95ced59be"
+      Hint: Job Function
+      Value: HR
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Megan
+    - ID: "81beeffb-e4e6-44ad-aa32-b3380b8d3fcd"
+      Hint: city
+      Value: Houston
+    - ID: "8481aefe-5414-437b-bf8b-6d95d2dc9fc8"
+      Hint: Job Title
+      Value: HR Director – Process and Flow Technologies
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fe1670a9-559a-4bba-b53a-b8f045d2d9f2"
+    - ID: "8d7bd282-7922-440b-bf50-8260e886c806"
+      Hint: Job Location
+      Value: Houston, TX
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{B5A8267A-94DD-4EDB-A526-48C8D84F7477}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Megan
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "bba7d4dd-7d1e-428e-b80d-055170466dc3"
+      Hint: country
+      Value: United States
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "HR Director, Process and Flow Technologies - Location: Houston, TX - Time with NOV: 8 years"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190628T201841Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{09E3B6A2-55FC-43BA-B0FC-ADED0C2996E6}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190628T201936Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{09E3B6A2-55FC-43BA-B0FC-ADED0C2996E6}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 8
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{59CF16C9-C9C9-4BF6-B54B-998297D07A5A}"
+              p:before="*"
+              s:ds="{F9D46F88-EB0F-406D-A86F-B8B24FAB8F83}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{71166F98-8745-4892-8D8E-15C8551B0296}"
+              p:after="r[@uid='{59CF16C9-C9C9-4BF6-B54B-998297D07A5A}']"
+              s:ds="{FFE15BD4-9DF8-4426-B65A-FD1117C375E2}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{B58AA28B-FEFB-4C25-B4B2-475C18856B92}"
+              p:after="r[@uid='{71166F98-8745-4892-8D8E-15C8551B0296}']"
+              s:ds="{68A15100-B51B-4AE8-9E4E-1C9DC4AC9A87}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-right/image-block-splitter-960x540-top" />
+            <r
+              uid="{2D1F5B9F-2C01-4704-B547-F06DB894F1B5}"
+              p:after="r[@uid='{B58AA28B-FEFB-4C25-B4B2-475C18856B92}']"
+              s:ds="{4CF87D2D-B79C-4139-8389-EB7914D24EE1}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom/image-block-splitter-480x540-left" />
+            <r
+              uid="{F098275B-BB74-4AC4-972C-3990563DC2BA}"
+              p:after="r[@uid='{2D1F5B9F-2C01-4704-B547-F06DB894F1B5}']"
+              s:ds="{B3A16023-3470-4B6E-B660-099DA59473A1}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-left/image-block-splitter-960x540-top" />
+            <r
+              uid="{2892488C-6AA7-4C10-A71F-5170272F5F1D}"
+              p:after="r[@uid='{F098275B-BB74-4AC4-972C-3990563DC2BA}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-right" />
+            <r
+              uid="{A01078DA-AE86-42E0-8A64-1F11FBD14F50}"
+              p:after="r[@uid='{2892488C-6AA7-4C10-A71F-5170272F5F1D}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-left" />
+            <r
+              uid="{7F9CF4F7-962B-4DFC-9683-330D84D5EF29}"
+              p:after="r[@uid='{A01078DA-AE86-42E0-8A64-1F11FBD14F50}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main" />
+            <r
+              uid="{ADA57895-D415-45B8-B789-E38730D94E5C}"
+              p:after="r[@uid='{4BB25428-E6C6-4301-AAFF-F88D64F59B05}']"
+              s:ds="{AD2DB02F-6F65-46E8-B97A-3F4532A0216B}"
+              s:id="{2002D52F-38B0-48F3-8256-F67F34126723}"
+              s:ph="main" />
+            <r
+              uid="{79E4F90F-CD16-485A-80BD-6F61649793FE}"
+              p:after="r[@uid='{ADA57895-D415-45B8-B789-E38730D94E5C}']"
+              s:ds="{9BF18E9F-E78E-4A6F-8EFB-559945849B4A}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{F38F8F9B-4CE3-4F6F-95E1-B59A30A4E6E4}"
+              p:after="r[@uid='{79E4F90F-CD16-485A-80BD-6F61649793FE}']"
+              s:ds="{BFEE4A6C-21C2-4461-AF26-5CAE73BCCFDC}"
+              s:id="{2E6C5F1E-BC4A-4FBE-BC72-FBCB237F8DDC}"
+              s:ph="main" />
+            <r
+              uid="{3BA5D2ED-744F-42FD-8C8B-E085A27EDA4A}"
+              p:after="r[@uid='{F38F8F9B-4CE3-4F6F-95E1-B59A30A4E6E4}']"
+              s:ds="{101AB3F1-AE94-4F9B-BB6C-0C5BD873713A}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{FC3FB646-E971-4C79-80A6-A3042B5094EE}"
+              p:after="r[@uid='{3BA5D2ED-744F-42FD-8C8B-E085A27EDA4A}']"
+              s:id="{31CEB9C9-A9C8-43EA-9093-A6CDD02D7F90}"
+              s:ph="main" />
+            <r
+              uid="{EB0C67D7-CBAE-4EE7-B412-9964BD8F0F4C}">
+              <p:d />
+            </r>
+            <r
+              uid="{53ACC004-BCE1-4C03-82DD-4BADD9637005}">
+              <p:d />
+            </r>
+            <r
+              uid="{FF24F78C-1E13-4C62-8615-08CCB61E123D}">
+              <p:d />
+            </r>
+            <r
+              uid="{CBB1341C-3A61-4C5F-9880-5079456425CC}">
+              <p:d />
+            </r>
+            <r
+              uid="{60D19D74-4E08-4244-A106-160C07761BB9}">
+              <p:d />
+            </r>
+            <r
+              uid="{3205AF76-5295-41B7-AEE1-050025A6783B}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Megan
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: |
+        <p>HR Director&ndash;Process and Flow Technologies</p>
+        <p>Location: Houston, TX</p>
+        <p>Started&nbsp;with NOV: 2011</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Megan
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190701T181645Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Megan
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Megan
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "552d2f72-38dc-4292-a4d4-c25d7659a547"
+      Hint: Experience
+      Value: 8 years
+    - ID: "59d8c695-4c77-4e28-aca2-18e95ced59be"
+      Hint: Job Function
+      Value: HR
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Megan
+    - ID: "81beeffb-e4e6-44ad-aa32-b3380b8d3fcd"
+      Hint: city
+      Value: Houston
+    - ID: "8481aefe-5414-437b-bf8b-6d95d2dc9fc8"
+      Hint: Job Title
+      Value: HR Director – Process and Flow Technologies
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6d27404b-580f-497c-bc41-6153a8c7ad92"
+    - ID: "8d7bd282-7922-440b-bf50-8260e886c806"
+      Hint: Job Location
+      Value: Houston, TX
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{B5A8267A-94DD-4EDB-A526-48C8D84F7477}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Megan
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "bba7d4dd-7d1e-428e-b80d-055170466dc3"
+      Hint: country
+      Value: United States
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "HR Director, Process and Flow Technologies - Location: Houston, TX - Time with NOV: 8 years"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190701T181645Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{09E3B6A2-55FC-43BA-B0FC-ADED0C2996E6}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190701T181709Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{09E3B6A2-55FC-43BA-B0FC-ADED0C2996E6}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 9
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{59CF16C9-C9C9-4BF6-B54B-998297D07A5A}"
+              p:before="*"
+              s:ds="{F9D46F88-EB0F-406D-A86F-B8B24FAB8F83}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{71166F98-8745-4892-8D8E-15C8551B0296}"
+              p:after="r[@uid='{59CF16C9-C9C9-4BF6-B54B-998297D07A5A}']"
+              s:ds="{FFE15BD4-9DF8-4426-B65A-FD1117C375E2}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{B58AA28B-FEFB-4C25-B4B2-475C18856B92}"
+              p:after="r[@uid='{71166F98-8745-4892-8D8E-15C8551B0296}']"
+              s:ds="{68A15100-B51B-4AE8-9E4E-1C9DC4AC9A87}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-right/image-block-splitter-960x540-top" />
+            <r
+              uid="{2D1F5B9F-2C01-4704-B547-F06DB894F1B5}"
+              p:after="r[@uid='{B58AA28B-FEFB-4C25-B4B2-475C18856B92}']"
+              s:ds="{4CF87D2D-B79C-4139-8389-EB7914D24EE1}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom/image-block-splitter-480x540-left" />
+            <r
+              uid="{F098275B-BB74-4AC4-972C-3990563DC2BA}"
+              p:after="r[@uid='{2D1F5B9F-2C01-4704-B547-F06DB894F1B5}']"
+              s:ds="{B3A16023-3470-4B6E-B660-099DA59473A1}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-left/image-block-splitter-960x540-top" />
+            <r
+              uid="{2892488C-6AA7-4C10-A71F-5170272F5F1D}"
+              p:after="r[@uid='{F098275B-BB74-4AC4-972C-3990563DC2BA}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-right" />
+            <r
+              uid="{A01078DA-AE86-42E0-8A64-1F11FBD14F50}"
+              p:after="r[@uid='{2892488C-6AA7-4C10-A71F-5170272F5F1D}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-left" />
+            <r
+              uid="{7F9CF4F7-962B-4DFC-9683-330D84D5EF29}"
+              p:after="r[@uid='{A01078DA-AE86-42E0-8A64-1F11FBD14F50}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main" />
+            <r
+              uid="{ADA57895-D415-45B8-B789-E38730D94E5C}"
+              p:after="r[@uid='{4BB25428-E6C6-4301-AAFF-F88D64F59B05}']"
+              s:ds="{AD2DB02F-6F65-46E8-B97A-3F4532A0216B}"
+              s:id="{2002D52F-38B0-48F3-8256-F67F34126723}"
+              s:ph="main" />
+            <r
+              uid="{79E4F90F-CD16-485A-80BD-6F61649793FE}"
+              p:after="r[@uid='{ADA57895-D415-45B8-B789-E38730D94E5C}']"
+              s:ds="{9BF18E9F-E78E-4A6F-8EFB-559945849B4A}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{F38F8F9B-4CE3-4F6F-95E1-B59A30A4E6E4}"
+              p:after="r[@uid='{79E4F90F-CD16-485A-80BD-6F61649793FE}']"
+              s:ds="{BFEE4A6C-21C2-4461-AF26-5CAE73BCCFDC}"
+              s:id="{2E6C5F1E-BC4A-4FBE-BC72-FBCB237F8DDC}"
+              s:ph="main" />
+            <r
+              uid="{3BA5D2ED-744F-42FD-8C8B-E085A27EDA4A}"
+              p:after="r[@uid='{F38F8F9B-4CE3-4F6F-95E1-B59A30A4E6E4}']"
+              s:ds="{101AB3F1-AE94-4F9B-BB6C-0C5BD873713A}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{FC3FB646-E971-4C79-80A6-A3042B5094EE}"
+              p:after="r[@uid='{3BA5D2ED-744F-42FD-8C8B-E085A27EDA4A}']"
+              s:id="{31CEB9C9-A9C8-43EA-9093-A6CDD02D7F90}"
+              s:ph="main" />
+            <r
+              uid="{EB0C67D7-CBAE-4EE7-B412-9964BD8F0F4C}">
+              <p:d />
+            </r>
+            <r
+              uid="{53ACC004-BCE1-4C03-82DD-4BADD9637005}">
+              <p:d />
+            </r>
+            <r
+              uid="{FF24F78C-1E13-4C62-8615-08CCB61E123D}">
+              <p:d />
+            </r>
+            <r
+              uid="{CBB1341C-3A61-4C5F-9880-5079456425CC}">
+              <p:d />
+            </r>
+            <r
+              uid="{60D19D74-4E08-4244-A106-160C07761BB9}">
+              <p:d />
+            </r>
+            <r
+              uid="{3205AF76-5295-41B7-AEE1-050025A6783B}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Megan
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: |
+        <p>HR Director&ndash;Process and Flow Technologies</p>
+        <p>Location: Houston, TX</p>
+        <p>Started&nbsp;with NOV: 2011</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Megan
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190715T161610Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Megan
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Megan
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "552d2f72-38dc-4292-a4d4-c25d7659a547"
+      Hint: Experience
+      Value: 8 years
+    - ID: "59d8c695-4c77-4e28-aca2-18e95ced59be"
+      Hint: Job Function
+      Value: HR
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Megan
+    - ID: "81beeffb-e4e6-44ad-aa32-b3380b8d3fcd"
+      Hint: city
+      Value: Houston
+    - ID: "8481aefe-5414-437b-bf8b-6d95d2dc9fc8"
+      Hint: Job Title
+      Value: HR Director – Process and Flow Technologies
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2dc3b072-d122-4520-96d9-c712ce8005a3"
+    - ID: "8d7bd282-7922-440b-bf50-8260e886c806"
+      Hint: Job Location
+      Value: Houston, TX
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{B5A8267A-94DD-4EDB-A526-48C8D84F7477}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Megan
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "bba7d4dd-7d1e-428e-b80d-055170466dc3"
+      Hint: country
+      Value: United States
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "HR Director, Process and Flow Technologies - Location: Houston, TX - Time with NOV: 8 years"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190715T161610Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{09E3B6A2-55FC-43BA-B0FC-ADED0C2996E6}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190715T161653Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{09E3B6A2-55FC-43BA-B0FC-ADED0C2996E6}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 10
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{59CF16C9-C9C9-4BF6-B54B-998297D07A5A}"
+              p:before="*"
+              s:ds="{F9D46F88-EB0F-406D-A86F-B8B24FAB8F83}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{71166F98-8745-4892-8D8E-15C8551B0296}"
+              p:after="r[@uid='{59CF16C9-C9C9-4BF6-B54B-998297D07A5A}']"
+              s:ds="{FFE15BD4-9DF8-4426-B65A-FD1117C375E2}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{B58AA28B-FEFB-4C25-B4B2-475C18856B92}"
+              p:after="r[@uid='{71166F98-8745-4892-8D8E-15C8551B0296}']"
+              s:ds="{68A15100-B51B-4AE8-9E4E-1C9DC4AC9A87}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-right/image-block-splitter-960x540-top" />
+            <r
+              uid="{2D1F5B9F-2C01-4704-B547-F06DB894F1B5}"
+              p:after="r[@uid='{B58AA28B-FEFB-4C25-B4B2-475C18856B92}']"
+              s:ds="{4CF87D2D-B79C-4139-8389-EB7914D24EE1}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom/image-block-splitter-480x540-left" />
+            <r
+              uid="{F098275B-BB74-4AC4-972C-3990563DC2BA}"
+              p:after="r[@uid='{2D1F5B9F-2C01-4704-B547-F06DB894F1B5}']"
+              s:ds="{B3A16023-3470-4B6E-B660-099DA59473A1}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-left/image-block-splitter-960x540-top" />
+            <r
+              uid="{2892488C-6AA7-4C10-A71F-5170272F5F1D}"
+              p:after="r[@uid='{F098275B-BB74-4AC4-972C-3990563DC2BA}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-right" />
+            <r
+              uid="{A01078DA-AE86-42E0-8A64-1F11FBD14F50}"
+              p:after="r[@uid='{2892488C-6AA7-4C10-A71F-5170272F5F1D}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-left" />
+            <r
+              uid="{7F9CF4F7-962B-4DFC-9683-330D84D5EF29}"
+              p:after="r[@uid='{A01078DA-AE86-42E0-8A64-1F11FBD14F50}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main" />
+            <r
+              uid="{ADA57895-D415-45B8-B789-E38730D94E5C}"
+              p:after="r[@uid='{4BB25428-E6C6-4301-AAFF-F88D64F59B05}']"
+              s:ds="{AD2DB02F-6F65-46E8-B97A-3F4532A0216B}"
+              s:id="{2002D52F-38B0-48F3-8256-F67F34126723}"
+              s:ph="main" />
+            <r
+              uid="{79E4F90F-CD16-485A-80BD-6F61649793FE}"
+              p:after="r[@uid='{ADA57895-D415-45B8-B789-E38730D94E5C}']"
+              s:ds="{9BF18E9F-E78E-4A6F-8EFB-559945849B4A}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{F38F8F9B-4CE3-4F6F-95E1-B59A30A4E6E4}"
+              p:after="r[@uid='{79E4F90F-CD16-485A-80BD-6F61649793FE}']"
+              s:ds="{BFEE4A6C-21C2-4461-AF26-5CAE73BCCFDC}"
+              s:id="{2E6C5F1E-BC4A-4FBE-BC72-FBCB237F8DDC}"
+              s:ph="main" />
+            <r
+              uid="{3BA5D2ED-744F-42FD-8C8B-E085A27EDA4A}"
+              p:after="r[@uid='{F38F8F9B-4CE3-4F6F-95E1-B59A30A4E6E4}']"
+              s:ds="{101AB3F1-AE94-4F9B-BB6C-0C5BD873713A}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{FC3FB646-E971-4C79-80A6-A3042B5094EE}"
+              p:after="r[@uid='{3BA5D2ED-744F-42FD-8C8B-E085A27EDA4A}']"
+              s:id="{31CEB9C9-A9C8-43EA-9093-A6CDD02D7F90}"
+              s:ph="main" />
+            <r
+              uid="{EB0C67D7-CBAE-4EE7-B412-9964BD8F0F4C}">
+              <p:d />
+            </r>
+            <r
+              uid="{53ACC004-BCE1-4C03-82DD-4BADD9637005}">
+              <p:d />
+            </r>
+            <r
+              uid="{FF24F78C-1E13-4C62-8615-08CCB61E123D}">
+              <p:d />
+            </r>
+            <r
+              uid="{CBB1341C-3A61-4C5F-9880-5079456425CC}">
+              <p:d />
+            </r>
+            <r
+              uid="{60D19D74-4E08-4244-A106-160C07761BB9}">
+              <p:d />
+            </r>
+            <r
+              uid="{3205AF76-5295-41B7-AEE1-050025A6783B}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Megan
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: |
+        <p>HR Director&ndash;Process and Flow Technologies</p>
+        <p>Location: Houston, TX</p>
+        <p>Started&nbsp;with NOV: 2011</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Megan
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190725T161443Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Megan
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Megan
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "552d2f72-38dc-4292-a4d4-c25d7659a547"
+      Hint: Experience
+      Value: 2011
+    - ID: "59d8c695-4c77-4e28-aca2-18e95ced59be"
+      Hint: Job Function
+      Value: HR
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Megan
+    - ID: "81beeffb-e4e6-44ad-aa32-b3380b8d3fcd"
+      Hint: city
+      Value: Houston
+    - ID: "8481aefe-5414-437b-bf8b-6d95d2dc9fc8"
+      Hint: Job Title
+      Value: HR Director – Process and Flow Technologies
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1fcde1c8-10c1-40bb-881c-948292d05b7c"
+    - ID: "8d7bd282-7922-440b-bf50-8260e886c806"
+      Hint: Job Location
+      Value: Houston, TX
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{B5A8267A-94DD-4EDB-A526-48C8D84F7477}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Megan
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\varalakshmi.md@horizontal.com
+    - ID: "bba7d4dd-7d1e-428e-b80d-055170466dc3"
+      Hint: country
+      Value: United States
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "HR Director, Process and Flow Technologies | Location: Houston, TX | Started with NOV: 2011"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190725T161443Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{09E3B6A2-55FC-43BA-B0FC-ADED0C2996E6}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230725T094614Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{09E3B6A2-55FC-43BA-B0FC-ADED0C2996E6}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />

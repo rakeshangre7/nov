@@ -1,0 +1,1973 @@
+﻿---
+ID: "cf7c7f64-986b-4e8e-9588-e8dc9d83a2d1"
+Parent: "ee57e866-1947-4382-8672-2b304e437349"
+Template: "d845df6c-dbff-4280-acdd-cc97d29844a8"
+Path: /sitecore/content/nov/nov/Home/Careers/Our Employees/Fons
+SharedFields:
+- ID: "66afdd9e-0c87-4ef2-9ef2-405f3b88a047"
+  Hint: Hide From Search
+  Value: 1
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1D9F7519-1A07-4B02-9D49-1D933DACE3F8}">
+              <p:d />
+            </r>
+            <r
+              uid="{4F65FE46-394E-4709-82FB-33A2597B5F37}"
+              p:before="*"
+              s:ds="{733331A7-7110-47B6-94C4-7AD83D2E3725}"
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:ph="/main/hero-slide-{4BB25428-E6C6-4301-AAFF-F88D64F59B05}-0" />
+            <r
+              uid="{41CE8FDC-7D70-4B28-AEA7-1C7C942A2D6C}"
+              p:after="r[@uid='{4F65FE46-394E-4709-82FB-33A2597B5F37}']"
+              s:ds="{DC5AF5F8-EF82-48BC-8559-8009D85C328C}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{5D81D5B0-3E81-4EEE-9F95-974FCF5137C0}"
+              p:after="r[@uid='{41CE8FDC-7D70-4B28-AEA7-1C7C942A2D6C}']"
+              s:ds="{D1AA0F7B-7C34-40D8-BEFB-BE8D42D2FF7A}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-right/image-block-splitter-960x540-top" />
+            <r
+              uid="{0E71BAC5-FFF7-4903-893A-DFFE3650916E}"
+              p:after="r[@uid='{5D81D5B0-3E81-4EEE-9F95-974FCF5137C0}']"
+              s:ds="{F5419992-C9A5-4F33-98D8-645BC172748F}"
+              s:id="{EA2AC21A-A652-4FD4-9F5D-4F9EB4322B26}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-left" />
+            <r
+              uid="{733AB23A-4DD1-4D94-9BAA-6CF17650EA55}"
+              p:after="r[@uid='{0E71BAC5-FFF7-4903-893A-DFFE3650916E}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main" />
+            <r
+              uid="{D84A6105-03E6-4F70-A44B-E027E4CD4249}"
+              p:after="r[@uid='{733AB23A-4DD1-4D94-9BAA-6CF17650EA55}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-right" />
+            <r
+              uid="{EB0C67D7-CBAE-4EE7-B412-9964BD8F0F4C}">
+              <p:d />
+            </r>
+            <r
+              uid="{53ACC004-BCE1-4C03-82DD-4BADD9637005}">
+              <p:d />
+            </r>
+            <r
+              uid="{FF24F78C-1E13-4C62-8615-08CCB61E123D}">
+              <p:d />
+            </r>
+            <r
+              uid="{CBB1341C-3A61-4C5F-9880-5079456425CC}">
+              <p:d />
+            </r>
+            <r
+              uid="{60D19D74-4E08-4244-A106-160C07761BB9}">
+              <p:d />
+            </r>
+            <r
+              uid="{A0D2F9E5-7396-4BF1-94EC-C6EBE9ED38C1}"
+              p:after="r[@uid='{21C7C9D9-C4AD-4A1E-8F55-B927F1A450B6}']"
+              s:ds="{EA23A369-44CA-45DA-8058-5315B521D109}"
+              s:id="{2002D52F-38B0-48F3-8256-F67F34126723}"
+              s:ph="main" />
+            <r
+              uid="{F6FD27AF-946D-4D44-A498-7FD08EB070D7}"
+              p:after="r[@uid='{A0D2F9E5-7396-4BF1-94EC-C6EBE9ED38C1}']"
+              s:ds="{2A294E46-4255-488A-9B32-3894D2993137}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{4FB7C62F-7832-4B69-8534-15CFDA41B258}"
+              p:after="r[@uid='{F6FD27AF-946D-4D44-A498-7FD08EB070D7}']"
+              s:ds="{9B9B0C33-DB04-4811-92FB-AB21F51893F1}"
+              s:id="{2E6C5F1E-BC4A-4FBE-BC72-FBCB237F8DDC}"
+              s:ph="main" />
+            <r
+              uid="{1B436BC1-F2C1-4100-8B2E-D3850309C127}"
+              p:after="r[@uid='{4FB7C62F-7832-4B69-8534-15CFDA41B258}']"
+              s:ds="{19A90D31-7B1D-4E11-83E6-0BB0476BE148}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{54EEE602-9A1D-47A3-9CAE-53E8FB19F149}"
+              p:after="*[1=2]"
+              s:id="{31CEB9C9-A9C8-43EA-9093-A6CDD02D7F90}"
+              s:ph="main" />
+            <r
+              uid="{3205AF76-5295-41B7-AEE1-050025A6783B}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Fons
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: |
+        <p>Senior Expert Engineer</p>
+        <p>Location: Schiedam, The Netherlands</p>
+        <p>Started with NOV: 2006</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Fons
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190626T130120Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Fons
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Fons
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "552d2f72-38dc-4292-a4d4-c25d7659a547"
+      Hint: Experience
+      Value: 13 years
+    - ID: "59d8c695-4c77-4e28-aca2-18e95ced59be"
+      Hint: Job Function
+      Value: Engineer
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\melissapastrano
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Fons
+    - ID: "81beeffb-e4e6-44ad-aa32-b3380b8d3fcd"
+      Hint: city
+      Value: Schiedam
+    - ID: "8481aefe-5414-437b-bf8b-6d95d2dc9fc8"
+      Hint: Job Title
+      Value: Senior Expert Engineer
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "138a9788-f30b-44b4-a527-e951d9612dc1"
+    - ID: "8d7bd282-7922-440b-bf50-8260e886c806"
+      Hint: Job Location
+      Value: Schiedam, The Netherlands
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{B5A8267A-94DD-4EDB-A526-48C8D84F7477}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Fons
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\melissapastrano
+    - ID: "bba7d4dd-7d1e-428e-b80d-055170466dc3"
+      Hint: country
+      Value: The Netherlands
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "Location: Schiedam, The Netherlands - Started with NOV: 2006"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190626T130120Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{66183457-565E-47DD-94C7-81A67CBF93B3}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190626T130650Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{66183457-565E-47DD-94C7-81A67CBF93B3}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1D9F7519-1A07-4B02-9D49-1D933DACE3F8}">
+              <p:d />
+            </r>
+            <r
+              uid="{4F65FE46-394E-4709-82FB-33A2597B5F37}"
+              p:before="*"
+              s:ds="{733331A7-7110-47B6-94C4-7AD83D2E3725}"
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:ph="/main/hero-slide-{4BB25428-E6C6-4301-AAFF-F88D64F59B05}-0" />
+            <r
+              uid="{41CE8FDC-7D70-4B28-AEA7-1C7C942A2D6C}"
+              p:after="r[@uid='{4F65FE46-394E-4709-82FB-33A2597B5F37}']"
+              s:ds="{DC5AF5F8-EF82-48BC-8559-8009D85C328C}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{5D81D5B0-3E81-4EEE-9F95-974FCF5137C0}"
+              p:after="r[@uid='{41CE8FDC-7D70-4B28-AEA7-1C7C942A2D6C}']"
+              s:ds="{D1AA0F7B-7C34-40D8-BEFB-BE8D42D2FF7A}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-right/image-block-splitter-960x540-top" />
+            <r
+              uid="{0E71BAC5-FFF7-4903-893A-DFFE3650916E}"
+              p:after="r[@uid='{5D81D5B0-3E81-4EEE-9F95-974FCF5137C0}']"
+              s:ds="{F5419992-C9A5-4F33-98D8-645BC172748F}"
+              s:id="{EA2AC21A-A652-4FD4-9F5D-4F9EB4322B26}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-left" />
+            <r
+              uid="{733AB23A-4DD1-4D94-9BAA-6CF17650EA55}"
+              p:after="r[@uid='{0E71BAC5-FFF7-4903-893A-DFFE3650916E}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main" />
+            <r
+              uid="{D84A6105-03E6-4F70-A44B-E027E4CD4249}"
+              p:after="r[@uid='{733AB23A-4DD1-4D94-9BAA-6CF17650EA55}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-right" />
+            <r
+              uid="{EB0C67D7-CBAE-4EE7-B412-9964BD8F0F4C}">
+              <p:d />
+            </r>
+            <r
+              uid="{53ACC004-BCE1-4C03-82DD-4BADD9637005}">
+              <p:d />
+            </r>
+            <r
+              uid="{FF24F78C-1E13-4C62-8615-08CCB61E123D}">
+              <p:d />
+            </r>
+            <r
+              uid="{CBB1341C-3A61-4C5F-9880-5079456425CC}">
+              <p:d />
+            </r>
+            <r
+              uid="{60D19D74-4E08-4244-A106-160C07761BB9}">
+              <p:d />
+            </r>
+            <r
+              uid="{A0D2F9E5-7396-4BF1-94EC-C6EBE9ED38C1}"
+              p:after="r[@uid='{21C7C9D9-C4AD-4A1E-8F55-B927F1A450B6}']"
+              s:ds="{EA23A369-44CA-45DA-8058-5315B521D109}"
+              s:id="{2002D52F-38B0-48F3-8256-F67F34126723}"
+              s:ph="main" />
+            <r
+              uid="{F6FD27AF-946D-4D44-A498-7FD08EB070D7}"
+              p:after="r[@uid='{A0D2F9E5-7396-4BF1-94EC-C6EBE9ED38C1}']"
+              s:ds="{2A294E46-4255-488A-9B32-3894D2993137}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{4FB7C62F-7832-4B69-8534-15CFDA41B258}"
+              p:after="r[@uid='{F6FD27AF-946D-4D44-A498-7FD08EB070D7}']"
+              s:ds="{9B9B0C33-DB04-4811-92FB-AB21F51893F1}"
+              s:id="{2E6C5F1E-BC4A-4FBE-BC72-FBCB237F8DDC}"
+              s:ph="main" />
+            <r
+              uid="{1B436BC1-F2C1-4100-8B2E-D3850309C127}"
+              p:after="r[@uid='{4FB7C62F-7832-4B69-8534-15CFDA41B258}']"
+              s:ds="{19A90D31-7B1D-4E11-83E6-0BB0476BE148}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{54EEE602-9A1D-47A3-9CAE-53E8FB19F149}"
+              p:after="*[1=2]"
+              s:id="{31CEB9C9-A9C8-43EA-9093-A6CDD02D7F90}"
+              s:ph="main" />
+            <r
+              uid="{3205AF76-5295-41B7-AEE1-050025A6783B}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Fons
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: |
+        <p>Senior Expert Engineer</p>
+        <p>Location: Schiedam, The Netherlands</p>
+        <p>Started with NOV: 2006</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Fons
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190626T131157Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Fons
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Fons
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "552d2f72-38dc-4292-a4d4-c25d7659a547"
+      Hint: Experience
+      Value: 13 years
+    - ID: "59d8c695-4c77-4e28-aca2-18e95ced59be"
+      Hint: Job Function
+      Value: Engineer
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\melissapastrano
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Fons
+    - ID: "81beeffb-e4e6-44ad-aa32-b3380b8d3fcd"
+      Hint: city
+      Value: Schiedam
+    - ID: "8481aefe-5414-437b-bf8b-6d95d2dc9fc8"
+      Hint: Job Title
+      Value: Senior Expert Engineer
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0cf549c8-b791-4049-94b0-b56b5df7ddd2"
+    - ID: "8d7bd282-7922-440b-bf50-8260e886c806"
+      Hint: Job Location
+      Value: Schiedam, The Netherlands
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{B5A8267A-94DD-4EDB-A526-48C8D84F7477}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Fons
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\melissapastrano
+    - ID: "bba7d4dd-7d1e-428e-b80d-055170466dc3"
+      Hint: country
+      Value: The Netherlands
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "Location: Schiedam, The Netherlands - Started with NOV: 2006"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190626T131157Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{66183457-565E-47DD-94C7-81A67CBF93B3}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190626T131937Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{66183457-565E-47DD-94C7-81A67CBF93B3}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1D9F7519-1A07-4B02-9D49-1D933DACE3F8}">
+              <p:d />
+            </r>
+            <r
+              uid="{4F65FE46-394E-4709-82FB-33A2597B5F37}"
+              p:before="*"
+              s:ds="{733331A7-7110-47B6-94C4-7AD83D2E3725}"
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:ph="/main/hero-slide-{4BB25428-E6C6-4301-AAFF-F88D64F59B05}-0" />
+            <r
+              uid="{41CE8FDC-7D70-4B28-AEA7-1C7C942A2D6C}"
+              p:after="r[@uid='{4F65FE46-394E-4709-82FB-33A2597B5F37}']"
+              s:ds="{DC5AF5F8-EF82-48BC-8559-8009D85C328C}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{5D81D5B0-3E81-4EEE-9F95-974FCF5137C0}"
+              p:after="r[@uid='{41CE8FDC-7D70-4B28-AEA7-1C7C942A2D6C}']"
+              s:ds="{D1AA0F7B-7C34-40D8-BEFB-BE8D42D2FF7A}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-right/image-block-splitter-960x540-top" />
+            <r
+              uid="{0E71BAC5-FFF7-4903-893A-DFFE3650916E}"
+              p:after="r[@uid='{5D81D5B0-3E81-4EEE-9F95-974FCF5137C0}']"
+              s:ds="{F5419992-C9A5-4F33-98D8-645BC172748F}"
+              s:id="{EA2AC21A-A652-4FD4-9F5D-4F9EB4322B26}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-left" />
+            <r
+              uid="{733AB23A-4DD1-4D94-9BAA-6CF17650EA55}"
+              p:after="r[@uid='{0E71BAC5-FFF7-4903-893A-DFFE3650916E}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main" />
+            <r
+              uid="{D84A6105-03E6-4F70-A44B-E027E4CD4249}"
+              p:after="r[@uid='{733AB23A-4DD1-4D94-9BAA-6CF17650EA55}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-right" />
+            <r
+              uid="{EB0C67D7-CBAE-4EE7-B412-9964BD8F0F4C}">
+              <p:d />
+            </r>
+            <r
+              uid="{53ACC004-BCE1-4C03-82DD-4BADD9637005}">
+              <p:d />
+            </r>
+            <r
+              uid="{FF24F78C-1E13-4C62-8615-08CCB61E123D}">
+              <p:d />
+            </r>
+            <r
+              uid="{CBB1341C-3A61-4C5F-9880-5079456425CC}">
+              <p:d />
+            </r>
+            <r
+              uid="{60D19D74-4E08-4244-A106-160C07761BB9}">
+              <p:d />
+            </r>
+            <r
+              uid="{A0D2F9E5-7396-4BF1-94EC-C6EBE9ED38C1}"
+              p:after="r[@uid='{21C7C9D9-C4AD-4A1E-8F55-B927F1A450B6}']"
+              s:ds="{EA23A369-44CA-45DA-8058-5315B521D109}"
+              s:id="{2002D52F-38B0-48F3-8256-F67F34126723}"
+              s:ph="main" />
+            <r
+              uid="{F6FD27AF-946D-4D44-A498-7FD08EB070D7}"
+              p:after="r[@uid='{A0D2F9E5-7396-4BF1-94EC-C6EBE9ED38C1}']"
+              s:ds="{2A294E46-4255-488A-9B32-3894D2993137}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{4FB7C62F-7832-4B69-8534-15CFDA41B258}"
+              p:after="r[@uid='{F6FD27AF-946D-4D44-A498-7FD08EB070D7}']"
+              s:ds="{9B9B0C33-DB04-4811-92FB-AB21F51893F1}"
+              s:id="{2E6C5F1E-BC4A-4FBE-BC72-FBCB237F8DDC}"
+              s:ph="main" />
+            <r
+              uid="{1B436BC1-F2C1-4100-8B2E-D3850309C127}"
+              p:after="r[@uid='{4FB7C62F-7832-4B69-8534-15CFDA41B258}']"
+              s:ds="{19A90D31-7B1D-4E11-83E6-0BB0476BE148}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{54EEE602-9A1D-47A3-9CAE-53E8FB19F149}"
+              p:after="*[1=2]"
+              s:id="{31CEB9C9-A9C8-43EA-9093-A6CDD02D7F90}"
+              s:ph="main" />
+            <r
+              uid="{3205AF76-5295-41B7-AEE1-050025A6783B}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Fons
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: |
+        <p>Senior Expert Engineer</p>
+        <p>Location: Schiedam, The Netherlands</p>
+        <p>Started with NOV: 2006</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Fons
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190626T132032Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Fons
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Fons
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "552d2f72-38dc-4292-a4d4-c25d7659a547"
+      Hint: Experience
+      Value: 13 years
+    - ID: "59d8c695-4c77-4e28-aca2-18e95ced59be"
+      Hint: Job Function
+      Value: Engineer
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\melissapastrano
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Fons
+    - ID: "81beeffb-e4e6-44ad-aa32-b3380b8d3fcd"
+      Hint: city
+      Value: Schiedam
+    - ID: "8481aefe-5414-437b-bf8b-6d95d2dc9fc8"
+      Hint: Job Title
+      Value: Senior Expert Engineer
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3fab77a3-34d5-477a-a221-daed84be6977"
+    - ID: "8d7bd282-7922-440b-bf50-8260e886c806"
+      Hint: Job Location
+      Value: Schiedam, The Netherlands
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{B5A8267A-94DD-4EDB-A526-48C8D84F7477}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Fons
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\melissapastrano
+    - ID: "bba7d4dd-7d1e-428e-b80d-055170466dc3"
+      Hint: country
+      Value: The Netherlands
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "Location: Schiedam, The Netherlands - Started with NOV: 2006"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190626T132032Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{66183457-565E-47DD-94C7-81A67CBF93B3}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190626T132309Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{66183457-565E-47DD-94C7-81A67CBF93B3}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 4
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1D9F7519-1A07-4B02-9D49-1D933DACE3F8}">
+              <p:d />
+            </r>
+            <r
+              uid="{4F65FE46-394E-4709-82FB-33A2597B5F37}"
+              p:before="*"
+              s:ds="{733331A7-7110-47B6-94C4-7AD83D2E3725}"
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:ph="/main/hero-slide-{4BB25428-E6C6-4301-AAFF-F88D64F59B05}-0" />
+            <r
+              uid="{41CE8FDC-7D70-4B28-AEA7-1C7C942A2D6C}"
+              p:after="r[@uid='{4F65FE46-394E-4709-82FB-33A2597B5F37}']"
+              s:ds="{DC5AF5F8-EF82-48BC-8559-8009D85C328C}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{5D81D5B0-3E81-4EEE-9F95-974FCF5137C0}"
+              p:after="r[@uid='{41CE8FDC-7D70-4B28-AEA7-1C7C942A2D6C}']"
+              s:ds="{D1AA0F7B-7C34-40D8-BEFB-BE8D42D2FF7A}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-right/image-block-splitter-960x540-top" />
+            <r
+              uid="{0E71BAC5-FFF7-4903-893A-DFFE3650916E}"
+              p:after="r[@uid='{5D81D5B0-3E81-4EEE-9F95-974FCF5137C0}']"
+              s:ds="{F5419992-C9A5-4F33-98D8-645BC172748F}"
+              s:id="{EA2AC21A-A652-4FD4-9F5D-4F9EB4322B26}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-left" />
+            <r
+              uid="{733AB23A-4DD1-4D94-9BAA-6CF17650EA55}"
+              p:after="r[@uid='{0E71BAC5-FFF7-4903-893A-DFFE3650916E}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main" />
+            <r
+              uid="{D84A6105-03E6-4F70-A44B-E027E4CD4249}"
+              p:after="r[@uid='{733AB23A-4DD1-4D94-9BAA-6CF17650EA55}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-right" />
+            <r
+              uid="{EB0C67D7-CBAE-4EE7-B412-9964BD8F0F4C}">
+              <p:d />
+            </r>
+            <r
+              uid="{53ACC004-BCE1-4C03-82DD-4BADD9637005}">
+              <p:d />
+            </r>
+            <r
+              uid="{FF24F78C-1E13-4C62-8615-08CCB61E123D}">
+              <p:d />
+            </r>
+            <r
+              uid="{CBB1341C-3A61-4C5F-9880-5079456425CC}">
+              <p:d />
+            </r>
+            <r
+              uid="{60D19D74-4E08-4244-A106-160C07761BB9}">
+              <p:d />
+            </r>
+            <r
+              uid="{A0D2F9E5-7396-4BF1-94EC-C6EBE9ED38C1}"
+              p:after="r[@uid='{21C7C9D9-C4AD-4A1E-8F55-B927F1A450B6}']"
+              s:ds="{EA23A369-44CA-45DA-8058-5315B521D109}"
+              s:id="{2002D52F-38B0-48F3-8256-F67F34126723}"
+              s:ph="main" />
+            <r
+              uid="{F6FD27AF-946D-4D44-A498-7FD08EB070D7}"
+              p:after="r[@uid='{A0D2F9E5-7396-4BF1-94EC-C6EBE9ED38C1}']"
+              s:ds="{2A294E46-4255-488A-9B32-3894D2993137}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{4FB7C62F-7832-4B69-8534-15CFDA41B258}"
+              p:after="r[@uid='{F6FD27AF-946D-4D44-A498-7FD08EB070D7}']"
+              s:ds="{9B9B0C33-DB04-4811-92FB-AB21F51893F1}"
+              s:id="{2E6C5F1E-BC4A-4FBE-BC72-FBCB237F8DDC}"
+              s:ph="main" />
+            <r
+              uid="{1B436BC1-F2C1-4100-8B2E-D3850309C127}"
+              p:after="r[@uid='{4FB7C62F-7832-4B69-8534-15CFDA41B258}']"
+              s:ds="{19A90D31-7B1D-4E11-83E6-0BB0476BE148}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{54EEE602-9A1D-47A3-9CAE-53E8FB19F149}"
+              p:after="*[1=2]"
+              s:id="{31CEB9C9-A9C8-43EA-9093-A6CDD02D7F90}"
+              s:ph="main" />
+            <r
+              uid="{3205AF76-5295-41B7-AEE1-050025A6783B}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Fons
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: |
+        <p>Senior Expert Engineer</p>
+        <p>Location: Schiedam, The Netherlands</p>
+        <p>Started with NOV: 2006</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Fons
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190701T181532Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Fons
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Fons
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "552d2f72-38dc-4292-a4d4-c25d7659a547"
+      Hint: Experience
+      Value: 13 years
+    - ID: "59d8c695-4c77-4e28-aca2-18e95ced59be"
+      Hint: Job Function
+      Value: Engineer
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Fons
+    - ID: "81beeffb-e4e6-44ad-aa32-b3380b8d3fcd"
+      Hint: city
+      Value: Schiedam
+    - ID: "8481aefe-5414-437b-bf8b-6d95d2dc9fc8"
+      Hint: Job Title
+      Value: Senior Expert Engineer
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9e9ce08a-f370-4d9c-aef3-fa766ff2f5de"
+    - ID: "8d7bd282-7922-440b-bf50-8260e886c806"
+      Hint: Job Location
+      Value: Schiedam, The Netherlands
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{B5A8267A-94DD-4EDB-A526-48C8D84F7477}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Fons
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "bba7d4dd-7d1e-428e-b80d-055170466dc3"
+      Hint: country
+      Value: The Netherlands
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "Location: Schiedam, The Netherlands - Started with NOV: 2006"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190701T181532Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{66183457-565E-47DD-94C7-81A67CBF93B3}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190701T181553Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{66183457-565E-47DD-94C7-81A67CBF93B3}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 5
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1D9F7519-1A07-4B02-9D49-1D933DACE3F8}">
+              <p:d />
+            </r>
+            <r
+              uid="{4F65FE46-394E-4709-82FB-33A2597B5F37}"
+              p:before="*"
+              s:ds="{733331A7-7110-47B6-94C4-7AD83D2E3725}"
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:par="Add Gradient=1&amp;Text Color=white"
+              s:ph="/main/hero-slide-{4BB25428-E6C6-4301-AAFF-F88D64F59B05}-0" />
+            <r
+              uid="{41CE8FDC-7D70-4B28-AEA7-1C7C942A2D6C}"
+              p:after="r[@uid='{4F65FE46-394E-4709-82FB-33A2597B5F37}']"
+              s:ds="{DC5AF5F8-EF82-48BC-8559-8009D85C328C}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{5D81D5B0-3E81-4EEE-9F95-974FCF5137C0}"
+              p:after="r[@uid='{41CE8FDC-7D70-4B28-AEA7-1C7C942A2D6C}']"
+              s:ds="{D1AA0F7B-7C34-40D8-BEFB-BE8D42D2FF7A}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-right/image-block-splitter-960x540-top" />
+            <r
+              uid="{0E71BAC5-FFF7-4903-893A-DFFE3650916E}"
+              p:after="r[@uid='{5D81D5B0-3E81-4EEE-9F95-974FCF5137C0}']"
+              s:ds="{F5419992-C9A5-4F33-98D8-645BC172748F}"
+              s:id="{EA2AC21A-A652-4FD4-9F5D-4F9EB4322B26}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-left" />
+            <r
+              uid="{733AB23A-4DD1-4D94-9BAA-6CF17650EA55}"
+              p:after="r[@uid='{0E71BAC5-FFF7-4903-893A-DFFE3650916E}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main" />
+            <r
+              uid="{D84A6105-03E6-4F70-A44B-E027E4CD4249}"
+              p:after="r[@uid='{733AB23A-4DD1-4D94-9BAA-6CF17650EA55}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-right" />
+            <r
+              uid="{EB0C67D7-CBAE-4EE7-B412-9964BD8F0F4C}">
+              <p:d />
+            </r>
+            <r
+              uid="{53ACC004-BCE1-4C03-82DD-4BADD9637005}">
+              <p:d />
+            </r>
+            <r
+              uid="{FF24F78C-1E13-4C62-8615-08CCB61E123D}">
+              <p:d />
+            </r>
+            <r
+              uid="{CBB1341C-3A61-4C5F-9880-5079456425CC}">
+              <p:d />
+            </r>
+            <r
+              uid="{60D19D74-4E08-4244-A106-160C07761BB9}">
+              <p:d />
+            </r>
+            <r
+              uid="{A0D2F9E5-7396-4BF1-94EC-C6EBE9ED38C1}"
+              p:after="r[@uid='{21C7C9D9-C4AD-4A1E-8F55-B927F1A450B6}']"
+              s:ds="{EA23A369-44CA-45DA-8058-5315B521D109}"
+              s:id="{2002D52F-38B0-48F3-8256-F67F34126723}"
+              s:ph="main" />
+            <r
+              uid="{F6FD27AF-946D-4D44-A498-7FD08EB070D7}"
+              p:after="r[@uid='{A0D2F9E5-7396-4BF1-94EC-C6EBE9ED38C1}']"
+              s:ds="{2A294E46-4255-488A-9B32-3894D2993137}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{4FB7C62F-7832-4B69-8534-15CFDA41B258}"
+              p:after="r[@uid='{F6FD27AF-946D-4D44-A498-7FD08EB070D7}']"
+              s:ds="{9B9B0C33-DB04-4811-92FB-AB21F51893F1}"
+              s:id="{2E6C5F1E-BC4A-4FBE-BC72-FBCB237F8DDC}"
+              s:ph="main" />
+            <r
+              uid="{1B436BC1-F2C1-4100-8B2E-D3850309C127}"
+              p:after="r[@uid='{4FB7C62F-7832-4B69-8534-15CFDA41B258}']"
+              s:ds="{19A90D31-7B1D-4E11-83E6-0BB0476BE148}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{54EEE602-9A1D-47A3-9CAE-53E8FB19F149}"
+              p:after="*[1=2]"
+              s:id="{31CEB9C9-A9C8-43EA-9093-A6CDD02D7F90}"
+              s:ph="main" />
+            <r
+              uid="{3205AF76-5295-41B7-AEE1-050025A6783B}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Fons
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: |
+        <p>Senior Expert Engineer</p>
+        <p>Location: Schiedam, The Netherlands</p>
+        <p>Started with NOV: 2006</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Fons
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190715T161221Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Fons
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Fons
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "552d2f72-38dc-4292-a4d4-c25d7659a547"
+      Hint: Experience
+      Value: 13 years
+    - ID: "59d8c695-4c77-4e28-aca2-18e95ced59be"
+      Hint: Job Function
+      Value: Engineer
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Fons
+    - ID: "81beeffb-e4e6-44ad-aa32-b3380b8d3fcd"
+      Hint: city
+      Value: Schiedam
+    - ID: "8481aefe-5414-437b-bf8b-6d95d2dc9fc8"
+      Hint: Job Title
+      Value: Senior Expert Engineer
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "85ef5544-aabf-4383-9409-e84a8d861409"
+    - ID: "8d7bd282-7922-440b-bf50-8260e886c806"
+      Hint: Job Location
+      Value: Schiedam, The Netherlands
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{B5A8267A-94DD-4EDB-A526-48C8D84F7477}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Fons
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "bba7d4dd-7d1e-428e-b80d-055170466dc3"
+      Hint: country
+      Value: The Netherlands
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "Location: Schiedam, The Netherlands - Started with NOV: 2006"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190715T161221Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{66183457-565E-47DD-94C7-81A67CBF93B3}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190715T161302Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{66183457-565E-47DD-94C7-81A67CBF93B3}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 6
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1D9F7519-1A07-4B02-9D49-1D933DACE3F8}">
+              <p:d />
+            </r>
+            <r
+              uid="{4F65FE46-394E-4709-82FB-33A2597B5F37}"
+              p:before="*"
+              s:ds="{733331A7-7110-47B6-94C4-7AD83D2E3725}"
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:par="Add Gradient=1&amp;Text Color=white"
+              s:ph="/main/hero-slide-{4BB25428-E6C6-4301-AAFF-F88D64F59B05}-0" />
+            <r
+              uid="{41CE8FDC-7D70-4B28-AEA7-1C7C942A2D6C}"
+              p:after="r[@uid='{4F65FE46-394E-4709-82FB-33A2597B5F37}']"
+              s:ds="{DC5AF5F8-EF82-48BC-8559-8009D85C328C}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{5D81D5B0-3E81-4EEE-9F95-974FCF5137C0}"
+              p:after="r[@uid='{41CE8FDC-7D70-4B28-AEA7-1C7C942A2D6C}']"
+              s:ds="{D1AA0F7B-7C34-40D8-BEFB-BE8D42D2FF7A}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-right/image-block-splitter-960x540-top" />
+            <r
+              uid="{0E71BAC5-FFF7-4903-893A-DFFE3650916E}"
+              p:after="r[@uid='{5D81D5B0-3E81-4EEE-9F95-974FCF5137C0}']"
+              s:ds="{F5419992-C9A5-4F33-98D8-645BC172748F}"
+              s:id="{EA2AC21A-A652-4FD4-9F5D-4F9EB4322B26}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-left" />
+            <r
+              uid="{733AB23A-4DD1-4D94-9BAA-6CF17650EA55}"
+              p:after="r[@uid='{0E71BAC5-FFF7-4903-893A-DFFE3650916E}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main" />
+            <r
+              uid="{D84A6105-03E6-4F70-A44B-E027E4CD4249}"
+              p:after="r[@uid='{733AB23A-4DD1-4D94-9BAA-6CF17650EA55}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-right" />
+            <r
+              uid="{4BB25428-E6C6-4301-AAFF-F88D64F59B05}"
+              s:ds=""
+              s:par="Enable Autoplay=true&amp;Add Gradient=1&amp;Text Color=white&amp;Wait Time=5000" />
+            <r
+              uid="{EB0C67D7-CBAE-4EE7-B412-9964BD8F0F4C}">
+              <p:d />
+            </r>
+            <r
+              uid="{53ACC004-BCE1-4C03-82DD-4BADD9637005}">
+              <p:d />
+            </r>
+            <r
+              uid="{FF24F78C-1E13-4C62-8615-08CCB61E123D}">
+              <p:d />
+            </r>
+            <r
+              uid="{CBB1341C-3A61-4C5F-9880-5079456425CC}">
+              <p:d />
+            </r>
+            <r
+              uid="{60D19D74-4E08-4244-A106-160C07761BB9}">
+              <p:d />
+            </r>
+            <r
+              uid="{A0D2F9E5-7396-4BF1-94EC-C6EBE9ED38C1}"
+              p:after="r[@uid='{21C7C9D9-C4AD-4A1E-8F55-B927F1A450B6}']"
+              s:ds="{EA23A369-44CA-45DA-8058-5315B521D109}"
+              s:id="{2002D52F-38B0-48F3-8256-F67F34126723}"
+              s:ph="main" />
+            <r
+              uid="{F6FD27AF-946D-4D44-A498-7FD08EB070D7}"
+              p:after="r[@uid='{A0D2F9E5-7396-4BF1-94EC-C6EBE9ED38C1}']"
+              s:ds="{2A294E46-4255-488A-9B32-3894D2993137}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{4FB7C62F-7832-4B69-8534-15CFDA41B258}"
+              p:after="r[@uid='{F6FD27AF-946D-4D44-A498-7FD08EB070D7}']"
+              s:ds="{9B9B0C33-DB04-4811-92FB-AB21F51893F1}"
+              s:id="{2E6C5F1E-BC4A-4FBE-BC72-FBCB237F8DDC}"
+              s:ph="main" />
+            <r
+              uid="{1B436BC1-F2C1-4100-8B2E-D3850309C127}"
+              p:after="r[@uid='{4FB7C62F-7832-4B69-8534-15CFDA41B258}']"
+              s:ds="{19A90D31-7B1D-4E11-83E6-0BB0476BE148}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{54EEE602-9A1D-47A3-9CAE-53E8FB19F149}"
+              p:after="*[1=2]"
+              s:id="{31CEB9C9-A9C8-43EA-9093-A6CDD02D7F90}"
+              s:ph="main" />
+            <r
+              uid="{3205AF76-5295-41B7-AEE1-050025A6783B}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Fons
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: |
+        <p>Senior Expert Engineer</p>
+        <p>Location: Schiedam, The Netherlands</p>
+        <p>Started with NOV: 2006</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Fons
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190715T161524Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Fons
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Fons
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "552d2f72-38dc-4292-a4d4-c25d7659a547"
+      Hint: Experience
+      Value: 13 years
+    - ID: "59d8c695-4c77-4e28-aca2-18e95ced59be"
+      Hint: Job Function
+      Value: Engineer
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Fons
+    - ID: "81beeffb-e4e6-44ad-aa32-b3380b8d3fcd"
+      Hint: city
+      Value: Schiedam
+    - ID: "8481aefe-5414-437b-bf8b-6d95d2dc9fc8"
+      Hint: Job Title
+      Value: Senior Expert Engineer
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "57b85910-b45a-49be-9387-d8940e996680"
+    - ID: "8d7bd282-7922-440b-bf50-8260e886c806"
+      Hint: Job Location
+      Value: Schiedam, The Netherlands
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{B5A8267A-94DD-4EDB-A526-48C8D84F7477}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Fons
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "bba7d4dd-7d1e-428e-b80d-055170466dc3"
+      Hint: country
+      Value: The Netherlands
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "Location: Schiedam, The Netherlands - Started with NOV: 2006"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190715T161524Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{66183457-565E-47DD-94C7-81A67CBF93B3}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190715T161555Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{66183457-565E-47DD-94C7-81A67CBF93B3}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 7
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1D9F7519-1A07-4B02-9D49-1D933DACE3F8}">
+              <p:d />
+            </r>
+            <r
+              uid="{4F65FE46-394E-4709-82FB-33A2597B5F37}"
+              p:before="*"
+              s:ds="{733331A7-7110-47B6-94C4-7AD83D2E3725}"
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:par="Add Gradient=1&amp;Text Color=white"
+              s:ph="/main/hero-slide-{4BB25428-E6C6-4301-AAFF-F88D64F59B05}-0" />
+            <r
+              uid="{41CE8FDC-7D70-4B28-AEA7-1C7C942A2D6C}"
+              p:after="r[@uid='{4F65FE46-394E-4709-82FB-33A2597B5F37}']"
+              s:ds="{DC5AF5F8-EF82-48BC-8559-8009D85C328C}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{5D81D5B0-3E81-4EEE-9F95-974FCF5137C0}"
+              p:after="r[@uid='{41CE8FDC-7D70-4B28-AEA7-1C7C942A2D6C}']"
+              s:ds="{D1AA0F7B-7C34-40D8-BEFB-BE8D42D2FF7A}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-right/image-block-splitter-960x540-top" />
+            <r
+              uid="{0E71BAC5-FFF7-4903-893A-DFFE3650916E}"
+              p:after="r[@uid='{5D81D5B0-3E81-4EEE-9F95-974FCF5137C0}']"
+              s:ds="{F5419992-C9A5-4F33-98D8-645BC172748F}"
+              s:id="{EA2AC21A-A652-4FD4-9F5D-4F9EB4322B26}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-left" />
+            <r
+              uid="{733AB23A-4DD1-4D94-9BAA-6CF17650EA55}"
+              p:after="r[@uid='{0E71BAC5-FFF7-4903-893A-DFFE3650916E}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main" />
+            <r
+              uid="{D84A6105-03E6-4F70-A44B-E027E4CD4249}"
+              p:after="r[@uid='{733AB23A-4DD1-4D94-9BAA-6CF17650EA55}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-right" />
+            <r
+              uid="{4BB25428-E6C6-4301-AAFF-F88D64F59B05}"
+              s:ds=""
+              s:par="Enable Autoplay=true&amp;Add Gradient=1&amp;Text Color=white&amp;Wait Time=5000" />
+            <r
+              uid="{EB0C67D7-CBAE-4EE7-B412-9964BD8F0F4C}">
+              <p:d />
+            </r>
+            <r
+              uid="{53ACC004-BCE1-4C03-82DD-4BADD9637005}">
+              <p:d />
+            </r>
+            <r
+              uid="{FF24F78C-1E13-4C62-8615-08CCB61E123D}">
+              <p:d />
+            </r>
+            <r
+              uid="{CBB1341C-3A61-4C5F-9880-5079456425CC}">
+              <p:d />
+            </r>
+            <r
+              uid="{60D19D74-4E08-4244-A106-160C07761BB9}">
+              <p:d />
+            </r>
+            <r
+              uid="{A0D2F9E5-7396-4BF1-94EC-C6EBE9ED38C1}"
+              p:after="r[@uid='{21C7C9D9-C4AD-4A1E-8F55-B927F1A450B6}']"
+              s:ds="{EA23A369-44CA-45DA-8058-5315B521D109}"
+              s:id="{2002D52F-38B0-48F3-8256-F67F34126723}"
+              s:ph="main" />
+            <r
+              uid="{F6FD27AF-946D-4D44-A498-7FD08EB070D7}"
+              p:after="r[@uid='{A0D2F9E5-7396-4BF1-94EC-C6EBE9ED38C1}']"
+              s:ds="{2A294E46-4255-488A-9B32-3894D2993137}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{4FB7C62F-7832-4B69-8534-15CFDA41B258}"
+              p:after="r[@uid='{F6FD27AF-946D-4D44-A498-7FD08EB070D7}']"
+              s:ds="{9B9B0C33-DB04-4811-92FB-AB21F51893F1}"
+              s:id="{2E6C5F1E-BC4A-4FBE-BC72-FBCB237F8DDC}"
+              s:ph="main" />
+            <r
+              uid="{1B436BC1-F2C1-4100-8B2E-D3850309C127}"
+              p:after="r[@uid='{4FB7C62F-7832-4B69-8534-15CFDA41B258}']"
+              s:ds="{19A90D31-7B1D-4E11-83E6-0BB0476BE148}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{54EEE602-9A1D-47A3-9CAE-53E8FB19F149}"
+              p:after="*[1=2]"
+              s:id="{31CEB9C9-A9C8-43EA-9093-A6CDD02D7F90}"
+              s:ph="main" />
+            <r
+              uid="{3205AF76-5295-41B7-AEE1-050025A6783B}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Fons
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: |
+        <p>Senior Expert Engineer</p>
+        <p>Location: Schiedam, The Netherlands</p>
+        <p>Started with NOV: 2006</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Fons
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190725T161808Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Fons
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Fons
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "552d2f72-38dc-4292-a4d4-c25d7659a547"
+      Hint: Experience
+      Value: 2006
+    - ID: "59d8c695-4c77-4e28-aca2-18e95ced59be"
+      Hint: Job Function
+      Value: Engineer
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Fons
+    - ID: "81beeffb-e4e6-44ad-aa32-b3380b8d3fcd"
+      Hint: city
+      Value: Schiedam
+    - ID: "8481aefe-5414-437b-bf8b-6d95d2dc9fc8"
+      Hint: Job Title
+      Value: Senior Expert Engineer
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dd6a33f1-afba-4608-88ec-3ca490ef52b8"
+    - ID: "8d7bd282-7922-440b-bf50-8260e886c806"
+      Hint: Job Location
+      Value: Schiedam, The Netherlands
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{B5A8267A-94DD-4EDB-A526-48C8D84F7477}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Fons
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "bba7d4dd-7d1e-428e-b80d-055170466dc3"
+      Hint: country
+      Value: The Netherlands
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "Senior Expert Engineer | Location: Schiedam, The Netherlands | Started with NOV: 2006"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190725T161808Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{66183457-565E-47DD-94C7-81A67CBF93B3}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190725T161848Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{66183457-565E-47DD-94C7-81A67CBF93B3}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 8
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1D9F7519-1A07-4B02-9D49-1D933DACE3F8}">
+              <p:d />
+            </r>
+            <r
+              uid="{4F65FE46-394E-4709-82FB-33A2597B5F37}"
+              p:before="*"
+              s:ds=""
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:par="Add Gradient=1&amp;Text Color=white"
+              s:ph="/main/hero-slide-{4BB25428-E6C6-4301-AAFF-F88D64F59B05}-0" />
+            <r
+              uid="{41CE8FDC-7D70-4B28-AEA7-1C7C942A2D6C}"
+              p:after="r[@uid='{4F65FE46-394E-4709-82FB-33A2597B5F37}']"
+              s:ds="{DC5AF5F8-EF82-48BC-8559-8009D85C328C}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{5D81D5B0-3E81-4EEE-9F95-974FCF5137C0}"
+              p:after="r[@uid='{41CE8FDC-7D70-4B28-AEA7-1C7C942A2D6C}']"
+              s:ds="{D1AA0F7B-7C34-40D8-BEFB-BE8D42D2FF7A}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-right/image-block-splitter-960x540-top" />
+            <r
+              uid="{0E71BAC5-FFF7-4903-893A-DFFE3650916E}"
+              p:after="r[@uid='{5D81D5B0-3E81-4EEE-9F95-974FCF5137C0}']"
+              s:ds="{F5419992-C9A5-4F33-98D8-645BC172748F}"
+              s:id="{EA2AC21A-A652-4FD4-9F5D-4F9EB4322B26}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-left" />
+            <r
+              uid="{733AB23A-4DD1-4D94-9BAA-6CF17650EA55}"
+              p:after="r[@uid='{0E71BAC5-FFF7-4903-893A-DFFE3650916E}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main" />
+            <r
+              uid="{D84A6105-03E6-4F70-A44B-E027E4CD4249}"
+              p:after="r[@uid='{733AB23A-4DD1-4D94-9BAA-6CF17650EA55}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-right" />
+            <r
+              uid="{4BB25428-E6C6-4301-AAFF-F88D64F59B05}"
+              s:ds=""
+              s:par="Enable Autoplay=true&amp;Add Gradient=1&amp;Text Color=white&amp;Wait Time=5000" />
+            <r
+              uid="{21C7C9D9-C4AD-4A1E-8F55-B927F1A450B6}"
+              s:par="Enable Small Container=1&amp;Right Align=1" />
+            <r
+              uid="{EB0C67D7-CBAE-4EE7-B412-9964BD8F0F4C}">
+              <p:d />
+            </r>
+            <r
+              uid="{53ACC004-BCE1-4C03-82DD-4BADD9637005}">
+              <p:d />
+            </r>
+            <r
+              uid="{FF24F78C-1E13-4C62-8615-08CCB61E123D}">
+              <p:d />
+            </r>
+            <r
+              uid="{CBB1341C-3A61-4C5F-9880-5079456425CC}">
+              <p:d />
+            </r>
+            <r
+              uid="{60D19D74-4E08-4244-A106-160C07761BB9}">
+              <p:d />
+            </r>
+            <r
+              uid="{A0D2F9E5-7396-4BF1-94EC-C6EBE9ED38C1}"
+              p:after="r[@uid='{21C7C9D9-C4AD-4A1E-8F55-B927F1A450B6}']"
+              s:ds="{EA23A369-44CA-45DA-8058-5315B521D109}"
+              s:id="{2002D52F-38B0-48F3-8256-F67F34126723}"
+              s:ph="main" />
+            <r
+              uid="{F6FD27AF-946D-4D44-A498-7FD08EB070D7}"
+              p:after="r[@uid='{A0D2F9E5-7396-4BF1-94EC-C6EBE9ED38C1}']"
+              s:ds="{2A294E46-4255-488A-9B32-3894D2993137}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{4FB7C62F-7832-4B69-8534-15CFDA41B258}"
+              p:after="r[@uid='{F6FD27AF-946D-4D44-A498-7FD08EB070D7}']"
+              s:ds="{9B9B0C33-DB04-4811-92FB-AB21F51893F1}"
+              s:id="{2E6C5F1E-BC4A-4FBE-BC72-FBCB237F8DDC}"
+              s:ph="main" />
+            <r
+              uid="{1B436BC1-F2C1-4100-8B2E-D3850309C127}"
+              p:after="r[@uid='{4FB7C62F-7832-4B69-8534-15CFDA41B258}']"
+              s:ds="{19A90D31-7B1D-4E11-83E6-0BB0476BE148}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{54EEE602-9A1D-47A3-9CAE-53E8FB19F149}"
+              p:after="*[1=2]"
+              s:id="{31CEB9C9-A9C8-43EA-9093-A6CDD02D7F90}"
+              s:ph="main" />
+            <r
+              uid="{3205AF76-5295-41B7-AEE1-050025A6783B}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Fons
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: |
+        <p>Senior Expert Engineer</p>
+        <p>Location: Schiedam, The Netherlands</p>
+        <p>Started with NOV: 2006</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Fons
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190815T175800Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Fons
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{8B87E652-E3F7-4C54-BDD9-66E1B888FF8B}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Fons
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "552d2f72-38dc-4292-a4d4-c25d7659a547"
+      Hint: Experience
+      Value: 2006
+    - ID: "59d8c695-4c77-4e28-aca2-18e95ced59be"
+      Hint: Job Function
+      Value: Engineer
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Fons
+    - ID: "81beeffb-e4e6-44ad-aa32-b3380b8d3fcd"
+      Hint: city
+      Value: Schiedam
+    - ID: "8481aefe-5414-437b-bf8b-6d95d2dc9fc8"
+      Hint: Job Title
+      Value: Senior Expert Engineer
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1febc493-cc3a-4187-bdc2-b84f1cae49d9"
+    - ID: "8d7bd282-7922-440b-bf50-8260e886c806"
+      Hint: Job Location
+      Value: Schiedam, The Netherlands
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{B5A8267A-94DD-4EDB-A526-48C8D84F7477}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Fons
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "bba7d4dd-7d1e-428e-b80d-055170466dc3"
+      Hint: country
+      Value: The Netherlands
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "Senior Expert Engineer | Location: Schiedam, The Netherlands | Started with NOV: 2006"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190815T175800Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{66183457-565E-47DD-94C7-81A67CBF93B3}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190923T164803Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{66183457-565E-47DD-94C7-81A67CBF93B3}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 9
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1D9F7519-1A07-4B02-9D49-1D933DACE3F8}">
+              <p:d />
+            </r>
+            <r
+              uid="{4F65FE46-394E-4709-82FB-33A2597B5F37}"
+              p:before="*"
+              s:ds=""
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:par="Add Gradient=1&amp;Text Color=white"
+              s:ph="/main/hero-slide-{4BB25428-E6C6-4301-AAFF-F88D64F59B05}-0" />
+            <r
+              uid="{41CE8FDC-7D70-4B28-AEA7-1C7C942A2D6C}"
+              p:after="r[@uid='{4F65FE46-394E-4709-82FB-33A2597B5F37}']"
+              s:ds="{DC5AF5F8-EF82-48BC-8559-8009D85C328C}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{5D81D5B0-3E81-4EEE-9F95-974FCF5137C0}"
+              p:after="r[@uid='{41CE8FDC-7D70-4B28-AEA7-1C7C942A2D6C}']"
+              s:ds="{D1AA0F7B-7C34-40D8-BEFB-BE8D42D2FF7A}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-right/image-block-splitter-960x540-top" />
+            <r
+              uid="{0E71BAC5-FFF7-4903-893A-DFFE3650916E}"
+              p:after="r[@uid='{5D81D5B0-3E81-4EEE-9F95-974FCF5137C0}']"
+              s:ds="{F5419992-C9A5-4F33-98D8-645BC172748F}"
+              s:id="{EA2AC21A-A652-4FD4-9F5D-4F9EB4322B26}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-left" />
+            <r
+              uid="{733AB23A-4DD1-4D94-9BAA-6CF17650EA55}"
+              p:after="r[@uid='{0E71BAC5-FFF7-4903-893A-DFFE3650916E}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main" />
+            <r
+              uid="{D84A6105-03E6-4F70-A44B-E027E4CD4249}"
+              p:after="r[@uid='{733AB23A-4DD1-4D94-9BAA-6CF17650EA55}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-right" />
+            <r
+              uid="{4BB25428-E6C6-4301-AAFF-F88D64F59B05}"
+              s:ds=""
+              s:par="Enable Autoplay=true&amp;Add Gradient=1&amp;Text Color=white&amp;Wait Time=5000" />
+            <r
+              uid="{21C7C9D9-C4AD-4A1E-8F55-B927F1A450B6}"
+              s:par="Enable Small Container=1&amp;Right Align=1" />
+            <r
+              uid="{EB0C67D7-CBAE-4EE7-B412-9964BD8F0F4C}">
+              <p:d />
+            </r>
+            <r
+              uid="{53ACC004-BCE1-4C03-82DD-4BADD9637005}">
+              <p:d />
+            </r>
+            <r
+              uid="{FF24F78C-1E13-4C62-8615-08CCB61E123D}">
+              <p:d />
+            </r>
+            <r
+              uid="{CBB1341C-3A61-4C5F-9880-5079456425CC}">
+              <p:d />
+            </r>
+            <r
+              uid="{60D19D74-4E08-4244-A106-160C07761BB9}">
+              <p:d />
+            </r>
+            <r
+              uid="{A0D2F9E5-7396-4BF1-94EC-C6EBE9ED38C1}"
+              p:after="r[@uid='{21C7C9D9-C4AD-4A1E-8F55-B927F1A450B6}']"
+              s:ds="{EA23A369-44CA-45DA-8058-5315B521D109}"
+              s:id="{2002D52F-38B0-48F3-8256-F67F34126723}"
+              s:ph="main" />
+            <r
+              uid="{F6FD27AF-946D-4D44-A498-7FD08EB070D7}"
+              p:after="r[@uid='{A0D2F9E5-7396-4BF1-94EC-C6EBE9ED38C1}']"
+              s:ds="{2A294E46-4255-488A-9B32-3894D2993137}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{4FB7C62F-7832-4B69-8534-15CFDA41B258}"
+              p:after="r[@uid='{F6FD27AF-946D-4D44-A498-7FD08EB070D7}']"
+              s:ds="{9B9B0C33-DB04-4811-92FB-AB21F51893F1}"
+              s:id="{2E6C5F1E-BC4A-4FBE-BC72-FBCB237F8DDC}"
+              s:ph="main" />
+            <r
+              uid="{1B436BC1-F2C1-4100-8B2E-D3850309C127}"
+              p:after="r[@uid='{4FB7C62F-7832-4B69-8534-15CFDA41B258}']"
+              s:ds="{19A90D31-7B1D-4E11-83E6-0BB0476BE148}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{54EEE602-9A1D-47A3-9CAE-53E8FB19F149}"
+              p:after="*[1=2]"
+              s:id="{31CEB9C9-A9C8-43EA-9093-A6CDD02D7F90}"
+              s:ph="main" />
+            <r
+              uid="{3205AF76-5295-41B7-AEE1-050025A6783B}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Fons
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: |
+        <p>Senior Expert Engineer</p>
+        <p>Location: Schiedam, The Netherlands</p>
+        <p>Started with NOV: 2006</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Fons
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190923T164805Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Fons
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Fons
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "552d2f72-38dc-4292-a4d4-c25d7659a547"
+      Hint: Experience
+      Value: 2006
+    - ID: "59d8c695-4c77-4e28-aca2-18e95ced59be"
+      Hint: Job Function
+      Value: Engineer
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Fons
+    - ID: "81beeffb-e4e6-44ad-aa32-b3380b8d3fcd"
+      Hint: city
+      Value: Schiedam
+    - ID: "8481aefe-5414-437b-bf8b-6d95d2dc9fc8"
+      Hint: Job Title
+      Value: Senior Expert Engineer
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e1f9a28e-1a64-43ea-a268-36c8e86805cc"
+    - ID: "8d7bd282-7922-440b-bf50-8260e886c806"
+      Hint: Job Location
+      Value: Schiedam, The Netherlands
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{B5A8267A-94DD-4EDB-A526-48C8D84F7477}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Fons
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "bba7d4dd-7d1e-428e-b80d-055170466dc3"
+      Hint: country
+      Value: The Netherlands
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "Senior Expert Engineer | Location: Schiedam, The Netherlands | Started with NOV: 2006"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190923T164805Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{66183457-565E-47DD-94C7-81A67CBF93B3}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190923T164818Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{66183457-565E-47DD-94C7-81A67CBF93B3}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 10
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1D9F7519-1A07-4B02-9D49-1D933DACE3F8}">
+              <p:d />
+            </r>
+            <r
+              uid="{4F65FE46-394E-4709-82FB-33A2597B5F37}"
+              p:before="*"
+              s:ds=""
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:par="Add Gradient=1&amp;Text Color=white"
+              s:ph="/main/hero-slide-{4BB25428-E6C6-4301-AAFF-F88D64F59B05}-0" />
+            <r
+              uid="{41CE8FDC-7D70-4B28-AEA7-1C7C942A2D6C}"
+              p:after="r[@uid='{4F65FE46-394E-4709-82FB-33A2597B5F37}']"
+              s:ds="{DC5AF5F8-EF82-48BC-8559-8009D85C328C}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{5D81D5B0-3E81-4EEE-9F95-974FCF5137C0}"
+              p:after="r[@uid='{41CE8FDC-7D70-4B28-AEA7-1C7C942A2D6C}']"
+              s:ds="{D1AA0F7B-7C34-40D8-BEFB-BE8D42D2FF7A}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-right/image-block-splitter-960x540-top" />
+            <r
+              uid="{0E71BAC5-FFF7-4903-893A-DFFE3650916E}"
+              p:after="r[@uid='{5D81D5B0-3E81-4EEE-9F95-974FCF5137C0}']"
+              s:ds="{F5419992-C9A5-4F33-98D8-645BC172748F}"
+              s:id="{EA2AC21A-A652-4FD4-9F5D-4F9EB4322B26}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-left" />
+            <r
+              uid="{733AB23A-4DD1-4D94-9BAA-6CF17650EA55}"
+              p:after="r[@uid='{0E71BAC5-FFF7-4903-893A-DFFE3650916E}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main" />
+            <r
+              uid="{D84A6105-03E6-4F70-A44B-E027E4CD4249}"
+              p:after="r[@uid='{733AB23A-4DD1-4D94-9BAA-6CF17650EA55}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main/image-block-splitter-960x1080-right" />
+            <r
+              uid="{4BB25428-E6C6-4301-AAFF-F88D64F59B05}"
+              s:ds=""
+              s:par="Enable Autoplay=true&amp;Add Gradient=1&amp;Text Color=white&amp;Wait Time=5000" />
+            <r
+              uid="{21C7C9D9-C4AD-4A1E-8F55-B927F1A450B6}">
+              <p:d />
+            </r>
+            <r
+              uid="{EB0C67D7-CBAE-4EE7-B412-9964BD8F0F4C}">
+              <p:d />
+            </r>
+            <r
+              uid="{53ACC004-BCE1-4C03-82DD-4BADD9637005}">
+              <p:d />
+            </r>
+            <r
+              uid="{FF24F78C-1E13-4C62-8615-08CCB61E123D}">
+              <p:d />
+            </r>
+            <r
+              uid="{CBB1341C-3A61-4C5F-9880-5079456425CC}">
+              <p:d />
+            </r>
+            <r
+              uid="{A0D2F9E5-7396-4BF1-94EC-C6EBE9ED38C1}"
+              p:after="r[@uid='{4BB25428-E6C6-4301-AAFF-F88D64F59B05}']"
+              s:ds="{EA23A369-44CA-45DA-8058-5315B521D109}"
+              s:id="{2002D52F-38B0-48F3-8256-F67F34126723}"
+              s:ph="main" />
+            <r
+              uid="{F6FD27AF-946D-4D44-A498-7FD08EB070D7}"
+              p:after="r[@uid='{A0D2F9E5-7396-4BF1-94EC-C6EBE9ED38C1}']"
+              s:ds="{2A294E46-4255-488A-9B32-3894D2993137}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{4FB7C62F-7832-4B69-8534-15CFDA41B258}"
+              p:after="r[@uid='{F6FD27AF-946D-4D44-A498-7FD08EB070D7}']"
+              s:ds="{9B9B0C33-DB04-4811-92FB-AB21F51893F1}"
+              s:id="{2E6C5F1E-BC4A-4FBE-BC72-FBCB237F8DDC}"
+              s:ph="main" />
+            <r
+              uid="{1B436BC1-F2C1-4100-8B2E-D3850309C127}"
+              p:after="r[@uid='{4FB7C62F-7832-4B69-8534-15CFDA41B258}']"
+              s:ds="{19A90D31-7B1D-4E11-83E6-0BB0476BE148}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{54EEE602-9A1D-47A3-9CAE-53E8FB19F149}"
+              p:after="*[1=2]"
+              s:id="{31CEB9C9-A9C8-43EA-9093-A6CDD02D7F90}"
+              s:ph="main" />
+            <r
+              uid="{60D19D74-4E08-4244-A106-160C07761BB9}">
+              <p:d />
+            </r>
+            <r
+              uid="{3205AF76-5295-41B7-AEE1-050025A6783B}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Fons
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: |
+        <p>Senior Expert Engineer</p>
+        <p>Location: Schiedam, The Netherlands</p>
+        <p>Started with NOV: 2006</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Fons
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200121T220207Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Fons
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Fons
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "552d2f72-38dc-4292-a4d4-c25d7659a547"
+      Hint: Experience
+      Value: 2006
+    - ID: "59d8c695-4c77-4e28-aca2-18e95ced59be"
+      Hint: Job Function
+      Value: Engineer
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Fons
+    - ID: "81beeffb-e4e6-44ad-aa32-b3380b8d3fcd"
+      Hint: city
+      Value: Schiedam
+    - ID: "8481aefe-5414-437b-bf8b-6d95d2dc9fc8"
+      Hint: Job Title
+      Value: Senior Expert Engineer
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7012d5d9-fd31-4679-9adb-e3d0a9092e75"
+    - ID: "8d7bd282-7922-440b-bf50-8260e886c806"
+      Hint: Job Location
+      Value: Schiedam, The Netherlands
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{B5A8267A-94DD-4EDB-A526-48C8D84F7477}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Fons
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "bba7d4dd-7d1e-428e-b80d-055170466dc3"
+      Hint: country
+      Value: The Netherlands
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "Senior Expert Engineer | Location: Schiedam, The Netherlands | Started with NOV: 2006"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200121T220207Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{66183457-565E-47DD-94C7-81A67CBF93B3}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200121T220241Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{66183457-565E-47DD-94C7-81A67CBF93B3}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />

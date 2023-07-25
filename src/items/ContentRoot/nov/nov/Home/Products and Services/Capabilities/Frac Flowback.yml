@@ -1,0 +1,1189 @@
+﻿---
+ID: "5ea9e144-8bfc-4bc0-8394-aa56f7c04cfc"
+Parent: "0efcb894-1233-44a0-9b5d-268dc82ee1a0"
+Template: "6ad6b0c9-8586-4263-8ffb-9cbfc20b67d4"
+Path: /sitecore/content/nov/nov/Home/Products and Services/Capabilities/Frac Flowback
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: |
+        <r owner="sitecore\charisgamroth" date="20190606T162638Z" />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}"
+              s:ds=""
+              s:par="Text Color=white" />
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{AD4DA901-B19B-446C-9B0A-BF98141A81C8}"
+              p:after="*[1=2]"
+              s:ds="{C09F21AA-3009-4272-AEBA-D4EC7A5DDB01}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Frac Flowback
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Our solutions help you more effectively and safely recover the large volume of frac fluids from the well, enabling you to quickly transition your hydrocarbons from the well stream into sales.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Frac Flowback
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190606T162636Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Frac Flowback
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{8B87E652-E3F7-4C54-BDD9-66E1B888FF8B}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Frac Flowback
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Frac Flowback
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6f944708-acc9-4c34-88a7-53dcd14e2a5e"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{894AD693-62BC-4D0F-8E34-42401EBEF1F3}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Frac Flowback
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Our solutions help you more effectively and safely recover the large volume of frac fluids from the well, enabling you to quickly transition your hydrocarbons from the well stream into sales.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190606T162636Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{15694A7F-496E-43D9-A1E9-0FADC6D85792}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190606T162638Z
+    - ID: "da134e40-cb02-4645-9846-115fb9a5aeca"
+      Hint: capability
+      Value: "{D964419F-90CC-4FD3-8454-6F0CF42C4227}"
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{15694A7F-496E-43D9-A1E9-0FADC6D85792}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{AD4DA901-B19B-446C-9B0A-BF98141A81C8}"
+              p:after="r[@uid='{37A7ADD6-9046-4B18-B22A-BE9133614F3D}']"
+              s:ds="{C09F21AA-3009-4272-AEBA-D4EC7A5DDB01}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{042896C2-1E20-4965-AC1D-13E59E733CA9}"
+              p:after="*[1=2]"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Frac Flowback
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Our solutions help you more effectively and safely recover the large volume of frac fluids from the well, enabling you to quickly transition your hydrocarbons from the well stream into sales.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Frac Flowback
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190606T162704Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Frac Flowback
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Frac Flowback
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Frac Flowback
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1aec8589-4419-4c8e-985b-d06d67daac5b"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{894AD693-62BC-4D0F-8E34-42401EBEF1F3}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Frac Flowback
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Our solutions help you more effectively and safely recover the large volume of frac fluids from the well, enabling you to quickly transition your hydrocarbons from the well stream into sales.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190606T162704Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{53F06D4C-7E25-4E43-9A5B-0A2939032D22}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190606T163654Z
+    - ID: "da134e40-cb02-4645-9846-115fb9a5aeca"
+      Hint: capability
+      Value: "{D964419F-90CC-4FD3-8454-6F0CF42C4227}"
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{53F06D4C-7E25-4E43-9A5B-0A2939032D22}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{AD4DA901-B19B-446C-9B0A-BF98141A81C8}"
+              p:after="r[@uid='{37A7ADD6-9046-4B18-B22A-BE9133614F3D}']"
+              s:ds="{C09F21AA-3009-4272-AEBA-D4EC7A5DDB01}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{042896C2-1E20-4965-AC1D-13E59E733CA9}"
+              p:after="*[1=2]"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Frac Flowback
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Our solutions help you more effectively and safely recover the large volume of frac fluids from the well, enabling you to quickly transition your hydrocarbons from the well stream into sales.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Frac Flowback
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191002T181652Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Frac Flowback
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Frac Flowback
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Frac Flowback
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2dfbe3ed-c707-42f4-a89d-ab52fcb8cf4b"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{894AD693-62BC-4D0F-8E34-42401EBEF1F3}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Frac Flowback
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Our solutions help you more effectively and safely recover the large volume of frac fluids from the well, enabling you to quickly transition your hydrocarbons from the well stream into sales.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20191002T181652Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{7E8B066B-E42F-4DFD-A09B-756D4522498E}" cropregion="0,88,1920,1192" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20191003T193546Z
+    - ID: "da134e40-cb02-4645-9846-115fb9a5aeca"
+      Hint: capability
+      Value: "{D964419F-90CC-4FD3-8454-6F0CF42C4227}"
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{7E8B066B-E42F-4DFD-A09B-756D4522498E}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 4
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{AD4DA901-B19B-446C-9B0A-BF98141A81C8}"
+              p:after="r[@uid='{37A7ADD6-9046-4B18-B22A-BE9133614F3D}']"
+              s:ds="{C09F21AA-3009-4272-AEBA-D4EC7A5DDB01}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{042896C2-1E20-4965-AC1D-13E59E733CA9}"
+              p:after="*[1=2]"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: 
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Our solutions help you more effectively and safely recover the large volume of frac fluids from the well, enabling you to quickly transition your hydrocarbons from the well stream into sales.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Flowback
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210401T173834Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Flowback
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Flowback
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Flowback
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "57773660-ff7c-4676-ad3b-c82f91ad6fca"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{894AD693-62BC-4D0F-8E34-42401EBEF1F3}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\adminrschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Our solutions help you more effectively and safely recover the large volume of frac fluids from the well, enabling you to quickly transition your hydrocarbons from the well stream into sales.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20210401T173834Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{7E8B066B-E42F-4DFD-A09B-756D4522498E}" cropregion="0,88,1920,1192" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210422T010922Z
+    - ID: "da134e40-cb02-4645-9846-115fb9a5aeca"
+      Hint: capability
+      Value: "{D964419F-90CC-4FD3-8454-6F0CF42C4227}"
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{7E8B066B-E42F-4DFD-A09B-756D4522498E}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 5
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{AD4DA901-B19B-446C-9B0A-BF98141A81C8}"
+              p:after="r[@uid='{37A7ADD6-9046-4B18-B22A-BE9133614F3D}']"
+              s:ds="{C09F21AA-3009-4272-AEBA-D4EC7A5DDB01}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{042896C2-1E20-4965-AC1D-13E59E733CA9}"
+              p:after="*[1=2]"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: 
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: "<p>Because your uptime, safety, and wellsite economics are priority, we have fit-for-purpose solutions that will meets your operational and job schedule needs.</p>"
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Flowback
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210422T200023Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Flowback
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Flowback
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaylakaplan
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Flowback
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "506ccacf-b54f-4e87-9784-925741c6e431"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{894AD693-62BC-4D0F-8E34-42401EBEF1F3}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaylakaplan
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Our solutions help you more effectively and safely recover the large volume of frac fluids from the well, enabling you to quickly transition your hydrocarbons from the well stream into sales.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20210422T200023Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{7E8B066B-E42F-4DFD-A09B-756D4522498E}" cropregion="0,88,1920,1192" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210422T200329Z
+    - ID: "da134e40-cb02-4645-9846-115fb9a5aeca"
+      Hint: capability
+      Value: "{D964419F-90CC-4FD3-8454-6F0CF42C4227}"
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{7E8B066B-E42F-4DFD-A09B-756D4522498E}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 6
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{AD4DA901-B19B-446C-9B0A-BF98141A81C8}"
+              p:after="r[@uid='{37A7ADD6-9046-4B18-B22A-BE9133614F3D}']"
+              s:ds="{C09F21AA-3009-4272-AEBA-D4EC7A5DDB01}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{042896C2-1E20-4965-AC1D-13E59E733CA9}"
+              p:after="*[1=2]"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: 
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: "<p>Because your uptime, safety, and wellsite economics are priority, we have fit-for-purpose solutions that meet your operational and job schedule needs.</p>"
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Flowback
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210517T143010Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Flowback
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Flowback
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaylakaplan
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Flowback
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6cb0e61e-dd84-4d42-8c61-5ee526f8130b"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{894AD693-62BC-4D0F-8E34-42401EBEF1F3}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaylakaplan
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Our solutions help you more effectively and safely recover the large volume of frac fluids from the well, enabling you to quickly transition your hydrocarbons from the well stream into sales.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20210517T143010Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{7E8B066B-E42F-4DFD-A09B-756D4522498E}" cropregion="0,88,1920,1192" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210517T143048Z
+    - ID: "da134e40-cb02-4645-9846-115fb9a5aeca"
+      Hint: capability
+      Value: "{D964419F-90CC-4FD3-8454-6F0CF42C4227}"
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{7E8B066B-E42F-4DFD-A09B-756D4522498E}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 7
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+            <r
+              uid="{AD4DA901-B19B-446C-9B0A-BF98141A81C8}"
+              p:after="r[@uid='{37A7ADD6-9046-4B18-B22A-BE9133614F3D}']"
+              s:ds="{C09F21AA-3009-4272-AEBA-D4EC7A5DDB01}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{D83E6497-85F7-4677-9029-9F82FA75B966}"
+              p:after="r[@uid='{AD4DA901-B19B-446C-9B0A-BF98141A81C8}']"
+              s:ds="{C080CC5B-B3D4-46B7-9D8F-AF9D9EDFE5EC}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{06BCC771-583D-4F21-ABD4-D05B505154BC}"
+              p:after="r[@uid='{D83E6497-85F7-4677-9029-9F82FA75B966}']"
+              s:ds="{DAB1D9E2-8CC4-4EDA-9B62-8CC1548AD7F3}"
+              s:id="{703C4FCC-55FD-48C3-8F29-1B196484B61C}"
+              s:ph="main" />
+            <r
+              uid="{042896C2-1E20-4965-AC1D-13E59E733CA9}"
+              p:after="*[1=2]"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: 
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: "<p>Because your uptime, safety, and wellsite economics are priority, we have fit-for-purpose solutions that meet your operational and job schedule needs.</p>"
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Flowback
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210616T214403Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Flowback
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Flowback
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Flowback
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a71d9383-75fd-40fb-b0a8-8523a12f0c01"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{894AD693-62BC-4D0F-8E34-42401EBEF1F3}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Our solutions help you more effectively and safely recover the large volume of frac fluids from the well, enabling you to quickly transition your hydrocarbons from the well stream into sales.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20210616T214403Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{7E8B066B-E42F-4DFD-A09B-756D4522498E}" cropregion="0,88,1920,1192" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210617T220307Z
+    - ID: "da134e40-cb02-4645-9846-115fb9a5aeca"
+      Hint: capability
+      Value: "{D964419F-90CC-4FD3-8454-6F0CF42C4227}"
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{7E8B066B-E42F-4DFD-A09B-756D4522498E}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 8
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+            <r
+              uid="{AD4DA901-B19B-446C-9B0A-BF98141A81C8}"
+              p:after="r[@uid='{37A7ADD6-9046-4B18-B22A-BE9133614F3D}']"
+              s:ds="{C09F21AA-3009-4272-AEBA-D4EC7A5DDB01}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{D83E6497-85F7-4677-9029-9F82FA75B966}"
+              p:after="r[@uid='{AD4DA901-B19B-446C-9B0A-BF98141A81C8}']"
+              s:ds="{C080CC5B-B3D4-46B7-9D8F-AF9D9EDFE5EC}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{06BCC771-583D-4F21-ABD4-D05B505154BC}"
+              p:after="r[@uid='{D83E6497-85F7-4677-9029-9F82FA75B966}']"
+              s:ds="{DAB1D9E2-8CC4-4EDA-9B62-8CC1548AD7F3}"
+              s:id="{703C4FCC-55FD-48C3-8F29-1B196484B61C}"
+              s:ph="main" />
+            <r
+              uid="{3998B115-4F7D-42CB-8FD9-B88A7921F2C3}"
+              p:after="r[@uid='{06BCC771-583D-4F21-ABD4-D05B505154BC}']"
+              s:ds="{E6E14415-4962-4B46-A0B0-7E907B8AD5C8}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:ph="main" />
+            <r
+              uid="{042896C2-1E20-4965-AC1D-13E59E733CA9}"
+              p:after="*[1=2]"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: 
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: "<p>Because your uptime, safety, and wellsite economics are priority, we have fit-for-purpose solutions that meet your operational and job schedule needs.</p>"
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Flowback
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220114T153121Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Flowback
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Flowback
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Flowback
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8f4d3e0b-4c3f-408b-bd3b-ecee969e1516"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{894AD693-62BC-4D0F-8E34-42401EBEF1F3}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Our solutions help you more effectively and safely recover the large volume of frac fluids from the well, enabling you to quickly transition your hydrocarbons from the well stream into sales.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20220114T153121Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{7E8B066B-E42F-4DFD-A09B-756D4522498E}" cropregion="0,88,1920,1192" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220118T164106Z
+    - ID: "da134e40-cb02-4645-9846-115fb9a5aeca"
+      Hint: capability
+      Value: "{D964419F-90CC-4FD3-8454-6F0CF42C4227}"
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{7E8B066B-E42F-4DFD-A09B-756D4522498E}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 9
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}">
+              <p:d />
+            </r>
+            <r
+              uid="{37A7ADD6-9046-4B18-B22A-BE9133614F3D}">
+              <p:d />
+            </r>
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+            <r
+              uid="{F5328911-E59E-4D3F-B73F-7BCFEBA61E6C}"
+              p:before="*"
+              s:ds=""
+              s:id="{9CA51EAB-92E4-4A77-8B48-966774577172}"
+              s:par="Add Gradient=1"
+              s:ph="/main/product-hero-{EEBCB879-127A-4EE4-8327-508AE1DD8CE6}-0" />
+            <r
+              uid="{EEBCB879-127A-4EE4-8327-508AE1DD8CE6}"
+              p:after="r[@uid='{F5328911-E59E-4D3F-B73F-7BCFEBA61E6C}']"
+              s:ds="{DB7BAB29-A94C-445B-B541-5C88B4C85EB8}"
+              s:id="{C3DD97A2-2C6B-4FDA-922C-7127AE10C976}"
+              s:ph="main" />
+            <r
+              uid="{AD4DA901-B19B-446C-9B0A-BF98141A81C8}"
+              p:after="r[@uid='{EEBCB879-127A-4EE4-8327-508AE1DD8CE6}']"
+              s:ds="{C09F21AA-3009-4272-AEBA-D4EC7A5DDB01}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{D83E6497-85F7-4677-9029-9F82FA75B966}"
+              p:after="r[@uid='{AD4DA901-B19B-446C-9B0A-BF98141A81C8}']"
+              s:ds="{C080CC5B-B3D4-46B7-9D8F-AF9D9EDFE5EC}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{06BCC771-583D-4F21-ABD4-D05B505154BC}"
+              p:after="r[@uid='{D83E6497-85F7-4677-9029-9F82FA75B966}']"
+              s:ds="{DAB1D9E2-8CC4-4EDA-9B62-8CC1548AD7F3}"
+              s:id="{703C4FCC-55FD-48C3-8F29-1B196484B61C}"
+              s:ph="main" />
+            <r
+              uid="{3998B115-4F7D-42CB-8FD9-B88A7921F2C3}"
+              p:after="r[@uid='{06BCC771-583D-4F21-ABD4-D05B505154BC}']"
+              s:ds="{E6E14415-4962-4B46-A0B0-7E907B8AD5C8}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:ph="main" />
+            <r
+              uid="{042896C2-1E20-4965-AC1D-13E59E733CA9}"
+              p:after="r[@uid='{3998B115-4F7D-42CB-8FD9-B88A7921F2C3}']"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{C69DFD6F-6E2A-4906-863A-9E594A8B5615}"
+              p:after="*[1=2]"
+              s:ds="{152AF4E0-BFF3-4400-A330-EF0E69000E7D}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: 
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: "<p>Because your uptime, safety, and wellsite economics are priority, we have fit-for-purpose solutions that meet your operational and job schedule needs.</p>"
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Flowback
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220125T164048Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Flowback
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Flowback
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{ABA9E56C-0FCE-464D-8E09-DB375CDF20D8}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Flowback
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "19b132f4-8976-40ef-a4da-a17dbc2ff76a"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{894AD693-62BC-4D0F-8E34-42401EBEF1F3}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\adminrschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Our solutions help you more effectively and safely recover the large volume of frac fluids from the well, enabling you to quickly transition your hydrocarbons from the well stream into sales.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20220125T164048Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{7E8B066B-E42F-4DFD-A09B-756D4522498E}" cropregion="0,88,1920,1192" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220125T193640Z
+    - ID: "da134e40-cb02-4645-9846-115fb9a5aeca"
+      Hint: capability
+      Value: "{D964419F-90CC-4FD3-8454-6F0CF42C4227}"
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{7E8B066B-E42F-4DFD-A09B-756D4522498E}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 10
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}">
+              <p:d />
+            </r>
+            <r
+              uid="{37A7ADD6-9046-4B18-B22A-BE9133614F3D}">
+              <p:d />
+            </r>
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+            <r
+              uid="{F5328911-E59E-4D3F-B73F-7BCFEBA61E6C}"
+              p:before="*"
+              s:ds=""
+              s:id="{9CA51EAB-92E4-4A77-8B48-966774577172}"
+              s:par="Add Gradient=1"
+              s:ph="/main/product-hero-{EEBCB879-127A-4EE4-8327-508AE1DD8CE6}-0" />
+            <r
+              uid="{EEBCB879-127A-4EE4-8327-508AE1DD8CE6}"
+              p:after="r[@uid='{F5328911-E59E-4D3F-B73F-7BCFEBA61E6C}']"
+              s:ds="{DB7BAB29-A94C-445B-B541-5C88B4C85EB8}"
+              s:id="{C3DD97A2-2C6B-4FDA-922C-7127AE10C976}"
+              s:ph="main" />
+            <r
+              uid="{AD4DA901-B19B-446C-9B0A-BF98141A81C8}"
+              p:after="r[@uid='{EEBCB879-127A-4EE4-8327-508AE1DD8CE6}']"
+              s:ds="{C09F21AA-3009-4272-AEBA-D4EC7A5DDB01}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{D83E6497-85F7-4677-9029-9F82FA75B966}"
+              p:after="r[@uid='{AD4DA901-B19B-446C-9B0A-BF98141A81C8}']"
+              s:ds="{C080CC5B-B3D4-46B7-9D8F-AF9D9EDFE5EC}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{06BCC771-583D-4F21-ABD4-D05B505154BC}"
+              p:after="r[@uid='{D83E6497-85F7-4677-9029-9F82FA75B966}']"
+              s:ds="{DAB1D9E2-8CC4-4EDA-9B62-8CC1548AD7F3}"
+              s:id="{703C4FCC-55FD-48C3-8F29-1B196484B61C}"
+              s:ph="main" />
+            <r
+              uid="{3998B115-4F7D-42CB-8FD9-B88A7921F2C3}"
+              p:after="r[@uid='{06BCC771-583D-4F21-ABD4-D05B505154BC}']"
+              s:ds="{E6E14415-4962-4B46-A0B0-7E907B8AD5C8}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:ph="main" />
+            <r
+              uid="{042896C2-1E20-4965-AC1D-13E59E733CA9}"
+              p:after="r[@uid='{3998B115-4F7D-42CB-8FD9-B88A7921F2C3}']"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{C69DFD6F-6E2A-4906-863A-9E594A8B5615}"
+              p:after="*[1=2]"
+              s:ds="{152AF4E0-BFF3-4400-A330-EF0E69000E7D}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: 
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: "<p>Because your uptime, safety, and wellsite economics are priority, we have fit-for-purpose solutions that meet your operational and job schedule needs.</p>"
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Flowback
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220512T190422Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Flowback
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Flowback
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: 
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Flowback
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7348969a-bd7e-4e97-8c62-c183abda0900"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{894AD693-62BC-4D0F-8E34-42401EBEF1F3}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Our solutions help you more effectively and safely recover the large volume of frac fluids from the well, enabling you to quickly transition your hydrocarbons from the well stream into sales.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20220512T190422Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{7E8B066B-E42F-4DFD-A09B-756D4522498E}" cropregion="0,88,1920,1192" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220512T190448Z
+    - ID: "da134e40-cb02-4645-9846-115fb9a5aeca"
+      Hint: capability
+      Value: "{D964419F-90CC-4FD3-8454-6F0CF42C4227}"
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{7E8B066B-E42F-4DFD-A09B-756D4522498E}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" />

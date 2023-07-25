@@ -1,0 +1,517 @@
+﻿---
+ID: "b142b4e3-20ff-456b-985a-0b068443a502"
+Parent: "0efcb894-1233-44a0-9b5d-268dc82ee1a0"
+Template: "6ad6b0c9-8586-4263-8ffb-9cbfc20b67d4"
+Path: /sitecore/content/nov/nov/Home/Products and Services/Capabilities/Hydrogen Solutions
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}"
+          s:ds="{2A3BEE0D-3379-4D27-A821-503F49DC4C13}" />
+        <r
+          uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}"
+          s:ds="{C4F25EBB-6E26-4009-A40D-9AB8ED983DB3}" />
+        <r
+          uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}"
+          s:ds="{3032D215-5CC8-4474-B122-8D3179461B73}" />
+      </d>
+    </r>
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{E811F1E0-9DFA-4BCF-9555-9FFC765A388B}"
+              p:before="*"
+              s:ds="{6689BCCE-1708-4452-BFB4-2CA72803DC87}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+            <r
+              uid="{58501E7B-A7AC-4453-AF55-0C8B25831EBF}"
+              p:after="r[@uid='{37A7ADD6-9046-4B18-B22A-BE9133614F3D}']"
+              s:ds="{6A0E8DAC-5316-4B1D-A7CC-9F825E566113}"
+              s:id="{A22722F6-65DF-4574-B659-191957028C9B}"
+              s:ph="main" />
+            <r
+              uid="{95772D54-00D8-49BC-9A55-560C7A34CD0A}"
+              p:after="r[@uid='{58501E7B-A7AC-4453-AF55-0C8B25831EBF}']"
+              s:ds="{73B9C017-4E43-4704-B8BD-F64247D0CF15}"
+              s:id="{2E6C5F1E-BC4A-4FBE-BC72-FBCB237F8DDC}"
+              s:ph="main" />
+            <r
+              uid="{F575EAB4-4FC1-4BF7-B5ED-09D205FAA201}"
+              p:after="r[@uid='{95772D54-00D8-49BC-9A55-560C7A34CD0A}']"
+              s:ds="{87462F34-71E5-4764-B3E0-D122B679F0D0}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{B8D0906B-A9E8-4D92-A1C2-6404EF54254D}"
+              p:after="r[@uid='{F575EAB4-4FC1-4BF7-B5ED-09D205FAA201}']"
+              s:ds="{22AA3E0F-BAC7-4F10-9DA0-A252CA217BF4}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{9F7583A3-EEBF-4E0C-9FA1-8367F65B9271}"
+              p:after="r[@uid='{B8D0906B-A9E8-4D92-A1C2-6404EF54254D}']"
+              s:ds="{911BD142-BEE7-495D-AC7E-99E4774F4A34}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:ph="main" />
+            <r
+              uid="{E07AC854-B392-4B1D-B0A4-8C10A419B865}"
+              p:after="r[@uid='{9F7583A3-EEBF-4E0C-9FA1-8367F65B9271}']"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{DEF92429-B8D9-4814-A523-D164B79BE93C}"
+              p:after="*[1=2]"
+              s:ds="{C4F25EBB-6E26-4009-A40D-9AB8ED983DB3}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Hydrogen Solutions
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Transferring our upstream production expertise into hydrogen production</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Hydrogen Solutions
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210923T153515Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Hydrogen Solutions
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Hydrogen Solutions
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{0174B184-3FE7-4599-8F45-BA7167ECE8A6}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Hydrogen Solutions
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "40d28039-8d76-46a8-97c9-16f4aea63318"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{894AD693-62BC-4D0F-8E34-42401EBEF1F3}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: engineering, products, service, and consulting for green and blue hydrogen production
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{0174B184-3FE7-4599-8F45-BA7167ECE8A6}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210927T213907Z
+    - ID: "da134e40-cb02-4645-9846-115fb9a5aeca"
+      Hint: capability
+      Value: "{66B87415-D131-4718-82A7-0B1696EED758}"
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{0174B184-3FE7-4599-8F45-BA7167ECE8A6}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}">
+              <p:d />
+            </r>
+            <r
+              uid="{37A7ADD6-9046-4B18-B22A-BE9133614F3D}">
+              <p:d />
+            </r>
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+            <r
+              uid="{288CD779-384B-41A2-B9A0-92DEE5CB94AB}"
+              p:before="*"
+              s:ds=""
+              s:id="{9CA51EAB-92E4-4A77-8B48-966774577172}"
+              s:par="Add Gradient=1"
+              s:ph="/main/product-hero-{0B1D807C-62D4-4D7D-97AF-50237BE78229}-0" />
+            <r
+              uid="{0B1D807C-62D4-4D7D-97AF-50237BE78229}"
+              p:after="r[@uid='{288CD779-384B-41A2-B9A0-92DEE5CB94AB}']"
+              s:ds="{DB7BAB29-A94C-445B-B541-5C88B4C85EB8}"
+              s:id="{C3DD97A2-2C6B-4FDA-922C-7127AE10C976}"
+              s:ph="main" />
+            <r
+              uid="{E811F1E0-9DFA-4BCF-9555-9FFC765A388B}"
+              p:after="r[@uid='{0B1D807C-62D4-4D7D-97AF-50237BE78229}']"
+              s:ds="{6689BCCE-1708-4452-BFB4-2CA72803DC87}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{58501E7B-A7AC-4453-AF55-0C8B25831EBF}"
+              p:after="r[@uid='{E811F1E0-9DFA-4BCF-9555-9FFC765A388B}']"
+              s:ds="{6A0E8DAC-5316-4B1D-A7CC-9F825E566113}"
+              s:id="{A22722F6-65DF-4574-B659-191957028C9B}"
+              s:ph="main" />
+            <r
+              uid="{95772D54-00D8-49BC-9A55-560C7A34CD0A}"
+              p:after="r[@uid='{58501E7B-A7AC-4453-AF55-0C8B25831EBF}']"
+              s:ds="{73B9C017-4E43-4704-B8BD-F64247D0CF15}"
+              s:id="{2E6C5F1E-BC4A-4FBE-BC72-FBCB237F8DDC}"
+              s:ph="main" />
+            <r
+              uid="{F575EAB4-4FC1-4BF7-B5ED-09D205FAA201}"
+              p:after="r[@uid='{95772D54-00D8-49BC-9A55-560C7A34CD0A}']"
+              s:ds="{87462F34-71E5-4764-B3E0-D122B679F0D0}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{B8D0906B-A9E8-4D92-A1C2-6404EF54254D}"
+              p:after="r[@uid='{F575EAB4-4FC1-4BF7-B5ED-09D205FAA201}']"
+              s:ds="{22AA3E0F-BAC7-4F10-9DA0-A252CA217BF4}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{9F7583A3-EEBF-4E0C-9FA1-8367F65B9271}"
+              p:after="r[@uid='{B8D0906B-A9E8-4D92-A1C2-6404EF54254D}']"
+              s:ds="{911BD142-BEE7-495D-AC7E-99E4774F4A34}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:ph="main" />
+            <r
+              uid="{E07AC854-B392-4B1D-B0A4-8C10A419B865}"
+              p:after="r[@uid='{9F7583A3-EEBF-4E0C-9FA1-8367F65B9271}']"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{DEF92429-B8D9-4814-A523-D164B79BE93C}"
+              p:after="r[@uid='{E07AC854-B392-4B1D-B0A4-8C10A419B865}']"
+              s:ds="{C4F25EBB-6E26-4009-A40D-9AB8ED983DB3}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{ACF0DB45-F420-47BF-9D2B-D606F9596DD5}"
+              p:after="*[1=2]"
+              s:ds="{05659219-4428-47ED-80F8-E55F8E557B7B}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Hydrogen Solutions
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Transferring our upstream production expertise into hydrogen production</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Hydrogen Solutions
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220314T152103Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Hydrogen Solutions
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Hydrogen Solutions
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{0174B184-3FE7-4599-8F45-BA7167ECE8A6}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Hydrogen Solutions
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "917c9285-f4ab-4d0e-9c3d-42cc655bb554"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{894AD693-62BC-4D0F-8E34-42401EBEF1F3}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: engineering, products, service, and consulting for green and blue hydrogen production
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20220314T152103Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{0174B184-3FE7-4599-8F45-BA7167ECE8A6}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220314T191252Z
+    - ID: "da134e40-cb02-4645-9846-115fb9a5aeca"
+      Hint: capability
+      Value: "{66B87415-D131-4718-82A7-0B1696EED758}"
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{0174B184-3FE7-4599-8F45-BA7167ECE8A6}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}">
+              <p:d />
+            </r>
+            <r
+              uid="{37A7ADD6-9046-4B18-B22A-BE9133614F3D}">
+              <p:d />
+            </r>
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+            <r
+              uid="{288CD779-384B-41A2-B9A0-92DEE5CB94AB}"
+              p:before="*"
+              s:ds=""
+              s:id="{9CA51EAB-92E4-4A77-8B48-966774577172}"
+              s:par="Add Gradient=1"
+              s:ph="/main/product-hero-{0B1D807C-62D4-4D7D-97AF-50237BE78229}-0" />
+            <r
+              uid="{0B1D807C-62D4-4D7D-97AF-50237BE78229}"
+              p:after="r[@uid='{288CD779-384B-41A2-B9A0-92DEE5CB94AB}']"
+              s:ds="{DB7BAB29-A94C-445B-B541-5C88B4C85EB8}"
+              s:id="{C3DD97A2-2C6B-4FDA-922C-7127AE10C976}"
+              s:ph="main" />
+            <r
+              uid="{E811F1E0-9DFA-4BCF-9555-9FFC765A388B}"
+              p:after="r[@uid='{0B1D807C-62D4-4D7D-97AF-50237BE78229}']"
+              s:ds="{6689BCCE-1708-4452-BFB4-2CA72803DC87}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{58501E7B-A7AC-4453-AF55-0C8B25831EBF}"
+              p:after="r[@uid='{E811F1E0-9DFA-4BCF-9555-9FFC765A388B}']"
+              s:ds="{6A0E8DAC-5316-4B1D-A7CC-9F825E566113}"
+              s:id="{A22722F6-65DF-4574-B659-191957028C9B}"
+              s:ph="main" />
+            <r
+              uid="{95772D54-00D8-49BC-9A55-560C7A34CD0A}"
+              p:after="r[@uid='{58501E7B-A7AC-4453-AF55-0C8B25831EBF}']"
+              s:ds="{73B9C017-4E43-4704-B8BD-F64247D0CF15}"
+              s:id="{2E6C5F1E-BC4A-4FBE-BC72-FBCB237F8DDC}"
+              s:ph="main" />
+            <r
+              uid="{F575EAB4-4FC1-4BF7-B5ED-09D205FAA201}"
+              p:after="r[@uid='{95772D54-00D8-49BC-9A55-560C7A34CD0A}']"
+              s:ds="{87462F34-71E5-4764-B3E0-D122B679F0D0}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{D824E2F9-2601-472F-9976-939B1577E721}"
+              p:after="r[@uid='{F575EAB4-4FC1-4BF7-B5ED-09D205FAA201}']"
+              s:ds="{D813297C-721B-4C5B-82D8-6B1E0D3BEBE3}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{B8D0906B-A9E8-4D92-A1C2-6404EF54254D}"
+              p:after="r[@uid='{D824E2F9-2601-472F-9976-939B1577E721}']"
+              s:ds="{22AA3E0F-BAC7-4F10-9DA0-A252CA217BF4}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{9F7583A3-EEBF-4E0C-9FA1-8367F65B9271}"
+              p:after="r[@uid='{B8D0906B-A9E8-4D92-A1C2-6404EF54254D}']"
+              s:ds="{911BD142-BEE7-495D-AC7E-99E4774F4A34}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:ph="main" />
+            <r
+              uid="{E07AC854-B392-4B1D-B0A4-8C10A419B865}"
+              p:after="r[@uid='{9F7583A3-EEBF-4E0C-9FA1-8367F65B9271}']"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{DEF92429-B8D9-4814-A523-D164B79BE93C}"
+              p:after="r[@uid='{E07AC854-B392-4B1D-B0A4-8C10A419B865}']"
+              s:ds="{C4F25EBB-6E26-4009-A40D-9AB8ED983DB3}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{ACF0DB45-F420-47BF-9D2B-D606F9596DD5}"
+              p:after="*[1=2]"
+              s:ds="{05659219-4428-47ED-80F8-E55F8E557B7B}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Hydrogen Solutions
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Transferring our upstream production expertise into hydrogen production</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Hydrogen Solutions
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220914T154009Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Hydrogen Solutions
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{40251B7D-FBE3-4A0E-8947-D4B4FE8CD782}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Hydrogen Solutions
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{0174B184-3FE7-4599-8F45-BA7167ECE8A6}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Hydrogen Solutions
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "93b4c8ec-6475-4936-8cce-763986cb7bbb"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{894AD693-62BC-4D0F-8E34-42401EBEF1F3}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: engineering, products, service, and consulting for green and blue hydrogen production
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20220914T154009Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{0174B184-3FE7-4599-8F45-BA7167ECE8A6}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220916T145140Z
+    - ID: "da134e40-cb02-4645-9846-115fb9a5aeca"
+      Hint: capability
+      Value: "{66B87415-D131-4718-82A7-0B1696EED758}"
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{0174B184-3FE7-4599-8F45-BA7167ECE8A6}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />

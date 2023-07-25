@@ -1,0 +1,1076 @@
+﻿---
+ID: "2f122379-92b1-4a17-8ac2-71229a314593"
+Parent: "b6e77496-7bee-48dc-9afb-11df7eacc15a"
+Template: "767fef1e-1eb7-417d-93c6-ca72cac21a26"
+Path: /sitecore/content/nov/nov/Home/Products and Services/Brands/Hydralift
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4E865973-AB7C-4186-AC40-C469AE6933FF}"
+              p:after="*[1=2]"
+              s:ds="{B44FF73D-4DD5-40E4-9621-F89B32D173A9}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Hydralift
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Recognized as a leading supplier of drilling, handling, and compensation equipment for offshore installations, Hydralift&rsquo;s legacy was built by working closely with customers to deliver comprehensive solutions.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Hydralift
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190327T141010Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Hydralift
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Hydralift
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Hydralift
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2090ae01-f8c2-463c-a99f-95696157f121"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{EA155798-89F9-42A8-A18A-1921664D1E01}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190327T141010Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{6B9BF852-B416-491F-84F5-F66F9C13AB9E}" cropregion="0,138,1920,1240" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190327T141042Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{6B9BF852-B416-491F-84F5-F66F9C13AB9E}" cropregion="0,8,1920,1087" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+    - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
+      Hint: brand
+      Value: "{BE24303F-51A3-4B7E-9E11-70F694DB82C1}"
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4E865973-AB7C-4186-AC40-C469AE6933FF}"
+              p:after="*[1=2]"
+              s:ds="{B44FF73D-4DD5-40E4-9621-F89B32D173A9}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Hydralift
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Recognized as a leading supplier of drilling, handling, and compensation equipment for offshore installations, Hydralift has a legacy built by working closely with customers to deliver comprehensive solutions.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Hydralift
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190329T211147Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Hydralift
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Hydralift
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Hydralift
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a1cbc24c-4b1c-4314-88a1-c333241cef2c"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{EA155798-89F9-42A8-A18A-1921664D1E01}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Recognized as a leading supplier of drilling, handling, and compensation equipment for offshore installations, Hydralift has a legacy built by working closely with customers to deliver comprehensive solutions.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190329T211147Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{6B9BF852-B416-491F-84F5-F66F9C13AB9E}" cropregion="0,138,1920,1240" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190329T211228Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{6B9BF852-B416-491F-84F5-F66F9C13AB9E}" cropregion="0,8,1920,1087" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+    - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
+      Hint: brand
+      Value: "{BE24303F-51A3-4B7E-9E11-70F694DB82C1}"
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4E865973-AB7C-4186-AC40-C469AE6933FF}"
+              p:after="*[1=2]"
+              s:ds="{B44FF73D-4DD5-40E4-9621-F89B32D173A9}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Hydralift
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Recognized as a leading supplier of drilling, handling, and compensation equipment for offshore installations, Hydralift has a legacy built by working closely with customers to deliver comprehensive solutions.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Hydralift
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190329T212634Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Hydralift
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Hydralift
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Hydralift
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cfb0e511-18cc-4cc2-92db-2fd0fc65e10c"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{EA155798-89F9-42A8-A18A-1921664D1E01}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Recognized as a leading supplier of drilling, handling, and compensation equipment for offshore installations, Hydralift has a legacy built by working closely with customers to deliver comprehensive solutions.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190329T212634Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{6B9BF852-B416-491F-84F5-F66F9C13AB9E}" cropregion="0,138,1920,1240" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190329T212726Z
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: Hydralift, Hydralift drilling, handling, compensation equipment
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{6B9BF852-B416-491F-84F5-F66F9C13AB9E}" cropregion="0,8,1920,1087" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+    - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
+      Hint: brand
+      Value: "{BE24303F-51A3-4B7E-9E11-70F694DB82C1}"
+  - Version: 4
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4E865973-AB7C-4186-AC40-C469AE6933FF}"
+              p:after="*[1=2]"
+              s:ds="{B44FF73D-4DD5-40E4-9621-F89B32D173A9}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Hydralift
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Recognized as a leading supplier of drilling, handling, and compensation equipment for offshore installations, Hydralift has a legacy built by working closely with customers to deliver comprehensive solutions.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Hydralift
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190412T200502Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Hydralift
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Hydralift
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Hydralift
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6c141722-4748-4eff-ba15-d94efff9683a"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{EA155798-89F9-42A8-A18A-1921664D1E01}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Recognized as a leading supplier of drilling, handling, and compensation equipment for offshore installations, Hydralift has a legacy built by working closely with customers to deliver comprehensive solutions.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190412T200502Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{6B9BF852-B416-491F-84F5-F66F9C13AB9E}" cropregion="0,138,1920,1240" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190412T200535Z
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: Hydralift, Hydralift drilling, handling, compensation equipment
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{6B9BF852-B416-491F-84F5-F66F9C13AB9E}" cropregion="0,8,1920,1087" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+    - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
+      Hint: brand
+      Value: "{BE24303F-51A3-4B7E-9E11-70F694DB82C1}"
+  - Version: 5
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4E865973-AB7C-4186-AC40-C469AE6933FF}"
+              p:after="*[1=2]"
+              s:ds="{B44FF73D-4DD5-40E4-9621-F89B32D173A9}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Hydralift
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Recognized as a leading supplier of drilling, handling, and compensation equipment for offshore installations, Hydralift has a legacy built by working closely with customers to deliver comprehensive solutions.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Hydralift
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190426T192111Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Hydralift
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Hydralift
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Hydralift
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3ecde225-f2e9-4d8a-9a4d-ce3a5004fd37"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{EA155798-89F9-42A8-A18A-1921664D1E01}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Recognized as a leading supplier of drilling, handling, and compensation equipment for offshore installations, Hydralift has a legacy built by working closely with customers to deliver comprehensive solutions.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190426T192111Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{6B9BF852-B416-491F-84F5-F66F9C13AB9E}" cropregion="0,138,1920,1240" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190426T192137Z
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: Hydralift, Hydralift drilling, handling, compensation equipment
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{6B9BF852-B416-491F-84F5-F66F9C13AB9E}" cropregion="0,0,1920,1079" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+    - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
+      Hint: brand
+      Value: "{BE24303F-51A3-4B7E-9E11-70F694DB82C1}"
+  - Version: 6
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4E865973-AB7C-4186-AC40-C469AE6933FF}"
+              p:after="*[1=2]"
+              s:ds="{B44FF73D-4DD5-40E4-9621-F89B32D173A9}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Hydralift
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Recognized as a leading supplier of drilling, handling, and compensation equipment for offshore installations, Hydralift has a legacy built by working closely with customers to deliver comprehensive solutions.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Hydralift
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190517T172529Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Hydralift
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Hydralift
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\arshmomin
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Hydralift
+    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
+      Hint: Search Result Text
+      Value: "Brand: Hydralift"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cf27aaa4-6ba3-4190-b778-dbace08a622d"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{EA155798-89F9-42A8-A18A-1921664D1E01}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\arshmomin
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Recognized as a leading supplier of drilling, handling, and compensation equipment for offshore installations, Hydralift has a legacy built by working closely with customers to deliver comprehensive solutions.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190517T172529Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{6B9BF852-B416-491F-84F5-F66F9C13AB9E}" cropregion="0,138,1920,1240" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190517T172600Z
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: Hydralift, Hydralift drilling, handling, compensation equipment
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{6B9BF852-B416-491F-84F5-F66F9C13AB9E}" cropregion="0,0,1920,1079" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+    - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
+      Hint: brand
+      Value: "{BE24303F-51A3-4B7E-9E11-70F694DB82C1}"
+  - Version: 7
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{4E865973-AB7C-4186-AC40-C469AE6933FF}"
+              p:after="r[@uid='{3F94459F-580E-478C-AF58-1F6F8D07C8A9}']"
+              s:ds="{B44FF73D-4DD5-40E4-9621-F89B32D173A9}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{F860490B-7EDD-41F7-858D-17D727839ACB}"
+              p:after="*[1=2]"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Hydralift
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Recognized as a leading supplier of drilling, handling, and compensation equipment for offshore installations, Hydralift has a legacy built by working closely with customers to deliver comprehensive solutions.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Hydralift
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190517T172621Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Hydralift
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Hydralift
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\arshmomin
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Hydralift
+    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
+      Hint: Search Result Text
+      Value: "Brand: Hydralift"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3de2589e-3a55-4416-bff8-2c6c791b9ced"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{EA155798-89F9-42A8-A18A-1921664D1E01}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\arshmomin
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Recognized as a leading supplier of drilling, handling, and compensation equipment for offshore installations, Hydralift has a legacy built by working closely with customers to deliver comprehensive solutions.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190517T172621Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{6B9BF852-B416-491F-84F5-F66F9C13AB9E}" cropregion="0,138,1920,1240" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190517T172751Z
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: Hydralift, Hydralift drilling, handling, compensation equipment
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{6B9BF852-B416-491F-84F5-F66F9C13AB9E}" cropregion="0,0,1920,1079" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+    - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
+      Hint: brand
+      Value: "{BE24303F-51A3-4B7E-9E11-70F694DB82C1}"
+  - Version: 8
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{4E865973-AB7C-4186-AC40-C469AE6933FF}"
+              p:after="r[@uid='{3F94459F-580E-478C-AF58-1F6F8D07C8A9}']"
+              s:ds="{B44FF73D-4DD5-40E4-9621-F89B32D173A9}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{F860490B-7EDD-41F7-858D-17D727839ACB}"
+              p:after="*[1=2]"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Hydralift
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Recognized as a leading supplier of drilling, handling, and compensation equipment for offshore installations, Hydralift has a legacy built by working closely with customers to deliver comprehensive solutions.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Hydralift
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190607T174638Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Hydralift
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Hydralift
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Hydralift
+    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
+      Hint: Search Result Text
+      Value: "Brand: Hydralift"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2f2d7acd-1a07-499d-8e3c-4769ca37e948"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{EA155798-89F9-42A8-A18A-1921664D1E01}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Recognized as a leading supplier of drilling, handling, and compensation equipment for offshore installations, Hydralift has a legacy built by working closely with customers to deliver comprehensive solutions.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190607T174638Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{D65CFC2F-1F26-4841-8809-0939DF438418}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190607T174725Z
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: Hydralift, Hydralift drilling, handling, compensation equipment
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{D65CFC2F-1F26-4841-8809-0939DF438418}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+    - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
+      Hint: brand
+      Value: "{BE24303F-51A3-4B7E-9E11-70F694DB82C1}"
+  - Version: 9
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{4E865973-AB7C-4186-AC40-C469AE6933FF}"
+              p:after="r[@uid='{3F94459F-580E-478C-AF58-1F6F8D07C8A9}']"
+              s:ds="{B44FF73D-4DD5-40E4-9621-F89B32D173A9}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{F860490B-7EDD-41F7-858D-17D727839ACB}"
+              p:after="*[1=2]"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Hydralift
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Recognized as a leading supplier of drilling, handling, and compensation equipment for offshore installations, Hydralift has a legacy built by working closely with customers to deliver comprehensive solutions.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Hydralift
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190607T174756Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Hydralift
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Hydralift
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Hydralift
+    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
+      Hint: Search Result Text
+      Value: "Brand: Hydralift"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "32c5e3de-2936-411a-a9dc-3ad26e9ad44f"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{EA155798-89F9-42A8-A18A-1921664D1E01}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Recognized as a leading supplier of drilling, handling, and compensation equipment for offshore installations, Hydralift has a legacy built by working closely with customers to deliver comprehensive solutions.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190607T174756Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{D65CFC2F-1F26-4841-8809-0939DF438418}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190607T174826Z
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: Hydralift, Hydralift drilling, handling, compensation equipment
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{D65CFC2F-1F26-4841-8809-0939DF438418}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+    - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
+      Hint: brand
+      Value: "{BE24303F-51A3-4B7E-9E11-70F694DB82C1}"
+  - Version: 10
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{4E865973-AB7C-4186-AC40-C469AE6933FF}"
+              p:after="r[@uid='{3F94459F-580E-478C-AF58-1F6F8D07C8A9}']"
+              s:ds="{B44FF73D-4DD5-40E4-9621-F89B32D173A9}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{F860490B-7EDD-41F7-858D-17D727839ACB}"
+              p:after="*[1=2]"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Hydralift
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Recognized as a leading supplier of drilling, handling, and compensation equipment for offshore installations, Hydralift has a legacy built by working closely with customers to deliver comprehensive solutions.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Hydralift
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190607T174830Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Hydralift
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Hydralift
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Hydralift
+    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
+      Hint: Search Result Text
+      Value: "Brand: Hydralift"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d8000e24-9be2-4d29-b9f3-785d2e1aeee6"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{EA155798-89F9-42A8-A18A-1921664D1E01}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\adminrschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Recognized as a leading supplier of drilling, handling, and compensation equipment for offshore installations, Hydralift has a legacy built by working closely with customers to deliver comprehensive solutions.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190607T174830Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{D65CFC2F-1F26-4841-8809-0939DF438418}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210422T010337Z
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: Hydralift, Hydralift drilling, handling, compensation equipment
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{D65CFC2F-1F26-4841-8809-0939DF438418}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+    - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
+      Hint: brand
+      Value: "{BE24303F-51A3-4B7E-9E11-70F694DB82C1}"

@@ -1,0 +1,371 @@
+﻿---
+ID: "dab9caa2-1079-4598-adb7-ff916245d1ed"
+Parent: "b6e77496-7bee-48dc-9afb-11df7eacc15a"
+Template: "767fef1e-1eb7-417d-93c6-ca72cac21a26"
+Path: /sitecore/content/nov/nov/Home/Products and Services/Brands/Kenics
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}"
+          s:ds="{160AE7D7-5BC0-4EA6-92D2-46F2698598FD}" />
+        <r
+          uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}"
+          s:ds="{0D956A7E-BA16-4545-B964-02C7A0FB8630}" />
+        <r
+          uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}"
+          s:ds="{3C24024C-72B5-4061-8ED1-79B197F8B71C}" />
+      </d>
+    </r>
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01fd8c23-1b98-4e4b-9f2d-ecf3eb8aad68"
+      Hint: businessUnits
+      Value: "{424899CB-AF39-4DD1-9B7A-A18B0152D8EC}"
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}">
+              <p:d />
+            </r>
+            <r
+              uid="{3F94459F-580E-478C-AF58-1F6F8D07C8A9}">
+              <p:d />
+            </r>
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+            <r
+              uid="{151D0F69-C542-493B-81F2-CE289E3F4B89}"
+              p:before="*"
+              s:ds=""
+              s:id="{9CA51EAB-92E4-4A77-8B48-966774577172}"
+              s:par="Add Gradient=1"
+              s:ph="/main/product-hero-{8DB11A77-7F80-4A4A-8B10-40E9F85E6A0A}-0" />
+            <r
+              uid="{8DB11A77-7F80-4A4A-8B10-40E9F85E6A0A}"
+              p:after="r[@uid='{151D0F69-C542-493B-81F2-CE289E3F4B89}']"
+              s:ds="{DB7BAB29-A94C-445B-B541-5C88B4C85EB8}"
+              s:id="{C3DD97A2-2C6B-4FDA-922C-7127AE10C976}"
+              s:ph="main" />
+            <r
+              uid="{3EC14C39-5E76-4AC2-882F-1D6C44A383DC}"
+              p:after="r[@uid='{8DB11A77-7F80-4A4A-8B10-40E9F85E6A0A}']"
+              s:ds="{AE244952-357A-4D39-9810-08D5CFA42B5F}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{7F2F1783-0053-463D-86BE-BB43E4CFEC37}"
+              p:after="r[@uid='{3EC14C39-5E76-4AC2-882F-1D6C44A383DC}']"
+              s:ds="{DB384F6E-8859-4747-8B90-F9CD6ECE61ED}"
+              s:id="{A22722F6-65DF-4574-B659-191957028C9B}"
+              s:ph="main" />
+            <r
+              uid="{C852D179-0842-4A9F-9A25-225E870CA71D}"
+              p:after="r[@uid='{7F2F1783-0053-463D-86BE-BB43E4CFEC37}']"
+              s:ds="{BB332A10-0927-48CA-AE43-52AC2A7EE119}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{C9E767D0-7067-4477-871A-C1E94BD18913}"
+              p:after="r[@uid='{C852D179-0842-4A9F-9A25-225E870CA71D}']"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{6F1B691A-3D82-453C-8BC0-AE1D6B320368}"
+              p:after="r[@uid='{C9E767D0-7067-4477-871A-C1E94BD18913}']"
+              s:ds="{BE29CED2-A4DE-43AE-AD81-595BEFB7322A}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{1F59AAE7-FBDA-44EB-823A-D0D8E3F4FE67}"
+              p:after="r[@uid='{6F1B691A-3D82-453C-8BC0-AE1D6B320368}']"
+              s:ds="{9B6BBE58-2A94-4C32-9E50-BA4E1EE29959}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{9A2119A1-9E3A-4B29-A7B4-6B97BD7487AB}"
+              p:after="r[@uid='{1F59AAE7-FBDA-44EB-823A-D0D8E3F4FE67}']"
+              s:ds="{318492CC-A891-4E5C-A9BC-947A05E431BC}"
+              s:id="{404FE8DE-C601-4E14-8D3D-32F27B41D06D}"
+              s:ph="main" />
+            <r
+              uid="{F3FBBFDF-FBB7-4D55-BEAF-9E06ADFD24D2}"
+              p:after="*[1=2]"
+              s:ds="{152AF4E0-BFF3-4400-A330-EF0E69000E7D}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Kenics
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Precise blending and dispersion of all flowable materials, with no moving parts</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Kenics Static Mixers and Heat Exchangers
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220112T185137Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Kenics
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Kenics
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{ABA9E56C-0FCE-464D-8E09-DB375CDF20D8}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Kenics
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2dfb88fb-22e8-439b-a2e5-ff3d015329c8"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{EA155798-89F9-42A8-A18A-1921664D1E01}"
+    - ID: "b0d622b7-156a-4f17-9ce4-4dd213df0302"
+      Hint: Date
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Precise blending and dispersion of all flowable materials, with no moving parts
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{B320D1B6-588C-4DE0-A527-C134F16AC97F}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220120T203452Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{B320D1B6-588C-4DE0-A527-C134F16AC97F}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+    - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
+      Hint: brand
+      Value: "{4F5354AA-E79A-4E11-8206-EA5A9850C3D6}"
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01fd8c23-1b98-4e4b-9f2d-ecf3eb8aad68"
+      Hint: businessUnits
+      Value: "{424899CB-AF39-4DD1-9B7A-A18B0152D8EC}"
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}">
+              <p:d />
+            </r>
+            <r
+              uid="{3F94459F-580E-478C-AF58-1F6F8D07C8A9}">
+              <p:d />
+            </r>
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+            <r
+              uid="{151D0F69-C542-493B-81F2-CE289E3F4B89}"
+              p:before="*"
+              s:ds=""
+              s:id="{9CA51EAB-92E4-4A77-8B48-966774577172}"
+              s:par="Add Gradient=1"
+              s:ph="/main/product-hero-{8DB11A77-7F80-4A4A-8B10-40E9F85E6A0A}-0" />
+            <r
+              uid="{8DB11A77-7F80-4A4A-8B10-40E9F85E6A0A}"
+              p:after="r[@uid='{151D0F69-C542-493B-81F2-CE289E3F4B89}']"
+              s:ds="{DB7BAB29-A94C-445B-B541-5C88B4C85EB8}"
+              s:id="{C3DD97A2-2C6B-4FDA-922C-7127AE10C976}"
+              s:ph="main" />
+            <r
+              uid="{3EC14C39-5E76-4AC2-882F-1D6C44A383DC}"
+              p:after="r[@uid='{8DB11A77-7F80-4A4A-8B10-40E9F85E6A0A}']"
+              s:ds="{AE244952-357A-4D39-9810-08D5CFA42B5F}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{7F2F1783-0053-463D-86BE-BB43E4CFEC37}"
+              p:after="r[@uid='{3EC14C39-5E76-4AC2-882F-1D6C44A383DC}']"
+              s:ds="{2BA142D6-714F-46F1-8DFD-530F9427EEDF}"
+              s:id="{A22722F6-65DF-4574-B659-191957028C9B}"
+              s:par=""
+              s:ph="main" />
+            <r
+              uid="{C852D179-0842-4A9F-9A25-225E870CA71D}"
+              p:after="r[@uid='{7F2F1783-0053-463D-86BE-BB43E4CFEC37}']"
+              s:ds="{BB332A10-0927-48CA-AE43-52AC2A7EE119}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{C9E767D0-7067-4477-871A-C1E94BD18913}"
+              p:after="r[@uid='{C852D179-0842-4A9F-9A25-225E870CA71D}']"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{6F1B691A-3D82-453C-8BC0-AE1D6B320368}"
+              p:after="r[@uid='{C9E767D0-7067-4477-871A-C1E94BD18913}']"
+              s:ds="{BE29CED2-A4DE-43AE-AD81-595BEFB7322A}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{1F59AAE7-FBDA-44EB-823A-D0D8E3F4FE67}"
+              p:after="r[@uid='{6F1B691A-3D82-453C-8BC0-AE1D6B320368}']"
+              s:ds="{9B6BBE58-2A94-4C32-9E50-BA4E1EE29959}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{9A2119A1-9E3A-4B29-A7B4-6B97BD7487AB}"
+              p:after="r[@uid='{1F59AAE7-FBDA-44EB-823A-D0D8E3F4FE67}']"
+              s:ds="{318492CC-A891-4E5C-A9BC-947A05E431BC}"
+              s:id="{404FE8DE-C601-4E14-8D3D-32F27B41D06D}"
+              s:ph="main" />
+            <r
+              uid="{F3FBBFDF-FBB7-4D55-BEAF-9E06ADFD24D2}"
+              p:after="*[1=2]"
+              s:ds="{D716B1A8-F2FB-49CA-B9DB-CAAC03B6B0CB}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:par=""
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Kenics
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Precise blending and dispersion of all flowable materials, with no moving parts</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Kenics Static Mixers and Heat Exchangers
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220222T212317Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Kenics
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Kenics
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{ABA9E56C-0FCE-464D-8E09-DB375CDF20D8}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Kenics
+    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
+      Hint: Search Result Text
+      Value: "Brand: Kenics Static Mixers and Heat Exchangers "
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c7dc358d-d4a0-4af0-8a8a-0c4ea751be09"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{EA155798-89F9-42A8-A18A-1921664D1E01}"
+    - ID: "b0d622b7-156a-4f17-9ce4-4dd213df0302"
+      Hint: Date
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Precise blending and dispersion of all flowable materials, with no moving parts
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20220222T212317Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{B320D1B6-588C-4DE0-A527-C134F16AC97F}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220325T140343Z
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: kenics
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{B320D1B6-588C-4DE0-A527-C134F16AC97F}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+    - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
+      Hint: brand
+      Value: "{4F5354AA-E79A-4E11-8206-EA5A9850C3D6}"

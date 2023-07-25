@@ -1,0 +1,377 @@
+﻿---
+ID: "6017bfd3-1c88-407e-8299-f82c1270f43f"
+Parent: "0efcb894-1233-44a0-9b5d-268dc82ee1a0"
+Template: "6ad6b0c9-8586-4263-8ffb-9cbfc20b67d4"
+Path: /sitecore/content/nov/nov/Home/Products and Services/Capabilities/Deep Sea Mineral Extraction
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}"
+          s:ds="{B466E8EA-9678-4EEA-883C-A723DD56802A}" />
+        <r
+          uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}"
+          s:ds="{85E23F52-9276-4A5A-B0F5-B509EDD246A1}" />
+        <r
+          uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}"
+          s:ds="{4B795D82-5542-4ED4-B185-236E2A5F3B3E}" />
+      </d>
+    </r>
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}">
+              <p:d />
+            </r>
+            <r
+              uid="{37A7ADD6-9046-4B18-B22A-BE9133614F3D}">
+              <p:d />
+            </r>
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{A98276F8-4AB1-46FF-96A6-023FBD45169A}"
+              p:before="*"
+              s:ds=""
+              s:id="{9CA51EAB-92E4-4A77-8B48-966774577172}"
+              s:par="Add Gradient=1"
+              s:ph="/main/product-hero-{6C9CE964-BB62-4913-90D5-148D2EAC8EEC}-0" />
+            <r
+              uid="{6C9CE964-BB62-4913-90D5-148D2EAC8EEC}"
+              p:after="r[@uid='{A98276F8-4AB1-46FF-96A6-023FBD45169A}']"
+              s:ds="{DB7BAB29-A94C-445B-B541-5C88B4C85EB8}"
+              s:id="{C3DD97A2-2C6B-4FDA-922C-7127AE10C976}"
+              s:ph="main" />
+            <r
+              uid="{10396D24-088E-457F-B7C1-FCA54896CF11}"
+              p:after="r[@uid='{6C9CE964-BB62-4913-90D5-148D2EAC8EEC}']"
+              s:ds="{492D1380-E88A-40AB-B264-3BF3D358288E}"
+              s:id="{EA2AC21A-A652-4FD4-9F5D-4F9EB4322B26}"
+              s:ph="/main/image-block-main-{3D3A5C5F-7F35-46D7-AA8D-1609655C68EF}-0/image-block-splitter-960x1080-right" />
+            <r
+              uid="{516EC099-6203-43C2-8019-0EDF910EE658}"
+              p:after="r[@uid='{10396D24-088E-457F-B7C1-FCA54896CF11}']"
+              s:ds="{D682DB44-0732-4DA9-A678-B0F44EA5E1C4}"
+              s:id="{EA2AC21A-A652-4FD4-9F5D-4F9EB4322B26}"
+              s:ph="/main/image-block-main-{3D3A5C5F-7F35-46D7-AA8D-1609655C68EF}-0/image-block-splitter-960x1080-left" />
+            <r
+              uid="{0EEAA804-A761-45A5-B2D0-BD2265B913AB}"
+              p:after="r[@uid='{516EC099-6203-43C2-8019-0EDF910EE658}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main-{3D3A5C5F-7F35-46D7-AA8D-1609655C68EF}-0" />
+            <r
+              uid="{07FD9E28-7C64-425D-AF1E-079F42BD56FF}"
+              p:after="r[@uid='{0EEAA804-A761-45A5-B2D0-BD2265B913AB}']"
+              s:ds="{062267EE-7E9C-4A09-89BD-B7AE2CEAF10B}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{8C2E510C-05E4-4759-AD91-18FEBADF815B}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{75182E15-2B6F-44D9-A301-8D0A5F001741}"
+              p:after="r[@uid='{07FD9E28-7C64-425D-AF1E-079F42BD56FF}']"
+              s:ds="{FB6081BD-8508-4BDF-9672-1888570C123D}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{8C2E510C-05E4-4759-AD91-18FEBADF815B}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top" />
+            <r
+              uid="{3775A2F3-BC05-4AF5-89EA-B6E77CA5DF3D}"
+              p:after="r[@uid='{75182E15-2B6F-44D9-A301-8D0A5F001741}']"
+              s:ds="{77AB66F7-5687-4193-AB4A-352E69494873}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{8C2E510C-05E4-4759-AD91-18FEBADF815B}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{3BF309B5-DF9F-4B9C-88FA-AEB0C664CE29}"
+              p:after="r[@uid='{3775A2F3-BC05-4AF5-89EA-B6E77CA5DF3D}']"
+              s:ds="{5BDACD0B-A1A0-45C9-9215-2706F066D1D8}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{8C2E510C-05E4-4759-AD91-18FEBADF815B}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-top" />
+            <r
+              uid="{225340C1-AD66-4929-9D42-995FCD6FB3C9}"
+              p:after="r[@uid='{3BF309B5-DF9F-4B9C-88FA-AEB0C664CE29}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{8C2E510C-05E4-4759-AD91-18FEBADF815B}-0/image-block-splitter-960x1080-right" />
+            <r
+              uid="{3D501BCC-B52C-4E7D-BFC1-191E59F9ECF8}"
+              p:after="r[@uid='{225340C1-AD66-4929-9D42-995FCD6FB3C9}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{8C2E510C-05E4-4759-AD91-18FEBADF815B}-0/image-block-splitter-960x1080-left" />
+            <r
+              uid="{8B9BF3AF-A940-446D-A00F-5B660C294B22}"
+              p:after="r[@uid='{3D501BCC-B52C-4E7D-BFC1-191E59F9ECF8}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main-{8C2E510C-05E4-4759-AD91-18FEBADF815B}-0" />
+            <r
+              uid="{3CBCE8DD-5296-46EE-9518-32955C58F5E7}"
+              p:after="r[@uid='{8B9BF3AF-A940-446D-A00F-5B660C294B22}']"
+              s:ds="{537CEBCE-B1DF-4048-9754-D2CEFE9DBABD}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{5E86A4BB-A61A-4618-AE8B-B4320374B24B}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom/image-block-splitter-480x540-right" />
+            <r
+              uid="{BB490BCC-7167-4C89-A9F4-387A9B37F661}"
+              p:after="r[@uid='{3CBCE8DD-5296-46EE-9518-32955C58F5E7}']"
+              s:ds="{52B0DE13-ADCF-4568-B437-BA5C663355EB}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{5E86A4BB-A61A-4618-AE8B-B4320374B24B}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom/image-block-splitter-480x540-left" />
+            <r
+              uid="{43D9E4B8-A2E4-4ACE-B0E5-705F2457517D}"
+              p:after="r[@uid='{BB490BCC-7167-4C89-A9F4-387A9B37F661}']"
+              s:id="{30CDBCD0-0126-446E-8E05-E7931C91B224}"
+              s:ph="/main/image-block-main-{5E86A4BB-A61A-4618-AE8B-B4320374B24B}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{F63EBAC2-04F4-4F58-A231-357B1E0C9A19}"
+              p:after="r[@uid='{43D9E4B8-A2E4-4ACE-B0E5-705F2457517D}']"
+              s:ds="{621F7B8D-91B8-4A9C-8CDA-73343F97444F}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{5E86A4BB-A61A-4618-AE8B-B4320374B24B}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top/image-block-splitter-480x540-right" />
+            <r
+              uid="{A360EBDC-9958-4390-9A5A-5EEC0423B9BE}"
+              p:after="r[@uid='{F63EBAC2-04F4-4F58-A231-357B1E0C9A19}']"
+              s:ds="{BB1714E6-FA32-44B6-933D-94B42769E74D}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{5E86A4BB-A61A-4618-AE8B-B4320374B24B}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top/image-block-splitter-480x540-left" />
+            <r
+              uid="{E502C81B-368E-450D-8646-F212D79DDDD9}"
+              p:after="r[@uid='{A360EBDC-9958-4390-9A5A-5EEC0423B9BE}']"
+              s:id="{30CDBCD0-0126-446E-8E05-E7931C91B224}"
+              s:ph="/main/image-block-main-{5E86A4BB-A61A-4618-AE8B-B4320374B24B}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top" />
+            <r
+              uid="{53BA9394-EBFD-4C14-93D9-9BF192FD1DA6}"
+              p:after="r[@uid='{E502C81B-368E-450D-8646-F212D79DDDD9}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{5E86A4BB-A61A-4618-AE8B-B4320374B24B}-0/image-block-splitter-960x1080-right" />
+            <r
+              uid="{7B407B40-BF43-4822-94C2-AEAB0BF8872F}"
+              p:after="r[@uid='{53BA9394-EBFD-4C14-93D9-9BF192FD1DA6}']"
+              s:ds="{A7100994-EC0F-4D8E-87F2-D2DFF1C0C445}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{5E86A4BB-A61A-4618-AE8B-B4320374B24B}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom/image-block-splitter-480x540-right" />
+            <r
+              uid="{2A76B1FB-ABE1-4927-9A87-8F9E031824E1}"
+              p:after="r[@uid='{7B407B40-BF43-4822-94C2-AEAB0BF8872F}']"
+              s:ds="{9D08E357-D0DF-4BC7-844A-4A9998DB0ECD}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{5E86A4BB-A61A-4618-AE8B-B4320374B24B}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom/image-block-splitter-480x540-left" />
+            <r
+              uid="{7DF1BBEB-69DE-454C-AD8A-08DD3B49E7FD}"
+              p:after="r[@uid='{2A76B1FB-ABE1-4927-9A87-8F9E031824E1}']"
+              s:id="{30CDBCD0-0126-446E-8E05-E7931C91B224}"
+              s:ph="/main/image-block-main-{5E86A4BB-A61A-4618-AE8B-B4320374B24B}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{25F9DE13-77BB-4DD4-B89E-123894418DBC}"
+              p:after="r[@uid='{7DF1BBEB-69DE-454C-AD8A-08DD3B49E7FD}']"
+              s:ds="{6AF769F3-85C6-496D-A1B3-B8E1D98213D6}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{5E86A4BB-A61A-4618-AE8B-B4320374B24B}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-top/image-block-splitter-480x540-right" />
+            <r
+              uid="{1BEB5F60-DE1E-4FA6-A420-847A2E87859A}"
+              p:after="r[@uid='{25F9DE13-77BB-4DD4-B89E-123894418DBC}']"
+              s:ds="{1E240925-9F81-4879-A07C-21B6832DB99C}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{5E86A4BB-A61A-4618-AE8B-B4320374B24B}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-top/image-block-splitter-480x540-left" />
+            <r
+              uid="{FB3FE385-6D91-4294-AB91-BD18822E7976}"
+              p:after="r[@uid='{1BEB5F60-DE1E-4FA6-A420-847A2E87859A}']"
+              s:id="{30CDBCD0-0126-446E-8E05-E7931C91B224}"
+              s:ph="/main/image-block-main-{5E86A4BB-A61A-4618-AE8B-B4320374B24B}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-top" />
+            <r
+              uid="{2CC1F9B1-2DDD-4274-B674-53B2CEA414C2}"
+              p:after="r[@uid='{FB3FE385-6D91-4294-AB91-BD18822E7976}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{5E86A4BB-A61A-4618-AE8B-B4320374B24B}-0/image-block-splitter-960x1080-left" />
+            <r
+              uid="{40E1A418-0C8C-4EDA-BA74-3D02BCF494CC}"
+              p:after="r[@uid='{2CC1F9B1-2DDD-4274-B674-53B2CEA414C2}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main-{5E86A4BB-A61A-4618-AE8B-B4320374B24B}-0" />
+            <r
+              uid="{B1751DC7-02AE-4E30-88ED-3C274A8152AB}"
+              p:after="r[@uid='{40E1A418-0C8C-4EDA-BA74-3D02BCF494CC}']"
+              s:ds="{C17D4BCD-E1FB-477C-BA24-40240D64C727}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{50AEFF61-515D-4FED-B648-50134EDABA94}"
+              p:after="r[@uid='{B1751DC7-02AE-4E30-88ED-3C274A8152AB}']"
+              s:ds="{24A83B82-951C-4D45-922E-2078A4C183C6}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{A7D92F5C-3D30-448D-9049-CF689A5E6F61}"
+              p:after="r[@uid='{50AEFF61-515D-4FED-B648-50134EDABA94}']"
+              s:ds="{394EEA46-F1E7-4B51-AF0D-1AA55445DE6C}"
+              s:id="{F6988CA1-8F6A-4235-8851-39729DDF65B4}"
+              s:ph="main" />
+            <r
+              uid="{2C7CF239-D448-4283-918E-6173C2063C58}"
+              p:after="r[@uid='{A7D92F5C-3D30-448D-9049-CF689A5E6F61}']"
+              s:ds="{3D2C83CB-FFD2-4A08-A8C4-D730C1296125}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{3D3A5C5F-7F35-46D7-AA8D-1609655C68EF}"
+              p:after="r[@uid='{2C7CF239-D448-4283-918E-6173C2063C58}']"
+              s:id="{6932DD17-1CD9-4D03-93B7-3C0A92EB8229}"
+              s:ph="main" />
+            <r
+              uid="{B8FC15B1-C74C-4FA9-B90A-4623CF85A6FF}"
+              p:after="r[@uid='{3D3A5C5F-7F35-46D7-AA8D-1609655C68EF}']"
+              s:ds="{68AE6685-8903-4D6E-B862-AF42515C9C81}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{05B93497-CC37-48B8-8227-F452EC20F854}"
+              p:after="r[@uid='{B8FC15B1-C74C-4FA9-B90A-4623CF85A6FF}']"
+              s:ds="{C80800C8-42FD-4644-A759-9A702E490F44}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{3A77951F-3E13-4782-954C-1A89C679642F}"
+              p:after="r[@uid='{05B93497-CC37-48B8-8227-F452EC20F854}']"
+              s:ds="{380E7498-E1A0-4230-8D82-A4CA382825F7}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{8C2E510C-05E4-4759-AD91-18FEBADF815B}"
+              p:after="r[@uid='{3A77951F-3E13-4782-954C-1A89C679642F}']"
+              s:id="{6932DD17-1CD9-4D03-93B7-3C0A92EB8229}"
+              s:ph="main" />
+            <r
+              uid="{1EBAEA4E-345C-4AC8-AA66-AA3DF28CEA98}"
+              p:after="r[@uid='{8C2E510C-05E4-4759-AD91-18FEBADF815B}']"
+              s:ds="{ABCBA55A-251A-49C7-916D-FF615D87658C}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{E013A2D8-B241-46E0-9A88-C31CA225D40C}"
+              p:after="r[@uid='{1EBAEA4E-345C-4AC8-AA66-AA3DF28CEA98}']"
+              s:ds="{2BA14ED5-F0CF-4A42-8EB1-2794743D3B04}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:ph="main" />
+            <r
+              uid="{A695027B-76A7-4BE7-937E-CBCFCBF49082}"
+              p:after="r[@uid='{E013A2D8-B241-46E0-9A88-C31CA225D40C}']"
+              s:ds="{2BE84F30-8BB2-46DD-ACE1-11A1BCB45233}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{4D340DD8-87D3-439F-A152-2A8E64B7496F}"
+              p:after="r[@uid='{A695027B-76A7-4BE7-937E-CBCFCBF49082}']"
+              s:ds="{BD561A7D-D678-48B4-89FB-347780B404AC}"
+              s:id="{703C4FCC-55FD-48C3-8F29-1B196484B61C}"
+              s:ph="main" />
+            <r
+              uid="{5E86A4BB-A61A-4618-AE8B-B4320374B24B}"
+              p:after="r[@uid='{4D340DD8-87D3-439F-A152-2A8E64B7496F}']"
+              s:id="{6932DD17-1CD9-4D03-93B7-3C0A92EB8229}"
+              s:ph="main" />
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+            <r
+              uid="{EFB455F3-0B20-493B-98FB-6996E65DFA40}"
+              p:after="r[@uid='{4BBC422C-6B71-4B4F-B6DC-4295F397094F}']"
+              s:ds="{358D89D0-E25A-4E70-B5AC-BB9C17776697}"
+              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
+              s:par="Use Button for Link"
+              s:ph="main" />
+            <r
+              uid="{BEA4646F-7EB3-4971-80FA-C2222D4C6CA1}"
+              p:after="*[1=2]"
+              s:ds="{03C64653-AEA8-49CC-AE07-CEBB7EACB01C}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: "Deep-sea Mineral Extraction"
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Materials and metals are the building blocks of the Energy Transition</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: "Deep-sea Mineral Extraction"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220304T224256Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: "Deep-sea Mineral Extraction"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: "Deep-sea Mineral Extraction"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{BDBB4831-2FA3-461D-BBF2-CD98C1003F8A}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: "Deep-sea Mineral Extraction"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5b063aee-9241-4415-955c-4cfb3f7e21b6"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{894AD693-62BC-4D0F-8E34-42401EBEF1F3}"
+    - ID: "b0d622b7-156a-4f17-9ce4-4dd213df0302"
+      Hint: Date
+      Value: 20220304T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Materials and metals are the building blocks of Energy Transition
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{BDBB4831-2FA3-461D-BBF2-CD98C1003F8A}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220322T141819Z
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: "deep-sea mining, deep-sea minerals, deep-sea mineral harvesting, deep-sea mineral extraction"
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{BDBB4831-2FA3-461D-BBF2-CD98C1003F8A}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />

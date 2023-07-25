@@ -1,0 +1,1276 @@
+﻿---
+ID: "2212bf75-394a-4eee-8887-ddcf20e85e06"
+Parent: "0efcb894-1233-44a0-9b5d-268dc82ee1a0"
+Template: "6ad6b0c9-8586-4263-8ffb-9cbfc20b67d4"
+Path: /sitecore/content/nov/nov/Home/Products and Services/Capabilities/Solar Energy
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}"
+          s:ds="{31D768B5-607D-4B04-B358-5445DD310A38}" />
+        <r
+          uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}"
+          s:ds="{C260D41E-719F-4BEA-BE3E-33F356725990}" />
+        <r
+          uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}"
+          s:ds="{F53423F3-942D-434D-A514-158D0C57FE4E}" />
+      </d>
+    </r>
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{88D59FAD-8A0D-4069-B869-997655991912}"
+              p:before="*"
+              s:ds="{3A149E86-425E-41B6-B575-7EC69606FACF}"
+              s:id="{EA2AC21A-A652-4FD4-9F5D-4F9EB4322B26}"
+              s:ph="/main/image-block-main-{C835D48E-8FAC-44A8-9629-01DC8C700A1C}-0/image-block-splitter-960x1080-right" />
+            <r
+              uid="{FAD9EBB0-D951-4F02-A57A-48E836B5B69E}"
+              p:after="r[@uid='{88D59FAD-8A0D-4069-B869-997655991912}']"
+              s:ds="{4909B296-5456-438F-AEF7-5BC27DF87BFC}"
+              s:id="{EA2AC21A-A652-4FD4-9F5D-4F9EB4322B26}"
+              s:ph="/main/image-block-main-{C835D48E-8FAC-44A8-9629-01DC8C700A1C}-0/image-block-splitter-960x1080-left" />
+            <r
+              uid="{6A662B59-1542-4A6C-88A7-5C5015D2E407}"
+              p:after="r[@uid='{FAD9EBB0-D951-4F02-A57A-48E836B5B69E}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main-{C835D48E-8FAC-44A8-9629-01DC8C700A1C}-0" />
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+            <r
+              uid="{930A14F8-EEC2-4485-BB7F-D60FC8E7F9E8}"
+              p:after="r[@uid='{37A7ADD6-9046-4B18-B22A-BE9133614F3D}']"
+              s:ds="{09A86DCE-2B57-47AB-9C77-20634C22004F}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{10CFED13-721E-4D7A-9DED-9CCC2CAFD471}"
+              p:after="r[@uid='{930A14F8-EEC2-4485-BB7F-D60FC8E7F9E8}']"
+              s:ds="{0159E13E-3FEE-40A9-B4B1-82EA24233149}"
+              s:id="{F6988CA1-8F6A-4235-8851-39729DDF65B4}"
+              s:ph="main" />
+            <r
+              uid="{9275EC8C-F06D-4751-9284-461A583FCB8C}"
+              p:after="r[@uid='{10CFED13-721E-4D7A-9DED-9CCC2CAFD471}']"
+              s:ds="{912E8E91-3124-4848-99FE-E37F5756271A}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{C835D48E-8FAC-44A8-9629-01DC8C700A1C}"
+              p:after="*[1=2]"
+              s:id="{6932DD17-1CD9-4D03-93B7-3C0A92EB8229}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Solar Energy
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Innovative solutions to transform heat into energy for industry operations.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Solar Energy
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211015T194652Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Solar Energy
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Solar Energy
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{F5EF7075-E0D1-489E-8719-87F7ED07367C}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Solar Energy
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5102a905-7ef9-4b02-99b3-8d5db4bdf4a1"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{894AD693-62BC-4D0F-8E34-42401EBEF1F3}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Solar energy, power generation, and application for operations 
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{F5EF7075-E0D1-489E-8719-87F7ED07367C}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20211021T175140Z
+    - ID: "da134e40-cb02-4645-9846-115fb9a5aeca"
+      Hint: capability
+      Value: "{52332C74-60E8-40EA-A14E-614DA7EE8DDD}"
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: Solar energy, power generation
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{F5EF7075-E0D1-489E-8719-87F7ED07367C}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}">
+              <p:d />
+            </r>
+            <r
+              uid="{37A7ADD6-9046-4B18-B22A-BE9133614F3D}">
+              <p:d />
+            </r>
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+            <r
+              uid="{1726E562-2107-45FA-90C6-BC14C766A736}"
+              p:before="*"
+              s:ds=""
+              s:id="{9CA51EAB-92E4-4A77-8B48-966774577172}"
+              s:par="Add Gradient=1"
+              s:ph="/main/product-hero-{4B1D690F-21D8-4CE9-B873-D8DC996A21C5}-0" />
+            <r
+              uid="{4B1D690F-21D8-4CE9-B873-D8DC996A21C5}"
+              p:after="r[@uid='{1726E562-2107-45FA-90C6-BC14C766A736}']"
+              s:ds="{DB7BAB29-A94C-445B-B541-5C88B4C85EB8}"
+              s:id="{C3DD97A2-2C6B-4FDA-922C-7127AE10C976}"
+              s:ph="main" />
+            <r
+              uid="{88D59FAD-8A0D-4069-B869-997655991912}"
+              p:after="r[@uid='{4B1D690F-21D8-4CE9-B873-D8DC996A21C5}']"
+              s:ds="{3A149E86-425E-41B6-B575-7EC69606FACF}"
+              s:id="{EA2AC21A-A652-4FD4-9F5D-4F9EB4322B26}"
+              s:ph="/main/image-block-main-{C835D48E-8FAC-44A8-9629-01DC8C700A1C}-0/image-block-splitter-960x1080-right" />
+            <r
+              uid="{FAD9EBB0-D951-4F02-A57A-48E836B5B69E}"
+              p:after="r[@uid='{88D59FAD-8A0D-4069-B869-997655991912}']"
+              s:ds="{4909B296-5456-438F-AEF7-5BC27DF87BFC}"
+              s:id="{EA2AC21A-A652-4FD4-9F5D-4F9EB4322B26}"
+              s:ph="/main/image-block-main-{C835D48E-8FAC-44A8-9629-01DC8C700A1C}-0/image-block-splitter-960x1080-left" />
+            <r
+              uid="{6A662B59-1542-4A6C-88A7-5C5015D2E407}"
+              p:after="r[@uid='{FAD9EBB0-D951-4F02-A57A-48E836B5B69E}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main-{C835D48E-8FAC-44A8-9629-01DC8C700A1C}-0" />
+            <r
+              uid="{930A14F8-EEC2-4485-BB7F-D60FC8E7F9E8}"
+              p:after="r[@uid='{6A662B59-1542-4A6C-88A7-5C5015D2E407}']"
+              s:ds="{09A86DCE-2B57-47AB-9C77-20634C22004F}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{10CFED13-721E-4D7A-9DED-9CCC2CAFD471}"
+              p:after="r[@uid='{930A14F8-EEC2-4485-BB7F-D60FC8E7F9E8}']"
+              s:ds="{0159E13E-3FEE-40A9-B4B1-82EA24233149}"
+              s:id="{F6988CA1-8F6A-4235-8851-39729DDF65B4}"
+              s:ph="main" />
+            <r
+              uid="{9275EC8C-F06D-4751-9284-461A583FCB8C}"
+              p:after="r[@uid='{10CFED13-721E-4D7A-9DED-9CCC2CAFD471}']"
+              s:ds="{912E8E91-3124-4848-99FE-E37F5756271A}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{C835D48E-8FAC-44A8-9629-01DC8C700A1C}"
+              p:after="r[@uid='{9275EC8C-F06D-4751-9284-461A583FCB8C}']"
+              s:id="{6932DD17-1CD9-4D03-93B7-3C0A92EB8229}"
+              s:ph="main" />
+            <r
+              uid="{883449DC-F669-4CFE-BD68-3E46C2B07852}"
+              p:after="*[1=2]"
+              s:ds="{46DA4097-FB45-4D0D-9A47-20DD3B8252ED}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Solar Energy
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Innovative solutions to transform heat into energy for industry operations.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Solar Energy
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220217T230035Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Solar Energy
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Solar Energy
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{F5EF7075-E0D1-489E-8719-87F7ED07367C}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Solar Energy
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e75de98f-2464-4428-af3a-db1f36f9e48a"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{894AD693-62BC-4D0F-8E34-42401EBEF1F3}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Solar energy, power generation, and application for operations 
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20220217T230035Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{F5EF7075-E0D1-489E-8719-87F7ED07367C}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220314T191349Z
+    - ID: "da134e40-cb02-4645-9846-115fb9a5aeca"
+      Hint: capability
+      Value: "{52332C74-60E8-40EA-A14E-614DA7EE8DDD}"
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: Solar energy, power generation
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{F5EF7075-E0D1-489E-8719-87F7ED07367C}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}">
+              <p:d />
+            </r>
+            <r
+              uid="{37A7ADD6-9046-4B18-B22A-BE9133614F3D}">
+              <p:d />
+            </r>
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+            <r
+              uid="{2770C7A2-EE39-4EC6-8300-DF1E93F39100}"
+              p:before="*"
+              s:ds="{DE4766EF-C33A-4B1A-AFC6-271A4C98F608}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C835D48E-8FAC-44A8-9629-01DC8C700A1C}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom/image-block-splitter-480x540-right" />
+            <r
+              uid="{8831937A-776D-4EFE-BBA6-0FE70B4B0F86}"
+              p:after="r[@uid='{2770C7A2-EE39-4EC6-8300-DF1E93F39100}']"
+              s:ds="{913679A0-3310-4BC1-B33A-295981CF100A}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C835D48E-8FAC-44A8-9629-01DC8C700A1C}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom/image-block-splitter-480x540-left" />
+            <r
+              uid="{811F80DD-7C18-4077-8B87-DDD43C10CCF1}"
+              p:after="r[@uid='{8831937A-776D-4EFE-BBA6-0FE70B4B0F86}']"
+              s:id="{30CDBCD0-0126-446E-8E05-E7931C91B224}"
+              s:ph="/main/image-block-main-{C835D48E-8FAC-44A8-9629-01DC8C700A1C}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{FBBD9996-9EF9-4658-BF46-854294A8A450}"
+              p:after="r[@uid='{811F80DD-7C18-4077-8B87-DDD43C10CCF1}']"
+              s:ds="{C03AA196-C4C1-4453-96B6-318E9D661028}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C835D48E-8FAC-44A8-9629-01DC8C700A1C}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom/image-block-splitter-480x540-right" />
+            <r
+              uid="{EF30B4FA-F220-4880-A5F1-47D63D32D347}"
+              p:after="r[@uid='{FBBD9996-9EF9-4658-BF46-854294A8A450}']"
+              s:ds="{C11A0584-BE71-41E2-9F0C-7A0204FE2505}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C835D48E-8FAC-44A8-9629-01DC8C700A1C}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom/image-block-splitter-480x540-left" />
+            <r
+              uid="{0BC582C2-23AD-41B5-BBAB-98DDADC3B4DA}"
+              p:after="r[@uid='{EF30B4FA-F220-4880-A5F1-47D63D32D347}']"
+              s:id="{30CDBCD0-0126-446E-8E05-E7931C91B224}"
+              s:ph="/main/image-block-main-{C835D48E-8FAC-44A8-9629-01DC8C700A1C}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{99CD0A4B-AED5-43AB-B173-437AB8A4B18D}"
+              p:after="r[@uid='{0BC582C2-23AD-41B5-BBAB-98DDADC3B4DA}']"
+              s:ds="{FCED5FDD-D38E-40E1-87C1-608076EB12EE}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C835D48E-8FAC-44A8-9629-01DC8C700A1C}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top/image-block-splitter-480x540-right" />
+            <r
+              uid="{D10817DA-8DF0-4ECF-A88E-9BC9CB40A955}"
+              p:after="r[@uid='{99CD0A4B-AED5-43AB-B173-437AB8A4B18D}']"
+              s:ds="{8788D7B7-EE1C-4836-BD11-A49411CB8835}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C835D48E-8FAC-44A8-9629-01DC8C700A1C}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top/image-block-splitter-480x540-left" />
+            <r
+              uid="{433408D6-0317-45FD-88A4-BB6A2BD39969}"
+              p:after="r[@uid='{D10817DA-8DF0-4ECF-A88E-9BC9CB40A955}']"
+              s:id="{30CDBCD0-0126-446E-8E05-E7931C91B224}"
+              s:ph="/main/image-block-main-{C835D48E-8FAC-44A8-9629-01DC8C700A1C}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top" />
+            <r
+              uid="{7640B080-F1B8-4EA7-B026-10F22601DDE7}"
+              p:after="r[@uid='{433408D6-0317-45FD-88A4-BB6A2BD39969}']"
+              s:ds="{6D96C6AC-4EA2-412C-ACAB-6ABFBE78F809}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C835D48E-8FAC-44A8-9629-01DC8C700A1C}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-top/image-block-splitter-480x540-right" />
+            <r
+              uid="{330BC7D6-F6D1-43D8-9A33-A0AF726BC3E8}"
+              p:after="r[@uid='{7640B080-F1B8-4EA7-B026-10F22601DDE7}']"
+              s:ds="{1EF45D14-7644-4E9F-8F29-8D9F9BFE5B7F}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C835D48E-8FAC-44A8-9629-01DC8C700A1C}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-top/image-block-splitter-480x540-left" />
+            <r
+              uid="{F4EBAB4E-3FDD-43F7-878B-2B615F6374E6}"
+              p:after="r[@uid='{330BC7D6-F6D1-43D8-9A33-A0AF726BC3E8}']"
+              s:id="{30CDBCD0-0126-446E-8E05-E7931C91B224}"
+              s:ph="/main/image-block-main-{C835D48E-8FAC-44A8-9629-01DC8C700A1C}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-top" />
+            <r
+              uid="{BD846D60-C527-4A9D-B18D-5BDA5E78F6A9}"
+              p:after="r[@uid='{F4EBAB4E-3FDD-43F7-878B-2B615F6374E6}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{C835D48E-8FAC-44A8-9629-01DC8C700A1C}-0/image-block-splitter-960x1080-right" />
+            <r
+              uid="{080E75A2-CD57-4EDE-993E-7FB755CD9E14}"
+              p:after="r[@uid='{BD846D60-C527-4A9D-B18D-5BDA5E78F6A9}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{C835D48E-8FAC-44A8-9629-01DC8C700A1C}-0/image-block-splitter-960x1080-left" />
+            <r
+              uid="{1726E562-2107-45FA-90C6-BC14C766A736}"
+              p:after="r[@uid='{080E75A2-CD57-4EDE-993E-7FB755CD9E14}']"
+              s:ds=""
+              s:id="{9CA51EAB-92E4-4A77-8B48-966774577172}"
+              s:par="Add Gradient=1"
+              s:ph="/main/product-hero-{4B1D690F-21D8-4CE9-B873-D8DC996A21C5}-0" />
+            <r
+              uid="{4B1D690F-21D8-4CE9-B873-D8DC996A21C5}"
+              p:after="r[@uid='{1726E562-2107-45FA-90C6-BC14C766A736}']"
+              s:ds="{DB7BAB29-A94C-445B-B541-5C88B4C85EB8}"
+              s:id="{C3DD97A2-2C6B-4FDA-922C-7127AE10C976}"
+              s:ph="main" />
+            <r
+              uid="{6A662B59-1542-4A6C-88A7-5C5015D2E407}"
+              p:after="r[@uid='{4B1D690F-21D8-4CE9-B873-D8DC996A21C5}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main-{C835D48E-8FAC-44A8-9629-01DC8C700A1C}-0" />
+            <r
+              uid="{930A14F8-EEC2-4485-BB7F-D60FC8E7F9E8}"
+              p:after="r[@uid='{6A662B59-1542-4A6C-88A7-5C5015D2E407}']"
+              s:ds="{09A86DCE-2B57-47AB-9C77-20634C22004F}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{10CFED13-721E-4D7A-9DED-9CCC2CAFD471}"
+              p:after="r[@uid='{930A14F8-EEC2-4485-BB7F-D60FC8E7F9E8}']"
+              s:ds="{0159E13E-3FEE-40A9-B4B1-82EA24233149}"
+              s:id="{F6988CA1-8F6A-4235-8851-39729DDF65B4}"
+              s:ph="main" />
+            <r
+              uid="{6EAF28FD-A7D2-4B5F-948A-18E088D1A494}"
+              p:after="r[@uid='{10CFED13-721E-4D7A-9DED-9CCC2CAFD471}']"
+              s:ds="{93626165-E2E9-4EC5-BC61-C7DD065899F4}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{9275EC8C-F06D-4751-9284-461A583FCB8C}"
+              p:after="r[@uid='{6EAF28FD-A7D2-4B5F-948A-18E088D1A494}']"
+              s:ds="{912E8E91-3124-4848-99FE-E37F5756271A}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{C835D48E-8FAC-44A8-9629-01DC8C700A1C}"
+              p:after="r[@uid='{9275EC8C-F06D-4751-9284-461A583FCB8C}']"
+              s:id="{6932DD17-1CD9-4D03-93B7-3C0A92EB8229}"
+              s:ph="main" />
+            <r
+              uid="{883449DC-F669-4CFE-BD68-3E46C2B07852}"
+              p:after="*[1=2]"
+              s:ds="{46DA4097-FB45-4D0D-9A47-20DD3B8252ED}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Solar Energy
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Innovative solutions to transform sunlight into energy for industry operations.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Solar Energy
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220406T165537Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Solar Energy
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Solar Energy
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{F5EF7075-E0D1-489E-8719-87F7ED07367C}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Solar Energy
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cb53c547-52a2-4f4a-a55f-abfa621320d3"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{894AD693-62BC-4D0F-8E34-42401EBEF1F3}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Solar energy, power generation, and application for operations 
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20220406T165537Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{F5EF7075-E0D1-489E-8719-87F7ED07367C}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220413T183120Z
+    - ID: "da134e40-cb02-4645-9846-115fb9a5aeca"
+      Hint: capability
+      Value: "{52332C74-60E8-40EA-A14E-614DA7EE8DDD}"
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: Solar energy, power generation
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{F5EF7075-E0D1-489E-8719-87F7ED07367C}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 4
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}">
+              <p:d />
+            </r>
+            <r
+              uid="{37A7ADD6-9046-4B18-B22A-BE9133614F3D}">
+              <p:d />
+            </r>
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+            <r
+              uid="{2770C7A2-EE39-4EC6-8300-DF1E93F39100}"
+              p:before="*"
+              s:ds="{DE4766EF-C33A-4B1A-AFC6-271A4C98F608}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C835D48E-8FAC-44A8-9629-01DC8C700A1C}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom/image-block-splitter-480x540-right" />
+            <r
+              uid="{8831937A-776D-4EFE-BBA6-0FE70B4B0F86}"
+              p:after="r[@uid='{2770C7A2-EE39-4EC6-8300-DF1E93F39100}']"
+              s:ds="{913679A0-3310-4BC1-B33A-295981CF100A}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C835D48E-8FAC-44A8-9629-01DC8C700A1C}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom/image-block-splitter-480x540-left" />
+            <r
+              uid="{811F80DD-7C18-4077-8B87-DDD43C10CCF1}"
+              p:after="r[@uid='{8831937A-776D-4EFE-BBA6-0FE70B4B0F86}']"
+              s:id="{30CDBCD0-0126-446E-8E05-E7931C91B224}"
+              s:ph="/main/image-block-main-{C835D48E-8FAC-44A8-9629-01DC8C700A1C}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{FBBD9996-9EF9-4658-BF46-854294A8A450}"
+              p:after="r[@uid='{811F80DD-7C18-4077-8B87-DDD43C10CCF1}']"
+              s:ds="{C03AA196-C4C1-4453-96B6-318E9D661028}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C835D48E-8FAC-44A8-9629-01DC8C700A1C}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom/image-block-splitter-480x540-right" />
+            <r
+              uid="{EF30B4FA-F220-4880-A5F1-47D63D32D347}"
+              p:after="r[@uid='{FBBD9996-9EF9-4658-BF46-854294A8A450}']"
+              s:ds="{C11A0584-BE71-41E2-9F0C-7A0204FE2505}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C835D48E-8FAC-44A8-9629-01DC8C700A1C}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom/image-block-splitter-480x540-left" />
+            <r
+              uid="{0BC582C2-23AD-41B5-BBAB-98DDADC3B4DA}"
+              p:after="r[@uid='{EF30B4FA-F220-4880-A5F1-47D63D32D347}']"
+              s:id="{30CDBCD0-0126-446E-8E05-E7931C91B224}"
+              s:ph="/main/image-block-main-{C835D48E-8FAC-44A8-9629-01DC8C700A1C}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{99CD0A4B-AED5-43AB-B173-437AB8A4B18D}"
+              p:after="r[@uid='{0BC582C2-23AD-41B5-BBAB-98DDADC3B4DA}']"
+              s:ds="{FCED5FDD-D38E-40E1-87C1-608076EB12EE}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C835D48E-8FAC-44A8-9629-01DC8C700A1C}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top/image-block-splitter-480x540-right" />
+            <r
+              uid="{D10817DA-8DF0-4ECF-A88E-9BC9CB40A955}"
+              p:after="r[@uid='{99CD0A4B-AED5-43AB-B173-437AB8A4B18D}']"
+              s:ds="{8788D7B7-EE1C-4836-BD11-A49411CB8835}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C835D48E-8FAC-44A8-9629-01DC8C700A1C}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top/image-block-splitter-480x540-left" />
+            <r
+              uid="{433408D6-0317-45FD-88A4-BB6A2BD39969}"
+              p:after="r[@uid='{D10817DA-8DF0-4ECF-A88E-9BC9CB40A955}']"
+              s:id="{30CDBCD0-0126-446E-8E05-E7931C91B224}"
+              s:ph="/main/image-block-main-{C835D48E-8FAC-44A8-9629-01DC8C700A1C}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top" />
+            <r
+              uid="{7640B080-F1B8-4EA7-B026-10F22601DDE7}"
+              p:after="r[@uid='{433408D6-0317-45FD-88A4-BB6A2BD39969}']"
+              s:ds="{6D96C6AC-4EA2-412C-ACAB-6ABFBE78F809}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C835D48E-8FAC-44A8-9629-01DC8C700A1C}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-top/image-block-splitter-480x540-right" />
+            <r
+              uid="{330BC7D6-F6D1-43D8-9A33-A0AF726BC3E8}"
+              p:after="r[@uid='{7640B080-F1B8-4EA7-B026-10F22601DDE7}']"
+              s:ds="{1EF45D14-7644-4E9F-8F29-8D9F9BFE5B7F}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C835D48E-8FAC-44A8-9629-01DC8C700A1C}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-top/image-block-splitter-480x540-left" />
+            <r
+              uid="{F4EBAB4E-3FDD-43F7-878B-2B615F6374E6}"
+              p:after="r[@uid='{330BC7D6-F6D1-43D8-9A33-A0AF726BC3E8}']"
+              s:id="{30CDBCD0-0126-446E-8E05-E7931C91B224}"
+              s:ph="/main/image-block-main-{C835D48E-8FAC-44A8-9629-01DC8C700A1C}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-top" />
+            <r
+              uid="{BD846D60-C527-4A9D-B18D-5BDA5E78F6A9}"
+              p:after="r[@uid='{F4EBAB4E-3FDD-43F7-878B-2B615F6374E6}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{C835D48E-8FAC-44A8-9629-01DC8C700A1C}-0/image-block-splitter-960x1080-right" />
+            <r
+              uid="{080E75A2-CD57-4EDE-993E-7FB755CD9E14}"
+              p:after="r[@uid='{BD846D60-C527-4A9D-B18D-5BDA5E78F6A9}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{C835D48E-8FAC-44A8-9629-01DC8C700A1C}-0/image-block-splitter-960x1080-left" />
+            <r
+              uid="{1726E562-2107-45FA-90C6-BC14C766A736}"
+              p:after="r[@uid='{080E75A2-CD57-4EDE-993E-7FB755CD9E14}']"
+              s:ds=""
+              s:id="{9CA51EAB-92E4-4A77-8B48-966774577172}"
+              s:par="Add Gradient=1"
+              s:ph="/main/product-hero-{4B1D690F-21D8-4CE9-B873-D8DC996A21C5}-0" />
+            <r
+              uid="{4B1D690F-21D8-4CE9-B873-D8DC996A21C5}"
+              p:after="r[@uid='{1726E562-2107-45FA-90C6-BC14C766A736}']"
+              s:ds="{DB7BAB29-A94C-445B-B541-5C88B4C85EB8}"
+              s:id="{C3DD97A2-2C6B-4FDA-922C-7127AE10C976}"
+              s:ph="main" />
+            <r
+              uid="{6A662B59-1542-4A6C-88A7-5C5015D2E407}"
+              p:after="r[@uid='{4B1D690F-21D8-4CE9-B873-D8DC996A21C5}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main-{C835D48E-8FAC-44A8-9629-01DC8C700A1C}-0" />
+            <r
+              uid="{930A14F8-EEC2-4485-BB7F-D60FC8E7F9E8}"
+              p:after="r[@uid='{6A662B59-1542-4A6C-88A7-5C5015D2E407}']"
+              s:ds="{09A86DCE-2B57-47AB-9C77-20634C22004F}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{10CFED13-721E-4D7A-9DED-9CCC2CAFD471}"
+              p:after="r[@uid='{930A14F8-EEC2-4485-BB7F-D60FC8E7F9E8}']"
+              s:ds="{0159E13E-3FEE-40A9-B4B1-82EA24233149}"
+              s:id="{F6988CA1-8F6A-4235-8851-39729DDF65B4}"
+              s:ph="main" />
+            <r
+              uid="{6EAF28FD-A7D2-4B5F-948A-18E088D1A494}"
+              p:after="r[@uid='{10CFED13-721E-4D7A-9DED-9CCC2CAFD471}']"
+              s:ds="{93626165-E2E9-4EC5-BC61-C7DD065899F4}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{9275EC8C-F06D-4751-9284-461A583FCB8C}"
+              p:after="r[@uid='{6EAF28FD-A7D2-4B5F-948A-18E088D1A494}']"
+              s:ds="{912E8E91-3124-4848-99FE-E37F5756271A}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{C835D48E-8FAC-44A8-9629-01DC8C700A1C}"
+              p:after="r[@uid='{9275EC8C-F06D-4751-9284-461A583FCB8C}']"
+              s:id="{6932DD17-1CD9-4D03-93B7-3C0A92EB8229}"
+              s:ph="main" />
+            <r
+              uid="{883449DC-F669-4CFE-BD68-3E46C2B07852}"
+              p:after="*[1=2]"
+              s:ds="{46DA4097-FB45-4D0D-9A47-20DD3B8252ED}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Solar Energy
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Innovative solutions to transform sunlight into energy for industry operations.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Solar Energy
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221109T171657Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Solar Energy
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Solar Energy
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{F5EF7075-E0D1-489E-8719-87F7ED07367C}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\benlasher
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Solar Energy
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "035172e6-cf50-4951-8bc8-a520945d17a2"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{894AD693-62BC-4D0F-8E34-42401EBEF1F3}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\benlasher
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Solar energy, power generation, and application for operations 
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20221109T171657Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{F5EF7075-E0D1-489E-8719-87F7ED07367C}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20221109T173013Z
+    - ID: "da134e40-cb02-4645-9846-115fb9a5aeca"
+      Hint: capability
+      Value: "{52332C74-60E8-40EA-A14E-614DA7EE8DDD}"
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: Solar energy, power generation
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{F5EF7075-E0D1-489E-8719-87F7ED07367C}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 5
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}">
+              <p:d />
+            </r>
+            <r
+              uid="{37A7ADD6-9046-4B18-B22A-BE9133614F3D}">
+              <p:d />
+            </r>
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+            <r
+              uid="{2770C7A2-EE39-4EC6-8300-DF1E93F39100}"
+              p:before="*"
+              s:ds="{DE4766EF-C33A-4B1A-AFC6-271A4C98F608}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C835D48E-8FAC-44A8-9629-01DC8C700A1C}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom/image-block-splitter-480x540-right" />
+            <r
+              uid="{8831937A-776D-4EFE-BBA6-0FE70B4B0F86}"
+              p:after="r[@uid='{2770C7A2-EE39-4EC6-8300-DF1E93F39100}']"
+              s:ds="{913679A0-3310-4BC1-B33A-295981CF100A}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C835D48E-8FAC-44A8-9629-01DC8C700A1C}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom/image-block-splitter-480x540-left" />
+            <r
+              uid="{811F80DD-7C18-4077-8B87-DDD43C10CCF1}"
+              p:after="r[@uid='{8831937A-776D-4EFE-BBA6-0FE70B4B0F86}']"
+              s:id="{30CDBCD0-0126-446E-8E05-E7931C91B224}"
+              s:ph="/main/image-block-main-{C835D48E-8FAC-44A8-9629-01DC8C700A1C}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{FBBD9996-9EF9-4658-BF46-854294A8A450}"
+              p:after="r[@uid='{811F80DD-7C18-4077-8B87-DDD43C10CCF1}']"
+              s:ds="{C03AA196-C4C1-4453-96B6-318E9D661028}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C835D48E-8FAC-44A8-9629-01DC8C700A1C}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom/image-block-splitter-480x540-right" />
+            <r
+              uid="{EF30B4FA-F220-4880-A5F1-47D63D32D347}"
+              p:after="r[@uid='{FBBD9996-9EF9-4658-BF46-854294A8A450}']"
+              s:ds="{C11A0584-BE71-41E2-9F0C-7A0204FE2505}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C835D48E-8FAC-44A8-9629-01DC8C700A1C}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom/image-block-splitter-480x540-left" />
+            <r
+              uid="{0BC582C2-23AD-41B5-BBAB-98DDADC3B4DA}"
+              p:after="r[@uid='{EF30B4FA-F220-4880-A5F1-47D63D32D347}']"
+              s:id="{30CDBCD0-0126-446E-8E05-E7931C91B224}"
+              s:ph="/main/image-block-main-{C835D48E-8FAC-44A8-9629-01DC8C700A1C}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{99CD0A4B-AED5-43AB-B173-437AB8A4B18D}"
+              p:after="r[@uid='{0BC582C2-23AD-41B5-BBAB-98DDADC3B4DA}']"
+              s:ds="{FCED5FDD-D38E-40E1-87C1-608076EB12EE}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C835D48E-8FAC-44A8-9629-01DC8C700A1C}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top/image-block-splitter-480x540-right" />
+            <r
+              uid="{D10817DA-8DF0-4ECF-A88E-9BC9CB40A955}"
+              p:after="r[@uid='{99CD0A4B-AED5-43AB-B173-437AB8A4B18D}']"
+              s:ds="{8788D7B7-EE1C-4836-BD11-A49411CB8835}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C835D48E-8FAC-44A8-9629-01DC8C700A1C}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top/image-block-splitter-480x540-left" />
+            <r
+              uid="{433408D6-0317-45FD-88A4-BB6A2BD39969}"
+              p:after="r[@uid='{D10817DA-8DF0-4ECF-A88E-9BC9CB40A955}']"
+              s:id="{30CDBCD0-0126-446E-8E05-E7931C91B224}"
+              s:ph="/main/image-block-main-{C835D48E-8FAC-44A8-9629-01DC8C700A1C}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top" />
+            <r
+              uid="{7640B080-F1B8-4EA7-B026-10F22601DDE7}"
+              p:after="r[@uid='{433408D6-0317-45FD-88A4-BB6A2BD39969}']"
+              s:ds="{6D96C6AC-4EA2-412C-ACAB-6ABFBE78F809}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C835D48E-8FAC-44A8-9629-01DC8C700A1C}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-top/image-block-splitter-480x540-right" />
+            <r
+              uid="{330BC7D6-F6D1-43D8-9A33-A0AF726BC3E8}"
+              p:after="r[@uid='{7640B080-F1B8-4EA7-B026-10F22601DDE7}']"
+              s:ds="{1EF45D14-7644-4E9F-8F29-8D9F9BFE5B7F}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C835D48E-8FAC-44A8-9629-01DC8C700A1C}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-top/image-block-splitter-480x540-left" />
+            <r
+              uid="{F4EBAB4E-3FDD-43F7-878B-2B615F6374E6}"
+              p:after="r[@uid='{330BC7D6-F6D1-43D8-9A33-A0AF726BC3E8}']"
+              s:id="{30CDBCD0-0126-446E-8E05-E7931C91B224}"
+              s:ph="/main/image-block-main-{C835D48E-8FAC-44A8-9629-01DC8C700A1C}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-top" />
+            <r
+              uid="{BD846D60-C527-4A9D-B18D-5BDA5E78F6A9}"
+              p:after="r[@uid='{F4EBAB4E-3FDD-43F7-878B-2B615F6374E6}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{C835D48E-8FAC-44A8-9629-01DC8C700A1C}-0/image-block-splitter-960x1080-right" />
+            <r
+              uid="{080E75A2-CD57-4EDE-993E-7FB755CD9E14}"
+              p:after="r[@uid='{BD846D60-C527-4A9D-B18D-5BDA5E78F6A9}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{C835D48E-8FAC-44A8-9629-01DC8C700A1C}-0/image-block-splitter-960x1080-left" />
+            <r
+              uid="{1726E562-2107-45FA-90C6-BC14C766A736}"
+              p:after="r[@uid='{080E75A2-CD57-4EDE-993E-7FB755CD9E14}']"
+              s:ds=""
+              s:id="{9CA51EAB-92E4-4A77-8B48-966774577172}"
+              s:par="Add Gradient=1"
+              s:ph="/main/product-hero-{4B1D690F-21D8-4CE9-B873-D8DC996A21C5}-0" />
+            <r
+              uid="{4B1D690F-21D8-4CE9-B873-D8DC996A21C5}"
+              p:after="r[@uid='{1726E562-2107-45FA-90C6-BC14C766A736}']"
+              s:ds="{DB7BAB29-A94C-445B-B541-5C88B4C85EB8}"
+              s:id="{C3DD97A2-2C6B-4FDA-922C-7127AE10C976}"
+              s:ph="main" />
+            <r
+              uid="{6A662B59-1542-4A6C-88A7-5C5015D2E407}"
+              p:after="r[@uid='{4B1D690F-21D8-4CE9-B873-D8DC996A21C5}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main-{C835D48E-8FAC-44A8-9629-01DC8C700A1C}-0" />
+            <r
+              uid="{930A14F8-EEC2-4485-BB7F-D60FC8E7F9E8}"
+              p:after="r[@uid='{6A662B59-1542-4A6C-88A7-5C5015D2E407}']"
+              s:ds="{09A86DCE-2B57-47AB-9C77-20634C22004F}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{10CFED13-721E-4D7A-9DED-9CCC2CAFD471}"
+              p:after="r[@uid='{930A14F8-EEC2-4485-BB7F-D60FC8E7F9E8}']"
+              s:ds="{0159E13E-3FEE-40A9-B4B1-82EA24233149}"
+              s:id="{F6988CA1-8F6A-4235-8851-39729DDF65B4}"
+              s:ph="main" />
+            <r
+              uid="{6EAF28FD-A7D2-4B5F-948A-18E088D1A494}"
+              p:after="r[@uid='{10CFED13-721E-4D7A-9DED-9CCC2CAFD471}']"
+              s:ds="{93626165-E2E9-4EC5-BC61-C7DD065899F4}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{9275EC8C-F06D-4751-9284-461A583FCB8C}"
+              p:after="r[@uid='{6EAF28FD-A7D2-4B5F-948A-18E088D1A494}']"
+              s:ds="{912E8E91-3124-4848-99FE-E37F5756271A}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{C835D48E-8FAC-44A8-9629-01DC8C700A1C}"
+              p:after="r[@uid='{9275EC8C-F06D-4751-9284-461A583FCB8C}']"
+              s:id="{6932DD17-1CD9-4D03-93B7-3C0A92EB8229}"
+              s:ph="main" />
+            <r
+              uid="{883449DC-F669-4CFE-BD68-3E46C2B07852}"
+              p:after="*[1=2]"
+              s:ds="{46DA4097-FB45-4D0D-9A47-20DD3B8252ED}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Solar Energy
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Innovative solutions to transform sunlight into energy for industry operations.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Solar Energy
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221109T173527Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Solar Energy
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Solar Energy
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{F5EF7075-E0D1-489E-8719-87F7ED07367C}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\benlasher
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Solar Energy
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "61057dbf-0de8-48be-8355-2edce1e4cb8f"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{894AD693-62BC-4D0F-8E34-42401EBEF1F3}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\benlasher
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Solar energy, power generation, and application for operations 
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20221109T173527Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{F5EF7075-E0D1-489E-8719-87F7ED07367C}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20221109T173634Z
+    - ID: "da134e40-cb02-4645-9846-115fb9a5aeca"
+      Hint: capability
+      Value: "{52332C74-60E8-40EA-A14E-614DA7EE8DDD}"
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: Solar energy, power generation
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{F5EF7075-E0D1-489E-8719-87F7ED07367C}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 6
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}">
+              <p:d />
+            </r>
+            <r
+              uid="{37A7ADD6-9046-4B18-B22A-BE9133614F3D}">
+              <p:d />
+            </r>
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+            <r
+              uid="{2770C7A2-EE39-4EC6-8300-DF1E93F39100}"
+              p:before="*"
+              s:ds="{DE4766EF-C33A-4B1A-AFC6-271A4C98F608}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C835D48E-8FAC-44A8-9629-01DC8C700A1C}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom/image-block-splitter-480x540-right" />
+            <r
+              uid="{8831937A-776D-4EFE-BBA6-0FE70B4B0F86}"
+              p:after="r[@uid='{2770C7A2-EE39-4EC6-8300-DF1E93F39100}']"
+              s:ds="{913679A0-3310-4BC1-B33A-295981CF100A}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C835D48E-8FAC-44A8-9629-01DC8C700A1C}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom/image-block-splitter-480x540-left" />
+            <r
+              uid="{811F80DD-7C18-4077-8B87-DDD43C10CCF1}"
+              p:after="r[@uid='{8831937A-776D-4EFE-BBA6-0FE70B4B0F86}']"
+              s:id="{30CDBCD0-0126-446E-8E05-E7931C91B224}"
+              s:ph="/main/image-block-main-{C835D48E-8FAC-44A8-9629-01DC8C700A1C}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{FBBD9996-9EF9-4658-BF46-854294A8A450}"
+              p:after="r[@uid='{811F80DD-7C18-4077-8B87-DDD43C10CCF1}']"
+              s:ds="{C03AA196-C4C1-4453-96B6-318E9D661028}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C835D48E-8FAC-44A8-9629-01DC8C700A1C}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom/image-block-splitter-480x540-right" />
+            <r
+              uid="{EF30B4FA-F220-4880-A5F1-47D63D32D347}"
+              p:after="r[@uid='{FBBD9996-9EF9-4658-BF46-854294A8A450}']"
+              s:ds="{C11A0584-BE71-41E2-9F0C-7A0204FE2505}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C835D48E-8FAC-44A8-9629-01DC8C700A1C}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom/image-block-splitter-480x540-left" />
+            <r
+              uid="{0BC582C2-23AD-41B5-BBAB-98DDADC3B4DA}"
+              p:after="r[@uid='{EF30B4FA-F220-4880-A5F1-47D63D32D347}']"
+              s:id="{30CDBCD0-0126-446E-8E05-E7931C91B224}"
+              s:ph="/main/image-block-main-{C835D48E-8FAC-44A8-9629-01DC8C700A1C}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{99CD0A4B-AED5-43AB-B173-437AB8A4B18D}"
+              p:after="r[@uid='{0BC582C2-23AD-41B5-BBAB-98DDADC3B4DA}']"
+              s:ds="{FCED5FDD-D38E-40E1-87C1-608076EB12EE}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C835D48E-8FAC-44A8-9629-01DC8C700A1C}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top/image-block-splitter-480x540-right" />
+            <r
+              uid="{D10817DA-8DF0-4ECF-A88E-9BC9CB40A955}"
+              p:after="r[@uid='{99CD0A4B-AED5-43AB-B173-437AB8A4B18D}']"
+              s:ds="{8788D7B7-EE1C-4836-BD11-A49411CB8835}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C835D48E-8FAC-44A8-9629-01DC8C700A1C}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top/image-block-splitter-480x540-left" />
+            <r
+              uid="{433408D6-0317-45FD-88A4-BB6A2BD39969}"
+              p:after="r[@uid='{D10817DA-8DF0-4ECF-A88E-9BC9CB40A955}']"
+              s:id="{30CDBCD0-0126-446E-8E05-E7931C91B224}"
+              s:ph="/main/image-block-main-{C835D48E-8FAC-44A8-9629-01DC8C700A1C}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top" />
+            <r
+              uid="{7640B080-F1B8-4EA7-B026-10F22601DDE7}"
+              p:after="r[@uid='{433408D6-0317-45FD-88A4-BB6A2BD39969}']"
+              s:ds="{6D96C6AC-4EA2-412C-ACAB-6ABFBE78F809}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C835D48E-8FAC-44A8-9629-01DC8C700A1C}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-top/image-block-splitter-480x540-right" />
+            <r
+              uid="{330BC7D6-F6D1-43D8-9A33-A0AF726BC3E8}"
+              p:after="r[@uid='{7640B080-F1B8-4EA7-B026-10F22601DDE7}']"
+              s:ds="{1EF45D14-7644-4E9F-8F29-8D9F9BFE5B7F}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C835D48E-8FAC-44A8-9629-01DC8C700A1C}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-top/image-block-splitter-480x540-left" />
+            <r
+              uid="{F4EBAB4E-3FDD-43F7-878B-2B615F6374E6}"
+              p:after="r[@uid='{330BC7D6-F6D1-43D8-9A33-A0AF726BC3E8}']"
+              s:id="{30CDBCD0-0126-446E-8E05-E7931C91B224}"
+              s:ph="/main/image-block-main-{C835D48E-8FAC-44A8-9629-01DC8C700A1C}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-top" />
+            <r
+              uid="{BD846D60-C527-4A9D-B18D-5BDA5E78F6A9}"
+              p:after="r[@uid='{F4EBAB4E-3FDD-43F7-878B-2B615F6374E6}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{C835D48E-8FAC-44A8-9629-01DC8C700A1C}-0/image-block-splitter-960x1080-right" />
+            <r
+              uid="{080E75A2-CD57-4EDE-993E-7FB755CD9E14}"
+              p:after="r[@uid='{BD846D60-C527-4A9D-B18D-5BDA5E78F6A9}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{C835D48E-8FAC-44A8-9629-01DC8C700A1C}-0/image-block-splitter-960x1080-left" />
+            <r
+              uid="{1726E562-2107-45FA-90C6-BC14C766A736}"
+              p:after="r[@uid='{080E75A2-CD57-4EDE-993E-7FB755CD9E14}']"
+              s:ds=""
+              s:id="{9CA51EAB-92E4-4A77-8B48-966774577172}"
+              s:par="Add Gradient=1"
+              s:ph="/main/product-hero-{4B1D690F-21D8-4CE9-B873-D8DC996A21C5}-0" />
+            <r
+              uid="{4B1D690F-21D8-4CE9-B873-D8DC996A21C5}"
+              p:after="r[@uid='{1726E562-2107-45FA-90C6-BC14C766A736}']"
+              s:ds="{DB7BAB29-A94C-445B-B541-5C88B4C85EB8}"
+              s:id="{C3DD97A2-2C6B-4FDA-922C-7127AE10C976}"
+              s:ph="main" />
+            <r
+              uid="{6A662B59-1542-4A6C-88A7-5C5015D2E407}"
+              p:after="r[@uid='{4B1D690F-21D8-4CE9-B873-D8DC996A21C5}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main-{C835D48E-8FAC-44A8-9629-01DC8C700A1C}-0" />
+            <r
+              uid="{930A14F8-EEC2-4485-BB7F-D60FC8E7F9E8}"
+              p:after="r[@uid='{6A662B59-1542-4A6C-88A7-5C5015D2E407}']"
+              s:ds="{09A86DCE-2B57-47AB-9C77-20634C22004F}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{10CFED13-721E-4D7A-9DED-9CCC2CAFD471}"
+              p:after="r[@uid='{930A14F8-EEC2-4485-BB7F-D60FC8E7F9E8}']"
+              s:ds="{0159E13E-3FEE-40A9-B4B1-82EA24233149}"
+              s:id="{F6988CA1-8F6A-4235-8851-39729DDF65B4}"
+              s:ph="main" />
+            <r
+              uid="{6EAF28FD-A7D2-4B5F-948A-18E088D1A494}"
+              p:after="r[@uid='{10CFED13-721E-4D7A-9DED-9CCC2CAFD471}']"
+              s:ds="{93626165-E2E9-4EC5-BC61-C7DD065899F4}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{9275EC8C-F06D-4751-9284-461A583FCB8C}"
+              p:after="r[@uid='{6EAF28FD-A7D2-4B5F-948A-18E088D1A494}']"
+              s:ds="{912E8E91-3124-4848-99FE-E37F5756271A}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{C835D48E-8FAC-44A8-9629-01DC8C700A1C}"
+              p:after="r[@uid='{9275EC8C-F06D-4751-9284-461A583FCB8C}']"
+              s:id="{6932DD17-1CD9-4D03-93B7-3C0A92EB8229}"
+              s:ph="main" />
+            <r
+              uid="{883449DC-F669-4CFE-BD68-3E46C2B07852}"
+              p:after="*[1=2]"
+              s:ds="{46DA4097-FB45-4D0D-9A47-20DD3B8252ED}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Solar Energy
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Innovative solutions to transform sunlight into energy for industry operations.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Solar Energy
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221109T174041Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Solar Energy
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Solar Energy
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{BF70D3ED-A051-4074-884F-9D8A7B645EB1}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\benlasher
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Solar Energy
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d003a8a6-1568-4006-a1a3-fcb1c668c577"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{894AD693-62BC-4D0F-8E34-42401EBEF1F3}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Solar energy, power generation, and application for operations 
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20221109T174041Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{BF70D3ED-A051-4074-884F-9D8A7B645EB1}" cropregion="16,0,1902,1082" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230323T184352Z
+    - ID: "da134e40-cb02-4645-9846-115fb9a5aeca"
+      Hint: capability
+      Value: "{52332C74-60E8-40EA-A14E-614DA7EE8DDD}"
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: Solar energy, power generation
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{BF70D3ED-A051-4074-884F-9D8A7B645EB1}" cropregion="0,1,1920,1081" ratio="1920:1080" width="1920" height="1080" />

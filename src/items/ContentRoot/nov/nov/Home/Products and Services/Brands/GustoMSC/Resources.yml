@@ -1,0 +1,172 @@
+﻿---
+ID: "8f7bc863-42ce-4af6-8076-45521e952ae3"
+Parent: "c8375e4a-b0b1-4a39-887d-d1e8ee14f1a5"
+Template: "b1779d4b-ace8-4b2d-9a65-b45f23a11a63"
+Path: /sitecore/content/nov/nov/Home/Products and Services/Brands/GustoMSC/Resources
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+      xmlnxsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{40C0E7ED-9887-49E1-8E89-43D16DD2AD6C}">
+        <r
+          id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+          ph="/main/hero-slide-{FA180C9C-2BCD-453F-B93E-46B9596EB89C}-0"
+          uid="{0171EE30-1339-497A-A9B1-1E236E7768B0}" />
+        <r
+          id="{AB213187-9551-4F9B-AE3D-261BB2B2434F}"
+          ph="main"
+          uid="{FA180C9C-2BCD-453F-B93E-46B9596EB89C}" />
+        <r
+          ds="{FEDC5294-D066-487F-BC4C-E97035C64065}"
+          id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+          par="Alignment"
+          ph="main"
+          uid="{5537C703-F4AC-4A5E-9102-F604B3974F32}" />
+        <r
+          ds="{88A4CB94-66BB-45A5-8201-0946F783DCEE}"
+          id="{ABC14F1F-8A97-4B1A-923E-9A76BAF57DAB}"
+          par=""
+          ph="main"
+          uid="{6965D8BA-EFC6-47BC-90D0-6061E044C116}" />
+        <r
+          ds="{14503610-613D-4B2C-B651-3ED0BCE2193D}"
+          id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+          par="Alignment"
+          ph="main"
+          uid="{1DBC7A5D-C022-489E-8D56-E2E69F22D158}" />
+        <r
+          ds="{F66FCAB0-D481-4242-91A7-53DD8757ABD7}"
+          id="{404FE8DE-C601-4E14-8D3D-32F27B41D06D}"
+          par=""
+          ph="main"
+          uid="{FFC9CECE-7B29-4159-913B-621221B6535D}" />
+      </d>
+    </r>
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01fd8c23-1b98-4e4b-9f2d-ecf3eb8aad68"
+      Hint: businessUnits
+      Value: "{55081714-900D-4F84-A923-2C7CDC829502}"
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0E8DB889-0FE5-4709-87EF-57B8075AE6B7}"
+              p:before="*"
+              s:ds="{12FA700B-F6D7-4474-8E85-566B5B634808}"
+              s:id="{703C4FCC-55FD-48C3-8F29-1B196484B61C}"
+              s:ph="/main/product-tabs-container-{08E6FF19-E491-4340-9B95-B758D8D38162}-0/product-tab-content-{513BC347-909E-4332-97AD-A7B3E9835FF0}-0" />
+            <r
+              uid="{8146459C-A40A-4EE7-A25B-CD9B0E27C759}"
+              p:after="r[@uid='{0E8DB889-0FE5-4709-87EF-57B8075AE6B7}']"
+              s:ds="{3F609A47-7E6E-4B1D-9F6B-23959F294C95}"
+              s:id="{703C4FCC-55FD-48C3-8F29-1B196484B61C}"
+              s:ph="/main/product-tabs-container-{08E6FF19-E491-4340-9B95-B758D8D38162}-0/product-tab-content-{57A99E8D-7883-4CF2-8E2F-800D919E5A23}-0" />
+            <r
+              uid="{57A99E8D-7883-4CF2-8E2F-800D919E5A23}"
+              p:after="r[@uid='{8146459C-A40A-4EE7-A25B-CD9B0E27C759}']"
+              s:ds="{660D9B36-AB4E-4CF8-BFF5-09B399456A15}"
+              s:id="{CABE2E45-C5EB-4990-AD19-E203DFF43BE7}"
+              s:ph="/main/product-tabs-container-{08E6FF19-E491-4340-9B95-B758D8D38162}-0" />
+            <r
+              uid="{513BC347-909E-4332-97AD-A7B3E9835FF0}"
+              p:after="r[@uid='{57A99E8D-7883-4CF2-8E2F-800D919E5A23}']"
+              s:ds="{0EFFA991-08DB-467C-AE5B-058A8D03369B}"
+              s:id="{CABE2E45-C5EB-4990-AD19-E203DFF43BE7}"
+              s:ph="/main/product-tabs-container-{08E6FF19-E491-4340-9B95-B758D8D38162}-0" />
+            <r
+              uid="{5537C703-F4AC-4A5E-9102-F604B3974F32}">
+              <p:d />
+            </r>
+            <r
+              uid="{08E6FF19-E491-4340-9B95-B758D8D38162}"
+              p:after="*[1=2]"
+              s:id="{F60303F6-09BF-456C-BCA8-CDCC7CDB4E14}"
+              s:ph="main" />
+            <r
+              uid="{6965D8BA-EFC6-47BC-90D0-6061E044C116}">
+              <p:d />
+            </r>
+            <r
+              uid="{1DBC7A5D-C022-489E-8D56-E2E69F22D158}">
+              <p:d />
+            </r>
+            <r
+              uid="{FFC9CECE-7B29-4159-913B-621221B6535D}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: 
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Explore our curated collection of brochures, flyers, spec sheets, and more to learn how GustoMSC products and services can enhance your...</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: GustoMSC Resources
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210730T215654Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: GustoMSC Resources
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: GustoMSC Resources
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{7BFDF55B-D789-4F80-BAA1-EE7B8380D4C6}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: GustoMSC Resources
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2ecab3a7-59d1-4c77-a91e-637d2e466cd5"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{534FF050-2254-4E8A-B5EE-4556B77CC983}" cropregion="0,26,1920,1130" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210920T153754Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{534FF050-2254-4E8A-B5EE-4556B77CC983}" cropregion="0,38,1920,1118" ratio="1920:1080" width="1920" height="1080" />

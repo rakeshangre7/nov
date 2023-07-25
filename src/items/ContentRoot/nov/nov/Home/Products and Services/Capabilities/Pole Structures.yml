@@ -1,0 +1,171 @@
+﻿---
+ID: "bca75360-7729-468f-9f8c-1af16cd5065b"
+Parent: "0efcb894-1233-44a0-9b5d-268dc82ee1a0"
+Template: "6ad6b0c9-8586-4263-8ffb-9cbfc20b67d4"
+Path: /sitecore/content/nov/nov/Home/Products and Services/Capabilities/Pole Structures
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}"
+          s:ds="{2291D56A-91CF-4A59-82BC-76CDFF989331}" />
+        <r
+          uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}"
+          s:ds="{0AA1D0EA-BD60-463B-B407-F8F410DD8F76}" />
+        <r
+          uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}"
+          s:ds="{4329E286-9607-470E-A757-05961BC784AB}" />
+      </d>
+    </r>
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}">
+              <p:d />
+            </r>
+            <r
+              uid="{37A7ADD6-9046-4B18-B22A-BE9133614F3D}">
+              <p:d />
+            </r>
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+            <r
+              uid="{8C02A05E-6041-457C-A56A-346224E28498}"
+              p:before="*"
+              s:ds=""
+              s:id="{9CA51EAB-92E4-4A77-8B48-966774577172}"
+              s:par="Add Gradient=1"
+              s:ph="/main/product-hero-{36A7E5A6-7168-454D-BFFA-2001F4056F78}-0" />
+            <r
+              uid="{36A7E5A6-7168-454D-BFFA-2001F4056F78}"
+              p:after="r[@uid='{8C02A05E-6041-457C-A56A-346224E28498}']"
+              s:ds="{DB7BAB29-A94C-445B-B541-5C88B4C85EB8}"
+              s:id="{C3DD97A2-2C6B-4FDA-922C-7127AE10C976}"
+              s:ph="main" />
+            <r
+              uid="{2233E7C9-EFE0-4B14-BC72-F126978EF7F3}"
+              p:after="r[@uid='{36A7E5A6-7168-454D-BFFA-2001F4056F78}']"
+              s:ds="{76F5E25B-C62F-42AA-A223-D21B9BF741B0}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{3916189B-73F2-4592-A7E1-B6B22F0027F0}"
+              p:after="r[@uid='{2233E7C9-EFE0-4B14-BC72-F126978EF7F3}']"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{03340564-2308-439D-8373-855D02BA419F}"
+              p:after="r[@uid='{3916189B-73F2-4592-A7E1-B6B22F0027F0}']"
+              s:ds="{0AA1D0EA-BD60-463B-B407-F8F410DD8F76}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{0B12835A-7057-4A7C-950D-A2A52785EF65}"
+              p:after="r[@uid='{03340564-2308-439D-8373-855D02BA419F}']"
+              s:ds="{152AF4E0-BFF3-4400-A330-EF0E69000E7D}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:ph="main" />
+            <r
+              uid="{A5C1A9F4-1891-4DB2-A57D-EF777FB9E917}"
+              p:after="*[1=2]"
+              s:ds="{6E13FDA5-2F69-4BF2-A7FA-CB99B0FE4D22}"
+              s:id="{8811D96E-0023-4E45-BF2A-E9827DB7E4BB}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Pole Structures
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>We manufacture a variety of poles and complementary products to keep communities beautiful, safe, and connected.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Pole Structures
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210512T213057Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Pole Structures
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Pole Structures
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{B01D9578-0928-4CEB-B3B7-4EBB4DABF775}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Pole Structures
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "58bae2e8-8b9d-43f7-a764-929df8fccd4e"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{894AD693-62BC-4D0F-8E34-42401EBEF1F3}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: We manufacture a variety of poles and complementary products to keep communities beautiful, safe, and connected.
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{B01D9578-0928-4CEB-B3B7-4EBB4DABF775}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20211117T151750Z
+    - ID: "da134e40-cb02-4645-9846-115fb9a5aeca"
+      Hint: capability
+      Value: "{7B2783AF-9A8B-4BA6-B8A2-E791FD14C044}"
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{B01D9578-0928-4CEB-B3B7-4EBB4DABF775}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />

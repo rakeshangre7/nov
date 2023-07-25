@@ -1,0 +1,77 @@
+﻿---
+ID: "5e3cfdc6-acf2-4b35-a2ba-6f50266540bb"
+Parent: "9fcd1f2d-ad86-40d6-9698-de1b1f6cec04"
+Template: "dbc23d7d-62bd-46a5-b584-58b43c5dfaad"
+Path: /sitecore/content/nov/nov/Home/Products and Services/Tools/Operator Support System OSS
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Operator Support System (OSS)
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: Safely unlock the full potential of your offshore unit
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Operator Support System (OSS)
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230613T152932Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Operator Support System (OSS)
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{40251B7D-FBE3-4A0E-8947-D4B4FE8CD782}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Operator Support System (OSS)
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Operator Support System (OSS)
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d3c71ba7-74a3-4238-800b-315969bcabe4"
+    - ID: "8e5f2089-9c97-40f6-863a-9a9ce9fac0dc"
+      Hint: redirectPageName
+      Value: Operator Support System (OSS)
+    - ID: "926f1875-e20e-41cb-a705-e45affa0dc35"
+      Hint: redirectPageURL
+      Value: |
+        <link linktype="external" url="https://view.ceros.com/nov/oss/p/1" anchor="" target="" />
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{8E0DBDE6-65E4-4D80-8AA8-931BEDC70CCA}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230613T153333Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{8E0DBDE6-65E4-4D80-8AA8-931BEDC70CCA}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />

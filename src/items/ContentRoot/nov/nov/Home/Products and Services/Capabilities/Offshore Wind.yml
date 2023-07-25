@@ -1,0 +1,2291 @@
+﻿---
+ID: "a87a1e2c-e5b4-4708-8012-c15ba66199f2"
+Parent: "0efcb894-1233-44a0-9b5d-268dc82ee1a0"
+Template: "6ad6b0c9-8586-4263-8ffb-9cbfc20b67d4"
+Path: /sitecore/content/nov/nov/Home/Products and Services/Capabilities/Offshore Wind
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}"
+          s:ds="{EA5CB058-7D25-447C-8C48-5CF856E3B23A}" />
+        <r
+          uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}"
+          s:ds="{FD2D0EDE-42A0-463B-BA7A-ED63BB095A4D}" />
+        <r
+          uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}"
+          s:ds="{2E77E456-AEAA-4E62-94D5-1CB9200D95F6}" />
+      </d>
+    </r>
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{59635076-A500-480C-95A3-11DC5301BDE4}"
+              p:before="*"
+              s:ds="{1BC50273-B978-4365-A771-7996D3B3D165}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom/image-block-splitter-480x540-right" />
+            <r
+              uid="{E7FC5B7B-CAFB-4081-B895-3F98BFEA878B}"
+              p:after="r[@uid='{59635076-A500-480C-95A3-11DC5301BDE4}']"
+              s:ds="{235499DA-90FA-41CD-8B23-61D1CCCA9F64}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom/image-block-splitter-480x540-left" />
+            <r
+              uid="{0E4E4E35-6255-40F1-A1D3-3CC9F7062E63}"
+              p:after="r[@uid='{E7FC5B7B-CAFB-4081-B895-3F98BFEA878B}']"
+              s:ds="{095E29CC-9280-45B3-9BE5-EFEBF9D7AFB5}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom/image-block-splitter-480x540-right" />
+            <r
+              uid="{C8583A9F-3014-445D-ACBE-687442D97D11}"
+              p:after="r[@uid='{0E4E4E35-6255-40F1-A1D3-3CC9F7062E63}']"
+              s:ds="{F1C25E57-6A77-47D3-ACD1-52E9CECB2624}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom/image-block-splitter-480x540-left" />
+            <r
+              uid="{B5A9391B-20D3-4D76-98CB-3A9A046FB24A}"
+              p:after="r[@uid='{C8583A9F-3014-445D-ACBE-687442D97D11}']"
+              s:ds="{6B4A90F5-D7DE-437D-846B-B6A540F20E8F}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top" />
+            <r
+              uid="{15B94FED-942D-434B-9AB7-21FAF3B23BDF}"
+              p:after="r[@uid='{B5A9391B-20D3-4D76-98CB-3A9A046FB24A}']"
+              s:ds="{E836F759-A075-49A9-A5A1-85335A79B926}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-top" />
+            <r
+              uid="{4BE9B2FD-0F17-4E60-BAE2-9C7ADBADAB6A}"
+              p:after="r[@uid='{15B94FED-942D-434B-9AB7-21FAF3B23BDF}']"
+              s:id="{30CDBCD0-0126-446E-8E05-E7931C91B224}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{922FEBE5-6784-4C05-9A9A-36E8B1331565}"
+              p:after="r[@uid='{4BE9B2FD-0F17-4E60-BAE2-9C7ADBADAB6A}']"
+              s:id="{30CDBCD0-0126-446E-8E05-E7931C91B224}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{7CA229AB-2A8E-4489-ADD2-20A3B363DCDA}"
+              p:after="r[@uid='{922FEBE5-6784-4C05-9A9A-36E8B1331565}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-right" />
+            <r
+              uid="{F5B5A92C-114A-4C73-81D9-E271723CABD7}"
+              p:after="r[@uid='{7CA229AB-2A8E-4489-ADD2-20A3B363DCDA}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-left" />
+            <r
+              uid="{4F71983A-DAB7-4A9D-AD68-4D99C5C583BB}"
+              p:after="r[@uid='{F5B5A92C-114A-4C73-81D9-E271723CABD7}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0" />
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{671B8FB7-78CB-4968-A955-84A86C85EE17}"
+              p:after="r[@uid='{37A7ADD6-9046-4B18-B22A-BE9133614F3D}']"
+              s:ds="{3975BADC-9EEC-4907-BC9F-6F8938A7B91D}"
+              s:id="{541C8841-7802-4878-BBC4-5B3AC533A4BA}"
+              s:ph="main" />
+            <r
+              uid="{BCEA8744-16C1-4C26-AB36-C5036BBFD6B3}"
+              p:after="r[@uid='{671B8FB7-78CB-4968-A955-84A86C85EE17}']"
+              s:ds="{BFE1065C-B25E-4825-8EF7-5DA8FABA4F39}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{15FAB526-5DFF-45E9-AEB7-24986903A44F}"
+              p:after="r[@uid='{BCEA8744-16C1-4C26-AB36-C5036BBFD6B3}']"
+              s:ds="{76D44759-96F1-4591-A58A-154F8418D45B}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{26C71DC8-B697-4874-958E-7FEDE4733536}"
+              p:after="r[@uid='{15FAB526-5DFF-45E9-AEB7-24986903A44F}']"
+              s:ds="{E31D1C1F-8CF3-456A-BB5C-EB71A607F048}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{71762746-BD47-4C18-BD0B-CBE3CBD0B1C4}"
+              p:after="r[@uid='{26C71DC8-B697-4874-958E-7FEDE4733536}']"
+              s:ds="{DFB7ABB7-9923-418F-B899-38830DAA422C}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}"
+              p:after="r[@uid='{71762746-BD47-4C18-BD0B-CBE3CBD0B1C4}']"
+              s:id="{6932DD17-1CD9-4D03-93B7-3C0A92EB8229}"
+              s:ph="main" />
+            <r
+              uid="{48F774B4-4312-494E-86D9-B1F8F9B14FB7}"
+              p:after="r[@uid='{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}']"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+            <r
+              uid="{84233FDC-D0B6-4470-8ED4-7070A3D06D18}"
+              p:after="*[1=2]"
+              s:ds="{80C63A41-0F7E-4E6E-A8DE-287E34A1942E}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Offshore Wind
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Leveraging vast experience in offshore fields to minimize risk in offshore wind developments</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Offshore Wind
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210611T123304Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Offshore Wind
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Offshore Wind
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joshuashearer
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joshuashearer
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Offshore Wind
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9c992911-ba66-47f0-949f-9022af06c1de"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{894AD693-62BC-4D0F-8E34-42401EBEF1F3}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\joshuashearer
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20210611T123304Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{438FBB9F-D91E-47B9-ACC2-9BAF48DD10A4}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210611T142355Z
+    - ID: "da134e40-cb02-4645-9846-115fb9a5aeca"
+      Hint: capability
+      Value: "{7E9C51EB-6102-4179-881F-ED145AE5C25C}"
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: Offshore Wind Wind Renewables
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{438FBB9F-D91E-47B9-ACC2-9BAF48DD10A4}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{59635076-A500-480C-95A3-11DC5301BDE4}"
+              p:before="*"
+              s:ds="{1BC50273-B978-4365-A771-7996D3B3D165}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom/image-block-splitter-480x540-right" />
+            <r
+              uid="{E7FC5B7B-CAFB-4081-B895-3F98BFEA878B}"
+              p:after="r[@uid='{59635076-A500-480C-95A3-11DC5301BDE4}']"
+              s:ds="{235499DA-90FA-41CD-8B23-61D1CCCA9F64}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom/image-block-splitter-480x540-left" />
+            <r
+              uid="{0E4E4E35-6255-40F1-A1D3-3CC9F7062E63}"
+              p:after="r[@uid='{E7FC5B7B-CAFB-4081-B895-3F98BFEA878B}']"
+              s:ds="{095E29CC-9280-45B3-9BE5-EFEBF9D7AFB5}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom/image-block-splitter-480x540-right" />
+            <r
+              uid="{C8583A9F-3014-445D-ACBE-687442D97D11}"
+              p:after="r[@uid='{0E4E4E35-6255-40F1-A1D3-3CC9F7062E63}']"
+              s:ds="{F1C25E57-6A77-47D3-ACD1-52E9CECB2624}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom/image-block-splitter-480x540-left" />
+            <r
+              uid="{B5A9391B-20D3-4D76-98CB-3A9A046FB24A}"
+              p:after="r[@uid='{C8583A9F-3014-445D-ACBE-687442D97D11}']"
+              s:ds="{6B4A90F5-D7DE-437D-846B-B6A540F20E8F}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top" />
+            <r
+              uid="{15B94FED-942D-434B-9AB7-21FAF3B23BDF}"
+              p:after="r[@uid='{B5A9391B-20D3-4D76-98CB-3A9A046FB24A}']"
+              s:ds="{E836F759-A075-49A9-A5A1-85335A79B926}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-top" />
+            <r
+              uid="{4BE9B2FD-0F17-4E60-BAE2-9C7ADBADAB6A}"
+              p:after="r[@uid='{15B94FED-942D-434B-9AB7-21FAF3B23BDF}']"
+              s:id="{30CDBCD0-0126-446E-8E05-E7931C91B224}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{922FEBE5-6784-4C05-9A9A-36E8B1331565}"
+              p:after="r[@uid='{4BE9B2FD-0F17-4E60-BAE2-9C7ADBADAB6A}']"
+              s:id="{30CDBCD0-0126-446E-8E05-E7931C91B224}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{7CA229AB-2A8E-4489-ADD2-20A3B363DCDA}"
+              p:after="r[@uid='{922FEBE5-6784-4C05-9A9A-36E8B1331565}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-right" />
+            <r
+              uid="{F5B5A92C-114A-4C73-81D9-E271723CABD7}"
+              p:after="r[@uid='{7CA229AB-2A8E-4489-ADD2-20A3B363DCDA}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-left" />
+            <r
+              uid="{4F71983A-DAB7-4A9D-AD68-4D99C5C583BB}"
+              p:after="r[@uid='{F5B5A92C-114A-4C73-81D9-E271723CABD7}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0" />
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{671B8FB7-78CB-4968-A955-84A86C85EE17}"
+              p:after="r[@uid='{37A7ADD6-9046-4B18-B22A-BE9133614F3D}']"
+              s:ds="{3975BADC-9EEC-4907-BC9F-6F8938A7B91D}"
+              s:id="{541C8841-7802-4878-BBC4-5B3AC533A4BA}"
+              s:ph="main" />
+            <r
+              uid="{BCEA8744-16C1-4C26-AB36-C5036BBFD6B3}"
+              p:after="r[@uid='{671B8FB7-78CB-4968-A955-84A86C85EE17}']"
+              s:ds="{BFE1065C-B25E-4825-8EF7-5DA8FABA4F39}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{15FAB526-5DFF-45E9-AEB7-24986903A44F}"
+              p:after="r[@uid='{BCEA8744-16C1-4C26-AB36-C5036BBFD6B3}']"
+              s:ds="{76D44759-96F1-4591-A58A-154F8418D45B}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{26C71DC8-B697-4874-958E-7FEDE4733536}"
+              p:after="r[@uid='{15FAB526-5DFF-45E9-AEB7-24986903A44F}']"
+              s:ds="{E31D1C1F-8CF3-456A-BB5C-EB71A607F048}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{71762746-BD47-4C18-BD0B-CBE3CBD0B1C4}"
+              p:after="r[@uid='{26C71DC8-B697-4874-958E-7FEDE4733536}']"
+              s:ds="{DFB7ABB7-9923-418F-B899-38830DAA422C}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}"
+              p:after="r[@uid='{71762746-BD47-4C18-BD0B-CBE3CBD0B1C4}']"
+              s:id="{6932DD17-1CD9-4D03-93B7-3C0A92EB8229}"
+              s:ph="main" />
+            <r
+              uid="{48F774B4-4312-494E-86D9-B1F8F9B14FB7}"
+              p:after="r[@uid='{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}']"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+            <r
+              uid="{84233FDC-D0B6-4470-8ED4-7070A3D06D18}"
+              p:after="*[1=2]"
+              s:ds="{80C63A41-0F7E-4E6E-A8DE-287E34A1942E}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Offshore Wind
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Leveraging vast experience in offshore fields to minimize risk in offshore wind developments</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Offshore Wind
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210622T190335Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Offshore Wind
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Offshore Wind
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joshuashearer
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Offshore Wind
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "39659e9b-d1a0-49da-8c4c-9a9649515d55"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{894AD693-62BC-4D0F-8E34-42401EBEF1F3}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Leveraging vast experience in offshore fields to minimize risk in offshore wind developments
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20210622T190335Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{438FBB9F-D91E-47B9-ACC2-9BAF48DD10A4}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210622T190408Z
+    - ID: "da134e40-cb02-4645-9846-115fb9a5aeca"
+      Hint: capability
+      Value: "{7E9C51EB-6102-4179-881F-ED145AE5C25C}"
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: Offshore Wind Wind Renewables
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{438FBB9F-D91E-47B9-ACC2-9BAF48DD10A4}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{59635076-A500-480C-95A3-11DC5301BDE4}"
+              p:before="*"
+              s:ds="{1BC50273-B978-4365-A771-7996D3B3D165}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom/image-block-splitter-480x540-right" />
+            <r
+              uid="{E7FC5B7B-CAFB-4081-B895-3F98BFEA878B}"
+              p:after="r[@uid='{59635076-A500-480C-95A3-11DC5301BDE4}']"
+              s:ds="{235499DA-90FA-41CD-8B23-61D1CCCA9F64}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom/image-block-splitter-480x540-left" />
+            <r
+              uid="{0E4E4E35-6255-40F1-A1D3-3CC9F7062E63}"
+              p:after="r[@uid='{E7FC5B7B-CAFB-4081-B895-3F98BFEA878B}']"
+              s:ds="{095E29CC-9280-45B3-9BE5-EFEBF9D7AFB5}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom/image-block-splitter-480x540-right" />
+            <r
+              uid="{C8583A9F-3014-445D-ACBE-687442D97D11}"
+              p:after="r[@uid='{0E4E4E35-6255-40F1-A1D3-3CC9F7062E63}']"
+              s:ds="{F1C25E57-6A77-47D3-ACD1-52E9CECB2624}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom/image-block-splitter-480x540-left" />
+            <r
+              uid="{B5A9391B-20D3-4D76-98CB-3A9A046FB24A}"
+              p:after="r[@uid='{C8583A9F-3014-445D-ACBE-687442D97D11}']"
+              s:ds="{6B4A90F5-D7DE-437D-846B-B6A540F20E8F}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top" />
+            <r
+              uid="{15B94FED-942D-434B-9AB7-21FAF3B23BDF}"
+              p:after="r[@uid='{B5A9391B-20D3-4D76-98CB-3A9A046FB24A}']"
+              s:ds="{E836F759-A075-49A9-A5A1-85335A79B926}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-top" />
+            <r
+              uid="{4BE9B2FD-0F17-4E60-BAE2-9C7ADBADAB6A}"
+              p:after="r[@uid='{15B94FED-942D-434B-9AB7-21FAF3B23BDF}']"
+              s:id="{30CDBCD0-0126-446E-8E05-E7931C91B224}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{922FEBE5-6784-4C05-9A9A-36E8B1331565}"
+              p:after="r[@uid='{4BE9B2FD-0F17-4E60-BAE2-9C7ADBADAB6A}']"
+              s:id="{30CDBCD0-0126-446E-8E05-E7931C91B224}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{7CA229AB-2A8E-4489-ADD2-20A3B363DCDA}"
+              p:after="r[@uid='{922FEBE5-6784-4C05-9A9A-36E8B1331565}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-right" />
+            <r
+              uid="{F5B5A92C-114A-4C73-81D9-E271723CABD7}"
+              p:after="r[@uid='{7CA229AB-2A8E-4489-ADD2-20A3B363DCDA}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-left" />
+            <r
+              uid="{4F71983A-DAB7-4A9D-AD68-4D99C5C583BB}"
+              p:after="r[@uid='{F5B5A92C-114A-4C73-81D9-E271723CABD7}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0" />
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{671B8FB7-78CB-4968-A955-84A86C85EE17}"
+              p:after="r[@uid='{37A7ADD6-9046-4B18-B22A-BE9133614F3D}']"
+              s:ds="{3975BADC-9EEC-4907-BC9F-6F8938A7B91D}"
+              s:id="{541C8841-7802-4878-BBC4-5B3AC533A4BA}"
+              s:ph="main" />
+            <r
+              uid="{BCEA8744-16C1-4C26-AB36-C5036BBFD6B3}"
+              p:after="r[@uid='{671B8FB7-78CB-4968-A955-84A86C85EE17}']"
+              s:ds="{BFE1065C-B25E-4825-8EF7-5DA8FABA4F39}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{15FAB526-5DFF-45E9-AEB7-24986903A44F}"
+              p:after="r[@uid='{BCEA8744-16C1-4C26-AB36-C5036BBFD6B3}']"
+              s:ds="{76D44759-96F1-4591-A58A-154F8418D45B}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{26C71DC8-B697-4874-958E-7FEDE4733536}"
+              p:after="r[@uid='{15FAB526-5DFF-45E9-AEB7-24986903A44F}']"
+              s:ds="{E31D1C1F-8CF3-456A-BB5C-EB71A607F048}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+            <r
+              uid="{71762746-BD47-4C18-BD0B-CBE3CBD0B1C4}"
+              p:after="r[@uid='{4BBC422C-6B71-4B4F-B6DC-4295F397094F}']"
+              s:ds="{DFB7ABB7-9923-418F-B899-38830DAA422C}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{FAE833EB-3B1E-4B88-87C4-BBB2DBFBDBC1}"
+              p:after="r[@uid='{71762746-BD47-4C18-BD0B-CBE3CBD0B1C4}']"
+              s:ds="{E3EED224-89D9-4482-BF00-84A2E3A34ADA}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:ph="main" />
+            <r
+              uid="{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}"
+              p:after="r[@uid='{FAE833EB-3B1E-4B88-87C4-BBB2DBFBDBC1}']"
+              s:id="{6932DD17-1CD9-4D03-93B7-3C0A92EB8229}"
+              s:ph="main" />
+            <r
+              uid="{48F774B4-4312-494E-86D9-B1F8F9B14FB7}"
+              p:after="r[@uid='{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}']"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{84233FDC-D0B6-4470-8ED4-7070A3D06D18}"
+              p:after="*[1=2]"
+              s:ds="{80C63A41-0F7E-4E6E-A8DE-287E34A1942E}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Offshore Wind
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Leveraging vast experience in offshore fields to minimize risk in offshore wind developments</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Offshore Wind
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210623T140102Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Offshore Wind
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Offshore Wind
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joshuashearer
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joshuashearer
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Offshore Wind
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9d418632-5901-4a70-abce-5c9a391c8e60"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{894AD693-62BC-4D0F-8E34-42401EBEF1F3}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\joshuashearer
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Leveraging vast experience in offshore fields to minimize risk in offshore wind developments
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20210623T140102Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{438FBB9F-D91E-47B9-ACC2-9BAF48DD10A4}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210625T123502Z
+    - ID: "da134e40-cb02-4645-9846-115fb9a5aeca"
+      Hint: capability
+      Value: "{7E9C51EB-6102-4179-881F-ED145AE5C25C}"
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: Offshore Wind Wind Renewables
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{438FBB9F-D91E-47B9-ACC2-9BAF48DD10A4}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 4
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{59635076-A500-480C-95A3-11DC5301BDE4}"
+              p:before="*"
+              s:ds="{1BC50273-B978-4365-A771-7996D3B3D165}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom/image-block-splitter-480x540-right" />
+            <r
+              uid="{E7FC5B7B-CAFB-4081-B895-3F98BFEA878B}"
+              p:after="r[@uid='{59635076-A500-480C-95A3-11DC5301BDE4}']"
+              s:ds="{235499DA-90FA-41CD-8B23-61D1CCCA9F64}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom/image-block-splitter-480x540-left" />
+            <r
+              uid="{0E4E4E35-6255-40F1-A1D3-3CC9F7062E63}"
+              p:after="r[@uid='{E7FC5B7B-CAFB-4081-B895-3F98BFEA878B}']"
+              s:ds="{095E29CC-9280-45B3-9BE5-EFEBF9D7AFB5}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom/image-block-splitter-480x540-right" />
+            <r
+              uid="{C8583A9F-3014-445D-ACBE-687442D97D11}"
+              p:after="r[@uid='{0E4E4E35-6255-40F1-A1D3-3CC9F7062E63}']"
+              s:ds="{F1C25E57-6A77-47D3-ACD1-52E9CECB2624}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom/image-block-splitter-480x540-left" />
+            <r
+              uid="{B5A9391B-20D3-4D76-98CB-3A9A046FB24A}"
+              p:after="r[@uid='{C8583A9F-3014-445D-ACBE-687442D97D11}']"
+              s:ds="{6B4A90F5-D7DE-437D-846B-B6A540F20E8F}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top" />
+            <r
+              uid="{15B94FED-942D-434B-9AB7-21FAF3B23BDF}"
+              p:after="r[@uid='{B5A9391B-20D3-4D76-98CB-3A9A046FB24A}']"
+              s:ds="{E836F759-A075-49A9-A5A1-85335A79B926}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-top" />
+            <r
+              uid="{4BE9B2FD-0F17-4E60-BAE2-9C7ADBADAB6A}"
+              p:after="r[@uid='{15B94FED-942D-434B-9AB7-21FAF3B23BDF}']"
+              s:id="{30CDBCD0-0126-446E-8E05-E7931C91B224}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{922FEBE5-6784-4C05-9A9A-36E8B1331565}"
+              p:after="r[@uid='{4BE9B2FD-0F17-4E60-BAE2-9C7ADBADAB6A}']"
+              s:id="{30CDBCD0-0126-446E-8E05-E7931C91B224}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{7CA229AB-2A8E-4489-ADD2-20A3B363DCDA}"
+              p:after="r[@uid='{922FEBE5-6784-4C05-9A9A-36E8B1331565}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-right" />
+            <r
+              uid="{F5B5A92C-114A-4C73-81D9-E271723CABD7}"
+              p:after="r[@uid='{7CA229AB-2A8E-4489-ADD2-20A3B363DCDA}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-left" />
+            <r
+              uid="{4F71983A-DAB7-4A9D-AD68-4D99C5C583BB}"
+              p:after="r[@uid='{F5B5A92C-114A-4C73-81D9-E271723CABD7}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0" />
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{1E5B2D26-6CEC-4DF9-A230-D4CDC42F7CE2}"
+              p:after="r[@uid='{37A7ADD6-9046-4B18-B22A-BE9133614F3D}']"
+              s:ds="{F433A87C-95C1-4F3E-BFE9-84E480761C98}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{CE98ABD3-0BD7-4E9D-9429-6E052B2232DF}"
+              p:after="r[@uid='{1E5B2D26-6CEC-4DF9-A230-D4CDC42F7CE2}']"
+              s:ds="{5AF543D1-AF8F-4D76-8187-67A5F19E1047}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{BCEA8744-16C1-4C26-AB36-C5036BBFD6B3}"
+              p:after="r[@uid='{CE98ABD3-0BD7-4E9D-9429-6E052B2232DF}']"
+              s:ds="{BFE1065C-B25E-4825-8EF7-5DA8FABA4F39}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{15FAB526-5DFF-45E9-AEB7-24986903A44F}"
+              p:after="r[@uid='{BCEA8744-16C1-4C26-AB36-C5036BBFD6B3}']"
+              s:ds="{76D44759-96F1-4591-A58A-154F8418D45B}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{26C71DC8-B697-4874-958E-7FEDE4733536}"
+              p:after="r[@uid='{15FAB526-5DFF-45E9-AEB7-24986903A44F}']"
+              s:ds="{E31D1C1F-8CF3-456A-BB5C-EB71A607F048}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+            <r
+              uid="{71762746-BD47-4C18-BD0B-CBE3CBD0B1C4}"
+              p:after="r[@uid='{4BBC422C-6B71-4B4F-B6DC-4295F397094F}']"
+              s:ds="{DFB7ABB7-9923-418F-B899-38830DAA422C}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{4EC10F80-CDCD-44E9-89CA-139547791E5E}"
+              p:after="r[@uid='{71762746-BD47-4C18-BD0B-CBE3CBD0B1C4}']"
+              s:ds="{E34C451F-AA64-4EFA-9303-50446808D0E9}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{1D9945F7-A4E3-4CB4-B5EF-EBF59C5ABCA3}"
+              p:after="r[@uid='{4EC10F80-CDCD-44E9-89CA-139547791E5E}']"
+              s:ds="{9D76CC06-33FF-45CF-8992-4717A8061ADA}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:ph="main" />
+            <r
+              uid="{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}"
+              p:after="r[@uid='{1D9945F7-A4E3-4CB4-B5EF-EBF59C5ABCA3}']"
+              s:id="{6932DD17-1CD9-4D03-93B7-3C0A92EB8229}"
+              s:ph="main" />
+            <r
+              uid="{48F774B4-4312-494E-86D9-B1F8F9B14FB7}"
+              p:after="r[@uid='{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}']"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{5B658484-9ACE-4B88-ADBB-4506F9E741EA}"
+              p:after="r[@uid='{48F774B4-4312-494E-86D9-B1F8F9B14FB7}']"
+              s:ds="{AFD3EF8C-5412-4634-8826-8C8FB2567CE5}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{253FD6B7-DE7A-4D8D-B8F1-7174B778843B}"
+              p:after="r[@uid='{5B658484-9ACE-4B88-ADBB-4506F9E741EA}']"
+              s:ds="{B911FD3B-1364-482F-8908-7F8EF93AB636}"
+              s:id="{703C4FCC-55FD-48C3-8F29-1B196484B61C}"
+              s:ph="main" />
+            <r
+              uid="{84233FDC-D0B6-4470-8ED4-7070A3D06D18}"
+              p:after="*[1=2]"
+              s:ds="{80C63A41-0F7E-4E6E-A8DE-287E34A1942E}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Offshore Wind
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Leveraging vast experience in offshore fields to minimize risk in offshore wind developments</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Offshore Wind
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210625T123538Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Offshore Wind
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Offshore Wind
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joshuashearer
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joshuashearer
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Offshore Wind
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4a726d87-8563-4e2d-9e85-025b603129e5"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{894AD693-62BC-4D0F-8E34-42401EBEF1F3}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "Leveraging vast experience in offshore fields to minimize risk in offshore wind developments, floating wind installations, offshore cranes, and other offshore wind-focused technologies."
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20210625T123538Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{438FBB9F-D91E-47B9-ACC2-9BAF48DD10A4}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210716T155307Z
+    - ID: "da134e40-cb02-4645-9846-115fb9a5aeca"
+      Hint: capability
+      Value: "{7E9C51EB-6102-4179-881F-ED145AE5C25C}"
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: Offshore Wind Wind Renewables
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{438FBB9F-D91E-47B9-ACC2-9BAF48DD10A4}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 5
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{59635076-A500-480C-95A3-11DC5301BDE4}"
+              p:before="*"
+              s:ds="{1BC50273-B978-4365-A771-7996D3B3D165}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom/image-block-splitter-480x540-right" />
+            <r
+              uid="{E7FC5B7B-CAFB-4081-B895-3F98BFEA878B}"
+              p:after="r[@uid='{59635076-A500-480C-95A3-11DC5301BDE4}']"
+              s:ds="{235499DA-90FA-41CD-8B23-61D1CCCA9F64}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom/image-block-splitter-480x540-left" />
+            <r
+              uid="{0E4E4E35-6255-40F1-A1D3-3CC9F7062E63}"
+              p:after="r[@uid='{E7FC5B7B-CAFB-4081-B895-3F98BFEA878B}']"
+              s:ds="{095E29CC-9280-45B3-9BE5-EFEBF9D7AFB5}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom/image-block-splitter-480x540-right" />
+            <r
+              uid="{C8583A9F-3014-445D-ACBE-687442D97D11}"
+              p:after="r[@uid='{0E4E4E35-6255-40F1-A1D3-3CC9F7062E63}']"
+              s:ds="{F1C25E57-6A77-47D3-ACD1-52E9CECB2624}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom/image-block-splitter-480x540-left" />
+            <r
+              uid="{B5A9391B-20D3-4D76-98CB-3A9A046FB24A}"
+              p:after="r[@uid='{C8583A9F-3014-445D-ACBE-687442D97D11}']"
+              s:ds="{6B4A90F5-D7DE-437D-846B-B6A540F20E8F}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top" />
+            <r
+              uid="{15B94FED-942D-434B-9AB7-21FAF3B23BDF}"
+              p:after="r[@uid='{B5A9391B-20D3-4D76-98CB-3A9A046FB24A}']"
+              s:ds="{E836F759-A075-49A9-A5A1-85335A79B926}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-top" />
+            <r
+              uid="{4BE9B2FD-0F17-4E60-BAE2-9C7ADBADAB6A}"
+              p:after="r[@uid='{15B94FED-942D-434B-9AB7-21FAF3B23BDF}']"
+              s:id="{30CDBCD0-0126-446E-8E05-E7931C91B224}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{922FEBE5-6784-4C05-9A9A-36E8B1331565}"
+              p:after="r[@uid='{4BE9B2FD-0F17-4E60-BAE2-9C7ADBADAB6A}']"
+              s:id="{30CDBCD0-0126-446E-8E05-E7931C91B224}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{7CA229AB-2A8E-4489-ADD2-20A3B363DCDA}"
+              p:after="r[@uid='{922FEBE5-6784-4C05-9A9A-36E8B1331565}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-right" />
+            <r
+              uid="{F5B5A92C-114A-4C73-81D9-E271723CABD7}"
+              p:after="r[@uid='{7CA229AB-2A8E-4489-ADD2-20A3B363DCDA}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-left" />
+            <r
+              uid="{4F71983A-DAB7-4A9D-AD68-4D99C5C583BB}"
+              p:after="r[@uid='{F5B5A92C-114A-4C73-81D9-E271723CABD7}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0" />
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{1E5B2D26-6CEC-4DF9-A230-D4CDC42F7CE2}"
+              p:after="r[@uid='{37A7ADD6-9046-4B18-B22A-BE9133614F3D}']"
+              s:ds="{F433A87C-95C1-4F3E-BFE9-84E480761C98}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{CE98ABD3-0BD7-4E9D-9429-6E052B2232DF}"
+              p:after="r[@uid='{1E5B2D26-6CEC-4DF9-A230-D4CDC42F7CE2}']"
+              s:ds="{5AF543D1-AF8F-4D76-8187-67A5F19E1047}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{BCEA8744-16C1-4C26-AB36-C5036BBFD6B3}"
+              p:after="r[@uid='{CE98ABD3-0BD7-4E9D-9429-6E052B2232DF}']"
+              s:ds="{BFE1065C-B25E-4825-8EF7-5DA8FABA4F39}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{15FAB526-5DFF-45E9-AEB7-24986903A44F}"
+              p:after="r[@uid='{BCEA8744-16C1-4C26-AB36-C5036BBFD6B3}']"
+              s:ds="{76D44759-96F1-4591-A58A-154F8418D45B}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{26C71DC8-B697-4874-958E-7FEDE4733536}"
+              p:after="r[@uid='{15FAB526-5DFF-45E9-AEB7-24986903A44F}']"
+              s:ds="{E31D1C1F-8CF3-456A-BB5C-EB71A607F048}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+            <r
+              uid="{71762746-BD47-4C18-BD0B-CBE3CBD0B1C4}"
+              p:after="r[@uid='{4BBC422C-6B71-4B4F-B6DC-4295F397094F}']"
+              s:ds="{DFB7ABB7-9923-418F-B899-38830DAA422C}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{4EC10F80-CDCD-44E9-89CA-139547791E5E}"
+              p:after="r[@uid='{71762746-BD47-4C18-BD0B-CBE3CBD0B1C4}']"
+              s:ds="{E34C451F-AA64-4EFA-9303-50446808D0E9}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{1D9945F7-A4E3-4CB4-B5EF-EBF59C5ABCA3}"
+              p:after="r[@uid='{4EC10F80-CDCD-44E9-89CA-139547791E5E}']"
+              s:ds="{9D76CC06-33FF-45CF-8992-4717A8061ADA}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:ph="main" />
+            <r
+              uid="{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}"
+              p:after="r[@uid='{1D9945F7-A4E3-4CB4-B5EF-EBF59C5ABCA3}']"
+              s:id="{6932DD17-1CD9-4D03-93B7-3C0A92EB8229}"
+              s:ph="main" />
+            <r
+              uid="{48F774B4-4312-494E-86D9-B1F8F9B14FB7}"
+              p:after="r[@uid='{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}']"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{5B658484-9ACE-4B88-ADBB-4506F9E741EA}"
+              p:after="r[@uid='{48F774B4-4312-494E-86D9-B1F8F9B14FB7}']"
+              s:ds="{AFD3EF8C-5412-4634-8826-8C8FB2567CE5}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{253FD6B7-DE7A-4D8D-B8F1-7174B778843B}"
+              p:after="r[@uid='{5B658484-9ACE-4B88-ADBB-4506F9E741EA}']"
+              s:ds="{B911FD3B-1364-482F-8908-7F8EF93AB636}"
+              s:id="{703C4FCC-55FD-48C3-8F29-1B196484B61C}"
+              s:ph="main" />
+            <r
+              uid="{84233FDC-D0B6-4470-8ED4-7070A3D06D18}"
+              p:after="*[1=2]"
+              s:ds="{80C63A41-0F7E-4E6E-A8DE-287E34A1942E}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Offshore Wind
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Leveraging vast experience in offshore fields to minimize risk in offshore wind developments</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Offshore Wind
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210727T155835Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Offshore Wind
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Offshore Wind
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joshuashearer
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Offshore Wind
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "52773d9c-6335-47c9-9cba-36f6c2891b69"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{894AD693-62BC-4D0F-8E34-42401EBEF1F3}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "Leveraging vast experience in offshore fields to minimize risk in offshore wind developments, floating wind installations, offshore cranes, and other offshore wind-focused technologies."
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20210727T155835Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{438FBB9F-D91E-47B9-ACC2-9BAF48DD10A4}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210730T020232Z
+    - ID: "da134e40-cb02-4645-9846-115fb9a5aeca"
+      Hint: capability
+      Value: "{7E9C51EB-6102-4179-881F-ED145AE5C25C}"
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: Offshore Wind Wind Renewables
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{438FBB9F-D91E-47B9-ACC2-9BAF48DD10A4}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 6
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{59635076-A500-480C-95A3-11DC5301BDE4}"
+              p:before="*"
+              s:ds="{1BC50273-B978-4365-A771-7996D3B3D165}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom/image-block-splitter-480x540-right" />
+            <r
+              uid="{E7FC5B7B-CAFB-4081-B895-3F98BFEA878B}"
+              p:after="r[@uid='{59635076-A500-480C-95A3-11DC5301BDE4}']"
+              s:ds="{235499DA-90FA-41CD-8B23-61D1CCCA9F64}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom/image-block-splitter-480x540-left" />
+            <r
+              uid="{0E4E4E35-6255-40F1-A1D3-3CC9F7062E63}"
+              p:after="r[@uid='{E7FC5B7B-CAFB-4081-B895-3F98BFEA878B}']"
+              s:ds="{095E29CC-9280-45B3-9BE5-EFEBF9D7AFB5}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom/image-block-splitter-480x540-right" />
+            <r
+              uid="{C8583A9F-3014-445D-ACBE-687442D97D11}"
+              p:after="r[@uid='{0E4E4E35-6255-40F1-A1D3-3CC9F7062E63}']"
+              s:ds="{F1C25E57-6A77-47D3-ACD1-52E9CECB2624}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom/image-block-splitter-480x540-left" />
+            <r
+              uid="{B5A9391B-20D3-4D76-98CB-3A9A046FB24A}"
+              p:after="r[@uid='{C8583A9F-3014-445D-ACBE-687442D97D11}']"
+              s:ds="{6B4A90F5-D7DE-437D-846B-B6A540F20E8F}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top" />
+            <r
+              uid="{15B94FED-942D-434B-9AB7-21FAF3B23BDF}"
+              p:after="r[@uid='{B5A9391B-20D3-4D76-98CB-3A9A046FB24A}']"
+              s:ds="{E836F759-A075-49A9-A5A1-85335A79B926}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-top" />
+            <r
+              uid="{4BE9B2FD-0F17-4E60-BAE2-9C7ADBADAB6A}"
+              p:after="r[@uid='{15B94FED-942D-434B-9AB7-21FAF3B23BDF}']"
+              s:id="{30CDBCD0-0126-446E-8E05-E7931C91B224}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{922FEBE5-6784-4C05-9A9A-36E8B1331565}"
+              p:after="r[@uid='{4BE9B2FD-0F17-4E60-BAE2-9C7ADBADAB6A}']"
+              s:id="{30CDBCD0-0126-446E-8E05-E7931C91B224}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{7CA229AB-2A8E-4489-ADD2-20A3B363DCDA}"
+              p:after="r[@uid='{922FEBE5-6784-4C05-9A9A-36E8B1331565}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-right" />
+            <r
+              uid="{F5B5A92C-114A-4C73-81D9-E271723CABD7}"
+              p:after="r[@uid='{7CA229AB-2A8E-4489-ADD2-20A3B363DCDA}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-left" />
+            <r
+              uid="{4F71983A-DAB7-4A9D-AD68-4D99C5C583BB}"
+              p:after="r[@uid='{F5B5A92C-114A-4C73-81D9-E271723CABD7}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0" />
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{1E5B2D26-6CEC-4DF9-A230-D4CDC42F7CE2}"
+              p:after="r[@uid='{37A7ADD6-9046-4B18-B22A-BE9133614F3D}']"
+              s:ds="{F433A87C-95C1-4F3E-BFE9-84E480761C98}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{CE98ABD3-0BD7-4E9D-9429-6E052B2232DF}"
+              p:after="r[@uid='{1E5B2D26-6CEC-4DF9-A230-D4CDC42F7CE2}']"
+              s:ds="{5AF543D1-AF8F-4D76-8187-67A5F19E1047}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{BCEA8744-16C1-4C26-AB36-C5036BBFD6B3}"
+              p:after="r[@uid='{CE98ABD3-0BD7-4E9D-9429-6E052B2232DF}']"
+              s:ds="{BFE1065C-B25E-4825-8EF7-5DA8FABA4F39}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{15FAB526-5DFF-45E9-AEB7-24986903A44F}"
+              p:after="r[@uid='{BCEA8744-16C1-4C26-AB36-C5036BBFD6B3}']"
+              s:ds="{76D44759-96F1-4591-A58A-154F8418D45B}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{26C71DC8-B697-4874-958E-7FEDE4733536}"
+              p:after="r[@uid='{15FAB526-5DFF-45E9-AEB7-24986903A44F}']"
+              s:ds="{E31D1C1F-8CF3-456A-BB5C-EB71A607F048}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+            <r
+              uid="{71762746-BD47-4C18-BD0B-CBE3CBD0B1C4}"
+              p:after="r[@uid='{4BBC422C-6B71-4B4F-B6DC-4295F397094F}']"
+              s:ds="{DFB7ABB7-9923-418F-B899-38830DAA422C}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{4EC10F80-CDCD-44E9-89CA-139547791E5E}"
+              p:after="r[@uid='{71762746-BD47-4C18-BD0B-CBE3CBD0B1C4}']"
+              s:ds="{E34C451F-AA64-4EFA-9303-50446808D0E9}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{1D9945F7-A4E3-4CB4-B5EF-EBF59C5ABCA3}"
+              p:after="r[@uid='{4EC10F80-CDCD-44E9-89CA-139547791E5E}']"
+              s:ds="{9D76CC06-33FF-45CF-8992-4717A8061ADA}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:ph="main" />
+            <r
+              uid="{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}"
+              p:after="r[@uid='{1D9945F7-A4E3-4CB4-B5EF-EBF59C5ABCA3}']"
+              s:id="{6932DD17-1CD9-4D03-93B7-3C0A92EB8229}"
+              s:ph="main" />
+            <r
+              uid="{48F774B4-4312-494E-86D9-B1F8F9B14FB7}"
+              p:after="r[@uid='{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}']"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{5B658484-9ACE-4B88-ADBB-4506F9E741EA}"
+              p:after="r[@uid='{48F774B4-4312-494E-86D9-B1F8F9B14FB7}']"
+              s:ds="{AFD3EF8C-5412-4634-8826-8C8FB2567CE5}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{253FD6B7-DE7A-4D8D-B8F1-7174B778843B}"
+              p:after="r[@uid='{5B658484-9ACE-4B88-ADBB-4506F9E741EA}']"
+              s:ds="{B911FD3B-1364-482F-8908-7F8EF93AB636}"
+              s:id="{703C4FCC-55FD-48C3-8F29-1B196484B61C}"
+              s:ph="main" />
+            <r
+              uid="{84233FDC-D0B6-4470-8ED4-7070A3D06D18}"
+              p:after="*[1=2]"
+              s:ds="{80C63A41-0F7E-4E6E-A8DE-287E34A1942E}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Offshore Wind
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Leveraging vast experience in offshore fields to minimize risk in offshore wind developments</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Offshore Wind
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210806T150510Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Offshore Wind
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Offshore Wind
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joshuashearer
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Offshore Wind
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "27fb03d9-3503-4efa-bc87-1ad6b076fac5"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{894AD693-62BC-4D0F-8E34-42401EBEF1F3}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "Leveraging vast experience in offshore fields to minimize risk in offshore wind developments, floating wind installations, offshore cranes, and other offshore wind-focused technologies."
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20210806T150510Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{438FBB9F-D91E-47B9-ACC2-9BAF48DD10A4}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210831T215515Z
+    - ID: "da134e40-cb02-4645-9846-115fb9a5aeca"
+      Hint: capability
+      Value: "{7E9C51EB-6102-4179-881F-ED145AE5C25C}"
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: Offshore Wind Wind Renewables
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{438FBB9F-D91E-47B9-ACC2-9BAF48DD10A4}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 7
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{59635076-A500-480C-95A3-11DC5301BDE4}"
+              p:before="*"
+              s:ds="{1BC50273-B978-4365-A771-7996D3B3D165}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom/image-block-splitter-480x540-right" />
+            <r
+              uid="{E7FC5B7B-CAFB-4081-B895-3F98BFEA878B}"
+              p:after="r[@uid='{59635076-A500-480C-95A3-11DC5301BDE4}']"
+              s:ds="{235499DA-90FA-41CD-8B23-61D1CCCA9F64}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom/image-block-splitter-480x540-left" />
+            <r
+              uid="{0E4E4E35-6255-40F1-A1D3-3CC9F7062E63}"
+              p:after="r[@uid='{E7FC5B7B-CAFB-4081-B895-3F98BFEA878B}']"
+              s:ds="{095E29CC-9280-45B3-9BE5-EFEBF9D7AFB5}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom/image-block-splitter-480x540-right" />
+            <r
+              uid="{C8583A9F-3014-445D-ACBE-687442D97D11}"
+              p:after="r[@uid='{0E4E4E35-6255-40F1-A1D3-3CC9F7062E63}']"
+              s:ds="{F1C25E57-6A77-47D3-ACD1-52E9CECB2624}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom/image-block-splitter-480x540-left" />
+            <r
+              uid="{B5A9391B-20D3-4D76-98CB-3A9A046FB24A}"
+              p:after="r[@uid='{C8583A9F-3014-445D-ACBE-687442D97D11}']"
+              s:ds="{6B4A90F5-D7DE-437D-846B-B6A540F20E8F}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top" />
+            <r
+              uid="{15B94FED-942D-434B-9AB7-21FAF3B23BDF}"
+              p:after="r[@uid='{B5A9391B-20D3-4D76-98CB-3A9A046FB24A}']"
+              s:ds="{E836F759-A075-49A9-A5A1-85335A79B926}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-top" />
+            <r
+              uid="{4BE9B2FD-0F17-4E60-BAE2-9C7ADBADAB6A}"
+              p:after="r[@uid='{15B94FED-942D-434B-9AB7-21FAF3B23BDF}']"
+              s:id="{30CDBCD0-0126-446E-8E05-E7931C91B224}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{922FEBE5-6784-4C05-9A9A-36E8B1331565}"
+              p:after="r[@uid='{4BE9B2FD-0F17-4E60-BAE2-9C7ADBADAB6A}']"
+              s:id="{30CDBCD0-0126-446E-8E05-E7931C91B224}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{7CA229AB-2A8E-4489-ADD2-20A3B363DCDA}"
+              p:after="r[@uid='{922FEBE5-6784-4C05-9A9A-36E8B1331565}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-right" />
+            <r
+              uid="{F5B5A92C-114A-4C73-81D9-E271723CABD7}"
+              p:after="r[@uid='{7CA229AB-2A8E-4489-ADD2-20A3B363DCDA}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-left" />
+            <r
+              uid="{4F71983A-DAB7-4A9D-AD68-4D99C5C583BB}"
+              p:after="r[@uid='{F5B5A92C-114A-4C73-81D9-E271723CABD7}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0" />
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{1E5B2D26-6CEC-4DF9-A230-D4CDC42F7CE2}"
+              p:after="r[@uid='{37A7ADD6-9046-4B18-B22A-BE9133614F3D}']"
+              s:ds="{F433A87C-95C1-4F3E-BFE9-84E480761C98}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{CE98ABD3-0BD7-4E9D-9429-6E052B2232DF}"
+              p:after="r[@uid='{1E5B2D26-6CEC-4DF9-A230-D4CDC42F7CE2}']"
+              s:ds="{5AF543D1-AF8F-4D76-8187-67A5F19E1047}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{BCEA8744-16C1-4C26-AB36-C5036BBFD6B3}"
+              p:after="r[@uid='{CE98ABD3-0BD7-4E9D-9429-6E052B2232DF}']"
+              s:ds="{BFE1065C-B25E-4825-8EF7-5DA8FABA4F39}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{15FAB526-5DFF-45E9-AEB7-24986903A44F}"
+              p:after="r[@uid='{BCEA8744-16C1-4C26-AB36-C5036BBFD6B3}']"
+              s:ds="{76D44759-96F1-4591-A58A-154F8418D45B}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{26C71DC8-B697-4874-958E-7FEDE4733536}"
+              p:after="r[@uid='{15FAB526-5DFF-45E9-AEB7-24986903A44F}']"
+              s:ds="{E31D1C1F-8CF3-456A-BB5C-EB71A607F048}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+            <r
+              uid="{71762746-BD47-4C18-BD0B-CBE3CBD0B1C4}"
+              p:after="r[@uid='{4BBC422C-6B71-4B4F-B6DC-4295F397094F}']"
+              s:ds="{DFB7ABB7-9923-418F-B899-38830DAA422C}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{4EC10F80-CDCD-44E9-89CA-139547791E5E}"
+              p:after="r[@uid='{71762746-BD47-4C18-BD0B-CBE3CBD0B1C4}']"
+              s:ds="{E34C451F-AA64-4EFA-9303-50446808D0E9}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{1D9945F7-A4E3-4CB4-B5EF-EBF59C5ABCA3}"
+              p:after="r[@uid='{4EC10F80-CDCD-44E9-89CA-139547791E5E}']"
+              s:ds="{9D76CC06-33FF-45CF-8992-4717A8061ADA}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:ph="main" />
+            <r
+              uid="{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}"
+              p:after="r[@uid='{1D9945F7-A4E3-4CB4-B5EF-EBF59C5ABCA3}']"
+              s:id="{6932DD17-1CD9-4D03-93B7-3C0A92EB8229}"
+              s:ph="main" />
+            <r
+              uid="{48F774B4-4312-494E-86D9-B1F8F9B14FB7}"
+              p:after="r[@uid='{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}']"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{5B658484-9ACE-4B88-ADBB-4506F9E741EA}"
+              p:after="r[@uid='{48F774B4-4312-494E-86D9-B1F8F9B14FB7}']"
+              s:ds="{AFD3EF8C-5412-4634-8826-8C8FB2567CE5}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{253FD6B7-DE7A-4D8D-B8F1-7174B778843B}"
+              p:after="r[@uid='{5B658484-9ACE-4B88-ADBB-4506F9E741EA}']"
+              s:ds="{B911FD3B-1364-482F-8908-7F8EF93AB636}"
+              s:id="{703C4FCC-55FD-48C3-8F29-1B196484B61C}"
+              s:ph="main" />
+            <r
+              uid="{84233FDC-D0B6-4470-8ED4-7070A3D06D18}"
+              p:after="*[1=2]"
+              s:ds="{80C63A41-0F7E-4E6E-A8DE-287E34A1942E}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Offshore Wind
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Leveraging vast experience in offshore fields to minimize risk in offshore wind developments</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Offshore Wind
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210930T203241Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Offshore Wind
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Offshore Wind
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joshuashearer
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Offshore Wind
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "08292799-deed-4eb5-bb17-091fbc6d7fc9"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{894AD693-62BC-4D0F-8E34-42401EBEF1F3}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "Leveraging vast experience in offshore fields to minimize risk in offshore wind developments, floating wind installations, offshore cranes, and other offshore wind-focused technologies."
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20210930T203241Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{438FBB9F-D91E-47B9-ACC2-9BAF48DD10A4}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210930T204435Z
+    - ID: "da134e40-cb02-4645-9846-115fb9a5aeca"
+      Hint: capability
+      Value: "{7E9C51EB-6102-4179-881F-ED145AE5C25C}"
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: Offshore Wind Wind Renewables
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{438FBB9F-D91E-47B9-ACC2-9BAF48DD10A4}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 8
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{59635076-A500-480C-95A3-11DC5301BDE4}"
+              p:before="*"
+              s:ds="{1BC50273-B978-4365-A771-7996D3B3D165}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom/image-block-splitter-480x540-right" />
+            <r
+              uid="{E7FC5B7B-CAFB-4081-B895-3F98BFEA878B}"
+              p:after="r[@uid='{59635076-A500-480C-95A3-11DC5301BDE4}']"
+              s:ds="{235499DA-90FA-41CD-8B23-61D1CCCA9F64}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom/image-block-splitter-480x540-left" />
+            <r
+              uid="{0E4E4E35-6255-40F1-A1D3-3CC9F7062E63}"
+              p:after="r[@uid='{E7FC5B7B-CAFB-4081-B895-3F98BFEA878B}']"
+              s:ds="{095E29CC-9280-45B3-9BE5-EFEBF9D7AFB5}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom/image-block-splitter-480x540-right" />
+            <r
+              uid="{C8583A9F-3014-445D-ACBE-687442D97D11}"
+              p:after="r[@uid='{0E4E4E35-6255-40F1-A1D3-3CC9F7062E63}']"
+              s:ds="{F1C25E57-6A77-47D3-ACD1-52E9CECB2624}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom/image-block-splitter-480x540-left" />
+            <r
+              uid="{B5A9391B-20D3-4D76-98CB-3A9A046FB24A}"
+              p:after="r[@uid='{C8583A9F-3014-445D-ACBE-687442D97D11}']"
+              s:ds="{6B4A90F5-D7DE-437D-846B-B6A540F20E8F}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top" />
+            <r
+              uid="{15B94FED-942D-434B-9AB7-21FAF3B23BDF}"
+              p:after="r[@uid='{B5A9391B-20D3-4D76-98CB-3A9A046FB24A}']"
+              s:ds="{E836F759-A075-49A9-A5A1-85335A79B926}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-top" />
+            <r
+              uid="{4BE9B2FD-0F17-4E60-BAE2-9C7ADBADAB6A}"
+              p:after="r[@uid='{15B94FED-942D-434B-9AB7-21FAF3B23BDF}']"
+              s:id="{30CDBCD0-0126-446E-8E05-E7931C91B224}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{922FEBE5-6784-4C05-9A9A-36E8B1331565}"
+              p:after="r[@uid='{4BE9B2FD-0F17-4E60-BAE2-9C7ADBADAB6A}']"
+              s:id="{30CDBCD0-0126-446E-8E05-E7931C91B224}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{7CA229AB-2A8E-4489-ADD2-20A3B363DCDA}"
+              p:after="r[@uid='{922FEBE5-6784-4C05-9A9A-36E8B1331565}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-right" />
+            <r
+              uid="{F5B5A92C-114A-4C73-81D9-E271723CABD7}"
+              p:after="r[@uid='{7CA229AB-2A8E-4489-ADD2-20A3B363DCDA}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-left" />
+            <r
+              uid="{4F71983A-DAB7-4A9D-AD68-4D99C5C583BB}"
+              p:after="r[@uid='{F5B5A92C-114A-4C73-81D9-E271723CABD7}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0" />
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{1E5B2D26-6CEC-4DF9-A230-D4CDC42F7CE2}"
+              p:after="r[@uid='{37A7ADD6-9046-4B18-B22A-BE9133614F3D}']"
+              s:ds="{F433A87C-95C1-4F3E-BFE9-84E480761C98}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{CE98ABD3-0BD7-4E9D-9429-6E052B2232DF}"
+              p:after="r[@uid='{1E5B2D26-6CEC-4DF9-A230-D4CDC42F7CE2}']"
+              s:ds="{5AF543D1-AF8F-4D76-8187-67A5F19E1047}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{BCEA8744-16C1-4C26-AB36-C5036BBFD6B3}"
+              p:after="r[@uid='{CE98ABD3-0BD7-4E9D-9429-6E052B2232DF}']"
+              s:ds="{BFE1065C-B25E-4825-8EF7-5DA8FABA4F39}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{15FAB526-5DFF-45E9-AEB7-24986903A44F}"
+              p:after="r[@uid='{BCEA8744-16C1-4C26-AB36-C5036BBFD6B3}']"
+              s:ds="{76D44759-96F1-4591-A58A-154F8418D45B}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{26C71DC8-B697-4874-958E-7FEDE4733536}"
+              p:after="r[@uid='{15FAB526-5DFF-45E9-AEB7-24986903A44F}']"
+              s:ds="{E31D1C1F-8CF3-456A-BB5C-EB71A607F048}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+            <r
+              uid="{71762746-BD47-4C18-BD0B-CBE3CBD0B1C4}"
+              p:after="r[@uid='{4BBC422C-6B71-4B4F-B6DC-4295F397094F}']"
+              s:ds="{DFB7ABB7-9923-418F-B899-38830DAA422C}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{4EC10F80-CDCD-44E9-89CA-139547791E5E}"
+              p:after="r[@uid='{71762746-BD47-4C18-BD0B-CBE3CBD0B1C4}']"
+              s:ds="{E34C451F-AA64-4EFA-9303-50446808D0E9}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{1D9945F7-A4E3-4CB4-B5EF-EBF59C5ABCA3}"
+              p:after="r[@uid='{4EC10F80-CDCD-44E9-89CA-139547791E5E}']"
+              s:ds="{9D76CC06-33FF-45CF-8992-4717A8061ADA}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:ph="main" />
+            <r
+              uid="{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}"
+              p:after="r[@uid='{1D9945F7-A4E3-4CB4-B5EF-EBF59C5ABCA3}']"
+              s:id="{6932DD17-1CD9-4D03-93B7-3C0A92EB8229}"
+              s:ph="main" />
+            <r
+              uid="{48F774B4-4312-494E-86D9-B1F8F9B14FB7}"
+              p:after="r[@uid='{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}']"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{5B658484-9ACE-4B88-ADBB-4506F9E741EA}"
+              p:after="r[@uid='{48F774B4-4312-494E-86D9-B1F8F9B14FB7}']"
+              s:ds="{AFD3EF8C-5412-4634-8826-8C8FB2567CE5}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{253FD6B7-DE7A-4D8D-B8F1-7174B778843B}"
+              p:after="r[@uid='{5B658484-9ACE-4B88-ADBB-4506F9E741EA}']"
+              s:ds="{B911FD3B-1364-482F-8908-7F8EF93AB636}"
+              s:id="{703C4FCC-55FD-48C3-8F29-1B196484B61C}"
+              s:ph="main" />
+            <r
+              uid="{84233FDC-D0B6-4470-8ED4-7070A3D06D18}"
+              p:after="*[1=2]"
+              s:ds="{80C63A41-0F7E-4E6E-A8DE-287E34A1942E}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Offshore Wind
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Leveraging vast experience in offshore fields to minimize risk in offshore wind developments</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Offshore Wind
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211029T035701Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Offshore Wind
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Offshore Wind
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joshuashearer
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Offshore Wind
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9fa51955-19e8-4caf-9101-8c051e165557"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{894AD693-62BC-4D0F-8E34-42401EBEF1F3}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "Leveraging vast experience in offshore fields to minimize risk in offshore wind developments, floating wind installations, offshore cranes, and other offshore wind-focused technologies."
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20211029T035701Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{438FBB9F-D91E-47B9-ACC2-9BAF48DD10A4}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20211117T211642Z
+    - ID: "da134e40-cb02-4645-9846-115fb9a5aeca"
+      Hint: capability
+      Value: "{7E9C51EB-6102-4179-881F-ED145AE5C25C}"
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: Offshore Wind Wind Renewables
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{438FBB9F-D91E-47B9-ACC2-9BAF48DD10A4}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 9
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}">
+              <p:d />
+            </r>
+            <r
+              uid="{37A7ADD6-9046-4B18-B22A-BE9133614F3D}">
+              <p:d />
+            </r>
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{B8201F7A-74FF-4B36-A7DB-3FACF3334530}"
+              p:before="*"
+              s:ds=""
+              s:id="{9CA51EAB-92E4-4A77-8B48-966774577172}"
+              s:par="Add Gradient=1"
+              s:ph="/main/product-hero-{3AC0BC7F-C7C7-4934-87B8-407C48239D4A}-0" />
+            <r
+              uid="{3AC0BC7F-C7C7-4934-87B8-407C48239D4A}"
+              p:after="r[@uid='{B8201F7A-74FF-4B36-A7DB-3FACF3334530}']"
+              s:ds="{DB7BAB29-A94C-445B-B541-5C88B4C85EB8}"
+              s:id="{C3DD97A2-2C6B-4FDA-922C-7127AE10C976}"
+              s:ph="main" />
+            <r
+              uid="{59635076-A500-480C-95A3-11DC5301BDE4}"
+              p:after="r[@uid='{3AC0BC7F-C7C7-4934-87B8-407C48239D4A}']"
+              s:ds="{1BC50273-B978-4365-A771-7996D3B3D165}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom/image-block-splitter-480x540-right" />
+            <r
+              uid="{E7FC5B7B-CAFB-4081-B895-3F98BFEA878B}"
+              p:after="r[@uid='{59635076-A500-480C-95A3-11DC5301BDE4}']"
+              s:ds="{235499DA-90FA-41CD-8B23-61D1CCCA9F64}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom/image-block-splitter-480x540-left" />
+            <r
+              uid="{0E4E4E35-6255-40F1-A1D3-3CC9F7062E63}"
+              p:after="r[@uid='{E7FC5B7B-CAFB-4081-B895-3F98BFEA878B}']"
+              s:ds="{095E29CC-9280-45B3-9BE5-EFEBF9D7AFB5}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom/image-block-splitter-480x540-right" />
+            <r
+              uid="{C8583A9F-3014-445D-ACBE-687442D97D11}"
+              p:after="r[@uid='{0E4E4E35-6255-40F1-A1D3-3CC9F7062E63}']"
+              s:ds="{F1C25E57-6A77-47D3-ACD1-52E9CECB2624}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom/image-block-splitter-480x540-left" />
+            <r
+              uid="{B5A9391B-20D3-4D76-98CB-3A9A046FB24A}"
+              p:after="r[@uid='{C8583A9F-3014-445D-ACBE-687442D97D11}']"
+              s:ds="{6B4A90F5-D7DE-437D-846B-B6A540F20E8F}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top" />
+            <r
+              uid="{15B94FED-942D-434B-9AB7-21FAF3B23BDF}"
+              p:after="r[@uid='{B5A9391B-20D3-4D76-98CB-3A9A046FB24A}']"
+              s:ds="{E836F759-A075-49A9-A5A1-85335A79B926}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-top" />
+            <r
+              uid="{4BE9B2FD-0F17-4E60-BAE2-9C7ADBADAB6A}"
+              p:after="r[@uid='{15B94FED-942D-434B-9AB7-21FAF3B23BDF}']"
+              s:id="{30CDBCD0-0126-446E-8E05-E7931C91B224}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{922FEBE5-6784-4C05-9A9A-36E8B1331565}"
+              p:after="r[@uid='{4BE9B2FD-0F17-4E60-BAE2-9C7ADBADAB6A}']"
+              s:id="{30CDBCD0-0126-446E-8E05-E7931C91B224}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{7CA229AB-2A8E-4489-ADD2-20A3B363DCDA}"
+              p:after="r[@uid='{922FEBE5-6784-4C05-9A9A-36E8B1331565}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-right" />
+            <r
+              uid="{F5B5A92C-114A-4C73-81D9-E271723CABD7}"
+              p:after="r[@uid='{7CA229AB-2A8E-4489-ADD2-20A3B363DCDA}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-left" />
+            <r
+              uid="{4F71983A-DAB7-4A9D-AD68-4D99C5C583BB}"
+              p:after="r[@uid='{F5B5A92C-114A-4C73-81D9-E271723CABD7}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0" />
+            <r
+              uid="{1E5B2D26-6CEC-4DF9-A230-D4CDC42F7CE2}"
+              p:after="r[@uid='{4F71983A-DAB7-4A9D-AD68-4D99C5C583BB}']"
+              s:ds="{F433A87C-95C1-4F3E-BFE9-84E480761C98}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{CE98ABD3-0BD7-4E9D-9429-6E052B2232DF}"
+              p:after="r[@uid='{1E5B2D26-6CEC-4DF9-A230-D4CDC42F7CE2}']"
+              s:ds="{5AF543D1-AF8F-4D76-8187-67A5F19E1047}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{BCEA8744-16C1-4C26-AB36-C5036BBFD6B3}"
+              p:after="r[@uid='{CE98ABD3-0BD7-4E9D-9429-6E052B2232DF}']"
+              s:ds="{BFE1065C-B25E-4825-8EF7-5DA8FABA4F39}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{15FAB526-5DFF-45E9-AEB7-24986903A44F}"
+              p:after="r[@uid='{BCEA8744-16C1-4C26-AB36-C5036BBFD6B3}']"
+              s:ds="{76D44759-96F1-4591-A58A-154F8418D45B}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{26C71DC8-B697-4874-958E-7FEDE4733536}"
+              p:after="r[@uid='{15FAB526-5DFF-45E9-AEB7-24986903A44F}']"
+              s:ds="{E31D1C1F-8CF3-456A-BB5C-EB71A607F048}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+            <r
+              uid="{71762746-BD47-4C18-BD0B-CBE3CBD0B1C4}"
+              p:after="r[@uid='{4BBC422C-6B71-4B4F-B6DC-4295F397094F}']"
+              s:ds="{DFB7ABB7-9923-418F-B899-38830DAA422C}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{4EC10F80-CDCD-44E9-89CA-139547791E5E}"
+              p:after="r[@uid='{71762746-BD47-4C18-BD0B-CBE3CBD0B1C4}']"
+              s:ds="{E34C451F-AA64-4EFA-9303-50446808D0E9}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{1D9945F7-A4E3-4CB4-B5EF-EBF59C5ABCA3}"
+              p:after="r[@uid='{4EC10F80-CDCD-44E9-89CA-139547791E5E}']"
+              s:ds="{9D76CC06-33FF-45CF-8992-4717A8061ADA}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:ph="main" />
+            <r
+              uid="{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}"
+              p:after="r[@uid='{1D9945F7-A4E3-4CB4-B5EF-EBF59C5ABCA3}']"
+              s:id="{6932DD17-1CD9-4D03-93B7-3C0A92EB8229}"
+              s:ph="main" />
+            <r
+              uid="{48F774B4-4312-494E-86D9-B1F8F9B14FB7}"
+              p:after="r[@uid='{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}']"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{5B658484-9ACE-4B88-ADBB-4506F9E741EA}"
+              p:after="r[@uid='{48F774B4-4312-494E-86D9-B1F8F9B14FB7}']"
+              s:ds="{AFD3EF8C-5412-4634-8826-8C8FB2567CE5}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{253FD6B7-DE7A-4D8D-B8F1-7174B778843B}"
+              p:after="r[@uid='{5B658484-9ACE-4B88-ADBB-4506F9E741EA}']"
+              s:ds="{B911FD3B-1364-482F-8908-7F8EF93AB636}"
+              s:id="{703C4FCC-55FD-48C3-8F29-1B196484B61C}"
+              s:ph="main" />
+            <r
+              uid="{84233FDC-D0B6-4470-8ED4-7070A3D06D18}"
+              p:after="r[@uid='{253FD6B7-DE7A-4D8D-B8F1-7174B778843B}']"
+              s:ds="{80C63A41-0F7E-4E6E-A8DE-287E34A1942E}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{8C9DAA84-EFE9-4BFB-94CC-E2B10AD5D21B}"
+              p:after="*[1=2]"
+              s:ds="{5B81E656-59EF-4442-93C3-3A7B190EDEC7}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Offshore Wind
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Leveraging vast experience in offshore fields to minimize risk in offshore wind developments</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Offshore Wind
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220314T150724Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Offshore Wind
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Offshore Wind
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joshuashearer
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Offshore Wind
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e6e445b4-642c-4240-b4f3-64ea61e5a483"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{894AD693-62BC-4D0F-8E34-42401EBEF1F3}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "Leveraging vast experience in offshore fields to minimize risk in offshore wind developments, floating wind installations, offshore cranes, and other offshore wind-focused technologies."
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20220314T150724Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{438FBB9F-D91E-47B9-ACC2-9BAF48DD10A4}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220314T191311Z
+    - ID: "da134e40-cb02-4645-9846-115fb9a5aeca"
+      Hint: capability
+      Value: "{7E9C51EB-6102-4179-881F-ED145AE5C25C}"
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: Offshore Wind Wind Renewables
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{438FBB9F-D91E-47B9-ACC2-9BAF48DD10A4}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 10
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}">
+              <p:d />
+            </r>
+            <r
+              uid="{37A7ADD6-9046-4B18-B22A-BE9133614F3D}">
+              <p:d />
+            </r>
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{B8201F7A-74FF-4B36-A7DB-3FACF3334530}"
+              p:before="*"
+              s:ds=""
+              s:id="{9CA51EAB-92E4-4A77-8B48-966774577172}"
+              s:par="Add Gradient=1"
+              s:ph="/main/product-hero-{3AC0BC7F-C7C7-4934-87B8-407C48239D4A}-0" />
+            <r
+              uid="{3AC0BC7F-C7C7-4934-87B8-407C48239D4A}"
+              p:after="r[@uid='{B8201F7A-74FF-4B36-A7DB-3FACF3334530}']"
+              s:ds="{DB7BAB29-A94C-445B-B541-5C88B4C85EB8}"
+              s:id="{C3DD97A2-2C6B-4FDA-922C-7127AE10C976}"
+              s:ph="main" />
+            <r
+              uid="{59635076-A500-480C-95A3-11DC5301BDE4}"
+              p:after="r[@uid='{3AC0BC7F-C7C7-4934-87B8-407C48239D4A}']"
+              s:ds="{1BC50273-B978-4365-A771-7996D3B3D165}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom/image-block-splitter-480x540-right" />
+            <r
+              uid="{E7FC5B7B-CAFB-4081-B895-3F98BFEA878B}"
+              p:after="r[@uid='{59635076-A500-480C-95A3-11DC5301BDE4}']"
+              s:ds="{235499DA-90FA-41CD-8B23-61D1CCCA9F64}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom/image-block-splitter-480x540-left" />
+            <r
+              uid="{0E4E4E35-6255-40F1-A1D3-3CC9F7062E63}"
+              p:after="r[@uid='{E7FC5B7B-CAFB-4081-B895-3F98BFEA878B}']"
+              s:ds="{095E29CC-9280-45B3-9BE5-EFEBF9D7AFB5}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom/image-block-splitter-480x540-right" />
+            <r
+              uid="{C8583A9F-3014-445D-ACBE-687442D97D11}"
+              p:after="r[@uid='{0E4E4E35-6255-40F1-A1D3-3CC9F7062E63}']"
+              s:ds="{F1C25E57-6A77-47D3-ACD1-52E9CECB2624}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom/image-block-splitter-480x540-left" />
+            <r
+              uid="{B5A9391B-20D3-4D76-98CB-3A9A046FB24A}"
+              p:after="r[@uid='{C8583A9F-3014-445D-ACBE-687442D97D11}']"
+              s:ds="{6B4A90F5-D7DE-437D-846B-B6A540F20E8F}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top" />
+            <r
+              uid="{15B94FED-942D-434B-9AB7-21FAF3B23BDF}"
+              p:after="r[@uid='{B5A9391B-20D3-4D76-98CB-3A9A046FB24A}']"
+              s:ds="{E836F759-A075-49A9-A5A1-85335A79B926}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-top" />
+            <r
+              uid="{4BE9B2FD-0F17-4E60-BAE2-9C7ADBADAB6A}"
+              p:after="r[@uid='{15B94FED-942D-434B-9AB7-21FAF3B23BDF}']"
+              s:id="{30CDBCD0-0126-446E-8E05-E7931C91B224}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{922FEBE5-6784-4C05-9A9A-36E8B1331565}"
+              p:after="r[@uid='{4BE9B2FD-0F17-4E60-BAE2-9C7ADBADAB6A}']"
+              s:id="{30CDBCD0-0126-446E-8E05-E7931C91B224}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{7CA229AB-2A8E-4489-ADD2-20A3B363DCDA}"
+              p:after="r[@uid='{922FEBE5-6784-4C05-9A9A-36E8B1331565}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-right" />
+            <r
+              uid="{F5B5A92C-114A-4C73-81D9-E271723CABD7}"
+              p:after="r[@uid='{7CA229AB-2A8E-4489-ADD2-20A3B363DCDA}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0/image-block-splitter-960x1080-left" />
+            <r
+              uid="{4F71983A-DAB7-4A9D-AD68-4D99C5C583BB}"
+              p:after="r[@uid='{F5B5A92C-114A-4C73-81D9-E271723CABD7}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main-{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}-0" />
+            <r
+              uid="{1E5B2D26-6CEC-4DF9-A230-D4CDC42F7CE2}"
+              p:after="r[@uid='{4F71983A-DAB7-4A9D-AD68-4D99C5C583BB}']"
+              s:ds="{F433A87C-95C1-4F3E-BFE9-84E480761C98}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{CE98ABD3-0BD7-4E9D-9429-6E052B2232DF}"
+              p:after="r[@uid='{1E5B2D26-6CEC-4DF9-A230-D4CDC42F7CE2}']"
+              s:ds="{5AF543D1-AF8F-4D76-8187-67A5F19E1047}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{BCEA8744-16C1-4C26-AB36-C5036BBFD6B3}"
+              p:after="r[@uid='{CE98ABD3-0BD7-4E9D-9429-6E052B2232DF}']"
+              s:ds="{BFE1065C-B25E-4825-8EF7-5DA8FABA4F39}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{15FAB526-5DFF-45E9-AEB7-24986903A44F}"
+              p:after="r[@uid='{BCEA8744-16C1-4C26-AB36-C5036BBFD6B3}']"
+              s:ds="{76D44759-96F1-4591-A58A-154F8418D45B}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{26C71DC8-B697-4874-958E-7FEDE4733536}"
+              p:after="r[@uid='{15FAB526-5DFF-45E9-AEB7-24986903A44F}']"
+              s:ds="{E31D1C1F-8CF3-456A-BB5C-EB71A607F048}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+            <r
+              uid="{71762746-BD47-4C18-BD0B-CBE3CBD0B1C4}"
+              p:after="r[@uid='{4BBC422C-6B71-4B4F-B6DC-4295F397094F}']"
+              s:ds="{DFB7ABB7-9923-418F-B899-38830DAA422C}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{4EC10F80-CDCD-44E9-89CA-139547791E5E}"
+              p:after="r[@uid='{71762746-BD47-4C18-BD0B-CBE3CBD0B1C4}']"
+              s:ds="{E34C451F-AA64-4EFA-9303-50446808D0E9}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{1D9945F7-A4E3-4CB4-B5EF-EBF59C5ABCA3}"
+              p:after="r[@uid='{4EC10F80-CDCD-44E9-89CA-139547791E5E}']"
+              s:ds="{9D76CC06-33FF-45CF-8992-4717A8061ADA}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:ph="main" />
+            <r
+              uid="{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}"
+              p:after="r[@uid='{1D9945F7-A4E3-4CB4-B5EF-EBF59C5ABCA3}']"
+              s:id="{6932DD17-1CD9-4D03-93B7-3C0A92EB8229}"
+              s:ph="main" />
+            <r
+              uid="{48F774B4-4312-494E-86D9-B1F8F9B14FB7}"
+              p:after="r[@uid='{C3523FAD-6633-449D-AAC8-1F9FB1DB6601}']"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{5B658484-9ACE-4B88-ADBB-4506F9E741EA}"
+              p:after="r[@uid='{48F774B4-4312-494E-86D9-B1F8F9B14FB7}']"
+              s:ds="{AFD3EF8C-5412-4634-8826-8C8FB2567CE5}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{253FD6B7-DE7A-4D8D-B8F1-7174B778843B}"
+              p:after="r[@uid='{5B658484-9ACE-4B88-ADBB-4506F9E741EA}']"
+              s:ds="{B911FD3B-1364-482F-8908-7F8EF93AB636}"
+              s:id="{703C4FCC-55FD-48C3-8F29-1B196484B61C}"
+              s:ph="main" />
+            <r
+              uid="{84233FDC-D0B6-4470-8ED4-7070A3D06D18}"
+              p:after="r[@uid='{253FD6B7-DE7A-4D8D-B8F1-7174B778843B}']"
+              s:ds="{80C63A41-0F7E-4E6E-A8DE-287E34A1942E}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{8C9DAA84-EFE9-4BFB-94CC-E2B10AD5D21B}"
+              p:after="*[1=2]"
+              s:ds="{5B81E656-59EF-4442-93C3-3A7B190EDEC7}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Offshore Wind
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Leveraging vast experience in offshore fields to minimize risk in offshore wind developments</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Offshore Wind
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220407T191645Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Offshore Wind
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Offshore Wind
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joshuashearer
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Offshore Wind
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "621959c7-2fc3-489a-af28-27dd9b21413a"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{894AD693-62BC-4D0F-8E34-42401EBEF1F3}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "Leveraging vast experience in offshore fields to minimize risk in offshore wind developments, floating wind installations, offshore cranes, and other offshore wind-focused technologies."
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20220407T191645Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{438FBB9F-D91E-47B9-ACC2-9BAF48DD10A4}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220505T150900Z
+    - ID: "da134e40-cb02-4645-9846-115fb9a5aeca"
+      Hint: capability
+      Value: "{7E9C51EB-6102-4179-881F-ED145AE5C25C}"
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: Offshore Wind Wind Renewables
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{438FBB9F-D91E-47B9-ACC2-9BAF48DD10A4}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />

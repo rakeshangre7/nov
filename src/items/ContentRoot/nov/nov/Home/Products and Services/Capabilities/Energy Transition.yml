@@ -1,0 +1,3377 @@
+﻿---
+ID: "bdcce5f7-f000-423f-a616-38a2004787ec"
+Parent: "0efcb894-1233-44a0-9b5d-268dc82ee1a0"
+Template: "6ad6b0c9-8586-4263-8ffb-9cbfc20b67d4"
+Path: /sitecore/content/nov/nov/Home/Products and Services/Capabilities/Energy Transition
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{D2D5B50C-2E4A-481B-BFFA-831C6C19D4F1}" />
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{37A7ADD6-9046-4B18-B22A-BE9133614F3D}"
+          s:ds=""
+          s:par="Enable Autoplay=true&amp;Enable Center Text&amp;Add Gradient=1&amp;Text Color=white&amp;Wait Time=5000" />
+      </d>
+    </r>
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}">
+              <p:d />
+            </r>
+            <r
+              uid="{78F38200-59F6-434F-A109-CD50FC83D873}"
+              p:before="*"
+              s:ds="{BCACDE60-C7DE-48DF-AB61-1CA557E531A7}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{81CAFEBE-1975-40B1-9137-174C965238BD}-0" />
+            <r
+              uid="{E03F8CCC-DF45-4825-A5EF-E6838ECC4A7A}"
+              p:after="r[@uid='{78F38200-59F6-434F-A109-CD50FC83D873}']"
+              s:ds="{C472A616-DA60-473B-8045-493C9F436CF6}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{81CAFEBE-1975-40B1-9137-174C965238BD}-0" />
+            <r
+              uid="{7A88DC08-BBA7-45CF-8AE2-F5B0A86F8471}"
+              p:after="r[@uid='{E03F8CCC-DF45-4825-A5EF-E6838ECC4A7A}']"
+              s:ds="{CF332971-57BB-4B5F-98B1-EA8A0B0EFDCE}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{81CAFEBE-1975-40B1-9137-174C965238BD}-0" />
+            <r
+              uid="{4DD7C3CF-014B-4F89-8D6E-6332F6A7B0F7}"
+              p:after="r[@uid='{7A88DC08-BBA7-45CF-8AE2-F5B0A86F8471}']"
+              s:ds="{05E3652E-AFD1-466F-9577-30691E97F852}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{81CAFEBE-1975-40B1-9137-174C965238BD}-0" />
+            <r
+              uid="{FCFBDEB5-17D9-4159-8E4C-7935ADF7FB5E}"
+              p:after="r[@uid='{4DD7C3CF-014B-4F89-8D6E-6332F6A7B0F7}']"
+              s:ds="{B0908106-BF39-4DB4-A0B8-0E3C3F39BCE3}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{81CAFEBE-1975-40B1-9137-174C965238BD}-0" />
+            <r
+              uid="{10C9BFEF-7718-485A-8C68-D24BFC96CBD9}"
+              p:after="r[@uid='{FCFBDEB5-17D9-4159-8E4C-7935ADF7FB5E}']"
+              s:ds="{911BD142-BEE7-495D-AC7E-99E4774F4A34}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{81CAFEBE-1975-40B1-9137-174C965238BD}-0" />
+            <r
+              uid="{5D53776D-1E05-4A07-8BFC-1D96451F67E9}"
+              p:after="r[@uid='{10C9BFEF-7718-485A-8C68-D24BFC96CBD9}']"
+              s:ds="{D40F7BB2-C687-42A3-9DDF-E16CF7864483}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom/image-block-splitter-480x540-right" />
+            <r
+              uid="{739478D8-1BE9-4135-BB4F-D12FA9492289}"
+              p:after="r[@uid='{5D53776D-1E05-4A07-8BFC-1D96451F67E9}']"
+              s:ds="{B2D80455-AD1C-4961-B47B-85381608887A}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom/image-block-splitter-480x540-left" />
+            <r
+              uid="{364CC649-4189-488D-ABC7-640AB51D0978}"
+              p:after="r[@uid='{739478D8-1BE9-4135-BB4F-D12FA9492289}']"
+              s:ds="{DB19B25A-929B-4909-AD59-642FEC715979}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top/image-block-splitter-480x540-right" />
+            <r
+              uid="{2CE2CC14-3495-43B1-BE94-8F13EAA74401}"
+              p:after="r[@uid='{364CC649-4189-488D-ABC7-640AB51D0978}']"
+              s:ds="{D65FDBEE-C7AD-466D-90C8-18EEBE20B2A9}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top/image-block-splitter-480x540-left" />
+            <r
+              uid="{7C541D45-6B6C-4EBB-A76D-8A04F989C231}"
+              p:after="r[@uid='{2CE2CC14-3495-43B1-BE94-8F13EAA74401}']"
+              s:id="{30CDBCD0-0126-446E-8E05-E7931C91B224}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top" />
+            <r
+              uid="{6D39D6EA-3102-4C7A-A993-2DF43536D43B}"
+              p:after="r[@uid='{7C541D45-6B6C-4EBB-A76D-8A04F989C231}']"
+              s:ds="{4FEEFA1C-F0D0-4BB0-B53A-DC8808F4C2A8}"
+              s:id="{4A0DE3D2-7F3F-4DFC-9234-9203265CB0F6}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{9C82CBF8-E82D-4257-96D8-FEF5A0BA40E9}"
+              p:after="r[@uid='{6D39D6EA-3102-4C7A-A993-2DF43536D43B}']"
+              s:ds="{02826269-4089-46DC-A7C0-2E4702C9E9B9}"
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:par="Add Gradient=1&amp;Text Color=white"
+              s:ph="/main/hero-slide-{37A7ADD6-9046-4B18-B22A-BE9133614F3D}-0" />
+            <r
+              uid="{C433EB1F-A604-40E6-B310-4B1775FC45DF}"
+              p:after="r[@uid='{9C82CBF8-E82D-4257-96D8-FEF5A0BA40E9}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-right" />
+            <r
+              uid="{7DD23E02-C76B-4DFB-9E70-C391E5B579D3}"
+              p:after="r[@uid='{C433EB1F-A604-40E6-B310-4B1775FC45DF}']"
+              s:id="{30CDBCD0-0126-446E-8E05-E7931C91B224}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{922AB706-25B6-4B0A-927D-EB87B6416CEE}"
+              p:after="r[@uid='{7DD23E02-C76B-4DFB-9E70-C391E5B579D3}']"
+              s:ds="{9BBBCCF9-754F-4E63-898C-3FFA52851D14}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-top" />
+            <r
+              uid="{E4A46AAC-9F66-458B-A367-79EBABE08781}"
+              p:after="r[@uid='{922AB706-25B6-4B0A-927D-EB87B6416CEE}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-left" />
+            <r
+              uid="{0031C5F7-D8B5-4B04-A15C-BD2EDD94E7F4}"
+              p:after="r[@uid='{E4A46AAC-9F66-458B-A367-79EBABE08781}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0" />
+            <r
+              uid="{37A7ADD6-9046-4B18-B22A-BE9133614F3D}"
+              s:par="Add Gradient=1&amp;Wait Time=5000&amp;Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0&amp;Enable Center Text=true" />
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+            <r
+              uid="{B5292A0C-F8C8-4B5C-B0DB-E1833DD7EFEA}"
+              p:after="r[@uid='{37A7ADD6-9046-4B18-B22A-BE9133614F3D}']"
+              s:ds=""
+              s:id="{09A5B06F-A291-4BC8-8851-CC3FBB8D885D}"
+              s:ph="main" />
+            <r
+              uid="{A80C1ACF-6988-4ADE-BC9A-80ECDA64266B}"
+              p:after="r[@uid='{B5292A0C-F8C8-4B5C-B0DB-E1833DD7EFEA}']"
+              s:ds=""
+              s:id="{09A5B06F-A291-4BC8-8851-CC3FBB8D885D}"
+              s:ph="main" />
+            <r
+              uid="{5BC51A25-7B3A-4307-88CD-43B625608276}"
+              p:after="r[@uid='{A80C1ACF-6988-4ADE-BC9A-80ECDA64266B}']"
+              s:ds=""
+              s:id="{09A5B06F-A291-4BC8-8851-CC3FBB8D885D}"
+              s:ph="main" />
+            <r
+              uid="{BC30060D-4A58-4415-ACB6-530AC86EB022}"
+              p:after="r[@uid='{5BC51A25-7B3A-4307-88CD-43B625608276}']"
+              s:ds=""
+              s:id="{09A5B06F-A291-4BC8-8851-CC3FBB8D885D}"
+              s:ph="main" />
+            <r
+              uid="{750C233B-072A-4978-8A96-3E693D7AA735}"
+              p:after="r[@uid='{BC30060D-4A58-4415-ACB6-530AC86EB022}']"
+              s:ds="{033AF9A9-DAD6-4B2D-B408-0C0F771283E7}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="main" />
+            <r
+              uid="{F7E2E01F-BA10-4CFA-9C00-4C2C0B0DD556}"
+              p:after="r[@uid='{750C233B-072A-4978-8A96-3E693D7AA735}']"
+              s:ds="{6704A182-B7FC-432B-B9B1-A1BD09548AAA}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:ph="main" />
+            <r
+              uid="{7E8B54B5-4535-45D6-9BE7-FAF53A9908A6}"
+              p:after="r[@uid='{F7E2E01F-BA10-4CFA-9C00-4C2C0B0DD556}']"
+              s:ds="{2CD3E751-31E7-4842-9C3A-6AB465E1B536}"
+              s:id="{404FE8DE-C601-4E14-8D3D-32F27B41D06D}"
+              s:ph="main" />
+            <r
+              uid="{A9656C48-C515-440B-86B1-7EABDF833C50}"
+              p:after="r[@uid='{7E8B54B5-4535-45D6-9BE7-FAF53A9908A6}']"
+              s:id="{6932DD17-1CD9-4D03-93B7-3C0A92EB8229}"
+              s:ph="main" />
+            <r
+              uid="{B8FD3EAF-2CB7-4970-B1FB-4B1F9720BF1B}"
+              p:after="r[@uid='{A9656C48-C515-440B-86B1-7EABDF833C50}']"
+              s:ds="{F3794FDD-4091-487A-8874-FAE4AB9F4B4C}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{81CAFEBE-1975-40B1-9137-174C965238BD}"
+              p:after="r[@uid='{B8FD3EAF-2CB7-4970-B1FB-4B1F9720BF1B}']"
+              s:id="{5266AC57-9C33-41AF-B32D-D935FB8DC1F3}"
+              s:ph="main" />
+            <r
+              uid="{6A036DD9-65A6-487C-BA73-B73EB15FF17C}"
+              p:after="r[@uid='{81CAFEBE-1975-40B1-9137-174C965238BD}']"
+              s:ds="{298550D4-2C1A-4268-969C-E0E6A84575B5}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{F9A50576-A357-4F0A-B410-BEF6CD9A854B}"
+              p:after="r[@uid='{6A036DD9-65A6-487C-BA73-B73EB15FF17C}']"
+              s:ds="{33758C18-B6FA-4ADE-89AF-C0917E6E3ADE}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{7DE93958-06C1-4F65-8273-694CDEB4C36A}"
+              p:after="r[@uid='{F9A50576-A357-4F0A-B410-BEF6CD9A854B}']"
+              s:ds="{9032DB42-D057-4C60-A120-A51CB80DBB6E}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{29FB2D43-AB9B-457E-9957-306FE4C521C1}"
+              p:after="r[@uid='{7DE93958-06C1-4F65-8273-694CDEB4C36A}']"
+              s:ds="{96F1A9D2-9456-4D9F-9B52-2E411DC07103}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{8C4F81AA-8FC5-4901-9DDB-95791E7E3981}"
+              p:after="r[@uid='{29FB2D43-AB9B-457E-9957-306FE4C521C1}']"
+              s:ds="{DF7E7851-6E67-4BBC-A2E6-3D3CAD72C769}"
+              s:id="{541C8841-7802-4878-BBC4-5B3AC533A4BA}"
+              s:ph="main" />
+            <r
+              uid="{AA15F926-75AC-47B5-84F5-E7D725EA3790}"
+              p:after="r[@uid='{8C4F81AA-8FC5-4901-9DDB-95791E7E3981}']"
+              s:ds="{3F5B10D3-471E-4290-A444-905C1249B359}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{363A605C-6C6B-45A7-BB49-8E5624BB333A}"
+              p:after="r[@uid='{AA15F926-75AC-47B5-84F5-E7D725EA3790}']"
+              s:ds="{2806BEDE-0867-40FE-9DCF-921170298CBB}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{A7352699-B688-44E8-B98C-D733A28CCECF}"
+              p:after="r[@uid='{363A605C-6C6B-45A7-BB49-8E5624BB333A}']"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{93921F97-5EE9-419B-97CB-AFBE95C9E159}"
+              p:after="*[1=2]"
+              s:ds="{DB1BA40E-D4EA-407A-96ED-015CE442B4EE}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Renewable Energy
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Staying true to our roots while continuing to evolve, NOV helps our customers produce energy no matter the source.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Energy Transition
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210730T204638Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Energy Transition
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Energy Transition
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{781D7667-C3B9-4A8E-967F-FA60B00AC7A0}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\benlasher
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Energy Transition
+    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
+      Hint: Search Result Text
+      Value: Energy Transition
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "18fffb7d-9f6f-49d8-8918-8ed3f39c185a"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{894AD693-62BC-4D0F-8E34-42401EBEF1F3}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Renewable Energy
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\benlasher
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Staying true to our roots while continuing to evolve, NOV helps our customers produce energy no matter the source.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20210730T204638Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{781D7667-C3B9-4A8E-967F-FA60B00AC7A0}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210730T205120Z
+    - ID: "da134e40-cb02-4645-9846-115fb9a5aeca"
+      Hint: capability
+      Value: "{F970DC74-7ED1-4ECD-8547-D253F21FFDC6}"
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{781D7667-C3B9-4A8E-967F-FA60B00AC7A0}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}">
+              <p:d />
+            </r>
+            <r
+              uid="{78F38200-59F6-434F-A109-CD50FC83D873}"
+              p:before="*"
+              s:ds="{BCACDE60-C7DE-48DF-AB61-1CA557E531A7}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{81CAFEBE-1975-40B1-9137-174C965238BD}-0" />
+            <r
+              uid="{E03F8CCC-DF45-4825-A5EF-E6838ECC4A7A}"
+              p:after="r[@uid='{78F38200-59F6-434F-A109-CD50FC83D873}']"
+              s:ds="{C472A616-DA60-473B-8045-493C9F436CF6}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{81CAFEBE-1975-40B1-9137-174C965238BD}-0" />
+            <r
+              uid="{7A88DC08-BBA7-45CF-8AE2-F5B0A86F8471}"
+              p:after="r[@uid='{E03F8CCC-DF45-4825-A5EF-E6838ECC4A7A}']"
+              s:ds="{CF332971-57BB-4B5F-98B1-EA8A0B0EFDCE}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{81CAFEBE-1975-40B1-9137-174C965238BD}-0" />
+            <r
+              uid="{4DD7C3CF-014B-4F89-8D6E-6332F6A7B0F7}"
+              p:after="r[@uid='{7A88DC08-BBA7-45CF-8AE2-F5B0A86F8471}']"
+              s:ds="{05E3652E-AFD1-466F-9577-30691E97F852}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{81CAFEBE-1975-40B1-9137-174C965238BD}-0" />
+            <r
+              uid="{FCFBDEB5-17D9-4159-8E4C-7935ADF7FB5E}"
+              p:after="r[@uid='{4DD7C3CF-014B-4F89-8D6E-6332F6A7B0F7}']"
+              s:ds="{B0908106-BF39-4DB4-A0B8-0E3C3F39BCE3}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{81CAFEBE-1975-40B1-9137-174C965238BD}-0" />
+            <r
+              uid="{10C9BFEF-7718-485A-8C68-D24BFC96CBD9}"
+              p:after="r[@uid='{FCFBDEB5-17D9-4159-8E4C-7935ADF7FB5E}']"
+              s:ds="{911BD142-BEE7-495D-AC7E-99E4774F4A34}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{81CAFEBE-1975-40B1-9137-174C965238BD}-0" />
+            <r
+              uid="{5D53776D-1E05-4A07-8BFC-1D96451F67E9}"
+              p:after="r[@uid='{10C9BFEF-7718-485A-8C68-D24BFC96CBD9}']"
+              s:ds="{D40F7BB2-C687-42A3-9DDF-E16CF7864483}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom/image-block-splitter-480x540-right" />
+            <r
+              uid="{739478D8-1BE9-4135-BB4F-D12FA9492289}"
+              p:after="r[@uid='{5D53776D-1E05-4A07-8BFC-1D96451F67E9}']"
+              s:ds="{B2D80455-AD1C-4961-B47B-85381608887A}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom/image-block-splitter-480x540-left" />
+            <r
+              uid="{364CC649-4189-488D-ABC7-640AB51D0978}"
+              p:after="r[@uid='{739478D8-1BE9-4135-BB4F-D12FA9492289}']"
+              s:ds="{DB19B25A-929B-4909-AD59-642FEC715979}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top/image-block-splitter-480x540-right" />
+            <r
+              uid="{2CE2CC14-3495-43B1-BE94-8F13EAA74401}"
+              p:after="r[@uid='{364CC649-4189-488D-ABC7-640AB51D0978}']"
+              s:ds="{D65FDBEE-C7AD-466D-90C8-18EEBE20B2A9}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top/image-block-splitter-480x540-left" />
+            <r
+              uid="{7C541D45-6B6C-4EBB-A76D-8A04F989C231}"
+              p:after="r[@uid='{2CE2CC14-3495-43B1-BE94-8F13EAA74401}']"
+              s:id="{30CDBCD0-0126-446E-8E05-E7931C91B224}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top" />
+            <r
+              uid="{6D39D6EA-3102-4C7A-A993-2DF43536D43B}"
+              p:after="r[@uid='{7C541D45-6B6C-4EBB-A76D-8A04F989C231}']"
+              s:ds="{4FEEFA1C-F0D0-4BB0-B53A-DC8808F4C2A8}"
+              s:id="{4A0DE3D2-7F3F-4DFC-9234-9203265CB0F6}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{9C82CBF8-E82D-4257-96D8-FEF5A0BA40E9}"
+              p:after="r[@uid='{6D39D6EA-3102-4C7A-A993-2DF43536D43B}']"
+              s:ds="{02826269-4089-46DC-A7C0-2E4702C9E9B9}"
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:par="Add Gradient=1&amp;Text Color=white"
+              s:ph="/main/hero-slide-{37A7ADD6-9046-4B18-B22A-BE9133614F3D}-0" />
+            <r
+              uid="{C433EB1F-A604-40E6-B310-4B1775FC45DF}"
+              p:after="r[@uid='{9C82CBF8-E82D-4257-96D8-FEF5A0BA40E9}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-right" />
+            <r
+              uid="{7DD23E02-C76B-4DFB-9E70-C391E5B579D3}"
+              p:after="r[@uid='{C433EB1F-A604-40E6-B310-4B1775FC45DF}']"
+              s:id="{30CDBCD0-0126-446E-8E05-E7931C91B224}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{922AB706-25B6-4B0A-927D-EB87B6416CEE}"
+              p:after="r[@uid='{7DD23E02-C76B-4DFB-9E70-C391E5B579D3}']"
+              s:ds="{9BBBCCF9-754F-4E63-898C-3FFA52851D14}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-top" />
+            <r
+              uid="{E4A46AAC-9F66-458B-A367-79EBABE08781}"
+              p:after="r[@uid='{922AB706-25B6-4B0A-927D-EB87B6416CEE}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-left" />
+            <r
+              uid="{0031C5F7-D8B5-4B04-A15C-BD2EDD94E7F4}"
+              p:after="r[@uid='{E4A46AAC-9F66-458B-A367-79EBABE08781}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0" />
+            <r
+              uid="{37A7ADD6-9046-4B18-B22A-BE9133614F3D}"
+              s:par="Add Gradient=1&amp;Wait Time=5000&amp;Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0&amp;Enable Center Text=true" />
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+            <r
+              uid="{B5292A0C-F8C8-4B5C-B0DB-E1833DD7EFEA}"
+              p:after="r[@uid='{37A7ADD6-9046-4B18-B22A-BE9133614F3D}']"
+              s:ds=""
+              s:id="{09A5B06F-A291-4BC8-8851-CC3FBB8D885D}"
+              s:ph="main" />
+            <r
+              uid="{A80C1ACF-6988-4ADE-BC9A-80ECDA64266B}"
+              p:after="r[@uid='{B5292A0C-F8C8-4B5C-B0DB-E1833DD7EFEA}']"
+              s:ds=""
+              s:id="{09A5B06F-A291-4BC8-8851-CC3FBB8D885D}"
+              s:ph="main" />
+            <r
+              uid="{5BC51A25-7B3A-4307-88CD-43B625608276}"
+              p:after="r[@uid='{A80C1ACF-6988-4ADE-BC9A-80ECDA64266B}']"
+              s:ds=""
+              s:id="{09A5B06F-A291-4BC8-8851-CC3FBB8D885D}"
+              s:ph="main" />
+            <r
+              uid="{BC30060D-4A58-4415-ACB6-530AC86EB022}"
+              p:after="r[@uid='{5BC51A25-7B3A-4307-88CD-43B625608276}']"
+              s:ds=""
+              s:id="{09A5B06F-A291-4BC8-8851-CC3FBB8D885D}"
+              s:ph="main" />
+            <r
+              uid="{750C233B-072A-4978-8A96-3E693D7AA735}"
+              p:after="r[@uid='{BC30060D-4A58-4415-ACB6-530AC86EB022}']"
+              s:ds="{033AF9A9-DAD6-4B2D-B408-0C0F771283E7}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="main" />
+            <r
+              uid="{F7E2E01F-BA10-4CFA-9C00-4C2C0B0DD556}"
+              p:after="r[@uid='{750C233B-072A-4978-8A96-3E693D7AA735}']"
+              s:ds="{6704A182-B7FC-432B-B9B1-A1BD09548AAA}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:ph="main" />
+            <r
+              uid="{7E8B54B5-4535-45D6-9BE7-FAF53A9908A6}"
+              p:after="r[@uid='{F7E2E01F-BA10-4CFA-9C00-4C2C0B0DD556}']"
+              s:ds="{2CD3E751-31E7-4842-9C3A-6AB465E1B536}"
+              s:id="{404FE8DE-C601-4E14-8D3D-32F27B41D06D}"
+              s:ph="main" />
+            <r
+              uid="{A9656C48-C515-440B-86B1-7EABDF833C50}"
+              p:after="r[@uid='{7E8B54B5-4535-45D6-9BE7-FAF53A9908A6}']"
+              s:id="{6932DD17-1CD9-4D03-93B7-3C0A92EB8229}"
+              s:ph="main" />
+            <r
+              uid="{B8FD3EAF-2CB7-4970-B1FB-4B1F9720BF1B}"
+              p:after="r[@uid='{A9656C48-C515-440B-86B1-7EABDF833C50}']"
+              s:ds="{F3794FDD-4091-487A-8874-FAE4AB9F4B4C}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{81CAFEBE-1975-40B1-9137-174C965238BD}"
+              p:after="r[@uid='{B8FD3EAF-2CB7-4970-B1FB-4B1F9720BF1B}']"
+              s:id="{5266AC57-9C33-41AF-B32D-D935FB8DC1F3}"
+              s:ph="main" />
+            <r
+              uid="{6A036DD9-65A6-487C-BA73-B73EB15FF17C}"
+              p:after="r[@uid='{81CAFEBE-1975-40B1-9137-174C965238BD}']"
+              s:ds="{298550D4-2C1A-4268-969C-E0E6A84575B5}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{F9A50576-A357-4F0A-B410-BEF6CD9A854B}"
+              p:after="r[@uid='{6A036DD9-65A6-487C-BA73-B73EB15FF17C}']"
+              s:ds="{33758C18-B6FA-4ADE-89AF-C0917E6E3ADE}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{7DE93958-06C1-4F65-8273-694CDEB4C36A}"
+              p:after="r[@uid='{F9A50576-A357-4F0A-B410-BEF6CD9A854B}']"
+              s:ds="{9032DB42-D057-4C60-A120-A51CB80DBB6E}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{29FB2D43-AB9B-457E-9957-306FE4C521C1}"
+              p:after="r[@uid='{7DE93958-06C1-4F65-8273-694CDEB4C36A}']"
+              s:ds="{96F1A9D2-9456-4D9F-9B52-2E411DC07103}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{8C4F81AA-8FC5-4901-9DDB-95791E7E3981}"
+              p:after="r[@uid='{29FB2D43-AB9B-457E-9957-306FE4C521C1}']"
+              s:ds="{DF7E7851-6E67-4BBC-A2E6-3D3CAD72C769}"
+              s:id="{541C8841-7802-4878-BBC4-5B3AC533A4BA}"
+              s:ph="main" />
+            <r
+              uid="{AA15F926-75AC-47B5-84F5-E7D725EA3790}"
+              p:after="r[@uid='{8C4F81AA-8FC5-4901-9DDB-95791E7E3981}']"
+              s:ds="{3F5B10D3-471E-4290-A444-905C1249B359}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{363A605C-6C6B-45A7-BB49-8E5624BB333A}"
+              p:after="r[@uid='{AA15F926-75AC-47B5-84F5-E7D725EA3790}']"
+              s:ds="{2806BEDE-0867-40FE-9DCF-921170298CBB}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{A7352699-B688-44E8-B98C-D733A28CCECF}"
+              p:after="r[@uid='{363A605C-6C6B-45A7-BB49-8E5624BB333A}']"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{93921F97-5EE9-419B-97CB-AFBE95C9E159}"
+              p:after="*[1=2]"
+              s:ds="{DB1BA40E-D4EA-407A-96ED-015CE442B4EE}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Renewable Energy
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Staying true to our roots while continuing to evolve, NOV helps our customers produce energy no matter the source.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Energy Transition
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210818T143142Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Energy Transition
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Energy Transition
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{781D7667-C3B9-4A8E-967F-FA60B00AC7A0}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Energy Transition
+    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
+      Hint: Search Result Text
+      Value: Energy Transition
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2f788896-d16e-42dc-a966-d5733b0b0b2f"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{894AD693-62BC-4D0F-8E34-42401EBEF1F3}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Renewable Energy
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Staying true to our roots while continuing to evolve, NOV helps our customers produce energy no matter the source.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20210818T143142Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{781D7667-C3B9-4A8E-967F-FA60B00AC7A0}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210818T143412Z
+    - ID: "da134e40-cb02-4645-9846-115fb9a5aeca"
+      Hint: capability
+      Value: "{F970DC74-7ED1-4ECD-8547-D253F21FFDC6}"
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{781D7667-C3B9-4A8E-967F-FA60B00AC7A0}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}">
+              <p:d />
+            </r>
+            <r
+              uid="{78F38200-59F6-434F-A109-CD50FC83D873}"
+              p:before="*"
+              s:ds="{BCACDE60-C7DE-48DF-AB61-1CA557E531A7}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{81CAFEBE-1975-40B1-9137-174C965238BD}-0" />
+            <r
+              uid="{E03F8CCC-DF45-4825-A5EF-E6838ECC4A7A}"
+              p:after="r[@uid='{78F38200-59F6-434F-A109-CD50FC83D873}']"
+              s:ds="{C472A616-DA60-473B-8045-493C9F436CF6}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{81CAFEBE-1975-40B1-9137-174C965238BD}-0" />
+            <r
+              uid="{7A88DC08-BBA7-45CF-8AE2-F5B0A86F8471}"
+              p:after="r[@uid='{E03F8CCC-DF45-4825-A5EF-E6838ECC4A7A}']"
+              s:ds="{CF332971-57BB-4B5F-98B1-EA8A0B0EFDCE}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{81CAFEBE-1975-40B1-9137-174C965238BD}-0" />
+            <r
+              uid="{4DD7C3CF-014B-4F89-8D6E-6332F6A7B0F7}"
+              p:after="r[@uid='{7A88DC08-BBA7-45CF-8AE2-F5B0A86F8471}']"
+              s:ds="{05E3652E-AFD1-466F-9577-30691E97F852}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{81CAFEBE-1975-40B1-9137-174C965238BD}-0" />
+            <r
+              uid="{FCFBDEB5-17D9-4159-8E4C-7935ADF7FB5E}"
+              p:after="r[@uid='{4DD7C3CF-014B-4F89-8D6E-6332F6A7B0F7}']"
+              s:ds="{B0908106-BF39-4DB4-A0B8-0E3C3F39BCE3}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{81CAFEBE-1975-40B1-9137-174C965238BD}-0" />
+            <r
+              uid="{10C9BFEF-7718-485A-8C68-D24BFC96CBD9}"
+              p:after="r[@uid='{FCFBDEB5-17D9-4159-8E4C-7935ADF7FB5E}']"
+              s:ds="{911BD142-BEE7-495D-AC7E-99E4774F4A34}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{81CAFEBE-1975-40B1-9137-174C965238BD}-0" />
+            <r
+              uid="{5D53776D-1E05-4A07-8BFC-1D96451F67E9}"
+              p:after="r[@uid='{10C9BFEF-7718-485A-8C68-D24BFC96CBD9}']"
+              s:ds="{D40F7BB2-C687-42A3-9DDF-E16CF7864483}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom/image-block-splitter-480x540-right" />
+            <r
+              uid="{739478D8-1BE9-4135-BB4F-D12FA9492289}"
+              p:after="r[@uid='{5D53776D-1E05-4A07-8BFC-1D96451F67E9}']"
+              s:ds="{B2D80455-AD1C-4961-B47B-85381608887A}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom/image-block-splitter-480x540-left" />
+            <r
+              uid="{364CC649-4189-488D-ABC7-640AB51D0978}"
+              p:after="r[@uid='{739478D8-1BE9-4135-BB4F-D12FA9492289}']"
+              s:ds="{DB19B25A-929B-4909-AD59-642FEC715979}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top/image-block-splitter-480x540-right" />
+            <r
+              uid="{2CE2CC14-3495-43B1-BE94-8F13EAA74401}"
+              p:after="r[@uid='{364CC649-4189-488D-ABC7-640AB51D0978}']"
+              s:ds="{D65FDBEE-C7AD-466D-90C8-18EEBE20B2A9}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top/image-block-splitter-480x540-left" />
+            <r
+              uid="{7C541D45-6B6C-4EBB-A76D-8A04F989C231}"
+              p:after="r[@uid='{2CE2CC14-3495-43B1-BE94-8F13EAA74401}']"
+              s:id="{30CDBCD0-0126-446E-8E05-E7931C91B224}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top" />
+            <r
+              uid="{6D39D6EA-3102-4C7A-A993-2DF43536D43B}"
+              p:after="r[@uid='{7C541D45-6B6C-4EBB-A76D-8A04F989C231}']"
+              s:ds="{4FEEFA1C-F0D0-4BB0-B53A-DC8808F4C2A8}"
+              s:id="{4A0DE3D2-7F3F-4DFC-9234-9203265CB0F6}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{9C82CBF8-E82D-4257-96D8-FEF5A0BA40E9}"
+              p:after="r[@uid='{6D39D6EA-3102-4C7A-A993-2DF43536D43B}']"
+              s:ds="{02826269-4089-46DC-A7C0-2E4702C9E9B9}"
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:par="Add Gradient=1&amp;Text Color=white"
+              s:ph="/main/hero-slide-{37A7ADD6-9046-4B18-B22A-BE9133614F3D}-0" />
+            <r
+              uid="{C433EB1F-A604-40E6-B310-4B1775FC45DF}"
+              p:after="r[@uid='{9C82CBF8-E82D-4257-96D8-FEF5A0BA40E9}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-right" />
+            <r
+              uid="{7DD23E02-C76B-4DFB-9E70-C391E5B579D3}"
+              p:after="r[@uid='{C433EB1F-A604-40E6-B310-4B1775FC45DF}']"
+              s:id="{30CDBCD0-0126-446E-8E05-E7931C91B224}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{922AB706-25B6-4B0A-927D-EB87B6416CEE}"
+              p:after="r[@uid='{7DD23E02-C76B-4DFB-9E70-C391E5B579D3}']"
+              s:ds="{9BBBCCF9-754F-4E63-898C-3FFA52851D14}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-top" />
+            <r
+              uid="{E4A46AAC-9F66-458B-A367-79EBABE08781}"
+              p:after="r[@uid='{922AB706-25B6-4B0A-927D-EB87B6416CEE}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-left" />
+            <r
+              uid="{0031C5F7-D8B5-4B04-A15C-BD2EDD94E7F4}"
+              p:after="r[@uid='{E4A46AAC-9F66-458B-A367-79EBABE08781}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0" />
+            <r
+              uid="{37A7ADD6-9046-4B18-B22A-BE9133614F3D}"
+              s:par="Add Gradient=1&amp;Wait Time=5000&amp;Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0&amp;Enable Center Text=true" />
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+            <r
+              uid="{B5292A0C-F8C8-4B5C-B0DB-E1833DD7EFEA}"
+              p:after="r[@uid='{37A7ADD6-9046-4B18-B22A-BE9133614F3D}']"
+              s:ds=""
+              s:id="{09A5B06F-A291-4BC8-8851-CC3FBB8D885D}"
+              s:ph="main" />
+            <r
+              uid="{A80C1ACF-6988-4ADE-BC9A-80ECDA64266B}"
+              p:after="r[@uid='{B5292A0C-F8C8-4B5C-B0DB-E1833DD7EFEA}']"
+              s:ds=""
+              s:id="{09A5B06F-A291-4BC8-8851-CC3FBB8D885D}"
+              s:ph="main" />
+            <r
+              uid="{5BC51A25-7B3A-4307-88CD-43B625608276}"
+              p:after="r[@uid='{A80C1ACF-6988-4ADE-BC9A-80ECDA64266B}']"
+              s:ds=""
+              s:id="{09A5B06F-A291-4BC8-8851-CC3FBB8D885D}"
+              s:ph="main" />
+            <r
+              uid="{BC30060D-4A58-4415-ACB6-530AC86EB022}"
+              p:after="r[@uid='{5BC51A25-7B3A-4307-88CD-43B625608276}']"
+              s:ds=""
+              s:id="{09A5B06F-A291-4BC8-8851-CC3FBB8D885D}"
+              s:ph="main" />
+            <r
+              uid="{750C233B-072A-4978-8A96-3E693D7AA735}"
+              p:after="r[@uid='{BC30060D-4A58-4415-ACB6-530AC86EB022}']"
+              s:ds="{033AF9A9-DAD6-4B2D-B408-0C0F771283E7}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="main" />
+            <r
+              uid="{F7E2E01F-BA10-4CFA-9C00-4C2C0B0DD556}"
+              p:after="r[@uid='{750C233B-072A-4978-8A96-3E693D7AA735}']"
+              s:ds="{6704A182-B7FC-432B-B9B1-A1BD09548AAA}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:ph="main" />
+            <r
+              uid="{82B1DBED-32D6-4EB4-B92E-3535C80070C5}"
+              p:after="r[@uid='{F7E2E01F-BA10-4CFA-9C00-4C2C0B0DD556}']"
+              s:ds="{B8B77A4A-DFED-45AA-AA2F-4F82A0CDB39A}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{A9656C48-C515-440B-86B1-7EABDF833C50}"
+              p:after="r[@uid='{82B1DBED-32D6-4EB4-B92E-3535C80070C5}']"
+              s:id="{6932DD17-1CD9-4D03-93B7-3C0A92EB8229}"
+              s:ph="main" />
+            <r
+              uid="{B8FD3EAF-2CB7-4970-B1FB-4B1F9720BF1B}"
+              p:after="r[@uid='{A9656C48-C515-440B-86B1-7EABDF833C50}']"
+              s:ds="{F3794FDD-4091-487A-8874-FAE4AB9F4B4C}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{81CAFEBE-1975-40B1-9137-174C965238BD}"
+              p:after="r[@uid='{B8FD3EAF-2CB7-4970-B1FB-4B1F9720BF1B}']"
+              s:id="{5266AC57-9C33-41AF-B32D-D935FB8DC1F3}"
+              s:ph="main" />
+            <r
+              uid="{6A036DD9-65A6-487C-BA73-B73EB15FF17C}"
+              p:after="r[@uid='{81CAFEBE-1975-40B1-9137-174C965238BD}']"
+              s:ds="{298550D4-2C1A-4268-969C-E0E6A84575B5}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{F9A50576-A357-4F0A-B410-BEF6CD9A854B}"
+              p:after="r[@uid='{6A036DD9-65A6-487C-BA73-B73EB15FF17C}']"
+              s:ds="{33758C18-B6FA-4ADE-89AF-C0917E6E3ADE}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{7DE93958-06C1-4F65-8273-694CDEB4C36A}"
+              p:after="r[@uid='{F9A50576-A357-4F0A-B410-BEF6CD9A854B}']"
+              s:ds="{9032DB42-D057-4C60-A120-A51CB80DBB6E}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{29FB2D43-AB9B-457E-9957-306FE4C521C1}"
+              p:after="r[@uid='{7DE93958-06C1-4F65-8273-694CDEB4C36A}']"
+              s:ds="{96F1A9D2-9456-4D9F-9B52-2E411DC07103}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{8C4F81AA-8FC5-4901-9DDB-95791E7E3981}"
+              p:after="r[@uid='{29FB2D43-AB9B-457E-9957-306FE4C521C1}']"
+              s:ds="{DF7E7851-6E67-4BBC-A2E6-3D3CAD72C769}"
+              s:id="{541C8841-7802-4878-BBC4-5B3AC533A4BA}"
+              s:ph="main" />
+            <r
+              uid="{AA15F926-75AC-47B5-84F5-E7D725EA3790}"
+              p:after="r[@uid='{8C4F81AA-8FC5-4901-9DDB-95791E7E3981}']"
+              s:ds="{3F5B10D3-471E-4290-A444-905C1249B359}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{363A605C-6C6B-45A7-BB49-8E5624BB333A}"
+              p:after="r[@uid='{AA15F926-75AC-47B5-84F5-E7D725EA3790}']"
+              s:ds="{2806BEDE-0867-40FE-9DCF-921170298CBB}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{A7352699-B688-44E8-B98C-D733A28CCECF}"
+              p:after="r[@uid='{363A605C-6C6B-45A7-BB49-8E5624BB333A}']"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{93921F97-5EE9-419B-97CB-AFBE95C9E159}"
+              p:after="*[1=2]"
+              s:ds="{DB1BA40E-D4EA-407A-96ED-015CE442B4EE}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Renewable Energy
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Staying true to our roots while continuing to evolve, NOV helps our customers produce energy no matter the source.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Energy Transition
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210929T204057Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Energy Transition
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Energy Transition
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{781D7667-C3B9-4A8E-967F-FA60B00AC7A0}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Energy Transition
+    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
+      Hint: Search Result Text
+      Value: Energy Transition
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "49870c1b-9a82-44fe-b10a-71ea908d426d"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{894AD693-62BC-4D0F-8E34-42401EBEF1F3}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Renewable Energy
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Staying true to our roots while continuing to evolve, NOV helps our customers produce energy no matter the source.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20210929T204057Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{781D7667-C3B9-4A8E-967F-FA60B00AC7A0}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210929T204437Z
+    - ID: "da134e40-cb02-4645-9846-115fb9a5aeca"
+      Hint: capability
+      Value: "{F970DC74-7ED1-4ECD-8547-D253F21FFDC6}"
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{781D7667-C3B9-4A8E-967F-FA60B00AC7A0}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 4
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}">
+              <p:d />
+            </r>
+            <r
+              uid="{78F38200-59F6-434F-A109-CD50FC83D873}"
+              p:before="*"
+              s:ds="{BCACDE60-C7DE-48DF-AB61-1CA557E531A7}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{81CAFEBE-1975-40B1-9137-174C965238BD}-0" />
+            <r
+              uid="{E03F8CCC-DF45-4825-A5EF-E6838ECC4A7A}"
+              p:after="r[@uid='{78F38200-59F6-434F-A109-CD50FC83D873}']"
+              s:ds="{C472A616-DA60-473B-8045-493C9F436CF6}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{81CAFEBE-1975-40B1-9137-174C965238BD}-0" />
+            <r
+              uid="{7A88DC08-BBA7-45CF-8AE2-F5B0A86F8471}"
+              p:after="r[@uid='{E03F8CCC-DF45-4825-A5EF-E6838ECC4A7A}']"
+              s:ds="{CF332971-57BB-4B5F-98B1-EA8A0B0EFDCE}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{81CAFEBE-1975-40B1-9137-174C965238BD}-0" />
+            <r
+              uid="{4DD7C3CF-014B-4F89-8D6E-6332F6A7B0F7}"
+              p:after="r[@uid='{7A88DC08-BBA7-45CF-8AE2-F5B0A86F8471}']"
+              s:ds="{05E3652E-AFD1-466F-9577-30691E97F852}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{81CAFEBE-1975-40B1-9137-174C965238BD}-0" />
+            <r
+              uid="{FCFBDEB5-17D9-4159-8E4C-7935ADF7FB5E}"
+              p:after="r[@uid='{4DD7C3CF-014B-4F89-8D6E-6332F6A7B0F7}']"
+              s:ds="{B0908106-BF39-4DB4-A0B8-0E3C3F39BCE3}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{81CAFEBE-1975-40B1-9137-174C965238BD}-0" />
+            <r
+              uid="{10C9BFEF-7718-485A-8C68-D24BFC96CBD9}"
+              p:after="r[@uid='{FCFBDEB5-17D9-4159-8E4C-7935ADF7FB5E}']"
+              s:ds="{911BD142-BEE7-495D-AC7E-99E4774F4A34}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{81CAFEBE-1975-40B1-9137-174C965238BD}-0" />
+            <r
+              uid="{5D53776D-1E05-4A07-8BFC-1D96451F67E9}"
+              p:after="r[@uid='{10C9BFEF-7718-485A-8C68-D24BFC96CBD9}']"
+              s:ds="{D40F7BB2-C687-42A3-9DDF-E16CF7864483}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom/image-block-splitter-480x540-right" />
+            <r
+              uid="{739478D8-1BE9-4135-BB4F-D12FA9492289}"
+              p:after="r[@uid='{5D53776D-1E05-4A07-8BFC-1D96451F67E9}']"
+              s:ds="{B2D80455-AD1C-4961-B47B-85381608887A}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom/image-block-splitter-480x540-left" />
+            <r
+              uid="{364CC649-4189-488D-ABC7-640AB51D0978}"
+              p:after="r[@uid='{739478D8-1BE9-4135-BB4F-D12FA9492289}']"
+              s:ds="{DB19B25A-929B-4909-AD59-642FEC715979}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top/image-block-splitter-480x540-right" />
+            <r
+              uid="{2CE2CC14-3495-43B1-BE94-8F13EAA74401}"
+              p:after="r[@uid='{364CC649-4189-488D-ABC7-640AB51D0978}']"
+              s:ds="{D65FDBEE-C7AD-466D-90C8-18EEBE20B2A9}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top/image-block-splitter-480x540-left" />
+            <r
+              uid="{7C541D45-6B6C-4EBB-A76D-8A04F989C231}"
+              p:after="r[@uid='{2CE2CC14-3495-43B1-BE94-8F13EAA74401}']"
+              s:id="{30CDBCD0-0126-446E-8E05-E7931C91B224}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top" />
+            <r
+              uid="{6D39D6EA-3102-4C7A-A993-2DF43536D43B}"
+              p:after="r[@uid='{7C541D45-6B6C-4EBB-A76D-8A04F989C231}']"
+              s:ds="{4FEEFA1C-F0D0-4BB0-B53A-DC8808F4C2A8}"
+              s:id="{4A0DE3D2-7F3F-4DFC-9234-9203265CB0F6}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{9C82CBF8-E82D-4257-96D8-FEF5A0BA40E9}"
+              p:after="r[@uid='{6D39D6EA-3102-4C7A-A993-2DF43536D43B}']"
+              s:ds="{02826269-4089-46DC-A7C0-2E4702C9E9B9}"
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:par="Add Gradient=1&amp;Text Color=white"
+              s:ph="/main/hero-slide-{37A7ADD6-9046-4B18-B22A-BE9133614F3D}-0" />
+            <r
+              uid="{C433EB1F-A604-40E6-B310-4B1775FC45DF}"
+              p:after="r[@uid='{9C82CBF8-E82D-4257-96D8-FEF5A0BA40E9}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-right" />
+            <r
+              uid="{7DD23E02-C76B-4DFB-9E70-C391E5B579D3}"
+              p:after="r[@uid='{C433EB1F-A604-40E6-B310-4B1775FC45DF}']"
+              s:id="{30CDBCD0-0126-446E-8E05-E7931C91B224}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{922AB706-25B6-4B0A-927D-EB87B6416CEE}"
+              p:after="r[@uid='{7DD23E02-C76B-4DFB-9E70-C391E5B579D3}']"
+              s:ds="{9BBBCCF9-754F-4E63-898C-3FFA52851D14}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-top" />
+            <r
+              uid="{E4A46AAC-9F66-458B-A367-79EBABE08781}"
+              p:after="r[@uid='{922AB706-25B6-4B0A-927D-EB87B6416CEE}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-left" />
+            <r
+              uid="{0031C5F7-D8B5-4B04-A15C-BD2EDD94E7F4}"
+              p:after="r[@uid='{E4A46AAC-9F66-458B-A367-79EBABE08781}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0" />
+            <r
+              uid="{37A7ADD6-9046-4B18-B22A-BE9133614F3D}"
+              s:par="Add Gradient=1&amp;Wait Time=5000&amp;Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0&amp;Enable Center Text=true" />
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+            <r
+              uid="{B5292A0C-F8C8-4B5C-B0DB-E1833DD7EFEA}"
+              p:after="r[@uid='{37A7ADD6-9046-4B18-B22A-BE9133614F3D}']"
+              s:ds=""
+              s:id="{09A5B06F-A291-4BC8-8851-CC3FBB8D885D}"
+              s:ph="main" />
+            <r
+              uid="{A80C1ACF-6988-4ADE-BC9A-80ECDA64266B}"
+              p:after="r[@uid='{B5292A0C-F8C8-4B5C-B0DB-E1833DD7EFEA}']"
+              s:ds=""
+              s:id="{09A5B06F-A291-4BC8-8851-CC3FBB8D885D}"
+              s:ph="main" />
+            <r
+              uid="{5BC51A25-7B3A-4307-88CD-43B625608276}"
+              p:after="r[@uid='{A80C1ACF-6988-4ADE-BC9A-80ECDA64266B}']"
+              s:ds=""
+              s:id="{09A5B06F-A291-4BC8-8851-CC3FBB8D885D}"
+              s:ph="main" />
+            <r
+              uid="{BC30060D-4A58-4415-ACB6-530AC86EB022}"
+              p:after="r[@uid='{5BC51A25-7B3A-4307-88CD-43B625608276}']"
+              s:ds=""
+              s:id="{09A5B06F-A291-4BC8-8851-CC3FBB8D885D}"
+              s:ph="main" />
+            <r
+              uid="{750C233B-072A-4978-8A96-3E693D7AA735}"
+              p:after="r[@uid='{BC30060D-4A58-4415-ACB6-530AC86EB022}']"
+              s:ds="{033AF9A9-DAD6-4B2D-B408-0C0F771283E7}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="main" />
+            <r
+              uid="{F7E2E01F-BA10-4CFA-9C00-4C2C0B0DD556}"
+              p:after="r[@uid='{750C233B-072A-4978-8A96-3E693D7AA735}']"
+              s:ds="{6704A182-B7FC-432B-B9B1-A1BD09548AAA}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:ph="main" />
+            <r
+              uid="{82B1DBED-32D6-4EB4-B92E-3535C80070C5}"
+              p:after="r[@uid='{F7E2E01F-BA10-4CFA-9C00-4C2C0B0DD556}']"
+              s:ds="{B8B77A4A-DFED-45AA-AA2F-4F82A0CDB39A}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{A9656C48-C515-440B-86B1-7EABDF833C50}"
+              p:after="r[@uid='{82B1DBED-32D6-4EB4-B92E-3535C80070C5}']"
+              s:id="{6932DD17-1CD9-4D03-93B7-3C0A92EB8229}"
+              s:ph="main" />
+            <r
+              uid="{B8FD3EAF-2CB7-4970-B1FB-4B1F9720BF1B}"
+              p:after="r[@uid='{A9656C48-C515-440B-86B1-7EABDF833C50}']"
+              s:ds="{F3794FDD-4091-487A-8874-FAE4AB9F4B4C}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{81CAFEBE-1975-40B1-9137-174C965238BD}"
+              p:after="r[@uid='{B8FD3EAF-2CB7-4970-B1FB-4B1F9720BF1B}']"
+              s:id="{5266AC57-9C33-41AF-B32D-D935FB8DC1F3}"
+              s:ph="main" />
+            <r
+              uid="{6A036DD9-65A6-487C-BA73-B73EB15FF17C}"
+              p:after="r[@uid='{81CAFEBE-1975-40B1-9137-174C965238BD}']"
+              s:ds="{298550D4-2C1A-4268-969C-E0E6A84575B5}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{F9A50576-A357-4F0A-B410-BEF6CD9A854B}"
+              p:after="r[@uid='{6A036DD9-65A6-487C-BA73-B73EB15FF17C}']"
+              s:ds="{33758C18-B6FA-4ADE-89AF-C0917E6E3ADE}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{7DE93958-06C1-4F65-8273-694CDEB4C36A}"
+              p:after="r[@uid='{F9A50576-A357-4F0A-B410-BEF6CD9A854B}']"
+              s:ds="{9032DB42-D057-4C60-A120-A51CB80DBB6E}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{29FB2D43-AB9B-457E-9957-306FE4C521C1}"
+              p:after="r[@uid='{7DE93958-06C1-4F65-8273-694CDEB4C36A}']"
+              s:ds="{96F1A9D2-9456-4D9F-9B52-2E411DC07103}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{8C4F81AA-8FC5-4901-9DDB-95791E7E3981}"
+              p:after="r[@uid='{29FB2D43-AB9B-457E-9957-306FE4C521C1}']"
+              s:ds="{DF7E7851-6E67-4BBC-A2E6-3D3CAD72C769}"
+              s:id="{541C8841-7802-4878-BBC4-5B3AC533A4BA}"
+              s:ph="main" />
+            <r
+              uid="{AA15F926-75AC-47B5-84F5-E7D725EA3790}"
+              p:after="r[@uid='{8C4F81AA-8FC5-4901-9DDB-95791E7E3981}']"
+              s:ds="{3F5B10D3-471E-4290-A444-905C1249B359}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{363A605C-6C6B-45A7-BB49-8E5624BB333A}"
+              p:after="r[@uid='{AA15F926-75AC-47B5-84F5-E7D725EA3790}']"
+              s:ds="{2806BEDE-0867-40FE-9DCF-921170298CBB}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{A7352699-B688-44E8-B98C-D733A28CCECF}"
+              p:after="r[@uid='{363A605C-6C6B-45A7-BB49-8E5624BB333A}']"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{93921F97-5EE9-419B-97CB-AFBE95C9E159}"
+              p:after="*[1=2]"
+              s:ds="{DB1BA40E-D4EA-407A-96ED-015CE442B4EE}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Renewable Energy
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Staying true to our roots while continuing to evolve, NOV helps our customers produce energy no matter the source.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Energy Transition
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211029T145716Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Energy Transition
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Energy Transition
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{781D7667-C3B9-4A8E-967F-FA60B00AC7A0}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Energy Transition
+    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
+      Hint: Search Result Text
+      Value: Energy Transition
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cd74b5eb-13c5-44a9-9276-a7e203785a1b"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{894AD693-62BC-4D0F-8E34-42401EBEF1F3}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Renewable Energy
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Staying true to our roots while continuing to evolve, NOV helps our customers produce energy no matter the source.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20211029T145716Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{781D7667-C3B9-4A8E-967F-FA60B00AC7A0}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20211029T150423Z
+    - ID: "da134e40-cb02-4645-9846-115fb9a5aeca"
+      Hint: capability
+      Value: "{F970DC74-7ED1-4ECD-8547-D253F21FFDC6}"
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{781D7667-C3B9-4A8E-967F-FA60B00AC7A0}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 5
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}">
+              <p:d />
+            </r>
+            <r
+              uid="{78F38200-59F6-434F-A109-CD50FC83D873}"
+              p:before="*"
+              s:ds="{BCACDE60-C7DE-48DF-AB61-1CA557E531A7}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{81CAFEBE-1975-40B1-9137-174C965238BD}-0" />
+            <r
+              uid="{E03F8CCC-DF45-4825-A5EF-E6838ECC4A7A}"
+              p:after="r[@uid='{78F38200-59F6-434F-A109-CD50FC83D873}']"
+              s:ds="{C472A616-DA60-473B-8045-493C9F436CF6}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{81CAFEBE-1975-40B1-9137-174C965238BD}-0" />
+            <r
+              uid="{7A88DC08-BBA7-45CF-8AE2-F5B0A86F8471}"
+              p:after="r[@uid='{E03F8CCC-DF45-4825-A5EF-E6838ECC4A7A}']"
+              s:ds="{CF332971-57BB-4B5F-98B1-EA8A0B0EFDCE}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{81CAFEBE-1975-40B1-9137-174C965238BD}-0" />
+            <r
+              uid="{4DD7C3CF-014B-4F89-8D6E-6332F6A7B0F7}"
+              p:after="r[@uid='{7A88DC08-BBA7-45CF-8AE2-F5B0A86F8471}']"
+              s:ds="{05E3652E-AFD1-466F-9577-30691E97F852}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{81CAFEBE-1975-40B1-9137-174C965238BD}-0" />
+            <r
+              uid="{FCFBDEB5-17D9-4159-8E4C-7935ADF7FB5E}"
+              p:after="r[@uid='{4DD7C3CF-014B-4F89-8D6E-6332F6A7B0F7}']"
+              s:ds="{B0908106-BF39-4DB4-A0B8-0E3C3F39BCE3}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{81CAFEBE-1975-40B1-9137-174C965238BD}-0" />
+            <r
+              uid="{10C9BFEF-7718-485A-8C68-D24BFC96CBD9}"
+              p:after="r[@uid='{FCFBDEB5-17D9-4159-8E4C-7935ADF7FB5E}']"
+              s:ds="{911BD142-BEE7-495D-AC7E-99E4774F4A34}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{81CAFEBE-1975-40B1-9137-174C965238BD}-0" />
+            <r
+              uid="{5D53776D-1E05-4A07-8BFC-1D96451F67E9}"
+              p:after="r[@uid='{10C9BFEF-7718-485A-8C68-D24BFC96CBD9}']"
+              s:ds="{D40F7BB2-C687-42A3-9DDF-E16CF7864483}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom/image-block-splitter-480x540-right" />
+            <r
+              uid="{739478D8-1BE9-4135-BB4F-D12FA9492289}"
+              p:after="r[@uid='{5D53776D-1E05-4A07-8BFC-1D96451F67E9}']"
+              s:ds="{B2D80455-AD1C-4961-B47B-85381608887A}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom/image-block-splitter-480x540-left" />
+            <r
+              uid="{364CC649-4189-488D-ABC7-640AB51D0978}"
+              p:after="r[@uid='{739478D8-1BE9-4135-BB4F-D12FA9492289}']"
+              s:ds="{DB19B25A-929B-4909-AD59-642FEC715979}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top/image-block-splitter-480x540-right" />
+            <r
+              uid="{2CE2CC14-3495-43B1-BE94-8F13EAA74401}"
+              p:after="r[@uid='{364CC649-4189-488D-ABC7-640AB51D0978}']"
+              s:ds="{D65FDBEE-C7AD-466D-90C8-18EEBE20B2A9}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top/image-block-splitter-480x540-left" />
+            <r
+              uid="{7C541D45-6B6C-4EBB-A76D-8A04F989C231}"
+              p:after="r[@uid='{2CE2CC14-3495-43B1-BE94-8F13EAA74401}']"
+              s:id="{30CDBCD0-0126-446E-8E05-E7931C91B224}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top" />
+            <r
+              uid="{6D39D6EA-3102-4C7A-A993-2DF43536D43B}"
+              p:after="r[@uid='{7C541D45-6B6C-4EBB-A76D-8A04F989C231}']"
+              s:ds="{4FEEFA1C-F0D0-4BB0-B53A-DC8808F4C2A8}"
+              s:id="{4A0DE3D2-7F3F-4DFC-9234-9203265CB0F6}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{9C82CBF8-E82D-4257-96D8-FEF5A0BA40E9}"
+              p:after="r[@uid='{6D39D6EA-3102-4C7A-A993-2DF43536D43B}']"
+              s:ds="{02826269-4089-46DC-A7C0-2E4702C9E9B9}"
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:par="Add Gradient=1&amp;Text Color=white"
+              s:ph="/main/hero-slide-{37A7ADD6-9046-4B18-B22A-BE9133614F3D}-0" />
+            <r
+              uid="{C433EB1F-A604-40E6-B310-4B1775FC45DF}"
+              p:after="r[@uid='{9C82CBF8-E82D-4257-96D8-FEF5A0BA40E9}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-right" />
+            <r
+              uid="{7DD23E02-C76B-4DFB-9E70-C391E5B579D3}"
+              p:after="r[@uid='{C433EB1F-A604-40E6-B310-4B1775FC45DF}']"
+              s:id="{30CDBCD0-0126-446E-8E05-E7931C91B224}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{922AB706-25B6-4B0A-927D-EB87B6416CEE}"
+              p:after="r[@uid='{7DD23E02-C76B-4DFB-9E70-C391E5B579D3}']"
+              s:ds="{9BBBCCF9-754F-4E63-898C-3FFA52851D14}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-top" />
+            <r
+              uid="{E4A46AAC-9F66-458B-A367-79EBABE08781}"
+              p:after="r[@uid='{922AB706-25B6-4B0A-927D-EB87B6416CEE}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-left" />
+            <r
+              uid="{0031C5F7-D8B5-4B04-A15C-BD2EDD94E7F4}"
+              p:after="r[@uid='{E4A46AAC-9F66-458B-A367-79EBABE08781}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0" />
+            <r
+              uid="{37A7ADD6-9046-4B18-B22A-BE9133614F3D}"
+              s:par="Add Gradient=1&amp;Wait Time=5000&amp;Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0&amp;Enable Center Text=true" />
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+            <r
+              uid="{B5292A0C-F8C8-4B5C-B0DB-E1833DD7EFEA}"
+              p:after="r[@uid='{37A7ADD6-9046-4B18-B22A-BE9133614F3D}']"
+              s:ds=""
+              s:id="{09A5B06F-A291-4BC8-8851-CC3FBB8D885D}"
+              s:ph="main" />
+            <r
+              uid="{A80C1ACF-6988-4ADE-BC9A-80ECDA64266B}"
+              p:after="r[@uid='{B5292A0C-F8C8-4B5C-B0DB-E1833DD7EFEA}']"
+              s:ds=""
+              s:id="{09A5B06F-A291-4BC8-8851-CC3FBB8D885D}"
+              s:ph="main" />
+            <r
+              uid="{5BC51A25-7B3A-4307-88CD-43B625608276}"
+              p:after="r[@uid='{A80C1ACF-6988-4ADE-BC9A-80ECDA64266B}']"
+              s:ds=""
+              s:id="{09A5B06F-A291-4BC8-8851-CC3FBB8D885D}"
+              s:ph="main" />
+            <r
+              uid="{BC30060D-4A58-4415-ACB6-530AC86EB022}"
+              p:after="r[@uid='{5BC51A25-7B3A-4307-88CD-43B625608276}']"
+              s:ds=""
+              s:id="{09A5B06F-A291-4BC8-8851-CC3FBB8D885D}"
+              s:ph="main" />
+            <r
+              uid="{750C233B-072A-4978-8A96-3E693D7AA735}"
+              p:after="r[@uid='{BC30060D-4A58-4415-ACB6-530AC86EB022}']"
+              s:ds="{033AF9A9-DAD6-4B2D-B408-0C0F771283E7}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="main" />
+            <r
+              uid="{F7E2E01F-BA10-4CFA-9C00-4C2C0B0DD556}"
+              p:after="r[@uid='{750C233B-072A-4978-8A96-3E693D7AA735}']"
+              s:ds="{6704A182-B7FC-432B-B9B1-A1BD09548AAA}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:ph="main" />
+            <r
+              uid="{82B1DBED-32D6-4EB4-B92E-3535C80070C5}"
+              p:after="r[@uid='{F7E2E01F-BA10-4CFA-9C00-4C2C0B0DD556}']"
+              s:ds="{B8B77A4A-DFED-45AA-AA2F-4F82A0CDB39A}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{A9656C48-C515-440B-86B1-7EABDF833C50}"
+              p:after="r[@uid='{82B1DBED-32D6-4EB4-B92E-3535C80070C5}']"
+              s:id="{6932DD17-1CD9-4D03-93B7-3C0A92EB8229}"
+              s:ph="main" />
+            <r
+              uid="{B8FD3EAF-2CB7-4970-B1FB-4B1F9720BF1B}"
+              p:after="r[@uid='{A9656C48-C515-440B-86B1-7EABDF833C50}']"
+              s:ds="{F3794FDD-4091-487A-8874-FAE4AB9F4B4C}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{81CAFEBE-1975-40B1-9137-174C965238BD}"
+              p:after="r[@uid='{B8FD3EAF-2CB7-4970-B1FB-4B1F9720BF1B}']"
+              s:id="{5266AC57-9C33-41AF-B32D-D935FB8DC1F3}"
+              s:ph="main" />
+            <r
+              uid="{6A036DD9-65A6-487C-BA73-B73EB15FF17C}"
+              p:after="r[@uid='{81CAFEBE-1975-40B1-9137-174C965238BD}']"
+              s:ds="{298550D4-2C1A-4268-969C-E0E6A84575B5}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{F9A50576-A357-4F0A-B410-BEF6CD9A854B}"
+              p:after="r[@uid='{6A036DD9-65A6-487C-BA73-B73EB15FF17C}']"
+              s:ds="{33758C18-B6FA-4ADE-89AF-C0917E6E3ADE}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{7DE93958-06C1-4F65-8273-694CDEB4C36A}"
+              p:after="r[@uid='{F9A50576-A357-4F0A-B410-BEF6CD9A854B}']"
+              s:ds="{9032DB42-D057-4C60-A120-A51CB80DBB6E}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{29FB2D43-AB9B-457E-9957-306FE4C521C1}"
+              p:after="r[@uid='{7DE93958-06C1-4F65-8273-694CDEB4C36A}']"
+              s:ds="{96F1A9D2-9456-4D9F-9B52-2E411DC07103}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{8C4F81AA-8FC5-4901-9DDB-95791E7E3981}"
+              p:after="r[@uid='{29FB2D43-AB9B-457E-9957-306FE4C521C1}']"
+              s:ds="{DF7E7851-6E67-4BBC-A2E6-3D3CAD72C769}"
+              s:id="{541C8841-7802-4878-BBC4-5B3AC533A4BA}"
+              s:ph="main" />
+            <r
+              uid="{AA15F926-75AC-47B5-84F5-E7D725EA3790}"
+              p:after="r[@uid='{8C4F81AA-8FC5-4901-9DDB-95791E7E3981}']"
+              s:ds="{3F5B10D3-471E-4290-A444-905C1249B359}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{363A605C-6C6B-45A7-BB49-8E5624BB333A}"
+              p:after="*[1=2]"
+              s:ds="{2806BEDE-0867-40FE-9DCF-921170298CBB}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Renewable Energy
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Staying true to our roots while continuing to evolve, NOV helps our customers produce energy no matter the source.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Energy Transition
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211216T162535Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Energy Transition
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Energy Transition
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{781D7667-C3B9-4A8E-967F-FA60B00AC7A0}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Energy Transition
+    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
+      Hint: Search Result Text
+      Value: Energy Transition
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "282c9367-fe0b-4611-8f3a-cd7754089f9e"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{894AD693-62BC-4D0F-8E34-42401EBEF1F3}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Renewable Energy
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Staying true to our roots while continuing to evolve, NOV helps our customers produce energy no matter the source.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20211216T162535Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{781D7667-C3B9-4A8E-967F-FA60B00AC7A0}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20211216T163037Z
+    - ID: "da134e40-cb02-4645-9846-115fb9a5aeca"
+      Hint: capability
+      Value: "{F970DC74-7ED1-4ECD-8547-D253F21FFDC6}"
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{781D7667-C3B9-4A8E-967F-FA60B00AC7A0}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 6
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}">
+              <p:d />
+            </r>
+            <r
+              uid="{26532A2F-1B1D-4DF1-B58E-110795E8C937}"
+              p:before="*"
+              s:ds="{613D8F13-E77A-4AC6-BE45-C75BF1423E1C}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{81CAFEBE-1975-40B1-9137-174C965238BD}-0" />
+            <r
+              uid="{5307D6B0-2B13-4E26-A264-CB76EB36AAAE}"
+              p:after="r[@uid='{26532A2F-1B1D-4DF1-B58E-110795E8C937}']"
+              s:ds="{613D8F13-E77A-4AC6-BE45-C75BF1423E1C}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{EEF8A179-29E5-4724-8735-10C9B10F8C37}-0" />
+            <r
+              uid="{F93A6B1A-E518-499C-8E82-68D464C7578E}"
+              p:after="r[@uid='{5307D6B0-2B13-4E26-A264-CB76EB36AAAE}']"
+              s:ds="{6704A182-B7FC-432B-B9B1-A1BD09548AAA}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{EEF8A179-29E5-4724-8735-10C9B10F8C37}-0" />
+            <r
+              uid="{78F38200-59F6-434F-A109-CD50FC83D873}"
+              p:after="r[@uid='{F93A6B1A-E518-499C-8E82-68D464C7578E}']"
+              s:ds="{BCACDE60-C7DE-48DF-AB61-1CA557E531A7}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{81CAFEBE-1975-40B1-9137-174C965238BD}-0" />
+            <r
+              uid="{E03F8CCC-DF45-4825-A5EF-E6838ECC4A7A}"
+              p:after="r[@uid='{78F38200-59F6-434F-A109-CD50FC83D873}']"
+              s:ds="{C472A616-DA60-473B-8045-493C9F436CF6}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{81CAFEBE-1975-40B1-9137-174C965238BD}-0" />
+            <r
+              uid="{7A88DC08-BBA7-45CF-8AE2-F5B0A86F8471}"
+              p:after="r[@uid='{E03F8CCC-DF45-4825-A5EF-E6838ECC4A7A}']"
+              s:ds="{CF332971-57BB-4B5F-98B1-EA8A0B0EFDCE}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{81CAFEBE-1975-40B1-9137-174C965238BD}-0" />
+            <r
+              uid="{4DD7C3CF-014B-4F89-8D6E-6332F6A7B0F7}"
+              p:after="r[@uid='{7A88DC08-BBA7-45CF-8AE2-F5B0A86F8471}']"
+              s:ds="{05E3652E-AFD1-466F-9577-30691E97F852}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{81CAFEBE-1975-40B1-9137-174C965238BD}-0" />
+            <r
+              uid="{FCFBDEB5-17D9-4159-8E4C-7935ADF7FB5E}"
+              p:after="r[@uid='{4DD7C3CF-014B-4F89-8D6E-6332F6A7B0F7}']"
+              s:ds="{B0908106-BF39-4DB4-A0B8-0E3C3F39BCE3}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{81CAFEBE-1975-40B1-9137-174C965238BD}-0" />
+            <r
+              uid="{10C9BFEF-7718-485A-8C68-D24BFC96CBD9}"
+              p:after="r[@uid='{FCFBDEB5-17D9-4159-8E4C-7935ADF7FB5E}']"
+              s:ds="{911BD142-BEE7-495D-AC7E-99E4774F4A34}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{81CAFEBE-1975-40B1-9137-174C965238BD}-0" />
+            <r
+              uid="{5D53776D-1E05-4A07-8BFC-1D96451F67E9}"
+              p:after="r[@uid='{10C9BFEF-7718-485A-8C68-D24BFC96CBD9}']"
+              s:ds="{D40F7BB2-C687-42A3-9DDF-E16CF7864483}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom/image-block-splitter-480x540-right" />
+            <r
+              uid="{739478D8-1BE9-4135-BB4F-D12FA9492289}"
+              p:after="r[@uid='{5D53776D-1E05-4A07-8BFC-1D96451F67E9}']"
+              s:ds="{B2D80455-AD1C-4961-B47B-85381608887A}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom/image-block-splitter-480x540-left" />
+            <r
+              uid="{364CC649-4189-488D-ABC7-640AB51D0978}"
+              p:after="r[@uid='{739478D8-1BE9-4135-BB4F-D12FA9492289}']"
+              s:ds="{DB19B25A-929B-4909-AD59-642FEC715979}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top/image-block-splitter-480x540-right" />
+            <r
+              uid="{2CE2CC14-3495-43B1-BE94-8F13EAA74401}"
+              p:after="r[@uid='{364CC649-4189-488D-ABC7-640AB51D0978}']"
+              s:ds="{D65FDBEE-C7AD-466D-90C8-18EEBE20B2A9}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top/image-block-splitter-480x540-left" />
+            <r
+              uid="{7C541D45-6B6C-4EBB-A76D-8A04F989C231}"
+              p:after="r[@uid='{2CE2CC14-3495-43B1-BE94-8F13EAA74401}']"
+              s:id="{30CDBCD0-0126-446E-8E05-E7931C91B224}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top" />
+            <r
+              uid="{6D39D6EA-3102-4C7A-A993-2DF43536D43B}"
+              p:after="r[@uid='{7C541D45-6B6C-4EBB-A76D-8A04F989C231}']"
+              s:ds="{4FEEFA1C-F0D0-4BB0-B53A-DC8808F4C2A8}"
+              s:id="{4A0DE3D2-7F3F-4DFC-9234-9203265CB0F6}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{9C82CBF8-E82D-4257-96D8-FEF5A0BA40E9}"
+              p:after="r[@uid='{6D39D6EA-3102-4C7A-A993-2DF43536D43B}']"
+              s:ds="{02826269-4089-46DC-A7C0-2E4702C9E9B9}"
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:par="Add Gradient=1&amp;Text Color=white"
+              s:ph="/main/hero-slide-{37A7ADD6-9046-4B18-B22A-BE9133614F3D}-0" />
+            <r
+              uid="{C433EB1F-A604-40E6-B310-4B1775FC45DF}"
+              p:after="r[@uid='{9C82CBF8-E82D-4257-96D8-FEF5A0BA40E9}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-right" />
+            <r
+              uid="{7DD23E02-C76B-4DFB-9E70-C391E5B579D3}"
+              p:after="r[@uid='{C433EB1F-A604-40E6-B310-4B1775FC45DF}']"
+              s:id="{30CDBCD0-0126-446E-8E05-E7931C91B224}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{922AB706-25B6-4B0A-927D-EB87B6416CEE}"
+              p:after="r[@uid='{7DD23E02-C76B-4DFB-9E70-C391E5B579D3}']"
+              s:ds="{9BBBCCF9-754F-4E63-898C-3FFA52851D14}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-top" />
+            <r
+              uid="{E4A46AAC-9F66-458B-A367-79EBABE08781}"
+              p:after="r[@uid='{922AB706-25B6-4B0A-927D-EB87B6416CEE}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-left" />
+            <r
+              uid="{0031C5F7-D8B5-4B04-A15C-BD2EDD94E7F4}"
+              p:after="r[@uid='{E4A46AAC-9F66-458B-A367-79EBABE08781}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0" />
+            <r
+              uid="{37A7ADD6-9046-4B18-B22A-BE9133614F3D}"
+              s:par="Add Gradient=1&amp;Wait Time=5000&amp;Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0&amp;Enable Center Text=true" />
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+            <r
+              uid="{B5292A0C-F8C8-4B5C-B0DB-E1833DD7EFEA}"
+              p:after="r[@uid='{37A7ADD6-9046-4B18-B22A-BE9133614F3D}']"
+              s:ds=""
+              s:id="{09A5B06F-A291-4BC8-8851-CC3FBB8D885D}"
+              s:ph="main" />
+            <r
+              uid="{A80C1ACF-6988-4ADE-BC9A-80ECDA64266B}"
+              p:after="r[@uid='{B5292A0C-F8C8-4B5C-B0DB-E1833DD7EFEA}']"
+              s:ds=""
+              s:id="{09A5B06F-A291-4BC8-8851-CC3FBB8D885D}"
+              s:ph="main" />
+            <r
+              uid="{5BC51A25-7B3A-4307-88CD-43B625608276}"
+              p:after="r[@uid='{A80C1ACF-6988-4ADE-BC9A-80ECDA64266B}']"
+              s:ds=""
+              s:id="{09A5B06F-A291-4BC8-8851-CC3FBB8D885D}"
+              s:ph="main" />
+            <r
+              uid="{BC30060D-4A58-4415-ACB6-530AC86EB022}"
+              p:after="r[@uid='{5BC51A25-7B3A-4307-88CD-43B625608276}']"
+              s:ds=""
+              s:id="{09A5B06F-A291-4BC8-8851-CC3FBB8D885D}"
+              s:ph="main" />
+            <r
+              uid="{750C233B-072A-4978-8A96-3E693D7AA735}"
+              p:after="r[@uid='{BC30060D-4A58-4415-ACB6-530AC86EB022}']"
+              s:ds="{033AF9A9-DAD6-4B2D-B408-0C0F771283E7}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="main" />
+            <r
+              uid="{6DFC42E8-9918-4258-8721-1FEDBF6E1BCF}"
+              p:after="r[@uid='{750C233B-072A-4978-8A96-3E693D7AA735}']"
+              s:ds="{6704A182-B7FC-432B-B9B1-A1BD09548AAA}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:ph="main" />
+            <r
+              uid="{82B1DBED-32D6-4EB4-B92E-3535C80070C5}"
+              p:after="r[@uid='{6DFC42E8-9918-4258-8721-1FEDBF6E1BCF}']"
+              s:ds="{B8B77A4A-DFED-45AA-AA2F-4F82A0CDB39A}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{A9656C48-C515-440B-86B1-7EABDF833C50}"
+              p:after="r[@uid='{82B1DBED-32D6-4EB4-B92E-3535C80070C5}']"
+              s:id="{6932DD17-1CD9-4D03-93B7-3C0A92EB8229}"
+              s:ph="main" />
+            <r
+              uid="{B8FD3EAF-2CB7-4970-B1FB-4B1F9720BF1B}"
+              p:after="r[@uid='{A9656C48-C515-440B-86B1-7EABDF833C50}']"
+              s:ds="{F3794FDD-4091-487A-8874-FAE4AB9F4B4C}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{81CAFEBE-1975-40B1-9137-174C965238BD}"
+              p:after="r[@uid='{B8FD3EAF-2CB7-4970-B1FB-4B1F9720BF1B}']"
+              s:id="{5266AC57-9C33-41AF-B32D-D935FB8DC1F3}"
+              s:ph="main" />
+            <r
+              uid="{6A036DD9-65A6-487C-BA73-B73EB15FF17C}"
+              p:after="r[@uid='{81CAFEBE-1975-40B1-9137-174C965238BD}']"
+              s:ds="{298550D4-2C1A-4268-969C-E0E6A84575B5}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{F9A50576-A357-4F0A-B410-BEF6CD9A854B}"
+              p:after="r[@uid='{6A036DD9-65A6-487C-BA73-B73EB15FF17C}']"
+              s:ds="{33758C18-B6FA-4ADE-89AF-C0917E6E3ADE}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{7DE93958-06C1-4F65-8273-694CDEB4C36A}"
+              p:after="r[@uid='{F9A50576-A357-4F0A-B410-BEF6CD9A854B}']"
+              s:ds="{9032DB42-D057-4C60-A120-A51CB80DBB6E}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{29FB2D43-AB9B-457E-9957-306FE4C521C1}"
+              p:after="r[@uid='{7DE93958-06C1-4F65-8273-694CDEB4C36A}']"
+              s:ds="{96F1A9D2-9456-4D9F-9B52-2E411DC07103}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{8C4F81AA-8FC5-4901-9DDB-95791E7E3981}"
+              p:after="r[@uid='{29FB2D43-AB9B-457E-9957-306FE4C521C1}']"
+              s:ds="{DF7E7851-6E67-4BBC-A2E6-3D3CAD72C769}"
+              s:id="{541C8841-7802-4878-BBC4-5B3AC533A4BA}"
+              s:ph="main" />
+            <r
+              uid="{AA15F926-75AC-47B5-84F5-E7D725EA3790}"
+              p:after="r[@uid='{8C4F81AA-8FC5-4901-9DDB-95791E7E3981}']"
+              s:ds="{3F5B10D3-471E-4290-A444-905C1249B359}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{363A605C-6C6B-45A7-BB49-8E5624BB333A}"
+              p:after="*[1=2]"
+              s:ds="{2806BEDE-0867-40FE-9DCF-921170298CBB}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Renewable Energy
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Staying true to our roots while continuing to evolve, NOV helps our customers produce energy no matter the source.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Energy Transition
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220105T205318Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Energy Transition
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Energy Transition
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{781D7667-C3B9-4A8E-967F-FA60B00AC7A0}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Energy Transition
+    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
+      Hint: Search Result Text
+      Value: Energy Transition
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b3565a4e-0a68-4b7c-a722-d750d79c89b8"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{894AD693-62BC-4D0F-8E34-42401EBEF1F3}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Renewable Energy
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Staying true to our roots while continuing to evolve, NOV helps our customers produce energy no matter the source.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20220105T205318Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{781D7667-C3B9-4A8E-967F-FA60B00AC7A0}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220106T165213Z
+    - ID: "da134e40-cb02-4645-9846-115fb9a5aeca"
+      Hint: capability
+      Value: "{F970DC74-7ED1-4ECD-8547-D253F21FFDC6}"
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{781D7667-C3B9-4A8E-967F-FA60B00AC7A0}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 7
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}">
+              <p:d />
+            </r>
+            <r
+              uid="{37A7ADD6-9046-4B18-B22A-BE9133614F3D}">
+              <p:d />
+            </r>
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+            <r
+              uid="{D74A0185-F46C-40B6-9755-E41B8718E408}"
+              p:before="*"
+              s:ds="{E962A3D1-EAFB-4256-995F-CDE6C5AB2A76}"
+              s:id="{9CA51EAB-92E4-4A77-8B48-966774577172}"
+              s:ph="/main/product-hero-{C87DCFD1-38B8-42DF-8D92-844AF84BD9E1}-0" />
+            <r
+              uid="{26532A2F-1B1D-4DF1-B58E-110795E8C937}"
+              p:after="r[@uid='{D74A0185-F46C-40B6-9755-E41B8718E408}']"
+              s:ds="{613D8F13-E77A-4AC6-BE45-C75BF1423E1C}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{81CAFEBE-1975-40B1-9137-174C965238BD}-0" />
+            <r
+              uid="{5307D6B0-2B13-4E26-A264-CB76EB36AAAE}"
+              p:after="r[@uid='{26532A2F-1B1D-4DF1-B58E-110795E8C937}']"
+              s:ds="{613D8F13-E77A-4AC6-BE45-C75BF1423E1C}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{EEF8A179-29E5-4724-8735-10C9B10F8C37}-0" />
+            <r
+              uid="{F93A6B1A-E518-499C-8E82-68D464C7578E}"
+              p:after="r[@uid='{5307D6B0-2B13-4E26-A264-CB76EB36AAAE}']"
+              s:ds="{6704A182-B7FC-432B-B9B1-A1BD09548AAA}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{EEF8A179-29E5-4724-8735-10C9B10F8C37}-0" />
+            <r
+              uid="{78F38200-59F6-434F-A109-CD50FC83D873}"
+              p:after="r[@uid='{F93A6B1A-E518-499C-8E82-68D464C7578E}']"
+              s:ds="{BCACDE60-C7DE-48DF-AB61-1CA557E531A7}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{81CAFEBE-1975-40B1-9137-174C965238BD}-0" />
+            <r
+              uid="{E03F8CCC-DF45-4825-A5EF-E6838ECC4A7A}"
+              p:after="r[@uid='{78F38200-59F6-434F-A109-CD50FC83D873}']"
+              s:ds="{C472A616-DA60-473B-8045-493C9F436CF6}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{81CAFEBE-1975-40B1-9137-174C965238BD}-0" />
+            <r
+              uid="{7A88DC08-BBA7-45CF-8AE2-F5B0A86F8471}"
+              p:after="r[@uid='{E03F8CCC-DF45-4825-A5EF-E6838ECC4A7A}']"
+              s:ds="{CF332971-57BB-4B5F-98B1-EA8A0B0EFDCE}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{81CAFEBE-1975-40B1-9137-174C965238BD}-0" />
+            <r
+              uid="{4DD7C3CF-014B-4F89-8D6E-6332F6A7B0F7}"
+              p:after="r[@uid='{7A88DC08-BBA7-45CF-8AE2-F5B0A86F8471}']"
+              s:ds="{05E3652E-AFD1-466F-9577-30691E97F852}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{81CAFEBE-1975-40B1-9137-174C965238BD}-0" />
+            <r
+              uid="{FCFBDEB5-17D9-4159-8E4C-7935ADF7FB5E}"
+              p:after="r[@uid='{4DD7C3CF-014B-4F89-8D6E-6332F6A7B0F7}']"
+              s:ds="{B0908106-BF39-4DB4-A0B8-0E3C3F39BCE3}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{81CAFEBE-1975-40B1-9137-174C965238BD}-0" />
+            <r
+              uid="{10C9BFEF-7718-485A-8C68-D24BFC96CBD9}"
+              p:after="r[@uid='{FCFBDEB5-17D9-4159-8E4C-7935ADF7FB5E}']"
+              s:ds="{911BD142-BEE7-495D-AC7E-99E4774F4A34}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{81CAFEBE-1975-40B1-9137-174C965238BD}-0" />
+            <r
+              uid="{5D53776D-1E05-4A07-8BFC-1D96451F67E9}"
+              p:after="r[@uid='{10C9BFEF-7718-485A-8C68-D24BFC96CBD9}']"
+              s:ds="{D40F7BB2-C687-42A3-9DDF-E16CF7864483}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom/image-block-splitter-480x540-right" />
+            <r
+              uid="{739478D8-1BE9-4135-BB4F-D12FA9492289}"
+              p:after="r[@uid='{5D53776D-1E05-4A07-8BFC-1D96451F67E9}']"
+              s:ds="{B2D80455-AD1C-4961-B47B-85381608887A}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom/image-block-splitter-480x540-left" />
+            <r
+              uid="{364CC649-4189-488D-ABC7-640AB51D0978}"
+              p:after="r[@uid='{739478D8-1BE9-4135-BB4F-D12FA9492289}']"
+              s:ds="{DB19B25A-929B-4909-AD59-642FEC715979}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top/image-block-splitter-480x540-right" />
+            <r
+              uid="{2CE2CC14-3495-43B1-BE94-8F13EAA74401}"
+              p:after="r[@uid='{364CC649-4189-488D-ABC7-640AB51D0978}']"
+              s:ds="{D65FDBEE-C7AD-466D-90C8-18EEBE20B2A9}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top/image-block-splitter-480x540-left" />
+            <r
+              uid="{7C541D45-6B6C-4EBB-A76D-8A04F989C231}"
+              p:after="r[@uid='{2CE2CC14-3495-43B1-BE94-8F13EAA74401}']"
+              s:id="{30CDBCD0-0126-446E-8E05-E7931C91B224}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top" />
+            <r
+              uid="{6D39D6EA-3102-4C7A-A993-2DF43536D43B}"
+              p:after="r[@uid='{7C541D45-6B6C-4EBB-A76D-8A04F989C231}']"
+              s:ds="{4FEEFA1C-F0D0-4BB0-B53A-DC8808F4C2A8}"
+              s:id="{4A0DE3D2-7F3F-4DFC-9234-9203265CB0F6}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{C433EB1F-A604-40E6-B310-4B1775FC45DF}"
+              p:after="r[@uid='{6D39D6EA-3102-4C7A-A993-2DF43536D43B}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-right" />
+            <r
+              uid="{7DD23E02-C76B-4DFB-9E70-C391E5B579D3}"
+              p:after="r[@uid='{C433EB1F-A604-40E6-B310-4B1775FC45DF}']"
+              s:id="{30CDBCD0-0126-446E-8E05-E7931C91B224}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{922AB706-25B6-4B0A-927D-EB87B6416CEE}"
+              p:after="r[@uid='{7DD23E02-C76B-4DFB-9E70-C391E5B579D3}']"
+              s:ds="{9BBBCCF9-754F-4E63-898C-3FFA52851D14}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-top" />
+            <r
+              uid="{E4A46AAC-9F66-458B-A367-79EBABE08781}"
+              p:after="r[@uid='{922AB706-25B6-4B0A-927D-EB87B6416CEE}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-left" />
+            <r
+              uid="{0031C5F7-D8B5-4B04-A15C-BD2EDD94E7F4}"
+              p:after="r[@uid='{E4A46AAC-9F66-458B-A367-79EBABE08781}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0" />
+            <r
+              uid="{B5292A0C-F8C8-4B5C-B0DB-E1833DD7EFEA}"
+              p:after="r[@uid='{0031C5F7-D8B5-4B04-A15C-BD2EDD94E7F4}']"
+              s:ds=""
+              s:id="{09A5B06F-A291-4BC8-8851-CC3FBB8D885D}"
+              s:ph="main" />
+            <r
+              uid="{A80C1ACF-6988-4ADE-BC9A-80ECDA64266B}"
+              p:after="r[@uid='{B5292A0C-F8C8-4B5C-B0DB-E1833DD7EFEA}']"
+              s:ds=""
+              s:id="{09A5B06F-A291-4BC8-8851-CC3FBB8D885D}"
+              s:ph="main" />
+            <r
+              uid="{5BC51A25-7B3A-4307-88CD-43B625608276}"
+              p:after="r[@uid='{A80C1ACF-6988-4ADE-BC9A-80ECDA64266B}']"
+              s:ds=""
+              s:id="{09A5B06F-A291-4BC8-8851-CC3FBB8D885D}"
+              s:ph="main" />
+            <r
+              uid="{BC30060D-4A58-4415-ACB6-530AC86EB022}"
+              p:after="r[@uid='{5BC51A25-7B3A-4307-88CD-43B625608276}']"
+              s:ds=""
+              s:id="{09A5B06F-A291-4BC8-8851-CC3FBB8D885D}"
+              s:ph="main" />
+            <r
+              uid="{C87DCFD1-38B8-42DF-8D92-844AF84BD9E1}"
+              p:after="r[@uid='{BC30060D-4A58-4415-ACB6-530AC86EB022}']"
+              s:ds="{DB7BAB29-A94C-445B-B541-5C88B4C85EB8}"
+              s:id="{C3DD97A2-2C6B-4FDA-922C-7127AE10C976}"
+              s:ph="main" />
+            <r
+              uid="{750C233B-072A-4978-8A96-3E693D7AA735}"
+              p:after="r[@uid='{C87DCFD1-38B8-42DF-8D92-844AF84BD9E1}']"
+              s:ds="{033AF9A9-DAD6-4B2D-B408-0C0F771283E7}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="main" />
+            <r
+              uid="{6DFC42E8-9918-4258-8721-1FEDBF6E1BCF}"
+              p:after="r[@uid='{750C233B-072A-4978-8A96-3E693D7AA735}']"
+              s:ds="{6704A182-B7FC-432B-B9B1-A1BD09548AAA}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:ph="main" />
+            <r
+              uid="{82B1DBED-32D6-4EB4-B92E-3535C80070C5}"
+              p:after="r[@uid='{6DFC42E8-9918-4258-8721-1FEDBF6E1BCF}']"
+              s:ds="{B8B77A4A-DFED-45AA-AA2F-4F82A0CDB39A}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{A9656C48-C515-440B-86B1-7EABDF833C50}"
+              p:after="r[@uid='{82B1DBED-32D6-4EB4-B92E-3535C80070C5}']"
+              s:id="{6932DD17-1CD9-4D03-93B7-3C0A92EB8229}"
+              s:ph="main" />
+            <r
+              uid="{B8FD3EAF-2CB7-4970-B1FB-4B1F9720BF1B}"
+              p:after="r[@uid='{A9656C48-C515-440B-86B1-7EABDF833C50}']"
+              s:ds="{F3794FDD-4091-487A-8874-FAE4AB9F4B4C}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{81CAFEBE-1975-40B1-9137-174C965238BD}"
+              p:after="r[@uid='{B8FD3EAF-2CB7-4970-B1FB-4B1F9720BF1B}']"
+              s:id="{5266AC57-9C33-41AF-B32D-D935FB8DC1F3}"
+              s:ph="main" />
+            <r
+              uid="{6A036DD9-65A6-487C-BA73-B73EB15FF17C}"
+              p:after="r[@uid='{81CAFEBE-1975-40B1-9137-174C965238BD}']"
+              s:ds="{298550D4-2C1A-4268-969C-E0E6A84575B5}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{F9A50576-A357-4F0A-B410-BEF6CD9A854B}"
+              p:after="r[@uid='{6A036DD9-65A6-487C-BA73-B73EB15FF17C}']"
+              s:ds="{33758C18-B6FA-4ADE-89AF-C0917E6E3ADE}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{7DE93958-06C1-4F65-8273-694CDEB4C36A}"
+              p:after="r[@uid='{F9A50576-A357-4F0A-B410-BEF6CD9A854B}']"
+              s:ds="{9032DB42-D057-4C60-A120-A51CB80DBB6E}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{29FB2D43-AB9B-457E-9957-306FE4C521C1}"
+              p:after="r[@uid='{7DE93958-06C1-4F65-8273-694CDEB4C36A}']"
+              s:ds="{96F1A9D2-9456-4D9F-9B52-2E411DC07103}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{8C4F81AA-8FC5-4901-9DDB-95791E7E3981}"
+              p:after="r[@uid='{29FB2D43-AB9B-457E-9957-306FE4C521C1}']"
+              s:ds="{DF7E7851-6E67-4BBC-A2E6-3D3CAD72C769}"
+              s:id="{541C8841-7802-4878-BBC4-5B3AC533A4BA}"
+              s:ph="main" />
+            <r
+              uid="{AA15F926-75AC-47B5-84F5-E7D725EA3790}"
+              p:after="r[@uid='{8C4F81AA-8FC5-4901-9DDB-95791E7E3981}']"
+              s:ds="{3F5B10D3-471E-4290-A444-905C1249B359}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{363A605C-6C6B-45A7-BB49-8E5624BB333A}"
+              p:after="r[@uid='{AA15F926-75AC-47B5-84F5-E7D725EA3790}']"
+              s:ds="{2806BEDE-0867-40FE-9DCF-921170298CBB}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{33223F84-751D-4EF7-A051-4680E931C71F}"
+              p:after="*[1=2]"
+              s:ds="{BE3E3EF7-24EE-45DE-9585-A20692B0A0B7}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Renewable Energy
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Staying true to our roots while continuing to evolve, NOV helps our customers produce energy no matter the source.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Energy Transition
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220226T141328Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Energy Transition
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{40251B7D-FBE3-4A0E-8947-D4B4FE8CD782}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Energy Transition
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{781D7667-C3B9-4A8E-967F-FA60B00AC7A0}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Energy Transition
+    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
+      Hint: Search Result Text
+      Value: Energy Transition
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "42c3c072-a75a-4db7-bfe7-ecda5cf22c95"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{894AD693-62BC-4D0F-8E34-42401EBEF1F3}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Renewable Energy
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Staying true to our roots while continuing to evolve, NOV helps our customers produce energy no matter the source.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20220226T141328Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{781D7667-C3B9-4A8E-967F-FA60B00AC7A0}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220226T150037Z
+    - ID: "da134e40-cb02-4645-9846-115fb9a5aeca"
+      Hint: capability
+      Value: "{F970DC74-7ED1-4ECD-8547-D253F21FFDC6}"
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{781D7667-C3B9-4A8E-967F-FA60B00AC7A0}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 8
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}">
+              <p:d />
+            </r>
+            <r
+              uid="{37A7ADD6-9046-4B18-B22A-BE9133614F3D}">
+              <p:d />
+            </r>
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+            <r
+              uid="{D74A0185-F46C-40B6-9755-E41B8718E408}"
+              p:before="*"
+              s:ds="{E962A3D1-EAFB-4256-995F-CDE6C5AB2A76}"
+              s:id="{9CA51EAB-92E4-4A77-8B48-966774577172}"
+              s:ph="/main/product-hero-{C87DCFD1-38B8-42DF-8D92-844AF84BD9E1}-0" />
+            <r
+              uid="{26532A2F-1B1D-4DF1-B58E-110795E8C937}"
+              p:after="r[@uid='{D74A0185-F46C-40B6-9755-E41B8718E408}']"
+              s:ds="{613D8F13-E77A-4AC6-BE45-C75BF1423E1C}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{81CAFEBE-1975-40B1-9137-174C965238BD}-0" />
+            <r
+              uid="{5307D6B0-2B13-4E26-A264-CB76EB36AAAE}"
+              p:after="r[@uid='{26532A2F-1B1D-4DF1-B58E-110795E8C937}']"
+              s:ds="{613D8F13-E77A-4AC6-BE45-C75BF1423E1C}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{EEF8A179-29E5-4724-8735-10C9B10F8C37}-0" />
+            <r
+              uid="{F93A6B1A-E518-499C-8E82-68D464C7578E}"
+              p:after="r[@uid='{5307D6B0-2B13-4E26-A264-CB76EB36AAAE}']"
+              s:ds="{6704A182-B7FC-432B-B9B1-A1BD09548AAA}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{EEF8A179-29E5-4724-8735-10C9B10F8C37}-0" />
+            <r
+              uid="{78F38200-59F6-434F-A109-CD50FC83D873}"
+              p:after="r[@uid='{F93A6B1A-E518-499C-8E82-68D464C7578E}']"
+              s:ds="{BCACDE60-C7DE-48DF-AB61-1CA557E531A7}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{81CAFEBE-1975-40B1-9137-174C965238BD}-0" />
+            <r
+              uid="{E03F8CCC-DF45-4825-A5EF-E6838ECC4A7A}"
+              p:after="r[@uid='{78F38200-59F6-434F-A109-CD50FC83D873}']"
+              s:ds="{C472A616-DA60-473B-8045-493C9F436CF6}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{81CAFEBE-1975-40B1-9137-174C965238BD}-0" />
+            <r
+              uid="{7A88DC08-BBA7-45CF-8AE2-F5B0A86F8471}"
+              p:after="r[@uid='{E03F8CCC-DF45-4825-A5EF-E6838ECC4A7A}']"
+              s:ds="{CF332971-57BB-4B5F-98B1-EA8A0B0EFDCE}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{81CAFEBE-1975-40B1-9137-174C965238BD}-0" />
+            <r
+              uid="{4DD7C3CF-014B-4F89-8D6E-6332F6A7B0F7}"
+              p:after="r[@uid='{7A88DC08-BBA7-45CF-8AE2-F5B0A86F8471}']"
+              s:ds="{05E3652E-AFD1-466F-9577-30691E97F852}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{81CAFEBE-1975-40B1-9137-174C965238BD}-0" />
+            <r
+              uid="{FCFBDEB5-17D9-4159-8E4C-7935ADF7FB5E}"
+              p:after="r[@uid='{4DD7C3CF-014B-4F89-8D6E-6332F6A7B0F7}']"
+              s:ds="{B0908106-BF39-4DB4-A0B8-0E3C3F39BCE3}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{81CAFEBE-1975-40B1-9137-174C965238BD}-0" />
+            <r
+              uid="{10C9BFEF-7718-485A-8C68-D24BFC96CBD9}"
+              p:after="r[@uid='{FCFBDEB5-17D9-4159-8E4C-7935ADF7FB5E}']"
+              s:ds="{911BD142-BEE7-495D-AC7E-99E4774F4A34}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{81CAFEBE-1975-40B1-9137-174C965238BD}-0" />
+            <r
+              uid="{5D53776D-1E05-4A07-8BFC-1D96451F67E9}"
+              p:after="r[@uid='{10C9BFEF-7718-485A-8C68-D24BFC96CBD9}']"
+              s:ds="{D40F7BB2-C687-42A3-9DDF-E16CF7864483}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom/image-block-splitter-480x540-right" />
+            <r
+              uid="{739478D8-1BE9-4135-BB4F-D12FA9492289}"
+              p:after="r[@uid='{5D53776D-1E05-4A07-8BFC-1D96451F67E9}']"
+              s:ds="{B2D80455-AD1C-4961-B47B-85381608887A}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom/image-block-splitter-480x540-left" />
+            <r
+              uid="{364CC649-4189-488D-ABC7-640AB51D0978}"
+              p:after="r[@uid='{739478D8-1BE9-4135-BB4F-D12FA9492289}']"
+              s:ds="{DB19B25A-929B-4909-AD59-642FEC715979}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top/image-block-splitter-480x540-right" />
+            <r
+              uid="{2CE2CC14-3495-43B1-BE94-8F13EAA74401}"
+              p:after="r[@uid='{364CC649-4189-488D-ABC7-640AB51D0978}']"
+              s:ds="{D65FDBEE-C7AD-466D-90C8-18EEBE20B2A9}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top/image-block-splitter-480x540-left" />
+            <r
+              uid="{7C541D45-6B6C-4EBB-A76D-8A04F989C231}"
+              p:after="r[@uid='{2CE2CC14-3495-43B1-BE94-8F13EAA74401}']"
+              s:id="{30CDBCD0-0126-446E-8E05-E7931C91B224}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top" />
+            <r
+              uid="{6D39D6EA-3102-4C7A-A993-2DF43536D43B}"
+              p:after="r[@uid='{7C541D45-6B6C-4EBB-A76D-8A04F989C231}']"
+              s:ds="{4FEEFA1C-F0D0-4BB0-B53A-DC8808F4C2A8}"
+              s:id="{4A0DE3D2-7F3F-4DFC-9234-9203265CB0F6}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{C433EB1F-A604-40E6-B310-4B1775FC45DF}"
+              p:after="r[@uid='{6D39D6EA-3102-4C7A-A993-2DF43536D43B}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-right" />
+            <r
+              uid="{7DD23E02-C76B-4DFB-9E70-C391E5B579D3}"
+              p:after="r[@uid='{C433EB1F-A604-40E6-B310-4B1775FC45DF}']"
+              s:id="{30CDBCD0-0126-446E-8E05-E7931C91B224}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{922AB706-25B6-4B0A-927D-EB87B6416CEE}"
+              p:after="r[@uid='{7DD23E02-C76B-4DFB-9E70-C391E5B579D3}']"
+              s:ds="{9BBBCCF9-754F-4E63-898C-3FFA52851D14}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-top" />
+            <r
+              uid="{E4A46AAC-9F66-458B-A367-79EBABE08781}"
+              p:after="r[@uid='{922AB706-25B6-4B0A-927D-EB87B6416CEE}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-left" />
+            <r
+              uid="{0031C5F7-D8B5-4B04-A15C-BD2EDD94E7F4}"
+              p:after="r[@uid='{E4A46AAC-9F66-458B-A367-79EBABE08781}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0" />
+            <r
+              uid="{B5292A0C-F8C8-4B5C-B0DB-E1833DD7EFEA}"
+              p:after="r[@uid='{0031C5F7-D8B5-4B04-A15C-BD2EDD94E7F4}']"
+              s:ds=""
+              s:id="{09A5B06F-A291-4BC8-8851-CC3FBB8D885D}"
+              s:ph="main" />
+            <r
+              uid="{A80C1ACF-6988-4ADE-BC9A-80ECDA64266B}"
+              p:after="r[@uid='{B5292A0C-F8C8-4B5C-B0DB-E1833DD7EFEA}']"
+              s:ds=""
+              s:id="{09A5B06F-A291-4BC8-8851-CC3FBB8D885D}"
+              s:ph="main" />
+            <r
+              uid="{5BC51A25-7B3A-4307-88CD-43B625608276}"
+              p:after="r[@uid='{A80C1ACF-6988-4ADE-BC9A-80ECDA64266B}']"
+              s:ds=""
+              s:id="{09A5B06F-A291-4BC8-8851-CC3FBB8D885D}"
+              s:ph="main" />
+            <r
+              uid="{BC30060D-4A58-4415-ACB6-530AC86EB022}"
+              p:after="r[@uid='{5BC51A25-7B3A-4307-88CD-43B625608276}']"
+              s:ds=""
+              s:id="{09A5B06F-A291-4BC8-8851-CC3FBB8D885D}"
+              s:ph="main" />
+            <r
+              uid="{C87DCFD1-38B8-42DF-8D92-844AF84BD9E1}"
+              p:after="r[@uid='{BC30060D-4A58-4415-ACB6-530AC86EB022}']"
+              s:ds="{DB7BAB29-A94C-445B-B541-5C88B4C85EB8}"
+              s:id="{C3DD97A2-2C6B-4FDA-922C-7127AE10C976}"
+              s:ph="main" />
+            <r
+              uid="{750C233B-072A-4978-8A96-3E693D7AA735}"
+              p:after="r[@uid='{C87DCFD1-38B8-42DF-8D92-844AF84BD9E1}']"
+              s:ds="{033AF9A9-DAD6-4B2D-B408-0C0F771283E7}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="main" />
+            <r
+              uid="{6DFC42E8-9918-4258-8721-1FEDBF6E1BCF}"
+              p:after="r[@uid='{750C233B-072A-4978-8A96-3E693D7AA735}']"
+              s:ds="{6704A182-B7FC-432B-B9B1-A1BD09548AAA}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:ph="main" />
+            <r
+              uid="{82B1DBED-32D6-4EB4-B92E-3535C80070C5}"
+              p:after="r[@uid='{6DFC42E8-9918-4258-8721-1FEDBF6E1BCF}']"
+              s:ds="{B8B77A4A-DFED-45AA-AA2F-4F82A0CDB39A}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{A9656C48-C515-440B-86B1-7EABDF833C50}"
+              p:after="r[@uid='{82B1DBED-32D6-4EB4-B92E-3535C80070C5}']"
+              s:id="{6932DD17-1CD9-4D03-93B7-3C0A92EB8229}"
+              s:ph="main" />
+            <r
+              uid="{B8FD3EAF-2CB7-4970-B1FB-4B1F9720BF1B}"
+              p:after="r[@uid='{A9656C48-C515-440B-86B1-7EABDF833C50}']"
+              s:ds="{F3794FDD-4091-487A-8874-FAE4AB9F4B4C}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{81CAFEBE-1975-40B1-9137-174C965238BD}"
+              p:after="r[@uid='{B8FD3EAF-2CB7-4970-B1FB-4B1F9720BF1B}']"
+              s:id="{5266AC57-9C33-41AF-B32D-D935FB8DC1F3}"
+              s:ph="main" />
+            <r
+              uid="{6A036DD9-65A6-487C-BA73-B73EB15FF17C}"
+              p:after="r[@uid='{81CAFEBE-1975-40B1-9137-174C965238BD}']"
+              s:ds="{298550D4-2C1A-4268-969C-E0E6A84575B5}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{F9A50576-A357-4F0A-B410-BEF6CD9A854B}"
+              p:after="r[@uid='{6A036DD9-65A6-487C-BA73-B73EB15FF17C}']"
+              s:ds="{33758C18-B6FA-4ADE-89AF-C0917E6E3ADE}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{7DE93958-06C1-4F65-8273-694CDEB4C36A}"
+              p:after="r[@uid='{F9A50576-A357-4F0A-B410-BEF6CD9A854B}']"
+              s:ds="{9032DB42-D057-4C60-A120-A51CB80DBB6E}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{29FB2D43-AB9B-457E-9957-306FE4C521C1}"
+              p:after="r[@uid='{7DE93958-06C1-4F65-8273-694CDEB4C36A}']"
+              s:ds="{96F1A9D2-9456-4D9F-9B52-2E411DC07103}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{8C4F81AA-8FC5-4901-9DDB-95791E7E3981}"
+              p:after="r[@uid='{29FB2D43-AB9B-457E-9957-306FE4C521C1}']"
+              s:ds="{DF7E7851-6E67-4BBC-A2E6-3D3CAD72C769}"
+              s:id="{541C8841-7802-4878-BBC4-5B3AC533A4BA}"
+              s:ph="main" />
+            <r
+              uid="{AA15F926-75AC-47B5-84F5-E7D725EA3790}"
+              p:after="r[@uid='{8C4F81AA-8FC5-4901-9DDB-95791E7E3981}']"
+              s:ds="{3F5B10D3-471E-4290-A444-905C1249B359}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{363A605C-6C6B-45A7-BB49-8E5624BB333A}"
+              p:after="r[@uid='{AA15F926-75AC-47B5-84F5-E7D725EA3790}']"
+              s:ds="{2806BEDE-0867-40FE-9DCF-921170298CBB}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{33223F84-751D-4EF7-A051-4680E931C71F}"
+              p:after="*[1=2]"
+              s:ds="{152AF4E0-BFF3-4400-A330-EF0E69000E7D}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Renewable Energy
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Staying true to our roots while continuing to evolve, NOV helps our customers produce energy no matter the source.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Energy Transition
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220226T145547Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Energy Transition
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Energy Transition
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{781D7667-C3B9-4A8E-967F-FA60B00AC7A0}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Energy Transition
+    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
+      Hint: Search Result Text
+      Value: Energy Transition
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "779ffd15-3b3d-4cc3-9979-ec2d2da43d14"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{894AD693-62BC-4D0F-8E34-42401EBEF1F3}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Renewable Energy
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Staying true to our roots while continuing to evolve, NOV helps our customers produce energy no matter the source.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20220226T145547Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{781D7667-C3B9-4A8E-967F-FA60B00AC7A0}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220226T145720Z
+    - ID: "da134e40-cb02-4645-9846-115fb9a5aeca"
+      Hint: capability
+      Value: "{F970DC74-7ED1-4ECD-8547-D253F21FFDC6}"
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{781D7667-C3B9-4A8E-967F-FA60B00AC7A0}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 9
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}">
+              <p:d />
+            </r>
+            <r
+              uid="{37A7ADD6-9046-4B18-B22A-BE9133614F3D}">
+              <p:d />
+            </r>
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+            <r
+              uid="{F4D29E46-76D1-46A8-BD99-B7B6CE18711D}"
+              p:before="*"
+              s:ds="{BD099463-29A1-48C5-A689-978EBB91648E}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{81CAFEBE-1975-40B1-9137-174C965238BD}-0" />
+            <r
+              uid="{D74A0185-F46C-40B6-9755-E41B8718E408}"
+              p:after="r[@uid='{F4D29E46-76D1-46A8-BD99-B7B6CE18711D}']"
+              s:ds="{E962A3D1-EAFB-4256-995F-CDE6C5AB2A76}"
+              s:id="{9CA51EAB-92E4-4A77-8B48-966774577172}"
+              s:ph="/main/product-hero-{C87DCFD1-38B8-42DF-8D92-844AF84BD9E1}-0" />
+            <r
+              uid="{26532A2F-1B1D-4DF1-B58E-110795E8C937}"
+              p:after="r[@uid='{D74A0185-F46C-40B6-9755-E41B8718E408}']"
+              s:ds="{613D8F13-E77A-4AC6-BE45-C75BF1423E1C}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{81CAFEBE-1975-40B1-9137-174C965238BD}-0" />
+            <r
+              uid="{5307D6B0-2B13-4E26-A264-CB76EB36AAAE}"
+              p:after="r[@uid='{26532A2F-1B1D-4DF1-B58E-110795E8C937}']"
+              s:ds="{613D8F13-E77A-4AC6-BE45-C75BF1423E1C}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{EEF8A179-29E5-4724-8735-10C9B10F8C37}-0" />
+            <r
+              uid="{F93A6B1A-E518-499C-8E82-68D464C7578E}"
+              p:after="r[@uid='{5307D6B0-2B13-4E26-A264-CB76EB36AAAE}']"
+              s:ds="{6704A182-B7FC-432B-B9B1-A1BD09548AAA}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{EEF8A179-29E5-4724-8735-10C9B10F8C37}-0" />
+            <r
+              uid="{78F38200-59F6-434F-A109-CD50FC83D873}"
+              p:after="r[@uid='{F93A6B1A-E518-499C-8E82-68D464C7578E}']"
+              s:ds="{BCACDE60-C7DE-48DF-AB61-1CA557E531A7}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{81CAFEBE-1975-40B1-9137-174C965238BD}-0" />
+            <r
+              uid="{E03F8CCC-DF45-4825-A5EF-E6838ECC4A7A}"
+              p:after="r[@uid='{78F38200-59F6-434F-A109-CD50FC83D873}']"
+              s:ds="{C472A616-DA60-473B-8045-493C9F436CF6}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{81CAFEBE-1975-40B1-9137-174C965238BD}-0" />
+            <r
+              uid="{7A88DC08-BBA7-45CF-8AE2-F5B0A86F8471}"
+              p:after="r[@uid='{E03F8CCC-DF45-4825-A5EF-E6838ECC4A7A}']"
+              s:ds="{CF332971-57BB-4B5F-98B1-EA8A0B0EFDCE}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{81CAFEBE-1975-40B1-9137-174C965238BD}-0" />
+            <r
+              uid="{4DD7C3CF-014B-4F89-8D6E-6332F6A7B0F7}"
+              p:after="r[@uid='{7A88DC08-BBA7-45CF-8AE2-F5B0A86F8471}']"
+              s:ds="{05E3652E-AFD1-466F-9577-30691E97F852}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{81CAFEBE-1975-40B1-9137-174C965238BD}-0" />
+            <r
+              uid="{FCFBDEB5-17D9-4159-8E4C-7935ADF7FB5E}"
+              p:after="r[@uid='{4DD7C3CF-014B-4F89-8D6E-6332F6A7B0F7}']"
+              s:ds="{B0908106-BF39-4DB4-A0B8-0E3C3F39BCE3}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{81CAFEBE-1975-40B1-9137-174C965238BD}-0" />
+            <r
+              uid="{10C9BFEF-7718-485A-8C68-D24BFC96CBD9}"
+              p:after="r[@uid='{FCFBDEB5-17D9-4159-8E4C-7935ADF7FB5E}']"
+              s:ds="{911BD142-BEE7-495D-AC7E-99E4774F4A34}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{81CAFEBE-1975-40B1-9137-174C965238BD}-0" />
+            <r
+              uid="{5D53776D-1E05-4A07-8BFC-1D96451F67E9}"
+              p:after="r[@uid='{10C9BFEF-7718-485A-8C68-D24BFC96CBD9}']"
+              s:ds="{D40F7BB2-C687-42A3-9DDF-E16CF7864483}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom/image-block-splitter-480x540-right" />
+            <r
+              uid="{739478D8-1BE9-4135-BB4F-D12FA9492289}"
+              p:after="r[@uid='{5D53776D-1E05-4A07-8BFC-1D96451F67E9}']"
+              s:ds="{B2D80455-AD1C-4961-B47B-85381608887A}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom/image-block-splitter-480x540-left" />
+            <r
+              uid="{364CC649-4189-488D-ABC7-640AB51D0978}"
+              p:after="r[@uid='{739478D8-1BE9-4135-BB4F-D12FA9492289}']"
+              s:ds="{DB19B25A-929B-4909-AD59-642FEC715979}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top/image-block-splitter-480x540-right" />
+            <r
+              uid="{2CE2CC14-3495-43B1-BE94-8F13EAA74401}"
+              p:after="r[@uid='{364CC649-4189-488D-ABC7-640AB51D0978}']"
+              s:ds="{D65FDBEE-C7AD-466D-90C8-18EEBE20B2A9}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top/image-block-splitter-480x540-left" />
+            <r
+              uid="{7C541D45-6B6C-4EBB-A76D-8A04F989C231}"
+              p:after="r[@uid='{2CE2CC14-3495-43B1-BE94-8F13EAA74401}']"
+              s:id="{30CDBCD0-0126-446E-8E05-E7931C91B224}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top" />
+            <r
+              uid="{6D39D6EA-3102-4C7A-A993-2DF43536D43B}"
+              p:after="r[@uid='{7C541D45-6B6C-4EBB-A76D-8A04F989C231}']"
+              s:ds="{4FEEFA1C-F0D0-4BB0-B53A-DC8808F4C2A8}"
+              s:id="{4A0DE3D2-7F3F-4DFC-9234-9203265CB0F6}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{C433EB1F-A604-40E6-B310-4B1775FC45DF}"
+              p:after="r[@uid='{6D39D6EA-3102-4C7A-A993-2DF43536D43B}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-right" />
+            <r
+              uid="{7DD23E02-C76B-4DFB-9E70-C391E5B579D3}"
+              p:after="r[@uid='{C433EB1F-A604-40E6-B310-4B1775FC45DF}']"
+              s:id="{30CDBCD0-0126-446E-8E05-E7931C91B224}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{922AB706-25B6-4B0A-927D-EB87B6416CEE}"
+              p:after="r[@uid='{7DD23E02-C76B-4DFB-9E70-C391E5B579D3}']"
+              s:ds="{9BBBCCF9-754F-4E63-898C-3FFA52851D14}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-top" />
+            <r
+              uid="{E4A46AAC-9F66-458B-A367-79EBABE08781}"
+              p:after="r[@uid='{922AB706-25B6-4B0A-927D-EB87B6416CEE}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-left" />
+            <r
+              uid="{0031C5F7-D8B5-4B04-A15C-BD2EDD94E7F4}"
+              p:after="r[@uid='{E4A46AAC-9F66-458B-A367-79EBABE08781}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0" />
+            <r
+              uid="{B5292A0C-F8C8-4B5C-B0DB-E1833DD7EFEA}"
+              p:after="r[@uid='{0031C5F7-D8B5-4B04-A15C-BD2EDD94E7F4}']"
+              s:ds=""
+              s:id="{09A5B06F-A291-4BC8-8851-CC3FBB8D885D}"
+              s:ph="main" />
+            <r
+              uid="{A80C1ACF-6988-4ADE-BC9A-80ECDA64266B}"
+              p:after="r[@uid='{B5292A0C-F8C8-4B5C-B0DB-E1833DD7EFEA}']"
+              s:ds=""
+              s:id="{09A5B06F-A291-4BC8-8851-CC3FBB8D885D}"
+              s:ph="main" />
+            <r
+              uid="{5BC51A25-7B3A-4307-88CD-43B625608276}"
+              p:after="r[@uid='{A80C1ACF-6988-4ADE-BC9A-80ECDA64266B}']"
+              s:ds=""
+              s:id="{09A5B06F-A291-4BC8-8851-CC3FBB8D885D}"
+              s:ph="main" />
+            <r
+              uid="{BC30060D-4A58-4415-ACB6-530AC86EB022}"
+              p:after="r[@uid='{5BC51A25-7B3A-4307-88CD-43B625608276}']"
+              s:ds=""
+              s:id="{09A5B06F-A291-4BC8-8851-CC3FBB8D885D}"
+              s:ph="main" />
+            <r
+              uid="{C87DCFD1-38B8-42DF-8D92-844AF84BD9E1}"
+              p:after="r[@uid='{BC30060D-4A58-4415-ACB6-530AC86EB022}']"
+              s:ds="{DB7BAB29-A94C-445B-B541-5C88B4C85EB8}"
+              s:id="{C3DD97A2-2C6B-4FDA-922C-7127AE10C976}"
+              s:ph="main" />
+            <r
+              uid="{750C233B-072A-4978-8A96-3E693D7AA735}"
+              p:after="r[@uid='{C87DCFD1-38B8-42DF-8D92-844AF84BD9E1}']"
+              s:ds="{033AF9A9-DAD6-4B2D-B408-0C0F771283E7}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="main" />
+            <r
+              uid="{6DFC42E8-9918-4258-8721-1FEDBF6E1BCF}"
+              p:after="r[@uid='{750C233B-072A-4978-8A96-3E693D7AA735}']"
+              s:ds="{6704A182-B7FC-432B-B9B1-A1BD09548AAA}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:ph="main" />
+            <r
+              uid="{82B1DBED-32D6-4EB4-B92E-3535C80070C5}"
+              p:after="r[@uid='{6DFC42E8-9918-4258-8721-1FEDBF6E1BCF}']"
+              s:ds="{B8B77A4A-DFED-45AA-AA2F-4F82A0CDB39A}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{A9656C48-C515-440B-86B1-7EABDF833C50}"
+              p:after="r[@uid='{82B1DBED-32D6-4EB4-B92E-3535C80070C5}']"
+              s:id="{6932DD17-1CD9-4D03-93B7-3C0A92EB8229}"
+              s:ph="main" />
+            <r
+              uid="{B8FD3EAF-2CB7-4970-B1FB-4B1F9720BF1B}"
+              p:after="r[@uid='{A9656C48-C515-440B-86B1-7EABDF833C50}']"
+              s:ds="{F3794FDD-4091-487A-8874-FAE4AB9F4B4C}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{81CAFEBE-1975-40B1-9137-174C965238BD}"
+              p:after="r[@uid='{B8FD3EAF-2CB7-4970-B1FB-4B1F9720BF1B}']"
+              s:id="{5266AC57-9C33-41AF-B32D-D935FB8DC1F3}"
+              s:ph="main" />
+            <r
+              uid="{6A036DD9-65A6-487C-BA73-B73EB15FF17C}"
+              p:after="r[@uid='{81CAFEBE-1975-40B1-9137-174C965238BD}']"
+              s:ds="{298550D4-2C1A-4268-969C-E0E6A84575B5}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{F9A50576-A357-4F0A-B410-BEF6CD9A854B}"
+              p:after="r[@uid='{6A036DD9-65A6-487C-BA73-B73EB15FF17C}']"
+              s:ds="{33758C18-B6FA-4ADE-89AF-C0917E6E3ADE}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{7DE93958-06C1-4F65-8273-694CDEB4C36A}"
+              p:after="r[@uid='{F9A50576-A357-4F0A-B410-BEF6CD9A854B}']"
+              s:ds="{9032DB42-D057-4C60-A120-A51CB80DBB6E}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{29FB2D43-AB9B-457E-9957-306FE4C521C1}"
+              p:after="r[@uid='{7DE93958-06C1-4F65-8273-694CDEB4C36A}']"
+              s:ds="{96F1A9D2-9456-4D9F-9B52-2E411DC07103}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{8C4F81AA-8FC5-4901-9DDB-95791E7E3981}"
+              p:after="r[@uid='{29FB2D43-AB9B-457E-9957-306FE4C521C1}']"
+              s:ds="{DF7E7851-6E67-4BBC-A2E6-3D3CAD72C769}"
+              s:id="{541C8841-7802-4878-BBC4-5B3AC533A4BA}"
+              s:ph="main" />
+            <r
+              uid="{AA15F926-75AC-47B5-84F5-E7D725EA3790}"
+              p:after="r[@uid='{8C4F81AA-8FC5-4901-9DDB-95791E7E3981}']"
+              s:ds="{3F5B10D3-471E-4290-A444-905C1249B359}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{363A605C-6C6B-45A7-BB49-8E5624BB333A}"
+              p:after="r[@uid='{AA15F926-75AC-47B5-84F5-E7D725EA3790}']"
+              s:ds="{2806BEDE-0867-40FE-9DCF-921170298CBB}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{33223F84-751D-4EF7-A051-4680E931C71F}"
+              p:after="*[1=2]"
+              s:ds="{BE3E3EF7-24EE-45DE-9585-A20692B0A0B7}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Renewable Energy
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Staying true to our roots while continuing to evolve, NOV helps our customers produce energy no matter the source.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Energy Transition
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220226T150042Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Energy Transition
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Energy Transition
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{781D7667-C3B9-4A8E-967F-FA60B00AC7A0}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Energy Transition
+    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
+      Hint: Search Result Text
+      Value: Energy Transition
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3bed4972-7a94-4181-be5b-94ca8e94a0d7"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{894AD693-62BC-4D0F-8E34-42401EBEF1F3}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Renewable Energy
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Staying true to our roots while continuing to evolve, NOV helps our customers produce energy no matter the source.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20220226T150042Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{781D7667-C3B9-4A8E-967F-FA60B00AC7A0}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220309T182316Z
+    - ID: "da134e40-cb02-4645-9846-115fb9a5aeca"
+      Hint: capability
+      Value: "{F970DC74-7ED1-4ECD-8547-D253F21FFDC6}"
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{781D7667-C3B9-4A8E-967F-FA60B00AC7A0}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 10
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}">
+              <p:d />
+            </r>
+            <r
+              uid="{37A7ADD6-9046-4B18-B22A-BE9133614F3D}">
+              <p:d />
+            </r>
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+            <r
+              uid="{F4D29E46-76D1-46A8-BD99-B7B6CE18711D}"
+              p:before="*"
+              s:ds="{BD099463-29A1-48C5-A689-978EBB91648E}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{81CAFEBE-1975-40B1-9137-174C965238BD}-0" />
+            <r
+              uid="{D74A0185-F46C-40B6-9755-E41B8718E408}"
+              p:after="r[@uid='{F4D29E46-76D1-46A8-BD99-B7B6CE18711D}']"
+              s:ds="{E962A3D1-EAFB-4256-995F-CDE6C5AB2A76}"
+              s:id="{9CA51EAB-92E4-4A77-8B48-966774577172}"
+              s:ph="/main/product-hero-{C87DCFD1-38B8-42DF-8D92-844AF84BD9E1}-0" />
+            <r
+              uid="{26532A2F-1B1D-4DF1-B58E-110795E8C937}"
+              p:after="r[@uid='{D74A0185-F46C-40B6-9755-E41B8718E408}']"
+              s:ds="{613D8F13-E77A-4AC6-BE45-C75BF1423E1C}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{81CAFEBE-1975-40B1-9137-174C965238BD}-0" />
+            <r
+              uid="{5307D6B0-2B13-4E26-A264-CB76EB36AAAE}"
+              p:after="r[@uid='{26532A2F-1B1D-4DF1-B58E-110795E8C937}']"
+              s:ds="{613D8F13-E77A-4AC6-BE45-C75BF1423E1C}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{EEF8A179-29E5-4724-8735-10C9B10F8C37}-0" />
+            <r
+              uid="{F93A6B1A-E518-499C-8E82-68D464C7578E}"
+              p:after="r[@uid='{5307D6B0-2B13-4E26-A264-CB76EB36AAAE}']"
+              s:ds="{6704A182-B7FC-432B-B9B1-A1BD09548AAA}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{EEF8A179-29E5-4724-8735-10C9B10F8C37}-0" />
+            <r
+              uid="{78F38200-59F6-434F-A109-CD50FC83D873}"
+              p:after="r[@uid='{F93A6B1A-E518-499C-8E82-68D464C7578E}']"
+              s:ds="{BCACDE60-C7DE-48DF-AB61-1CA557E531A7}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{81CAFEBE-1975-40B1-9137-174C965238BD}-0" />
+            <r
+              uid="{E03F8CCC-DF45-4825-A5EF-E6838ECC4A7A}"
+              p:after="r[@uid='{78F38200-59F6-434F-A109-CD50FC83D873}']"
+              s:ds="{C472A616-DA60-473B-8045-493C9F436CF6}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{81CAFEBE-1975-40B1-9137-174C965238BD}-0" />
+            <r
+              uid="{7A88DC08-BBA7-45CF-8AE2-F5B0A86F8471}"
+              p:after="r[@uid='{E03F8CCC-DF45-4825-A5EF-E6838ECC4A7A}']"
+              s:ds="{CF332971-57BB-4B5F-98B1-EA8A0B0EFDCE}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{81CAFEBE-1975-40B1-9137-174C965238BD}-0" />
+            <r
+              uid="{4DD7C3CF-014B-4F89-8D6E-6332F6A7B0F7}"
+              p:after="r[@uid='{7A88DC08-BBA7-45CF-8AE2-F5B0A86F8471}']"
+              s:ds="{05E3652E-AFD1-466F-9577-30691E97F852}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{81CAFEBE-1975-40B1-9137-174C965238BD}-0" />
+            <r
+              uid="{FCFBDEB5-17D9-4159-8E4C-7935ADF7FB5E}"
+              p:after="r[@uid='{4DD7C3CF-014B-4F89-8D6E-6332F6A7B0F7}']"
+              s:ds="{B0908106-BF39-4DB4-A0B8-0E3C3F39BCE3}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{81CAFEBE-1975-40B1-9137-174C965238BD}-0" />
+            <r
+              uid="{10C9BFEF-7718-485A-8C68-D24BFC96CBD9}"
+              p:after="r[@uid='{FCFBDEB5-17D9-4159-8E4C-7935ADF7FB5E}']"
+              s:ds="{911BD142-BEE7-495D-AC7E-99E4774F4A34}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{81CAFEBE-1975-40B1-9137-174C965238BD}-0" />
+            <r
+              uid="{5D53776D-1E05-4A07-8BFC-1D96451F67E9}"
+              p:after="r[@uid='{10C9BFEF-7718-485A-8C68-D24BFC96CBD9}']"
+              s:ds="{D40F7BB2-C687-42A3-9DDF-E16CF7864483}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom/image-block-splitter-480x540-right" />
+            <r
+              uid="{739478D8-1BE9-4135-BB4F-D12FA9492289}"
+              p:after="r[@uid='{5D53776D-1E05-4A07-8BFC-1D96451F67E9}']"
+              s:ds="{B2D80455-AD1C-4961-B47B-85381608887A}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom/image-block-splitter-480x540-left" />
+            <r
+              uid="{364CC649-4189-488D-ABC7-640AB51D0978}"
+              p:after="r[@uid='{739478D8-1BE9-4135-BB4F-D12FA9492289}']"
+              s:ds="{DB19B25A-929B-4909-AD59-642FEC715979}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top/image-block-splitter-480x540-right" />
+            <r
+              uid="{2CE2CC14-3495-43B1-BE94-8F13EAA74401}"
+              p:after="r[@uid='{364CC649-4189-488D-ABC7-640AB51D0978}']"
+              s:ds="{D65FDBEE-C7AD-466D-90C8-18EEBE20B2A9}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top/image-block-splitter-480x540-left" />
+            <r
+              uid="{7C541D45-6B6C-4EBB-A76D-8A04F989C231}"
+              p:after="r[@uid='{2CE2CC14-3495-43B1-BE94-8F13EAA74401}']"
+              s:id="{30CDBCD0-0126-446E-8E05-E7931C91B224}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top" />
+            <r
+              uid="{6D39D6EA-3102-4C7A-A993-2DF43536D43B}"
+              p:after="r[@uid='{7C541D45-6B6C-4EBB-A76D-8A04F989C231}']"
+              s:ds="{4FEEFA1C-F0D0-4BB0-B53A-DC8808F4C2A8}"
+              s:id="{4A0DE3D2-7F3F-4DFC-9234-9203265CB0F6}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{C433EB1F-A604-40E6-B310-4B1775FC45DF}"
+              p:after="r[@uid='{6D39D6EA-3102-4C7A-A993-2DF43536D43B}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-right" />
+            <r
+              uid="{7DD23E02-C76B-4DFB-9E70-C391E5B579D3}"
+              p:after="r[@uid='{C433EB1F-A604-40E6-B310-4B1775FC45DF}']"
+              s:id="{30CDBCD0-0126-446E-8E05-E7931C91B224}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{922AB706-25B6-4B0A-927D-EB87B6416CEE}"
+              p:after="r[@uid='{7DD23E02-C76B-4DFB-9E70-C391E5B579D3}']"
+              s:ds="{9BBBCCF9-754F-4E63-898C-3FFA52851D14}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-top" />
+            <r
+              uid="{E4A46AAC-9F66-458B-A367-79EBABE08781}"
+              p:after="r[@uid='{922AB706-25B6-4B0A-927D-EB87B6416CEE}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0/image-block-splitter-960x1080-left" />
+            <r
+              uid="{0031C5F7-D8B5-4B04-A15C-BD2EDD94E7F4}"
+              p:after="r[@uid='{E4A46AAC-9F66-458B-A367-79EBABE08781}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main-{A9656C48-C515-440B-86B1-7EABDF833C50}-0" />
+            <r
+              uid="{B5292A0C-F8C8-4B5C-B0DB-E1833DD7EFEA}"
+              p:after="r[@uid='{0031C5F7-D8B5-4B04-A15C-BD2EDD94E7F4}']"
+              s:ds=""
+              s:id="{09A5B06F-A291-4BC8-8851-CC3FBB8D885D}"
+              s:ph="main" />
+            <r
+              uid="{A80C1ACF-6988-4ADE-BC9A-80ECDA64266B}"
+              p:after="r[@uid='{B5292A0C-F8C8-4B5C-B0DB-E1833DD7EFEA}']"
+              s:ds=""
+              s:id="{09A5B06F-A291-4BC8-8851-CC3FBB8D885D}"
+              s:ph="main" />
+            <r
+              uid="{5BC51A25-7B3A-4307-88CD-43B625608276}"
+              p:after="r[@uid='{A80C1ACF-6988-4ADE-BC9A-80ECDA64266B}']"
+              s:ds=""
+              s:id="{09A5B06F-A291-4BC8-8851-CC3FBB8D885D}"
+              s:ph="main" />
+            <r
+              uid="{BC30060D-4A58-4415-ACB6-530AC86EB022}"
+              p:after="r[@uid='{5BC51A25-7B3A-4307-88CD-43B625608276}']"
+              s:ds=""
+              s:id="{09A5B06F-A291-4BC8-8851-CC3FBB8D885D}"
+              s:ph="main" />
+            <r
+              uid="{C87DCFD1-38B8-42DF-8D92-844AF84BD9E1}"
+              p:after="r[@uid='{BC30060D-4A58-4415-ACB6-530AC86EB022}']"
+              s:ds="{DB7BAB29-A94C-445B-B541-5C88B4C85EB8}"
+              s:id="{C3DD97A2-2C6B-4FDA-922C-7127AE10C976}"
+              s:ph="main" />
+            <r
+              uid="{750C233B-072A-4978-8A96-3E693D7AA735}"
+              p:after="r[@uid='{C87DCFD1-38B8-42DF-8D92-844AF84BD9E1}']"
+              s:ds="{033AF9A9-DAD6-4B2D-B408-0C0F771283E7}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="main" />
+            <r
+              uid="{6DFC42E8-9918-4258-8721-1FEDBF6E1BCF}"
+              p:after="r[@uid='{750C233B-072A-4978-8A96-3E693D7AA735}']"
+              s:ds="{6704A182-B7FC-432B-B9B1-A1BD09548AAA}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:ph="main" />
+            <r
+              uid="{82B1DBED-32D6-4EB4-B92E-3535C80070C5}"
+              p:after="r[@uid='{6DFC42E8-9918-4258-8721-1FEDBF6E1BCF}']"
+              s:ds="{B8B77A4A-DFED-45AA-AA2F-4F82A0CDB39A}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{A9656C48-C515-440B-86B1-7EABDF833C50}"
+              p:after="r[@uid='{82B1DBED-32D6-4EB4-B92E-3535C80070C5}']"
+              s:id="{6932DD17-1CD9-4D03-93B7-3C0A92EB8229}"
+              s:ph="main" />
+            <r
+              uid="{B8FD3EAF-2CB7-4970-B1FB-4B1F9720BF1B}"
+              p:after="r[@uid='{A9656C48-C515-440B-86B1-7EABDF833C50}']"
+              s:ds="{F3794FDD-4091-487A-8874-FAE4AB9F4B4C}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{81CAFEBE-1975-40B1-9137-174C965238BD}"
+              p:after="r[@uid='{B8FD3EAF-2CB7-4970-B1FB-4B1F9720BF1B}']"
+              s:id="{5266AC57-9C33-41AF-B32D-D935FB8DC1F3}"
+              s:ph="main" />
+            <r
+              uid="{6A036DD9-65A6-487C-BA73-B73EB15FF17C}"
+              p:after="r[@uid='{81CAFEBE-1975-40B1-9137-174C965238BD}']"
+              s:ds="{298550D4-2C1A-4268-969C-E0E6A84575B5}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{F9A50576-A357-4F0A-B410-BEF6CD9A854B}"
+              p:after="r[@uid='{6A036DD9-65A6-487C-BA73-B73EB15FF17C}']"
+              s:ds="{33758C18-B6FA-4ADE-89AF-C0917E6E3ADE}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{7DE93958-06C1-4F65-8273-694CDEB4C36A}"
+              p:after="r[@uid='{F9A50576-A357-4F0A-B410-BEF6CD9A854B}']"
+              s:ds="{9032DB42-D057-4C60-A120-A51CB80DBB6E}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{29FB2D43-AB9B-457E-9957-306FE4C521C1}"
+              p:after="r[@uid='{7DE93958-06C1-4F65-8273-694CDEB4C36A}']"
+              s:ds="{96F1A9D2-9456-4D9F-9B52-2E411DC07103}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{8C4F81AA-8FC5-4901-9DDB-95791E7E3981}"
+              p:after="r[@uid='{29FB2D43-AB9B-457E-9957-306FE4C521C1}']"
+              s:ds="{DF7E7851-6E67-4BBC-A2E6-3D3CAD72C769}"
+              s:id="{541C8841-7802-4878-BBC4-5B3AC533A4BA}"
+              s:ph="main" />
+            <r
+              uid="{AA15F926-75AC-47B5-84F5-E7D725EA3790}"
+              p:after="r[@uid='{8C4F81AA-8FC5-4901-9DDB-95791E7E3981}']"
+              s:ds="{3F5B10D3-471E-4290-A444-905C1249B359}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{363A605C-6C6B-45A7-BB49-8E5624BB333A}"
+              p:after="r[@uid='{AA15F926-75AC-47B5-84F5-E7D725EA3790}']"
+              s:ds="{2806BEDE-0867-40FE-9DCF-921170298CBB}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{33223F84-751D-4EF7-A051-4680E931C71F}"
+              p:after="*[1=2]"
+              s:ds="{BE3E3EF7-24EE-45DE-9585-A20692B0A0B7}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Renewable Energy
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Staying true to our roots while continuing to evolve, NOV helps our customers produce energy no matter the source.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Energy Transition
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220407T201232Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Energy Transition
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Energy Transition
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{781D7667-C3B9-4A8E-967F-FA60B00AC7A0}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Energy Transition
+    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
+      Hint: Search Result Text
+      Value: Energy Transition
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "34091095-2c0f-46e8-9584-fbd55bc05379"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{894AD693-62BC-4D0F-8E34-42401EBEF1F3}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Renewable Energy
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\varalakshmi.md@horizontal.com
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Staying true to our roots while continuing to evolve, NOV helps our customers produce energy no matter the source.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20220407T201232Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{781D7667-C3B9-4A8E-967F-FA60B00AC7A0}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230725T095016Z
+    - ID: "da134e40-cb02-4645-9846-115fb9a5aeca"
+      Hint: capability
+      Value: "{F970DC74-7ED1-4ECD-8547-D253F21FFDC6}"
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{781D7667-C3B9-4A8E-967F-FA60B00AC7A0}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />

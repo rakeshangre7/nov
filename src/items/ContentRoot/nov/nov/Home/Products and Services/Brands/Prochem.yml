@@ -1,0 +1,707 @@
+﻿---
+ID: "eaf07300-e304-44a9-a1d5-04d84d1a1609"
+Parent: "b6e77496-7bee-48dc-9afb-11df7eacc15a"
+Template: "767fef1e-1eb7-417d-93c6-ca72cac21a26"
+Path: /sitecore/content/nov/nov/Home/Products and Services/Brands/Prochem
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}"
+          s:ds="{1BDF9ABD-9AA4-4C1B-A39F-26CE261E97BE}" />
+        <r
+          uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}"
+          s:ds="{0FEDEE81-37A2-41A5-AB98-BA3B09E1C0F9}" />
+        <r
+          uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}"
+          s:ds="{D0AEC81E-B37F-49B5-A15C-D9A95C6AED5D}" />
+      </d>
+    </r>
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01fd8c23-1b98-4e4b-9f2d-ecf3eb8aad68"
+      Hint: businessUnits
+      Value: "{424899CB-AF39-4DD1-9B7A-A18B0152D8EC}"
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}">
+              <p:d />
+            </r>
+            <r
+              uid="{3F94459F-580E-478C-AF58-1F6F8D07C8A9}">
+              <p:d />
+            </r>
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+            <r
+              uid="{FD20FDEE-F1E5-4377-AF04-EA78E73BBD47}"
+              p:before="*"
+              s:ds=""
+              s:id="{9CA51EAB-92E4-4A77-8B48-966774577172}"
+              s:par="Add Gradient=1"
+              s:ph="/main/product-hero-{8E29BF13-76D5-4976-A63C-F78CCF13B3C0}-0" />
+            <r
+              uid="{8E29BF13-76D5-4976-A63C-F78CCF13B3C0}"
+              p:after="r[@uid='{FD20FDEE-F1E5-4377-AF04-EA78E73BBD47}']"
+              s:ds="{DB7BAB29-A94C-445B-B541-5C88B4C85EB8}"
+              s:id="{C3DD97A2-2C6B-4FDA-922C-7127AE10C976}"
+              s:ph="main" />
+            <r
+              uid="{D33FB757-75BB-4248-8B18-A97DAD0A88B6}"
+              p:after="r[@uid='{8E29BF13-76D5-4976-A63C-F78CCF13B3C0}']"
+              s:ds="{BF25EB1B-899E-446C-B8AC-984848314626}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{EB8505E0-19C9-4EAC-8FCE-74D6BD303097}"
+              p:after="r[@uid='{D33FB757-75BB-4248-8B18-A97DAD0A88B6}']"
+              s:ds="{DB384F6E-8859-4747-8B90-F9CD6ECE61ED}"
+              s:id="{A22722F6-65DF-4574-B659-191957028C9B}"
+              s:ph="main" />
+            <r
+              uid="{D62FF7EB-70A8-4C98-8763-682157E4CDBA}"
+              p:after="r[@uid='{EB8505E0-19C9-4EAC-8FCE-74D6BD303097}']"
+              s:ds="{BB332A10-0927-48CA-AE43-52AC2A7EE119}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{A5788CDE-CC57-42BB-96EB-9369292A88BF}"
+              p:after="r[@uid='{D62FF7EB-70A8-4C98-8763-682157E4CDBA}']"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{44AA8DAE-9022-4E26-9A7A-345689488A96}"
+              p:after="r[@uid='{A5788CDE-CC57-42BB-96EB-9369292A88BF}']"
+              s:ds="{425585C8-25E1-461E-98CF-16832679D867}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{7846E10B-7690-4B5F-8BA2-2C8CFE3E02C7}"
+              p:after="r[@uid='{44AA8DAE-9022-4E26-9A7A-345689488A96}']"
+              s:ds="{9B6BBE58-2A94-4C32-9E50-BA4E1EE29959}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{4C7B671E-7E52-45C1-9370-AC503F97732B}"
+              p:after="r[@uid='{7846E10B-7690-4B5F-8BA2-2C8CFE3E02C7}']"
+              s:ds="{318492CC-A891-4E5C-A9BC-947A05E431BC}"
+              s:id="{404FE8DE-C601-4E14-8D3D-32F27B41D06D}"
+              s:ph="main" />
+            <r
+              uid="{45908807-7323-463D-B7AF-E1F2B13297AC}"
+              p:after="*[1=2]"
+              s:ds="{152AF4E0-BFF3-4400-A330-EF0E69000E7D}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Prochem
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Trusted, reliable solutions to your mixing challenges</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Prochem Belt Driven Mixers
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220112T175236Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Prochem
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Prochem
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{ABA9E56C-0FCE-464D-8E09-DB375CDF20D8}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Prochem
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e1907fa5-039b-42cc-87ac-5bf7efa83ccc"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{EA155798-89F9-42A8-A18A-1921664D1E01}"
+    - ID: "b0d622b7-156a-4f17-9ce4-4dd213df0302"
+      Hint: Date
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Trusted, reliable solutions to your mixing challenges
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{DCF4FD73-954F-4760-A6F8-5D474FE98E81}" cropregion="0,87,1920,1191" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220120T203410Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{DCF4FD73-954F-4760-A6F8-5D474FE98E81}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" />
+    - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
+      Hint: brand
+      Value: "{F1D78268-35C6-4414-A76F-D38F6D9BE5FA}"
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01fd8c23-1b98-4e4b-9f2d-ecf3eb8aad68"
+      Hint: businessUnits
+      Value: "{424899CB-AF39-4DD1-9B7A-A18B0152D8EC}"
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}">
+              <p:d />
+            </r>
+            <r
+              uid="{3F94459F-580E-478C-AF58-1F6F8D07C8A9}">
+              <p:d />
+            </r>
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+            <r
+              uid="{FD20FDEE-F1E5-4377-AF04-EA78E73BBD47}"
+              p:before="*"
+              s:ds=""
+              s:id="{9CA51EAB-92E4-4A77-8B48-966774577172}"
+              s:par="Add Gradient=1"
+              s:ph="/main/product-hero-{8E29BF13-76D5-4976-A63C-F78CCF13B3C0}-0" />
+            <r
+              uid="{8E29BF13-76D5-4976-A63C-F78CCF13B3C0}"
+              p:after="r[@uid='{FD20FDEE-F1E5-4377-AF04-EA78E73BBD47}']"
+              s:ds="{DB7BAB29-A94C-445B-B541-5C88B4C85EB8}"
+              s:id="{C3DD97A2-2C6B-4FDA-922C-7127AE10C976}"
+              s:ph="main" />
+            <r
+              uid="{D33FB757-75BB-4248-8B18-A97DAD0A88B6}"
+              p:after="r[@uid='{8E29BF13-76D5-4976-A63C-F78CCF13B3C0}']"
+              s:ds="{BF25EB1B-899E-446C-B8AC-984848314626}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{EB8505E0-19C9-4EAC-8FCE-74D6BD303097}"
+              p:after="r[@uid='{D33FB757-75BB-4248-8B18-A97DAD0A88B6}']"
+              s:ds="{DB384F6E-8859-4747-8B90-F9CD6ECE61ED}"
+              s:id="{A22722F6-65DF-4574-B659-191957028C9B}"
+              s:ph="main" />
+            <r
+              uid="{D62FF7EB-70A8-4C98-8763-682157E4CDBA}"
+              p:after="r[@uid='{EB8505E0-19C9-4EAC-8FCE-74D6BD303097}']"
+              s:ds="{BB332A10-0927-48CA-AE43-52AC2A7EE119}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{A5788CDE-CC57-42BB-96EB-9369292A88BF}"
+              p:after="r[@uid='{D62FF7EB-70A8-4C98-8763-682157E4CDBA}']"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{44AA8DAE-9022-4E26-9A7A-345689488A96}"
+              p:after="r[@uid='{A5788CDE-CC57-42BB-96EB-9369292A88BF}']"
+              s:ds="{425585C8-25E1-461E-98CF-16832679D867}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{7846E10B-7690-4B5F-8BA2-2C8CFE3E02C7}"
+              p:after="r[@uid='{44AA8DAE-9022-4E26-9A7A-345689488A96}']"
+              s:ds="{9B6BBE58-2A94-4C32-9E50-BA4E1EE29959}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{4C7B671E-7E52-45C1-9370-AC503F97732B}"
+              p:after="r[@uid='{7846E10B-7690-4B5F-8BA2-2C8CFE3E02C7}']"
+              s:ds="{318492CC-A891-4E5C-A9BC-947A05E431BC}"
+              s:id="{404FE8DE-C601-4E14-8D3D-32F27B41D06D}"
+              s:ph="main" />
+            <r
+              uid="{45908807-7323-463D-B7AF-E1F2B13297AC}"
+              p:after="*[1=2]"
+              s:ds="{152AF4E0-BFF3-4400-A330-EF0E69000E7D}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Prochem
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Trusted, reliable solutions to your mixing challenges</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Prochem Belt Driven Mixers
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220126T153211Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Prochem
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Prochem
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{ABA9E56C-0FCE-464D-8E09-DB375CDF20D8}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Prochem
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7990b71c-5653-4cef-b2d0-7697bb7fa2f6"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{EA155798-89F9-42A8-A18A-1921664D1E01}"
+    - ID: "b0d622b7-156a-4f17-9ce4-4dd213df0302"
+      Hint: Date
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Trusted, reliable solutions to your mixing challenges
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20220126T153211Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{DCF4FD73-954F-4760-A6F8-5D474FE98E81}" cropregion="0,87,1920,1191" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220126T154108Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{1B1A1294-BB6C-4F55-B96B-9A40454B4E47}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+    - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
+      Hint: brand
+      Value: "{F1D78268-35C6-4414-A76F-D38F6D9BE5FA}"
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01fd8c23-1b98-4e4b-9f2d-ecf3eb8aad68"
+      Hint: businessUnits
+      Value: "{424899CB-AF39-4DD1-9B7A-A18B0152D8EC}"
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}">
+              <p:d />
+            </r>
+            <r
+              uid="{3F94459F-580E-478C-AF58-1F6F8D07C8A9}">
+              <p:d />
+            </r>
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+            <r
+              uid="{FD20FDEE-F1E5-4377-AF04-EA78E73BBD47}"
+              p:before="*"
+              s:ds=""
+              s:id="{9CA51EAB-92E4-4A77-8B48-966774577172}"
+              s:par="Add Gradient=1"
+              s:ph="/main/product-hero-{8E29BF13-76D5-4976-A63C-F78CCF13B3C0}-0" />
+            <r
+              uid="{8E29BF13-76D5-4976-A63C-F78CCF13B3C0}"
+              p:after="r[@uid='{FD20FDEE-F1E5-4377-AF04-EA78E73BBD47}']"
+              s:ds="{DB7BAB29-A94C-445B-B541-5C88B4C85EB8}"
+              s:id="{C3DD97A2-2C6B-4FDA-922C-7127AE10C976}"
+              s:ph="main" />
+            <r
+              uid="{D33FB757-75BB-4248-8B18-A97DAD0A88B6}"
+              p:after="r[@uid='{8E29BF13-76D5-4976-A63C-F78CCF13B3C0}']"
+              s:ds="{BF25EB1B-899E-446C-B8AC-984848314626}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{EB8505E0-19C9-4EAC-8FCE-74D6BD303097}"
+              p:after="r[@uid='{D33FB757-75BB-4248-8B18-A97DAD0A88B6}']"
+              s:ds="{DB384F6E-8859-4747-8B90-F9CD6ECE61ED}"
+              s:id="{A22722F6-65DF-4574-B659-191957028C9B}"
+              s:ph="main" />
+            <r
+              uid="{D62FF7EB-70A8-4C98-8763-682157E4CDBA}"
+              p:after="r[@uid='{EB8505E0-19C9-4EAC-8FCE-74D6BD303097}']"
+              s:ds="{BB332A10-0927-48CA-AE43-52AC2A7EE119}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{A5788CDE-CC57-42BB-96EB-9369292A88BF}"
+              p:after="r[@uid='{D62FF7EB-70A8-4C98-8763-682157E4CDBA}']"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{44AA8DAE-9022-4E26-9A7A-345689488A96}"
+              p:after="r[@uid='{A5788CDE-CC57-42BB-96EB-9369292A88BF}']"
+              s:ds="{425585C8-25E1-461E-98CF-16832679D867}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{7846E10B-7690-4B5F-8BA2-2C8CFE3E02C7}"
+              p:after="r[@uid='{44AA8DAE-9022-4E26-9A7A-345689488A96}']"
+              s:ds="{9B6BBE58-2A94-4C32-9E50-BA4E1EE29959}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{4C7B671E-7E52-45C1-9370-AC503F97732B}"
+              p:after="r[@uid='{7846E10B-7690-4B5F-8BA2-2C8CFE3E02C7}']"
+              s:ds="{318492CC-A891-4E5C-A9BC-947A05E431BC}"
+              s:id="{404FE8DE-C601-4E14-8D3D-32F27B41D06D}"
+              s:ph="main" />
+            <r
+              uid="{45908807-7323-463D-B7AF-E1F2B13297AC}"
+              p:after="*[1=2]"
+              s:ds="{152AF4E0-BFF3-4400-A330-EF0E69000E7D}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Prochem
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Trusted, reliable solutions to your mixing challenges</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Prochem Belt Driven Mixers
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220126T170326Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Prochem
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Prochem
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{ABA9E56C-0FCE-464D-8E09-DB375CDF20D8}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Prochem
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ee5ee10b-56fb-407a-a238-a31db927a4c8"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{EA155798-89F9-42A8-A18A-1921664D1E01}"
+    - ID: "b0d622b7-156a-4f17-9ce4-4dd213df0302"
+      Hint: Date
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Trusted, reliable solutions to your mixing challenges
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20220126T170326Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{1B1A1294-BB6C-4F55-B96B-9A40454B4E47}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220126T170405Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{1B1A1294-BB6C-4F55-B96B-9A40454B4E47}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+    - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
+      Hint: brand
+      Value: "{F1D78268-35C6-4414-A76F-D38F6D9BE5FA}"
+  - Version: 4
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01fd8c23-1b98-4e4b-9f2d-ecf3eb8aad68"
+      Hint: businessUnits
+      Value: "{424899CB-AF39-4DD1-9B7A-A18B0152D8EC}"
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}">
+              <p:d />
+            </r>
+            <r
+              uid="{3F94459F-580E-478C-AF58-1F6F8D07C8A9}">
+              <p:d />
+            </r>
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+            <r
+              uid="{FD20FDEE-F1E5-4377-AF04-EA78E73BBD47}"
+              p:before="*"
+              s:ds=""
+              s:id="{9CA51EAB-92E4-4A77-8B48-966774577172}"
+              s:par="Add Gradient=1"
+              s:ph="/main/product-hero-{8E29BF13-76D5-4976-A63C-F78CCF13B3C0}-0" />
+            <r
+              uid="{8E29BF13-76D5-4976-A63C-F78CCF13B3C0}"
+              p:after="r[@uid='{FD20FDEE-F1E5-4377-AF04-EA78E73BBD47}']"
+              s:ds="{DB7BAB29-A94C-445B-B541-5C88B4C85EB8}"
+              s:id="{C3DD97A2-2C6B-4FDA-922C-7127AE10C976}"
+              s:ph="main" />
+            <r
+              uid="{D33FB757-75BB-4248-8B18-A97DAD0A88B6}"
+              p:after="r[@uid='{8E29BF13-76D5-4976-A63C-F78CCF13B3C0}']"
+              s:ds="{BF25EB1B-899E-446C-B8AC-984848314626}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{EB8505E0-19C9-4EAC-8FCE-74D6BD303097}"
+              p:after="r[@uid='{D33FB757-75BB-4248-8B18-A97DAD0A88B6}']"
+              s:ds="{2BA142D6-714F-46F1-8DFD-530F9427EEDF}"
+              s:id="{A22722F6-65DF-4574-B659-191957028C9B}"
+              s:par=""
+              s:ph="main" />
+            <r
+              uid="{D62FF7EB-70A8-4C98-8763-682157E4CDBA}"
+              p:after="r[@uid='{EB8505E0-19C9-4EAC-8FCE-74D6BD303097}']"
+              s:ds="{BB332A10-0927-48CA-AE43-52AC2A7EE119}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{A5788CDE-CC57-42BB-96EB-9369292A88BF}"
+              p:after="r[@uid='{D62FF7EB-70A8-4C98-8763-682157E4CDBA}']"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{44AA8DAE-9022-4E26-9A7A-345689488A96}"
+              p:after="r[@uid='{A5788CDE-CC57-42BB-96EB-9369292A88BF}']"
+              s:ds="{425585C8-25E1-461E-98CF-16832679D867}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{7846E10B-7690-4B5F-8BA2-2C8CFE3E02C7}"
+              p:after="r[@uid='{44AA8DAE-9022-4E26-9A7A-345689488A96}']"
+              s:ds="{9B6BBE58-2A94-4C32-9E50-BA4E1EE29959}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{4C7B671E-7E52-45C1-9370-AC503F97732B}"
+              p:after="r[@uid='{7846E10B-7690-4B5F-8BA2-2C8CFE3E02C7}']"
+              s:ds="{318492CC-A891-4E5C-A9BC-947A05E431BC}"
+              s:id="{404FE8DE-C601-4E14-8D3D-32F27B41D06D}"
+              s:ph="main" />
+            <r
+              uid="{45908807-7323-463D-B7AF-E1F2B13297AC}"
+              p:after="*[1=2]"
+              s:ds="{D716B1A8-F2FB-49CA-B9DB-CAAC03B6B0CB}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:par=""
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Prochem
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Trusted, reliable solutions to your mixing challenges</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Prochem Belt Driven Mixers
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220222T212448Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Prochem
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Prochem
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{ABA9E56C-0FCE-464D-8E09-DB375CDF20D8}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Prochem
+    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
+      Hint: Search Result Text
+      Value: "Brand: Prochem Belt Driven Mixers"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b93040df-b022-44d8-916c-a464ddda5aff"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{EA155798-89F9-42A8-A18A-1921664D1E01}"
+    - ID: "b0d622b7-156a-4f17-9ce4-4dd213df0302"
+      Hint: Date
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Trusted, reliable solutions to your mixing challenges
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20220222T212448Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{1B1A1294-BB6C-4F55-B96B-9A40454B4E47}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220325T140426Z
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: prochem
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{1B1A1294-BB6C-4F55-B96B-9A40454B4E47}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+    - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
+      Hint: brand
+      Value: "{F1D78268-35C6-4414-A76F-D38F6D9BE5FA}"

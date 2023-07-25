@@ -1,0 +1,1713 @@
+﻿---
+ID: "7e7560de-a79d-4361-983e-f2ded2b8aa40"
+Parent: "b6e77496-7bee-48dc-9afb-11df7eacc15a"
+Template: "767fef1e-1eb7-417d-93c6-ca72cac21a26"
+Path: /sitecore/content/nov/nov/Home/Products and Services/Brands/Ameron
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{8ACA882E-6965-4D70-B801-4C7C6E15AB1A}" />
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{FACBA3F3-85B3-44D2-B4A2-3223CFDFC6E4}"
+              p:after="r[@uid='{3F94459F-580E-478C-AF58-1F6F8D07C8A9}']"
+              s:ds="{7B0E8113-790A-4CD0-BF32-695F0EF33FF1}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{908B0358-317C-4574-BE9E-2F0C6EB46008}"
+              p:after="*[1=2]"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Ameron
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: "<p>Ameron has been bringing you industry-leading spun-cast concrete, steel, and fiberglass poles for more than 75 years.</p>"
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Ameron
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190517T165117Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Ameron
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Ameron
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mecoreyna
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Ameron
+    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
+      Hint: Search Result Text
+      Value: "Brand: Ameron"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bc6f1d29-c296-49b9-a03d-d19a870cf12b"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{EA155798-89F9-42A8-A18A-1921664D1E01}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mecoreyna
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "Ameron has been bringing you industry-leading spun-cast concrete, steel, and fiberglass poles for more than 75 years."
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190517T165117Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{A13C849D-C765-45D7-A2F2-86048BE95903}" cropregion="0,160,1920,1262" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190520T154157Z
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: Ameron, poles, fiberglass poles, concrete poles, steel poles
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{A13C849D-C765-45D7-A2F2-86048BE95903}" cropregion="0,204,1920,1283" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+    - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
+      Hint: brand
+      Value: "{C53337CE-984D-45E8-BB11-A285E395BFE9}"
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{FACBA3F3-85B3-44D2-B4A2-3223CFDFC6E4}"
+              p:after="r[@uid='{3F94459F-580E-478C-AF58-1F6F8D07C8A9}']"
+              s:ds="{7B0E8113-790A-4CD0-BF32-695F0EF33FF1}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{908B0358-317C-4574-BE9E-2F0C6EB46008}"
+              p:after="*[1=2]"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Ameron
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: "<p>Ameron has been bringing you industry-leading spun-cast concrete, steel, and fiberglass poles for more than 75 years.</p>"
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Ameron
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190520T154210Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Ameron
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Ameron
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mecoreyna
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Ameron
+    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
+      Hint: Search Result Text
+      Value: "Brand: Ameron"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "80481956-9f01-4313-9df8-0b652dd7c274"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{EA155798-89F9-42A8-A18A-1921664D1E01}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mecoreyna
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "Ameron has been bringing you industry-leading spun-cast concrete, steel, and fiberglass poles for more than 75 years."
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190520T154210Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{A13C849D-C765-45D7-A2F2-86048BE95903}" cropregion="0,160,1920,1262" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190520T154235Z
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: Ameron, poles, fiberglass poles, concrete poles, steel poles
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{A13C849D-C765-45D7-A2F2-86048BE95903}" cropregion="0,204,1920,1283" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+    - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
+      Hint: brand
+      Value: "{C53337CE-984D-45E8-BB11-A285E395BFE9}"
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{FACBA3F3-85B3-44D2-B4A2-3223CFDFC6E4}"
+              p:after="r[@uid='{3F94459F-580E-478C-AF58-1F6F8D07C8A9}']"
+              s:ds="{7B0E8113-790A-4CD0-BF32-695F0EF33FF1}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{908B0358-317C-4574-BE9E-2F0C6EB46008}"
+              p:after="*[1=2]"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Ameron
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: "<p>Ameron has been bringing you industry-leading spun-cast concrete, steel, and fiberglass poles for more than 75 years.</p>"
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Ameron
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190604T193606Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Ameron
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Ameron
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joannazhu
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Ameron
+    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
+      Hint: Search Result Text
+      Value: "Brand: Ameron"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1941578b-e134-4eb3-88ca-505bd2bdfdb8"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{EA155798-89F9-42A8-A18A-1921664D1E01}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\joannazhu
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "Ameron has been bringing you industry-leading spun-cast concrete, steel, and fiberglass poles for more than 75 years."
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190604T193606Z
+    - ID: "d4431923-68cf-42a0-a27e-db945d791fdb"
+      Hint: Canonical URL
+      Value: "https://www.nov.com/products-and-services/brands/ameron"
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{A13C849D-C765-45D7-A2F2-86048BE95903}" cropregion="0,160,1920,1262" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190604T193649Z
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: Ameron, poles, fiberglass poles, concrete poles, steel poles
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{A13C849D-C765-45D7-A2F2-86048BE95903}" cropregion="0,204,1920,1283" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+    - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
+      Hint: brand
+      Value: "{C53337CE-984D-45E8-BB11-A285E395BFE9}"
+  - Version: 4
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{FACBA3F3-85B3-44D2-B4A2-3223CFDFC6E4}"
+              p:after="r[@uid='{3F94459F-580E-478C-AF58-1F6F8D07C8A9}']"
+              s:ds="{7B0E8113-790A-4CD0-BF32-695F0EF33FF1}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{908B0358-317C-4574-BE9E-2F0C6EB46008}"
+              p:after="*[1=2]"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Ameron
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: "<p>Ameron has been bringing you industry-leading spun-cast concrete, steel, and fiberglass poles for more than 75 years.</p>"
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Ameron
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190606T191920Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Ameron
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Ameron
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Ameron
+    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
+      Hint: Search Result Text
+      Value: "Brand: Ameron"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e4650473-4d75-42f2-9a8c-5c9edaab9163"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{EA155798-89F9-42A8-A18A-1921664D1E01}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\adminrschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "Ameron has been bringing you industry-leading spun-cast concrete, steel, and fiberglass poles for more than 75 years."
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190606T191920Z
+    - ID: "d4431923-68cf-42a0-a27e-db945d791fdb"
+      Hint: Canonical URL
+      Value: "https://www.nov.com/products-and-services/brands/ameron"
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{A13C849D-C765-45D7-A2F2-86048BE95903}" cropregion="0,160,1920,1262" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210422T010353Z
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: Ameron, poles, fiberglass poles, concrete poles, steel poles
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{A13C849D-C765-45D7-A2F2-86048BE95903}" cropregion="0,204,1920,1283" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+    - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
+      Hint: brand
+      Value: "{C53337CE-984D-45E8-BB11-A285E395BFE9}"
+  - Version: 5
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: |
+        <r owner="sitecore\rainerschuhsler" date="20211029T202908Z" />
+    - ID: "01fd8c23-1b98-4e4b-9f2d-ecf3eb8aad68"
+      Hint: businessUnits
+      Value: "{0690BF20-2098-4102-807F-40AADB887C56}"
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}">
+              <p:d />
+            </r>
+            <r
+              uid="{3F94459F-580E-478C-AF58-1F6F8D07C8A9}">
+              <p:d />
+            </r>
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+            <r
+              uid="{5EA9750F-97AA-4109-A1B7-1EB280F10DF8}"
+              p:before="*"
+              s:ds="{25848072-C7CA-4540-A553-9C2B1A99915E}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{2DA5D661-F8FE-4440-8F38-64C2799B0ABE}"
+              p:after="r[@uid='{5EA9750F-97AA-4109-A1B7-1EB280F10DF8}']"
+              s:ds=""
+              s:id="{9CA51EAB-92E4-4A77-8B48-966774577172}"
+              s:par="Add Gradient=1"
+              s:ph="/main/product-hero-{4555D7C6-6A25-4D9B-B288-8BE9CF8A85CA}-0" />
+            <r
+              uid="{4555D7C6-6A25-4D9B-B288-8BE9CF8A85CA}"
+              p:after="r[@uid='{2DA5D661-F8FE-4440-8F38-64C2799B0ABE}']"
+              s:ds="{DB7BAB29-A94C-445B-B541-5C88B4C85EB8}"
+              s:id="{C3DD97A2-2C6B-4FDA-922C-7127AE10C976}"
+              s:ph="main" />
+            <r
+              uid="{26862BB8-06E3-4E6B-9328-27765484E884}"
+              p:after="r[@uid='{4555D7C6-6A25-4D9B-B288-8BE9CF8A85CA}']"
+              s:ds="{F2DE9255-FA7E-4ACA-89BB-1264DBA17129}"
+              s:id="{A22722F6-65DF-4574-B659-191957028C9B}"
+              s:ph="main" />
+            <r
+              uid="{F12FACC8-D679-4F67-A44C-1B4541177AB8}"
+              p:after="r[@uid='{26862BB8-06E3-4E6B-9328-27765484E884}']"
+              s:ds="{7B0E8113-790A-4CD0-BF32-695F0EF33FF1}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{B0CD956B-B7B6-4DCA-9BE5-FD52CD50E9D5}"
+              p:after="r[@uid='{F12FACC8-D679-4F67-A44C-1B4541177AB8}']"
+              s:ds="{BF03C11B-0233-4EAD-AF12-3A3CDBC3393D}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{B7A269EF-32BD-4D9E-BD60-5C4211E5BD3F}"
+              p:after="r[@uid='{B0CD956B-B7B6-4DCA-9BE5-FD52CD50E9D5}']"
+              s:ds="{4A99439D-3D28-4601-8410-8AE1C63EEFC0}"
+              s:id="{D6F7B1A2-D9A1-4301-85D8-64731201F85B}"
+              s:ph="main" />
+            <r
+              uid="{887CCF84-AEAB-45FB-8572-78BB45D6B6F0}"
+              p:after="r[@uid='{B7A269EF-32BD-4D9E-BD60-5C4211E5BD3F}']"
+              s:ds="{FCC3AC46-CBCC-4D3D-AE34-1F9BCECD84CD}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{622A92A1-CE4F-43A4-9890-448728C76890}"
+              p:after="r[@uid='{887CCF84-AEAB-45FB-8572-78BB45D6B6F0}']"
+              s:ds="{65F390AF-D157-4295-98E0-5C2DD78F1A59}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{34E224F9-03F0-4CAE-9B0D-C6833A387926}"
+              p:after="r[@uid='{622A92A1-CE4F-43A4-9890-448728C76890}']"
+              s:ds="{45A65C55-86F0-41EF-8BE2-7AB6D3C3D7A0}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{908B0358-317C-4574-BE9E-2F0C6EB46008}"
+              p:after="r[@uid='{34E224F9-03F0-4CAE-9B0D-C6833A387926}']"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{A4F86B8B-9737-453D-8288-8F1C05B1388E}"
+              p:after="r[@uid='{908B0358-317C-4574-BE9E-2F0C6EB46008}']"
+              s:ds="{8FACAC91-B8C6-46F0-8A04-D1D0E9D5FDEC}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{51114F60-62A9-4921-A2AD-9E68D623F841}"
+              p:after="r[@uid='{A4F86B8B-9737-453D-8288-8F1C05B1388E}']"
+              s:ds="{9FA55EEC-7176-4900-83B8-D7CAAA952694}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:ph="main" />
+            <r
+              uid="{82860FBE-9022-4DC1-9D87-93A9CFA73786}"
+              p:after="*[1=2]"
+              s:ds="{6E13FDA5-2F69-4BF2-A7FA-CB99B0FE4D22}"
+              s:id="{8811D96E-0023-4E45-BF2A-E9827DB7E4BB}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Ameron
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: "<p>We have been bringing you industry-leading spun-cast concrete, steel, and fiberglass poles for more than 75 years.</p>"
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Ameron
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210511T163406Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Ameron
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{40251B7D-FBE3-4A0E-8947-D4B4FE8CD782}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Ameron
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{A13C849D-C765-45D7-A2F2-86048BE95903}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{ABA9E56C-0FCE-464D-8E09-DB375CDF20D8}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Ameron
+    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
+      Hint: Search Result Text
+      Value: "Brand: Ameron"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "11bad2b9-10fd-459d-8a87-ede4f7ad5ac9"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{EA155798-89F9-42A8-A18A-1921664D1E01}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "Ameron has been bringing you industry-leading spun-cast concrete, steel, and fiberglass poles for more than 75 years.​"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20210511T163406Z
+    - ID: "d4431923-68cf-42a0-a27e-db945d791fdb"
+      Hint: Canonical URL
+      Value: 
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{A13C849D-C765-45D7-A2F2-86048BE95903}" cropregion="0,160,1920,1262" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20211029T202908Z
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: Ameron, poles, fiberglass poles, concrete poles, steel poles
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{A13C849D-C765-45D7-A2F2-86048BE95903}" cropregion="0,204,1920,1283" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+    - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
+      Hint: brand
+      Value: "{C53337CE-984D-45E8-BB11-A285E395BFE9}"
+  - Version: 6
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01fd8c23-1b98-4e4b-9f2d-ecf3eb8aad68"
+      Hint: businessUnits
+      Value: "{0690BF20-2098-4102-807F-40AADB887C56}"
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}">
+              <p:d />
+            </r>
+            <r
+              uid="{3F94459F-580E-478C-AF58-1F6F8D07C8A9}">
+              <p:d />
+            </r>
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+            <r
+              uid="{5EA9750F-97AA-4109-A1B7-1EB280F10DF8}"
+              p:before="*"
+              s:ds="{25848072-C7CA-4540-A553-9C2B1A99915E}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{2DA5D661-F8FE-4440-8F38-64C2799B0ABE}"
+              p:after="r[@uid='{5EA9750F-97AA-4109-A1B7-1EB280F10DF8}']"
+              s:ds=""
+              s:id="{9CA51EAB-92E4-4A77-8B48-966774577172}"
+              s:par="Add Gradient=1"
+              s:ph="/main/product-hero-{4555D7C6-6A25-4D9B-B288-8BE9CF8A85CA}-0" />
+            <r
+              uid="{4555D7C6-6A25-4D9B-B288-8BE9CF8A85CA}"
+              p:after="r[@uid='{2DA5D661-F8FE-4440-8F38-64C2799B0ABE}']"
+              s:ds="{DB7BAB29-A94C-445B-B541-5C88B4C85EB8}"
+              s:id="{C3DD97A2-2C6B-4FDA-922C-7127AE10C976}"
+              s:ph="main" />
+            <r
+              uid="{26862BB8-06E3-4E6B-9328-27765484E884}"
+              p:after="r[@uid='{4555D7C6-6A25-4D9B-B288-8BE9CF8A85CA}']"
+              s:ds="{F2DE9255-FA7E-4ACA-89BB-1264DBA17129}"
+              s:id="{A22722F6-65DF-4574-B659-191957028C9B}"
+              s:ph="main" />
+            <r
+              uid="{F12FACC8-D679-4F67-A44C-1B4541177AB8}"
+              p:after="r[@uid='{26862BB8-06E3-4E6B-9328-27765484E884}']"
+              s:ds="{7B0E8113-790A-4CD0-BF32-695F0EF33FF1}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{887CCF84-AEAB-45FB-8572-78BB45D6B6F0}"
+              p:after="r[@uid='{F12FACC8-D679-4F67-A44C-1B4541177AB8}']"
+              s:ds="{FCC3AC46-CBCC-4D3D-AE34-1F9BCECD84CD}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{622A92A1-CE4F-43A4-9890-448728C76890}"
+              p:after="r[@uid='{887CCF84-AEAB-45FB-8572-78BB45D6B6F0}']"
+              s:ds="{65F390AF-D157-4295-98E0-5C2DD78F1A59}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{34E224F9-03F0-4CAE-9B0D-C6833A387926}"
+              p:after="r[@uid='{622A92A1-CE4F-43A4-9890-448728C76890}']"
+              s:ds="{45A65C55-86F0-41EF-8BE2-7AB6D3C3D7A0}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{908B0358-317C-4574-BE9E-2F0C6EB46008}"
+              p:after="r[@uid='{34E224F9-03F0-4CAE-9B0D-C6833A387926}']"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{A4F86B8B-9737-453D-8288-8F1C05B1388E}"
+              p:after="r[@uid='{908B0358-317C-4574-BE9E-2F0C6EB46008}']"
+              s:ds="{8FACAC91-B8C6-46F0-8A04-D1D0E9D5FDEC}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{51114F60-62A9-4921-A2AD-9E68D623F841}"
+              p:after="r[@uid='{A4F86B8B-9737-453D-8288-8F1C05B1388E}']"
+              s:ds="{9FA55EEC-7176-4900-83B8-D7CAAA952694}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:ph="main" />
+            <r
+              uid="{82860FBE-9022-4DC1-9D87-93A9CFA73786}"
+              p:after="*[1=2]"
+              s:ds="{6E13FDA5-2F69-4BF2-A7FA-CB99B0FE4D22}"
+              s:id="{8811D96E-0023-4E45-BF2A-E9827DB7E4BB}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Ameron
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: "<p>We work diligently to show you how exceptional is the Ameron standard with incomparable products and services. Our industry-leading prestressed, spun-cast concrete, steel, and composite products support modern infrastructure for beautiful, thriving communities. </p>"
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Ameron
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211029T202913Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Ameron
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Ameron
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{A13C849D-C765-45D7-A2F2-86048BE95903}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{ABA9E56C-0FCE-464D-8E09-DB375CDF20D8}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Ameron
+    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
+      Hint: Search Result Text
+      Value: "Brand: Ameron"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5e79d6fe-9e56-4b4b-b167-a51a384a93c4"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{EA155798-89F9-42A8-A18A-1921664D1E01}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "We work diligently to show you how exceptional is the Ameron standard with incomparable products and services. Our industry-leading prestressed, spun-cast concrete, steel, and composite products support modern infrastructure for beautiful, thriving communities. "
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20211029T202913Z
+    - ID: "d4431923-68cf-42a0-a27e-db945d791fdb"
+      Hint: Canonical URL
+      Value: 
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{6A2082F4-918D-4EE9-82C4-EBD0FCBE55DE}" cropregion="0,84,1920,1190" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20211117T151636Z
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: Ameron, poles, fiberglass poles, concrete poles, steel poles
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{6A2082F4-918D-4EE9-82C4-EBD0FCBE55DE}" cropregion="0,46,1920,1125" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+    - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
+      Hint: brand
+      Value: "{C53337CE-984D-45E8-BB11-A285E395BFE9}"
+  - Version: 7
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01fd8c23-1b98-4e4b-9f2d-ecf3eb8aad68"
+      Hint: businessUnits
+      Value: "{0690BF20-2098-4102-807F-40AADB887C56}"
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}">
+              <p:d />
+            </r>
+            <r
+              uid="{3F94459F-580E-478C-AF58-1F6F8D07C8A9}">
+              <p:d />
+            </r>
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+            <r
+              uid="{5EA9750F-97AA-4109-A1B7-1EB280F10DF8}"
+              p:before="*"
+              s:ds="{25848072-C7CA-4540-A553-9C2B1A99915E}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{2DA5D661-F8FE-4440-8F38-64C2799B0ABE}"
+              p:after="r[@uid='{5EA9750F-97AA-4109-A1B7-1EB280F10DF8}']"
+              s:ds=""
+              s:id="{9CA51EAB-92E4-4A77-8B48-966774577172}"
+              s:par="Add Gradient=1"
+              s:ph="/main/product-hero-{4555D7C6-6A25-4D9B-B288-8BE9CF8A85CA}-0" />
+            <r
+              uid="{4555D7C6-6A25-4D9B-B288-8BE9CF8A85CA}"
+              p:after="r[@uid='{2DA5D661-F8FE-4440-8F38-64C2799B0ABE}']"
+              s:ds="{DB7BAB29-A94C-445B-B541-5C88B4C85EB8}"
+              s:id="{C3DD97A2-2C6B-4FDA-922C-7127AE10C976}"
+              s:ph="main" />
+            <r
+              uid="{26862BB8-06E3-4E6B-9328-27765484E884}"
+              p:after="r[@uid='{4555D7C6-6A25-4D9B-B288-8BE9CF8A85CA}']"
+              s:ds="{F2DE9255-FA7E-4ACA-89BB-1264DBA17129}"
+              s:id="{A22722F6-65DF-4574-B659-191957028C9B}"
+              s:ph="main" />
+            <r
+              uid="{F12FACC8-D679-4F67-A44C-1B4541177AB8}"
+              p:after="r[@uid='{26862BB8-06E3-4E6B-9328-27765484E884}']"
+              s:ds="{7B0E8113-790A-4CD0-BF32-695F0EF33FF1}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{887CCF84-AEAB-45FB-8572-78BB45D6B6F0}"
+              p:after="r[@uid='{F12FACC8-D679-4F67-A44C-1B4541177AB8}']"
+              s:ds="{FCC3AC46-CBCC-4D3D-AE34-1F9BCECD84CD}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{622A92A1-CE4F-43A4-9890-448728C76890}"
+              p:after="r[@uid='{887CCF84-AEAB-45FB-8572-78BB45D6B6F0}']"
+              s:ds="{65F390AF-D157-4295-98E0-5C2DD78F1A59}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{34E224F9-03F0-4CAE-9B0D-C6833A387926}"
+              p:after="r[@uid='{622A92A1-CE4F-43A4-9890-448728C76890}']"
+              s:ds="{45A65C55-86F0-41EF-8BE2-7AB6D3C3D7A0}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{908B0358-317C-4574-BE9E-2F0C6EB46008}"
+              p:after="r[@uid='{34E224F9-03F0-4CAE-9B0D-C6833A387926}']"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{A4F86B8B-9737-453D-8288-8F1C05B1388E}"
+              p:after="r[@uid='{908B0358-317C-4574-BE9E-2F0C6EB46008}']"
+              s:ds="{8FACAC91-B8C6-46F0-8A04-D1D0E9D5FDEC}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{51114F60-62A9-4921-A2AD-9E68D623F841}"
+              p:after="r[@uid='{A4F86B8B-9737-453D-8288-8F1C05B1388E}']"
+              s:ds="{9FA55EEC-7176-4900-83B8-D7CAAA952694}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:ph="main" />
+            <r
+              uid="{82860FBE-9022-4DC1-9D87-93A9CFA73786}"
+              p:after="*[1=2]"
+              s:ds="{6E13FDA5-2F69-4BF2-A7FA-CB99B0FE4D22}"
+              s:id="{8811D96E-0023-4E45-BF2A-E9827DB7E4BB}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Ameron
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: "<p>We work diligently to show you how exceptional is the Ameron standard with incomparable products and services. Our industry-leading prestressed, spun-cast concrete, steel, and composite products support modern infrastructure for beautiful, thriving communities. </p>"
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Ameron
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211118T163941Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Ameron
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Ameron
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{A13C849D-C765-45D7-A2F2-86048BE95903}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{ABA9E56C-0FCE-464D-8E09-DB375CDF20D8}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Ameron
+    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
+      Hint: Search Result Text
+      Value: "Brand: Ameron"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "63e3b696-039e-4bb5-a61e-28cbf24efcad"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{EA155798-89F9-42A8-A18A-1921664D1E01}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "We work diligently to show you how exceptional is the Ameron standard with incomparable products and services. Our industry-leading prestressed, spun-cast concrete, steel, and composite products support modern infrastructure for beautiful, thriving communities. "
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20211118T163941Z
+    - ID: "d4431923-68cf-42a0-a27e-db945d791fdb"
+      Hint: Canonical URL
+      Value: 
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{6A2082F4-918D-4EE9-82C4-EBD0FCBE55DE}" cropregion="0,84,1920,1190" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20211122T170355Z
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: Ameron, poles, fiberglass poles, concrete poles, steel poles
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{6A2082F4-918D-4EE9-82C4-EBD0FCBE55DE}" cropregion="0,46,1920,1125" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+    - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
+      Hint: brand
+      Value: "{C53337CE-984D-45E8-BB11-A285E395BFE9}"
+  - Version: 8
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01fd8c23-1b98-4e4b-9f2d-ecf3eb8aad68"
+      Hint: businessUnits
+      Value: "{0690BF20-2098-4102-807F-40AADB887C56}"
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}">
+              <p:d />
+            </r>
+            <r
+              uid="{3F94459F-580E-478C-AF58-1F6F8D07C8A9}">
+              <p:d />
+            </r>
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+            <r
+              uid="{5EA9750F-97AA-4109-A1B7-1EB280F10DF8}"
+              p:before="*"
+              s:ds="{25848072-C7CA-4540-A553-9C2B1A99915E}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{2DA5D661-F8FE-4440-8F38-64C2799B0ABE}"
+              p:after="r[@uid='{5EA9750F-97AA-4109-A1B7-1EB280F10DF8}']"
+              s:ds=""
+              s:id="{9CA51EAB-92E4-4A77-8B48-966774577172}"
+              s:par="Add Gradient=1"
+              s:ph="/main/product-hero-{4555D7C6-6A25-4D9B-B288-8BE9CF8A85CA}-0" />
+            <r
+              uid="{4555D7C6-6A25-4D9B-B288-8BE9CF8A85CA}"
+              p:after="r[@uid='{2DA5D661-F8FE-4440-8F38-64C2799B0ABE}']"
+              s:ds="{DB7BAB29-A94C-445B-B541-5C88B4C85EB8}"
+              s:id="{C3DD97A2-2C6B-4FDA-922C-7127AE10C976}"
+              s:ph="main" />
+            <r
+              uid="{26862BB8-06E3-4E6B-9328-27765484E884}"
+              p:after="r[@uid='{4555D7C6-6A25-4D9B-B288-8BE9CF8A85CA}']"
+              s:ds="{F2DE9255-FA7E-4ACA-89BB-1264DBA17129}"
+              s:id="{A22722F6-65DF-4574-B659-191957028C9B}"
+              s:ph="main" />
+            <r
+              uid="{F12FACC8-D679-4F67-A44C-1B4541177AB8}"
+              p:after="r[@uid='{26862BB8-06E3-4E6B-9328-27765484E884}']"
+              s:ds="{7B0E8113-790A-4CD0-BF32-695F0EF33FF1}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{887CCF84-AEAB-45FB-8572-78BB45D6B6F0}"
+              p:after="r[@uid='{F12FACC8-D679-4F67-A44C-1B4541177AB8}']"
+              s:ds="{FCC3AC46-CBCC-4D3D-AE34-1F9BCECD84CD}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{622A92A1-CE4F-43A4-9890-448728C76890}"
+              p:after="r[@uid='{887CCF84-AEAB-45FB-8572-78BB45D6B6F0}']"
+              s:ds="{65F390AF-D157-4295-98E0-5C2DD78F1A59}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{34E224F9-03F0-4CAE-9B0D-C6833A387926}"
+              p:after="r[@uid='{622A92A1-CE4F-43A4-9890-448728C76890}']"
+              s:ds="{45A65C55-86F0-41EF-8BE2-7AB6D3C3D7A0}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{908B0358-317C-4574-BE9E-2F0C6EB46008}"
+              p:after="r[@uid='{34E224F9-03F0-4CAE-9B0D-C6833A387926}']"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{A4F86B8B-9737-453D-8288-8F1C05B1388E}"
+              p:after="r[@uid='{908B0358-317C-4574-BE9E-2F0C6EB46008}']"
+              s:ds="{8FACAC91-B8C6-46F0-8A04-D1D0E9D5FDEC}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{51114F60-62A9-4921-A2AD-9E68D623F841}"
+              p:after="r[@uid='{A4F86B8B-9737-453D-8288-8F1C05B1388E}']"
+              s:ds="{9FA55EEC-7176-4900-83B8-D7CAAA952694}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:ph="main" />
+            <r
+              uid="{82860FBE-9022-4DC1-9D87-93A9CFA73786}"
+              p:after="*[1=2]"
+              s:ds="{6E13FDA5-2F69-4BF2-A7FA-CB99B0FE4D22}"
+              s:id="{8811D96E-0023-4E45-BF2A-E9827DB7E4BB}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Ameron
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: "<p>We work diligently to show you how exceptional is the Ameron standard with incomparable products and services. Our industry-leading prestressed, spun-cast concrete, steel, and composite products support modern infrastructure for beautiful, thriving communities. </p>"
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Ameron
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211122T211635Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Ameron
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Ameron
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{A13C849D-C765-45D7-A2F2-86048BE95903}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{ABA9E56C-0FCE-464D-8E09-DB375CDF20D8}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Ameron
+    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
+      Hint: Search Result Text
+      Value: "Brand: Ameron"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a28f3ba1-d975-40f3-9dd4-807f90b5e3d0"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{EA155798-89F9-42A8-A18A-1921664D1E01}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "We work diligently to show you how exceptional is the Ameron standard with incomparable products and services. Our industry-leading prestressed, spun-cast concrete, steel, and composite products support modern infrastructure for beautiful, thriving communities. "
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20211122T211635Z
+    - ID: "d4431923-68cf-42a0-a27e-db945d791fdb"
+      Hint: Canonical URL
+      Value: 
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{6A2082F4-918D-4EE9-82C4-EBD0FCBE55DE}" cropregion="0,84,1920,1190" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20211122T220320Z
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: Ameron, poles, fiberglass poles, concrete poles, steel poles
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{6A2082F4-918D-4EE9-82C4-EBD0FCBE55DE}" cropregion="0,46,1920,1125" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+    - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
+      Hint: brand
+      Value: "{C53337CE-984D-45E8-BB11-A285E395BFE9}"
+  - Version: 9
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01fd8c23-1b98-4e4b-9f2d-ecf3eb8aad68"
+      Hint: businessUnits
+      Value: "{0690BF20-2098-4102-807F-40AADB887C56}"
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}">
+              <p:d />
+            </r>
+            <r
+              uid="{3F94459F-580E-478C-AF58-1F6F8D07C8A9}">
+              <p:d />
+            </r>
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+            <r
+              uid="{5EA9750F-97AA-4109-A1B7-1EB280F10DF8}"
+              p:before="*"
+              s:ds="{25848072-C7CA-4540-A553-9C2B1A99915E}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{2DA5D661-F8FE-4440-8F38-64C2799B0ABE}"
+              p:after="r[@uid='{5EA9750F-97AA-4109-A1B7-1EB280F10DF8}']"
+              s:ds=""
+              s:id="{9CA51EAB-92E4-4A77-8B48-966774577172}"
+              s:par="Add Gradient=1"
+              s:ph="/main/product-hero-{4555D7C6-6A25-4D9B-B288-8BE9CF8A85CA}-0" />
+            <r
+              uid="{4555D7C6-6A25-4D9B-B288-8BE9CF8A85CA}"
+              p:after="r[@uid='{2DA5D661-F8FE-4440-8F38-64C2799B0ABE}']"
+              s:ds="{DB7BAB29-A94C-445B-B541-5C88B4C85EB8}"
+              s:id="{C3DD97A2-2C6B-4FDA-922C-7127AE10C976}"
+              s:ph="main" />
+            <r
+              uid="{26862BB8-06E3-4E6B-9328-27765484E884}"
+              p:after="r[@uid='{4555D7C6-6A25-4D9B-B288-8BE9CF8A85CA}']"
+              s:ds="{F2DE9255-FA7E-4ACA-89BB-1264DBA17129}"
+              s:id="{A22722F6-65DF-4574-B659-191957028C9B}"
+              s:ph="main" />
+            <r
+              uid="{F12FACC8-D679-4F67-A44C-1B4541177AB8}"
+              p:after="r[@uid='{26862BB8-06E3-4E6B-9328-27765484E884}']"
+              s:ds="{7B0E8113-790A-4CD0-BF32-695F0EF33FF1}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{887CCF84-AEAB-45FB-8572-78BB45D6B6F0}"
+              p:after="r[@uid='{F12FACC8-D679-4F67-A44C-1B4541177AB8}']"
+              s:ds="{FCC3AC46-CBCC-4D3D-AE34-1F9BCECD84CD}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{622A92A1-CE4F-43A4-9890-448728C76890}"
+              p:after="r[@uid='{887CCF84-AEAB-45FB-8572-78BB45D6B6F0}']"
+              s:ds="{65F390AF-D157-4295-98E0-5C2DD78F1A59}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{34E224F9-03F0-4CAE-9B0D-C6833A387926}"
+              p:after="r[@uid='{622A92A1-CE4F-43A4-9890-448728C76890}']"
+              s:ds="{45A65C55-86F0-41EF-8BE2-7AB6D3C3D7A0}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{908B0358-317C-4574-BE9E-2F0C6EB46008}"
+              p:after="r[@uid='{34E224F9-03F0-4CAE-9B0D-C6833A387926}']"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{A4F86B8B-9737-453D-8288-8F1C05B1388E}"
+              p:after="r[@uid='{908B0358-317C-4574-BE9E-2F0C6EB46008}']"
+              s:ds="{8FACAC91-B8C6-46F0-8A04-D1D0E9D5FDEC}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{51114F60-62A9-4921-A2AD-9E68D623F841}"
+              p:after="r[@uid='{A4F86B8B-9737-453D-8288-8F1C05B1388E}']"
+              s:ds="{152AF4E0-BFF3-4400-A330-EF0E69000E7D}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:par=""
+              s:ph="main" />
+            <r
+              uid="{82860FBE-9022-4DC1-9D87-93A9CFA73786}"
+              p:after="r[@uid='{51114F60-62A9-4921-A2AD-9E68D623F841}']"
+              s:ds="{6E13FDA5-2F69-4BF2-A7FA-CB99B0FE4D22}"
+              s:id="{8811D96E-0023-4E45-BF2A-E9827DB7E4BB}"
+              s:ph="main" />
+            <r
+              uid="{85B1CABB-4BA2-4503-B817-A1B9C4EF60E8}"
+              p:after="r[@uid='{82860FBE-9022-4DC1-9D87-93A9CFA73786}']"
+              s:ds="{31F28FCB-BAEA-4043-95CF-5A2C2B6319ED}"
+              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
+              s:par="Use Button for Link"
+              s:ph="main" />
+            <r
+              uid="{145312B8-3A70-457D-987F-31E03F0AF03C}"
+              p:after="r[@uid='{85B1CABB-4BA2-4503-B817-A1B9C4EF60E8}']"
+              s:ds="{1C5BC719-78AB-4067-80D5-BC043822728C}"
+              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
+              s:par="Use Button for Link"
+              s:ph="main" />
+            <r
+              uid="{F8A02C7D-164A-4D95-B28B-1D28D216344D}"
+              p:after="r[@uid='{145312B8-3A70-457D-987F-31E03F0AF03C}']"
+              s:ds="{69BDDE87-5AD3-4FA2-878C-0EFEA0FC6967}"
+              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
+              s:par="Use Button for Link"
+              s:ph="main" />
+            <r
+              uid="{E8E420A8-DB18-4F10-9A56-CC49FE1918BE}"
+              p:after="*[1=2]"
+              s:ds="{C7E97DD4-F7C3-4CEE-B6C7-3C6D3F44FC3F}"
+              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
+              s:par="Use Button for Link"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Ameron
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: "<p>We work diligently to show you how exceptional is the Ameron standard with incomparable products and services. Our industry-leading prestressed, spun-cast concrete, steel, and composite products support modern infrastructure for beautiful, thriving communities. </p>"
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Ameron
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220307T204532Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Ameron
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Ameron
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{A13C849D-C765-45D7-A2F2-86048BE95903}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{ABA9E56C-0FCE-464D-8E09-DB375CDF20D8}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Ameron
+    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
+      Hint: Search Result Text
+      Value: "Brand: Ameron"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b0147457-629f-435c-87de-34dc7fc440a5"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{EA155798-89F9-42A8-A18A-1921664D1E01}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "We work diligently to show you how exceptional is the Ameron standard with incomparable products and services. Our industry-leading prestressed, spun-cast concrete, steel, and composite products support modern infrastructure for beautiful, thriving communities. "
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20220307T204532Z
+    - ID: "d4431923-68cf-42a0-a27e-db945d791fdb"
+      Hint: Canonical URL
+      Value: 
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{6A2082F4-918D-4EE9-82C4-EBD0FCBE55DE}" cropregion="0,84,1920,1190" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220311T211729Z
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: Ameron, poles, fiberglass poles, concrete poles, steel poles
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{6A2082F4-918D-4EE9-82C4-EBD0FCBE55DE}" cropregion="0,46,1920,1125" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+    - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
+      Hint: brand
+      Value: "{C53337CE-984D-45E8-BB11-A285E395BFE9}"
+  - Version: 10
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "019c3c8b-3d47-4b92-a8e9-838880ddf307"
+      Hint: Open Graph Title
+      Value: Ameron
+    - ID: "01fd8c23-1b98-4e4b-9f2d-ecf3eb8aad68"
+      Hint: businessUnits
+      Value: "{0690BF20-2098-4102-807F-40AADB887C56}"
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}">
+              <p:d />
+            </r>
+            <r
+              uid="{3F94459F-580E-478C-AF58-1F6F8D07C8A9}">
+              <p:d />
+            </r>
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+            <r
+              uid="{5EA9750F-97AA-4109-A1B7-1EB280F10DF8}"
+              p:before="*"
+              s:ds="{25848072-C7CA-4540-A553-9C2B1A99915E}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{2DA5D661-F8FE-4440-8F38-64C2799B0ABE}"
+              p:after="r[@uid='{5EA9750F-97AA-4109-A1B7-1EB280F10DF8}']"
+              s:ds=""
+              s:id="{9CA51EAB-92E4-4A77-8B48-966774577172}"
+              s:par="Add Gradient=1"
+              s:ph="/main/product-hero-{4555D7C6-6A25-4D9B-B288-8BE9CF8A85CA}-0" />
+            <r
+              uid="{4555D7C6-6A25-4D9B-B288-8BE9CF8A85CA}"
+              p:after="r[@uid='{2DA5D661-F8FE-4440-8F38-64C2799B0ABE}']"
+              s:ds="{DB7BAB29-A94C-445B-B541-5C88B4C85EB8}"
+              s:id="{C3DD97A2-2C6B-4FDA-922C-7127AE10C976}"
+              s:ph="main" />
+            <r
+              uid="{26862BB8-06E3-4E6B-9328-27765484E884}"
+              p:after="r[@uid='{4555D7C6-6A25-4D9B-B288-8BE9CF8A85CA}']"
+              s:ds="{F2DE9255-FA7E-4ACA-89BB-1264DBA17129}"
+              s:id="{A22722F6-65DF-4574-B659-191957028C9B}"
+              s:ph="main" />
+            <r
+              uid="{F12FACC8-D679-4F67-A44C-1B4541177AB8}"
+              p:after="r[@uid='{26862BB8-06E3-4E6B-9328-27765484E884}']"
+              s:ds="{7B0E8113-790A-4CD0-BF32-695F0EF33FF1}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{887CCF84-AEAB-45FB-8572-78BB45D6B6F0}"
+              p:after="r[@uid='{F12FACC8-D679-4F67-A44C-1B4541177AB8}']"
+              s:ds="{FCC3AC46-CBCC-4D3D-AE34-1F9BCECD84CD}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{622A92A1-CE4F-43A4-9890-448728C76890}"
+              p:after="r[@uid='{887CCF84-AEAB-45FB-8572-78BB45D6B6F0}']"
+              s:ds="{65F390AF-D157-4295-98E0-5C2DD78F1A59}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{34E224F9-03F0-4CAE-9B0D-C6833A387926}"
+              p:after="r[@uid='{622A92A1-CE4F-43A4-9890-448728C76890}']"
+              s:ds="{45A65C55-86F0-41EF-8BE2-7AB6D3C3D7A0}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{908B0358-317C-4574-BE9E-2F0C6EB46008}"
+              p:after="r[@uid='{34E224F9-03F0-4CAE-9B0D-C6833A387926}']"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{A4F86B8B-9737-453D-8288-8F1C05B1388E}"
+              p:after="r[@uid='{908B0358-317C-4574-BE9E-2F0C6EB46008}']"
+              s:ds="{8FACAC91-B8C6-46F0-8A04-D1D0E9D5FDEC}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{51114F60-62A9-4921-A2AD-9E68D623F841}"
+              p:after="r[@uid='{A4F86B8B-9737-453D-8288-8F1C05B1388E}']"
+              s:ds="{152AF4E0-BFF3-4400-A330-EF0E69000E7D}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:par=""
+              s:ph="main" />
+            <r
+              uid="{82860FBE-9022-4DC1-9D87-93A9CFA73786}"
+              p:after="r[@uid='{51114F60-62A9-4921-A2AD-9E68D623F841}']"
+              s:ds="{6E13FDA5-2F69-4BF2-A7FA-CB99B0FE4D22}"
+              s:id="{8811D96E-0023-4E45-BF2A-E9827DB7E4BB}"
+              s:ph="main" />
+            <r
+              uid="{85B1CABB-4BA2-4503-B817-A1B9C4EF60E8}"
+              p:after="r[@uid='{82860FBE-9022-4DC1-9D87-93A9CFA73786}']"
+              s:ds="{31F28FCB-BAEA-4043-95CF-5A2C2B6319ED}"
+              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
+              s:par="Use Button for Link"
+              s:ph="main" />
+            <r
+              uid="{145312B8-3A70-457D-987F-31E03F0AF03C}"
+              p:after="r[@uid='{85B1CABB-4BA2-4503-B817-A1B9C4EF60E8}']"
+              s:ds="{1C5BC719-78AB-4067-80D5-BC043822728C}"
+              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
+              s:par="Use Button for Link"
+              s:ph="main" />
+            <r
+              uid="{F8A02C7D-164A-4D95-B28B-1D28D216344D}"
+              p:after="r[@uid='{145312B8-3A70-457D-987F-31E03F0AF03C}']"
+              s:ds="{69BDDE87-5AD3-4FA2-878C-0EFEA0FC6967}"
+              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
+              s:par="Use Button for Link"
+              s:ph="main" />
+            <r
+              uid="{E8E420A8-DB18-4F10-9A56-CC49FE1918BE}"
+              p:after="*[1=2]"
+              s:ds="{C7E97DD4-F7C3-4CEE-B6C7-3C6D3F44FC3F}"
+              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
+              s:par="Use Button for Link"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Ameron
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: "<p>We work diligently to show you how exceptional is the Ameron standard with incomparable products and services. Our industry-leading prestressed, spun-cast concrete, steel, and composite products support modern infrastructure for beautiful, thriving communities. </p>"
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Ameron
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220811T195140Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Ameron
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Ameron | Brands
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{A13C849D-C765-45D7-A2F2-86048BE95903}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{ABA9E56C-0FCE-464D-8E09-DB375CDF20D8}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Ameron
+    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
+      Hint: Search Result Text
+      Value: "Brand: Ameron"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d6ddb47c-f84c-4601-8f8c-c158d3c9a9b2"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{EA155798-89F9-42A8-A18A-1921664D1E01}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\varalakshmi.md@horizontal.com
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "We work diligently to show you how exceptional is the Ameron standard with incomparable products and services. Our industry-leading prestressed, spun-cast concrete, steel, and composite products support modern infrastructure for beautiful, thriving communities. "
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20220811T195140Z
+    - ID: "d4431923-68cf-42a0-a27e-db945d791fdb"
+      Hint: Canonical URL
+      Value: 
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{6A2082F4-918D-4EE9-82C4-EBD0FCBE55DE}" cropregion="0,84,1920,1190" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230725T094644Z
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: Ameron, poles, fiberglass poles, concrete poles, steel poles
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{6A2082F4-918D-4EE9-82C4-EBD0FCBE55DE}" cropregion="0,46,1920,1125" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+    - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
+      Hint: brand
+      Value: "{C53337CE-984D-45E8-BB11-A285E395BFE9}"
