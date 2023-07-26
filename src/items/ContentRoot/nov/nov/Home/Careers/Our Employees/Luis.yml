@@ -1,0 +1,468 @@
+﻿---
+ID: "6b023185-7424-42f0-831d-12b0ea76e5e8"
+Parent: "ee57e866-1947-4382-8672-2b304e437349"
+Template: "d845df6c-dbff-4280-acdd-cc97d29844a8"
+Path: /sitecore/content/nov/nov/Home/Careers/Our Employees/Luis
+SharedFields:
+- ID: "66afdd9e-0c87-4ef2-9ef2-405f3b88a047"
+  Hint: Hide From Search
+  Value: 1
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{58733F9F-534B-4DD2-961D-2F740B9D6AA0}"
+              p:before="*"
+              s:ds="{A66991B6-75BB-4B7B-AFFF-DAE0A35ECE18}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{7A3CCA3E-8D35-4E8B-85DF-E9EC5D610BD2}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top/image-block-splitter-480x540-right" />
+            <r
+              uid="{713773BC-8E4E-4949-A841-D73C49D5BED8}"
+              p:after="r[@uid='{58733F9F-534B-4DD2-961D-2F740B9D6AA0}']"
+              s:ds="{EFEADC48-9D54-4452-BABB-21F5F8BD9293}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{7A3CCA3E-8D35-4E8B-85DF-E9EC5D610BD2}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top/image-block-splitter-480x540-left" />
+            <r
+              uid="{C2B18DA1-7970-40EF-9553-DC3F289CCE8A}"
+              p:after="r[@uid='{713773BC-8E4E-4949-A841-D73C49D5BED8}']"
+              s:ds="{37A04D86-AFB7-4A71-BDD6-CF362E99BA51}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{7A3CCA3E-8D35-4E8B-85DF-E9EC5D610BD2}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom/image-block-splitter-480x540-right" />
+            <r
+              uid="{C7908B31-7F90-4AAA-A5D3-BE3D48E86B55}"
+              p:after="r[@uid='{C2B18DA1-7970-40EF-9553-DC3F289CCE8A}']"
+              s:ds="{D1C05330-36B2-400E-920F-9DCC1013E678}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{7A3CCA3E-8D35-4E8B-85DF-E9EC5D610BD2}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom/image-block-splitter-480x540-left" />
+            <r
+              uid="{A7EBEB4A-B45F-4435-96F0-3D2951FE79C0}"
+              p:after="r[@uid='{C7908B31-7F90-4AAA-A5D3-BE3D48E86B55}']"
+              s:ds="{4A08C64C-5241-4BBB-ACC1-40BDAA44EA1B}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{7A3CCA3E-8D35-4E8B-85DF-E9EC5D610BD2}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{D4017202-41F2-4B4E-9F8A-BA119D5CB686}"
+              p:after="r[@uid='{A7EBEB4A-B45F-4435-96F0-3D2951FE79C0}']"
+              s:ds="{88EBF378-D0AC-45F7-905D-3B488C756C99}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{7A3CCA3E-8D35-4E8B-85DF-E9EC5D610BD2}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-top" />
+            <r
+              uid="{C27F20E3-4C8E-4C85-8A2B-4B56DB4E7AD2}"
+              p:after="r[@uid='{D4017202-41F2-4B4E-9F8A-BA119D5CB686}']"
+              s:id="{30CDBCD0-0126-446E-8E05-E7931C91B224}"
+              s:ph="/main/image-block-main-{7A3CCA3E-8D35-4E8B-85DF-E9EC5D610BD2}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{FF4DC910-5B14-47FD-94B3-729E38596572}"
+              p:after="r[@uid='{C27F20E3-4C8E-4C85-8A2B-4B56DB4E7AD2}']"
+              s:id="{30CDBCD0-0126-446E-8E05-E7931C91B224}"
+              s:ph="/main/image-block-main-{7A3CCA3E-8D35-4E8B-85DF-E9EC5D610BD2}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top" />
+            <r
+              uid="{85126736-9C2F-486C-879C-9802D828F771}"
+              p:after="r[@uid='{FF4DC910-5B14-47FD-94B3-729E38596572}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{7A3CCA3E-8D35-4E8B-85DF-E9EC5D610BD2}-0/image-block-splitter-960x1080-right" />
+            <r
+              uid="{486763E2-69F0-4FD2-A9C9-F8822D831319}"
+              p:after="r[@uid='{85126736-9C2F-486C-879C-9802D828F771}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{7A3CCA3E-8D35-4E8B-85DF-E9EC5D610BD2}-0/image-block-splitter-960x1080-left" />
+            <r
+              uid="{EF41F30A-E7EB-47D6-8BCE-38160A592E61}"
+              p:after="r[@uid='{486763E2-69F0-4FD2-A9C9-F8822D831319}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main-{7A3CCA3E-8D35-4E8B-85DF-E9EC5D610BD2}-0" />
+            <r
+              uid="{1D9F7519-1A07-4B02-9D49-1D933DACE3F8}"
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{EB0C67D7-CBAE-4EE7-B412-9964BD8F0F4C}"
+              s:ds="{A195C5D0-903E-4BA7-AF82-55ABCDF12EC9}" />
+            <r
+              uid="{53ACC004-BCE1-4C03-82DD-4BADD9637005}"
+              s:ds="{ADDC5F76-0F01-4538-832D-321950A8F2B2}" />
+            <r
+              uid="{FF24F78C-1E13-4C62-8615-08CCB61E123D}">
+              <p:d />
+            </r>
+            <r
+              uid="{CBB1341C-3A61-4C5F-9880-5079456425CC}">
+              <p:d />
+            </r>
+            <r
+              uid="{60D19D74-4E08-4244-A106-160C07761BB9}">
+              <p:d />
+            </r>
+            <r
+              uid="{8B3BF764-1274-44CF-BAE7-4B3EEFDEF363}"
+              p:after="r[@uid='{53ACC004-BCE1-4C03-82DD-4BADD9637005}']"
+              s:ds="{22FC2BBC-B18A-4F41-90CA-FE75A2FD92AE}"
+              s:id="{2E6C5F1E-BC4A-4FBE-BC72-FBCB237F8DDC}"
+              s:ph="main" />
+            <r
+              uid="{6DF7468C-91C4-42FC-BED0-0F5D8245D33F}"
+              p:after="r[@uid='{8B3BF764-1274-44CF-BAE7-4B3EEFDEF363}']"
+              s:ds="{11CBCA97-103E-4435-ABC4-DEDEEAB6EB63}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{1A232656-7CC1-4DFD-85B8-D9AF4F47342D}"
+              p:after="r[@uid='{6DF7468C-91C4-42FC-BED0-0F5D8245D33F}']"
+              s:ds="{C6351CCC-C012-4E05-8EB4-22A13FCB090F}"
+              s:id="{2E6C5F1E-BC4A-4FBE-BC72-FBCB237F8DDC}"
+              s:ph="main" />
+            <r
+              uid="{08147847-3C82-4212-A30D-5FBC884D247C}"
+              p:after="r[@uid='{1A232656-7CC1-4DFD-85B8-D9AF4F47342D}']"
+              s:ds="{6FBB002A-535A-40CA-8BCC-A31358AADD50}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{7A3CCA3E-8D35-4E8B-85DF-E9EC5D610BD2}"
+              p:after="r[@uid='{08147847-3C82-4212-A30D-5FBC884D247C}']"
+              s:id="{6932DD17-1CD9-4D03-93B7-3C0A92EB8229}"
+              s:ph="main" />
+            <r
+              uid="{3205AF76-5295-41B7-AEE1-050025A6783B}"
+              s:ds="{5DD6C1AF-BF64-415D-88F8-326D7EDBF940}" />
+            <r
+              uid="{1AA98A93-C4E2-4283-A21E-88868D1CE6B7}"
+              p:after="*[1=2]"
+              s:ds="{F3A65A79-05DE-4197-9CD5-D16689DC0D96}"
+              s:id="{404FE8DE-C601-4E14-8D3D-32F27B41D06D}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Luis
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: |
+        <p>Welding Specialist</p>
+        <p>Location: Houston, TX</p>
+        <p>Started with NOV: 1989</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Luis
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191024T160249Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Luis
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Luis
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "552d2f72-38dc-4292-a4d4-c25d7659a547"
+      Hint: Experience
+      Value: 1989
+    - ID: "59d8c695-4c77-4e28-aca2-18e95ced59be"
+      Hint: Job Function
+      Value: Operator
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joannazhu
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Luis
+    - ID: "81beeffb-e4e6-44ad-aa32-b3380b8d3fcd"
+      Hint: city
+      Value: Houston
+    - ID: "8481aefe-5414-437b-bf8b-6d95d2dc9fc8"
+      Hint: Job Title
+      Value: Welding Specialist
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "929e5afc-55e0-4473-9660-38c76a007f69"
+    - ID: "8d7bd282-7922-440b-bf50-8260e886c806"
+      Hint: Job Location
+      Value: Houston, TX
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{B5A8267A-94DD-4EDB-A526-48C8D84F7477}"
+    - ID: "b0d622b7-156a-4f17-9ce4-4dd213df0302"
+      Hint: Date
+      Value: 20191024T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\joannazhu
+    - ID: "bba7d4dd-7d1e-428e-b80d-055170466dc3"
+      Hint: country
+      Value: United States
+    - ID: "bcfd3e35-8ec5-4ba4-b22f-00669ef4d2d5"
+      Hint: Publish Date
+      Value: 20191024T160300Z
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: After 17 years as a welder, Luis is now training people from all around the world on the development of Quality Tubing products and processes.
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{BCABE88E-FABB-4396-A632-A6ABA2A0D7C2}" cropregion="0,87,1920,1191" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20191024T182429Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{BCABE88E-FABB-4396-A632-A6ABA2A0D7C2}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{58733F9F-534B-4DD2-961D-2F740B9D6AA0}"
+              p:before="*"
+              s:ds="{A66991B6-75BB-4B7B-AFFF-DAE0A35ECE18}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{7A3CCA3E-8D35-4E8B-85DF-E9EC5D610BD2}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top/image-block-splitter-480x540-right" />
+            <r
+              uid="{713773BC-8E4E-4949-A841-D73C49D5BED8}"
+              p:after="r[@uid='{58733F9F-534B-4DD2-961D-2F740B9D6AA0}']"
+              s:ds="{EFEADC48-9D54-4452-BABB-21F5F8BD9293}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{7A3CCA3E-8D35-4E8B-85DF-E9EC5D610BD2}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top/image-block-splitter-480x540-left" />
+            <r
+              uid="{C2B18DA1-7970-40EF-9553-DC3F289CCE8A}"
+              p:after="r[@uid='{713773BC-8E4E-4949-A841-D73C49D5BED8}']"
+              s:ds="{37A04D86-AFB7-4A71-BDD6-CF362E99BA51}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{7A3CCA3E-8D35-4E8B-85DF-E9EC5D610BD2}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom/image-block-splitter-480x540-right" />
+            <r
+              uid="{C7908B31-7F90-4AAA-A5D3-BE3D48E86B55}"
+              p:after="r[@uid='{C2B18DA1-7970-40EF-9553-DC3F289CCE8A}']"
+              s:ds="{D1C05330-36B2-400E-920F-9DCC1013E678}"
+              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
+              s:ph="/main/image-block-main-{7A3CCA3E-8D35-4E8B-85DF-E9EC5D610BD2}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom/image-block-splitter-480x540-left" />
+            <r
+              uid="{A7EBEB4A-B45F-4435-96F0-3D2951FE79C0}"
+              p:after="r[@uid='{C7908B31-7F90-4AAA-A5D3-BE3D48E86B55}']"
+              s:ds="{4A08C64C-5241-4BBB-ACC1-40BDAA44EA1B}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{7A3CCA3E-8D35-4E8B-85DF-E9EC5D610BD2}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{D4017202-41F2-4B4E-9F8A-BA119D5CB686}"
+              p:after="r[@uid='{A7EBEB4A-B45F-4435-96F0-3D2951FE79C0}']"
+              s:ds="{88EBF378-D0AC-45F7-905D-3B488C756C99}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{7A3CCA3E-8D35-4E8B-85DF-E9EC5D610BD2}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-top" />
+            <r
+              uid="{C27F20E3-4C8E-4C85-8A2B-4B56DB4E7AD2}"
+              p:after="r[@uid='{D4017202-41F2-4B4E-9F8A-BA119D5CB686}']"
+              s:id="{30CDBCD0-0126-446E-8E05-E7931C91B224}"
+              s:ph="/main/image-block-main-{7A3CCA3E-8D35-4E8B-85DF-E9EC5D610BD2}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{FF4DC910-5B14-47FD-94B3-729E38596572}"
+              p:after="r[@uid='{C27F20E3-4C8E-4C85-8A2B-4B56DB4E7AD2}']"
+              s:id="{30CDBCD0-0126-446E-8E05-E7931C91B224}"
+              s:ph="/main/image-block-main-{7A3CCA3E-8D35-4E8B-85DF-E9EC5D610BD2}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top" />
+            <r
+              uid="{85126736-9C2F-486C-879C-9802D828F771}"
+              p:after="r[@uid='{FF4DC910-5B14-47FD-94B3-729E38596572}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{7A3CCA3E-8D35-4E8B-85DF-E9EC5D610BD2}-0/image-block-splitter-960x1080-right" />
+            <r
+              uid="{486763E2-69F0-4FD2-A9C9-F8822D831319}"
+              p:after="r[@uid='{85126736-9C2F-486C-879C-9802D828F771}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{7A3CCA3E-8D35-4E8B-85DF-E9EC5D610BD2}-0/image-block-splitter-960x1080-left" />
+            <r
+              uid="{EF41F30A-E7EB-47D6-8BCE-38160A592E61}"
+              p:after="r[@uid='{486763E2-69F0-4FD2-A9C9-F8822D831319}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main-{7A3CCA3E-8D35-4E8B-85DF-E9EC5D610BD2}-0" />
+            <r
+              uid="{1D9F7519-1A07-4B02-9D49-1D933DACE3F8}"
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{21C7C9D9-C4AD-4A1E-8F55-B927F1A450B6}">
+              <p:d />
+            </r>
+            <r
+              uid="{EB0C67D7-CBAE-4EE7-B412-9964BD8F0F4C}"
+              s:ds="{A195C5D0-903E-4BA7-AF82-55ABCDF12EC9}" />
+            <r
+              uid="{53ACC004-BCE1-4C03-82DD-4BADD9637005}"
+              s:ds="{ADDC5F76-0F01-4538-832D-321950A8F2B2}" />
+            <r
+              uid="{FF24F78C-1E13-4C62-8615-08CCB61E123D}">
+              <p:d />
+            </r>
+            <r
+              uid="{CBB1341C-3A61-4C5F-9880-5079456425CC}">
+              <p:d />
+            </r>
+            <r
+              uid="{60D19D74-4E08-4244-A106-160C07761BB9}">
+              <p:d />
+            </r>
+            <r
+              uid="{8B3BF764-1274-44CF-BAE7-4B3EEFDEF363}"
+              p:after="r[@uid='{53ACC004-BCE1-4C03-82DD-4BADD9637005}']"
+              s:ds="{22FC2BBC-B18A-4F41-90CA-FE75A2FD92AE}"
+              s:id="{2E6C5F1E-BC4A-4FBE-BC72-FBCB237F8DDC}"
+              s:ph="main" />
+            <r
+              uid="{6DF7468C-91C4-42FC-BED0-0F5D8245D33F}"
+              p:after="r[@uid='{8B3BF764-1274-44CF-BAE7-4B3EEFDEF363}']"
+              s:ds="{11CBCA97-103E-4435-ABC4-DEDEEAB6EB63}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{1A232656-7CC1-4DFD-85B8-D9AF4F47342D}"
+              p:after="r[@uid='{6DF7468C-91C4-42FC-BED0-0F5D8245D33F}']"
+              s:ds="{C6351CCC-C012-4E05-8EB4-22A13FCB090F}"
+              s:id="{2E6C5F1E-BC4A-4FBE-BC72-FBCB237F8DDC}"
+              s:ph="main" />
+            <r
+              uid="{08147847-3C82-4212-A30D-5FBC884D247C}"
+              p:after="r[@uid='{1A232656-7CC1-4DFD-85B8-D9AF4F47342D}']"
+              s:ds="{6FBB002A-535A-40CA-8BCC-A31358AADD50}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{7A3CCA3E-8D35-4E8B-85DF-E9EC5D610BD2}"
+              p:after="r[@uid='{08147847-3C82-4212-A30D-5FBC884D247C}']"
+              s:id="{6932DD17-1CD9-4D03-93B7-3C0A92EB8229}"
+              s:ph="main" />
+            <r
+              uid="{3205AF76-5295-41B7-AEE1-050025A6783B}"
+              s:ds="{5DD6C1AF-BF64-415D-88F8-326D7EDBF940}" />
+            <r
+              uid="{1AA98A93-C4E2-4283-A21E-88868D1CE6B7}"
+              p:after="*[1=2]"
+              s:ds="{F3A65A79-05DE-4197-9CD5-D16689DC0D96}"
+              s:id="{404FE8DE-C601-4E14-8D3D-32F27B41D06D}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Luis
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: |
+        <p>Welding Specialist</p>
+        <p>Location: Houston, TX</p>
+        <p>Started with NOV: 1989</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Luis
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200121T220351Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Luis
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Luis
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "552d2f72-38dc-4292-a4d4-c25d7659a547"
+      Hint: Experience
+      Value: 1989
+    - ID: "59d8c695-4c77-4e28-aca2-18e95ced59be"
+      Hint: Job Function
+      Value: Operator
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Luis
+    - ID: "81beeffb-e4e6-44ad-aa32-b3380b8d3fcd"
+      Hint: city
+      Value: Houston
+    - ID: "8481aefe-5414-437b-bf8b-6d95d2dc9fc8"
+      Hint: Job Title
+      Value: Welding Specialist
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3dc3f563-f2e5-4c56-bbb0-4fbf0c1eee1d"
+    - ID: "8d7bd282-7922-440b-bf50-8260e886c806"
+      Hint: Job Location
+      Value: Houston, TX
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{B5A8267A-94DD-4EDB-A526-48C8D84F7477}"
+    - ID: "b0d622b7-156a-4f17-9ce4-4dd213df0302"
+      Hint: Date
+      Value: 20191024T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "bba7d4dd-7d1e-428e-b80d-055170466dc3"
+      Hint: country
+      Value: United States
+    - ID: "bcfd3e35-8ec5-4ba4-b22f-00669ef4d2d5"
+      Hint: Publish Date
+      Value: 20191024T160300Z
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: After 17 years as a welder, Luis is now training people from all around the world on the development of Quality Tubing products and processes.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200121T220351Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{BCABE88E-FABB-4396-A632-A6ABA2A0D7C2}" cropregion="0,87,1920,1191" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200121T220458Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{BCABE88E-FABB-4396-A632-A6ABA2A0D7C2}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" />

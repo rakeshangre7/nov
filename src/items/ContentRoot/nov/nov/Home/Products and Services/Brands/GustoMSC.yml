@@ -1,0 +1,2579 @@
+﻿---
+ID: "c8375e4a-b0b1-4a39-887d-d1e8ee14f1a5"
+Parent: "b6e77496-7bee-48dc-9afb-11df7eacc15a"
+Template: "767fef1e-1eb7-417d-93c6-ca72cac21a26"
+Path: /sitecore/content/nov/nov/Home/Products and Services/Brands/GustoMSC
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01fd8c23-1b98-4e4b-9f2d-ecf3eb8aad68"
+      Hint: businessUnits
+      Value: "{55081714-900D-4F84-A923-2C7CDC829502}"
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{9F2E727C-7893-4DE0-BF2B-33C7431958B8}"
+              p:before="*"
+              s:ds="{598B7630-72E7-4202-8AB9-61CEC1DE7773}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{0132BF7D-B74F-405D-8019-6CDE9B892C10}"
+              p:after="r[@uid='{9F2E727C-7893-4DE0-BF2B-33C7431958B8}']"
+              s:ds="{B76CCDF9-DDB7-4F0D-83EE-F883B1EACC65}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top" />
+            <r
+              uid="{1680D472-4648-485F-B55A-1AE83F7B825E}"
+              p:after="r[@uid='{0132BF7D-B74F-405D-8019-6CDE9B892C10}']"
+              s:ds="{180FA433-561C-4E29-9B4F-23C07A422A17}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{44C35A55-976E-4FFC-8897-75BCA2CD7C69}"
+              p:after="r[@uid='{1680D472-4648-485F-B55A-1AE83F7B825E}']"
+              s:ds="{9E94BD7C-E452-47B4-B70F-EB9B41CE5B3F}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-top" />
+            <r
+              uid="{0FBD7B17-E553-49D9-9137-749DC31DBE45}"
+              p:after="r[@uid='{44C35A55-976E-4FFC-8897-75BCA2CD7C69}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0/image-block-splitter-960x1080-right" />
+            <r
+              uid="{BCF356DB-39BE-41EC-98E8-4CFD6F1A34BF}"
+              p:after="r[@uid='{0FBD7B17-E553-49D9-9137-749DC31DBE45}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0/image-block-splitter-960x1080-left" />
+            <r
+              uid="{C9286C79-9676-46BE-BAE4-6C0DA8F1C336}"
+              p:after="r[@uid='{BCF356DB-39BE-41EC-98E8-4CFD6F1A34BF}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0" />
+            <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}"
+              s:par="Add Gradient&amp;Text Color=white" />
+            <r
+              uid="{3F94459F-580E-478C-AF58-1F6F8D07C8A9}"
+              s:ds=""
+              s:par="Enable Autoplay=true&amp;Enable Center Text&amp;Add Gradient&amp;Text Color=white&amp;Wait Time=5000" />
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+            <r
+              uid="{754C7CFC-F1C1-49AC-BBCB-5BABD3A19539}"
+              p:after="r[@uid='{3F94459F-580E-478C-AF58-1F6F8D07C8A9}']"
+              s:ds="{B28BA852-3DD9-4051-807B-06D5B51D4CEE}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{E8CA6EC6-8B55-4851-B452-75F692EA6AA3}"
+              p:after="r[@uid='{754C7CFC-F1C1-49AC-BBCB-5BABD3A19539}']"
+              s:ds="{9D0FD1F4-9A1B-49CD-B89F-D252267173A8}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="main" />
+            <r
+              uid="{C6F33191-1B0B-474A-A941-75FA743B0A84}"
+              p:after="r[@uid='{E8CA6EC6-8B55-4851-B452-75F692EA6AA3}']"
+              s:ds="{397338B7-3FCB-49B4-9629-B75ED7ADD15E}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{D1347EF1-F25F-4E7E-883C-87E0426CAD52}"
+              p:after="r[@uid='{C6F33191-1B0B-474A-A941-75FA743B0A84}']"
+              s:ds="{46849125-E0DE-453A-99F9-88D5E7D2E815}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{FEC7BAB1-D683-473C-A450-E9C37CCDE64E}"
+              p:after="r[@uid='{D1347EF1-F25F-4E7E-883C-87E0426CAD52}']"
+              s:ds="{1E4A2BEE-4AD0-4A4B-9600-DB0709B55323}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{27381276-88BD-4647-B935-DDCDFCF13122}"
+              p:after="r[@uid='{FEC7BAB1-D683-473C-A450-E9C37CCDE64E}']"
+              s:ds="{CACECCD8-428E-4F55-A885-E999639AEBA7}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{E996780D-527F-4DD9-99A6-C21B7E8A2E39}"
+              p:after="r[@uid='{27381276-88BD-4647-B935-DDCDFCF13122}']"
+              s:ds="{9C7A0A2F-58AA-43F3-AC9A-56E1C5A70504}"
+              s:id="{F6988CA1-8F6A-4235-8851-39729DDF65B4}"
+              s:ph="main" />
+            <r
+              uid="{FF168F0B-55FD-48BD-B1C5-4CD981F67977}"
+              p:after="r[@uid='{E996780D-527F-4DD9-99A6-C21B7E8A2E39}']"
+              s:id="{6932DD17-1CD9-4D03-93B7-3C0A92EB8229}"
+              s:ph="main" />
+            <r
+              uid="{0DBCD386-A76E-491A-8311-540775F2B517}"
+              p:after="r[@uid='{FF168F0B-55FD-48BD-B1C5-4CD981F67977}']"
+              s:ds="{904D9AC1-68CE-4A90-AE79-54EB7EDDBDE1}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="main" />
+            <r
+              uid="{1739DE82-75A2-4ED7-8E34-1D42A6903706}"
+              p:after="r[@uid='{0DBCD386-A76E-491A-8311-540775F2B517}']"
+              s:ds="{F58BBC11-F092-4E36-9097-F1CEA54069F0}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:ph="main" />
+            <r
+              uid="{5982A875-5976-4448-9378-27CF3AC2374B}"
+              p:after="r[@uid='{1739DE82-75A2-4ED7-8E34-1D42A6903706}']"
+              s:ds="{07161D33-51A9-4659-8EE8-21AF418EB3F7}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{D43F944A-1449-4A77-8F34-BF0FC93E9249}"
+              p:after="r[@uid='{5982A875-5976-4448-9378-27CF3AC2374B}']"
+              s:ds="{BF842852-9421-4EB3-B669-184C12B6D1D4}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{6EDC01EB-C40C-4BDA-8E31-8E0C6BAAB1C7}"
+              p:after="r[@uid='{D43F944A-1449-4A77-8F34-BF0FC93E9249}']"
+              s:ds="{C3772A9A-1755-4E82-8C29-20D25DCA56FB}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{5A2212A7-4378-4CC2-ABA3-A77F7375F003}"
+              p:after="r[@uid='{6EDC01EB-C40C-4BDA-8E31-8E0C6BAAB1C7}']"
+              s:ds="{CD977F31-01E2-427E-A513-6F33874EF4DB}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{EF17CC7F-FA2D-4BFB-87D0-96932FBF3DE5}"
+              p:after="*[1=2]"
+              s:ds="{1ED85616-5A1F-4B63-9109-543729BBBC5D}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: GustoMSC
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Designers and engineers of mobile offshore units and equipment that focus on safe and efficient operations at sea for a more sustainable future</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: GustoMSC
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220105T164252Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: GustoMSC
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: GustoMSC
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{7BFDF55B-D789-4F80-BAA1-EE7B8380D4C6}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: GustoMSC
+    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
+      Hint: Search Result Text
+      Value: "Brand: GustoMSC"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "21923d66-08f2-4076-a25a-c6910cbd4bda"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{EA155798-89F9-42A8-A18A-1921664D1E01}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: GustoMSC is a designer and engineer of mobile offshore units and equipment that focus on safe and efficient operations at sea for a more sustainable future.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20220105T164252Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{A16AE3A4-FA2A-444F-BAA0-AA44EA76A7E7}" cropregion="20,0,1903,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220106T172642Z
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: GustoMSC, offshore wind, offshore engineering, offshore energy, offshore technology, Gusto MSC, Gusto, MSC
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{A16AE3A4-FA2A-444F-BAA0-AA44EA76A7E7}" cropregion="2,0,1922,1080" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+    - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
+      Hint: brand
+      Value: "{C3F61168-AAD8-4212-BA65-2EAF59E5A3FE}"
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01fd8c23-1b98-4e4b-9f2d-ecf3eb8aad68"
+      Hint: businessUnits
+      Value: "{55081714-900D-4F84-A923-2C7CDC829502}"
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{9F2E727C-7893-4DE0-BF2B-33C7431958B8}"
+              p:before="*"
+              s:ds="{598B7630-72E7-4202-8AB9-61CEC1DE7773}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{0132BF7D-B74F-405D-8019-6CDE9B892C10}"
+              p:after="r[@uid='{9F2E727C-7893-4DE0-BF2B-33C7431958B8}']"
+              s:ds="{B76CCDF9-DDB7-4F0D-83EE-F883B1EACC65}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top" />
+            <r
+              uid="{1680D472-4648-485F-B55A-1AE83F7B825E}"
+              p:after="r[@uid='{0132BF7D-B74F-405D-8019-6CDE9B892C10}']"
+              s:ds="{180FA433-561C-4E29-9B4F-23C07A422A17}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{44C35A55-976E-4FFC-8897-75BCA2CD7C69}"
+              p:after="r[@uid='{1680D472-4648-485F-B55A-1AE83F7B825E}']"
+              s:ds="{9E94BD7C-E452-47B4-B70F-EB9B41CE5B3F}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-top" />
+            <r
+              uid="{0FBD7B17-E553-49D9-9137-749DC31DBE45}"
+              p:after="r[@uid='{44C35A55-976E-4FFC-8897-75BCA2CD7C69}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0/image-block-splitter-960x1080-right" />
+            <r
+              uid="{BCF356DB-39BE-41EC-98E8-4CFD6F1A34BF}"
+              p:after="r[@uid='{0FBD7B17-E553-49D9-9137-749DC31DBE45}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0/image-block-splitter-960x1080-left" />
+            <r
+              uid="{C9286C79-9676-46BE-BAE4-6C0DA8F1C336}"
+              p:after="r[@uid='{BCF356DB-39BE-41EC-98E8-4CFD6F1A34BF}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0" />
+            <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}"
+              s:par="Add Gradient&amp;Text Color=white" />
+            <r
+              uid="{3F94459F-580E-478C-AF58-1F6F8D07C8A9}"
+              s:ds=""
+              s:par="Enable Autoplay=true&amp;Enable Center Text&amp;Add Gradient&amp;Text Color=white&amp;Wait Time=5000" />
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+            <r
+              uid="{754C7CFC-F1C1-49AC-BBCB-5BABD3A19539}"
+              p:after="r[@uid='{3F94459F-580E-478C-AF58-1F6F8D07C8A9}']"
+              s:ds="{B28BA852-3DD9-4051-807B-06D5B51D4CEE}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{E8CA6EC6-8B55-4851-B452-75F692EA6AA3}"
+              p:after="r[@uid='{754C7CFC-F1C1-49AC-BBCB-5BABD3A19539}']"
+              s:ds="{9D0FD1F4-9A1B-49CD-B89F-D252267173A8}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="main" />
+            <r
+              uid="{C6F33191-1B0B-474A-A941-75FA743B0A84}"
+              p:after="r[@uid='{E8CA6EC6-8B55-4851-B452-75F692EA6AA3}']"
+              s:ds="{397338B7-3FCB-49B4-9629-B75ED7ADD15E}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{D1347EF1-F25F-4E7E-883C-87E0426CAD52}"
+              p:after="r[@uid='{C6F33191-1B0B-474A-A941-75FA743B0A84}']"
+              s:ds="{46849125-E0DE-453A-99F9-88D5E7D2E815}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{FEC7BAB1-D683-473C-A450-E9C37CCDE64E}"
+              p:after="r[@uid='{D1347EF1-F25F-4E7E-883C-87E0426CAD52}']"
+              s:ds="{1E4A2BEE-4AD0-4A4B-9600-DB0709B55323}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{27381276-88BD-4647-B935-DDCDFCF13122}"
+              p:after="r[@uid='{FEC7BAB1-D683-473C-A450-E9C37CCDE64E}']"
+              s:ds="{CACECCD8-428E-4F55-A885-E999639AEBA7}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{E996780D-527F-4DD9-99A6-C21B7E8A2E39}"
+              p:after="r[@uid='{27381276-88BD-4647-B935-DDCDFCF13122}']"
+              s:ds="{9C7A0A2F-58AA-43F3-AC9A-56E1C5A70504}"
+              s:id="{F6988CA1-8F6A-4235-8851-39729DDF65B4}"
+              s:ph="main" />
+            <r
+              uid="{FF168F0B-55FD-48BD-B1C5-4CD981F67977}"
+              p:after="r[@uid='{E996780D-527F-4DD9-99A6-C21B7E8A2E39}']"
+              s:id="{6932DD17-1CD9-4D03-93B7-3C0A92EB8229}"
+              s:ph="main" />
+            <r
+              uid="{0DBCD386-A76E-491A-8311-540775F2B517}"
+              p:after="r[@uid='{FF168F0B-55FD-48BD-B1C5-4CD981F67977}']"
+              s:ds="{904D9AC1-68CE-4A90-AE79-54EB7EDDBDE1}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="main" />
+            <r
+              uid="{1739DE82-75A2-4ED7-8E34-1D42A6903706}"
+              p:after="r[@uid='{0DBCD386-A76E-491A-8311-540775F2B517}']"
+              s:ds="{F58BBC11-F092-4E36-9097-F1CEA54069F0}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:ph="main" />
+            <r
+              uid="{5982A875-5976-4448-9378-27CF3AC2374B}"
+              p:after="r[@uid='{1739DE82-75A2-4ED7-8E34-1D42A6903706}']"
+              s:ds="{07161D33-51A9-4659-8EE8-21AF418EB3F7}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{D43F944A-1449-4A77-8F34-BF0FC93E9249}"
+              p:after="r[@uid='{5982A875-5976-4448-9378-27CF3AC2374B}']"
+              s:ds="{BF842852-9421-4EB3-B669-184C12B6D1D4}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{6EDC01EB-C40C-4BDA-8E31-8E0C6BAAB1C7}"
+              p:after="r[@uid='{D43F944A-1449-4A77-8F34-BF0FC93E9249}']"
+              s:ds="{C3772A9A-1755-4E82-8C29-20D25DCA56FB}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{5A2212A7-4378-4CC2-ABA3-A77F7375F003}"
+              p:after="r[@uid='{6EDC01EB-C40C-4BDA-8E31-8E0C6BAAB1C7}']"
+              s:ds="{CD977F31-01E2-427E-A513-6F33874EF4DB}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{EF17CC7F-FA2D-4BFB-87D0-96932FBF3DE5}"
+              p:after="r[@uid='{5A2212A7-4378-4CC2-ABA3-A77F7375F003}']"
+              s:ds="{1ED85616-5A1F-4B63-9109-543729BBBC5D}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{BEE17EB8-0395-4F7E-80C0-8606D5F8C3A9}"
+              p:after="*[1=2]"
+              s:ds="{55D2A5A2-3850-4643-AE18-7B1F1BDDC2BE}"
+              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
+              s:par="Use Button for Link"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: GustoMSC
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Designers and engineers of mobile offshore units and equipment that focus on safe and efficient operations at sea for a more sustainable future</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: GustoMSC
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220107T141447Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: GustoMSC
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: GustoMSC
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{7BFDF55B-D789-4F80-BAA1-EE7B8380D4C6}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: GustoMSC
+    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
+      Hint: Search Result Text
+      Value: "Brand: GustoMSC"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "78e6c96f-3f6d-4244-8bc4-4b969928dcd0"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{EA155798-89F9-42A8-A18A-1921664D1E01}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: GustoMSC is a designer and engineer of mobile offshore units and equipment that focus on safe and efficient operations at sea for a more sustainable future.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20220107T141447Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{A16AE3A4-FA2A-444F-BAA0-AA44EA76A7E7}" cropregion="20,0,1903,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220107T142749Z
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: GustoMSC, offshore wind, offshore engineering, offshore energy, offshore technology, Gusto MSC, Gusto, MSC
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{A16AE3A4-FA2A-444F-BAA0-AA44EA76A7E7}" cropregion="2,0,1922,1080" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+    - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
+      Hint: brand
+      Value: "{C3F61168-AAD8-4212-BA65-2EAF59E5A3FE}"
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01fd8c23-1b98-4e4b-9f2d-ecf3eb8aad68"
+      Hint: businessUnits
+      Value: "{55081714-900D-4F84-A923-2C7CDC829502}"
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{9F2E727C-7893-4DE0-BF2B-33C7431958B8}"
+              p:before="*"
+              s:ds="{598B7630-72E7-4202-8AB9-61CEC1DE7773}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{0132BF7D-B74F-405D-8019-6CDE9B892C10}"
+              p:after="r[@uid='{9F2E727C-7893-4DE0-BF2B-33C7431958B8}']"
+              s:ds="{B76CCDF9-DDB7-4F0D-83EE-F883B1EACC65}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top" />
+            <r
+              uid="{1680D472-4648-485F-B55A-1AE83F7B825E}"
+              p:after="r[@uid='{0132BF7D-B74F-405D-8019-6CDE9B892C10}']"
+              s:ds="{180FA433-561C-4E29-9B4F-23C07A422A17}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{44C35A55-976E-4FFC-8897-75BCA2CD7C69}"
+              p:after="r[@uid='{1680D472-4648-485F-B55A-1AE83F7B825E}']"
+              s:ds="{9E94BD7C-E452-47B4-B70F-EB9B41CE5B3F}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-top" />
+            <r
+              uid="{0FBD7B17-E553-49D9-9137-749DC31DBE45}"
+              p:after="r[@uid='{44C35A55-976E-4FFC-8897-75BCA2CD7C69}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0/image-block-splitter-960x1080-right" />
+            <r
+              uid="{BCF356DB-39BE-41EC-98E8-4CFD6F1A34BF}"
+              p:after="r[@uid='{0FBD7B17-E553-49D9-9137-749DC31DBE45}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0/image-block-splitter-960x1080-left" />
+            <r
+              uid="{C9286C79-9676-46BE-BAE4-6C0DA8F1C336}"
+              p:after="r[@uid='{BCF356DB-39BE-41EC-98E8-4CFD6F1A34BF}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0" />
+            <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}"
+              s:par="Add Gradient&amp;Text Color=white" />
+            <r
+              uid="{3F94459F-580E-478C-AF58-1F6F8D07C8A9}"
+              s:ds=""
+              s:par="Enable Autoplay=true&amp;Enable Center Text&amp;Add Gradient&amp;Text Color=white&amp;Wait Time=5000" />
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+            <r
+              uid="{754C7CFC-F1C1-49AC-BBCB-5BABD3A19539}"
+              p:after="r[@uid='{3F94459F-580E-478C-AF58-1F6F8D07C8A9}']"
+              s:ds="{B28BA852-3DD9-4051-807B-06D5B51D4CEE}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{E8CA6EC6-8B55-4851-B452-75F692EA6AA3}"
+              p:after="r[@uid='{754C7CFC-F1C1-49AC-BBCB-5BABD3A19539}']"
+              s:ds="{9D0FD1F4-9A1B-49CD-B89F-D252267173A8}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="main" />
+            <r
+              uid="{C6F33191-1B0B-474A-A941-75FA743B0A84}"
+              p:after="r[@uid='{E8CA6EC6-8B55-4851-B452-75F692EA6AA3}']"
+              s:ds="{397338B7-3FCB-49B4-9629-B75ED7ADD15E}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{D2873B7A-A697-41FF-A3EA-ED990FEC9428}"
+              p:after="r[@uid='{C6F33191-1B0B-474A-A941-75FA743B0A84}']"
+              s:ds="{147C1E64-CC13-4FCB-A80F-2FCAE9ADD89D}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{D1347EF1-F25F-4E7E-883C-87E0426CAD52}"
+              p:after="r[@uid='{D2873B7A-A697-41FF-A3EA-ED990FEC9428}']"
+              s:ds="{46849125-E0DE-453A-99F9-88D5E7D2E815}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{FEC7BAB1-D683-473C-A450-E9C37CCDE64E}"
+              p:after="r[@uid='{D1347EF1-F25F-4E7E-883C-87E0426CAD52}']"
+              s:ds="{1E4A2BEE-4AD0-4A4B-9600-DB0709B55323}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{27381276-88BD-4647-B935-DDCDFCF13122}"
+              p:after="r[@uid='{FEC7BAB1-D683-473C-A450-E9C37CCDE64E}']"
+              s:ds="{CACECCD8-428E-4F55-A885-E999639AEBA7}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{E996780D-527F-4DD9-99A6-C21B7E8A2E39}"
+              p:after="r[@uid='{27381276-88BD-4647-B935-DDCDFCF13122}']"
+              s:ds="{9C7A0A2F-58AA-43F3-AC9A-56E1C5A70504}"
+              s:id="{F6988CA1-8F6A-4235-8851-39729DDF65B4}"
+              s:ph="main" />
+            <r
+              uid="{FF168F0B-55FD-48BD-B1C5-4CD981F67977}"
+              p:after="r[@uid='{E996780D-527F-4DD9-99A6-C21B7E8A2E39}']"
+              s:id="{6932DD17-1CD9-4D03-93B7-3C0A92EB8229}"
+              s:ph="main" />
+            <r
+              uid="{0DBCD386-A76E-491A-8311-540775F2B517}"
+              p:after="r[@uid='{FF168F0B-55FD-48BD-B1C5-4CD981F67977}']"
+              s:ds="{904D9AC1-68CE-4A90-AE79-54EB7EDDBDE1}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="main" />
+            <r
+              uid="{1739DE82-75A2-4ED7-8E34-1D42A6903706}"
+              p:after="r[@uid='{0DBCD386-A76E-491A-8311-540775F2B517}']"
+              s:ds="{F58BBC11-F092-4E36-9097-F1CEA54069F0}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:ph="main" />
+            <r
+              uid="{5982A875-5976-4448-9378-27CF3AC2374B}"
+              p:after="r[@uid='{1739DE82-75A2-4ED7-8E34-1D42A6903706}']"
+              s:ds="{07161D33-51A9-4659-8EE8-21AF418EB3F7}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{C7323B51-FA95-44E5-9211-06D675A17C4D}"
+              p:after="r[@uid='{5982A875-5976-4448-9378-27CF3AC2374B}']"
+              s:ds="{BF842852-9421-4EB3-B669-184C12B6D1D4}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{6EDC01EB-C40C-4BDA-8E31-8E0C6BAAB1C7}"
+              p:after="r[@uid='{C7323B51-FA95-44E5-9211-06D675A17C4D}']"
+              s:ds="{C3772A9A-1755-4E82-8C29-20D25DCA56FB}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{EF17CC7F-FA2D-4BFB-87D0-96932FBF3DE5}"
+              p:after="r[@uid='{6EDC01EB-C40C-4BDA-8E31-8E0C6BAAB1C7}']"
+              s:ds="{1ED85616-5A1F-4B63-9109-543729BBBC5D}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{BEE17EB8-0395-4F7E-80C0-8606D5F8C3A9}"
+              p:after="*[1=2]"
+              s:ds="{55D2A5A2-3850-4643-AE18-7B1F1BDDC2BE}"
+              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
+              s:par="Use Button for Link"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: GustoMSC
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Designers and engineers of mobile offshore units and equipment that focus on safe and efficient operations at sea for a more sustainable future</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: GustoMSC
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220308T174406Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: GustoMSC
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: GustoMSC
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{7BFDF55B-D789-4F80-BAA1-EE7B8380D4C6}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: GustoMSC
+    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
+      Hint: Search Result Text
+      Value: "Brand: GustoMSC"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3ce643ff-e1fb-425e-b404-3a1ca1658867"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{EA155798-89F9-42A8-A18A-1921664D1E01}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: GustoMSC is a designer and engineer of mobile offshore units and equipment that focus on safe and efficient operations at sea for a more sustainable future.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20220308T174406Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{A16AE3A4-FA2A-444F-BAA0-AA44EA76A7E7}" cropregion="20,0,1903,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220630T155628Z
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: GustoMSC, offshore wind, offshore engineering, offshore energy, offshore technology, Gusto MSC, Gusto, MSC
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{A16AE3A4-FA2A-444F-BAA0-AA44EA76A7E7}" cropregion="2,0,1922,1080" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+    - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
+      Hint: brand
+      Value: "{C3F61168-AAD8-4212-BA65-2EAF59E5A3FE}"
+  - Version: 4
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01fd8c23-1b98-4e4b-9f2d-ecf3eb8aad68"
+      Hint: businessUnits
+      Value: "{55081714-900D-4F84-A923-2C7CDC829502}"
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{9F2E727C-7893-4DE0-BF2B-33C7431958B8}"
+              p:before="*"
+              s:ds="{598B7630-72E7-4202-8AB9-61CEC1DE7773}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{0132BF7D-B74F-405D-8019-6CDE9B892C10}"
+              p:after="r[@uid='{9F2E727C-7893-4DE0-BF2B-33C7431958B8}']"
+              s:ds="{B76CCDF9-DDB7-4F0D-83EE-F883B1EACC65}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top" />
+            <r
+              uid="{1680D472-4648-485F-B55A-1AE83F7B825E}"
+              p:after="r[@uid='{0132BF7D-B74F-405D-8019-6CDE9B892C10}']"
+              s:ds="{180FA433-561C-4E29-9B4F-23C07A422A17}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{44C35A55-976E-4FFC-8897-75BCA2CD7C69}"
+              p:after="r[@uid='{1680D472-4648-485F-B55A-1AE83F7B825E}']"
+              s:ds="{9E94BD7C-E452-47B4-B70F-EB9B41CE5B3F}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-top" />
+            <r
+              uid="{0FBD7B17-E553-49D9-9137-749DC31DBE45}"
+              p:after="r[@uid='{44C35A55-976E-4FFC-8897-75BCA2CD7C69}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0/image-block-splitter-960x1080-right" />
+            <r
+              uid="{BCF356DB-39BE-41EC-98E8-4CFD6F1A34BF}"
+              p:after="r[@uid='{0FBD7B17-E553-49D9-9137-749DC31DBE45}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0/image-block-splitter-960x1080-left" />
+            <r
+              uid="{C9286C79-9676-46BE-BAE4-6C0DA8F1C336}"
+              p:after="r[@uid='{BCF356DB-39BE-41EC-98E8-4CFD6F1A34BF}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0" />
+            <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}"
+              s:par="Add Gradient&amp;Text Color=white" />
+            <r
+              uid="{3F94459F-580E-478C-AF58-1F6F8D07C8A9}"
+              s:ds=""
+              s:par="Enable Autoplay=true&amp;Enable Center Text&amp;Add Gradient&amp;Text Color=white&amp;Wait Time=5000" />
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+            <r
+              uid="{754C7CFC-F1C1-49AC-BBCB-5BABD3A19539}"
+              p:after="r[@uid='{3F94459F-580E-478C-AF58-1F6F8D07C8A9}']"
+              s:ds="{B28BA852-3DD9-4051-807B-06D5B51D4CEE}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{E8CA6EC6-8B55-4851-B452-75F692EA6AA3}"
+              p:after="r[@uid='{754C7CFC-F1C1-49AC-BBCB-5BABD3A19539}']"
+              s:ds="{9D0FD1F4-9A1B-49CD-B89F-D252267173A8}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="main" />
+            <r
+              uid="{C6F33191-1B0B-474A-A941-75FA743B0A84}"
+              p:after="r[@uid='{E8CA6EC6-8B55-4851-B452-75F692EA6AA3}']"
+              s:ds="{397338B7-3FCB-49B4-9629-B75ED7ADD15E}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{D2873B7A-A697-41FF-A3EA-ED990FEC9428}"
+              p:after="r[@uid='{C6F33191-1B0B-474A-A941-75FA743B0A84}']"
+              s:ds="{147C1E64-CC13-4FCB-A80F-2FCAE9ADD89D}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{D1347EF1-F25F-4E7E-883C-87E0426CAD52}"
+              p:after="r[@uid='{D2873B7A-A697-41FF-A3EA-ED990FEC9428}']"
+              s:ds="{46849125-E0DE-453A-99F9-88D5E7D2E815}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{FEC7BAB1-D683-473C-A450-E9C37CCDE64E}"
+              p:after="r[@uid='{D1347EF1-F25F-4E7E-883C-87E0426CAD52}']"
+              s:ds="{1E4A2BEE-4AD0-4A4B-9600-DB0709B55323}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{27381276-88BD-4647-B935-DDCDFCF13122}"
+              p:after="r[@uid='{FEC7BAB1-D683-473C-A450-E9C37CCDE64E}']"
+              s:ds="{CACECCD8-428E-4F55-A885-E999639AEBA7}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{E996780D-527F-4DD9-99A6-C21B7E8A2E39}"
+              p:after="r[@uid='{27381276-88BD-4647-B935-DDCDFCF13122}']"
+              s:ds="{9C7A0A2F-58AA-43F3-AC9A-56E1C5A70504}"
+              s:id="{F6988CA1-8F6A-4235-8851-39729DDF65B4}"
+              s:ph="main" />
+            <r
+              uid="{FF168F0B-55FD-48BD-B1C5-4CD981F67977}"
+              p:after="r[@uid='{E996780D-527F-4DD9-99A6-C21B7E8A2E39}']"
+              s:id="{6932DD17-1CD9-4D03-93B7-3C0A92EB8229}"
+              s:ph="main" />
+            <r
+              uid="{0DBCD386-A76E-491A-8311-540775F2B517}"
+              p:after="r[@uid='{FF168F0B-55FD-48BD-B1C5-4CD981F67977}']"
+              s:ds="{904D9AC1-68CE-4A90-AE79-54EB7EDDBDE1}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="main" />
+            <r
+              uid="{1739DE82-75A2-4ED7-8E34-1D42A6903706}"
+              p:after="r[@uid='{0DBCD386-A76E-491A-8311-540775F2B517}']"
+              s:ds="{F58BBC11-F092-4E36-9097-F1CEA54069F0}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:ph="main" />
+            <r
+              uid="{5982A875-5976-4448-9378-27CF3AC2374B}"
+              p:after="r[@uid='{1739DE82-75A2-4ED7-8E34-1D42A6903706}']"
+              s:ds="{07161D33-51A9-4659-8EE8-21AF418EB3F7}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{C7323B51-FA95-44E5-9211-06D675A17C4D}"
+              p:after="r[@uid='{5982A875-5976-4448-9378-27CF3AC2374B}']"
+              s:ds="{BF842852-9421-4EB3-B669-184C12B6D1D4}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{6EDC01EB-C40C-4BDA-8E31-8E0C6BAAB1C7}"
+              p:after="r[@uid='{C7323B51-FA95-44E5-9211-06D675A17C4D}']"
+              s:ds="{C3772A9A-1755-4E82-8C29-20D25DCA56FB}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{EF17CC7F-FA2D-4BFB-87D0-96932FBF3DE5}"
+              p:after="r[@uid='{6EDC01EB-C40C-4BDA-8E31-8E0C6BAAB1C7}']"
+              s:ds="{1ED85616-5A1F-4B63-9109-543729BBBC5D}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{BEE17EB8-0395-4F7E-80C0-8606D5F8C3A9}"
+              p:after="*[1=2]"
+              s:ds="{55D2A5A2-3850-4643-AE18-7B1F1BDDC2BE}"
+              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
+              s:par="Use Button for Link"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: GustoMSC
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Designers and engineers of mobile offshore units and equipment that focus on safe and efficient operations at sea for a more sustainable future</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: GustoMSC
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220630T172615Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: GustoMSC
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: GustoMSC
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{7BFDF55B-D789-4F80-BAA1-EE7B8380D4C6}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: GustoMSC
+    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
+      Hint: Search Result Text
+      Value: "Brand: GustoMSC"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f769d230-10e9-442e-b409-74f7e8afe97e"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{EA155798-89F9-42A8-A18A-1921664D1E01}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: GustoMSC is a designer and engineer of mobile offshore units and equipment that focus on safe and efficient operations at sea for a more sustainable future.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20220630T172615Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{A16AE3A4-FA2A-444F-BAA0-AA44EA76A7E7}" cropregion="20,0,1903,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220705T142458Z
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: GustoMSC, offshore wind, offshore engineering, offshore energy, offshore technology, Gusto MSC, Gusto, MSC
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{A16AE3A4-FA2A-444F-BAA0-AA44EA76A7E7}" cropregion="2,0,1922,1080" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+    - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
+      Hint: brand
+      Value: "{C3F61168-AAD8-4212-BA65-2EAF59E5A3FE}"
+  - Version: 5
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01fd8c23-1b98-4e4b-9f2d-ecf3eb8aad68"
+      Hint: businessUnits
+      Value: "{55081714-900D-4F84-A923-2C7CDC829502}"
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{9F2E727C-7893-4DE0-BF2B-33C7431958B8}"
+              p:before="*"
+              s:ds="{598B7630-72E7-4202-8AB9-61CEC1DE7773}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{0132BF7D-B74F-405D-8019-6CDE9B892C10}"
+              p:after="r[@uid='{9F2E727C-7893-4DE0-BF2B-33C7431958B8}']"
+              s:ds="{B76CCDF9-DDB7-4F0D-83EE-F883B1EACC65}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top" />
+            <r
+              uid="{1680D472-4648-485F-B55A-1AE83F7B825E}"
+              p:after="r[@uid='{0132BF7D-B74F-405D-8019-6CDE9B892C10}']"
+              s:ds="{180FA433-561C-4E29-9B4F-23C07A422A17}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{44C35A55-976E-4FFC-8897-75BCA2CD7C69}"
+              p:after="r[@uid='{1680D472-4648-485F-B55A-1AE83F7B825E}']"
+              s:ds="{9E94BD7C-E452-47B4-B70F-EB9B41CE5B3F}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-top" />
+            <r
+              uid="{0FBD7B17-E553-49D9-9137-749DC31DBE45}"
+              p:after="r[@uid='{44C35A55-976E-4FFC-8897-75BCA2CD7C69}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0/image-block-splitter-960x1080-right" />
+            <r
+              uid="{BCF356DB-39BE-41EC-98E8-4CFD6F1A34BF}"
+              p:after="r[@uid='{0FBD7B17-E553-49D9-9137-749DC31DBE45}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0/image-block-splitter-960x1080-left" />
+            <r
+              uid="{C9286C79-9676-46BE-BAE4-6C0DA8F1C336}"
+              p:after="r[@uid='{BCF356DB-39BE-41EC-98E8-4CFD6F1A34BF}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0" />
+            <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}"
+              s:par="Add Gradient&amp;Text Color=white" />
+            <r
+              uid="{3F94459F-580E-478C-AF58-1F6F8D07C8A9}"
+              s:ds=""
+              s:par="Enable Autoplay=true&amp;Enable Center Text&amp;Add Gradient&amp;Text Color=white&amp;Wait Time=5000" />
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+            <r
+              uid="{754C7CFC-F1C1-49AC-BBCB-5BABD3A19539}"
+              p:after="r[@uid='{3F94459F-580E-478C-AF58-1F6F8D07C8A9}']"
+              s:ds="{B28BA852-3DD9-4051-807B-06D5B51D4CEE}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{E8CA6EC6-8B55-4851-B452-75F692EA6AA3}"
+              p:after="r[@uid='{754C7CFC-F1C1-49AC-BBCB-5BABD3A19539}']"
+              s:ds="{9D0FD1F4-9A1B-49CD-B89F-D252267173A8}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="main" />
+            <r
+              uid="{C6F33191-1B0B-474A-A941-75FA743B0A84}"
+              p:after="r[@uid='{E8CA6EC6-8B55-4851-B452-75F692EA6AA3}']"
+              s:ds="{397338B7-3FCB-49B4-9629-B75ED7ADD15E}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{D2873B7A-A697-41FF-A3EA-ED990FEC9428}"
+              p:after="r[@uid='{C6F33191-1B0B-474A-A941-75FA743B0A84}']"
+              s:ds="{147C1E64-CC13-4FCB-A80F-2FCAE9ADD89D}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{D1347EF1-F25F-4E7E-883C-87E0426CAD52}"
+              p:after="r[@uid='{D2873B7A-A697-41FF-A3EA-ED990FEC9428}']"
+              s:ds="{46849125-E0DE-453A-99F9-88D5E7D2E815}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{FEC7BAB1-D683-473C-A450-E9C37CCDE64E}"
+              p:after="r[@uid='{D1347EF1-F25F-4E7E-883C-87E0426CAD52}']"
+              s:ds="{1E4A2BEE-4AD0-4A4B-9600-DB0709B55323}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{27381276-88BD-4647-B935-DDCDFCF13122}"
+              p:after="r[@uid='{FEC7BAB1-D683-473C-A450-E9C37CCDE64E}']"
+              s:ds="{CACECCD8-428E-4F55-A885-E999639AEBA7}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{E996780D-527F-4DD9-99A6-C21B7E8A2E39}"
+              p:after="r[@uid='{27381276-88BD-4647-B935-DDCDFCF13122}']"
+              s:ds="{9C7A0A2F-58AA-43F3-AC9A-56E1C5A70504}"
+              s:id="{F6988CA1-8F6A-4235-8851-39729DDF65B4}"
+              s:ph="main" />
+            <r
+              uid="{FF168F0B-55FD-48BD-B1C5-4CD981F67977}"
+              p:after="r[@uid='{E996780D-527F-4DD9-99A6-C21B7E8A2E39}']"
+              s:id="{6932DD17-1CD9-4D03-93B7-3C0A92EB8229}"
+              s:ph="main" />
+            <r
+              uid="{0DBCD386-A76E-491A-8311-540775F2B517}"
+              p:after="r[@uid='{FF168F0B-55FD-48BD-B1C5-4CD981F67977}']"
+              s:ds="{904D9AC1-68CE-4A90-AE79-54EB7EDDBDE1}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="main" />
+            <r
+              uid="{1739DE82-75A2-4ED7-8E34-1D42A6903706}"
+              p:after="r[@uid='{0DBCD386-A76E-491A-8311-540775F2B517}']"
+              s:ds="{F58BBC11-F092-4E36-9097-F1CEA54069F0}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:ph="main" />
+            <r
+              uid="{5982A875-5976-4448-9378-27CF3AC2374B}"
+              p:after="r[@uid='{1739DE82-75A2-4ED7-8E34-1D42A6903706}']"
+              s:ds="{07161D33-51A9-4659-8EE8-21AF418EB3F7}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{C7323B51-FA95-44E5-9211-06D675A17C4D}"
+              p:after="r[@uid='{5982A875-5976-4448-9378-27CF3AC2374B}']"
+              s:ds="{BF842852-9421-4EB3-B669-184C12B6D1D4}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{6EDC01EB-C40C-4BDA-8E31-8E0C6BAAB1C7}"
+              p:after="r[@uid='{C7323B51-FA95-44E5-9211-06D675A17C4D}']"
+              s:ds="{C3772A9A-1755-4E82-8C29-20D25DCA56FB}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{EF17CC7F-FA2D-4BFB-87D0-96932FBF3DE5}"
+              p:after="r[@uid='{6EDC01EB-C40C-4BDA-8E31-8E0C6BAAB1C7}']"
+              s:ds="{1ED85616-5A1F-4B63-9109-543729BBBC5D}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{BEE17EB8-0395-4F7E-80C0-8606D5F8C3A9}"
+              p:after="*[1=2]"
+              s:ds="{55D2A5A2-3850-4643-AE18-7B1F1BDDC2BE}"
+              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
+              s:par="Use Button for Link"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: GustoMSC
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Designers and engineers of mobile offshore units and equipment that focus on safe and efficient operations at sea for a more sustainable future</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: GustoMSC
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220706T144238Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: GustoMSC
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: GustoMSC
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{7BFDF55B-D789-4F80-BAA1-EE7B8380D4C6}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: GustoMSC
+    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
+      Hint: Search Result Text
+      Value: "Brand: GustoMSC"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5f9ebc1a-3994-4923-a16a-0b4cb083de19"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{EA155798-89F9-42A8-A18A-1921664D1E01}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: GustoMSC is a designer and engineer of mobile offshore units and equipment that focus on safe and efficient operations at sea for a more sustainable future.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20220706T144238Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{A16AE3A4-FA2A-444F-BAA0-AA44EA76A7E7}" cropregion="20,0,1903,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220706T144932Z
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: GustoMSC, offshore wind, offshore engineering, offshore energy, offshore technology, Gusto MSC, Gusto, MSC
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{A16AE3A4-FA2A-444F-BAA0-AA44EA76A7E7}" cropregion="2,0,1922,1080" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+    - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
+      Hint: brand
+      Value: "{C3F61168-AAD8-4212-BA65-2EAF59E5A3FE}"
+  - Version: 6
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01fd8c23-1b98-4e4b-9f2d-ecf3eb8aad68"
+      Hint: businessUnits
+      Value: "{55081714-900D-4F84-A923-2C7CDC829502}"
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{9F2E727C-7893-4DE0-BF2B-33C7431958B8}"
+              p:before="*"
+              s:ds="{598B7630-72E7-4202-8AB9-61CEC1DE7773}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{0132BF7D-B74F-405D-8019-6CDE9B892C10}"
+              p:after="r[@uid='{9F2E727C-7893-4DE0-BF2B-33C7431958B8}']"
+              s:ds="{B76CCDF9-DDB7-4F0D-83EE-F883B1EACC65}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top" />
+            <r
+              uid="{1680D472-4648-485F-B55A-1AE83F7B825E}"
+              p:after="r[@uid='{0132BF7D-B74F-405D-8019-6CDE9B892C10}']"
+              s:ds="{180FA433-561C-4E29-9B4F-23C07A422A17}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{44C35A55-976E-4FFC-8897-75BCA2CD7C69}"
+              p:after="r[@uid='{1680D472-4648-485F-B55A-1AE83F7B825E}']"
+              s:ds="{9E94BD7C-E452-47B4-B70F-EB9B41CE5B3F}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-top" />
+            <r
+              uid="{0FBD7B17-E553-49D9-9137-749DC31DBE45}"
+              p:after="r[@uid='{44C35A55-976E-4FFC-8897-75BCA2CD7C69}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0/image-block-splitter-960x1080-right" />
+            <r
+              uid="{BCF356DB-39BE-41EC-98E8-4CFD6F1A34BF}"
+              p:after="r[@uid='{0FBD7B17-E553-49D9-9137-749DC31DBE45}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0/image-block-splitter-960x1080-left" />
+            <r
+              uid="{C9286C79-9676-46BE-BAE4-6C0DA8F1C336}"
+              p:after="r[@uid='{BCF356DB-39BE-41EC-98E8-4CFD6F1A34BF}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0" />
+            <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}"
+              s:par="Add Gradient&amp;Text Color=white" />
+            <r
+              uid="{3F94459F-580E-478C-AF58-1F6F8D07C8A9}"
+              s:ds=""
+              s:par="Enable Autoplay=true&amp;Enable Center Text&amp;Add Gradient&amp;Text Color=white&amp;Wait Time=5000" />
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+            <r
+              uid="{754C7CFC-F1C1-49AC-BBCB-5BABD3A19539}"
+              p:after="r[@uid='{3F94459F-580E-478C-AF58-1F6F8D07C8A9}']"
+              s:ds="{B28BA852-3DD9-4051-807B-06D5B51D4CEE}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{E8CA6EC6-8B55-4851-B452-75F692EA6AA3}"
+              p:after="r[@uid='{754C7CFC-F1C1-49AC-BBCB-5BABD3A19539}']"
+              s:ds="{9D0FD1F4-9A1B-49CD-B89F-D252267173A8}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="main" />
+            <r
+              uid="{C6F33191-1B0B-474A-A941-75FA743B0A84}"
+              p:after="r[@uid='{E8CA6EC6-8B55-4851-B452-75F692EA6AA3}']"
+              s:ds="{397338B7-3FCB-49B4-9629-B75ED7ADD15E}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{D2873B7A-A697-41FF-A3EA-ED990FEC9428}"
+              p:after="r[@uid='{C6F33191-1B0B-474A-A941-75FA743B0A84}']"
+              s:ds="{147C1E64-CC13-4FCB-A80F-2FCAE9ADD89D}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{D1347EF1-F25F-4E7E-883C-87E0426CAD52}"
+              p:after="r[@uid='{D2873B7A-A697-41FF-A3EA-ED990FEC9428}']"
+              s:ds="{46849125-E0DE-453A-99F9-88D5E7D2E815}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{FEC7BAB1-D683-473C-A450-E9C37CCDE64E}"
+              p:after="r[@uid='{D1347EF1-F25F-4E7E-883C-87E0426CAD52}']"
+              s:ds="{1E4A2BEE-4AD0-4A4B-9600-DB0709B55323}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{27381276-88BD-4647-B935-DDCDFCF13122}"
+              p:after="r[@uid='{FEC7BAB1-D683-473C-A450-E9C37CCDE64E}']"
+              s:ds="{CACECCD8-428E-4F55-A885-E999639AEBA7}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{E996780D-527F-4DD9-99A6-C21B7E8A2E39}"
+              p:after="r[@uid='{27381276-88BD-4647-B935-DDCDFCF13122}']"
+              s:ds="{9C7A0A2F-58AA-43F3-AC9A-56E1C5A70504}"
+              s:id="{F6988CA1-8F6A-4235-8851-39729DDF65B4}"
+              s:ph="main" />
+            <r
+              uid="{FF168F0B-55FD-48BD-B1C5-4CD981F67977}"
+              p:after="r[@uid='{E996780D-527F-4DD9-99A6-C21B7E8A2E39}']"
+              s:id="{6932DD17-1CD9-4D03-93B7-3C0A92EB8229}"
+              s:ph="main" />
+            <r
+              uid="{0DBCD386-A76E-491A-8311-540775F2B517}"
+              p:after="r[@uid='{FF168F0B-55FD-48BD-B1C5-4CD981F67977}']"
+              s:ds="{904D9AC1-68CE-4A90-AE79-54EB7EDDBDE1}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="main" />
+            <r
+              uid="{1739DE82-75A2-4ED7-8E34-1D42A6903706}"
+              p:after="r[@uid='{0DBCD386-A76E-491A-8311-540775F2B517}']"
+              s:ds="{F58BBC11-F092-4E36-9097-F1CEA54069F0}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:ph="main" />
+            <r
+              uid="{5982A875-5976-4448-9378-27CF3AC2374B}"
+              p:after="r[@uid='{1739DE82-75A2-4ED7-8E34-1D42A6903706}']"
+              s:ds="{07161D33-51A9-4659-8EE8-21AF418EB3F7}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{6668887B-1C9F-4422-A18E-1D9333A02052}"
+              p:after="r[@uid='{5982A875-5976-4448-9378-27CF3AC2374B}']"
+              s:ds="{7C84A110-1AF3-4639-A96C-88F89E93E027}"
+              s:id="{93ADFF97-73E8-46AA-9C18-068BDB6232A8}"
+              s:ph="main" />
+            <r
+              uid="{6EDC01EB-C40C-4BDA-8E31-8E0C6BAAB1C7}"
+              p:after="r[@uid='{6668887B-1C9F-4422-A18E-1D9333A02052}']"
+              s:ds="{C3772A9A-1755-4E82-8C29-20D25DCA56FB}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{EF17CC7F-FA2D-4BFB-87D0-96932FBF3DE5}"
+              p:after="r[@uid='{6EDC01EB-C40C-4BDA-8E31-8E0C6BAAB1C7}']"
+              s:ds="{1ED85616-5A1F-4B63-9109-543729BBBC5D}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{BEE17EB8-0395-4F7E-80C0-8606D5F8C3A9}"
+              p:after="*[1=2]"
+              s:ds="{55D2A5A2-3850-4643-AE18-7B1F1BDDC2BE}"
+              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
+              s:par="Use Button for Link"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: GustoMSC
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Designers and engineers of mobile offshore units and equipment that focus on safe and efficient operations at sea for a more sustainable future</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: GustoMSC
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220721T114403Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: GustoMSC
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: GustoMSC
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{7BFDF55B-D789-4F80-BAA1-EE7B8380D4C6}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: GustoMSC
+    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
+      Hint: Search Result Text
+      Value: "Brand: GustoMSC"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5821461d-ca45-42b4-843b-7e6cac3ac964"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{EA155798-89F9-42A8-A18A-1921664D1E01}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: GustoMSC is a designer and engineer of mobile offshore units and equipment that focus on safe and efficient operations at sea for a more sustainable future.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20220721T114403Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{A16AE3A4-FA2A-444F-BAA0-AA44EA76A7E7}" cropregion="20,0,1903,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220721T115431Z
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: GustoMSC, offshore wind, offshore engineering, offshore energy, offshore technology, Gusto MSC, Gusto, MSC
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{A16AE3A4-FA2A-444F-BAA0-AA44EA76A7E7}" cropregion="2,0,1922,1080" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+    - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
+      Hint: brand
+      Value: "{C3F61168-AAD8-4212-BA65-2EAF59E5A3FE}"
+  - Version: 7
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01fd8c23-1b98-4e4b-9f2d-ecf3eb8aad68"
+      Hint: businessUnits
+      Value: "{55081714-900D-4F84-A923-2C7CDC829502}"
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{A8A31A6D-98A1-4E80-94D1-09B1B252D945}"
+              p:before="*"
+              s:ds="{F994F26C-10EA-479E-BE1A-7CFF52051EAE}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{9F2E727C-7893-4DE0-BF2B-33C7431958B8}"
+              p:after="r[@uid='{A8A31A6D-98A1-4E80-94D1-09B1B252D945}']"
+              s:ds="{598B7630-72E7-4202-8AB9-61CEC1DE7773}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{0132BF7D-B74F-405D-8019-6CDE9B892C10}"
+              p:after="r[@uid='{9F2E727C-7893-4DE0-BF2B-33C7431958B8}']"
+              s:ds="{B76CCDF9-DDB7-4F0D-83EE-F883B1EACC65}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top" />
+            <r
+              uid="{1680D472-4648-485F-B55A-1AE83F7B825E}"
+              p:after="r[@uid='{0132BF7D-B74F-405D-8019-6CDE9B892C10}']"
+              s:ds="{180FA433-561C-4E29-9B4F-23C07A422A17}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{44C35A55-976E-4FFC-8897-75BCA2CD7C69}"
+              p:after="r[@uid='{1680D472-4648-485F-B55A-1AE83F7B825E}']"
+              s:ds="{9E94BD7C-E452-47B4-B70F-EB9B41CE5B3F}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-top" />
+            <r
+              uid="{0FBD7B17-E553-49D9-9137-749DC31DBE45}"
+              p:after="r[@uid='{44C35A55-976E-4FFC-8897-75BCA2CD7C69}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0/image-block-splitter-960x1080-right" />
+            <r
+              uid="{BCF356DB-39BE-41EC-98E8-4CFD6F1A34BF}"
+              p:after="r[@uid='{0FBD7B17-E553-49D9-9137-749DC31DBE45}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0/image-block-splitter-960x1080-left" />
+            <r
+              uid="{C9286C79-9676-46BE-BAE4-6C0DA8F1C336}"
+              p:after="r[@uid='{BCF356DB-39BE-41EC-98E8-4CFD6F1A34BF}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0" />
+            <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}"
+              s:ds="{5C440556-A132-4A4D-AD5C-51F4370382A8}" />
+            <r
+              uid="{3F94459F-580E-478C-AF58-1F6F8D07C8A9}"
+              s:ds=""
+              s:par="Enable Autoplay=true&amp;Enable Center Text&amp;Add Gradient&amp;Text Color=white&amp;Wait Time=5000" />
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+            <r
+              uid="{1D395C53-EFC3-40A0-AC2F-05273E167CC3}"
+              p:after="r[@uid='{3F94459F-580E-478C-AF58-1F6F8D07C8A9}']"
+              s:ds="{55E11B39-EBF6-4570-9B81-A6807D373279}"
+              s:id="{A22722F6-65DF-4574-B659-191957028C9B}"
+              s:ph="main" />
+            <r
+              uid="{1739DE82-75A2-4ED7-8E34-1D42A6903706}"
+              p:after="r[@uid='{1D395C53-EFC3-40A0-AC2F-05273E167CC3}']"
+              s:ds="{F58BBC11-F092-4E36-9097-F1CEA54069F0}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:ph="main" />
+            <r
+              uid="{E8CA6EC6-8B55-4851-B452-75F692EA6AA3}"
+              p:after="r[@uid='{1739DE82-75A2-4ED7-8E34-1D42A6903706}']"
+              s:ds="{9D0FD1F4-9A1B-49CD-B89F-D252267173A8}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="main" />
+            <r
+              uid="{0CFEAC35-CA87-4A9F-A20F-56B2DD58CA5A}"
+              p:after="r[@uid='{E8CA6EC6-8B55-4851-B452-75F692EA6AA3}']"
+              s:ds="{11FA846B-9F63-4F7E-9307-0F3641855F6F}"
+              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
+              s:par="Use Button for Link"
+              s:ph="main" />
+            <r
+              uid="{04590D48-9104-4E86-B12F-05A520793794}"
+              p:after="r[@uid='{0CFEAC35-CA87-4A9F-A20F-56B2DD58CA5A}']"
+              s:ds="{EE34BB63-5A3D-45FD-B31B-A3C04F433597}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="main" />
+            <r
+              uid="{5982A875-5976-4448-9378-27CF3AC2374B}"
+              p:after="r[@uid='{04590D48-9104-4E86-B12F-05A520793794}']"
+              s:ds="{07161D33-51A9-4659-8EE8-21AF418EB3F7}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{FF168F0B-55FD-48BD-B1C5-4CD981F67977}"
+              p:after="r[@uid='{5982A875-5976-4448-9378-27CF3AC2374B}']"
+              s:id="{6932DD17-1CD9-4D03-93B7-3C0A92EB8229}"
+              s:ph="main" />
+            <r
+              uid="{A57CB015-932D-4253-9D65-3BC8E73CB6C0}"
+              p:after="r[@uid='{FF168F0B-55FD-48BD-B1C5-4CD981F67977}']"
+              s:ds="{29535C63-ED60-4CD5-8078-1F0AC317DA20}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{CBCB27D7-6EE8-44A7-9C0A-17BF81C8D84E}"
+              p:after="r[@uid='{A57CB015-932D-4253-9D65-3BC8E73CB6C0}']"
+              s:ds="{2052868F-8272-418C-9515-A48FF57119D6}"
+              s:id="{7EE99E6C-C671-468E-8381-C6B9BB1E6416}"
+              s:ph="main" />
+            <r
+              uid="{66FA1F9B-E7C2-4238-9B5A-F7E5BCB45C49}"
+              p:after="r[@uid='{CBCB27D7-6EE8-44A7-9C0A-17BF81C8D84E}']"
+              s:ds="{1D73F544-F435-4DB7-8095-9874F3789BC5}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{6EDC01EB-C40C-4BDA-8E31-8E0C6BAAB1C7}"
+              p:after="r[@uid='{66FA1F9B-E7C2-4238-9B5A-F7E5BCB45C49}']"
+              s:ds="{C3772A9A-1755-4E82-8C29-20D25DCA56FB}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{6668887B-1C9F-4422-A18E-1D9333A02052}"
+              p:after="r[@uid='{6EDC01EB-C40C-4BDA-8E31-8E0C6BAAB1C7}']"
+              s:ds="{7C84A110-1AF3-4639-A96C-88F89E93E027}"
+              s:id="{93ADFF97-73E8-46AA-9C18-068BDB6232A8}"
+              s:ph="main" />
+            <r
+              uid="{F197E084-D1A8-4C75-9101-AF9E8B7100C3}"
+              p:after="r[@uid='{6668887B-1C9F-4422-A18E-1D9333A02052}']"
+              s:ds="{152AF4E0-BFF3-4400-A330-EF0E69000E7D}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:ph="main" />
+            <r
+              uid="{EF17CC7F-FA2D-4BFB-87D0-96932FBF3DE5}"
+              p:after="r[@uid='{F197E084-D1A8-4C75-9101-AF9E8B7100C3}']"
+              s:ds="{1ED85616-5A1F-4B63-9109-543729BBBC5D}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{BEE17EB8-0395-4F7E-80C0-8606D5F8C3A9}"
+              p:after="r[@uid='{EF17CC7F-FA2D-4BFB-87D0-96932FBF3DE5}']"
+              s:ds="{55D2A5A2-3850-4643-AE18-7B1F1BDDC2BE}"
+              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
+              s:par="Use Button for Link"
+              s:ph="main" />
+            <r
+              uid="{C6E437DD-9924-49DD-80EF-AA9BB2C877BF}"
+              p:after="*[1=2]"
+              s:ds="{A7B044FF-C3FE-4683-972B-0A15837EFFD9}"
+              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
+              s:par="Use Button for Link"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: GustoMSC
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Pioneers of offshore engineering, constantly working toward a more sustainable future</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: GustoMSC
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220816T154121Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: GustoMSC
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: GustoMSC
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{63EDE482-CF34-460B-BC86-A469D0359ED3}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{7BFDF55B-D789-4F80-BAA1-EE7B8380D4C6}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: GustoMSC
+    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
+      Hint: Search Result Text
+      Value: "Brand: GustoMSC"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "90ff6da9-a641-4290-8b67-829e7edd5d87"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{EA155798-89F9-42A8-A18A-1921664D1E01}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: GustoMSC is a designer and engineer of mobile offshore units and equipment that focus on safe and efficient operations at sea for a more sustainable future.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20220816T154121Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{63EDE482-CF34-460B-BC86-A469D0359ED3}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220915T130013Z
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: GustoMSC, offshore wind, offshore engineering, offshore energy, offshore technology, Gusto MSC, Gusto, MSC
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{63EDE482-CF34-460B-BC86-A469D0359ED3}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+    - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
+      Hint: brand
+      Value: "{C3F61168-AAD8-4212-BA65-2EAF59E5A3FE}"
+  - Version: 8
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01fd8c23-1b98-4e4b-9f2d-ecf3eb8aad68"
+      Hint: businessUnits
+      Value: "{55081714-900D-4F84-A923-2C7CDC829502}"
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{A8A31A6D-98A1-4E80-94D1-09B1B252D945}"
+              p:before="*"
+              s:ds="{F994F26C-10EA-479E-BE1A-7CFF52051EAE}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{9F2E727C-7893-4DE0-BF2B-33C7431958B8}"
+              p:after="r[@uid='{A8A31A6D-98A1-4E80-94D1-09B1B252D945}']"
+              s:ds="{598B7630-72E7-4202-8AB9-61CEC1DE7773}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{0132BF7D-B74F-405D-8019-6CDE9B892C10}"
+              p:after="r[@uid='{9F2E727C-7893-4DE0-BF2B-33C7431958B8}']"
+              s:ds="{B76CCDF9-DDB7-4F0D-83EE-F883B1EACC65}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top" />
+            <r
+              uid="{1680D472-4648-485F-B55A-1AE83F7B825E}"
+              p:after="r[@uid='{0132BF7D-B74F-405D-8019-6CDE9B892C10}']"
+              s:ds="{180FA433-561C-4E29-9B4F-23C07A422A17}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{44C35A55-976E-4FFC-8897-75BCA2CD7C69}"
+              p:after="r[@uid='{1680D472-4648-485F-B55A-1AE83F7B825E}']"
+              s:ds="{9E94BD7C-E452-47B4-B70F-EB9B41CE5B3F}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-top" />
+            <r
+              uid="{0FBD7B17-E553-49D9-9137-749DC31DBE45}"
+              p:after="r[@uid='{44C35A55-976E-4FFC-8897-75BCA2CD7C69}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0/image-block-splitter-960x1080-right" />
+            <r
+              uid="{BCF356DB-39BE-41EC-98E8-4CFD6F1A34BF}"
+              p:after="r[@uid='{0FBD7B17-E553-49D9-9137-749DC31DBE45}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0/image-block-splitter-960x1080-left" />
+            <r
+              uid="{C9286C79-9676-46BE-BAE4-6C0DA8F1C336}"
+              p:after="r[@uid='{BCF356DB-39BE-41EC-98E8-4CFD6F1A34BF}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0" />
+            <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}"
+              s:ds="{5C440556-A132-4A4D-AD5C-51F4370382A8}" />
+            <r
+              uid="{3F94459F-580E-478C-AF58-1F6F8D07C8A9}"
+              s:ds=""
+              s:par="Enable Autoplay=true&amp;Enable Center Text&amp;Add Gradient&amp;Text Color=white&amp;Wait Time=5000" />
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+            <r
+              uid="{1D395C53-EFC3-40A0-AC2F-05273E167CC3}"
+              p:after="r[@uid='{3F94459F-580E-478C-AF58-1F6F8D07C8A9}']"
+              s:ds="{55E11B39-EBF6-4570-9B81-A6807D373279}"
+              s:id="{A22722F6-65DF-4574-B659-191957028C9B}"
+              s:ph="main" />
+            <r
+              uid="{1739DE82-75A2-4ED7-8E34-1D42A6903706}"
+              p:after="r[@uid='{1D395C53-EFC3-40A0-AC2F-05273E167CC3}']"
+              s:ds="{F58BBC11-F092-4E36-9097-F1CEA54069F0}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:ph="main" />
+            <r
+              uid="{E8CA6EC6-8B55-4851-B452-75F692EA6AA3}"
+              p:after="r[@uid='{1739DE82-75A2-4ED7-8E34-1D42A6903706}']"
+              s:ds="{9D0FD1F4-9A1B-49CD-B89F-D252267173A8}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="main" />
+            <r
+              uid="{0CFEAC35-CA87-4A9F-A20F-56B2DD58CA5A}"
+              p:after="r[@uid='{E8CA6EC6-8B55-4851-B452-75F692EA6AA3}']"
+              s:ds="{11FA846B-9F63-4F7E-9307-0F3641855F6F}"
+              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
+              s:par="Use Button for Link"
+              s:ph="main" />
+            <r
+              uid="{04590D48-9104-4E86-B12F-05A520793794}"
+              p:after="r[@uid='{0CFEAC35-CA87-4A9F-A20F-56B2DD58CA5A}']"
+              s:ds="{EE34BB63-5A3D-45FD-B31B-A3C04F433597}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="main" />
+            <r
+              uid="{5982A875-5976-4448-9378-27CF3AC2374B}"
+              p:after="r[@uid='{04590D48-9104-4E86-B12F-05A520793794}']"
+              s:ds="{07161D33-51A9-4659-8EE8-21AF418EB3F7}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{FF168F0B-55FD-48BD-B1C5-4CD981F67977}"
+              p:after="r[@uid='{5982A875-5976-4448-9378-27CF3AC2374B}']"
+              s:id="{6932DD17-1CD9-4D03-93B7-3C0A92EB8229}"
+              s:ph="main" />
+            <r
+              uid="{A57CB015-932D-4253-9D65-3BC8E73CB6C0}"
+              p:after="r[@uid='{FF168F0B-55FD-48BD-B1C5-4CD981F67977}']"
+              s:ds="{29535C63-ED60-4CD5-8078-1F0AC317DA20}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{CBCB27D7-6EE8-44A7-9C0A-17BF81C8D84E}"
+              p:after="r[@uid='{A57CB015-932D-4253-9D65-3BC8E73CB6C0}']"
+              s:ds="{2052868F-8272-418C-9515-A48FF57119D6}"
+              s:id="{7EE99E6C-C671-468E-8381-C6B9BB1E6416}"
+              s:ph="main" />
+            <r
+              uid="{66FA1F9B-E7C2-4238-9B5A-F7E5BCB45C49}"
+              p:after="r[@uid='{CBCB27D7-6EE8-44A7-9C0A-17BF81C8D84E}']"
+              s:ds="{1D73F544-F435-4DB7-8095-9874F3789BC5}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{6EDC01EB-C40C-4BDA-8E31-8E0C6BAAB1C7}"
+              p:after="r[@uid='{66FA1F9B-E7C2-4238-9B5A-F7E5BCB45C49}']"
+              s:ds="{C3772A9A-1755-4E82-8C29-20D25DCA56FB}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{6668887B-1C9F-4422-A18E-1D9333A02052}"
+              p:after="r[@uid='{6EDC01EB-C40C-4BDA-8E31-8E0C6BAAB1C7}']"
+              s:ds="{7C84A110-1AF3-4639-A96C-88F89E93E027}"
+              s:id="{93ADFF97-73E8-46AA-9C18-068BDB6232A8}"
+              s:ph="main" />
+            <r
+              uid="{F197E084-D1A8-4C75-9101-AF9E8B7100C3}"
+              p:after="r[@uid='{6668887B-1C9F-4422-A18E-1D9333A02052}']"
+              s:ds="{152AF4E0-BFF3-4400-A330-EF0E69000E7D}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:ph="main" />
+            <r
+              uid="{EF17CC7F-FA2D-4BFB-87D0-96932FBF3DE5}"
+              p:after="r[@uid='{F197E084-D1A8-4C75-9101-AF9E8B7100C3}']"
+              s:ds="{1ED85616-5A1F-4B63-9109-543729BBBC5D}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{BEE17EB8-0395-4F7E-80C0-8606D5F8C3A9}"
+              p:after="r[@uid='{EF17CC7F-FA2D-4BFB-87D0-96932FBF3DE5}']"
+              s:ds="{55D2A5A2-3850-4643-AE18-7B1F1BDDC2BE}"
+              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
+              s:par="Use Button for Link"
+              s:ph="main" />
+            <r
+              uid="{C6E437DD-9924-49DD-80EF-AA9BB2C877BF}"
+              p:after="*[1=2]"
+              s:ds="{A7B044FF-C3FE-4683-972B-0A15837EFFD9}"
+              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
+              s:par="Use Button for Link"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: GustoMSC
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Pioneers of offshore engineering, constantly working toward a more sustainable future</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: GustoMSC
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221208T150547Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: GustoMSC
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: GustoMSC
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{63EDE482-CF34-460B-BC86-A469D0359ED3}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{7BFDF55B-D789-4F80-BAA1-EE7B8380D4C6}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: GustoMSC
+    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
+      Hint: Search Result Text
+      Value: "Brand: GustoMSC"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7977929c-dbd7-48c2-a1ee-31ec874ec466"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{EA155798-89F9-42A8-A18A-1921664D1E01}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: GustoMSC is a designer and engineer of mobile offshore units and equipment that focus on safe and efficient operations at sea for a more sustainable future.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20221208T150547Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{63EDE482-CF34-460B-BC86-A469D0359ED3}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20221208T150826Z
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: GustoMSC, offshore wind, offshore engineering, offshore energy, offshore technology, Gusto MSC, Gusto, MSC
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{63EDE482-CF34-460B-BC86-A469D0359ED3}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+    - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
+      Hint: brand
+      Value: "{C3F61168-AAD8-4212-BA65-2EAF59E5A3FE}"
+  - Version: 9
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01fd8c23-1b98-4e4b-9f2d-ecf3eb8aad68"
+      Hint: businessUnits
+      Value: "{55081714-900D-4F84-A923-2C7CDC829502}"
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{A8A31A6D-98A1-4E80-94D1-09B1B252D945}"
+              p:before="*"
+              s:ds="{F994F26C-10EA-479E-BE1A-7CFF52051EAE}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{9F2E727C-7893-4DE0-BF2B-33C7431958B8}"
+              p:after="r[@uid='{A8A31A6D-98A1-4E80-94D1-09B1B252D945}']"
+              s:ds="{598B7630-72E7-4202-8AB9-61CEC1DE7773}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{0132BF7D-B74F-405D-8019-6CDE9B892C10}"
+              p:after="r[@uid='{9F2E727C-7893-4DE0-BF2B-33C7431958B8}']"
+              s:ds="{B76CCDF9-DDB7-4F0D-83EE-F883B1EACC65}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top" />
+            <r
+              uid="{1680D472-4648-485F-B55A-1AE83F7B825E}"
+              p:after="r[@uid='{0132BF7D-B74F-405D-8019-6CDE9B892C10}']"
+              s:ds="{180FA433-561C-4E29-9B4F-23C07A422A17}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{44C35A55-976E-4FFC-8897-75BCA2CD7C69}"
+              p:after="r[@uid='{1680D472-4648-485F-B55A-1AE83F7B825E}']"
+              s:ds="{9E94BD7C-E452-47B4-B70F-EB9B41CE5B3F}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-top" />
+            <r
+              uid="{0FBD7B17-E553-49D9-9137-749DC31DBE45}"
+              p:after="r[@uid='{44C35A55-976E-4FFC-8897-75BCA2CD7C69}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0/image-block-splitter-960x1080-right" />
+            <r
+              uid="{BCF356DB-39BE-41EC-98E8-4CFD6F1A34BF}"
+              p:after="r[@uid='{0FBD7B17-E553-49D9-9137-749DC31DBE45}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0/image-block-splitter-960x1080-left" />
+            <r
+              uid="{C9286C79-9676-46BE-BAE4-6C0DA8F1C336}"
+              p:after="r[@uid='{BCF356DB-39BE-41EC-98E8-4CFD6F1A34BF}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0" />
+            <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}"
+              s:ds="{5C440556-A132-4A4D-AD5C-51F4370382A8}" />
+            <r
+              uid="{3F94459F-580E-478C-AF58-1F6F8D07C8A9}"
+              s:ds=""
+              s:par="Enable Autoplay=true&amp;Enable Center Text&amp;Add Gradient&amp;Text Color=white&amp;Wait Time=5000" />
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+            <r
+              uid="{1D395C53-EFC3-40A0-AC2F-05273E167CC3}"
+              p:after="r[@uid='{3F94459F-580E-478C-AF58-1F6F8D07C8A9}']"
+              s:ds="{55E11B39-EBF6-4570-9B81-A6807D373279}"
+              s:id="{A22722F6-65DF-4574-B659-191957028C9B}"
+              s:ph="main" />
+            <r
+              uid="{1739DE82-75A2-4ED7-8E34-1D42A6903706}"
+              p:after="r[@uid='{1D395C53-EFC3-40A0-AC2F-05273E167CC3}']"
+              s:ds="{F58BBC11-F092-4E36-9097-F1CEA54069F0}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:ph="main" />
+            <r
+              uid="{E8CA6EC6-8B55-4851-B452-75F692EA6AA3}"
+              p:after="r[@uid='{1739DE82-75A2-4ED7-8E34-1D42A6903706}']"
+              s:ds="{9D0FD1F4-9A1B-49CD-B89F-D252267173A8}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="main" />
+            <r
+              uid="{0CFEAC35-CA87-4A9F-A20F-56B2DD58CA5A}"
+              p:after="r[@uid='{E8CA6EC6-8B55-4851-B452-75F692EA6AA3}']"
+              s:ds="{11FA846B-9F63-4F7E-9307-0F3641855F6F}"
+              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
+              s:par="Use Button for Link"
+              s:ph="main" />
+            <r
+              uid="{04590D48-9104-4E86-B12F-05A520793794}"
+              p:after="r[@uid='{0CFEAC35-CA87-4A9F-A20F-56B2DD58CA5A}']"
+              s:ds="{EE34BB63-5A3D-45FD-B31B-A3C04F433597}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="main" />
+            <r
+              uid="{5982A875-5976-4448-9378-27CF3AC2374B}"
+              p:after="r[@uid='{04590D48-9104-4E86-B12F-05A520793794}']"
+              s:ds="{07161D33-51A9-4659-8EE8-21AF418EB3F7}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{FF168F0B-55FD-48BD-B1C5-4CD981F67977}"
+              p:after="r[@uid='{5982A875-5976-4448-9378-27CF3AC2374B}']"
+              s:id="{6932DD17-1CD9-4D03-93B7-3C0A92EB8229}"
+              s:ph="main" />
+            <r
+              uid="{A57CB015-932D-4253-9D65-3BC8E73CB6C0}"
+              p:after="r[@uid='{FF168F0B-55FD-48BD-B1C5-4CD981F67977}']"
+              s:ds="{29535C63-ED60-4CD5-8078-1F0AC317DA20}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{CBCB27D7-6EE8-44A7-9C0A-17BF81C8D84E}"
+              p:after="r[@uid='{A57CB015-932D-4253-9D65-3BC8E73CB6C0}']"
+              s:ds="{2052868F-8272-418C-9515-A48FF57119D6}"
+              s:id="{7EE99E6C-C671-468E-8381-C6B9BB1E6416}"
+              s:ph="main" />
+            <r
+              uid="{66FA1F9B-E7C2-4238-9B5A-F7E5BCB45C49}"
+              p:after="r[@uid='{CBCB27D7-6EE8-44A7-9C0A-17BF81C8D84E}']"
+              s:ds="{1D73F544-F435-4DB7-8095-9874F3789BC5}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{6EDC01EB-C40C-4BDA-8E31-8E0C6BAAB1C7}"
+              p:after="r[@uid='{66FA1F9B-E7C2-4238-9B5A-F7E5BCB45C49}']"
+              s:ds="{C3772A9A-1755-4E82-8C29-20D25DCA56FB}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{6668887B-1C9F-4422-A18E-1D9333A02052}"
+              p:after="r[@uid='{6EDC01EB-C40C-4BDA-8E31-8E0C6BAAB1C7}']"
+              s:ds="{7C84A110-1AF3-4639-A96C-88F89E93E027}"
+              s:id="{93ADFF97-73E8-46AA-9C18-068BDB6232A8}"
+              s:ph="main" />
+            <r
+              uid="{F197E084-D1A8-4C75-9101-AF9E8B7100C3}"
+              p:after="r[@uid='{6668887B-1C9F-4422-A18E-1D9333A02052}']"
+              s:ds="{152AF4E0-BFF3-4400-A330-EF0E69000E7D}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:ph="main" />
+            <r
+              uid="{EF17CC7F-FA2D-4BFB-87D0-96932FBF3DE5}"
+              p:after="r[@uid='{F197E084-D1A8-4C75-9101-AF9E8B7100C3}']"
+              s:ds="{1ED85616-5A1F-4B63-9109-543729BBBC5D}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{BEE17EB8-0395-4F7E-80C0-8606D5F8C3A9}"
+              p:after="r[@uid='{EF17CC7F-FA2D-4BFB-87D0-96932FBF3DE5}']"
+              s:ds="{55D2A5A2-3850-4643-AE18-7B1F1BDDC2BE}"
+              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
+              s:par="Use Button for Link"
+              s:ph="main" />
+            <r
+              uid="{C6E437DD-9924-49DD-80EF-AA9BB2C877BF}"
+              p:after="*[1=2]"
+              s:ds="{A7B044FF-C3FE-4683-972B-0A15837EFFD9}"
+              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
+              s:par="Use Button for Link"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: GustoMSC
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Pioneers of offshore engineering, constantly working toward a more sustainable future</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: GustoMSC
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230202T215251Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: GustoMSC
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: GustoMSC
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{63EDE482-CF34-460B-BC86-A469D0359ED3}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{7BFDF55B-D789-4F80-BAA1-EE7B8380D4C6}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: GustoMSC
+    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
+      Hint: Search Result Text
+      Value: "Brand: GustoMSC"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "024d6a16-673d-44c4-912f-b1ac60da89b2"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{EA155798-89F9-42A8-A18A-1921664D1E01}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: GustoMSC is a designer and engineer of mobile offshore units and equipment that focus on safe and efficient operations at sea for a more sustainable future.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230202T215251Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{63EDE482-CF34-460B-BC86-A469D0359ED3}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230202T215407Z
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: GustoMSC, offshore wind, offshore engineering, offshore energy, offshore technology, Gusto MSC, Gusto, MSC
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{63EDE482-CF34-460B-BC86-A469D0359ED3}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+    - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
+      Hint: brand
+      Value: "{C3F61168-AAD8-4212-BA65-2EAF59E5A3FE}"
+  - Version: 10
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01fd8c23-1b98-4e4b-9f2d-ecf3eb8aad68"
+      Hint: businessUnits
+      Value: "{55081714-900D-4F84-A923-2C7CDC829502}"
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{A8A31A6D-98A1-4E80-94D1-09B1B252D945}"
+              p:before="*"
+              s:ds="{F994F26C-10EA-479E-BE1A-7CFF52051EAE}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{9F2E727C-7893-4DE0-BF2B-33C7431958B8}"
+              p:after="r[@uid='{A8A31A6D-98A1-4E80-94D1-09B1B252D945}']"
+              s:ds="{598B7630-72E7-4202-8AB9-61CEC1DE7773}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{0132BF7D-B74F-405D-8019-6CDE9B892C10}"
+              p:after="r[@uid='{9F2E727C-7893-4DE0-BF2B-33C7431958B8}']"
+              s:ds="{B76CCDF9-DDB7-4F0D-83EE-F883B1EACC65}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top" />
+            <r
+              uid="{1680D472-4648-485F-B55A-1AE83F7B825E}"
+              p:after="r[@uid='{0132BF7D-B74F-405D-8019-6CDE9B892C10}']"
+              s:ds="{180FA433-561C-4E29-9B4F-23C07A422A17}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{44C35A55-976E-4FFC-8897-75BCA2CD7C69}"
+              p:after="r[@uid='{1680D472-4648-485F-B55A-1AE83F7B825E}']"
+              s:ds="{9E94BD7C-E452-47B4-B70F-EB9B41CE5B3F}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-top" />
+            <r
+              uid="{0FBD7B17-E553-49D9-9137-749DC31DBE45}"
+              p:after="r[@uid='{44C35A55-976E-4FFC-8897-75BCA2CD7C69}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0/image-block-splitter-960x1080-right" />
+            <r
+              uid="{BCF356DB-39BE-41EC-98E8-4CFD6F1A34BF}"
+              p:after="r[@uid='{0FBD7B17-E553-49D9-9137-749DC31DBE45}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0/image-block-splitter-960x1080-left" />
+            <r
+              uid="{C9286C79-9676-46BE-BAE4-6C0DA8F1C336}"
+              p:after="r[@uid='{BCF356DB-39BE-41EC-98E8-4CFD6F1A34BF}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main-{FF168F0B-55FD-48BD-B1C5-4CD981F67977}-0" />
+            <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}"
+              s:ds="{5C440556-A132-4A4D-AD5C-51F4370382A8}" />
+            <r
+              uid="{3F94459F-580E-478C-AF58-1F6F8D07C8A9}"
+              s:ds=""
+              s:par="Enable Autoplay=true&amp;Enable Center Text&amp;Add Gradient&amp;Text Color=white&amp;Wait Time=5000" />
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+            <r
+              uid="{1D395C53-EFC3-40A0-AC2F-05273E167CC3}"
+              p:after="r[@uid='{3F94459F-580E-478C-AF58-1F6F8D07C8A9}']"
+              s:ds="{55E11B39-EBF6-4570-9B81-A6807D373279}"
+              s:id="{A22722F6-65DF-4574-B659-191957028C9B}"
+              s:ph="main" />
+            <r
+              uid="{1739DE82-75A2-4ED7-8E34-1D42A6903706}"
+              p:after="r[@uid='{1D395C53-EFC3-40A0-AC2F-05273E167CC3}']"
+              s:ds="{F58BBC11-F092-4E36-9097-F1CEA54069F0}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:ph="main" />
+            <r
+              uid="{E8CA6EC6-8B55-4851-B452-75F692EA6AA3}"
+              p:after="r[@uid='{1739DE82-75A2-4ED7-8E34-1D42A6903706}']"
+              s:ds="{9D0FD1F4-9A1B-49CD-B89F-D252267173A8}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="main" />
+            <r
+              uid="{0CFEAC35-CA87-4A9F-A20F-56B2DD58CA5A}"
+              p:after="r[@uid='{E8CA6EC6-8B55-4851-B452-75F692EA6AA3}']"
+              s:ds="{11FA846B-9F63-4F7E-9307-0F3641855F6F}"
+              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
+              s:par="Use Button for Link"
+              s:ph="main" />
+            <r
+              uid="{04590D48-9104-4E86-B12F-05A520793794}"
+              p:after="r[@uid='{0CFEAC35-CA87-4A9F-A20F-56B2DD58CA5A}']"
+              s:ds="{EE34BB63-5A3D-45FD-B31B-A3C04F433597}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="main" />
+            <r
+              uid="{5982A875-5976-4448-9378-27CF3AC2374B}"
+              p:after="r[@uid='{04590D48-9104-4E86-B12F-05A520793794}']"
+              s:ds="{07161D33-51A9-4659-8EE8-21AF418EB3F7}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{FF168F0B-55FD-48BD-B1C5-4CD981F67977}"
+              p:after="r[@uid='{5982A875-5976-4448-9378-27CF3AC2374B}']"
+              s:id="{6932DD17-1CD9-4D03-93B7-3C0A92EB8229}"
+              s:ph="main" />
+            <r
+              uid="{A57CB015-932D-4253-9D65-3BC8E73CB6C0}"
+              p:after="r[@uid='{FF168F0B-55FD-48BD-B1C5-4CD981F67977}']"
+              s:ds="{29535C63-ED60-4CD5-8078-1F0AC317DA20}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{CBCB27D7-6EE8-44A7-9C0A-17BF81C8D84E}"
+              p:after="r[@uid='{A57CB015-932D-4253-9D65-3BC8E73CB6C0}']"
+              s:ds="{2052868F-8272-418C-9515-A48FF57119D6}"
+              s:id="{7EE99E6C-C671-468E-8381-C6B9BB1E6416}"
+              s:ph="main" />
+            <r
+              uid="{66FA1F9B-E7C2-4238-9B5A-F7E5BCB45C49}"
+              p:after="r[@uid='{CBCB27D7-6EE8-44A7-9C0A-17BF81C8D84E}']"
+              s:ds="{1D73F544-F435-4DB7-8095-9874F3789BC5}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{6EDC01EB-C40C-4BDA-8E31-8E0C6BAAB1C7}"
+              p:after="r[@uid='{66FA1F9B-E7C2-4238-9B5A-F7E5BCB45C49}']"
+              s:ds="{C3772A9A-1755-4E82-8C29-20D25DCA56FB}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{6668887B-1C9F-4422-A18E-1D9333A02052}"
+              p:after="r[@uid='{6EDC01EB-C40C-4BDA-8E31-8E0C6BAAB1C7}']"
+              s:ds="{7C84A110-1AF3-4639-A96C-88F89E93E027}"
+              s:id="{93ADFF97-73E8-46AA-9C18-068BDB6232A8}"
+              s:ph="main" />
+            <r
+              uid="{F197E084-D1A8-4C75-9101-AF9E8B7100C3}"
+              p:after="r[@uid='{6668887B-1C9F-4422-A18E-1D9333A02052}']"
+              s:ds="{152AF4E0-BFF3-4400-A330-EF0E69000E7D}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:ph="main" />
+            <r
+              uid="{EF17CC7F-FA2D-4BFB-87D0-96932FBF3DE5}"
+              p:after="r[@uid='{F197E084-D1A8-4C75-9101-AF9E8B7100C3}']"
+              s:ds="{1ED85616-5A1F-4B63-9109-543729BBBC5D}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{BEE17EB8-0395-4F7E-80C0-8606D5F8C3A9}"
+              p:after="r[@uid='{EF17CC7F-FA2D-4BFB-87D0-96932FBF3DE5}']"
+              s:ds="{55D2A5A2-3850-4643-AE18-7B1F1BDDC2BE}"
+              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
+              s:par="Use Button for Link"
+              s:ph="main" />
+            <r
+              uid="{C6E437DD-9924-49DD-80EF-AA9BB2C877BF}"
+              p:after="*[1=2]"
+              s:ds="{A7B044FF-C3FE-4683-972B-0A15837EFFD9}"
+              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
+              s:par="Use Button for Link"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: GustoMSC
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Pioneers of offshore engineering, constantly working toward a more sustainable future</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: GustoMSC
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230403T181359Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: GustoMSC
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: GustoMSC
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{63EDE482-CF34-460B-BC86-A469D0359ED3}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{7BFDF55B-D789-4F80-BAA1-EE7B8380D4C6}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: GustoMSC
+    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
+      Hint: Search Result Text
+      Value: "Brand: GustoMSC"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a85a827e-661f-4119-a870-20d86b11f013"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{EA155798-89F9-42A8-A18A-1921664D1E01}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: GustoMSC is a designer and engineer of mobile offshore units and equipment that focus on safe and efficient operations at sea for a more sustainable future.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230403T181359Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{63EDE482-CF34-460B-BC86-A469D0359ED3}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230403T181752Z
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: GustoMSC, offshore wind, offshore engineering, offshore energy, offshore technology, Gusto MSC, Gusto, MSC
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{63EDE482-CF34-460B-BC86-A469D0359ED3}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+    - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
+      Hint: brand
+      Value: "{C3F61168-AAD8-4212-BA65-2EAF59E5A3FE}"

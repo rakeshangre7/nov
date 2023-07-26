@@ -1,0 +1,201 @@
+﻿---
+ID: "520e5362-118c-4da6-8efc-3d6b26e62121"
+Parent: "0efcb894-1233-44a0-9b5d-268dc82ee1a0"
+Template: "6ad6b0c9-8586-4263-8ffb-9cbfc20b67d4"
+Path: /sitecore/content/nov/nov/Home/Products and Services/Capabilities/Emissions Reduction Solutions
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}"
+          s:ds="{CF94AEDC-918F-44D4-901A-431F9A427BD4}" />
+        <r
+          uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}"
+          s:ds="{BF33503E-4600-4BBD-BE5D-38A2C3CFBB59}" />
+        <r
+          uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}"
+          s:ds="{5F03FC02-7B91-4E01-827C-D901CA1CEA5F}" />
+      </d>
+    </r>
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "019c3c8b-3d47-4b92-a8e9-838880ddf307"
+      Hint: Open Graph Title
+      Value: Emissions Reduction Solutions
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+            <r
+              uid="{A9A01BD0-A073-4D19-9A52-605F517DF80D}"
+              p:after="r[@uid='{37A7ADD6-9046-4B18-B22A-BE9133614F3D}']"
+              s:ds="{5AA58BA6-7044-43F6-B6F2-8219822E2B2A}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{2BFD2A98-8B9F-46AC-AD7A-7101FDFEE9A7}"
+              p:after="r[@uid='{A9A01BD0-A073-4D19-9A52-605F517DF80D}']"
+              s:ds="{31A3460D-4F21-4C08-A8CB-A489893B5D97}"
+              s:id="{D6F7B1A2-D9A1-4301-85D8-64731201F85B}"
+              s:ph="main" />
+            <r
+              uid="{CABC7A19-A161-4426-9D24-692842DD6D19}"
+              p:after="r[@uid='{2BFD2A98-8B9F-46AC-AD7A-7101FDFEE9A7}']"
+              s:ds="{FF8679D1-D318-484C-BE3D-7BAC2D5D513E}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{C5BC4D36-7E33-45EA-8359-01FB0350B52B}"
+              p:after="r[@uid='{CABC7A19-A161-4426-9D24-692842DD6D19}']"
+              s:ds="{016D30ED-090F-4B3C-9246-91B30BC552CB}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{B327E034-6979-4DF0-AA1F-8AA966AAF7B8}"
+              p:after="r[@uid='{C5BC4D36-7E33-45EA-8359-01FB0350B52B}']"
+              s:ds="{AF1FEF06-65B6-456F-AFA7-0F1657EDECBB}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{B795F3FE-9912-427A-BAFA-26EB8D210599}"
+              p:after="r[@uid='{B327E034-6979-4DF0-AA1F-8AA966AAF7B8}']"
+              s:ds="{8A4E0BD2-35B9-4E3A-A285-B73CE02AD5BC}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{2DCCA7C8-DDAF-4BF6-9E6F-B49E8BB8098B}"
+              p:after="r[@uid='{B795F3FE-9912-427A-BAFA-26EB8D210599}']"
+              s:ds="{2AB03A09-8B93-4377-B340-7E2703FFFE62}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{6310D9F3-5A4C-4FC3-A046-64002BFE2134}"
+              p:after="r[@uid='{2DCCA7C8-DDAF-4BF6-9E6F-B49E8BB8098B}']"
+              s:ds="{6006F742-AE36-4F0D-AC35-00EB421EE4E5}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{EBF9A4E4-569C-4DA9-BEF8-D921572B8F4D}"
+              p:after="r[@uid='{6310D9F3-5A4C-4FC3-A046-64002BFE2134}']"
+              s:ds="{EFCD3E8E-44B8-4996-AB5F-EBD3C22A5183}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{84154814-C4D1-40CD-9C41-AFA1B807557E}"
+              p:after="r[@uid='{EBF9A4E4-569C-4DA9-BEF8-D921572B8F4D}']"
+              s:ds="{55E1B9D3-A48F-4C60-A34E-E4D84E9AA290}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{B1F10C58-154D-4CD4-93A8-66F200B01528}"
+              p:after="r[@uid='{84154814-C4D1-40CD-9C41-AFA1B807557E}']"
+              s:ds="{98342343-F5FE-4F52-9762-33106DCCD2C3}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{67E5E069-1CE3-46AA-AAF0-852ADC451DB4}"
+              p:after="r[@uid='{B1F10C58-154D-4CD4-93A8-66F200B01528}']"
+              s:ds="{9F54926A-F4EE-42BD-9E93-DA76F2FE28FE}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{AF4E00FB-A83A-414C-9C8A-67E50DF31530}"
+              p:after="r[@uid='{67E5E069-1CE3-46AA-AAF0-852ADC451DB4}']"
+              s:ds="{E5C79419-4E79-449B-AFB7-D3E483542FF1}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:ph="main" />
+            <r
+              uid="{F7172BC8-0978-4BB9-8953-F44E53234F65}"
+              p:after="r[@uid='{AF4E00FB-A83A-414C-9C8A-67E50DF31530}']"
+              s:ds="{5F03FC02-7B91-4E01-827C-D901CA1CEA5F}"
+              s:id="{404FE8DE-C601-4E14-8D3D-32F27B41D06D}"
+              s:ph="main" />
+            <r
+              uid="{7D86AB81-5F2A-4254-AEF5-6FBE91E3A277}"
+              p:after="*[1=2]"
+              s:ds="{8F835675-45E0-4F89-96ED-99131FE8B33B}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Emissions Reduction Solutions
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Emissions Reduction Solutions
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220325T192854Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Emissions Reduction Solutions
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{40251B7D-FBE3-4A0E-8947-D4B4FE8CD782}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Emissions Reduction Solutions
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Emissions Reduction Solutions
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e1f7b0f1-6426-4a06-a4ec-daa87ce1834e"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{894AD693-62BC-4D0F-8E34-42401EBEF1F3}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220327T213705Z

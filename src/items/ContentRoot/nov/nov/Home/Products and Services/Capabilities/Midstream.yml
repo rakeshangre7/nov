@@ -1,0 +1,913 @@
+﻿---
+ID: "5f4ac746-032a-4d59-8b38-fad3b4e97939"
+Parent: "0efcb894-1233-44a0-9b5d-268dc82ee1a0"
+Template: "6ad6b0c9-8586-4263-8ffb-9cbfc20b67d4"
+Path: /sitecore/content/nov/nov/Home/Products and Services/Capabilities/Midstream
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{ACF12AFA-5972-4728-B42D-3847884BF818}"
+              p:after="*[1=2]"
+              s:ds="{E6ED5F97-762B-45B3-AF07-A7BA3E30C7F4}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Pipeline
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>We offer a range of products and services that improve the installation, maintenance, and operating performance of your midstream operations.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Pipeline
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190326T151117Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Pipeline
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Pipeline
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Pipeline
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6b6d1368-895a-4a2a-9796-9f603afdabd0"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{894AD693-62BC-4D0F-8E34-42401EBEF1F3}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Pipeline
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{4F615268-61F9-408D-A32B-6568D32C3225}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190326T151714Z
+    - ID: "da134e40-cb02-4645-9846-115fb9a5aeca"
+      Hint: capability
+      Value: "{E4907C60-C488-48C6-91F8-8C2C06E721AA}"
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{4F615268-61F9-408D-A32B-6568D32C3225}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{ACF12AFA-5972-4728-B42D-3847884BF818}"
+              p:after="r[@uid='{37A7ADD6-9046-4B18-B22A-BE9133614F3D}']"
+              s:ds="{E6ED5F97-762B-45B3-AF07-A7BA3E30C7F4}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{307DE291-346C-488C-B8A7-7A8002D78279}"
+              p:after="*[1=2]"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Pipeline
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>We offer a range of products and services that improve the installation, maintenance, and operating performance of your midstream operations.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Pipeline
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190606T165607Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Pipeline
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Pipeline
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Pipeline
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b93b0e5b-1923-4aa3-b477-9e1b7c6c3848"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{894AD693-62BC-4D0F-8E34-42401EBEF1F3}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Pipeline
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190606T165607Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{4F615268-61F9-408D-A32B-6568D32C3225}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190606T165706Z
+    - ID: "da134e40-cb02-4645-9846-115fb9a5aeca"
+      Hint: capability
+      Value: "{E4907C60-C488-48C6-91F8-8C2C06E721AA}"
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{4F615268-61F9-408D-A32B-6568D32C3225}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{ACF12AFA-5972-4728-B42D-3847884BF818}"
+              p:after="r[@uid='{37A7ADD6-9046-4B18-B22A-BE9133614F3D}']"
+              s:ds="{E6ED5F97-762B-45B3-AF07-A7BA3E30C7F4}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{307DE291-346C-488C-B8A7-7A8002D78279}"
+              p:after="*[1=2]"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Pipeline
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>We offer a range of products and services that improve the installation, maintenance, and operating performance of your midstream operations.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Pipeline
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190926T213653Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Pipeline
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Pipeline
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Pipeline
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6bd06c00-daed-44ed-974e-b763d38f67cb"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{894AD693-62BC-4D0F-8E34-42401EBEF1F3}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Pipeline
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\adminrschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: We offer a range of products and services that improve the installation, maintenance, and operating performance of your midstream operations.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190926T213653Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{4F615268-61F9-408D-A32B-6568D32C3225}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210422T010923Z
+    - ID: "da134e40-cb02-4645-9846-115fb9a5aeca"
+      Hint: capability
+      Value: "{E4907C60-C488-48C6-91F8-8C2C06E721AA}"
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{4F615268-61F9-408D-A32B-6568D32C3225}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 4
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}">
+              <p:d />
+            </r>
+            <r
+              uid="{E7BDCED1-BA2B-4764-91F2-D9A68E7A9238}"
+              p:before="*"
+              s:ds="{A9A0AC95-DF68-4D4A-B04A-3AADD4D7B1FA}"
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:ph="/main/hero-slide-{37A7ADD6-9046-4B18-B22A-BE9133614F3D}-0" />
+            <r
+              uid="{6CA963B8-97D8-4745-B8B7-937C31649163}"
+              p:after="r[@uid='{E7BDCED1-BA2B-4764-91F2-D9A68E7A9238}']"
+              s:ds="{950FBC00-2248-42D2-B5C9-26F53B9A8BF5}"
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:ph="/main/hero-slide-{37A7ADD6-9046-4B18-B22A-BE9133614F3D}-0" />
+            <r
+              uid="{1978F963-1468-4ABC-9204-0E055BB2FC6A}"
+              p:after="r[@uid='{6CA963B8-97D8-4745-B8B7-937C31649163}']"
+              s:ds="{B9E4A9EE-378A-45F0-9B87-093BC7D18BB2}"
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:ph="/main/hero-slide-{37A7ADD6-9046-4B18-B22A-BE9133614F3D}-0" />
+            <r
+              uid="{E29A2602-1BC1-4C27-AB01-A7E060957802}"
+              p:after="r[@uid='{1978F963-1468-4ABC-9204-0E055BB2FC6A}']"
+              s:ds="{E571B04B-458E-4062-8556-2BF3052B6238}"
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:ph="/main/hero-slide-{37A7ADD6-9046-4B18-B22A-BE9133614F3D}-0" />
+            <r
+              uid="{AB086DB4-5A8F-4747-ABD6-D1BE08BA7557}"
+              p:after="r[@uid='{E29A2602-1BC1-4C27-AB01-A7E060957802}']"
+              s:ds="{97D07D5F-0F59-4A49-BF9A-3BBBE9E0DE44}"
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:ph="/main/hero-slide-{37A7ADD6-9046-4B18-B22A-BE9133614F3D}-0" />
+            <r
+              uid="{0D4E72BB-3E8F-4589-8CFD-5F69044F5E88}"
+              p:after="r[@uid='{AB086DB4-5A8F-4747-ABD6-D1BE08BA7557}']"
+              s:ds="{1514ABE2-BA5E-429B-BB5F-A8A610A8E35A}"
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:ph="/main/hero-slide-{37A7ADD6-9046-4B18-B22A-BE9133614F3D}-0" />
+            <r
+              uid="{37A7ADD6-9046-4B18-B22A-BE9133614F3D}"
+              s:ds="{BE07B07C-3886-4C67-9B35-A13D0F6DD601}"
+              s:par="Enable Autoplay=true&amp;Enable Center Text&amp;Add Gradient=1&amp;Text Color=white&amp;Wait Time=5000" />
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{2CE3D095-FC1C-459B-A6FB-57FDED049D1B}"
+              p:after="r[@uid='{37A7ADD6-9046-4B18-B22A-BE9133614F3D}']"
+              s:ds="{E7DF1919-CEC8-4310-9FA0-57CD295B7874}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{307DE291-346C-488C-B8A7-7A8002D78279}"
+              p:after="*[1=2]"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Midstream
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Trusted brands that keep pace with your demands.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Midstream
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210909T164300Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Midstream
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Midstream
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Midstream
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ef8eea86-c53a-402f-a772-2b9820ce5fe8"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{894AD693-62BC-4D0F-8E34-42401EBEF1F3}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\adminrschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: We offer a range of products and services that improve the installation, maintenance, and operating performance of your midstream operations.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20210909T164300Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{4F615268-61F9-408D-A32B-6568D32C3225}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210920T150059Z
+    - ID: "da134e40-cb02-4645-9846-115fb9a5aeca"
+      Hint: capability
+      Value: "{E4907C60-C488-48C6-91F8-8C2C06E721AA}"
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{4F615268-61F9-408D-A32B-6568D32C3225}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 5
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}">
+              <p:d />
+            </r>
+            <r
+              uid="{E7BDCED1-BA2B-4764-91F2-D9A68E7A9238}"
+              p:before="*"
+              s:ds="{A9A0AC95-DF68-4D4A-B04A-3AADD4D7B1FA}"
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:ph="/main/hero-slide-{37A7ADD6-9046-4B18-B22A-BE9133614F3D}-0" />
+            <r
+              uid="{6CA963B8-97D8-4745-B8B7-937C31649163}"
+              p:after="r[@uid='{E7BDCED1-BA2B-4764-91F2-D9A68E7A9238}']"
+              s:ds="{950FBC00-2248-42D2-B5C9-26F53B9A8BF5}"
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:ph="/main/hero-slide-{37A7ADD6-9046-4B18-B22A-BE9133614F3D}-0" />
+            <r
+              uid="{1978F963-1468-4ABC-9204-0E055BB2FC6A}"
+              p:after="r[@uid='{6CA963B8-97D8-4745-B8B7-937C31649163}']"
+              s:ds="{B9E4A9EE-378A-45F0-9B87-093BC7D18BB2}"
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:ph="/main/hero-slide-{37A7ADD6-9046-4B18-B22A-BE9133614F3D}-0" />
+            <r
+              uid="{E29A2602-1BC1-4C27-AB01-A7E060957802}"
+              p:after="r[@uid='{1978F963-1468-4ABC-9204-0E055BB2FC6A}']"
+              s:ds="{E571B04B-458E-4062-8556-2BF3052B6238}"
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:ph="/main/hero-slide-{37A7ADD6-9046-4B18-B22A-BE9133614F3D}-0" />
+            <r
+              uid="{AB086DB4-5A8F-4747-ABD6-D1BE08BA7557}"
+              p:after="r[@uid='{E29A2602-1BC1-4C27-AB01-A7E060957802}']"
+              s:ds="{97D07D5F-0F59-4A49-BF9A-3BBBE9E0DE44}"
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:ph="/main/hero-slide-{37A7ADD6-9046-4B18-B22A-BE9133614F3D}-0" />
+            <r
+              uid="{0D4E72BB-3E8F-4589-8CFD-5F69044F5E88}"
+              p:after="r[@uid='{AB086DB4-5A8F-4747-ABD6-D1BE08BA7557}']"
+              s:ds="{1514ABE2-BA5E-429B-BB5F-A8A610A8E35A}"
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:ph="/main/hero-slide-{37A7ADD6-9046-4B18-B22A-BE9133614F3D}-0" />
+            <r
+              uid="{37A7ADD6-9046-4B18-B22A-BE9133614F3D}"
+              s:ds="{BE07B07C-3886-4C67-9B35-A13D0F6DD601}"
+              s:par="Enable Autoplay=true&amp;Enable Center Text&amp;Add Gradient=1&amp;Text Color=white&amp;Wait Time=3000" />
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{2CE3D095-FC1C-459B-A6FB-57FDED049D1B}"
+              p:after="r[@uid='{37A7ADD6-9046-4B18-B22A-BE9133614F3D}']"
+              s:ds="{E7DF1919-CEC8-4310-9FA0-57CD295B7874}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{307DE291-346C-488C-B8A7-7A8002D78279}"
+              p:after="*[1=2]"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Midstream
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Trusted brands that keep pace with your demands.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Midstream
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210920T190913Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Midstream
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Midstream
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Midstream
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6afeabbf-82ea-497c-ad9a-3d103d0160ec"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{894AD693-62BC-4D0F-8E34-42401EBEF1F3}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: We offer a range of products and services that improve the installation, maintenance, and operating performance of your midstream operations.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20210920T190913Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{4F615268-61F9-408D-A32B-6568D32C3225}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210920T191018Z
+    - ID: "da134e40-cb02-4645-9846-115fb9a5aeca"
+      Hint: capability
+      Value: "{E4907C60-C488-48C6-91F8-8C2C06E721AA}"
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{4F615268-61F9-408D-A32B-6568D32C3225}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 6
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}">
+              <p:d />
+            </r>
+            <r
+              uid="{6B9AE88D-B4DE-485F-9AF7-0FB1B1E14400}"
+              p:before="*"
+              s:ds="{9A2ACA87-9263-4EB8-9787-426BED059AD9}"
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:ph="/main/hero-slide-{37A7ADD6-9046-4B18-B22A-BE9133614F3D}-0" />
+            <r
+              uid="{E7BDCED1-BA2B-4764-91F2-D9A68E7A9238}"
+              p:after="r[@uid='{6B9AE88D-B4DE-485F-9AF7-0FB1B1E14400}']"
+              s:ds="{A9A0AC95-DF68-4D4A-B04A-3AADD4D7B1FA}"
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:ph="/main/hero-slide-{37A7ADD6-9046-4B18-B22A-BE9133614F3D}-0" />
+            <r
+              uid="{6CA963B8-97D8-4745-B8B7-937C31649163}"
+              p:after="r[@uid='{E7BDCED1-BA2B-4764-91F2-D9A68E7A9238}']"
+              s:ds="{950FBC00-2248-42D2-B5C9-26F53B9A8BF5}"
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:ph="/main/hero-slide-{37A7ADD6-9046-4B18-B22A-BE9133614F3D}-0" />
+            <r
+              uid="{1978F963-1468-4ABC-9204-0E055BB2FC6A}"
+              p:after="r[@uid='{6CA963B8-97D8-4745-B8B7-937C31649163}']"
+              s:ds="{B9E4A9EE-378A-45F0-9B87-093BC7D18BB2}"
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:ph="/main/hero-slide-{37A7ADD6-9046-4B18-B22A-BE9133614F3D}-0" />
+            <r
+              uid="{E29A2602-1BC1-4C27-AB01-A7E060957802}"
+              p:after="r[@uid='{1978F963-1468-4ABC-9204-0E055BB2FC6A}']"
+              s:ds="{E571B04B-458E-4062-8556-2BF3052B6238}"
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:ph="/main/hero-slide-{37A7ADD6-9046-4B18-B22A-BE9133614F3D}-0" />
+            <r
+              uid="{AB086DB4-5A8F-4747-ABD6-D1BE08BA7557}"
+              p:after="r[@uid='{E29A2602-1BC1-4C27-AB01-A7E060957802}']"
+              s:ds="{97D07D5F-0F59-4A49-BF9A-3BBBE9E0DE44}"
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:ph="/main/hero-slide-{37A7ADD6-9046-4B18-B22A-BE9133614F3D}-0" />
+            <r
+              uid="{0D4E72BB-3E8F-4589-8CFD-5F69044F5E88}"
+              p:after="r[@uid='{AB086DB4-5A8F-4747-ABD6-D1BE08BA7557}']"
+              s:ds="{1514ABE2-BA5E-429B-BB5F-A8A610A8E35A}"
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:ph="/main/hero-slide-{37A7ADD6-9046-4B18-B22A-BE9133614F3D}-0" />
+            <r
+              uid="{37A7ADD6-9046-4B18-B22A-BE9133614F3D}"
+              s:ds="{BE07B07C-3886-4C67-9B35-A13D0F6DD601}"
+              s:par="Enable Autoplay=true&amp;Enable Center Text&amp;Add Gradient=1&amp;Text Color=white&amp;Wait Time=3000" />
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{2CE3D095-FC1C-459B-A6FB-57FDED049D1B}"
+              p:after="r[@uid='{37A7ADD6-9046-4B18-B22A-BE9133614F3D}']"
+              s:ds="{E7DF1919-CEC8-4310-9FA0-57CD295B7874}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{307DE291-346C-488C-B8A7-7A8002D78279}"
+              p:after="*[1=2]"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Midstream
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Trusted brands that keep pace with your demands.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Midstream
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211015T213544Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Midstream
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Midstream
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Midstream
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "622fb609-2ef1-4c84-b429-533f3ce0cfec"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{894AD693-62BC-4D0F-8E34-42401EBEF1F3}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: We offer a range of products and services that improve the installation, maintenance, and operating performance of your midstream operations.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20211015T213544Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{4F615268-61F9-408D-A32B-6568D32C3225}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20211018T183002Z
+    - ID: "da134e40-cb02-4645-9846-115fb9a5aeca"
+      Hint: capability
+      Value: "{E4907C60-C488-48C6-91F8-8C2C06E721AA}"
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{4F615268-61F9-408D-A32B-6568D32C3225}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 7
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}">
+              <p:d />
+            </r>
+            <r
+              uid="{6B9AE88D-B4DE-485F-9AF7-0FB1B1E14400}"
+              p:before="*"
+              s:ds="{9A2ACA87-9263-4EB8-9787-426BED059AD9}"
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:ph="/main/hero-slide-{37A7ADD6-9046-4B18-B22A-BE9133614F3D}-0" />
+            <r
+              uid="{E7BDCED1-BA2B-4764-91F2-D9A68E7A9238}"
+              p:after="r[@uid='{6B9AE88D-B4DE-485F-9AF7-0FB1B1E14400}']"
+              s:ds="{A9A0AC95-DF68-4D4A-B04A-3AADD4D7B1FA}"
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:ph="/main/hero-slide-{37A7ADD6-9046-4B18-B22A-BE9133614F3D}-0" />
+            <r
+              uid="{6CA963B8-97D8-4745-B8B7-937C31649163}"
+              p:after="r[@uid='{E7BDCED1-BA2B-4764-91F2-D9A68E7A9238}']"
+              s:ds="{950FBC00-2248-42D2-B5C9-26F53B9A8BF5}"
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:ph="/main/hero-slide-{37A7ADD6-9046-4B18-B22A-BE9133614F3D}-0" />
+            <r
+              uid="{1978F963-1468-4ABC-9204-0E055BB2FC6A}"
+              p:after="r[@uid='{6CA963B8-97D8-4745-B8B7-937C31649163}']"
+              s:ds="{B9E4A9EE-378A-45F0-9B87-093BC7D18BB2}"
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:ph="/main/hero-slide-{37A7ADD6-9046-4B18-B22A-BE9133614F3D}-0" />
+            <r
+              uid="{E29A2602-1BC1-4C27-AB01-A7E060957802}"
+              p:after="r[@uid='{1978F963-1468-4ABC-9204-0E055BB2FC6A}']"
+              s:ds="{E571B04B-458E-4062-8556-2BF3052B6238}"
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:ph="/main/hero-slide-{37A7ADD6-9046-4B18-B22A-BE9133614F3D}-0" />
+            <r
+              uid="{AB086DB4-5A8F-4747-ABD6-D1BE08BA7557}"
+              p:after="r[@uid='{E29A2602-1BC1-4C27-AB01-A7E060957802}']"
+              s:ds="{97D07D5F-0F59-4A49-BF9A-3BBBE9E0DE44}"
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:ph="/main/hero-slide-{37A7ADD6-9046-4B18-B22A-BE9133614F3D}-0" />
+            <r
+              uid="{0D4E72BB-3E8F-4589-8CFD-5F69044F5E88}"
+              p:after="r[@uid='{AB086DB4-5A8F-4747-ABD6-D1BE08BA7557}']"
+              s:ds="{1514ABE2-BA5E-429B-BB5F-A8A610A8E35A}"
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:ph="/main/hero-slide-{37A7ADD6-9046-4B18-B22A-BE9133614F3D}-0" />
+            <r
+              uid="{37A7ADD6-9046-4B18-B22A-BE9133614F3D}"
+              s:ds="{BE07B07C-3886-4C67-9B35-A13D0F6DD601}"
+              s:par="Enable Autoplay=true&amp;Enable Center Text&amp;Add Gradient=1&amp;Text Color=white&amp;Wait Time=3000" />
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{2CE3D095-FC1C-459B-A6FB-57FDED049D1B}"
+              p:after="r[@uid='{37A7ADD6-9046-4B18-B22A-BE9133614F3D}']"
+              s:ds="{E7DF1919-CEC8-4310-9FA0-57CD295B7874}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{307DE291-346C-488C-B8A7-7A8002D78279}"
+              p:after="*[1=2]"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Midstream
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Trusted brands that keep pace with your demands.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Midstream
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220817T150223Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Midstream
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Midstream
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Midstream
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "33ea17e7-b2df-4875-9f23-bff6001473a0"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{894AD693-62BC-4D0F-8E34-42401EBEF1F3}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: We offer a range of products and services that improve the installation, maintenance, and operating performance of your midstream operations.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20220817T150223Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{4F615268-61F9-408D-A32B-6568D32C3225}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220817T162420Z
+    - ID: "da134e40-cb02-4645-9846-115fb9a5aeca"
+      Hint: capability
+      Value: "{E4907C60-C488-48C6-91F8-8C2C06E721AA}"
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{4F615268-61F9-408D-A32B-6568D32C3225}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />

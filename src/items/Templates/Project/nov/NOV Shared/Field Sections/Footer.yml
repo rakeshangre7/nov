@@ -9,7 +9,9 @@ SharedFields:
   Value: Office/32x32/document_footer.png
 - ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
   Hint: __Base template
-  Value: "{1930BBEB-7805-471A-A3BE-4858AC7CF696}"
+  Value: |
+    {1930BBEB-7805-471A-A3BE-4858AC7CF696}
+    {2AE051A2-AF92-4426-8CCE-AEDAA75D13F9}
 - ID: "f7d48a55-2158-4f02-9356-756654404f73"
   Hint: __Standard values
   Value: "{77EFC380-DDBB-425E-9A62-C198C722C1E8}"
@@ -48,11 +50,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "34141ad0-3bf6-4fdf-8d29-92a44167868a"
+      Value: "64eb25af-4bf1-4518-acf8-4a38173b4aac"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\ashwin
+        sitecore\varalakshmi.md@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20181001T173733Z
+      Value: 20230721T070924Z
