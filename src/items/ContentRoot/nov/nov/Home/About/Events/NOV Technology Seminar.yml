@@ -1,0 +1,147 @@
+﻿---
+ID: "5d3839ad-ec66-4229-8623-7248b6330588"
+Parent: "cd0214ea-b2e7-40a9-89d9-695cdf04c498"
+Template: "1bf45569-a9ee-482e-8c1f-6aed83c3c8ab"
+Path: /sitecore/content/nov/nov/Home/About/Events/NOV Technology Seminar
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 60
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{DF772360-E5C4-4162-B9E4-D8DAAE753245}">
+              <p:d />
+            </r>
+            <r
+              uid="{945C1340-ED54-40B6-82B9-E426012500B4}">
+              <p:d />
+            </r>
+            <r
+              uid="{B42B08E7-D21D-4A63-AAF8-115BA66B5465}"
+              p:before="*"
+              s:ds="{3E31601A-AAF8-466C-96A0-6A93652A8C3F}"
+              s:id="{9CA51EAB-92E4-4A77-8B48-966774577172}"
+              s:ph="/main/product-hero-{B8DF8461-3FE1-418B-8B58-8B905BE4C60A}-0" />
+            <r
+              uid="{B8DF8461-3FE1-418B-8B58-8B905BE4C60A}"
+              p:after="r[@uid='{B42B08E7-D21D-4A63-AAF8-115BA66B5465}']"
+              s:ds="{3164548B-3D8C-49B1-AB48-A6EED6D8B3CC}"
+              s:id="{C3DD97A2-2C6B-4FDA-922C-7127AE10C976}"
+              s:ph="main" />
+            <r
+              uid="{D9DC2E91-2941-4E2F-BCD7-3809E1023600}"
+              s:ds="{92E610E0-576F-4D57-837D-E955408BEE63}" />
+            <r
+              uid="{82CC48F6-44A9-4DC7-9B50-55B2B32A157A}">
+              <p:d />
+            </r>
+            <r
+              uid="{660D0BD6-2B70-451D-BF47-5F118C991816}"
+              p:after="r[@uid='{D9DC2E91-2941-4E2F-BCD7-3809E1023600}']"
+              s:ds="{FFA84402-74B4-4475-8264-733988959706}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{E3E7C86E-7187-4070-B3E4-4C4D6D581BC1}"
+              p:after="r[@uid='{660D0BD6-2B70-451D-BF47-5F118C991816}']"
+              s:ds="{57A22AD3-DD17-4567-89EC-0A61A0651D5C}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:ph="main" />
+            <r
+              uid="{BD05B20E-3843-4A4A-A0E9-5AFFCBA24981}"
+              p:after="r[@uid='{E3E7C86E-7187-4070-B3E4-4C4D6D581BC1}']"
+              s:ds="{92B9DE28-15DD-4714-AFD4-B1BADF0790EF}"
+              s:id="{C7A79FD5-CEFD-4F76-8FA8-A9E71EDE918F}"
+              s:par="Enable First Column Header=1&amp;Enable First Row Header&amp;Full Width&amp;Narrow Width=1"
+              s:ph="main" />
+            <r
+              uid="{9F418878-98C2-4117-A354-7272A9127987}"
+              p:after="*[1=2]"
+              s:ds="{9420C241-2564-435E-B389-167285D7D891}"
+              s:id="{C7A79FD5-CEFD-4F76-8FA8-A9E71EDE918F}"
+              s:par="Enable First Column Header=1&amp;Enable First Row Header&amp;Full Width&amp;Narrow Width=1"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: NOV Technology Seminar
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: |
+        <h2>Inspire <br />Collaborate <br /><span style="color:#facd01">Elevate </span></h2>
+        <p>March 30 | B &amp; B Butcher's | Houston, TX <br />March 31 | RDTC | Navasota, TX</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: NOV Technology Seminar
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201020T165000Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: NOV Technology Seminar
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{40251B7D-FBE3-4A0E-8947-D4B4FE8CD782}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: NOV Technology Seminar
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: NOV Technology Seminar
+    - ID: "6f84eee0-ddfa-478a-b9fb-8a7adc34ed42"
+      Hint: Start Date
+      Value: 20210330T000000Z
+    - ID: "81beeffb-e4e6-44ad-aa32-b3380b8d3fcd"
+      Hint: city
+      Value: Houston, TX
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "83555787-ca0a-4899-9e61-831005e0e042"
+    - ID: "8f4016b6-4a51-4621-90cb-77774279dba3"
+      Hint: End Date
+      Value: 20210331T000000Z
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{E7052507-CEF7-45CC-B52B-C65B98F4ADA7}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "bba7d4dd-7d1e-428e-b80d-055170466dc3"
+      Hint: country
+      Value: Navasota, TX
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{638089FB-FAA4-4BF0-9B1C-D12A3A6E085B}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230509T150913Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{638089FB-FAA4-4BF0-9B1C-D12A3A6E085B}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />

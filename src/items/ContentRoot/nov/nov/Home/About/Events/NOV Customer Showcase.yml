@@ -1,0 +1,1068 @@
+﻿---
+ID: "a71fd6ca-ab46-48a2-8e0c-2bd4e0fd64bc"
+Parent: "cd0214ea-b2e7-40a9-89d9-695cdf04c498"
+Template: "1bf45569-a9ee-482e-8c1f-6aed83c3c8ab"
+Path: /sitecore/content/nov/nov/Home/About/Events/NOV Customer Showcase
+SharedFields:
+- ID: "66afdd9e-0c87-4ef2-9ef2-405f3b88a047"
+  Hint: Hide From Search
+  Value: 1
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 640
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{D9DC2E91-2941-4E2F-BCD7-3809E1023600}"
+          s:ds="{6F4C1B25-3D25-48F0-9B7D-107AAC22C393}" />
+        <r
+          uid="{82CC48F6-44A9-4DC7-9B50-55B2B32A157A}"
+          s:ds="{3A5CDA3B-4F39-49AD-AD74-66A897C6BD64}" />
+      </d>
+    </r>
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{D9DC2E91-2941-4E2F-BCD7-3809E1023600}"
+              s:ds="{66E60D99-A945-44C3-878E-43CD5CD1B546}"
+              s:par="Alignment=center" />
+            <r
+              uid="{82CC48F6-44A9-4DC7-9B50-55B2B32A157A}">
+              <p:d />
+            </r>
+            <r
+              uid="{A4E6BCEC-FD26-4ED6-A176-AFB6BC47D96A}"
+              p:after="r[@uid='{D9DC2E91-2941-4E2F-BCD7-3809E1023600}']"
+              s:ds="{48E57B28-2B08-42A7-8B7D-860ED29B24F6}"
+              s:id="{D6F7B1A2-D9A1-4301-85D8-64731201F85B}"
+              s:ph="main" />
+            <r
+              uid="{A68AEBC9-65DE-4AA1-88B3-571CFF2581D3}"
+              p:after="*[1=2]"
+              s:ds="{20BD24AB-4F6B-4423-9C0B-F3EC0822E6BE}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: NOV Customer Showcase
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: |
+        <a tab-index="0" href="#rsvp" class="ui-btn--primary half-bar">Please RSVP by April 26</a>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: NOV Customer Showcase
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220218T204512Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: NOV Customer Showcase
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: NOV Customer Showcase
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: |
+        {ABA9E56C-0FCE-464D-8E09-DB375CDF20D8}
+        {7BFDF55B-D789-4F80-BAA1-EE7B8380D4C6}
+        {3A98FB5B-55BC-4332-A107-34A543AC1970}
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: NOV Customer Showcase
+    - ID: "81beeffb-e4e6-44ad-aa32-b3380b8d3fcd"
+      Hint: city
+      Value: Houston, TX
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "27bccb97-62b6-4156-99b3-63c2d50632d2"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{E7052507-CEF7-45CC-B52B-C65B98F4ADA7}"
+    - ID: "b0d622b7-156a-4f17-9ce4-4dd213df0302"
+      Hint: Date
+      Value: 20230504T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "bba7d4dd-7d1e-428e-b80d-055170466dc3"
+      Hint: country
+      Value: USA
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{8E0C12FC-11C6-4B13-B5D8-C067D34E3D05}" cropregion="0,87,1920,1191" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230329T153716Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{8E0C12FC-11C6-4B13-B5D8-C067D34E3D05}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{D9DC2E91-2941-4E2F-BCD7-3809E1023600}"
+              s:ds="{66E60D99-A945-44C3-878E-43CD5CD1B546}"
+              s:par="Alignment=center" />
+            <r
+              uid="{82CC48F6-44A9-4DC7-9B50-55B2B32A157A}">
+              <p:d />
+            </r>
+            <r
+              uid="{A4E6BCEC-FD26-4ED6-A176-AFB6BC47D96A}"
+              p:after="r[@uid='{D9DC2E91-2941-4E2F-BCD7-3809E1023600}']"
+              s:ds="{48E57B28-2B08-42A7-8B7D-860ED29B24F6}"
+              s:id="{D6F7B1A2-D9A1-4301-85D8-64731201F85B}"
+              s:ph="main" />
+            <r
+              uid="{A68AEBC9-65DE-4AA1-88B3-571CFF2581D3}"
+              p:after="*[1=2]"
+              s:ds="{20BD24AB-4F6B-4423-9C0B-F3EC0822E6BE}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: NOV Customer Showcase
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: |
+        <a tab-index="0" href="#rsvp" class="ui-btn--primary half-bar">Please RSVP by April 26</a>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: NOV Customer Showcase
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230329T154917Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: NOV Customer Showcase
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: NOV Customer Showcase
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: |
+        {ABA9E56C-0FCE-464D-8E09-DB375CDF20D8}
+        {7BFDF55B-D789-4F80-BAA1-EE7B8380D4C6}
+        {3A98FB5B-55BC-4332-A107-34A543AC1970}
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: NOV Customer Showcase
+    - ID: "81beeffb-e4e6-44ad-aa32-b3380b8d3fcd"
+      Hint: city
+      Value: Houston, TX
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "affd65bd-ca84-4fc6-aab7-1253604c511c"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{E7052507-CEF7-45CC-B52B-C65B98F4ADA7}"
+    - ID: "b0d622b7-156a-4f17-9ce4-4dd213df0302"
+      Hint: Date
+      Value: 20230504T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "bba7d4dd-7d1e-428e-b80d-055170466dc3"
+      Hint: country
+      Value: USA
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230329T154917Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{8E0C12FC-11C6-4B13-B5D8-C067D34E3D05}" cropregion="0,87,1920,1191" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230329T155308Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{8E0C12FC-11C6-4B13-B5D8-C067D34E3D05}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{D9DC2E91-2941-4E2F-BCD7-3809E1023600}"
+              s:ds="{66E60D99-A945-44C3-878E-43CD5CD1B546}"
+              s:par="Alignment=center" />
+            <r
+              uid="{82CC48F6-44A9-4DC7-9B50-55B2B32A157A}">
+              <p:d />
+            </r>
+            <r
+              uid="{A4E6BCEC-FD26-4ED6-A176-AFB6BC47D96A}"
+              p:after="r[@uid='{D9DC2E91-2941-4E2F-BCD7-3809E1023600}']"
+              s:ds="{48E57B28-2B08-42A7-8B7D-860ED29B24F6}"
+              s:id="{D6F7B1A2-D9A1-4301-85D8-64731201F85B}"
+              s:ph="main" />
+            <r
+              uid="{A68AEBC9-65DE-4AA1-88B3-571CFF2581D3}"
+              p:after="r[@uid='{A4E6BCEC-FD26-4ED6-A176-AFB6BC47D96A}']"
+              s:ds="{20BD24AB-4F6B-4423-9C0B-F3EC0822E6BE}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:ph="main" />
+            <r
+              uid="{EBD9399D-FC72-401B-BF95-15BAD6809691}"
+              p:after="*[1=2]"
+              s:ds="{5DF01015-C5FC-42BF-A305-48F6F58BA4A7}"
+              s:id="{541C8841-7802-4878-BBC4-5B3AC533A4BA}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: NOV Customer Showcase
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: |
+        <a tab-index="0" href="#rsvp" class="ui-btn--primary half-bar">Please RSVP by April 26</a>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: NOV Customer Showcase
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230412T131742Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: NOV Customer Showcase
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: NOV Customer Showcase
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: |
+        {ABA9E56C-0FCE-464D-8E09-DB375CDF20D8}
+        {7BFDF55B-D789-4F80-BAA1-EE7B8380D4C6}
+        {3A98FB5B-55BC-4332-A107-34A543AC1970}
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: NOV Customer Showcase
+    - ID: "6f84eee0-ddfa-478a-b9fb-8a7adc34ed42"
+      Hint: Start Date
+      Value: 20230504T000000Z
+    - ID: "81beeffb-e4e6-44ad-aa32-b3380b8d3fcd"
+      Hint: city
+      Value: Houston, TX
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4b446512-3588-4109-ae88-8d528b957073"
+    - ID: "8f4016b6-4a51-4621-90cb-77774279dba3"
+      Hint: End Date
+      Value: 20230504T000000Z
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{E7052507-CEF7-45CC-B52B-C65B98F4ADA7}"
+    - ID: "b0d622b7-156a-4f17-9ce4-4dd213df0302"
+      Hint: Date
+      Value: 20230504T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "bba7d4dd-7d1e-428e-b80d-055170466dc3"
+      Hint: country
+      Value: USA
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230412T131742Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{8E0C12FC-11C6-4B13-B5D8-C067D34E3D05}" cropregion="0,87,1920,1191" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230413T162229Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{8E0C12FC-11C6-4B13-B5D8-C067D34E3D05}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 4
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{D9DC2E91-2941-4E2F-BCD7-3809E1023600}"
+              s:ds="{66E60D99-A945-44C3-878E-43CD5CD1B546}"
+              s:par="Alignment=center" />
+            <r
+              uid="{82CC48F6-44A9-4DC7-9B50-55B2B32A157A}">
+              <p:d />
+            </r>
+            <r
+              uid="{A4E6BCEC-FD26-4ED6-A176-AFB6BC47D96A}"
+              p:after="r[@uid='{D9DC2E91-2941-4E2F-BCD7-3809E1023600}']"
+              s:ds="{48E57B28-2B08-42A7-8B7D-860ED29B24F6}"
+              s:id="{D6F7B1A2-D9A1-4301-85D8-64731201F85B}"
+              s:ph="main" />
+            <r
+              uid="{A68AEBC9-65DE-4AA1-88B3-571CFF2581D3}"
+              p:after="r[@uid='{A4E6BCEC-FD26-4ED6-A176-AFB6BC47D96A}']"
+              s:ds="{20BD24AB-4F6B-4423-9C0B-F3EC0822E6BE}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:ph="main" />
+            <r
+              uid="{EBD9399D-FC72-401B-BF95-15BAD6809691}"
+              p:after="*[1=2]"
+              s:ds="{5DF01015-C5FC-42BF-A305-48F6F58BA4A7}"
+              s:id="{541C8841-7802-4878-BBC4-5B3AC533A4BA}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: NOV Customer Showcase
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: |
+        <a tab-index="0" href="#rsvp" class="ui-btn--primary half-bar">Please RSVP by April 26</a>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: NOV Customer Showcase
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230414T162630Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: NOV Customer Showcase
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: NOV Customer Showcase
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: |
+        {ABA9E56C-0FCE-464D-8E09-DB375CDF20D8}
+        {7BFDF55B-D789-4F80-BAA1-EE7B8380D4C6}
+        {3A98FB5B-55BC-4332-A107-34A543AC1970}
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: NOV Customer Showcase
+    - ID: "6f84eee0-ddfa-478a-b9fb-8a7adc34ed42"
+      Hint: Start Date
+      Value: 20230504T000000Z
+    - ID: "81beeffb-e4e6-44ad-aa32-b3380b8d3fcd"
+      Hint: city
+      Value: Houston, TX
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "51a934b9-5f30-4cc1-abe4-946a6b7c4dd1"
+    - ID: "8f4016b6-4a51-4621-90cb-77774279dba3"
+      Hint: End Date
+      Value: 20230504T000000Z
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{E7052507-CEF7-45CC-B52B-C65B98F4ADA7}"
+    - ID: "b0d622b7-156a-4f17-9ce4-4dd213df0302"
+      Hint: Date
+      Value: 20230504T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "bba7d4dd-7d1e-428e-b80d-055170466dc3"
+      Hint: country
+      Value: USA
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230414T162630Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{8E0C12FC-11C6-4B13-B5D8-C067D34E3D05}" cropregion="0,87,1920,1191" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230414T201126Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{8E0C12FC-11C6-4B13-B5D8-C067D34E3D05}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 5
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{D9DC2E91-2941-4E2F-BCD7-3809E1023600}"
+              s:ds="{66E60D99-A945-44C3-878E-43CD5CD1B546}"
+              s:par="Alignment=center" />
+            <r
+              uid="{82CC48F6-44A9-4DC7-9B50-55B2B32A157A}">
+              <p:d />
+            </r>
+            <r
+              uid="{A4E6BCEC-FD26-4ED6-A176-AFB6BC47D96A}"
+              p:after="r[@uid='{D9DC2E91-2941-4E2F-BCD7-3809E1023600}']"
+              s:ds="{48E57B28-2B08-42A7-8B7D-860ED29B24F6}"
+              s:id="{D6F7B1A2-D9A1-4301-85D8-64731201F85B}"
+              s:ph="main" />
+            <r
+              uid="{A68AEBC9-65DE-4AA1-88B3-571CFF2581D3}"
+              p:after="r[@uid='{A4E6BCEC-FD26-4ED6-A176-AFB6BC47D96A}']"
+              s:ds="{20BD24AB-4F6B-4423-9C0B-F3EC0822E6BE}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:ph="main" />
+            <r
+              uid="{EBD9399D-FC72-401B-BF95-15BAD6809691}"
+              p:after="*[1=2]"
+              s:ds="{5DF01015-C5FC-42BF-A305-48F6F58BA4A7}"
+              s:id="{541C8841-7802-4878-BBC4-5B3AC533A4BA}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: NOV Customer Showcase
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: |
+        <a tab-index="0" href="#rsvp" class="ui-btn--primary half-bar">Please RSVP by April 26</a>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: NOV Customer Showcase
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230420T175046Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: NOV Customer Showcase
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: NOV Customer Showcase
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: |
+        {ABA9E56C-0FCE-464D-8E09-DB375CDF20D8}
+        {7BFDF55B-D789-4F80-BAA1-EE7B8380D4C6}
+        {3A98FB5B-55BC-4332-A107-34A543AC1970}
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: NOV Customer Showcase
+    - ID: "6f84eee0-ddfa-478a-b9fb-8a7adc34ed42"
+      Hint: Start Date
+      Value: 20230504T000000Z
+    - ID: "81beeffb-e4e6-44ad-aa32-b3380b8d3fcd"
+      Hint: city
+      Value: Houston, TX
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f46bd28b-d451-4dfa-9f9a-66ce34954415"
+    - ID: "8f4016b6-4a51-4621-90cb-77774279dba3"
+      Hint: End Date
+      Value: 20230504T000000Z
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{E7052507-CEF7-45CC-B52B-C65B98F4ADA7}"
+    - ID: "b0d622b7-156a-4f17-9ce4-4dd213df0302"
+      Hint: Date
+      Value: 20230504T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "bba7d4dd-7d1e-428e-b80d-055170466dc3"
+      Hint: country
+      Value: USA
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230420T175046Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{8E0C12FC-11C6-4B13-B5D8-C067D34E3D05}" cropregion="0,87,1920,1191" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230420T184102Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{8E0C12FC-11C6-4B13-B5D8-C067D34E3D05}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 6
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{D9DC2E91-2941-4E2F-BCD7-3809E1023600}"
+              s:ds="{66E60D99-A945-44C3-878E-43CD5CD1B546}"
+              s:par="Alignment=center" />
+            <r
+              uid="{82CC48F6-44A9-4DC7-9B50-55B2B32A157A}">
+              <p:d />
+            </r>
+            <r
+              uid="{A4E6BCEC-FD26-4ED6-A176-AFB6BC47D96A}"
+              p:after="r[@uid='{D9DC2E91-2941-4E2F-BCD7-3809E1023600}']"
+              s:ds="{48E57B28-2B08-42A7-8B7D-860ED29B24F6}"
+              s:id="{D6F7B1A2-D9A1-4301-85D8-64731201F85B}"
+              s:ph="main" />
+            <r
+              uid="{A68AEBC9-65DE-4AA1-88B3-571CFF2581D3}"
+              p:after="r[@uid='{A4E6BCEC-FD26-4ED6-A176-AFB6BC47D96A}']"
+              s:ds="{20BD24AB-4F6B-4423-9C0B-F3EC0822E6BE}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:ph="main" />
+            <r
+              uid="{EBD9399D-FC72-401B-BF95-15BAD6809691}"
+              p:after="*[1=2]"
+              s:ds="{5DF01015-C5FC-42BF-A305-48F6F58BA4A7}"
+              s:id="{541C8841-7802-4878-BBC4-5B3AC533A4BA}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: NOV Customer Showcase
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: |
+        <a tab-index="0" href="#rsvp" class="ui-btn--primary half-bar">Please RSVP by April 26</a>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: NOV Customer Showcase
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230421T151101Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: NOV Customer Showcase
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: NOV Customer Showcase
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: |
+        {ABA9E56C-0FCE-464D-8E09-DB375CDF20D8}
+        {7BFDF55B-D789-4F80-BAA1-EE7B8380D4C6}
+        {3A98FB5B-55BC-4332-A107-34A543AC1970}
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: NOV Customer Showcase
+    - ID: "6f84eee0-ddfa-478a-b9fb-8a7adc34ed42"
+      Hint: Start Date
+      Value: 20230504T000000Z
+    - ID: "81beeffb-e4e6-44ad-aa32-b3380b8d3fcd"
+      Hint: city
+      Value: Houston, TX
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0bc743b9-aeaa-4d6d-a71d-e26536216972"
+    - ID: "8f4016b6-4a51-4621-90cb-77774279dba3"
+      Hint: End Date
+      Value: 20230504T000000Z
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{E7052507-CEF7-45CC-B52B-C65B98F4ADA7}"
+    - ID: "b0d622b7-156a-4f17-9ce4-4dd213df0302"
+      Hint: Date
+      Value: 20230504T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "bba7d4dd-7d1e-428e-b80d-055170466dc3"
+      Hint: country
+      Value: USA
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230421T151101Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{8E0C12FC-11C6-4B13-B5D8-C067D34E3D05}" cropregion="0,87,1920,1191" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230421T160856Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{8E0C12FC-11C6-4B13-B5D8-C067D34E3D05}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 7
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{D9DC2E91-2941-4E2F-BCD7-3809E1023600}"
+              s:ds="{66E60D99-A945-44C3-878E-43CD5CD1B546}"
+              s:par="Alignment=center" />
+            <r
+              uid="{82CC48F6-44A9-4DC7-9B50-55B2B32A157A}">
+              <p:d />
+            </r>
+            <r
+              uid="{A4E6BCEC-FD26-4ED6-A176-AFB6BC47D96A}"
+              p:after="r[@uid='{D9DC2E91-2941-4E2F-BCD7-3809E1023600}']"
+              s:ds="{48E57B28-2B08-42A7-8B7D-860ED29B24F6}"
+              s:id="{D6F7B1A2-D9A1-4301-85D8-64731201F85B}"
+              s:ph="main" />
+            <r
+              uid="{A68AEBC9-65DE-4AA1-88B3-571CFF2581D3}"
+              p:after="r[@uid='{A4E6BCEC-FD26-4ED6-A176-AFB6BC47D96A}']"
+              s:ds="{20BD24AB-4F6B-4423-9C0B-F3EC0822E6BE}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:ph="main" />
+            <r
+              uid="{EBD9399D-FC72-401B-BF95-15BAD6809691}"
+              p:after="*[1=2]"
+              s:ds="{5DF01015-C5FC-42BF-A305-48F6F58BA4A7}"
+              s:id="{541C8841-7802-4878-BBC4-5B3AC533A4BA}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: NOV Customer Showcase
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: |
+        <a tab-index="0" href="#rsvp" class="ui-btn--primary half-bar">Please RSVP by April 26</a>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: NOV Customer Showcase
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230425T133938Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: NOV Customer Showcase
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: NOV Customer Showcase
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: |
+        {ABA9E56C-0FCE-464D-8E09-DB375CDF20D8}
+        {7BFDF55B-D789-4F80-BAA1-EE7B8380D4C6}
+        {3A98FB5B-55BC-4332-A107-34A543AC1970}
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: NOV Customer Showcase
+    - ID: "6f84eee0-ddfa-478a-b9fb-8a7adc34ed42"
+      Hint: Start Date
+      Value: 20230504T000000Z
+    - ID: "81beeffb-e4e6-44ad-aa32-b3380b8d3fcd"
+      Hint: city
+      Value: Houston, TX
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d6d510f0-93f5-47f5-a3c1-3fc472859684"
+    - ID: "8f4016b6-4a51-4621-90cb-77774279dba3"
+      Hint: End Date
+      Value: 20230504T000000Z
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{E7052507-CEF7-45CC-B52B-C65B98F4ADA7}"
+    - ID: "b0d622b7-156a-4f17-9ce4-4dd213df0302"
+      Hint: Date
+      Value: 20230504T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "bba7d4dd-7d1e-428e-b80d-055170466dc3"
+      Hint: country
+      Value: USA
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230425T133938Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{8E0C12FC-11C6-4B13-B5D8-C067D34E3D05}" cropregion="0,87,1920,1191" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230425T141636Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{8E0C12FC-11C6-4B13-B5D8-C067D34E3D05}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 8
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{D9DC2E91-2941-4E2F-BCD7-3809E1023600}"
+              s:ds="{66E60D99-A945-44C3-878E-43CD5CD1B546}"
+              s:par="Alignment=center" />
+            <r
+              uid="{82CC48F6-44A9-4DC7-9B50-55B2B32A157A}">
+              <p:d />
+            </r>
+            <r
+              uid="{A4E6BCEC-FD26-4ED6-A176-AFB6BC47D96A}"
+              p:after="r[@uid='{D9DC2E91-2941-4E2F-BCD7-3809E1023600}']"
+              s:ds="{48E57B28-2B08-42A7-8B7D-860ED29B24F6}"
+              s:id="{D6F7B1A2-D9A1-4301-85D8-64731201F85B}"
+              s:ph="main" />
+            <r
+              uid="{A68AEBC9-65DE-4AA1-88B3-571CFF2581D3}"
+              p:after="r[@uid='{A4E6BCEC-FD26-4ED6-A176-AFB6BC47D96A}']"
+              s:ds="{20BD24AB-4F6B-4423-9C0B-F3EC0822E6BE}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:ph="main" />
+            <r
+              uid="{EBD9399D-FC72-401B-BF95-15BAD6809691}"
+              p:after="*[1=2]"
+              s:ds="{5DF01015-C5FC-42BF-A305-48F6F58BA4A7}"
+              s:id="{541C8841-7802-4878-BBC4-5B3AC533A4BA}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: NOV Customer Showcase
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: |
+        <a tab-index="0" href="#rsvp" class="ui-btn--primary half-bar">Please RSVP by April 26</a>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: NOV Customer Showcase
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230429T022740Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: NOV Customer Showcase
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: NOV Customer Showcase
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: |
+        {ABA9E56C-0FCE-464D-8E09-DB375CDF20D8}
+        {7BFDF55B-D789-4F80-BAA1-EE7B8380D4C6}
+        {3A98FB5B-55BC-4332-A107-34A543AC1970}
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: NOV Customer Showcase
+    - ID: "6f84eee0-ddfa-478a-b9fb-8a7adc34ed42"
+      Hint: Start Date
+      Value: 20230504T000000Z
+    - ID: "81beeffb-e4e6-44ad-aa32-b3380b8d3fcd"
+      Hint: city
+      Value: Houston, TX
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c230a1f2-a1d2-4d1d-b1e5-d2f609b8de76"
+    - ID: "8f4016b6-4a51-4621-90cb-77774279dba3"
+      Hint: End Date
+      Value: 20230504T000000Z
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{E7052507-CEF7-45CC-B52B-C65B98F4ADA7}"
+    - ID: "b0d622b7-156a-4f17-9ce4-4dd213df0302"
+      Hint: Date
+      Value: 20230504T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "bba7d4dd-7d1e-428e-b80d-055170466dc3"
+      Hint: country
+      Value: USA
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230429T022740Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{8E0C12FC-11C6-4B13-B5D8-C067D34E3D05}" cropregion="0,87,1920,1191" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230509T150910Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{8E0C12FC-11C6-4B13-B5D8-C067D34E3D05}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 9
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{D9DC2E91-2941-4E2F-BCD7-3809E1023600}"
+              s:ds="{66E60D99-A945-44C3-878E-43CD5CD1B546}"
+              s:par="Alignment=center" />
+            <r
+              uid="{82CC48F6-44A9-4DC7-9B50-55B2B32A157A}">
+              <p:d />
+            </r>
+            <r
+              uid="{A4E6BCEC-FD26-4ED6-A176-AFB6BC47D96A}"
+              p:after="r[@uid='{D9DC2E91-2941-4E2F-BCD7-3809E1023600}']"
+              s:ds="{48E57B28-2B08-42A7-8B7D-860ED29B24F6}"
+              s:id="{D6F7B1A2-D9A1-4301-85D8-64731201F85B}"
+              s:ph="main" />
+            <r
+              uid="{A68AEBC9-65DE-4AA1-88B3-571CFF2581D3}"
+              p:after="r[@uid='{A4E6BCEC-FD26-4ED6-A176-AFB6BC47D96A}']"
+              s:ds="{20BD24AB-4F6B-4423-9C0B-F3EC0822E6BE}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:ph="main" />
+            <r
+              uid="{EBD9399D-FC72-401B-BF95-15BAD6809691}"
+              p:after="*[1=2]"
+              s:ds="{5DF01015-C5FC-42BF-A305-48F6F58BA4A7}"
+              s:id="{541C8841-7802-4878-BBC4-5B3AC533A4BA}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: NOV Customer Showcase
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: |
+        <a tab-index="0" href="#rsvp" class="ui-btn--primary half-bar">Please RSVP by April 26</a>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: NOV Customer Showcase
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230523T171433Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: NOV Customer Showcase
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: NOV Customer Showcase
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: |
+        {ABA9E56C-0FCE-464D-8E09-DB375CDF20D8}
+        {7BFDF55B-D789-4F80-BAA1-EE7B8380D4C6}
+        {3A98FB5B-55BC-4332-A107-34A543AC1970}
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: NOV Customer Showcase
+    - ID: "6f84eee0-ddfa-478a-b9fb-8a7adc34ed42"
+      Hint: Start Date
+      Value: 20230504T000000Z
+    - ID: "81beeffb-e4e6-44ad-aa32-b3380b8d3fcd"
+      Hint: city
+      Value: Houston, TX
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ab5281a1-146f-4f21-86de-1be3aebd671c"
+    - ID: "8f4016b6-4a51-4621-90cb-77774279dba3"
+      Hint: End Date
+      Value: 20230504T000000Z
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{E7052507-CEF7-45CC-B52B-C65B98F4ADA7}"
+    - ID: "b0d622b7-156a-4f17-9ce4-4dd213df0302"
+      Hint: Date
+      Value: 20230504T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "bba7d4dd-7d1e-428e-b80d-055170466dc3"
+      Hint: country
+      Value: USA
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230523T171433Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{8E0C12FC-11C6-4B13-B5D8-C067D34E3D05}" cropregion="0,87,1920,1191" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230523T171503Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{8E0C12FC-11C6-4B13-B5D8-C067D34E3D05}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />

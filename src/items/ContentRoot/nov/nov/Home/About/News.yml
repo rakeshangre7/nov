@@ -1,0 +1,1225 @@
+﻿---
+ID: "8dfd8a57-77e4-4e4e-a720-8f569a679339"
+Parent: "784dd9e8-c40d-47f4-accf-893251b02eb3"
+Template: "800ef4cb-3273-4756-ad58-fd9b119e02bf"
+Path: /sitecore/content/nov/nov/Home/About/News
+SharedFields:
+- ID: "6fd695e7-7f6d-4ca5-8b49-a829e5950ae9"
+  Hint: __Subitems Sorting
+  Value: "{C1FF011E-B02A-44E3-8444-9FC89CFC28CE}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{567B5EE0-2011-441D-99C4-B048296EF03C}">
+              <p:d />
+            </r>
+            <r
+              uid="{29C0FB27-9EBE-466C-9648-1B3CED591D78}">
+              <p:d />
+            </r>
+            <r
+              uid="{55E55775-15F4-4BFC-8652-856E7AD1B9BA}">
+              <p:d />
+            </r>
+            <r
+              uid="{ADEFD730-6D25-41BA-B761-A852AA7DFCC1}">
+              <p:d />
+            </r>
+            <r
+              uid="{5287F413-D547-4F9D-8A6B-98CCCA8F16C3}">
+              <p:d />
+            </r>
+            <r
+              uid="{629CABF6-DE4A-4434-8C32-F8E1A8C2AC79}"
+              p:after="r[@uid='{891379C9-C5B8-43EF-9A11-3157D7259FBC}']"
+              s:ds="{9A608591-392E-42B7-A5A0-020A48B9FFED}"
+              s:id="{93ADFF97-73E8-46AA-9C18-068BDB6232A8}"
+              s:ph="main" />
+            <r
+              uid="{78A614F2-2ACA-4DDA-AA30-A1AEAD161332}"
+              p:after="r[@uid='{629CABF6-DE4A-4434-8C32-F8E1A8C2AC79}']"
+              s:ds="{9A608591-392E-42B7-A5A0-020A48B9FFED}"
+              s:id="{93ADFF97-73E8-46AA-9C18-068BDB6232A8}"
+              s:ph="main" />
+            <r
+              uid="{DF61F0B7-558F-4AA9-99D6-88DE79A0B80B}"
+              p:after="r[@uid='{78A614F2-2ACA-4DDA-AA30-A1AEAD161332}']"
+              s:ds="{9A608591-392E-42B7-A5A0-020A48B9FFED}"
+              s:id="{93ADFF97-73E8-46AA-9C18-068BDB6232A8}"
+              s:ph="main" />
+            <r
+              uid="{DE24255A-42F9-4837-9F02-0C14EE07A45B}"
+              p:after="r[@uid='{DF61F0B7-558F-4AA9-99D6-88DE79A0B80B}']"
+              s:ds="{9A608591-392E-42B7-A5A0-020A48B9FFED}"
+              s:id="{93ADFF97-73E8-46AA-9C18-068BDB6232A8}"
+              s:ph="main" />
+            <r
+              uid="{716A4D3A-819A-45AE-9041-FADAB350ED0B}"
+              p:after="r[@uid='{DE24255A-42F9-4837-9F02-0C14EE07A45B}']"
+              s:ds="{4144F5F9-B8B1-4358-A093-81CC6ABC35CF}"
+              s:id="{93ADFF97-73E8-46AA-9C18-068BDB6232A8}"
+              s:par=""
+              s:ph="main" />
+            <r
+              uid="{CBCCFB81-10D3-4227-8ACE-D150F09E9BB0}"
+              p:after="*[1=2]"
+              s:ds="{9A608591-392E-42B7-A5A0-020A48B9FFED}"
+              s:id="{93ADFF97-73E8-46AA-9C18-068BDB6232A8}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: News
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>NOV is leading technical innovation across all areas of the oil and gas industry. Get the latest on our advanced solutions that help power a complex, evolving world.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: News
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190513T204720Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: News
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: News
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticgappau
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: News
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d5b840e7-197d-47f9-8bd8-6b13eb4599e1"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{294053F5-3F2B-4F01-A805-2E3CC257571E}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: News
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190513T204720Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{181CE076-3955-402E-B847-00D11A1EE722}" cropregion="0,160,1920,1262" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190617T183939Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{181CE076-3955-402E-B847-00D11A1EE722}" cropregion="0,172,1920,1252" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{567B5EE0-2011-441D-99C4-B048296EF03C}">
+              <p:d />
+            </r>
+            <r
+              uid="{EF68B4F9-6633-4D34-ADD8-CD77CFA3CE2D}"
+              p:after="r[@uid='{891379C9-C5B8-43EF-9A11-3157D7259FBC}']"
+              s:ds="{9A608591-392E-42B7-A5A0-020A48B9FFED}"
+              s:id="{93ADFF97-73E8-46AA-9C18-068BDB6232A8}"
+              s:ph="main" />
+            <r
+              uid="{55E55775-15F4-4BFC-8652-856E7AD1B9BA}">
+              <p:d />
+            </r>
+            <r
+              uid="{ED463BB3-B35D-428A-85F8-477BBBA07DA3}"
+              p:after="*[1=2]"
+              s:ds="{9A608591-392E-42B7-A5A0-020A48B9FFED}"
+              s:id="{93ADFF97-73E8-46AA-9C18-068BDB6232A8}"
+              s:ph="main" />
+            <r
+              uid="{ADEFD730-6D25-41BA-B761-A852AA7DFCC1}">
+              <p:d />
+            </r>
+            <r
+              uid="{5287F413-D547-4F9D-8A6B-98CCCA8F16C3}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: News
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>NOV is leading technical innovation across all areas of the oil and gas industry. Get the latest on our advanced solutions that help power a complex, evolving world.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: News
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190513T205631Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: News
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: News
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticgappau
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: News
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a2eb2233-1dca-4f1f-9d59-f9422b918d11"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{294053F5-3F2B-4F01-A805-2E3CC257571E}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: News
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190513T205631Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{181CE076-3955-402E-B847-00D11A1EE722}" cropregion="0,160,1920,1262" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190617T183937Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{181CE076-3955-402E-B847-00D11A1EE722}" cropregion="0,172,1920,1252" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{567B5EE0-2011-441D-99C4-B048296EF03C}">
+              <p:d />
+            </r>
+            <r
+              uid="{29C0FB27-9EBE-466C-9648-1B3CED591D78}">
+              <p:d />
+            </r>
+            <r
+              uid="{55E55775-15F4-4BFC-8652-856E7AD1B9BA}">
+              <p:d />
+            </r>
+            <r
+              uid="{ADEFD730-6D25-41BA-B761-A852AA7DFCC1}">
+              <p:d />
+            </r>
+            <r
+              uid="{EF68B4F9-6633-4D34-ADD8-CD77CFA3CE2D}"
+              p:after="r[@uid='{891379C9-C5B8-43EF-9A11-3157D7259FBC}']"
+              s:ds="{9A608591-392E-42B7-A5A0-020A48B9FFED}"
+              s:id="{93ADFF97-73E8-46AA-9C18-068BDB6232A8}"
+              s:ph="main" />
+            <r
+              uid="{ED463BB3-B35D-428A-85F8-477BBBA07DA3}"
+              p:after="r[@uid='{EF68B4F9-6633-4D34-ADD8-CD77CFA3CE2D}']"
+              s:ds="{9A608591-392E-42B7-A5A0-020A48B9FFED}"
+              s:id="{93ADFF97-73E8-46AA-9C18-068BDB6232A8}"
+              s:ph="main" />
+            <r
+              uid="{56D64E91-F9D5-4816-A82B-61CC0BB2864C}"
+              p:after="r[@uid='{ED463BB3-B35D-428A-85F8-477BBBA07DA3}']"
+              s:ds="{9A608591-392E-42B7-A5A0-020A48B9FFED}"
+              s:id="{93ADFF97-73E8-46AA-9C18-068BDB6232A8}"
+              s:ph="main" />
+            <r
+              uid="{F831BBBE-A00F-41CE-971F-AE45DC062F88}"
+              p:after="*[1=2]"
+              s:ds="{9A608591-392E-42B7-A5A0-020A48B9FFED}"
+              s:id="{93ADFF97-73E8-46AA-9C18-068BDB6232A8}"
+              s:ph="main" />
+            <r
+              uid="{5287F413-D547-4F9D-8A6B-98CCCA8F16C3}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: News
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>NOV is leading technical innovation across all areas of the oil and gas industry. Get the latest on our advanced solutions that help power a complex, evolving world.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: News
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190513T205940Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: News
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: News
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticgappau
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: News
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d4ae0c8e-84c1-4fa6-8953-5488bd403345"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{294053F5-3F2B-4F01-A805-2E3CC257571E}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: News
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190513T205940Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{181CE076-3955-402E-B847-00D11A1EE722}" cropregion="0,160,1920,1262" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190617T183935Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{181CE076-3955-402E-B847-00D11A1EE722}" cropregion="0,172,1920,1252" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 4
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{29CCFEC8-7728-4642-A74C-DBB3C36E5A66}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0" />
+            <r
+              uid="{567B5EE0-2011-441D-99C4-B048296EF03C}">
+              <p:d />
+            </r>
+            <r
+              uid="{29C0FB27-9EBE-466C-9648-1B3CED591D78}">
+              <p:d />
+            </r>
+            <r
+              uid="{55E55775-15F4-4BFC-8652-856E7AD1B9BA}">
+              <p:d />
+            </r>
+            <r
+              uid="{ADEFD730-6D25-41BA-B761-A852AA7DFCC1}">
+              <p:d />
+            </r>
+            <r
+              uid="{5287F413-D547-4F9D-8A6B-98CCCA8F16C3}">
+              <p:d />
+            </r>
+            <r
+              uid="{EF68B4F9-6633-4D34-ADD8-CD77CFA3CE2D}"
+              p:after="r[@uid='{891379C9-C5B8-43EF-9A11-3157D7259FBC}']"
+              s:ds="{9A608591-392E-42B7-A5A0-020A48B9FFED}"
+              s:id="{93ADFF97-73E8-46AA-9C18-068BDB6232A8}"
+              s:ph="main" />
+            <r
+              uid="{ED463BB3-B35D-428A-85F8-477BBBA07DA3}"
+              p:after="r[@uid='{EF68B4F9-6633-4D34-ADD8-CD77CFA3CE2D}']"
+              s:ds="{9A608591-392E-42B7-A5A0-020A48B9FFED}"
+              s:id="{93ADFF97-73E8-46AA-9C18-068BDB6232A8}"
+              s:ph="main" />
+            <r
+              uid="{56D64E91-F9D5-4816-A82B-61CC0BB2864C}"
+              p:after="r[@uid='{ED463BB3-B35D-428A-85F8-477BBBA07DA3}']"
+              s:ds="{9A608591-392E-42B7-A5A0-020A48B9FFED}"
+              s:id="{93ADFF97-73E8-46AA-9C18-068BDB6232A8}"
+              s:ph="main" />
+            <r
+              uid="{F831BBBE-A00F-41CE-971F-AE45DC062F88}"
+              p:after="r[@uid='{56D64E91-F9D5-4816-A82B-61CC0BB2864C}']"
+              s:ds="{9A608591-392E-42B7-A5A0-020A48B9FFED}"
+              s:id="{93ADFF97-73E8-46AA-9C18-068BDB6232A8}"
+              s:ph="main" />
+            <r
+              uid="{AD514CC0-5F6F-4BF5-81B4-87A39615142B}"
+              p:after="*[1=2]"
+              s:ds="{9A608591-392E-42B7-A5A0-020A48B9FFED}"
+              s:id="{93ADFF97-73E8-46AA-9C18-068BDB6232A8}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: News
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>NOV is leading technical innovation across all areas of the oil and gas industry. Get the latest on our advanced solutions that help power a complex, evolving world.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: News
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190513T210217Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: News
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: News
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticgappau
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: News
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "44423040-d466-4b5a-8634-a8476e9c88b0"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{294053F5-3F2B-4F01-A805-2E3CC257571E}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: News
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190513T210217Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{181CE076-3955-402E-B847-00D11A1EE722}" cropregion="0,160,1920,1262" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190617T183933Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{181CE076-3955-402E-B847-00D11A1EE722}" cropregion="0,172,1920,1252" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 5
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{29CCFEC8-7728-4642-A74C-DBB3C36E5A66}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{891379C9-C5B8-43EF-9A11-3157D7259FBC}">
+              <p:d />
+            </r>
+            <r
+              uid="{AD514CC0-5F6F-4BF5-81B4-87A39615142B}"
+              p:after="*[1=2]"
+              s:ds="{9A608591-392E-42B7-A5A0-020A48B9FFED}"
+              s:id="{93ADFF97-73E8-46AA-9C18-068BDB6232A8}"
+              s:ph="main" />
+            <r
+              uid="{567B5EE0-2011-441D-99C4-B048296EF03C}">
+              <p:d />
+            </r>
+            <r
+              uid="{29C0FB27-9EBE-466C-9648-1B3CED591D78}">
+              <p:d />
+            </r>
+            <r
+              uid="{55E55775-15F4-4BFC-8652-856E7AD1B9BA}">
+              <p:d />
+            </r>
+            <r
+              uid="{ADEFD730-6D25-41BA-B761-A852AA7DFCC1}">
+              <p:d />
+            </r>
+            <r
+              uid="{5287F413-D547-4F9D-8A6B-98CCCA8F16C3}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: News
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>NOV is leading technical innovation across all areas of the oil and gas industry. Get the latest on our advanced solutions that help power a complex, evolving world.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: News
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190523T183612Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: News
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: News
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticgappau
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: News
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0ab346b3-7137-4e73-910c-d85166384c4c"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{294053F5-3F2B-4F01-A805-2E3CC257571E}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: News
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\verticakeshwaram
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190523T183612Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{181CE076-3955-402E-B847-00D11A1EE722}" cropregion="0,160,1920,1262" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190603T204939Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{181CE076-3955-402E-B847-00D11A1EE722}" cropregion="0,172,1920,1252" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 6
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{B15ADB93-D417-4AF3-BAB9-7A3A2D5BE013}"
+              p:before="*"
+              s:ds=""
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:par="Add Gradient&amp;Text Color=white"
+              s:ph="/main/hero-slide-{1910F202-1AF9-4C2F-9F70-AFB2F50E192D}-0" />
+            <r
+              uid="{1910F202-1AF9-4C2F-9F70-AFB2F50E192D}"
+              p:after="r[@uid='{B15ADB93-D417-4AF3-BAB9-7A3A2D5BE013}']"
+              s:ds="{263DB060-E31E-48A1-ADD8-6198CD8B62CE}"
+              s:id="{AB213187-9551-4F9B-AE3D-261BB2B2434F}"
+              s:ph="main" />
+            <r
+              uid="{9219FCCE-654E-4AD8-A048-F32062C79C79}"
+              p:after="r[@uid='{1910F202-1AF9-4C2F-9F70-AFB2F50E192D}']"
+              s:ds="{D09862DD-3612-496C-93A7-19C05623846C}"
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:par="Add Gradient=1&amp;Text Color=white"
+              s:ph="/main/hero-slide-{25D7D9B0-43C2-422A-845D-EB2D5F6C84B2}-0" />
+            <r
+              uid="{29CCFEC8-7728-4642-A74C-DBB3C36E5A66}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{891379C9-C5B8-43EF-9A11-3157D7259FBC}">
+              <p:d />
+            </r>
+            <r
+              uid="{AD514CC0-5F6F-4BF5-81B4-87A39615142B}"
+              p:after="*[1=2]"
+              s:ds="{9A608591-392E-42B7-A5A0-020A48B9FFED}"
+              s:id="{93ADFF97-73E8-46AA-9C18-068BDB6232A8}"
+              s:ph="main" />
+            <r
+              uid="{567B5EE0-2011-441D-99C4-B048296EF03C}">
+              <p:d />
+            </r>
+            <r
+              uid="{29C0FB27-9EBE-466C-9648-1B3CED591D78}">
+              <p:d />
+            </r>
+            <r
+              uid="{55E55775-15F4-4BFC-8652-856E7AD1B9BA}">
+              <p:d />
+            </r>
+            <r
+              uid="{ADEFD730-6D25-41BA-B761-A852AA7DFCC1}">
+              <p:d />
+            </r>
+            <r
+              uid="{5287F413-D547-4F9D-8A6B-98CCCA8F16C3}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: 
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>NOV is leading technical innovation across all areas of the oil and gas industry. Get the latest on our advanced solutions that help power a complex, evolving world.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: News
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190604T133836Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: News
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: News
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticgappau
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: News
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bdc38de4-5a14-46ca-aa48-c4a6e5ad1709"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: NOV is leading technical innovation across all areas of the oil and gas industry. Get the latest on our advanced solutions that help power a complex, evolving world.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190604T133836Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{181CE076-3955-402E-B847-00D11A1EE722}" cropregion="0,160,1920,1262" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190604T183738Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{181CE076-3955-402E-B847-00D11A1EE722}" cropregion="0,172,1920,1252" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 7
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{29CCFEC8-7728-4642-A74C-DBB3C36E5A66}">
+              <p:d />
+            </r>
+            <r
+              uid="{891379C9-C5B8-43EF-9A11-3157D7259FBC}">
+              <p:d />
+            </r>
+            <r
+              uid="{567B5EE0-2011-441D-99C4-B048296EF03C}">
+              <p:d />
+            </r>
+            <r
+              uid="{B15ADB93-D417-4AF3-BAB9-7A3A2D5BE013}"
+              p:before="*"
+              s:ds=""
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:par="Add Gradient=1&amp;Text Color=white"
+              s:ph="/main/hero-slide-{1910F202-1AF9-4C2F-9F70-AFB2F50E192D}-0" />
+            <r
+              uid="{1910F202-1AF9-4C2F-9F70-AFB2F50E192D}"
+              p:after="r[@uid='{B15ADB93-D417-4AF3-BAB9-7A3A2D5BE013}']"
+              s:ds="{263DB060-E31E-48A1-ADD8-6198CD8B62CE}"
+              s:id="{AB213187-9551-4F9B-AE3D-261BB2B2434F}"
+              s:ph="main" />
+            <r
+              uid="{AD514CC0-5F6F-4BF5-81B4-87A39615142B}"
+              p:after="*[1=2]"
+              s:ds="{9A608591-392E-42B7-A5A0-020A48B9FFED}"
+              s:id="{93ADFF97-73E8-46AA-9C18-068BDB6232A8}"
+              s:ph="main" />
+            <r
+              uid="{29C0FB27-9EBE-466C-9648-1B3CED591D78}">
+              <p:d />
+            </r>
+            <r
+              uid="{55E55775-15F4-4BFC-8652-856E7AD1B9BA}">
+              <p:d />
+            </r>
+            <r
+              uid="{ADEFD730-6D25-41BA-B761-A852AA7DFCC1}">
+              <p:d />
+            </r>
+            <r
+              uid="{5287F413-D547-4F9D-8A6B-98CCCA8F16C3}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: 
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>NOV is leading technical innovation across all areas of the oil and gas industry. Get the latest on our advanced solutions that help power a complex, evolving world.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: News
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190604T183858Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: News
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: News
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticgappau
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: News
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1a808abb-4bd5-419b-8328-65ea08fd6cc0"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: NOV is leading technical innovation across all areas of the oil and gas industry. Get the latest on our advanced solutions that help power a complex, evolving world.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190604T183858Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{181CE076-3955-402E-B847-00D11A1EE722}" cropregion="0,160,1920,1262" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190605T213537Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{181CE076-3955-402E-B847-00D11A1EE722}" cropregion="0,172,1920,1252" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 8
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{29CCFEC8-7728-4642-A74C-DBB3C36E5A66}">
+              <p:d />
+            </r>
+            <r
+              uid="{891379C9-C5B8-43EF-9A11-3157D7259FBC}">
+              <p:d />
+            </r>
+            <r
+              uid="{567B5EE0-2011-441D-99C4-B048296EF03C}">
+              <p:d />
+            </r>
+            <r
+              uid="{B15ADB93-D417-4AF3-BAB9-7A3A2D5BE013}"
+              p:before="*"
+              s:ds=""
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:par="Add Gradient=1&amp;Text Color=white"
+              s:ph="/main/hero-slide-{1910F202-1AF9-4C2F-9F70-AFB2F50E192D}-0" />
+            <r
+              uid="{1910F202-1AF9-4C2F-9F70-AFB2F50E192D}"
+              p:after="r[@uid='{B15ADB93-D417-4AF3-BAB9-7A3A2D5BE013}']"
+              s:ds="{263DB060-E31E-48A1-ADD8-6198CD8B62CE}"
+              s:id="{AB213187-9551-4F9B-AE3D-261BB2B2434F}"
+              s:ph="main" />
+            <r
+              uid="{AD514CC0-5F6F-4BF5-81B4-87A39615142B}"
+              p:after="*[1=2]"
+              s:ds="{9A608591-392E-42B7-A5A0-020A48B9FFED}"
+              s:id="{93ADFF97-73E8-46AA-9C18-068BDB6232A8}"
+              s:ph="main" />
+            <r
+              uid="{29C0FB27-9EBE-466C-9648-1B3CED591D78}">
+              <p:d />
+            </r>
+            <r
+              uid="{55E55775-15F4-4BFC-8652-856E7AD1B9BA}">
+              <p:d />
+            </r>
+            <r
+              uid="{ADEFD730-6D25-41BA-B761-A852AA7DFCC1}">
+              <p:d />
+            </r>
+            <r
+              uid="{5287F413-D547-4F9D-8A6B-98CCCA8F16C3}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: 
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>NOV is leading technical innovation across all areas of the oil and gas industry. Get the latest on our advanced solutions that help power a complex, evolving world.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: News
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190605T213539Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: News
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: News
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticgappau
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: News
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "93f69748-c447-42e7-9fdf-d8153c51a956"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: NOV is leading technical innovation across all areas of the oil and gas industry. Get the latest on our advanced solutions that help power a complex, evolving world.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190605T213539Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{181CE076-3955-402E-B847-00D11A1EE722}" cropregion="0,160,1920,1262" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190605T213705Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{181CE076-3955-402E-B847-00D11A1EE722}" cropregion="0,172,1920,1252" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 9
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{29CCFEC8-7728-4642-A74C-DBB3C36E5A66}">
+              <p:d />
+            </r>
+            <r
+              uid="{891379C9-C5B8-43EF-9A11-3157D7259FBC}">
+              <p:d />
+            </r>
+            <r
+              uid="{567B5EE0-2011-441D-99C4-B048296EF03C}">
+              <p:d />
+            </r>
+            <r
+              uid="{B15ADB93-D417-4AF3-BAB9-7A3A2D5BE013}"
+              p:before="*"
+              s:ds=""
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:par="Add Gradient=1&amp;Text Color=white"
+              s:ph="/main/hero-slide-{1910F202-1AF9-4C2F-9F70-AFB2F50E192D}-0" />
+            <r
+              uid="{1910F202-1AF9-4C2F-9F70-AFB2F50E192D}"
+              p:after="r[@uid='{B15ADB93-D417-4AF3-BAB9-7A3A2D5BE013}']"
+              s:ds="{263DB060-E31E-48A1-ADD8-6198CD8B62CE}"
+              s:id="{AB213187-9551-4F9B-AE3D-261BB2B2434F}"
+              s:ph="main" />
+            <r
+              uid="{AD514CC0-5F6F-4BF5-81B4-87A39615142B}"
+              p:after="*[1=2]"
+              s:ds="{9A608591-392E-42B7-A5A0-020A48B9FFED}"
+              s:id="{93ADFF97-73E8-46AA-9C18-068BDB6232A8}"
+              s:ph="main" />
+            <r
+              uid="{29C0FB27-9EBE-466C-9648-1B3CED591D78}">
+              <p:d />
+            </r>
+            <r
+              uid="{55E55775-15F4-4BFC-8652-856E7AD1B9BA}">
+              <p:d />
+            </r>
+            <r
+              uid="{ADEFD730-6D25-41BA-B761-A852AA7DFCC1}">
+              <p:d />
+            </r>
+            <r
+              uid="{5287F413-D547-4F9D-8A6B-98CCCA8F16C3}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: 
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>NOV is leading technical innovation across all areas of the oil and gas industry. Get the latest on our advanced solutions that help power a complex, evolving world.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: News
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190614T142835Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: News
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: News
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticgappau
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: News
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e4247f9f-865f-41e1-871a-417c9f0d2410"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: NOV is leading technical innovation across all areas of the oil and gas industry. Get the latest on our advanced solutions that help power a complex, evolving world.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190614T142835Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{181CE076-3955-402E-B847-00D11A1EE722}" cropregion="0,160,1920,1262" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190617T184207Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{181CE076-3955-402E-B847-00D11A1EE722}" cropregion="0,172,1920,1252" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 10
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{29CCFEC8-7728-4642-A74C-DBB3C36E5A66}">
+              <p:d />
+            </r>
+            <r
+              uid="{891379C9-C5B8-43EF-9A11-3157D7259FBC}">
+              <p:d />
+            </r>
+            <r
+              uid="{567B5EE0-2011-441D-99C4-B048296EF03C}">
+              <p:d />
+            </r>
+            <r
+              uid="{B15ADB93-D417-4AF3-BAB9-7A3A2D5BE013}"
+              p:before="*"
+              s:ds=""
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:par="Add Gradient=1&amp;Text Color=white"
+              s:ph="/main/hero-slide-{1910F202-1AF9-4C2F-9F70-AFB2F50E192D}-0" />
+            <r
+              uid="{1910F202-1AF9-4C2F-9F70-AFB2F50E192D}"
+              p:after="r[@uid='{B15ADB93-D417-4AF3-BAB9-7A3A2D5BE013}']"
+              s:ds="{263DB060-E31E-48A1-ADD8-6198CD8B62CE}"
+              s:id="{AB213187-9551-4F9B-AE3D-261BB2B2434F}"
+              s:ph="main" />
+            <r
+              uid="{AD514CC0-5F6F-4BF5-81B4-87A39615142B}"
+              p:after="*[1=2]"
+              s:ds="{9A608591-392E-42B7-A5A0-020A48B9FFED}"
+              s:id="{93ADFF97-73E8-46AA-9C18-068BDB6232A8}"
+              s:ph="main" />
+            <r
+              uid="{29C0FB27-9EBE-466C-9648-1B3CED591D78}">
+              <p:d />
+            </r>
+            <r
+              uid="{55E55775-15F4-4BFC-8652-856E7AD1B9BA}">
+              <p:d />
+            </r>
+            <r
+              uid="{ADEFD730-6D25-41BA-B761-A852AA7DFCC1}">
+              <p:d />
+            </r>
+            <r
+              uid="{5287F413-D547-4F9D-8A6B-98CCCA8F16C3}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: 
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>NOV is leading technical innovation across all areas of the oil and gas industry. Get the latest on our advanced solutions that help power a complex, evolving world.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: News
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190709T161938Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: News
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: News
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticgappau
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: News
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "85b6fe99-759e-4588-8af6-18dc97379135"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: NOV is leading technical innovation across all areas of the oil and gas industry. Get the latest on our advanced solutions that help power a complex, evolving world.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190709T161938Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{181CE076-3955-402E-B847-00D11A1EE722}" cropregion="0,160,1920,1262" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20201117T214148Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{181CE076-3955-402E-B847-00D11A1EE722}" cropregion="0,172,1920,1252" ratio="1920:1080" width="1920" height="1080" />

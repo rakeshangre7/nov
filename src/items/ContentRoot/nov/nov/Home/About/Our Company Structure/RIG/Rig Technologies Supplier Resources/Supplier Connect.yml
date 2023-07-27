@@ -1,0 +1,1245 @@
+﻿---
+ID: "7530cbed-3566-41a4-a3cb-dfb26d542609"
+Parent: "744e0b44-8e50-460c-8e59-ba7c08ac5a6e"
+Template: "d227ab0e-fd44-4ae0-878a-189949913d0b"
+Path: /sitecore/content/nov/nov/Home/About/Our Company Structure/RIG/Rig Technologies Supplier Resources/Supplier Connect
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{BA077E75-780B-4654-A220-10E63520C582}">
+          <p:da
+            name="ds" />
+          <p:da
+            name="par" />
+        </r>
+        <r
+          uid="{C4ACEA35-73C2-4347-B325-2FC6FCDAAB8F}"
+          s:ds="{81659257-FCB4-48BE-B3E9-8B98BB1B8FBB}" />
+        <r
+          uid="{E655A92B-3794-4099-AF60-076BAFA33189}"
+          s:ds="{4F2D1AA5-1453-4C37-9175-29E87BD183BF}" />
+        <r
+          uid="{0D97EC48-A616-4503-81F3-8B0A22142C87}"
+          s:ds="{C0CEE763-9EB0-471D-BC92-943DEDE68E9A}" />
+        <r
+          uid="{1FD9ED8E-765E-4D75-AEB7-9C5643309FB1}"
+          s:ds="{C9A2CE2C-22E1-4E7F-8A77-5A2BDD23E677}" />
+        <r
+          uid="{C3E128BD-C527-476C-B850-4FF98996AE1F}"
+          s:ds="{677C1D57-FF27-4EC7-9022-4A5D5DAA3867}" />
+        <r
+          uid="{9E4C6427-3865-4F4C-AF91-EFDF6A58DA77}"
+          s:ds="{684A02BC-AE35-4A3F-B0F0-9C70D7403BFF}" />
+        <r
+          uid="{ACAD23C8-9219-4D65-B38A-4537A73C4FE0}"
+          s:ds="{7C32E90C-0E16-42BC-85F5-1280508C4073}" />
+        <r
+          uid="{FB4C5C8E-DF5F-4300-950E-536065A8707B}"
+          s:ds="{8286F4F6-85B6-49A9-91EB-B36D3A4F5957}" />
+        <r
+          uid="{2849CE03-88F2-4FBC-BAE4-0D1B29D7AEAA}"
+          s:ds="{D8A2192F-B78D-4510-841E-2B7169AB3A58}" />
+        <r
+          uid="{B5407315-4598-49BA-A716-8895E8E1539E}"
+          s:ds="{AD4F652A-4115-4F33-A2A1-631BC0F6D828}" />
+        <r
+          uid="{35F5B041-CCEA-40B8-948D-6DE09851A28E}"
+          s:ds="{25AB1D42-6E23-4B17-8A7C-597F357872DF}" />
+        <r
+          uid="{99B4E79C-EEB8-49BC-8779-24C4AD0CF113}"
+          s:ds="{7D74024E-E3AF-438B-8EA2-D8E7E7EF1ED0}" />
+        <r
+          uid="{CDF8E396-F69A-48ED-A6DB-B665BD98B242}"
+          s:ds="{CA091274-3436-48DC-B9BF-1D5A50D319CA}" />
+      </d>
+    </r>
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{BA077E75-780B-4654-A220-10E63520C582}">
+              <p:d />
+            </r>
+            <r
+              uid="{83C96A38-D18A-4E35-9D8D-71F869B259F3}">
+              <p:d />
+            </r>
+            <r
+              uid="{C4ACEA35-73C2-4347-B325-2FC6FCDAAB8F}">
+              <p:d />
+            </r>
+            <r
+              uid="{E655A92B-3794-4099-AF60-076BAFA33189}">
+              <p:d />
+            </r>
+            <r
+              uid="{9FD5F2BE-6756-41AC-9276-6B2D4D7F994A}"
+              p:before="*"
+              s:ds=""
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:par="Add Gradient=1&amp;Text Color=white"
+              s:ph="/main/hero-slide-{EF3D6123-07BE-41E5-991D-B9A8F1930DC9}-0" />
+            <r
+              uid="{EF3D6123-07BE-41E5-991D-B9A8F1930DC9}"
+              p:after="r[@uid='{9FD5F2BE-6756-41AC-9276-6B2D4D7F994A}']"
+              s:ds="{263DB060-E31E-48A1-ADD8-6198CD8B62CE}"
+              s:id="{AB213187-9551-4F9B-AE3D-261BB2B2434F}"
+              s:ph="main" />
+            <r
+              uid="{326A23CD-1CE2-4A35-AA93-D3B96E19DBCE}"
+              p:after="r[@uid='{EF3D6123-07BE-41E5-991D-B9A8F1930DC9}']"
+              s:ds="{C8504C2F-9FCD-4B19-B48D-BA80464A3A2E}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{C89AFC7D-0FE4-46A8-A43C-A16907F1740B}"
+              p:after="*[1=2]"
+              s:ds="{8286F4F6-85B6-49A9-91EB-B36D3A4F5957}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{0D97EC48-A616-4503-81F3-8B0A22142C87}">
+              <p:d />
+            </r>
+            <r
+              uid="{1FD9ED8E-765E-4D75-AEB7-9C5643309FB1}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3E128BD-C527-476C-B850-4FF98996AE1F}">
+              <p:d />
+            </r>
+            <r
+              uid="{9E4C6427-3865-4F4C-AF91-EFDF6A58DA77}">
+              <p:d />
+            </r>
+            <r
+              uid="{ACAD23C8-9219-4D65-B38A-4537A73C4FE0}">
+              <p:d />
+            </r>
+            <r
+              uid="{FB4C5C8E-DF5F-4300-950E-536065A8707B}">
+              <p:d />
+            </r>
+            <r
+              uid="{2849CE03-88F2-4FBC-BAE4-0D1B29D7AEAA}">
+              <p:d />
+            </r>
+            <r
+              uid="{B5407315-4598-49BA-A716-8895E8E1539E}">
+              <p:d />
+            </r>
+            <r
+              uid="{35F5B041-CCEA-40B8-948D-6DE09851A28E}">
+              <p:d />
+            </r>
+            <r
+              uid="{99B4E79C-EEB8-49BC-8779-24C4AD0CF113}">
+              <p:d />
+            </r>
+            <r
+              uid="{CDF8E396-F69A-48ED-A6DB-B665BD98B242}">
+              <p:d />
+            </r>
+            <r
+              uid="{3ADDDF2A-6C4B-4473-ACB2-EADC8ABD6475}">
+              <p:d />
+            </r>
+            <r
+              uid="{8036035A-E577-44BC-A961-631ADBC08C0F}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Supplier Connect
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: "<p>Supplier Connect is a web-based, landing page connecting NOV suppliers with self-service solutions that allows access to NOV&rsquo;s applications in a secure, online environment 24&times;7.</p>"
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Supplier Connect
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210617T184623Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Supplier Connect
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Supplier Connect
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{7BFDF55B-D789-4F80-BAA1-EE7B8380D4C6}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Supplier Connect
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6af1d8c6-e497-4598-8b24-f105af184a36"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\joshuashearer
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "Supplier Connect is a web-based, landing page connecting NOV suppliers with self-service solutions that allows access to NOV’s applications in a secure, online environment 24×7."
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{D3A8237A-F353-449A-B44C-3EC0BFD6B7E2}" cropregion="0,89,1920,1191" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210820T200437Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{D3A8237A-F353-449A-B44C-3EC0BFD6B7E2}" cropregion="0,101,1920,1181" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{BA077E75-780B-4654-A220-10E63520C582}">
+              <p:d />
+            </r>
+            <r
+              uid="{83C96A38-D18A-4E35-9D8D-71F869B259F3}">
+              <p:d />
+            </r>
+            <r
+              uid="{C4ACEA35-73C2-4347-B325-2FC6FCDAAB8F}">
+              <p:d />
+            </r>
+            <r
+              uid="{E655A92B-3794-4099-AF60-076BAFA33189}">
+              <p:d />
+            </r>
+            <r
+              uid="{0D97EC48-A616-4503-81F3-8B0A22142C87}">
+              <p:d />
+            </r>
+            <r
+              uid="{1FD9ED8E-765E-4D75-AEB7-9C5643309FB1}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3E128BD-C527-476C-B850-4FF98996AE1F}">
+              <p:d />
+            </r>
+            <r
+              uid="{9FD5F2BE-6756-41AC-9276-6B2D4D7F994A}"
+              p:before="*"
+              s:ds=""
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:par="Add Gradient=1&amp;Text Color=white"
+              s:ph="/main/hero-slide-{EF3D6123-07BE-41E5-991D-B9A8F1930DC9}-0" />
+            <r
+              uid="{EF3D6123-07BE-41E5-991D-B9A8F1930DC9}"
+              p:after="r[@uid='{9FD5F2BE-6756-41AC-9276-6B2D4D7F994A}']"
+              s:ds="{263DB060-E31E-48A1-ADD8-6198CD8B62CE}"
+              s:id="{AB213187-9551-4F9B-AE3D-261BB2B2434F}"
+              s:ph="main" />
+            <r
+              uid="{326A23CD-1CE2-4A35-AA93-D3B96E19DBCE}"
+              p:after="r[@uid='{EF3D6123-07BE-41E5-991D-B9A8F1930DC9}']"
+              s:ds="{C8504C2F-9FCD-4B19-B48D-BA80464A3A2E}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{7BEB635F-0454-47D3-BC21-C8CCC4896011}"
+              p:after="r[@uid='{326A23CD-1CE2-4A35-AA93-D3B96E19DBCE}']"
+              s:ds="{EEEF7815-182F-409F-88DF-1BF4952B6517}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{4E1E9DDD-F475-434F-8D48-DDB09AEB152F}"
+              p:after="r[@uid='{7BEB635F-0454-47D3-BC21-C8CCC4896011}']"
+              s:ds="{3BB256EA-D202-4439-96A4-6A087CD91DA6}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{C89AFC7D-0FE4-46A8-A43C-A16907F1740B}"
+              p:after="r[@uid='{4E1E9DDD-F475-434F-8D48-DDB09AEB152F}']"
+              s:ds="{8286F4F6-85B6-49A9-91EB-B36D3A4F5957}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{3973A0A9-D875-4DAC-884D-E198A828FC14}"
+              p:after="*[1=2]"
+              s:ds="{69387FD4-295D-4BF0-A73D-798739C9977E}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{9E4C6427-3865-4F4C-AF91-EFDF6A58DA77}">
+              <p:d />
+            </r>
+            <r
+              uid="{ACAD23C8-9219-4D65-B38A-4537A73C4FE0}">
+              <p:d />
+            </r>
+            <r
+              uid="{FB4C5C8E-DF5F-4300-950E-536065A8707B}">
+              <p:d />
+            </r>
+            <r
+              uid="{2849CE03-88F2-4FBC-BAE4-0D1B29D7AEAA}">
+              <p:d />
+            </r>
+            <r
+              uid="{B5407315-4598-49BA-A716-8895E8E1539E}">
+              <p:d />
+            </r>
+            <r
+              uid="{35F5B041-CCEA-40B8-948D-6DE09851A28E}">
+              <p:d />
+            </r>
+            <r
+              uid="{99B4E79C-EEB8-49BC-8779-24C4AD0CF113}">
+              <p:d />
+            </r>
+            <r
+              uid="{CDF8E396-F69A-48ED-A6DB-B665BD98B242}">
+              <p:d />
+            </r>
+            <r
+              uid="{3ADDDF2A-6C4B-4473-ACB2-EADC8ABD6475}">
+              <p:d />
+            </r>
+            <r
+              uid="{8036035A-E577-44BC-A961-631ADBC08C0F}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Supplier Connect
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: "<p>Supplier Connect is a web-based, landing page connecting NOV suppliers with self-service solutions that allows access to NOV&rsquo;s applications in a secure, online environment 24&times;7.</p>"
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Supplier Connect
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210820T201730Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Supplier Connect
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Supplier Connect
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{C15FB474-6237-4FCA-970B-1F4EDE53CEB5}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joshuashearer
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{7BFDF55B-D789-4F80-BAA1-EE7B8380D4C6}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Supplier Connect
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1e7f4ae6-f637-4d53-9615-bf9d2cb08052"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "Supplier Connect is a web-based, landing page connecting NOV suppliers with self-service solutions that allows access to NOV’s applications in a secure, online environment 24×7."
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20210820T201730Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{C15FB474-6237-4FCA-970B-1F4EDE53CEB5}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220318T164540Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{C15FB474-6237-4FCA-970B-1F4EDE53CEB5}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{BA077E75-780B-4654-A220-10E63520C582}">
+              <p:d />
+            </r>
+            <r
+              uid="{83C96A38-D18A-4E35-9D8D-71F869B259F3}">
+              <p:d />
+            </r>
+            <r
+              uid="{C4ACEA35-73C2-4347-B325-2FC6FCDAAB8F}">
+              <p:d />
+            </r>
+            <r
+              uid="{E655A92B-3794-4099-AF60-076BAFA33189}">
+              <p:d />
+            </r>
+            <r
+              uid="{0D97EC48-A616-4503-81F3-8B0A22142C87}">
+              <p:d />
+            </r>
+            <r
+              uid="{1FD9ED8E-765E-4D75-AEB7-9C5643309FB1}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3E128BD-C527-476C-B850-4FF98996AE1F}">
+              <p:d />
+            </r>
+            <r
+              uid="{9FD5F2BE-6756-41AC-9276-6B2D4D7F994A}"
+              p:before="*"
+              s:ds=""
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:par="Add Gradient=1&amp;Text Color=white"
+              s:ph="/main/hero-slide-{EF3D6123-07BE-41E5-991D-B9A8F1930DC9}-0" />
+            <r
+              uid="{EF3D6123-07BE-41E5-991D-B9A8F1930DC9}"
+              p:after="r[@uid='{9FD5F2BE-6756-41AC-9276-6B2D4D7F994A}']"
+              s:ds="{263DB060-E31E-48A1-ADD8-6198CD8B62CE}"
+              s:id="{AB213187-9551-4F9B-AE3D-261BB2B2434F}"
+              s:ph="main" />
+            <r
+              uid="{326A23CD-1CE2-4A35-AA93-D3B96E19DBCE}"
+              p:after="r[@uid='{EF3D6123-07BE-41E5-991D-B9A8F1930DC9}']"
+              s:ds="{C8504C2F-9FCD-4B19-B48D-BA80464A3A2E}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{7BEB635F-0454-47D3-BC21-C8CCC4896011}"
+              p:after="r[@uid='{326A23CD-1CE2-4A35-AA93-D3B96E19DBCE}']"
+              s:ds="{EEEF7815-182F-409F-88DF-1BF4952B6517}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{4E1E9DDD-F475-434F-8D48-DDB09AEB152F}"
+              p:after="r[@uid='{7BEB635F-0454-47D3-BC21-C8CCC4896011}']"
+              s:ds="{3BB256EA-D202-4439-96A4-6A087CD91DA6}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{C89AFC7D-0FE4-46A8-A43C-A16907F1740B}"
+              p:after="r[@uid='{4E1E9DDD-F475-434F-8D48-DDB09AEB152F}']"
+              s:ds="{8286F4F6-85B6-49A9-91EB-B36D3A4F5957}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{3973A0A9-D875-4DAC-884D-E198A828FC14}"
+              p:after="*[1=2]"
+              s:ds="{69387FD4-295D-4BF0-A73D-798739C9977E}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{9E4C6427-3865-4F4C-AF91-EFDF6A58DA77}">
+              <p:d />
+            </r>
+            <r
+              uid="{ACAD23C8-9219-4D65-B38A-4537A73C4FE0}">
+              <p:d />
+            </r>
+            <r
+              uid="{FB4C5C8E-DF5F-4300-950E-536065A8707B}">
+              <p:d />
+            </r>
+            <r
+              uid="{2849CE03-88F2-4FBC-BAE4-0D1B29D7AEAA}">
+              <p:d />
+            </r>
+            <r
+              uid="{B5407315-4598-49BA-A716-8895E8E1539E}">
+              <p:d />
+            </r>
+            <r
+              uid="{35F5B041-CCEA-40B8-948D-6DE09851A28E}">
+              <p:d />
+            </r>
+            <r
+              uid="{99B4E79C-EEB8-49BC-8779-24C4AD0CF113}">
+              <p:d />
+            </r>
+            <r
+              uid="{CDF8E396-F69A-48ED-A6DB-B665BD98B242}">
+              <p:d />
+            </r>
+            <r
+              uid="{3ADDDF2A-6C4B-4473-ACB2-EADC8ABD6475}">
+              <p:d />
+            </r>
+            <r
+              uid="{8036035A-E577-44BC-A961-631ADBC08C0F}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Supplier Connect
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: "<p>Supplier Connect is a web-based, landing page connecting NOV suppliers with self-service solutions that allows access to NOV&rsquo;s applications in a secure, online environment 24&times;7.</p>"
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Supplier Connect
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220318T165219Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Supplier Connect
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Supplier Connect
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{C15FB474-6237-4FCA-970B-1F4EDE53CEB5}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{7BFDF55B-D789-4F80-BAA1-EE7B8380D4C6}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Supplier Connect
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "17d58845-2dec-4f81-9ece-522a574c5b76"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "Supplier Connect is a web-based, landing page connecting NOV suppliers with self-service solutions that allows access to NOV’s applications in a secure, online environment 24×7."
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20220318T165219Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{C15FB474-6237-4FCA-970B-1F4EDE53CEB5}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220318T165435Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{C15FB474-6237-4FCA-970B-1F4EDE53CEB5}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 4
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{BA077E75-780B-4654-A220-10E63520C582}">
+              <p:d />
+            </r>
+            <r
+              uid="{83C96A38-D18A-4E35-9D8D-71F869B259F3}">
+              <p:d />
+            </r>
+            <r
+              uid="{C4ACEA35-73C2-4347-B325-2FC6FCDAAB8F}">
+              <p:d />
+            </r>
+            <r
+              uid="{E655A92B-3794-4099-AF60-076BAFA33189}">
+              <p:d />
+            </r>
+            <r
+              uid="{0D97EC48-A616-4503-81F3-8B0A22142C87}">
+              <p:d />
+            </r>
+            <r
+              uid="{1FD9ED8E-765E-4D75-AEB7-9C5643309FB1}">
+              <p:d />
+            </r>
+            <r
+              uid="{9FD5F2BE-6756-41AC-9276-6B2D4D7F994A}"
+              p:before="*"
+              s:ds=""
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:par="Add Gradient=1&amp;Text Color=white"
+              s:ph="/main/hero-slide-{EF3D6123-07BE-41E5-991D-B9A8F1930DC9}-0" />
+            <r
+              uid="{EF3D6123-07BE-41E5-991D-B9A8F1930DC9}"
+              p:after="r[@uid='{9FD5F2BE-6756-41AC-9276-6B2D4D7F994A}']"
+              s:ds="{263DB060-E31E-48A1-ADD8-6198CD8B62CE}"
+              s:id="{AB213187-9551-4F9B-AE3D-261BB2B2434F}"
+              s:ph="main" />
+            <r
+              uid="{326A23CD-1CE2-4A35-AA93-D3B96E19DBCE}"
+              p:after="r[@uid='{EF3D6123-07BE-41E5-991D-B9A8F1930DC9}']"
+              s:ds="{C8504C2F-9FCD-4B19-B48D-BA80464A3A2E}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{7BEB635F-0454-47D3-BC21-C8CCC4896011}"
+              p:after="r[@uid='{326A23CD-1CE2-4A35-AA93-D3B96E19DBCE}']"
+              s:ds="{EEEF7815-182F-409F-88DF-1BF4952B6517}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{4E1E9DDD-F475-434F-8D48-DDB09AEB152F}"
+              p:after="r[@uid='{7BEB635F-0454-47D3-BC21-C8CCC4896011}']"
+              s:ds="{3BB256EA-D202-4439-96A4-6A087CD91DA6}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{C89AFC7D-0FE4-46A8-A43C-A16907F1740B}"
+              p:after="*[1=2]"
+              s:ds="{8286F4F6-85B6-49A9-91EB-B36D3A4F5957}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{C3E128BD-C527-476C-B850-4FF98996AE1F}">
+              <p:d />
+            </r>
+            <r
+              uid="{9E4C6427-3865-4F4C-AF91-EFDF6A58DA77}">
+              <p:d />
+            </r>
+            <r
+              uid="{ACAD23C8-9219-4D65-B38A-4537A73C4FE0}">
+              <p:d />
+            </r>
+            <r
+              uid="{FB4C5C8E-DF5F-4300-950E-536065A8707B}">
+              <p:d />
+            </r>
+            <r
+              uid="{2849CE03-88F2-4FBC-BAE4-0D1B29D7AEAA}">
+              <p:d />
+            </r>
+            <r
+              uid="{B5407315-4598-49BA-A716-8895E8E1539E}">
+              <p:d />
+            </r>
+            <r
+              uid="{35F5B041-CCEA-40B8-948D-6DE09851A28E}">
+              <p:d />
+            </r>
+            <r
+              uid="{99B4E79C-EEB8-49BC-8779-24C4AD0CF113}">
+              <p:d />
+            </r>
+            <r
+              uid="{CDF8E396-F69A-48ED-A6DB-B665BD98B242}">
+              <p:d />
+            </r>
+            <r
+              uid="{3ADDDF2A-6C4B-4473-ACB2-EADC8ABD6475}">
+              <p:d />
+            </r>
+            <r
+              uid="{8036035A-E577-44BC-A961-631ADBC08C0F}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Supplier Connect
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: "<p>Supplier Connect is a web-based, landing page connecting NOV suppliers with self-service solutions that allows access to NOV&rsquo;s applications in a secure, online environment 24&times;7.</p>"
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Supplier Connect
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220318T170433Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Supplier Connect
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Supplier Connect
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{C15FB474-6237-4FCA-970B-1F4EDE53CEB5}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{7BFDF55B-D789-4F80-BAA1-EE7B8380D4C6}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Supplier Connect
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1695f933-7d59-4148-b061-a502cbd41797"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "Supplier Connect is a web-based, landing page connecting NOV suppliers with self-service solutions that allows access to NOV’s applications in a secure, online environment 24×7."
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20220318T170433Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{C15FB474-6237-4FCA-970B-1F4EDE53CEB5}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220318T170525Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{C15FB474-6237-4FCA-970B-1F4EDE53CEB5}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 5
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{BA077E75-780B-4654-A220-10E63520C582}">
+              <p:d />
+            </r>
+            <r
+              uid="{83C96A38-D18A-4E35-9D8D-71F869B259F3}">
+              <p:d />
+            </r>
+            <r
+              uid="{C4ACEA35-73C2-4347-B325-2FC6FCDAAB8F}">
+              <p:d />
+            </r>
+            <r
+              uid="{E655A92B-3794-4099-AF60-076BAFA33189}">
+              <p:d />
+            </r>
+            <r
+              uid="{0D97EC48-A616-4503-81F3-8B0A22142C87}">
+              <p:d />
+            </r>
+            <r
+              uid="{1FD9ED8E-765E-4D75-AEB7-9C5643309FB1}">
+              <p:d />
+            </r>
+            <r
+              uid="{9FD5F2BE-6756-41AC-9276-6B2D4D7F994A}"
+              p:before="*"
+              s:ds=""
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:par="Add Gradient=1&amp;Text Color=white"
+              s:ph="/main/hero-slide-{EF3D6123-07BE-41E5-991D-B9A8F1930DC9}-0" />
+            <r
+              uid="{EF3D6123-07BE-41E5-991D-B9A8F1930DC9}"
+              p:after="r[@uid='{9FD5F2BE-6756-41AC-9276-6B2D4D7F994A}']"
+              s:ds="{263DB060-E31E-48A1-ADD8-6198CD8B62CE}"
+              s:id="{AB213187-9551-4F9B-AE3D-261BB2B2434F}"
+              s:ph="main" />
+            <r
+              uid="{326A23CD-1CE2-4A35-AA93-D3B96E19DBCE}"
+              p:after="r[@uid='{EF3D6123-07BE-41E5-991D-B9A8F1930DC9}']"
+              s:ds="{C8504C2F-9FCD-4B19-B48D-BA80464A3A2E}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{7BEB635F-0454-47D3-BC21-C8CCC4896011}"
+              p:after="r[@uid='{326A23CD-1CE2-4A35-AA93-D3B96E19DBCE}']"
+              s:ds="{EEEF7815-182F-409F-88DF-1BF4952B6517}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{4E1E9DDD-F475-434F-8D48-DDB09AEB152F}"
+              p:after="r[@uid='{7BEB635F-0454-47D3-BC21-C8CCC4896011}']"
+              s:ds="{3BB256EA-D202-4439-96A4-6A087CD91DA6}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{C89AFC7D-0FE4-46A8-A43C-A16907F1740B}"
+              p:after="*[1=2]"
+              s:ds="{8286F4F6-85B6-49A9-91EB-B36D3A4F5957}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{C3E128BD-C527-476C-B850-4FF98996AE1F}">
+              <p:d />
+            </r>
+            <r
+              uid="{9E4C6427-3865-4F4C-AF91-EFDF6A58DA77}">
+              <p:d />
+            </r>
+            <r
+              uid="{ACAD23C8-9219-4D65-B38A-4537A73C4FE0}">
+              <p:d />
+            </r>
+            <r
+              uid="{FB4C5C8E-DF5F-4300-950E-536065A8707B}">
+              <p:d />
+            </r>
+            <r
+              uid="{2849CE03-88F2-4FBC-BAE4-0D1B29D7AEAA}">
+              <p:d />
+            </r>
+            <r
+              uid="{B5407315-4598-49BA-A716-8895E8E1539E}">
+              <p:d />
+            </r>
+            <r
+              uid="{35F5B041-CCEA-40B8-948D-6DE09851A28E}">
+              <p:d />
+            </r>
+            <r
+              uid="{99B4E79C-EEB8-49BC-8779-24C4AD0CF113}">
+              <p:d />
+            </r>
+            <r
+              uid="{CDF8E396-F69A-48ED-A6DB-B665BD98B242}">
+              <p:d />
+            </r>
+            <r
+              uid="{3ADDDF2A-6C4B-4473-ACB2-EADC8ABD6475}">
+              <p:d />
+            </r>
+            <r
+              uid="{8036035A-E577-44BC-A961-631ADBC08C0F}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Supplier Connect
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: "<p>Supplier Connect is a web-based, landing page connecting NOV suppliers with self-service solutions that allows access to NOV&rsquo;s applications in a secure, online environment 24&times;7.</p>"
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Supplier Connect
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220318T174319Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Supplier Connect
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Supplier Connect
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{C15FB474-6237-4FCA-970B-1F4EDE53CEB5}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{7BFDF55B-D789-4F80-BAA1-EE7B8380D4C6}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Supplier Connect
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b25fe74c-27bc-4514-b008-27b270b7c979"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "Supplier Connect is a web-based, landing page connecting NOV suppliers with self-service solutions that allows access to NOV’s applications in a secure, online environment 24×7."
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20220318T174319Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{C15FB474-6237-4FCA-970B-1F4EDE53CEB5}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220318T175756Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{C15FB474-6237-4FCA-970B-1F4EDE53CEB5}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 6
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{BA077E75-780B-4654-A220-10E63520C582}">
+              <p:d />
+            </r>
+            <r
+              uid="{83C96A38-D18A-4E35-9D8D-71F869B259F3}">
+              <p:d />
+            </r>
+            <r
+              uid="{C4ACEA35-73C2-4347-B325-2FC6FCDAAB8F}">
+              <p:d />
+            </r>
+            <r
+              uid="{E655A92B-3794-4099-AF60-076BAFA33189}">
+              <p:d />
+            </r>
+            <r
+              uid="{0D97EC48-A616-4503-81F3-8B0A22142C87}">
+              <p:d />
+            </r>
+            <r
+              uid="{1FD9ED8E-765E-4D75-AEB7-9C5643309FB1}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3E128BD-C527-476C-B850-4FF98996AE1F}">
+              <p:d />
+            </r>
+            <r
+              uid="{9E4C6427-3865-4F4C-AF91-EFDF6A58DA77}">
+              <p:d />
+            </r>
+            <r
+              uid="{ACAD23C8-9219-4D65-B38A-4537A73C4FE0}">
+              <p:d />
+            </r>
+            <r
+              uid="{FB4C5C8E-DF5F-4300-950E-536065A8707B}">
+              <p:d />
+            </r>
+            <r
+              uid="{2849CE03-88F2-4FBC-BAE4-0D1B29D7AEAA}">
+              <p:d />
+            </r>
+            <r
+              uid="{B5407315-4598-49BA-A716-8895E8E1539E}">
+              <p:d />
+            </r>
+            <r
+              uid="{35F5B041-CCEA-40B8-948D-6DE09851A28E}">
+              <p:d />
+            </r>
+            <r
+              uid="{99B4E79C-EEB8-49BC-8779-24C4AD0CF113}">
+              <p:d />
+            </r>
+            <r
+              uid="{CDF8E396-F69A-48ED-A6DB-B665BD98B242}">
+              <p:d />
+            </r>
+            <r
+              uid="{3ADDDF2A-6C4B-4473-ACB2-EADC8ABD6475}">
+              <p:d />
+            </r>
+            <r
+              uid="{BD37FCBA-A270-4E63-9761-68B66D7FAB17}"
+              p:before="*"
+              s:ds="{4EB8F549-109D-4F73-BEF8-1ADE0A0747B7}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{3B49E5C9-5EA6-4FF2-B56D-54574A77C9B2}-0" />
+            <r
+              uid="{2DAAD840-9B52-4D04-B15D-F08FBA638372}"
+              p:after="r[@uid='{BD37FCBA-A270-4E63-9761-68B66D7FAB17}']"
+              s:ds="{E6EFD002-A86E-4EB9-B8B3-13B91A353461}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{3B49E5C9-5EA6-4FF2-B56D-54574A77C9B2}-0" />
+            <r
+              uid="{58B58E84-B81B-411E-B3D0-226A887B5824}"
+              p:after="r[@uid='{2DAAD840-9B52-4D04-B15D-F08FBA638372}']"
+              s:ds="{54CF5EF9-21EC-461C-BDB6-2A43516296C7}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{3B49E5C9-5EA6-4FF2-B56D-54574A77C9B2}-0" />
+            <r
+              uid="{E2E7EED2-642F-4130-921E-8BC98C01B95C}"
+              p:after="r[@uid='{58B58E84-B81B-411E-B3D0-226A887B5824}']"
+              s:ds="{084F75D5-06E1-4CA9-9A70-93C5C1E9CEA5}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{3B49E5C9-5EA6-4FF2-B56D-54574A77C9B2}-0" />
+            <r
+              uid="{9EFA9A62-1A99-4EBD-9D5F-F5A341133045}"
+              p:after="r[@uid='{E2E7EED2-642F-4130-921E-8BC98C01B95C}']"
+              s:ds="{28080E56-90AE-4DA2-A30C-CEACD6AB7E9D}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{3B49E5C9-5EA6-4FF2-B56D-54574A77C9B2}-0" />
+            <r
+              uid="{D1761DAE-E44B-4DD7-A459-257519F3245D}"
+              p:after="r[@uid='{9EFA9A62-1A99-4EBD-9D5F-F5A341133045}']"
+              s:ds="{4ECEF36D-833C-490E-9B83-4CF381EBFF4A}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{47208B58-457F-4F2E-B75B-7B9CC5500D7A}-0" />
+            <r
+              uid="{A5FD5750-0793-4E7C-949F-C704A88F4F5D}"
+              p:after="r[@uid='{D1761DAE-E44B-4DD7-A459-257519F3245D}']"
+              s:ds="{22496E78-0A0F-4A9E-9255-04D16181019C}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{47208B58-457F-4F2E-B75B-7B9CC5500D7A}-0" />
+            <r
+              uid="{0EF4D63D-02DD-405F-9A2C-9B896D6A4E94}"
+              p:after="r[@uid='{A5FD5750-0793-4E7C-949F-C704A88F4F5D}']"
+              s:ds="{66732984-385F-49D6-A0AB-6CDBACFFC6F0}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{47208B58-457F-4F2E-B75B-7B9CC5500D7A}-0" />
+            <r
+              uid="{5032409D-F5AA-4073-A0FD-CDE19F544B66}"
+              p:after="r[@uid='{0EF4D63D-02DD-405F-9A2C-9B896D6A4E94}']"
+              s:ds="{8480A8E7-C502-4AE0-AB39-A5553A3B82B3}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{47208B58-457F-4F2E-B75B-7B9CC5500D7A}-0" />
+            <r
+              uid="{8347A49C-1300-4E26-87F7-75F639777572}"
+              p:after="r[@uid='{5032409D-F5AA-4073-A0FD-CDE19F544B66}']"
+              s:ds="{69706486-96BB-4E4E-A589-EF96F77E29A7}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{47208B58-457F-4F2E-B75B-7B9CC5500D7A}-0" />
+            <r
+              uid="{C30FB5C6-79DD-40C6-A0E6-C928B8600461}"
+              p:after="r[@uid='{8347A49C-1300-4E26-87F7-75F639777572}']"
+              s:ds="{86EA6D6F-2C1D-41E6-8B62-E8EDA03C6E31}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{47208B58-457F-4F2E-B75B-7B9CC5500D7A}-0" />
+            <r
+              uid="{9FD5F2BE-6756-41AC-9276-6B2D4D7F994A}"
+              p:after="r[@uid='{C30FB5C6-79DD-40C6-A0E6-C928B8600461}']"
+              s:ds=""
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:par="Add Gradient=1&amp;Text Color=white"
+              s:ph="/main/hero-slide-{EF3D6123-07BE-41E5-991D-B9A8F1930DC9}-0" />
+            <r
+              uid="{EF3D6123-07BE-41E5-991D-B9A8F1930DC9}"
+              p:after="r[@uid='{9FD5F2BE-6756-41AC-9276-6B2D4D7F994A}']"
+              s:ds="{263DB060-E31E-48A1-ADD8-6198CD8B62CE}"
+              s:id="{AB213187-9551-4F9B-AE3D-261BB2B2434F}"
+              s:ph="main" />
+            <r
+              uid="{326A23CD-1CE2-4A35-AA93-D3B96E19DBCE}"
+              p:after="r[@uid='{EF3D6123-07BE-41E5-991D-B9A8F1930DC9}']"
+              s:ds="{C8504C2F-9FCD-4B19-B48D-BA80464A3A2E}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{7BEB635F-0454-47D3-BC21-C8CCC4896011}"
+              p:after="r[@uid='{326A23CD-1CE2-4A35-AA93-D3B96E19DBCE}']"
+              s:ds="{EEEF7815-182F-409F-88DF-1BF4952B6517}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{C89AFC7D-0FE4-46A8-A43C-A16907F1740B}"
+              p:after="*[1=2]"
+              s:ds="{8286F4F6-85B6-49A9-91EB-B36D3A4F5957}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{8036035A-E577-44BC-A961-631ADBC08C0F}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Supplier Connect
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: "<p>Supplier Connect is a web-based, landing page connecting NOV suppliers with self-service solutions that allows access to NOV&rsquo;s applications in a secure, online environment 24&times;7.</p>"
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Supplier Connect
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220323T143903Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Supplier Connect
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Supplier Connect
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{C15FB474-6237-4FCA-970B-1F4EDE53CEB5}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{7BFDF55B-D789-4F80-BAA1-EE7B8380D4C6}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Supplier Connect
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c60d58a7-4581-479e-afec-015669df4fc9"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "Supplier Connect is a web-based, landing page connecting NOV suppliers with self-service solutions that allows access to NOV’s applications in a secure, online environment 24×7."
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20220323T143903Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{C15FB474-6237-4FCA-970B-1F4EDE53CEB5}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220414T163441Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{C15FB474-6237-4FCA-970B-1F4EDE53CEB5}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />

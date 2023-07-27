@@ -1,0 +1,1200 @@
+﻿---
+ID: "6cfdab5e-2c87-47aa-84d9-343a581093d1"
+Parent: "45a61597-4fa9-4a19-8ebd-a13fc8bf78c7"
+Template: "9c2677bb-7840-4e59-ac44-4c5d4dff7610"
+Path: /sitecore/content/nov/nov/Home/About/Our Company Structure/RIG
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{3709ECF8-31A3-4630-B462-DC1F06EEF338}"
+              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}" />
+            <r
+              uid="{28B4ABC6-0A05-401D-8D9F-70992A0772FB}">
+              <p:d />
+            </r>
+            <r
+              uid="{EC681945-7486-49C0-9CAE-6C9FAB964C66}"
+              p:after="r[@uid='{3709ECF8-31A3-4630-B462-DC1F06EEF338}']"
+              s:ds="{733C2620-E767-4073-87E3-4D2761C12BC1}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{0D57F642-56E7-4087-9356-C56DCEA3F091}"
+              s:ds="{7973E624-8927-43AB-834B-7892AFFDE85D}" />
+            <r
+              uid="{85AC0D69-6C39-4691-8D47-A8000B6EA60A}"
+              s:ds="{86991E20-B16D-4BF7-A794-E67AE84D5D36}"
+              s:par="Alignment=left" />
+            <r
+              uid="{606DBDA0-AAFF-447A-B2F8-5433CB8107B8}">
+              <p:d />
+            </r>
+            <r
+              uid="{57088A23-AC88-40C4-9DDB-244852220224}"
+              p:after="*[1=2]"
+              s:ds="{022B6A89-57FE-4D48-A3ED-319CA681278F}"
+              s:id="{93ADFF97-73E8-46AA-9C18-068BDB6232A8}"
+              s:ph="main" />
+            <r
+              uid="{F7113DE4-6D33-4768-B510-981B8992BF48}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Rig Technologies
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>The most advanced rigs and equipment in the world, performing better than anything else, with no surprises</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Rig Technologies
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190325T085716Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Rig Technologies
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Rig Technologies
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticgappau
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\verticmpetersen
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{7BFDF55B-D789-4F80-BAA1-EE7B8380D4C6}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Rig Technologies
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "73819bbf-3220-43c6-9979-65af1523869a"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{4BB3B086-733D-44D8-BDBE-47FE1A1D250F}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190325T085716Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image ratio="514:295" height="295" mediaid="{7650BE1B-E3FA-4FDA-8297-D50308A23E64}" cropregion="0,160,1920,1262" width="514" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190716T211441Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image ratio="1920:1080" height="1080" mediaid="{7650BE1B-E3FA-4FDA-8297-D50308A23E64}" hspace="" cropregion="0,150,1920,1229" width="1920" alt="" vspace="" />
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{3709ECF8-31A3-4630-B462-DC1F06EEF338}"
+              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}" />
+            <r
+              uid="{28B4ABC6-0A05-401D-8D9F-70992A0772FB}">
+              <p:d />
+            </r>
+            <r
+              uid="{EC681945-7486-49C0-9CAE-6C9FAB964C66}"
+              p:after="r[@uid='{3709ECF8-31A3-4630-B462-DC1F06EEF338}']"
+              s:ds="{733C2620-E767-4073-87E3-4D2761C12BC1}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{0D57F642-56E7-4087-9356-C56DCEA3F091}"
+              s:ds="{7973E624-8927-43AB-834B-7892AFFDE85D}" />
+            <r
+              uid="{85AC0D69-6C39-4691-8D47-A8000B6EA60A}"
+              s:ds="{86991E20-B16D-4BF7-A794-E67AE84D5D36}"
+              s:par="Alignment=left" />
+            <r
+              uid="{606DBDA0-AAFF-447A-B2F8-5433CB8107B8}">
+              <p:d />
+            </r>
+            <r
+              uid="{57088A23-AC88-40C4-9DDB-244852220224}"
+              p:after="*[1=2]"
+              s:ds="{022B6A89-57FE-4D48-A3ED-319CA681278F}"
+              s:id="{93ADFF97-73E8-46AA-9C18-068BDB6232A8}"
+              s:ph="main" />
+            <r
+              uid="{F7113DE4-6D33-4768-B510-981B8992BF48}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Rig Technologies
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>The most advanced rigs and equipment in the world, performing better than anything else, with no surprises</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Rig Technologies
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190405T154727Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Rig Technologies
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Rig Technologies
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticgappau
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{7BFDF55B-D789-4F80-BAA1-EE7B8380D4C6}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Rig Technologies
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1d90fd01-2d31-4e46-a5a7-33254a9be835"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{4BB3B086-733D-44D8-BDBE-47FE1A1D250F}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190405T154727Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image ratio="514:295" height="295" mediaid="{7650BE1B-E3FA-4FDA-8297-D50308A23E64}" cropregion="0,160,1920,1262" width="514" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190716T211444Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image ratio="1920:1080" height="1080" mediaid="{7650BE1B-E3FA-4FDA-8297-D50308A23E64}" hspace="" cropregion="0,150,1920,1229" width="1920" alt="" vspace="" />
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{3709ECF8-31A3-4630-B462-DC1F06EEF338}"
+              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}" />
+            <r
+              uid="{28B4ABC6-0A05-401D-8D9F-70992A0772FB}">
+              <p:d />
+            </r>
+            <r
+              uid="{EC681945-7486-49C0-9CAE-6C9FAB964C66}"
+              p:after="r[@uid='{3709ECF8-31A3-4630-B462-DC1F06EEF338}']"
+              s:ds="{733C2620-E767-4073-87E3-4D2761C12BC1}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{0D57F642-56E7-4087-9356-C56DCEA3F091}"
+              s:ds="{7973E624-8927-43AB-834B-7892AFFDE85D}" />
+            <r
+              uid="{85AC0D69-6C39-4691-8D47-A8000B6EA60A}"
+              s:ds="{86991E20-B16D-4BF7-A794-E67AE84D5D36}"
+              s:par="Alignment=left" />
+            <r
+              uid="{606DBDA0-AAFF-447A-B2F8-5433CB8107B8}">
+              <p:d />
+            </r>
+            <r
+              uid="{57088A23-AC88-40C4-9DDB-244852220224}"
+              p:after="*[1=2]"
+              s:ds="{022B6A89-57FE-4D48-A3ED-319CA681278F}"
+              s:id="{93ADFF97-73E8-46AA-9C18-068BDB6232A8}"
+              s:ph="main" />
+            <r
+              uid="{F7113DE4-6D33-4768-B510-981B8992BF48}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Rig Technologies
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>The most advanced rigs and equipment in the world, performing better than anything else, with no surprises</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Rig Technologies
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190405T155229Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Rig Technologies
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Rig Technologies
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticgappau
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{7BFDF55B-D789-4F80-BAA1-EE7B8380D4C6}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Rig Technologies
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f86bf2e7-b46e-49eb-a340-9915cfd7dc11"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{4BB3B086-733D-44D8-BDBE-47FE1A1D250F}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190405T155229Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image ratio="514:295" height="295" mediaid="{7650BE1B-E3FA-4FDA-8297-D50308A23E64}" cropregion="0,160,1920,1262" width="514" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190716T211446Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image ratio="1920:1080" height="1080" mediaid="{7650BE1B-E3FA-4FDA-8297-D50308A23E64}" hspace="" cropregion="0,150,1920,1229" width="1920" alt="" vspace="" />
+  - Version: 4
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{3709ECF8-31A3-4630-B462-DC1F06EEF338}"
+              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}"
+              s:par="Enable Autoplay=true&amp;Add Gradient=1&amp;Text Color=white&amp;Wait Time=5000" />
+            <r
+              uid="{28B4ABC6-0A05-401D-8D9F-70992A0772FB}">
+              <p:d />
+            </r>
+            <r
+              uid="{EC681945-7486-49C0-9CAE-6C9FAB964C66}"
+              p:after="r[@uid='{3709ECF8-31A3-4630-B462-DC1F06EEF338}']"
+              s:ds="{733C2620-E767-4073-87E3-4D2761C12BC1}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{0D57F642-56E7-4087-9356-C56DCEA3F091}"
+              s:ds="{7973E624-8927-43AB-834B-7892AFFDE85D}" />
+            <r
+              uid="{85AC0D69-6C39-4691-8D47-A8000B6EA60A}"
+              s:ds="{86991E20-B16D-4BF7-A794-E67AE84D5D36}"
+              s:par="Alignment=left" />
+            <r
+              uid="{606DBDA0-AAFF-447A-B2F8-5433CB8107B8}">
+              <p:d />
+            </r>
+            <r
+              uid="{57088A23-AC88-40C4-9DDB-244852220224}"
+              p:after="*[1=2]"
+              s:ds="{022B6A89-57FE-4D48-A3ED-319CA681278F}"
+              s:id="{93ADFF97-73E8-46AA-9C18-068BDB6232A8}"
+              s:ph="main" />
+            <r
+              uid="{F7113DE4-6D33-4768-B510-981B8992BF48}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Rig Technologies
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>The most advanced rigs and equipment in the world, performing better than anything else, with no surprises</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Rig Technologies
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190408T154122Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Rig Technologies
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Rig Technologies
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticgappau
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{7BFDF55B-D789-4F80-BAA1-EE7B8380D4C6}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Rig Technologies
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "40e65865-e658-472d-a125-c05cb652bf9e"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{4BB3B086-733D-44D8-BDBE-47FE1A1D250F}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190408T154122Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image ratio="514:295" height="295" mediaid="{7650BE1B-E3FA-4FDA-8297-D50308A23E64}" cropregion="0,160,1920,1262" width="514" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190716T211418Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image ratio="1920:1080" height="1080" mediaid="{7650BE1B-E3FA-4FDA-8297-D50308A23E64}" hspace="" cropregion="0,150,1920,1229" width="1920" alt="" vspace="" />
+  - Version: 5
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{82C814F0-E3F8-47FE-A4C3-6765E3B4DF94}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{3709ECF8-31A3-4630-B462-DC1F06EEF338}"
+              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}"
+              s:par="Enable Autoplay=true&amp;Add Gradient&amp;Text Color=white&amp;Wait Time=5000" />
+            <r
+              uid="{28B4ABC6-0A05-401D-8D9F-70992A0772FB}">
+              <p:d />
+            </r>
+            <r
+              uid="{EC681945-7486-49C0-9CAE-6C9FAB964C66}"
+              p:after="r[@uid='{3709ECF8-31A3-4630-B462-DC1F06EEF338}']"
+              s:ds="{733C2620-E767-4073-87E3-4D2761C12BC1}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{0D57F642-56E7-4087-9356-C56DCEA3F091}"
+              s:ds="{7973E624-8927-43AB-834B-7892AFFDE85D}" />
+            <r
+              uid="{85AC0D69-6C39-4691-8D47-A8000B6EA60A}"
+              s:ds="{86991E20-B16D-4BF7-A794-E67AE84D5D36}"
+              s:par="Alignment=left" />
+            <r
+              uid="{606DBDA0-AAFF-447A-B2F8-5433CB8107B8}">
+              <p:d />
+            </r>
+            <r
+              uid="{57088A23-AC88-40C4-9DDB-244852220224}"
+              p:after="*[1=2]"
+              s:ds="{022B6A89-57FE-4D48-A3ED-319CA681278F}"
+              s:id="{93ADFF97-73E8-46AA-9C18-068BDB6232A8}"
+              s:ph="main" />
+            <r
+              uid="{F7113DE4-6D33-4768-B510-981B8992BF48}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Rig Technologies
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>The most advanced rigs and equipment in the world, performing better than anything else, with no surprises</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Rig Technologies
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190415T133129Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Rig Technologies
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Rig Technologies
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticgappau
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{7BFDF55B-D789-4F80-BAA1-EE7B8380D4C6}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Rig Technologies
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d4bd422f-e70d-4efa-83f3-0c9b858a1d18"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{4BB3B086-733D-44D8-BDBE-47FE1A1D250F}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190415T133129Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image ratio="514:295" height="295" mediaid="{7650BE1B-E3FA-4FDA-8297-D50308A23E64}" cropregion="0,160,1920,1262" width="514" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190716T211420Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image ratio="1920:1080" height="1080" mediaid="{7650BE1B-E3FA-4FDA-8297-D50308A23E64}" hspace="" cropregion="0,150,1920,1229" width="1920" alt="" vspace="" />
+  - Version: 6
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{8FF3419A-7ECF-491A-86F8-99E1B53E18B6}"
+              p:before="*"
+              s:ds="{CA37AA06-52C8-4F1E-8291-FBC4A2510690}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{CB7D6F38-1094-4E12-8FD2-941F154D0378}-0" />
+            <r
+              uid="{775DBBD4-D12B-46EA-AF2C-7B7C19196829}"
+              p:after="r[@uid='{8FF3419A-7ECF-491A-86F8-99E1B53E18B6}']"
+              s:ds="{0FD7B24A-8C9B-47ED-9FBA-A182B2F596B4}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{CB7D6F38-1094-4E12-8FD2-941F154D0378}-0" />
+            <r
+              uid="{82C814F0-E3F8-47FE-A4C3-6765E3B4DF94}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{3709ECF8-31A3-4630-B462-DC1F06EEF338}"
+              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}"
+              s:par="Enable Autoplay=true&amp;Add Gradient&amp;Text Color=white&amp;Wait Time=5000" />
+            <r
+              uid="{28B4ABC6-0A05-401D-8D9F-70992A0772FB}">
+              <p:d />
+            </r>
+            <r
+              uid="{EC681945-7486-49C0-9CAE-6C9FAB964C66}"
+              p:after="r[@uid='{3709ECF8-31A3-4630-B462-DC1F06EEF338}']"
+              s:ds="{733C2620-E767-4073-87E3-4D2761C12BC1}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{0D57F642-56E7-4087-9356-C56DCEA3F091}"
+              s:ds="{7973E624-8927-43AB-834B-7892AFFDE85D}" />
+            <r
+              uid="{85AC0D69-6C39-4691-8D47-A8000B6EA60A}"
+              s:ds="{86991E20-B16D-4BF7-A794-E67AE84D5D36}"
+              s:par="Alignment=left" />
+            <r
+              uid="{606DBDA0-AAFF-447A-B2F8-5433CB8107B8}">
+              <p:d />
+            </r>
+            <r
+              uid="{CB7D6F38-1094-4E12-8FD2-941F154D0378}"
+              p:after="*[1=2]"
+              s:id="{5266AC57-9C33-41AF-B32D-D935FB8DC1F3}"
+              s:ph="main" />
+            <r
+              uid="{F7113DE4-6D33-4768-B510-981B8992BF48}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Rig Technologies
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>The most advanced rigs and equipment in the world, performing better than anything else, with no surprises</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Rig Technologies
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190502T184153Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Rig Technologies
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Rig Technologies
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticgappau
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{7BFDF55B-D789-4F80-BAA1-EE7B8380D4C6}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Rig Technologies
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ede5fbec-a68c-41b5-a971-91f834b001ec"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{4BB3B086-733D-44D8-BDBE-47FE1A1D250F}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190502T184153Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image ratio="514:295" height="295" mediaid="{7650BE1B-E3FA-4FDA-8297-D50308A23E64}" cropregion="0,160,1920,1262" width="514" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190716T211435Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image ratio="1920:1080" height="1080" mediaid="{7650BE1B-E3FA-4FDA-8297-D50308A23E64}" hspace="" cropregion="0,150,1920,1229" width="1920" alt="" vspace="" />
+  - Version: 7
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{8FF3419A-7ECF-491A-86F8-99E1B53E18B6}"
+              p:before="*"
+              s:ds="{CA37AA06-52C8-4F1E-8291-FBC4A2510690}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{CB7D6F38-1094-4E12-8FD2-941F154D0378}-0" />
+            <r
+              uid="{775DBBD4-D12B-46EA-AF2C-7B7C19196829}"
+              p:after="r[@uid='{8FF3419A-7ECF-491A-86F8-99E1B53E18B6}']"
+              s:ds="{0FD7B24A-8C9B-47ED-9FBA-A182B2F596B4}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{CB7D6F38-1094-4E12-8FD2-941F154D0378}-0" />
+            <r
+              uid="{82C814F0-E3F8-47FE-A4C3-6765E3B4DF94}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{3709ECF8-31A3-4630-B462-DC1F06EEF338}"
+              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}"
+              s:par="Enable Autoplay=true&amp;Add Gradient&amp;Text Color=white&amp;Wait Time=5000" />
+            <r
+              uid="{28B4ABC6-0A05-401D-8D9F-70992A0772FB}">
+              <p:d />
+            </r>
+            <r
+              uid="{EC681945-7486-49C0-9CAE-6C9FAB964C66}"
+              p:after="r[@uid='{3709ECF8-31A3-4630-B462-DC1F06EEF338}']"
+              s:ds="{733C2620-E767-4073-87E3-4D2761C12BC1}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{0D57F642-56E7-4087-9356-C56DCEA3F091}"
+              s:ds="{7973E624-8927-43AB-834B-7892AFFDE85D}" />
+            <r
+              uid="{85AC0D69-6C39-4691-8D47-A8000B6EA60A}"
+              s:ds="{86991E20-B16D-4BF7-A794-E67AE84D5D36}"
+              s:par="Alignment=left" />
+            <r
+              uid="{606DBDA0-AAFF-447A-B2F8-5433CB8107B8}">
+              <p:d />
+            </r>
+            <r
+              uid="{CB7D6F38-1094-4E12-8FD2-941F154D0378}"
+              p:after="*[1=2]"
+              s:id="{5266AC57-9C33-41AF-B32D-D935FB8DC1F3}"
+              s:ph="main" />
+            <r
+              uid="{F7113DE4-6D33-4768-B510-981B8992BF48}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Rig Technologies
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>The most advanced rigs and equipment in the world, performing better than anything else, with no surprises</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Rig Technologies
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190506T155315Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Rig Technologies
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Rig Technologies
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticgappau
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{7BFDF55B-D789-4F80-BAA1-EE7B8380D4C6}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Rig Technologies
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1295778d-9733-4bea-847c-71cb9be8bd57"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{4BB3B086-733D-44D8-BDBE-47FE1A1D250F}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190506T155315Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image ratio="514:295" height="295" mediaid="{7650BE1B-E3FA-4FDA-8297-D50308A23E64}" cropregion="0,160,1920,1262" width="514" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190716T211440Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image ratio="1920:1080" height="1080" mediaid="{7650BE1B-E3FA-4FDA-8297-D50308A23E64}" hspace="" cropregion="0,150,1920,1229" width="1920" alt="" vspace="" />
+  - Version: 8
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{8FF3419A-7ECF-491A-86F8-99E1B53E18B6}"
+              p:before="*"
+              s:ds="{CA37AA06-52C8-4F1E-8291-FBC4A2510690}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{CB7D6F38-1094-4E12-8FD2-941F154D0378}-0" />
+            <r
+              uid="{775DBBD4-D12B-46EA-AF2C-7B7C19196829}"
+              p:after="r[@uid='{8FF3419A-7ECF-491A-86F8-99E1B53E18B6}']"
+              s:ds="{0FD7B24A-8C9B-47ED-9FBA-A182B2F596B4}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{CB7D6F38-1094-4E12-8FD2-941F154D0378}-0" />
+            <r
+              uid="{82C814F0-E3F8-47FE-A4C3-6765E3B4DF94}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{3709ECF8-31A3-4630-B462-DC1F06EEF338}"
+              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}"
+              s:par="Enable Autoplay=true&amp;Add Gradient&amp;Text Color=white&amp;Wait Time=5000" />
+            <r
+              uid="{28B4ABC6-0A05-401D-8D9F-70992A0772FB}">
+              <p:d />
+            </r>
+            <r
+              uid="{EC681945-7486-49C0-9CAE-6C9FAB964C66}"
+              p:after="r[@uid='{3709ECF8-31A3-4630-B462-DC1F06EEF338}']"
+              s:ds="{733C2620-E767-4073-87E3-4D2761C12BC1}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{0D57F642-56E7-4087-9356-C56DCEA3F091}"
+              s:ds="{7973E624-8927-43AB-834B-7892AFFDE85D}" />
+            <r
+              uid="{85AC0D69-6C39-4691-8D47-A8000B6EA60A}"
+              s:ds="{86991E20-B16D-4BF7-A794-E67AE84D5D36}"
+              s:par="Alignment=left" />
+            <r
+              uid="{606DBDA0-AAFF-447A-B2F8-5433CB8107B8}">
+              <p:d />
+            </r>
+            <r
+              uid="{CB7D6F38-1094-4E12-8FD2-941F154D0378}"
+              p:after="*[1=2]"
+              s:id="{5266AC57-9C33-41AF-B32D-D935FB8DC1F3}"
+              s:ph="main" />
+            <r
+              uid="{F7113DE4-6D33-4768-B510-981B8992BF48}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Rig Technologies
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>The most advanced rigs and equipment in the world, performing better than anything else, with no surprises</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Rig Technologies
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190506T155514Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Rig Technologies
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Rig Technologies
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticgappau
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{7BFDF55B-D789-4F80-BAA1-EE7B8380D4C6}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Rig Technologies
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1a0ab176-ee51-4cc2-9c09-a5b9fa70fe9e"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{4BB3B086-733D-44D8-BDBE-47FE1A1D250F}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190506T155514Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image ratio="514:295" height="295" mediaid="{7650BE1B-E3FA-4FDA-8297-D50308A23E64}" cropregion="0,160,1920,1262" width="514" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190716T211436Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image ratio="1920:1080" height="1080" mediaid="{7650BE1B-E3FA-4FDA-8297-D50308A23E64}" hspace="" cropregion="0,150,1920,1229" width="1920" alt="" vspace="" />
+  - Version: 9
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{8FF3419A-7ECF-491A-86F8-99E1B53E18B6}"
+              p:before="*"
+              s:ds="{CA37AA06-52C8-4F1E-8291-FBC4A2510690}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{CB7D6F38-1094-4E12-8FD2-941F154D0378}-0" />
+            <r
+              uid="{775DBBD4-D12B-46EA-AF2C-7B7C19196829}"
+              p:after="r[@uid='{8FF3419A-7ECF-491A-86F8-99E1B53E18B6}']"
+              s:ds="{0FD7B24A-8C9B-47ED-9FBA-A182B2F596B4}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{CB7D6F38-1094-4E12-8FD2-941F154D0378}-0" />
+            <r
+              uid="{82C814F0-E3F8-47FE-A4C3-6765E3B4DF94}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{3709ECF8-31A3-4630-B462-DC1F06EEF338}"
+              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}"
+              s:par="Enable Autoplay=true&amp;Add Gradient&amp;Text Color=white&amp;Wait Time=5000" />
+            <r
+              uid="{28B4ABC6-0A05-401D-8D9F-70992A0772FB}">
+              <p:d />
+            </r>
+            <r
+              uid="{EC681945-7486-49C0-9CAE-6C9FAB964C66}"
+              p:after="r[@uid='{3709ECF8-31A3-4630-B462-DC1F06EEF338}']"
+              s:ds="{733C2620-E767-4073-87E3-4D2761C12BC1}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{0D57F642-56E7-4087-9356-C56DCEA3F091}"
+              s:ds="{7973E624-8927-43AB-834B-7892AFFDE85D}" />
+            <r
+              uid="{85AC0D69-6C39-4691-8D47-A8000B6EA60A}"
+              s:ds="{86991E20-B16D-4BF7-A794-E67AE84D5D36}"
+              s:par="Alignment=left" />
+            <r
+              uid="{606DBDA0-AAFF-447A-B2F8-5433CB8107B8}">
+              <p:d />
+            </r>
+            <r
+              uid="{CB7D6F38-1094-4E12-8FD2-941F154D0378}"
+              p:after="*[1=2]"
+              s:id="{5266AC57-9C33-41AF-B32D-D935FB8DC1F3}"
+              s:ph="main" />
+            <r
+              uid="{F7113DE4-6D33-4768-B510-981B8992BF48}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Rig Technologies
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>The most advanced rigs and equipment in the world, performing better than anything else, with no surprises</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Rig Technologies
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190603T142858Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Rig Technologies
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Rig Technologies
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticgappau
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{7BFDF55B-D789-4F80-BAA1-EE7B8380D4C6}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Rig Technologies
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f66eb353-e19d-42ea-9bfa-fb0667cc2274"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{4BB3B086-733D-44D8-BDBE-47FE1A1D250F}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: The most advanced rigs and equipment in the world, performing better than anything else, with no surprises
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190603T142858Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image ratio="514:295" height="295" mediaid="{7650BE1B-E3FA-4FDA-8297-D50308A23E64}" cropregion="0,160,1920,1262" width="514" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190716T211439Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image ratio="1920:1080" height="1080" mediaid="{7650BE1B-E3FA-4FDA-8297-D50308A23E64}" hspace="" cropregion="0,150,1920,1229" width="1920" alt="" vspace="" />
+  - Version: 10
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{8FF3419A-7ECF-491A-86F8-99E1B53E18B6}"
+              p:before="*"
+              s:ds="{CA37AA06-52C8-4F1E-8291-FBC4A2510690}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{CB7D6F38-1094-4E12-8FD2-941F154D0378}-0" />
+            <r
+              uid="{775DBBD4-D12B-46EA-AF2C-7B7C19196829}"
+              p:after="r[@uid='{8FF3419A-7ECF-491A-86F8-99E1B53E18B6}']"
+              s:ds="{0FD7B24A-8C9B-47ED-9FBA-A182B2F596B4}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{CB7D6F38-1094-4E12-8FD2-941F154D0378}-0" />
+            <r
+              uid="{3709ECF8-31A3-4630-B462-DC1F06EEF338}"
+              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}"
+              s:par="Enable Autoplay=true&amp;Add Gradient&amp;Text Color=white&amp;Wait Time=5000" />
+            <r
+              uid="{28B4ABC6-0A05-401D-8D9F-70992A0772FB}">
+              <p:d />
+            </r>
+            <r
+              uid="{EC681945-7486-49C0-9CAE-6C9FAB964C66}"
+              p:after="r[@uid='{3709ECF8-31A3-4630-B462-DC1F06EEF338}']"
+              s:ds="{733C2620-E767-4073-87E3-4D2761C12BC1}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{0D57F642-56E7-4087-9356-C56DCEA3F091}"
+              s:ds="{7973E624-8927-43AB-834B-7892AFFDE85D}" />
+            <r
+              uid="{85AC0D69-6C39-4691-8D47-A8000B6EA60A}"
+              s:ds="{86991E20-B16D-4BF7-A794-E67AE84D5D36}"
+              s:par="Alignment=left" />
+            <r
+              uid="{606DBDA0-AAFF-447A-B2F8-5433CB8107B8}">
+              <p:d />
+            </r>
+            <r
+              uid="{CB7D6F38-1094-4E12-8FD2-941F154D0378}"
+              p:after="*[1=2]"
+              s:id="{5266AC57-9C33-41AF-B32D-D935FB8DC1F3}"
+              s:ph="main" />
+            <r
+              uid="{F7113DE4-6D33-4768-B510-981B8992BF48}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Rig Technologies
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>The most advanced rigs and equipment in the world, performing better than anything else, with no surprises</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Rig Technologies
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190716T211535Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Rig Technologies
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Rig Technologies
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticgappau
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{7BFDF55B-D789-4F80-BAA1-EE7B8380D4C6}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Rig Technologies
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dd6f0a74-ae26-49d3-8ea0-fa85f57f2822"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{4BB3B086-733D-44D8-BDBE-47FE1A1D250F}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\adminrschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: The most advanced rigs and equipment in the world, performing better than anything else, with no surprises
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190716T211535Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image ratio="514:295" height="295" mediaid="{7650BE1B-E3FA-4FDA-8297-D50308A23E64}" cropregion="18,0,1901,1080" width="514" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210422T010611Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image ratio="1920:1080" height="1080" mediaid="{7650BE1B-E3FA-4FDA-8297-D50308A23E64}" hspace="" cropregion="0,0,1920,1080" width="1920" alt="" vspace="" />

@@ -1,0 +1,1831 @@
+﻿---
+ID: "b8ffd177-f5ad-474a-9515-43589d1f3f56"
+Parent: "a98608ab-b52d-46d3-aa4c-79b35adf2b3f"
+Template: "fa173e9d-ff30-4ddf-93b9-7e6d647c30ae"
+Path: /sitecore/content/nov/nov/Home/About/Our Business Units/MD Totco
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: |
+        <r owner="sitecore\zainyakhan" date="20230213T210328Z" />
+    - ID: "019c3c8b-3d47-4b92-a8e9-838880ddf307"
+      Hint: Open Graph Title
+      Value: MD Totco
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230213T210328Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{8B87E652-E3F7-4C54-BDD9-66E1B888FF8B}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: MD Totco
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\zainyakhan
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\zainyakhan
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "28cd6737-a6ca-4f60-9047-25f3fdf2e6e7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\zainyakhan
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230213T210328Z
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}">
+              <p:d />
+            </r>
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}">
+              <p:d />
+            </r>
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
+              <p:d />
+            </r>
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}">
+              <p:d />
+            </r>
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
+              <p:d />
+            </r>
+            <r
+              uid="{D26256C6-06B0-43B7-B276-851CD0464E04}"
+              p:after="r[@uid='{141E6896-79A7-447B-B58C-9B116C7F55FB}']"
+              s:ds="{53007118-0541-4180-AD8A-97B4B0480CE8}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{8C9C3B05-11E9-4089-8975-0C71B061791F}"
+              p:after="r[@uid='{D26256C6-06B0-43B7-B276-851CD0464E04}']"
+              s:ds="{647C007D-FEEA-4982-9EA1-83B59065D9DE}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{B8725349-2978-4B84-8B49-5ED7B4D6C2C5}"
+              p:after="r[@uid='{8C9C3B05-11E9-4089-8975-0C71B061791F}']"
+              s:ds="{3089AE5A-AF67-42B7-95B4-D99C12E0B7C6}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BA804F9FA-44DB-45AC-AF4C-B4E1A423AD43%7D"
+              s:ph="main" />
+            <r
+              uid="{76B5137C-50DE-430D-96FE-D398597B544C}"
+              p:after="r[@uid='{B8725349-2978-4B84-8B49-5ED7B4D6C2C5}']"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+            <r
+              uid="{2FB72E40-D795-42E9-A03C-0F7ED73B4463}">
+              <p:d />
+            </r>
+            <r
+              uid="{D0C307F9-404F-40B6-AE47-0D90DFDC0C87}"
+              s:ds="{FD6CDBEF-D8E8-4F5F-9176-3E956A3BB2A7}" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: M/D Totco
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: "<p>M/D Totco provides real-time drilling instrumentation, visualization solutions, and data communication to support a variety of back-office information management offerings.</p>"
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: M/D Totco
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210510T172710Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: M/D Totco
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: M/D Totco
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joshuashearer
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: M/D Totco
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{36E05F0F-4A45-457D-BC3A-970C6A3667DF}"
+    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
+      Hint: Search Result Text
+      Value: "Business Unit: M/D Totco"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "79d55350-73a0-49d7-bbae-b5801836ea4a"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "M/D Totco provides real-time drilling instrumentation, visualization solutions, and data communication to support a variety of back-office information management offerings."
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20210510T172710Z
+    - ID: "d3c5ed7b-3756-4e8f-b2df-d1c79758a255"
+      Hint: Hide In Footer Navigation
+      Value: 1
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{310C946B-477E-4DE7-BB48-BB8EEAD92902}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20211111T170853Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{310C946B-477E-4DE7-BB48-BB8EEAD92902}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}">
+              <p:d />
+            </r>
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}">
+              <p:d />
+            </r>
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
+              <p:d />
+            </r>
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}">
+              <p:d />
+            </r>
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{D26256C6-06B0-43B7-B276-851CD0464E04}"
+              p:after="r[@uid='{141E6896-79A7-447B-B58C-9B116C7F55FB}']"
+              s:ds="{53007118-0541-4180-AD8A-97B4B0480CE8}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{8C9C3B05-11E9-4089-8975-0C71B061791F}"
+              p:after="r[@uid='{D26256C6-06B0-43B7-B276-851CD0464E04}']"
+              s:ds="{647C007D-FEEA-4982-9EA1-83B59065D9DE}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{B8725349-2978-4B84-8B49-5ED7B4D6C2C5}"
+              p:after="r[@uid='{8C9C3B05-11E9-4089-8975-0C71B061791F}']"
+              s:ds="{3089AE5A-AF67-42B7-95B4-D99C12E0B7C6}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BA804F9FA-44DB-45AC-AF4C-B4E1A423AD43%7D"
+              s:ph="main" />
+            <r
+              uid="{76B5137C-50DE-430D-96FE-D398597B544C}"
+              p:after="r[@uid='{B8725349-2978-4B84-8B49-5ED7B4D6C2C5}']"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{60BEB1CA-D06B-48DF-B4F9-76C57656563E}"
+              p:after="r[@uid='{76B5137C-50DE-430D-96FE-D398597B544C}']"
+              s:ds="{152AF4E0-BFF3-4400-A330-EF0E69000E7D}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:ph="main" />
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+            <r
+              uid="{2FB72E40-D795-42E9-A03C-0F7ED73B4463}">
+              <p:d />
+            </r>
+            <r
+              uid="{D0C307F9-404F-40B6-AE47-0D90DFDC0C87}"
+              s:ds="{FD6CDBEF-D8E8-4F5F-9176-3E956A3BB2A7}" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: M/D Totco
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: "<p>M/D Totco provides real-time drilling instrumentation, visualization solutions, and data communication to support a variety of back-office information management offerings.</p>"
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: M/D Totco
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220628T201839Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: M/D Totco
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: M/D Totco
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: M/D Totco
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{36E05F0F-4A45-457D-BC3A-970C6A3667DF}"
+    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
+      Hint: Search Result Text
+      Value: "Business Unit: M/D Totco"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c9e4a9cb-3584-4d4c-addd-8f4e0a336040"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "M/D Totco provides real-time drilling instrumentation, visualization solutions, and data communication to support a variety of back-office information management offerings."
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20220628T201839Z
+    - ID: "d3c5ed7b-3756-4e8f-b2df-d1c79758a255"
+      Hint: Hide In Footer Navigation
+      Value: 1
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{310C946B-477E-4DE7-BB48-BB8EEAD92902}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220628T202446Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{310C946B-477E-4DE7-BB48-BB8EEAD92902}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}">
+              <p:d />
+            </r>
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}">
+              <p:d />
+            </r>
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
+              <p:d />
+            </r>
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}">
+              <p:d />
+            </r>
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{D26256C6-06B0-43B7-B276-851CD0464E04}"
+              p:after="r[@uid='{141E6896-79A7-447B-B58C-9B116C7F55FB}']"
+              s:ds="{53007118-0541-4180-AD8A-97B4B0480CE8}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{8C9C3B05-11E9-4089-8975-0C71B061791F}"
+              p:after="r[@uid='{D26256C6-06B0-43B7-B276-851CD0464E04}']"
+              s:ds="{647C007D-FEEA-4982-9EA1-83B59065D9DE}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{B8725349-2978-4B84-8B49-5ED7B4D6C2C5}"
+              p:after="r[@uid='{8C9C3B05-11E9-4089-8975-0C71B061791F}']"
+              s:ds="{3089AE5A-AF67-42B7-95B4-D99C12E0B7C6}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BA804F9FA-44DB-45AC-AF4C-B4E1A423AD43%7D"
+              s:ph="main" />
+            <r
+              uid="{76B5137C-50DE-430D-96FE-D398597B544C}"
+              p:after="r[@uid='{B8725349-2978-4B84-8B49-5ED7B4D6C2C5}']"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{60BEB1CA-D06B-48DF-B4F9-76C57656563E}"
+              p:after="r[@uid='{76B5137C-50DE-430D-96FE-D398597B544C}']"
+              s:ds="{152AF4E0-BFF3-4400-A330-EF0E69000E7D}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:ph="main" />
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+            <r
+              uid="{2FB72E40-D795-42E9-A03C-0F7ED73B4463}">
+              <p:d />
+            </r>
+            <r
+              uid="{D0C307F9-404F-40B6-AE47-0D90DFDC0C87}"
+              s:ds="{FD6CDBEF-D8E8-4F5F-9176-3E956A3BB2A7}" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: M/D Totco
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: "<p>M/D Totco provides real-time drilling instrumentation, visualization solutions, and data communication to support a variety of back-office information management offerings.</p>"
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: M/D Totco
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220811T201603Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: M/D Totco
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: M/D Totco | Business Units
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: M/D Totco
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{36E05F0F-4A45-457D-BC3A-970C6A3667DF}"
+    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
+      Hint: Search Result Text
+      Value: "Business Unit: M/D Totco"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1d98dad7-24ee-479c-8cc5-4968ab5c4d68"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "M/D Totco provides real-time drilling instrumentation, visualization solutions, and data communication to support a variety of back-office information management offerings."
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20220811T201603Z
+    - ID: "d3c5ed7b-3756-4e8f-b2df-d1c79758a255"
+      Hint: Hide In Footer Navigation
+      Value: 1
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{310C946B-477E-4DE7-BB48-BB8EEAD92902}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220812T044641Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{310C946B-477E-4DE7-BB48-BB8EEAD92902}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 4
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}">
+              <p:d />
+            </r>
+            <r
+              uid="{078082A7-A5B2-4386-8B66-BC5CDF5263E8}"
+              p:before="*"
+              s:ds="{B49AF397-B545-4AB7-919C-BD10ACA3953E}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{5DA4F9E1-C0C6-48E4-832A-23D414A0A270}-0" />
+            <r
+              uid="{1FC65AFF-AAFD-4853-9E39-10E6FEA0FE95}"
+              p:after="r[@uid='{078082A7-A5B2-4386-8B66-BC5CDF5263E8}']"
+              s:ds="{AFDC8971-CAE2-4FBB-90BA-48919ED9BB7A}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{5DA4F9E1-C0C6-48E4-832A-23D414A0A270}-0" />
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}">
+              <p:d />
+            </r>
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
+              <p:d />
+            </r>
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}">
+              <p:d />
+            </r>
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{D26256C6-06B0-43B7-B276-851CD0464E04}"
+              p:after="r[@uid='{141E6896-79A7-447B-B58C-9B116C7F55FB}']"
+              s:ds="{53007118-0541-4180-AD8A-97B4B0480CE8}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{5DA4F9E1-C0C6-48E4-832A-23D414A0A270}"
+              p:after="r[@uid='{D26256C6-06B0-43B7-B276-851CD0464E04}']"
+              s:id="{5266AC57-9C33-41AF-B32D-D935FB8DC1F3}"
+              s:ph="main" />
+            <r
+              uid="{3DA63D57-8B54-478F-A494-46436DD160A9}"
+              p:after="r[@uid='{5DA4F9E1-C0C6-48E4-832A-23D414A0A270}']"
+              s:ds="{B9DB9364-B8B9-4C92-A6A5-88C0DE4F5920}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{C62B7D34-8FBD-4E09-B15A-ADF918B5D8C0}"
+              p:after="r[@uid='{3DA63D57-8B54-478F-A494-46436DD160A9}']"
+              s:ds="{42C12DBC-F9AE-4AB9-9C6D-4EAFB8C546FF}"
+              s:id="{7EE99E6C-C671-468E-8381-C6B9BB1E6416}"
+              s:ph="main" />
+            <r
+              uid="{AE273844-A8D5-4EE2-8379-0E0691ED1235}"
+              p:after="r[@uid='{C62B7D34-8FBD-4E09-B15A-ADF918B5D8C0}']"
+              s:ds="{979A4B36-7752-417E-B6CB-2323E0D84278}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{60BEB1CA-D06B-48DF-B4F9-76C57656563E}"
+              p:after="r[@uid='{AE273844-A8D5-4EE2-8379-0E0691ED1235}']"
+              s:ds="{152AF4E0-BFF3-4400-A330-EF0E69000E7D}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:ph="main" />
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+            <r
+              uid="{2FB72E40-D795-42E9-A03C-0F7ED73B4463}">
+              <p:d />
+            </r>
+            <r
+              uid="{D0C307F9-404F-40B6-AE47-0D90DFDC0C87}"
+              s:ds="{FD6CDBEF-D8E8-4F5F-9176-3E956A3BB2A7}" />
+            <r
+              uid="{0D05216A-8FC7-4217-92DF-BD157FD015CB}"
+              p:after="*[1=2]"
+              s:ds="{E40DA2C4-8641-479C-A8E1-3E97331CF1D8}"
+              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
+              s:par="Use Button for Link"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: M/D Totco
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: "<p>M/D Totco delivers real-time instrumentation, data communication, visualization solutions, and analytics&nbsp;&ndash;&nbsp;at the edge and in the cloud&nbsp;&ndash;&nbsp;to support operational efficiency.</p>"
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: M/D Totco
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221027T183730Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: M/D Totco
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{37CE6828-491E-4AF1-A858-254564BEE5B8}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: M/D Totco | Business Units
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{4F1839D1-502A-4D81-AFB8-2DDE5B264258}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: M/D Totco
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{36E05F0F-4A45-457D-BC3A-970C6A3667DF}"
+    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
+      Hint: Search Result Text
+      Value: "Business Unit: M/D Totco"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f6eae80d-832d-4e81-bbed-f24663f9c1da"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\zainyakhan
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "M/D Totco provides real-time drilling instrumentation, visualization solutions, and data communication to support a variety of back-office information management offerings."
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20221027T183730Z
+    - ID: "d3c5ed7b-3756-4e8f-b2df-d1c79758a255"
+      Hint: Hide In Footer Navigation
+      Value: 1
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{4F1839D1-502A-4D81-AFB8-2DDE5B264258}" cropregion="0,87,1920,1191" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230213T212635Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{4F1839D1-502A-4D81-AFB8-2DDE5B264258}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 5
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}">
+              <p:d />
+            </r>
+            <r
+              uid="{078082A7-A5B2-4386-8B66-BC5CDF5263E8}"
+              p:before="*"
+              s:ds="{B49AF397-B545-4AB7-919C-BD10ACA3953E}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{5DA4F9E1-C0C6-48E4-832A-23D414A0A270}-0" />
+            <r
+              uid="{1FC65AFF-AAFD-4853-9E39-10E6FEA0FE95}"
+              p:after="r[@uid='{078082A7-A5B2-4386-8B66-BC5CDF5263E8}']"
+              s:ds="{AFDC8971-CAE2-4FBB-90BA-48919ED9BB7A}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{5DA4F9E1-C0C6-48E4-832A-23D414A0A270}-0" />
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}">
+              <p:d />
+            </r>
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
+              <p:d />
+            </r>
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}">
+              <p:d />
+            </r>
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{D26256C6-06B0-43B7-B276-851CD0464E04}"
+              p:after="r[@uid='{141E6896-79A7-447B-B58C-9B116C7F55FB}']"
+              s:ds="{53007118-0541-4180-AD8A-97B4B0480CE8}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{5DA4F9E1-C0C6-48E4-832A-23D414A0A270}"
+              p:after="r[@uid='{D26256C6-06B0-43B7-B276-851CD0464E04}']"
+              s:id="{5266AC57-9C33-41AF-B32D-D935FB8DC1F3}"
+              s:ph="main" />
+            <r
+              uid="{3DA63D57-8B54-478F-A494-46436DD160A9}"
+              p:after="r[@uid='{5DA4F9E1-C0C6-48E4-832A-23D414A0A270}']"
+              s:ds="{B9DB9364-B8B9-4C92-A6A5-88C0DE4F5920}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{C62B7D34-8FBD-4E09-B15A-ADF918B5D8C0}"
+              p:after="r[@uid='{3DA63D57-8B54-478F-A494-46436DD160A9}']"
+              s:ds="{42C12DBC-F9AE-4AB9-9C6D-4EAFB8C546FF}"
+              s:id="{7EE99E6C-C671-468E-8381-C6B9BB1E6416}"
+              s:ph="main" />
+            <r
+              uid="{AE273844-A8D5-4EE2-8379-0E0691ED1235}"
+              p:after="r[@uid='{C62B7D34-8FBD-4E09-B15A-ADF918B5D8C0}']"
+              s:ds="{979A4B36-7752-417E-B6CB-2323E0D84278}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{60BEB1CA-D06B-48DF-B4F9-76C57656563E}"
+              p:after="r[@uid='{AE273844-A8D5-4EE2-8379-0E0691ED1235}']"
+              s:ds="{152AF4E0-BFF3-4400-A330-EF0E69000E7D}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:ph="main" />
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+            <r
+              uid="{2FB72E40-D795-42E9-A03C-0F7ED73B4463}">
+              <p:d />
+            </r>
+            <r
+              uid="{D0C307F9-404F-40B6-AE47-0D90DFDC0C87}"
+              s:ds="{FD6CDBEF-D8E8-4F5F-9176-3E956A3BB2A7}" />
+            <r
+              uid="{0D05216A-8FC7-4217-92DF-BD157FD015CB}"
+              p:after="*[1=2]"
+              s:ds="{E40DA2C4-8641-479C-A8E1-3E97331CF1D8}"
+              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
+              s:par="Use Button for Link"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: M/D Totco
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: |
+        <p><span class="ui-provider vg b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak" dir="ltr">From sensor to screen, we provide data and data-derived solutions&mdash;at the edge and in the cloud&mdash;to drive operational efficiency.</span></p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: M/D Totco
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230213T212735Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: M/D Totco
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{37CE6828-491E-4AF1-A858-254564BEE5B8}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: M/D Totco | Business Units
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{4F1839D1-502A-4D81-AFB8-2DDE5B264258}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\zainyakhan
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: M/D Totco
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{36E05F0F-4A45-457D-BC3A-970C6A3667DF}"
+    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
+      Hint: Search Result Text
+      Value: "Business Unit: M/D Totco"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "36bb9f40-08e5-4898-9ae3-d93bfdf4df1a"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\zainyakhan
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "M/D Totco provides real-time drilling instrumentation, visualization solutions, and data communication to support a variety of back-office information management offerings."
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230213T212735Z
+    - ID: "d3c5ed7b-3756-4e8f-b2df-d1c79758a255"
+      Hint: Hide In Footer Navigation
+      Value: 1
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{4F1839D1-502A-4D81-AFB8-2DDE5B264258}" cropregion="0,87,1920,1191" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230216T201426Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{4F1839D1-502A-4D81-AFB8-2DDE5B264258}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 6
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: |
+        <r owner="sitecore\zainyakhan" date="20230216T201447Z" />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}">
+              <p:d />
+            </r>
+            <r
+              uid="{078082A7-A5B2-4386-8B66-BC5CDF5263E8}"
+              p:before="*"
+              s:ds="{B49AF397-B545-4AB7-919C-BD10ACA3953E}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{5DA4F9E1-C0C6-48E4-832A-23D414A0A270}-0" />
+            <r
+              uid="{1FC65AFF-AAFD-4853-9E39-10E6FEA0FE95}"
+              p:after="r[@uid='{078082A7-A5B2-4386-8B66-BC5CDF5263E8}']"
+              s:ds="{AFDC8971-CAE2-4FBB-90BA-48919ED9BB7A}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{5DA4F9E1-C0C6-48E4-832A-23D414A0A270}-0" />
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}">
+              <p:d />
+            </r>
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
+              <p:d />
+            </r>
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}">
+              <p:d />
+            </r>
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{D26256C6-06B0-43B7-B276-851CD0464E04}"
+              p:after="r[@uid='{141E6896-79A7-447B-B58C-9B116C7F55FB}']"
+              s:ds="{53007118-0541-4180-AD8A-97B4B0480CE8}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{5DA4F9E1-C0C6-48E4-832A-23D414A0A270}"
+              p:after="r[@uid='{D26256C6-06B0-43B7-B276-851CD0464E04}']"
+              s:id="{5266AC57-9C33-41AF-B32D-D935FB8DC1F3}"
+              s:ph="main" />
+            <r
+              uid="{3DA63D57-8B54-478F-A494-46436DD160A9}"
+              p:after="r[@uid='{5DA4F9E1-C0C6-48E4-832A-23D414A0A270}']"
+              s:ds="{B9DB9364-B8B9-4C92-A6A5-88C0DE4F5920}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{C62B7D34-8FBD-4E09-B15A-ADF918B5D8C0}"
+              p:after="r[@uid='{3DA63D57-8B54-478F-A494-46436DD160A9}']"
+              s:ds="{42C12DBC-F9AE-4AB9-9C6D-4EAFB8C546FF}"
+              s:id="{7EE99E6C-C671-468E-8381-C6B9BB1E6416}"
+              s:ph="main" />
+            <r
+              uid="{AE273844-A8D5-4EE2-8379-0E0691ED1235}"
+              p:after="r[@uid='{C62B7D34-8FBD-4E09-B15A-ADF918B5D8C0}']"
+              s:ds="{979A4B36-7752-417E-B6CB-2323E0D84278}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{60BEB1CA-D06B-48DF-B4F9-76C57656563E}"
+              p:after="r[@uid='{AE273844-A8D5-4EE2-8379-0E0691ED1235}']"
+              s:ds="{152AF4E0-BFF3-4400-A330-EF0E69000E7D}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:ph="main" />
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+            <r
+              uid="{2FB72E40-D795-42E9-A03C-0F7ED73B4463}">
+              <p:d />
+            </r>
+            <r
+              uid="{D0C307F9-404F-40B6-AE47-0D90DFDC0C87}"
+              s:ds="{FD6CDBEF-D8E8-4F5F-9176-3E956A3BB2A7}" />
+            <r
+              uid="{0D05216A-8FC7-4217-92DF-BD157FD015CB}"
+              p:after="*[1=2]"
+              s:ds="{E40DA2C4-8641-479C-A8E1-3E97331CF1D8}"
+              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
+              s:par="Use Button for Link"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: M/D Totco
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: |
+        <p><span class="ui-provider vg b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak" dir="ltr">From sensor to screen, we provide data and data-derived solutions&mdash;at the edge and in the cloud&mdash;to drive operational efficiency.</span></p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: M/D Totco
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230216T201447Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: M/D Totco
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{8B87E652-E3F7-4C54-BDD9-66E1B888FF8B}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: M/D Totco | Business Units
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{4F1839D1-502A-4D81-AFB8-2DDE5B264258}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\zainyakhan
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: M/D Totco
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{36E05F0F-4A45-457D-BC3A-970C6A3667DF}"
+    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
+      Hint: Search Result Text
+      Value: "Business Unit: M/D Totco"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "471c83eb-3f95-46a3-934c-8ee2144d10aa"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\zainyakhan
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "M/D Totco provides real-time drilling instrumentation, visualization solutions, and data communication to support a variety of back-office information management offerings."
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230216T201447Z
+    - ID: "d3c5ed7b-3756-4e8f-b2df-d1c79758a255"
+      Hint: Hide In Footer Navigation
+      Value: 1
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{4F1839D1-502A-4D81-AFB8-2DDE5B264258}" cropregion="0,87,1920,1191" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230216T201447Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{4F1839D1-502A-4D81-AFB8-2DDE5B264258}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 7
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}">
+              <p:d />
+            </r>
+            <r
+              uid="{078082A7-A5B2-4386-8B66-BC5CDF5263E8}"
+              p:before="*"
+              s:ds="{B49AF397-B545-4AB7-919C-BD10ACA3953E}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{5DA4F9E1-C0C6-48E4-832A-23D414A0A270}-0" />
+            <r
+              uid="{1FC65AFF-AAFD-4853-9E39-10E6FEA0FE95}"
+              p:after="r[@uid='{078082A7-A5B2-4386-8B66-BC5CDF5263E8}']"
+              s:ds="{AFDC8971-CAE2-4FBB-90BA-48919ED9BB7A}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{5DA4F9E1-C0C6-48E4-832A-23D414A0A270}-0" />
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}">
+              <p:d />
+            </r>
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
+              <p:d />
+            </r>
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}">
+              <p:d />
+            </r>
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{D26256C6-06B0-43B7-B276-851CD0464E04}"
+              p:after="r[@uid='{141E6896-79A7-447B-B58C-9B116C7F55FB}']"
+              s:ds="{53007118-0541-4180-AD8A-97B4B0480CE8}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{5DA4F9E1-C0C6-48E4-832A-23D414A0A270}"
+              p:after="r[@uid='{D26256C6-06B0-43B7-B276-851CD0464E04}']"
+              s:id="{5266AC57-9C33-41AF-B32D-D935FB8DC1F3}"
+              s:ph="main" />
+            <r
+              uid="{3DA63D57-8B54-478F-A494-46436DD160A9}"
+              p:after="r[@uid='{5DA4F9E1-C0C6-48E4-832A-23D414A0A270}']"
+              s:ds="{B9DB9364-B8B9-4C92-A6A5-88C0DE4F5920}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{C62B7D34-8FBD-4E09-B15A-ADF918B5D8C0}"
+              p:after="r[@uid='{3DA63D57-8B54-478F-A494-46436DD160A9}']"
+              s:ds="{42C12DBC-F9AE-4AB9-9C6D-4EAFB8C546FF}"
+              s:id="{7EE99E6C-C671-468E-8381-C6B9BB1E6416}"
+              s:ph="main" />
+            <r
+              uid="{AE273844-A8D5-4EE2-8379-0E0691ED1235}"
+              p:after="r[@uid='{C62B7D34-8FBD-4E09-B15A-ADF918B5D8C0}']"
+              s:ds="{979A4B36-7752-417E-B6CB-2323E0D84278}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{60BEB1CA-D06B-48DF-B4F9-76C57656563E}"
+              p:after="r[@uid='{AE273844-A8D5-4EE2-8379-0E0691ED1235}']"
+              s:ds="{152AF4E0-BFF3-4400-A330-EF0E69000E7D}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:ph="main" />
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+            <r
+              uid="{2FB72E40-D795-42E9-A03C-0F7ED73B4463}">
+              <p:d />
+            </r>
+            <r
+              uid="{D0C307F9-404F-40B6-AE47-0D90DFDC0C87}"
+              s:ds="{FD6CDBEF-D8E8-4F5F-9176-3E956A3BB2A7}" />
+            <r
+              uid="{0D05216A-8FC7-4217-92DF-BD157FD015CB}"
+              p:after="*[1=2]"
+              s:ds="{E40DA2C4-8641-479C-A8E1-3E97331CF1D8}"
+              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
+              s:par="Use Button for Link"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: M/D Totco
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: |
+        <p><span class="ui-provider vg b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak" dir="ltr">From sensor to screen, we provide data and data-derived solutions&mdash;at the edge and in the cloud&mdash;to drive operational efficiency.</span></p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: M/D Totco
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230216T201520Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: M/D Totco
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: M/D Totco | Business Units
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{4F1839D1-502A-4D81-AFB8-2DDE5B264258}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\zainyakhan
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: M/D Totco
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{36E05F0F-4A45-457D-BC3A-970C6A3667DF}"
+    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
+      Hint: Search Result Text
+      Value: "Business Unit: M/D Totco"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "aee94a3b-1e68-432d-97c7-c859a3642fa9"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\zainyakhan
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "M/D Totco provides real-time drilling instrumentation, visualization solutions, and data communication to support a variety of back-office information management offerings."
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230216T201520Z
+    - ID: "d3c5ed7b-3756-4e8f-b2df-d1c79758a255"
+      Hint: Hide In Footer Navigation
+      Value: 1
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{4F1839D1-502A-4D81-AFB8-2DDE5B264258}" cropregion="0,87,1920,1191" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230216T201857Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{4F1839D1-502A-4D81-AFB8-2DDE5B264258}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 8
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}">
+              <p:d />
+            </r>
+            <r
+              uid="{078082A7-A5B2-4386-8B66-BC5CDF5263E8}"
+              p:before="*"
+              s:ds="{B49AF397-B545-4AB7-919C-BD10ACA3953E}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{5DA4F9E1-C0C6-48E4-832A-23D414A0A270}-0" />
+            <r
+              uid="{1FC65AFF-AAFD-4853-9E39-10E6FEA0FE95}"
+              p:after="r[@uid='{078082A7-A5B2-4386-8B66-BC5CDF5263E8}']"
+              s:ds="{AFDC8971-CAE2-4FBB-90BA-48919ED9BB7A}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{5DA4F9E1-C0C6-48E4-832A-23D414A0A270}-0" />
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}">
+              <p:d />
+            </r>
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
+              <p:d />
+            </r>
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}">
+              <p:d />
+            </r>
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{D26256C6-06B0-43B7-B276-851CD0464E04}"
+              p:after="r[@uid='{141E6896-79A7-447B-B58C-9B116C7F55FB}']"
+              s:ds="{53007118-0541-4180-AD8A-97B4B0480CE8}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{5DA4F9E1-C0C6-48E4-832A-23D414A0A270}"
+              p:after="r[@uid='{D26256C6-06B0-43B7-B276-851CD0464E04}']"
+              s:id="{5266AC57-9C33-41AF-B32D-D935FB8DC1F3}"
+              s:ph="main" />
+            <r
+              uid="{3DA63D57-8B54-478F-A494-46436DD160A9}"
+              p:after="r[@uid='{5DA4F9E1-C0C6-48E4-832A-23D414A0A270}']"
+              s:ds="{B9DB9364-B8B9-4C92-A6A5-88C0DE4F5920}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{C62B7D34-8FBD-4E09-B15A-ADF918B5D8C0}"
+              p:after="r[@uid='{3DA63D57-8B54-478F-A494-46436DD160A9}']"
+              s:ds="{42C12DBC-F9AE-4AB9-9C6D-4EAFB8C546FF}"
+              s:id="{7EE99E6C-C671-468E-8381-C6B9BB1E6416}"
+              s:ph="main" />
+            <r
+              uid="{AE273844-A8D5-4EE2-8379-0E0691ED1235}"
+              p:after="r[@uid='{C62B7D34-8FBD-4E09-B15A-ADF918B5D8C0}']"
+              s:ds="{979A4B36-7752-417E-B6CB-2323E0D84278}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{60BEB1CA-D06B-48DF-B4F9-76C57656563E}"
+              p:after="r[@uid='{AE273844-A8D5-4EE2-8379-0E0691ED1235}']"
+              s:ds="{152AF4E0-BFF3-4400-A330-EF0E69000E7D}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:ph="main" />
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+            <r
+              uid="{2FB72E40-D795-42E9-A03C-0F7ED73B4463}">
+              <p:d />
+            </r>
+            <r
+              uid="{D0C307F9-404F-40B6-AE47-0D90DFDC0C87}"
+              s:ds="{FD6CDBEF-D8E8-4F5F-9176-3E956A3BB2A7}" />
+            <r
+              uid="{0D05216A-8FC7-4217-92DF-BD157FD015CB}"
+              p:after="*[1=2]"
+              s:ds="{E40DA2C4-8641-479C-A8E1-3E97331CF1D8}"
+              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
+              s:par="Use Button for Link"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: M/D Totco
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: |
+        <p><span class="ui-provider vg b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak" dir="ltr">From sensor to screen, we provide data and data-derived solutions&mdash;at the edge and in the cloud&mdash;to drive operational efficiency.</span></p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: M/D Totco
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230221T190557Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: M/D Totco
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: M/D Totco | Business Units
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{4F1839D1-502A-4D81-AFB8-2DDE5B264258}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: M/D Totco
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{36E05F0F-4A45-457D-BC3A-970C6A3667DF}"
+    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
+      Hint: Search Result Text
+      Value: "Business Unit: M/D Totco"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5abce2e7-879d-4af5-9c93-c3faa7b4a556"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "M/D Totco provides real-time drilling instrumentation, visualization solutions, and data communication to support a variety of back-office information management offerings."
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230221T190557Z
+    - ID: "d3c5ed7b-3756-4e8f-b2df-d1c79758a255"
+      Hint: Hide In Footer Navigation
+      Value: 1
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{4F1839D1-502A-4D81-AFB8-2DDE5B264258}" cropregion="0,87,1920,1191" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230221T193129Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{4F1839D1-502A-4D81-AFB8-2DDE5B264258}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 9
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}">
+              <p:d />
+            </r>
+            <r
+              uid="{078082A7-A5B2-4386-8B66-BC5CDF5263E8}"
+              p:before="*"
+              s:ds="{B49AF397-B545-4AB7-919C-BD10ACA3953E}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{5DA4F9E1-C0C6-48E4-832A-23D414A0A270}-0" />
+            <r
+              uid="{1FC65AFF-AAFD-4853-9E39-10E6FEA0FE95}"
+              p:after="r[@uid='{078082A7-A5B2-4386-8B66-BC5CDF5263E8}']"
+              s:ds="{AFDC8971-CAE2-4FBB-90BA-48919ED9BB7A}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{5DA4F9E1-C0C6-48E4-832A-23D414A0A270}-0" />
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}">
+              <p:d />
+            </r>
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
+              <p:d />
+            </r>
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}">
+              <p:d />
+            </r>
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{D26256C6-06B0-43B7-B276-851CD0464E04}"
+              p:after="r[@uid='{141E6896-79A7-447B-B58C-9B116C7F55FB}']"
+              s:ds="{53007118-0541-4180-AD8A-97B4B0480CE8}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{5DA4F9E1-C0C6-48E4-832A-23D414A0A270}"
+              p:after="r[@uid='{D26256C6-06B0-43B7-B276-851CD0464E04}']"
+              s:id="{5266AC57-9C33-41AF-B32D-D935FB8DC1F3}"
+              s:ph="main" />
+            <r
+              uid="{3DA63D57-8B54-478F-A494-46436DD160A9}"
+              p:after="r[@uid='{5DA4F9E1-C0C6-48E4-832A-23D414A0A270}']"
+              s:ds="{B9DB9364-B8B9-4C92-A6A5-88C0DE4F5920}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{C62B7D34-8FBD-4E09-B15A-ADF918B5D8C0}"
+              p:after="r[@uid='{3DA63D57-8B54-478F-A494-46436DD160A9}']"
+              s:ds="{42C12DBC-F9AE-4AB9-9C6D-4EAFB8C546FF}"
+              s:id="{7EE99E6C-C671-468E-8381-C6B9BB1E6416}"
+              s:ph="main" />
+            <r
+              uid="{AE273844-A8D5-4EE2-8379-0E0691ED1235}"
+              p:after="r[@uid='{C62B7D34-8FBD-4E09-B15A-ADF918B5D8C0}']"
+              s:ds="{979A4B36-7752-417E-B6CB-2323E0D84278}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{60BEB1CA-D06B-48DF-B4F9-76C57656563E}"
+              p:after="r[@uid='{AE273844-A8D5-4EE2-8379-0E0691ED1235}']"
+              s:ds="{152AF4E0-BFF3-4400-A330-EF0E69000E7D}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:ph="main" />
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+            <r
+              uid="{2FB72E40-D795-42E9-A03C-0F7ED73B4463}">
+              <p:d />
+            </r>
+            <r
+              uid="{D0C307F9-404F-40B6-AE47-0D90DFDC0C87}"
+              s:ds="{FD6CDBEF-D8E8-4F5F-9176-3E956A3BB2A7}" />
+            <r
+              uid="{0D05216A-8FC7-4217-92DF-BD157FD015CB}"
+              p:after="*[1=2]"
+              s:ds="{E40DA2C4-8641-479C-A8E1-3E97331CF1D8}"
+              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
+              s:par="Use Button for Link"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: M/D Totco
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: |
+        <p><span class="ui-provider vg b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak" dir="ltr">From sensor to screen, we provide data and data-derived solutions&mdash;at the edge and in the cloud&mdash;to drive operational efficiency.</span></p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: M/D Totco
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230420T195036Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: M/D Totco
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: M/D Totco | Business Units
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{4F1839D1-502A-4D81-AFB8-2DDE5B264258}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\zainyakhan
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: M/D Totco
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{36E05F0F-4A45-457D-BC3A-970C6A3667DF}"
+    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
+      Hint: Search Result Text
+      Value: "Business Unit: M/D Totco"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e7fbb85c-6216-453b-bd79-5b52f7ace46c"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\zainyakhan
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "M/D Totco provides real-time drilling instrumentation, visualization solutions, and data communication to support a variety of back-office information management offerings."
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230420T195036Z
+    - ID: "d3c5ed7b-3756-4e8f-b2df-d1c79758a255"
+      Hint: Hide In Footer Navigation
+      Value: 1
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{4F1839D1-502A-4D81-AFB8-2DDE5B264258}" cropregion="0,87,1920,1191" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230420T195305Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{4F1839D1-502A-4D81-AFB8-2DDE5B264258}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 10
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: |
+        <r owner="sitecore\zainyakhan" date="20230530T202605Z" />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}">
+              <p:d />
+            </r>
+            <r
+              uid="{078082A7-A5B2-4386-8B66-BC5CDF5263E8}"
+              p:before="*"
+              s:ds="{B49AF397-B545-4AB7-919C-BD10ACA3953E}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{5DA4F9E1-C0C6-48E4-832A-23D414A0A270}-0" />
+            <r
+              uid="{1FC65AFF-AAFD-4853-9E39-10E6FEA0FE95}"
+              p:after="r[@uid='{078082A7-A5B2-4386-8B66-BC5CDF5263E8}']"
+              s:ds="{AFDC8971-CAE2-4FBB-90BA-48919ED9BB7A}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{5DA4F9E1-C0C6-48E4-832A-23D414A0A270}-0" />
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}">
+              <p:d />
+            </r>
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
+              <p:d />
+            </r>
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}">
+              <p:d />
+            </r>
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{D26256C6-06B0-43B7-B276-851CD0464E04}"
+              p:after="r[@uid='{141E6896-79A7-447B-B58C-9B116C7F55FB}']"
+              s:ds="{53007118-0541-4180-AD8A-97B4B0480CE8}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{5DA4F9E1-C0C6-48E4-832A-23D414A0A270}"
+              p:after="r[@uid='{D26256C6-06B0-43B7-B276-851CD0464E04}']"
+              s:id="{5266AC57-9C33-41AF-B32D-D935FB8DC1F3}"
+              s:ph="main" />
+            <r
+              uid="{3DA63D57-8B54-478F-A494-46436DD160A9}"
+              p:after="r[@uid='{5DA4F9E1-C0C6-48E4-832A-23D414A0A270}']"
+              s:ds="{B9DB9364-B8B9-4C92-A6A5-88C0DE4F5920}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{C62B7D34-8FBD-4E09-B15A-ADF918B5D8C0}"
+              p:after="r[@uid='{3DA63D57-8B54-478F-A494-46436DD160A9}']"
+              s:ds="{42C12DBC-F9AE-4AB9-9C6D-4EAFB8C546FF}"
+              s:id="{7EE99E6C-C671-468E-8381-C6B9BB1E6416}"
+              s:ph="main" />
+            <r
+              uid="{AE273844-A8D5-4EE2-8379-0E0691ED1235}"
+              p:after="r[@uid='{C62B7D34-8FBD-4E09-B15A-ADF918B5D8C0}']"
+              s:ds="{979A4B36-7752-417E-B6CB-2323E0D84278}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{60BEB1CA-D06B-48DF-B4F9-76C57656563E}"
+              p:after="r[@uid='{AE273844-A8D5-4EE2-8379-0E0691ED1235}']"
+              s:ds="{152AF4E0-BFF3-4400-A330-EF0E69000E7D}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:ph="main" />
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+            <r
+              uid="{2FB72E40-D795-42E9-A03C-0F7ED73B4463}">
+              <p:d />
+            </r>
+            <r
+              uid="{D0C307F9-404F-40B6-AE47-0D90DFDC0C87}"
+              s:ds="{FD6CDBEF-D8E8-4F5F-9176-3E956A3BB2A7}" />
+            <r
+              uid="{0D05216A-8FC7-4217-92DF-BD157FD015CB}"
+              p:after="*[1=2]"
+              s:ds="{E40DA2C4-8641-479C-A8E1-3E97331CF1D8}"
+              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
+              s:par="Use Button for Link"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: M/D Totco
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: |
+        <p><span class="ui-provider vg b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak" dir="ltr">From sensor to screen, we provide data and data-derived solutions&mdash;at the edge and in the cloud&mdash;to drive operational efficiency.</span></p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: M/D Totco
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230530T202605Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: M/D Totco
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{8B87E652-E3F7-4C54-BDD9-66E1B888FF8B}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: M/D Totco | Business Units
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{4F1839D1-502A-4D81-AFB8-2DDE5B264258}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\zainyakhan
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: M/D Totco
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{36E05F0F-4A45-457D-BC3A-970C6A3667DF}"
+    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
+      Hint: Search Result Text
+      Value: "Business Unit: M/D Totco"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "be9a1cb2-5faf-4493-bfcb-930807c5bd1c"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\zainyakhan
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "M/D Totco provides real-time drilling instrumentation, visualization solutions, and data communication to support a variety of back-office information management offerings."
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230530T202605Z
+    - ID: "d3c5ed7b-3756-4e8f-b2df-d1c79758a255"
+      Hint: Hide In Footer Navigation
+      Value: 1
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{4F1839D1-502A-4D81-AFB8-2DDE5B264258}" cropregion="0,87,1920,1191" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230530T202605Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{4F1839D1-502A-4D81-AFB8-2DDE5B264258}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
