@@ -1,9 +1,9 @@
-const getStorybookDefaultData = (defaultValue: any) => {
-    return {
-      table: {
-        defaultValue: { summary: defaultValue },
-      },
-    };
+const getStorybookDefaultData = (defaultValue: unknown) => {
+  return {
+    table: {
+      defaultValue: { summary: defaultValue },
+    },
   };
-  
-  export { getStorybookDefaultData };
+};
+
+export { getStorybookDefaultData };

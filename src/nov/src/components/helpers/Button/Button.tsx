@@ -104,8 +104,8 @@ const buttonVariants = tv({
 const Button = ({
   auto = false,
   disabled = false,
-  iconLeft,
-  iconRight,
+  // iconLeft,
+  // iconRight,
   id,
   label,
   loading = false,
@@ -115,7 +115,8 @@ const Button = ({
   title,
   type = 'default',
 }: ButtonProps): ReactElement => {
-  const [showIcons, setShowIcons] = useState<boolean | undefined>(true);
+  // const [showIcons, setShowIcons] = useState<boolean | undefined>(true);
+  const [, setShowIcons] = useState<boolean | undefined>(true);
 
   const { getFeatureFlag } = useFeatureFlags();
 

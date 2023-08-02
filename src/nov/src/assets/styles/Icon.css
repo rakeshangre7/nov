@@ -5,7 +5,7 @@
 
 @font-face {
   font-family: 'icomoon';
-  src: url('../../../../public/fonts/Icon.ttf') format('truetype');
+  src: url('../../../public/fonts/Icon.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
@@ -21,7 +21,6 @@ i,
   line-height: 1;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
- 
 }
 
 .icon-play-outline:before {
