@@ -1,0 +1,169 @@
+/**
+* SVG Icon fonts - icomoon.io
+* Use assets/fonts/selection.json file to import set to make changes.
+*/
+
+@font-face {
+  font-family: 'icomoon';
+  src: url('../../../../public/fonts/Icon.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+i,
+.icon {
+  /* TODO: Add this to dynamic way */
+  font-family: 'icomoon' !important;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+ 
+}
+
+.icon-play-outline:before {
+  content: '\e91d';
+}
+
+.icon-play:before {
+  content: '\e91e';
+}
+
+.icon-pause-outline:before {
+  content: '\e91f';
+}
+
+.icon-pause:before {
+  content: '\e920';
+}
+
+.icon-facebook:before {
+  content: '\e914';
+}
+
+.icon-instagram:before {
+  content: '\e915';
+}
+
+.icon-linked-in:before {
+  content: '\e916';
+}
+
+.icon-twitter:before {
+  content: '\e917';
+}
+
+.icon-youtube:before {
+  content: '\e918';
+}
+
+.icon-resources:before {
+  content: '\e919';
+}
+
+.icon-description:before {
+  content: '\e91a';
+}
+
+.icon-ruler:before {
+  content: '\e91b';
+}
+
+.icon-chevron-down:before {
+  content: '\e906';
+}
+
+.icon-chevron-left:before {
+  content: '\e907';
+}
+
+.icon-chevron-right:before {
+  content: '\e908';
+}
+
+.icon-chevron-up:before {
+  content: '\e909';
+}
+
+.icon-download:before {
+  content: '\e90c';
+}
+
+.icon-mail:before {
+  content: '\e90d';
+}
+
+.icon-plus:before {
+  content: '\e90e';
+}
+
+.icon-minus:before {
+  content: '\e921';
+}
+
+.icon-quote-mark:before {
+  content: '\e90f';
+}
+
+.icon-share-2:before {
+  content: '\e910';
+}
+
+.icon-check:before {
+  content: '\e912';
+}
+
+.icon-square:before {
+  content: '\e911';
+}
+
+.icon-checked-box:before {
+  content: '\e91c';
+}
+
+.icon-search:before {
+  content: '\e90a';
+}
+
+.icon-user:before {
+  content: '\e90b';
+}
+
+.icon-user-check:before {
+  content: '\e913';
+}
+
+.icon-burger:before {
+  content: '\e900';
+}
+
+.icon-x:before {
+  content: '\e901';
+}
+
+.icon-arrow-down:before {
+  content: '\e902';
+}
+
+.icon-arrow-left:before {
+  content: '\e903';
+}
+
+.icon-arrow-right:before {
+  content: '\e904';
+}
+
+.icon-arrow-up:before {
+  content: '\e905';
+}
+
+.icon-external-link:before {
+  content: '\e922';
+}
+
+.icon-down-chevron:before {
+  content: '\e923';
+}
