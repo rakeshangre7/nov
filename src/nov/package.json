@@ -134,7 +134,7 @@
     "build": "yarpm-pnpm run bootstrap && yarpm-pnpm run next:build ",
     "graphql:update": "ts-node --project tsconfig.scripts.json ./scripts/fetch-graphql-introspection-data.ts",
     "jss": "jss",
-    "lint:js": "eslint ./src/**/*.tsx ./src/**/*.ts ./scripts/**/*.ts",
+    "lint": "eslint ./src/**/*.tsx ./src/**/*.ts ./scripts/**/*.ts",
     "lint:staged": "lint-staged",
     "next:build": "next build",
     "next:dev": "cross-env NODE_OPTIONS='--inspect' next dev",
@@ -148,6 +148,6 @@
     "test": "jest",
     "storybook": "yarpm-pnpm run bootstrap && storybook dev -p 6006",
     "build-storybook": "yarpm-pnpm run bootstrap && storybook build",
-    "precommit": "yarpm-pnpm run lint:js"
+    "precommit": "yarpm-pnpm run lint"
   }
 }
