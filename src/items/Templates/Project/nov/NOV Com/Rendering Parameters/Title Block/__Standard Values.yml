@@ -1,0 +1,31 @@
+﻿---
+ID: "ec341c37-87dc-47ac-8002-d432940c306d"
+Parent: "03066181-2811-4eb8-9a31-3f5badd694d1"
+Template: "03066181-2811-4eb8-9a31-3f5badd694d1"
+Path: /sitecore/templates/Project/nov/NOV Com/Rendering Parameters/Title Block/__Standard Values
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/window_equalizer.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211012T120926Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "38de8e52-61d8-46ae-895a-52248ad2eef1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kMHhOfdnMf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230802T055958Z

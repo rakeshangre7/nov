@@ -8,10 +8,26 @@ SharedFields:
 - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{1AE8D3F5-0037-498B-9702-D237ADC45B38}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
     <image mediaid="{CE5E5DD8-A422-4E96-AA2F-238955B5BA7B}" />
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{0E052187-985C-463E-A0F5-527BB8F6027C}"
+          s:ccb="Clear on publish"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=%7B3CAD16B3-A146-4525-B7A9-EDE004938E47%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1" />
+      </d>
+    </r>
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
   Value: "{F558BEC9-C602-4D7A-B9A1-D0411C946EA4}"
@@ -47,14 +63,14 @@ Languages:
       Value: 
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "9d1d919a-17a4-4911-af45-149cac29c70d"
+      Value: "234bdfa3-9ac7-4044-9a61-5a4159510c2a"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\varalakshmi.md@horizontal.com
+        sitecore\kMHhOfdnMf
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230717T102415Z
+      Value: 20230802T074412Z
 - Language: "en-US"
   Versions:
   - Version: 1
@@ -62,174 +78,6 @@ Languages:
     - ID: "019c3c8b-3d47-4b92-a8e9-838880ddf307"
       Hint: Open Graph Title
       Value: National Oilwell Varco
-    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
-      Hint: __Final Renderings
-      Value: |
-        <r xmlns:p="p" xmlns:s="s"
-          p:p="1">
-          <d
-            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
-            <r
-              uid="{A409DEAE-A83C-4B8A-BB7E-241632B43108}"
-              s:ds="{B82E4296-6797-4693-917E-5B0FF8889A8D}">
-              <rls>
-                <ruleset>
-                  <rule
-                    uid="{3FEF60DC-82BC-4DF4-AF98-C09F23C5466E}"
-                    s:name="Drilling personalization">
-                    <conditions>
-                      <condition
-                        uid="734AF94A98F84BF4BEE98B3233493E36"
-                        s:id="{BE334DF8-9A0F-4FF3-A6D8-C396EC713809}"
-                        s:PageId="{AB84BA47-D6E0-4D4A-BD48-EEF06353963B}" />
-                    </conditions>
-                    <actions>
-                      <action
-                        uid="6EC063680861436C9E1C14D923797E73"
-                        s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
-                        s:DataSource="{853B40A3-6579-4E29-A6D3-6C719A074405}" />
-                    </actions>
-                  </rule>
-                  <rule
-                    uid="{00000000-0000-0000-0000-000000000000}"
-                    s:name="Default">
-                    <conditions>
-                      <condition
-                        uid="3AFBF75B07D8441F9BF01DE2B4576E96"
-                        s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" />
-                    </conditions>
-                    <actions />
-                  </rule>
-                </ruleset>
-              </rls>
-            </r>
-            <r
-              uid="{0E052187-985C-463E-A0F5-527BB8F6027C}">
-              <p:d />
-            </r>
-            <r
-              uid="{E86C9E55-D05D-4F2E-862A-62B2162C70FF}">
-              <p:d />
-            </r>
-            <r
-              uid="{1929D91C-E320-43E3-8BBF-B8B6BD902DCE}">
-              <p:d />
-            </r>
-            <r
-              uid="{19BAC161-A2C6-482D-86D5-455417B67F98}">
-              <p:d />
-            </r>
-            <r
-              uid="{EFACA6F5-ACD4-4614-9935-DA474EEB281C}"
-              p:after="r[@uid='{A409DEAE-A83C-4B8A-BB7E-241632B43108}']"
-              s:ds="{B9D28A92-08AD-4A06-BA8B-D2430BE2454E}"
-              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
-              s:par="Alignment=center"
-              s:ph="main" />
-            <r
-              uid="{A0BE3CCA-11CD-4606-81BC-B0FAD11AD2BF}"
-              p:after="r[@uid='{EFACA6F5-ACD4-4614-9935-DA474EEB281C}']"
-              s:ds="{3F005F9E-E0FE-402C-8621-9869C1D2983A}"
-              s:id="{7EE99E6C-C671-468E-8381-C6B9BB1E6416}"
-              s:pt="{BDDE35CF-B748-4523-B733-431916A390FA}"
-              s:par="CacheClearingBehavior=Clear%20on%20publish&amp;CSSStyles"
-              s:ph="main">
-              <rls>
-                <ruleset>
-                  <rule
-                    uid="{C9285362-76CF-423C-8F66-3F7F362A1C70}"
-                    s:name="Engineers"
-                    s:test="true">
-                    <conditions>
-                      <or
-                        uid="C33BF608CE7344A5B50B70BA62A43B69">
-                        <condition
-                          uid="EBFD84DBDCB44150880A569997D2C1FA"
-                          s:id="{E00DB4F0-B206-4544-AD90-25D201CFB62C}"
-                          s:ProfileName="NOVCom Audience"
-                          s:PatternName="Engineer" />
-                        <condition
-                          uid="13346D0E71384B98ABC2B59016290CAF"
-                          s:id="{6426B5B4-83E9-4E24-BA97-43293A10B47D}"
-                          s:ProfileName="NOVCom Audience"
-                          s:PatternName="Engineer" />
-                      </or>
-                    </conditions>
-                    <actions>
-                      <action
-                        uid="80386DB71C94402296713F4C22409A62"
-                        s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
-                        s:DataSource="{9734AF1C-167E-45F3-B95A-C296A6A2D0B0}" />
-                    </actions>
-                  </rule>
-                  <rule
-                    uid="{F9EAA5F4-F4FE-4E57-8D56-E1AF16D0DD3B}"
-                    s:name="Career seekers"
-                    s:test="true">
-                    <conditions>
-                      <or
-                        uid="195CB2F7559340F09F82BF18B3FA8212">
-                        <condition
-                          uid="E54FCE4596BE480DA025B24857E3175E"
-                          s:id="{E00DB4F0-B206-4544-AD90-25D201CFB62C}"
-                          s:ProfileName="NOVCom Audience"
-                          s:PatternName="Career Seeker" />
-                        <condition
-                          uid="F562DD4025D4467282F886485F83B927"
-                          s:id="{6426B5B4-83E9-4E24-BA97-43293A10B47D}"
-                          s:ProfileName="NOVCom Audience"
-                          s:PatternName="Career Seeker" />
-                      </or>
-                    </conditions>
-                    <actions>
-                      <action
-                        uid="F81FE3D26984488B8FAAE89B8E73654C"
-                        s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
-                        s:DataSource="{E026FB5A-1118-43DF-9E1A-4C683941C5DE}" />
-                    </actions>
-                  </rule>
-                  <rule
-                    uid="{00000000-0000-0000-0000-000000000000}"
-                    s:name="Default"
-                    s:test="true">
-                    <conditions>
-                      <condition
-                        uid="6DDB24B86B564D309887685BB9758B2E"
-                        s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" />
-                    </conditions>
-                    <actions />
-                  </rule>
-                </ruleset>
-              </rls>
-            </r>
-            <r
-              uid="{54467873-A95C-4CB1-AEA0-AAD66F538EDE}"
-              p:after="r[@uid='{A0BE3CCA-11CD-4606-81BC-B0FAD11AD2BF}']"
-              s:ds="{DB143327-0FF2-4F1C-927A-7AD8353DE49B}"
-              s:id="{93ADFF97-73E8-46AA-9C18-068BDB6232A8}"
-              s:par="CacheClearingBehavior=Clear%20on%20publish&amp;CSSStyles"
-              s:ph="main" />
-            <r
-              uid="{EA139BDD-5AC7-4568-9A16-AA2CE26EB69B}"
-              p:after="*[1=2]"
-              s:ds="{C8345F03-D8F9-48B4-B545-D363B51BBCDF}"
-              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
-              s:par="CacheClearingBehavior=Clear%20on%20publish&amp;CSSStyles"
-              s:ph="main" />
-            <r
-              uid="{48DAF69A-6A9E-43E8-A8DC-051CEC6089D7}">
-              <p:d />
-            </r>
-            <r
-              uid="{3A1F5ECB-AA04-4611-8577-BFBDE8784360}">
-              <p:d />
-            </r>
-            <r
-              uid="{025975AE-380B-4D65-A241-0CA3D2432BF9}">
-              <p:d />
-            </r>
-          </d>
-        </r>
     - ID: "0f2dabed-1168-4f46-a63e-4193c44aaae9"
       Hint: Search Placeholder
       Value: search...
@@ -310,13 +158,13 @@ Languages:
     - ID: "851d1dab-ab7e-4b4e-829f-2af8f827766d"
       Hint: Featured Story Sub Item Link
       Value: |
-        <link linktype="internal" querystring="" target="" id="{45A61597-4FA9-4A19-8EBD-A13FC8BF78C7}" />
+        <link id="{45A61597-4FA9-4A19-8EBD-A13FC8BF78C7}" querystring="" target="" linktype="internal" url="/nov/nov/Home/About/Our Company Structure" />
     - ID: "876deee2-ba15-4bf2-bede-86d32ce0fd56"
       Hint: Not Found Headline
       Value: Sorry, we couldn’t find that page.
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "1de08f9c-63b0-41ce-a33f-a0d11c4ac0d5"
+      Value: "85801e0d-5338-4324-a984-3734349ce09e"
     - ID: "8cec028b-f9da-4b19-9326-0936f5b9b288"
       Hint: Search Suggestions Label
       Value: Suggestions
@@ -354,7 +202,7 @@ Languages:
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\varalakshmi.md@horizontal.com
+        sitecore\kMHhOfdnMf
     - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
       Hint: Meta Description
       Value: National Oilwell Varco provides oilfield equipment, technologies, and expertise that answer the challenges of oil and gas customers worldwide with safety, efficiency, and reliability.
@@ -378,7 +226,7 @@ Languages:
       Value: Menu
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230717T103640Z
+      Value: 20230802T074511Z
     - ID: "ddda21ca-c827-45cd-bcdd-148b7a0eb2f8"
       Hint: Logo
       Value: |
