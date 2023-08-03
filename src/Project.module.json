@@ -35,7 +35,7 @@
       {
         "name": "Renderings",
         "path": "/sitecore/layout/Renderings/Project",
-        "allowedPushOperations": "CreateAndUpdate",
+        "allowedPushOperations": "CreateUpdateAndDelete",
         "scope": "descendantsOnly"
       },
       {

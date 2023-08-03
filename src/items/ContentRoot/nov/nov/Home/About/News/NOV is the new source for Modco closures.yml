@@ -1,0 +1,274 @@
+﻿---
+ID: "098a2901-4e2e-4997-be0c-67b7fb128179"
+Parent: "8dfd8a57-77e4-4e4e-a720-8f569a679339"
+Template: "93e4c55d-9fa4-4945-a03a-1565852b0a90"
+Path: /sitecore/content/nov/nov/Home/About/News/NOV is the new source for Modco closures
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{10CEBA25-FC2A-4F84-8760-9B825D4EAF06}"
+          s:ds="{9B405C8C-5AB2-4F7C-AEA4-BCF9A433F778}" />
+        <r
+          uid="{37DC6908-9973-4BF3-AA1F-616581927F03}"
+          s:ds="{8BF778F6-2BA4-4883-A965-CB43B2529E7E}" />
+        <r
+          uid="{3A4E7139-50CB-4BD5-AB2E-460BC7CE5AAF}"
+          s:ds="{2873F523-9FCC-4DB9-8CA4-26E82710C090}" />
+        <r
+          uid="{29B80482-A671-447F-BB46-8121D422BD81}"
+          s:ds="{3CDC0D77-5574-49C4-B870-D436886876B4}" />
+        <r
+          uid="{97344B92-7C95-4AC5-BA52-015B4E4B60A0}"
+          s:ds="{65168289-B9BE-4210-9325-90FE4DF92D6E}" />
+        <r
+          uid="{7FCE1D2B-E077-4A3D-AF80-996014D9B527}"
+          s:ds="{39203F3F-FCED-46DF-A0DC-FBE32A475A1F}" />
+        <r
+          uid="{B7906B15-B51F-4DDA-9D56-0D4EDD3DF208}"
+          s:ds="{06798AAA-1204-456A-877E-3C9BBDA59139}" />
+        <r
+          uid="{9B9C6914-204E-47B8-ABD6-F2712DC7BB72}"
+          s:ds="{00CB9866-1E41-4F3F-99DF-6F2BB0AE3D47}" />
+      </d>
+    </r>
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01fd8c23-1b98-4e4b-9f2d-ecf3eb8aad68"
+      Hint: businessUnits
+      Value: "{609C7FC7-1EDE-4C71-AD49-E65F4E7314DE}"
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{3A4E7139-50CB-4BD5-AB2E-460BC7CE5AAF}">
+              <p:d />
+            </r>
+            <r
+              uid="{289F270F-A12D-44B0-8F38-70901DF9D230}"
+              p:after="*[1=2]"
+              s:ds="{8F8ACEF7-BEC3-4765-A9FF-A90AFCF04910}"
+              s:id="{404FE8DE-C601-4E14-8D3D-32F27B41D06D}"
+              s:ph="main" />
+            <r
+              uid="{29B80482-A671-447F-BB46-8121D422BD81}">
+              <p:d />
+            </r>
+            <r
+              uid="{97344B92-7C95-4AC5-BA52-015B4E4B60A0}">
+              <p:d />
+            </r>
+            <r
+              uid="{7FCE1D2B-E077-4A3D-AF80-996014D9B527}">
+              <p:d />
+            </r>
+            <r
+              uid="{B7906B15-B51F-4DDA-9D56-0D4EDD3DF208}">
+              <p:d />
+            </r>
+            <r
+              uid="{9B9C6914-204E-47B8-ABD6-F2712DC7BB72}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: NOV is the new source for Modco closures
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: "<p>Modco closures have re-joined the NOV trusted portfolio of closures.</p>"
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: NOV is the new source for Modco closures
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211117T174540Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: NOV is the new source for Modco closures
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: NOV is the new source for Modco closures
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{FC2A3AFB-99D0-4CC6-BAEB-8699BA4E0B73}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{ABA9E56C-0FCE-464D-8E09-DB375CDF20D8}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: NOV is the new source for Modco closures
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "69e5a76c-3e60-42ea-9c55-fd6780401c0a"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{294053F5-3F2B-4F01-A805-2E3CC257571E}"
+    - ID: "b0d622b7-156a-4f17-9ce4-4dd213df0302"
+      Hint: Date
+      Value: 20211118T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "Modco closures have re-joined the NOV trusted portfolio of closures. "
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{FC2A3AFB-99D0-4CC6-BAEB-8699BA4E0B73}" cropregion="207,157,1816,1079" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20211201T153638Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{FC2A3AFB-99D0-4CC6-BAEB-8699BA4E0B73}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01fd8c23-1b98-4e4b-9f2d-ecf3eb8aad68"
+      Hint: businessUnits
+      Value: "{609C7FC7-1EDE-4C71-AD49-E65F4E7314DE}"
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{3A4E7139-50CB-4BD5-AB2E-460BC7CE5AAF}">
+              <p:d />
+            </r>
+            <r
+              uid="{289F270F-A12D-44B0-8F38-70901DF9D230}"
+              p:after="*[1=2]"
+              s:ds="{8F8ACEF7-BEC3-4765-A9FF-A90AFCF04910}"
+              s:id="{404FE8DE-C601-4E14-8D3D-32F27B41D06D}"
+              s:ph="main" />
+            <r
+              uid="{29B80482-A671-447F-BB46-8121D422BD81}">
+              <p:d />
+            </r>
+            <r
+              uid="{97344B92-7C95-4AC5-BA52-015B4E4B60A0}">
+              <p:d />
+            </r>
+            <r
+              uid="{7FCE1D2B-E077-4A3D-AF80-996014D9B527}">
+              <p:d />
+            </r>
+            <r
+              uid="{B7906B15-B51F-4DDA-9D56-0D4EDD3DF208}">
+              <p:d />
+            </r>
+            <r
+              uid="{9B9C6914-204E-47B8-ABD6-F2712DC7BB72}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: NOV is the new source for Modco closures
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: "<p>Modco closures have re-joined the NOV trusted portfolio of closures.</p>"
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: NOV is the new source for Modco closures
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211201T153709Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: NOV is the new source for Modco closures
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: NOV is the new source for Modco closures
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{FC2A3AFB-99D0-4CC6-BAEB-8699BA4E0B73}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{ABA9E56C-0FCE-464D-8E09-DB375CDF20D8}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: NOV is the new source for Modco closures
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4b07004f-de2d-4c2d-a0bf-ad20e77476d0"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{294053F5-3F2B-4F01-A805-2E3CC257571E}"
+    - ID: "b0d622b7-156a-4f17-9ce4-4dd213df0302"
+      Hint: Date
+      Value: 20211201T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "Modco closures have re-joined the NOV trusted portfolio of closures. "
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20211201T153709Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{FC2A3AFB-99D0-4CC6-BAEB-8699BA4E0B73}" cropregion="207,157,1816,1079" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20211201T153751Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{FC2A3AFB-99D0-4CC6-BAEB-8699BA4E0B73}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />

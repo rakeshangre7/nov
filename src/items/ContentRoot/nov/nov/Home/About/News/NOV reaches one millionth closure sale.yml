@@ -1,0 +1,180 @@
+﻿---
+ID: "4a001763-4263-4287-ba0c-94f3069ed681"
+Parent: "8dfd8a57-77e4-4e4e-a720-8f569a679339"
+Template: "93e4c55d-9fa4-4945-a03a-1565852b0a90"
+Path: /sitecore/content/nov/nov/Home/About/News/NOV reaches one millionth closure sale
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{10CEBA25-FC2A-4F84-8760-9B825D4EAF06}"
+          s:ds="{AE34F444-8EB7-4550-85FC-6D912C699B43}" />
+        <r
+          uid="{37DC6908-9973-4BF3-AA1F-616581927F03}"
+          s:ds="{740FBA50-4A27-4087-9CC7-361EE50D57D0}" />
+        <r
+          uid="{3A4E7139-50CB-4BD5-AB2E-460BC7CE5AAF}"
+          s:ds="{1DBD6B10-0F29-4CBF-8622-9F0A7140504A}" />
+        <r
+          uid="{29B80482-A671-447F-BB46-8121D422BD81}"
+          s:ds="{38782A66-D077-40AB-A558-78BD6333647B}" />
+        <r
+          uid="{97344B92-7C95-4AC5-BA52-015B4E4B60A0}"
+          s:ds="{67396FCC-0E1F-4704-9D8E-484D7333DBB0}" />
+        <r
+          uid="{7FCE1D2B-E077-4A3D-AF80-996014D9B527}"
+          s:ds="{C11E28B6-5B76-469F-855F-FADA55761484}" />
+        <r
+          uid="{B7906B15-B51F-4DDA-9D56-0D4EDD3DF208}"
+          s:ds="{3BC72E0F-5874-43E5-B4C5-18712F7C9F41}" />
+        <r
+          uid="{9B9C6914-204E-47B8-ABD6-F2712DC7BB72}"
+          s:ds="{EC1E8D51-963D-4859-B4E8-368E13D9E067}" />
+      </d>
+    </r>
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01fd8c23-1b98-4e4b-9f2d-ecf3eb8aad68"
+      Hint: businessUnits
+      Value: "{609C7FC7-1EDE-4C71-AD49-E65F4E7314DE}"
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{3A4E7139-50CB-4BD5-AB2E-460BC7CE5AAF}">
+              <p:d />
+            </r>
+            <r
+              uid="{7FCE1D2B-E077-4A3D-AF80-996014D9B527}">
+              <p:d />
+            </r>
+            <r
+              uid="{29B80482-A671-447F-BB46-8121D422BD81}"
+              p:after="r[@uid='{97344B92-7C95-4AC5-BA52-015B4E4B60A0}']" />
+            <r
+              uid="{AAAAD7BE-38E5-416F-BE48-8CD5414044CA}"
+              p:after="r[@uid='{29B80482-A671-447F-BB46-8121D422BD81}']"
+              s:ds="{58EC69E2-D198-41A0-B637-01F7DC4B46DB}"
+              s:id="{2E6C5F1E-BC4A-4FBE-BC72-FBCB237F8DDC}"
+              s:par=""
+              s:ph="main" />
+            <r
+              uid="{9B9C6914-204E-47B8-ABD6-F2712DC7BB72}">
+              <p:d />
+            </r>
+            <r
+              uid="{1AE1A7C8-3DB8-4639-9E14-4408665EBFD3}"
+              p:after="r[@uid='{B7906B15-B51F-4DDA-9D56-0D4EDD3DF208}']"
+              s:ds="{9F0DB03E-A993-4FD6-9202-427017571D24}"
+              s:id="{2E6C5F1E-BC4A-4FBE-BC72-FBCB237F8DDC}"
+              s:ph="main" />
+            <r
+              uid="{5ACAFBDD-F055-47B6-AE30-BDB1743B33DD}"
+              p:after="r[@uid='{1AE1A7C8-3DB8-4639-9E14-4408665EBFD3}']"
+              s:ds="{121C0A6D-C79E-4A60-AD0C-E2BA83946B04}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{F512C2A1-FD7C-45FE-ABF0-B28F6E583912}"
+              p:after="r[@uid='{5ACAFBDD-F055-47B6-AE30-BDB1743B33DD}']"
+              s:ds="{48AE5CBB-9D16-4DA1-B002-91BEB8F474DB}"
+              s:id="{2E6C5F1E-BC4A-4FBE-BC72-FBCB237F8DDC}"
+              s:ph="main" />
+            <r
+              uid="{CD74D4E6-C80B-4B11-94EA-1EE665B78989}"
+              p:after="r[@uid='{F512C2A1-FD7C-45FE-ABF0-B28F6E583912}']"
+              s:ds="{210D27E8-D02B-427F-9686-0F58B48E6107}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{85944F34-84AB-45B1-9946-FF6B67F973DF}"
+              p:after="*[1=2]"
+              s:ds="{8F8ACEF7-BEC3-4765-A9FF-A90AFCF04910}"
+              s:id="{404FE8DE-C601-4E14-8D3D-32F27B41D06D}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: NOV reaches one millionth closure sale
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Combination of people and innovation have led to milestone achievement</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: NOV reaches one millionth closure sale
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211021T170125Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: NOV reaches one millionth closure sale
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: NOV reaches one millionth closure sale
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{FBBA517E-E5EB-4773-A620-1098BE027193}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{ABA9E56C-0FCE-464D-8E09-DB375CDF20D8}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: NOV reaches one millionth closure sale
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ef8eb0dd-52b4-4765-ae2b-2016b1f52ac7"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{294053F5-3F2B-4F01-A805-2E3CC257571E}"
+    - ID: "b0d622b7-156a-4f17-9ce4-4dd213df0302"
+      Hint: Date
+      Value: 20211108T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Combination of people and innovation have led to milestone achievement 
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{FBBA517E-E5EB-4773-A620-1098BE027193}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20211108T152136Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{FBBA517E-E5EB-4773-A620-1098BE027193}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />

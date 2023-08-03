@@ -1,0 +1,1261 @@
+﻿---
+ID: "ef67917c-2c21-4832-bcac-d7ec6b2e35e5"
+Parent: "45a61597-4fa9-4a19-8ebd-a13fc8bf78c7"
+Template: "9c2677bb-7840-4e59-ac44-4c5d4dff7610"
+Path: /sitecore/content/nov/nov/Home/About/Our Company Structure/CAPS
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{F49972B9-F1D7-443C-B206-DE6AF4DB5280}" />
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{3709ECF8-31A3-4630-B462-DC1F06EEF338}"
+              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}" />
+            <r
+              uid="{28B4ABC6-0A05-401D-8D9F-70992A0772FB}">
+              <p:d />
+            </r>
+            <r
+              uid="{0D57F642-56E7-4087-9356-C56DCEA3F091}">
+              <p:d />
+            </r>
+            <r
+              uid="{F81FABFC-F140-4F90-8743-DED26863EE9D}"
+              p:after="r[@uid='{3709ECF8-31A3-4630-B462-DC1F06EEF338}']"
+              s:ds="{D77A10C3-C88D-4AD7-94B8-B547583A0854}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{302DA2AA-67DE-4E54-A720-B826D94ECB72}"
+              p:after="*[1=2]"
+              s:ds="{6F0FE3E4-7E6E-4351-B0DB-7D893C7181DD}"
+              s:id="{93ADFF97-73E8-46AA-9C18-068BDB6232A8}"
+              s:ph="main" />
+            <r
+              uid="{85AC0D69-6C39-4691-8D47-A8000B6EA60A}">
+              <p:d />
+            </r>
+            <r
+              uid="{606DBDA0-AAFF-447A-B2F8-5433CB8107B8}">
+              <p:d />
+            </r>
+            <r
+              uid="{F7113DE4-6D33-4768-B510-981B8992BF48}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Completion & Production Solutions
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>The products and technologies you need to optimize the completion process and production phase of your well&rsquo;s life cycle.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Completion & Production Solutions
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190405T154101Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Completion & Production Solutions
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Completion & Production Solutions
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticgappau
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{ABA9E56C-0FCE-464D-8E09-DB375CDF20D8}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Completion & Production Solutions
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "60b6d052-174a-4472-be9c-6008c5e98d02"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{4BB3B086-733D-44D8-BDBE-47FE1A1D250F}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190405T154101Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{F598B18D-58D4-473C-8A6D-FC37FBCDDBA2}" cropregion="0,160,1920,1262" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190405T154324Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{F598B18D-58D4-473C-8A6D-FC37FBCDDBA2}" cropregion="0,215,1920,1294" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{3709ECF8-31A3-4630-B462-DC1F06EEF338}"
+              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}" />
+            <r
+              uid="{28B4ABC6-0A05-401D-8D9F-70992A0772FB}">
+              <p:d />
+            </r>
+            <r
+              uid="{0D57F642-56E7-4087-9356-C56DCEA3F091}">
+              <p:d />
+            </r>
+            <r
+              uid="{F81FABFC-F140-4F90-8743-DED26863EE9D}"
+              p:after="r[@uid='{3709ECF8-31A3-4630-B462-DC1F06EEF338}']"
+              s:ds="{D77A10C3-C88D-4AD7-94B8-B547583A0854}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{54450FB6-C0FA-4880-BA46-D99E2C439E62}"
+              p:after="*[1=2]"
+              s:ds="{6F0FE3E4-7E6E-4351-B0DB-7D893C7181DD}"
+              s:id="{93ADFF97-73E8-46AA-9C18-068BDB6232A8}"
+              s:ph="main" />
+            <r
+              uid="{85AC0D69-6C39-4691-8D47-A8000B6EA60A}">
+              <p:d />
+            </r>
+            <r
+              uid="{606DBDA0-AAFF-447A-B2F8-5433CB8107B8}">
+              <p:d />
+            </r>
+            <r
+              uid="{F7113DE4-6D33-4768-B510-981B8992BF48}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Completion & Production Solutions
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>The products and technologies you need to optimize the completion process and production phase of your well&rsquo;s life cycle.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Completion & Production Solutions
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190405T161857Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Completion & Production Solutions
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Completion & Production Solutions
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticgappau
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{ABA9E56C-0FCE-464D-8E09-DB375CDF20D8}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Completion & Production Solutions
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "eb5c8b3c-3f68-406a-8162-2422d0fcce3e"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{4BB3B086-733D-44D8-BDBE-47FE1A1D250F}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190405T161857Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{F598B18D-58D4-473C-8A6D-FC37FBCDDBA2}" cropregion="0,160,1920,1262" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190405T162143Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{F598B18D-58D4-473C-8A6D-FC37FBCDDBA2}" cropregion="0,215,1920,1294" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{82C814F0-E3F8-47FE-A4C3-6765E3B4DF94}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{3709ECF8-31A3-4630-B462-DC1F06EEF338}"
+              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}" />
+            <r
+              uid="{28B4ABC6-0A05-401D-8D9F-70992A0772FB}">
+              <p:d />
+            </r>
+            <r
+              uid="{0D57F642-56E7-4087-9356-C56DCEA3F091}">
+              <p:d />
+            </r>
+            <r
+              uid="{F81FABFC-F140-4F90-8743-DED26863EE9D}"
+              p:after="r[@uid='{3709ECF8-31A3-4630-B462-DC1F06EEF338}']"
+              s:ds="{D77A10C3-C88D-4AD7-94B8-B547583A0854}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{54450FB6-C0FA-4880-BA46-D99E2C439E62}"
+              p:after="*[1=2]"
+              s:ds="{6F0FE3E4-7E6E-4351-B0DB-7D893C7181DD}"
+              s:id="{93ADFF97-73E8-46AA-9C18-068BDB6232A8}"
+              s:ph="main" />
+            <r
+              uid="{85AC0D69-6C39-4691-8D47-A8000B6EA60A}">
+              <p:d />
+            </r>
+            <r
+              uid="{606DBDA0-AAFF-447A-B2F8-5433CB8107B8}">
+              <p:d />
+            </r>
+            <r
+              uid="{F7113DE4-6D33-4768-B510-981B8992BF48}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Completion & Production Solutions
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>The products and technologies you need to optimize the completion process and production phase of your well&rsquo;s life cycle.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Completion & Production Solutions
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190408T155706Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Completion & Production Solutions
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Completion & Production Solutions
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticgappau
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{ABA9E56C-0FCE-464D-8E09-DB375CDF20D8}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Completion & Production Solutions
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dad1f836-df15-42a7-95c9-4e9929951215"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{4BB3B086-733D-44D8-BDBE-47FE1A1D250F}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190408T155706Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{F598B18D-58D4-473C-8A6D-FC37FBCDDBA2}" cropregion="0,160,1920,1262" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190412T195746Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{F598B18D-58D4-473C-8A6D-FC37FBCDDBA2}" cropregion="0,215,1920,1294" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 4
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{82C814F0-E3F8-47FE-A4C3-6765E3B4DF94}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{3709ECF8-31A3-4630-B462-DC1F06EEF338}"
+              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}" />
+            <r
+              uid="{28B4ABC6-0A05-401D-8D9F-70992A0772FB}">
+              <p:d />
+            </r>
+            <r
+              uid="{0D57F642-56E7-4087-9356-C56DCEA3F091}">
+              <p:d />
+            </r>
+            <r
+              uid="{F81FABFC-F140-4F90-8743-DED26863EE9D}"
+              p:after="r[@uid='{3709ECF8-31A3-4630-B462-DC1F06EEF338}']"
+              s:ds="{D77A10C3-C88D-4AD7-94B8-B547583A0854}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{54450FB6-C0FA-4880-BA46-D99E2C439E62}"
+              p:after="*[1=2]"
+              s:ds="{6F0FE3E4-7E6E-4351-B0DB-7D893C7181DD}"
+              s:id="{93ADFF97-73E8-46AA-9C18-068BDB6232A8}"
+              s:ph="main" />
+            <r
+              uid="{85AC0D69-6C39-4691-8D47-A8000B6EA60A}">
+              <p:d />
+            </r>
+            <r
+              uid="{606DBDA0-AAFF-447A-B2F8-5433CB8107B8}">
+              <p:d />
+            </r>
+            <r
+              uid="{F7113DE4-6D33-4768-B510-981B8992BF48}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Completion & Production Solutions
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>The products and technologies you need to optimize the completion process and production phase of your well&rsquo;s life cycle.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Completion & Production Solutions
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190423T212901Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Completion & Production Solutions
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Completion & Production Solutions
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticgappau
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\verticachang
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{ABA9E56C-0FCE-464D-8E09-DB375CDF20D8}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Completion & Production Solutions
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7bf350ef-61aa-4324-835d-c08b9d207052"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{4BB3B086-733D-44D8-BDBE-47FE1A1D250F}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190423T212901Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{F598B18D-58D4-473C-8A6D-FC37FBCDDBA2}" cropregion="0,160,1920,1262" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190506T154636Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{F598B18D-58D4-473C-8A6D-FC37FBCDDBA2}" cropregion="0,215,1920,1294" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 5
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{82C814F0-E3F8-47FE-A4C3-6765E3B4DF94}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{3709ECF8-31A3-4630-B462-DC1F06EEF338}"
+              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}" />
+            <r
+              uid="{28B4ABC6-0A05-401D-8D9F-70992A0772FB}">
+              <p:d />
+            </r>
+            <r
+              uid="{0D57F642-56E7-4087-9356-C56DCEA3F091}">
+              <p:d />
+            </r>
+            <r
+              uid="{F81FABFC-F140-4F90-8743-DED26863EE9D}"
+              p:after="r[@uid='{3709ECF8-31A3-4630-B462-DC1F06EEF338}']"
+              s:ds="{D77A10C3-C88D-4AD7-94B8-B547583A0854}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{54450FB6-C0FA-4880-BA46-D99E2C439E62}"
+              p:after="*[1=2]"
+              s:ds="{6F0FE3E4-7E6E-4351-B0DB-7D893C7181DD}"
+              s:id="{93ADFF97-73E8-46AA-9C18-068BDB6232A8}"
+              s:ph="main" />
+            <r
+              uid="{85AC0D69-6C39-4691-8D47-A8000B6EA60A}">
+              <p:d />
+            </r>
+            <r
+              uid="{606DBDA0-AAFF-447A-B2F8-5433CB8107B8}">
+              <p:d />
+            </r>
+            <r
+              uid="{F7113DE4-6D33-4768-B510-981B8992BF48}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Completion & Production Solutions
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>The products and technologies you need to optimize the completion process and production phase of your well&rsquo;s life cycle.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Completion & Production Solutions
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190506T154813Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Completion & Production Solutions
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Completion & Production Solutions
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticgappau
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{ABA9E56C-0FCE-464D-8E09-DB375CDF20D8}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Completion & Production Solutions
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0a286d94-af93-48d1-85e1-5930a90e9fcd"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{4BB3B086-733D-44D8-BDBE-47FE1A1D250F}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190506T154813Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{F598B18D-58D4-473C-8A6D-FC37FBCDDBA2}" cropregion="0,160,1920,1262" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190509T184258Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{F598B18D-58D4-473C-8A6D-FC37FBCDDBA2}" cropregion="0,215,1920,1294" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 6
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{82C814F0-E3F8-47FE-A4C3-6765E3B4DF94}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{3709ECF8-31A3-4630-B462-DC1F06EEF338}"
+              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}" />
+            <r
+              uid="{28B4ABC6-0A05-401D-8D9F-70992A0772FB}">
+              <p:d />
+            </r>
+            <r
+              uid="{0D57F642-56E7-4087-9356-C56DCEA3F091}">
+              <p:d />
+            </r>
+            <r
+              uid="{85AC0D69-6C39-4691-8D47-A8000B6EA60A}">
+              <p:d />
+            </r>
+            <r
+              uid="{F81FABFC-F140-4F90-8743-DED26863EE9D}"
+              p:after="r[@uid='{3709ECF8-31A3-4630-B462-DC1F06EEF338}']"
+              s:ds="{D77A10C3-C88D-4AD7-94B8-B547583A0854}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{54450FB6-C0FA-4880-BA46-D99E2C439E62}"
+              p:after="r[@uid='{F81FABFC-F140-4F90-8743-DED26863EE9D}']"
+              s:ds="{6F0FE3E4-7E6E-4351-B0DB-7D893C7181DD}"
+              s:id="{93ADFF97-73E8-46AA-9C18-068BDB6232A8}"
+              s:ph="main" />
+            <r
+              uid="{94377EF4-6468-4DBB-A43A-FB2D7BBFD020}"
+              p:after="*[1=2]"
+              s:ds="{CA48A092-BE82-4024-B57A-DADE5D628658}"
+              s:id="{7EE99E6C-C671-468E-8381-C6B9BB1E6416}"
+              s:ph="main" />
+            <r
+              uid="{606DBDA0-AAFF-447A-B2F8-5433CB8107B8}">
+              <p:d />
+            </r>
+            <r
+              uid="{F7113DE4-6D33-4768-B510-981B8992BF48}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Completion & Production Solutions
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>The products and technologies you need to optimize the completion process and production phase of your well&rsquo;s life cycle.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Completion & Production Solutions
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190509T184529Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Completion & Production Solutions
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Completion & Production Solutions
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticgappau
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{ABA9E56C-0FCE-464D-8E09-DB375CDF20D8}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Completion & Production Solutions
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1928b76a-a74a-410a-a9a0-89d220ee0182"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{4BB3B086-733D-44D8-BDBE-47FE1A1D250F}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190509T184529Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{F598B18D-58D4-473C-8A6D-FC37FBCDDBA2}" cropregion="0,160,1920,1262" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190509T195742Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{F598B18D-58D4-473C-8A6D-FC37FBCDDBA2}" cropregion="0,215,1920,1294" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 7
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{82C814F0-E3F8-47FE-A4C3-6765E3B4DF94}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{3709ECF8-31A3-4630-B462-DC1F06EEF338}"
+              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}" />
+            <r
+              uid="{28B4ABC6-0A05-401D-8D9F-70992A0772FB}">
+              <p:d />
+            </r>
+            <r
+              uid="{0D57F642-56E7-4087-9356-C56DCEA3F091}">
+              <p:d />
+            </r>
+            <r
+              uid="{85AC0D69-6C39-4691-8D47-A8000B6EA60A}">
+              <p:d />
+            </r>
+            <r
+              uid="{F81FABFC-F140-4F90-8743-DED26863EE9D}"
+              p:after="r[@uid='{3709ECF8-31A3-4630-B462-DC1F06EEF338}']"
+              s:ds="{D77A10C3-C88D-4AD7-94B8-B547583A0854}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{54450FB6-C0FA-4880-BA46-D99E2C439E62}"
+              p:after="r[@uid='{F81FABFC-F140-4F90-8743-DED26863EE9D}']"
+              s:ds="{6F0FE3E4-7E6E-4351-B0DB-7D893C7181DD}"
+              s:id="{93ADFF97-73E8-46AA-9C18-068BDB6232A8}"
+              s:ph="main" />
+            <r
+              uid="{94377EF4-6468-4DBB-A43A-FB2D7BBFD020}"
+              p:after="*[1=2]"
+              s:ds="{CA48A092-BE82-4024-B57A-DADE5D628658}"
+              s:id="{7EE99E6C-C671-468E-8381-C6B9BB1E6416}"
+              s:ph="main" />
+            <r
+              uid="{606DBDA0-AAFF-447A-B2F8-5433CB8107B8}">
+              <p:d />
+            </r>
+            <r
+              uid="{F7113DE4-6D33-4768-B510-981B8992BF48}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Completion & Production Solutions
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>The products and technologies you need to optimize the completion process and production phase of your well&rsquo;s life cycle.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Completion & Production Solutions
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190509T195959Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Completion & Production Solutions
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Completion & Production Solutions
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticgappau
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{ABA9E56C-0FCE-464D-8E09-DB375CDF20D8}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Completion & Production Solutions
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "80da9a2a-ae73-45c2-b533-a2385781abc0"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{4BB3B086-733D-44D8-BDBE-47FE1A1D250F}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190509T195959Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{F598B18D-58D4-473C-8A6D-FC37FBCDDBA2}" cropregion="0,160,1920,1262" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190509T200213Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{F598B18D-58D4-473C-8A6D-FC37FBCDDBA2}" cropregion="0,215,1920,1294" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 8
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{82C814F0-E3F8-47FE-A4C3-6765E3B4DF94}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{3709ECF8-31A3-4630-B462-DC1F06EEF338}"
+              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}" />
+            <r
+              uid="{28B4ABC6-0A05-401D-8D9F-70992A0772FB}">
+              <p:d />
+            </r>
+            <r
+              uid="{0D57F642-56E7-4087-9356-C56DCEA3F091}">
+              <p:d />
+            </r>
+            <r
+              uid="{85AC0D69-6C39-4691-8D47-A8000B6EA60A}">
+              <p:d />
+            </r>
+            <r
+              uid="{F81FABFC-F140-4F90-8743-DED26863EE9D}"
+              p:after="r[@uid='{3709ECF8-31A3-4630-B462-DC1F06EEF338}']"
+              s:ds="{D77A10C3-C88D-4AD7-94B8-B547583A0854}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{54450FB6-C0FA-4880-BA46-D99E2C439E62}"
+              p:after="r[@uid='{F81FABFC-F140-4F90-8743-DED26863EE9D}']"
+              s:ds="{6F0FE3E4-7E6E-4351-B0DB-7D893C7181DD}"
+              s:id="{93ADFF97-73E8-46AA-9C18-068BDB6232A8}"
+              s:ph="main" />
+            <r
+              uid="{94377EF4-6468-4DBB-A43A-FB2D7BBFD020}"
+              p:after="*[1=2]"
+              s:ds="{CA48A092-BE82-4024-B57A-DADE5D628658}"
+              s:id="{7EE99E6C-C671-468E-8381-C6B9BB1E6416}"
+              s:ph="main" />
+            <r
+              uid="{606DBDA0-AAFF-447A-B2F8-5433CB8107B8}">
+              <p:d />
+            </r>
+            <r
+              uid="{F7113DE4-6D33-4768-B510-981B8992BF48}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Completion & Production Solutions
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>The products and technologies you need to optimize the completion process and production phase of your well&rsquo;s life cycle.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Completion & Production Solutions
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190603T141756Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Completion & Production Solutions
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Completion & Production Solutions
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticgappau
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{ABA9E56C-0FCE-464D-8E09-DB375CDF20D8}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Completion & Production Solutions
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "06e488c1-dad0-4d27-a383-0c9f86a5f2c9"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{4BB3B086-733D-44D8-BDBE-47FE1A1D250F}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: The products and technologies you need to optimize the completion process and production phase of your well’s life cycle.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190603T141756Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{F598B18D-58D4-473C-8A6D-FC37FBCDDBA2}" cropregion="0,160,1920,1262" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190603T141851Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{F598B18D-58D4-473C-8A6D-FC37FBCDDBA2}" cropregion="0,215,1920,1294" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 9
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{82C814F0-E3F8-47FE-A4C3-6765E3B4DF94}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{3709ECF8-31A3-4630-B462-DC1F06EEF338}"
+              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}" />
+            <r
+              uid="{28B4ABC6-0A05-401D-8D9F-70992A0772FB}">
+              <p:d />
+            </r>
+            <r
+              uid="{0D57F642-56E7-4087-9356-C56DCEA3F091}">
+              <p:d />
+            </r>
+            <r
+              uid="{85AC0D69-6C39-4691-8D47-A8000B6EA60A}">
+              <p:d />
+            </r>
+            <r
+              uid="{F81FABFC-F140-4F90-8743-DED26863EE9D}"
+              p:after="r[@uid='{3709ECF8-31A3-4630-B462-DC1F06EEF338}']"
+              s:ds="{D77A10C3-C88D-4AD7-94B8-B547583A0854}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{54450FB6-C0FA-4880-BA46-D99E2C439E62}"
+              p:after="r[@uid='{F81FABFC-F140-4F90-8743-DED26863EE9D}']"
+              s:ds="{6F0FE3E4-7E6E-4351-B0DB-7D893C7181DD}"
+              s:id="{93ADFF97-73E8-46AA-9C18-068BDB6232A8}"
+              s:ph="main" />
+            <r
+              uid="{94377EF4-6468-4DBB-A43A-FB2D7BBFD020}"
+              p:after="*[1=2]"
+              s:ds="{CA48A092-BE82-4024-B57A-DADE5D628658}"
+              s:id="{7EE99E6C-C671-468E-8381-C6B9BB1E6416}"
+              s:ph="main" />
+            <r
+              uid="{606DBDA0-AAFF-447A-B2F8-5433CB8107B8}">
+              <p:d />
+            </r>
+            <r
+              uid="{F7113DE4-6D33-4768-B510-981B8992BF48}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Completion & Production Solutions
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>The products and technologies you need to optimize the completion process and production phase of your well&rsquo;s life cycle.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Completion & Production Solutions
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190604T193816Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Completion & Production Solutions
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Completion & Production Solutions
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticgappau
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joannazhu
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{ABA9E56C-0FCE-464D-8E09-DB375CDF20D8}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Completion & Production Solutions
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "82cf6829-2d02-4b66-a09a-0fba0533532f"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{4BB3B086-733D-44D8-BDBE-47FE1A1D250F}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\joannazhu
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: The products and technologies you need to optimize the completion process and production phase of your well’s life cycle.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190604T193816Z
+    - ID: "d4431923-68cf-42a0-a27e-db945d791fdb"
+      Hint: Canonical URL
+      Value: "https://www.nov.com/about/our-company-structure/caps"
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{F598B18D-58D4-473C-8A6D-FC37FBCDDBA2}" cropregion="0,160,1920,1262" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190604T193914Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{F598B18D-58D4-473C-8A6D-FC37FBCDDBA2}" cropregion="0,215,1920,1294" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 10
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{BC337417-19A8-4E4D-8C31-E8C142DFE8DD}"
+              p:before="*"
+              s:ds="{F3DD5634-3E3B-4828-A3EF-5317CD30F95C}"
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:ph="/main/hero-slide-{D6B5AB67-DFA6-42FA-9D09-73F9B9035DB7}-0" />
+            <r
+              uid="{5CBB1A68-9C3E-44C1-867D-448FDAFA0299}"
+              p:after="r[@uid='{BC337417-19A8-4E4D-8C31-E8C142DFE8DD}']"
+              s:ds="{16C2893D-0B14-40AC-B9FB-24969B9D6342}"
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:ph="/main/hero-slide-{D6B5AB67-DFA6-42FA-9D09-73F9B9035DB7}-0" />
+            <r
+              uid="{1537673F-767B-4FB1-AD00-1F44AF6B9A2F}"
+              p:after="r[@uid='{5CBB1A68-9C3E-44C1-867D-448FDAFA0299}']"
+              s:ds="{924922E8-D0F2-427F-9B14-B208CF88595B}"
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:ph="/main/hero-slide-{D6B5AB67-DFA6-42FA-9D09-73F9B9035DB7}-0" />
+            <r
+              uid="{4A4B4DE8-B489-4B51-8CEF-2DB892A351A3}"
+              p:after="r[@uid='{1537673F-767B-4FB1-AD00-1F44AF6B9A2F}']"
+              s:ds="{B1CE1251-D9DF-46BE-856E-5DDCA5D5B3B7}"
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:ph="/main/hero-slide-{D6B5AB67-DFA6-42FA-9D09-73F9B9035DB7}-0" />
+            <r
+              uid="{3EB64CBE-2276-492E-B466-5E717E6826B5}"
+              p:after="r[@uid='{4A4B4DE8-B489-4B51-8CEF-2DB892A351A3}']"
+              s:ds="{BE5D3907-5F6B-425C-A3FB-130C9E83ACF7}"
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:ph="/main/hero-slide-{D6B5AB67-DFA6-42FA-9D09-73F9B9035DB7}-0" />
+            <r
+              uid="{8760844D-5AA6-4539-9DF7-5570DA6F8A42}"
+              p:after="r[@uid='{3EB64CBE-2276-492E-B466-5E717E6826B5}']"
+              s:ds="{0CBA5D59-77D0-4796-921B-F704CE95CD39}"
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:ph="/main/hero-slide-{D6B5AB67-DFA6-42FA-9D09-73F9B9035DB7}-0" />
+            <r
+              uid="{8B147D9E-FA1F-4043-9873-F7712189440E}"
+              p:after="r[@uid='{8760844D-5AA6-4539-9DF7-5570DA6F8A42}']"
+              s:ds="{34681404-366C-40B7-B960-CFE74D7ACC12}"
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:ph="/main/hero-slide-{D6B5AB67-DFA6-42FA-9D09-73F9B9035DB7}-0" />
+            <r
+              uid="{15EA1D21-2603-4FF4-B5A7-F835109D31B5}"
+              p:after="r[@uid='{8B147D9E-FA1F-4043-9873-F7712189440E}']"
+              s:ds="{F73AAB8E-C273-4A67-9BA1-6DC680D92E3B}"
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:ph="/main/hero-slide-{D6B5AB67-DFA6-42FA-9D09-73F9B9035DB7}-0" />
+            <r
+              uid="{D6B5AB67-DFA6-42FA-9D09-73F9B9035DB7}"
+              p:after="r[@uid='{15EA1D21-2603-4FF4-B5A7-F835109D31B5}']"
+              s:ds="{C8A09972-90A9-4ABC-ABB2-FF421D9E91AD}"
+              s:id="{AB213187-9551-4F9B-AE3D-261BB2B2434F}"
+              s:ph="main" />
+            <r
+              uid="{3709ECF8-31A3-4630-B462-DC1F06EEF338}">
+              <p:d />
+            </r>
+            <r
+              uid="{28B4ABC6-0A05-401D-8D9F-70992A0772FB}">
+              <p:d />
+            </r>
+            <r
+              uid="{0D57F642-56E7-4087-9356-C56DCEA3F091}">
+              <p:d />
+            </r>
+            <r
+              uid="{85AC0D69-6C39-4691-8D47-A8000B6EA60A}">
+              <p:d />
+            </r>
+            <r
+              uid="{F81FABFC-F140-4F90-8743-DED26863EE9D}"
+              p:after="r[@uid='{82C814F0-E3F8-47FE-A4C3-6765E3B4DF94}']"
+              s:ds="{D77A10C3-C88D-4AD7-94B8-B547583A0854}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{54450FB6-C0FA-4880-BA46-D99E2C439E62}"
+              p:after="r[@uid='{F81FABFC-F140-4F90-8743-DED26863EE9D}']"
+              s:ds="{6F0FE3E4-7E6E-4351-B0DB-7D893C7181DD}"
+              s:id="{93ADFF97-73E8-46AA-9C18-068BDB6232A8}"
+              s:ph="main" />
+            <r
+              uid="{94377EF4-6468-4DBB-A43A-FB2D7BBFD020}"
+              p:after="r[@uid='{54450FB6-C0FA-4880-BA46-D99E2C439E62}']"
+              s:ds="{CA48A092-BE82-4024-B57A-DADE5D628658}"
+              s:id="{7EE99E6C-C671-468E-8381-C6B9BB1E6416}"
+              s:ph="main" />
+            <r
+              uid="{2B067BA4-D5FB-4650-9D79-C58342893442}"
+              p:after="*[1=2]"
+              s:ds="{E40DA2C4-8641-479C-A8E1-3E97331CF1D8}"
+              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
+              s:par="Use Button for Link"
+              s:ph="main" />
+            <r
+              uid="{606DBDA0-AAFF-447A-B2F8-5433CB8107B8}">
+              <p:d />
+            </r>
+            <r
+              uid="{F7113DE4-6D33-4768-B510-981B8992BF48}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Completion & Production Solutions
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>The products and technologies you need to optimize the completion process and production phase of your well&rsquo;s life cycle.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Completion & Production Solutions
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190628T153359Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Completion & Production Solutions
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Completion & Production Solutions
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticgappau
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{ABA9E56C-0FCE-464D-8E09-DB375CDF20D8}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Completion & Production Solutions
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8e5119e8-1093-4135-a388-966054edf837"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{4BB3B086-733D-44D8-BDBE-47FE1A1D250F}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\varalakshmi.md@horizontal.com
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: The products and technologies you need to optimize the completion process and production phase of your well’s life cycle.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190628T153359Z
+    - ID: "d4431923-68cf-42a0-a27e-db945d791fdb"
+      Hint: Canonical URL
+      Value: "https://www.nov.com/about/our-company-structure/caps"
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{F598B18D-58D4-473C-8A6D-FC37FBCDDBA2}" cropregion="0,160,1920,1262" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230725T094548Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{F598B18D-58D4-473C-8A6D-FC37FBCDDBA2}" cropregion="0,215,1920,1294" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />

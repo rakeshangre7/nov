@@ -1,0 +1,778 @@
+﻿---
+ID: "44f53cb5-7f59-4949-9f56-d6fc4cfa4ddc"
+Parent: "fe9eea38-ff53-4647-91bc-2667ac395223"
+Template: "2ff882b0-4f69-4f0d-9d30-c3b5396f0e5b"
+Path: /sitecore/content/nov/nov/Home/About/NOV Today Podcast/Episode 22 NOVOS Expert Panel Part 1
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: "-300"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{61E8E63A-EAAC-4A7F-80B7-69DBEA881816}"
+              p:before="*"
+              s:ds="{AAE839BF-E257-42D8-BFE9-FEB1922F437A}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:par=""
+              s:ph="" />
+            <r
+              uid="{E6FEA661-CF5B-4835-BD45-E287DFE79E8A}"
+              p:after="r[@uid='{61E8E63A-EAAC-4A7F-80B7-69DBEA881816}']"
+              s:ds="{77530579-5637-4536-AB95-369CFE67A10F}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:par=""
+              s:ph="" />
+            <r
+              uid="{84B35419-1C79-4AF6-A8A0-5356A0E8AA61}"
+              p:after="r[@uid='{E6FEA661-CF5B-4835-BD45-E287DFE79E8A}']"
+              s:ds="{000D3A9A-21FD-4190-B79A-FBFE49C6315E}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:par=""
+              s:ph="" />
+            <r
+              uid="{62476742-2249-429A-8E55-CCFF10104DC7}"
+              p:after="r[@uid='{84B35419-1C79-4AF6-A8A0-5356A0E8AA61}']"
+              s:ds="{C0C6AAB1-0D2A-43FC-B0F9-60641C9C5179}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:par=""
+              s:ph="" />
+            <r
+              uid="{D99AE144-0D70-4D35-8823-555617E05EB6}"
+              p:after="r[@uid='{62476742-2249-429A-8E55-CCFF10104DC7}']"
+              s:ds=""
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:par=""
+              s:ph="" />
+            <r
+              uid="{C2BCB46D-6150-4DC1-A68A-F00DC063F945}"
+              p:after="r[@uid='{D99AE144-0D70-4D35-8823-555617E05EB6}']"
+              s:ds=""
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:par=""
+              s:ph="" />
+            <r
+              uid="{646383F8-FCE3-42B9-BB4A-6B64174B2317}"
+              p:after="r[@uid='{C2BCB46D-6150-4DC1-A68A-F00DC063F945}']"
+              s:ds=""
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:par=""
+              s:ph="" />
+            <r
+              uid="{9B4417AB-C22F-4C76-B2DC-98F2FCA8A71E}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white"
+              s:ph="" />
+            <r
+              uid="{10CEBA25-FC2A-4F84-8760-9B825D4EAF06}">
+              <p:d />
+            </r>
+            <r
+              uid="{37DC6908-9973-4BF3-AA1F-616581927F03}">
+              <p:d />
+            </r>
+            <r
+              uid="{3A4E7139-50CB-4BD5-AB2E-460BC7CE5AAF}">
+              <p:d />
+            </r>
+            <r
+              uid="{29B80482-A671-447F-BB46-8121D422BD81}">
+              <p:d />
+            </r>
+            <r
+              uid="{97344B92-7C95-4AC5-BA52-015B4E4B60A0}">
+              <p:d />
+            </r>
+            <r
+              uid="{7FCE1D2B-E077-4A3D-AF80-996014D9B527}">
+              <p:d />
+            </r>
+            <r
+              uid="{B7906B15-B51F-4DDA-9D56-0D4EDD3DF208}">
+              <p:d />
+            </r>
+            <r
+              uid="{E7AB4F0B-FA15-4B35-B1A3-6615E920A5B5}"
+              p:after="r[@uid='{901672BD-109F-4BA8-9932-A6A9CA1537C0}']"
+              s:ds="{D5EFAA16-A0D1-46F3-97AC-12DAE734FD1D}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{2E8BDB7F-8319-4B35-8D46-0AEB0BCE1E70}"
+              p:after="r[@uid='{E7AB4F0B-FA15-4B35-B1A3-6615E920A5B5}']"
+              s:ds="{7A2D22CD-0D5C-4FEC-B7E6-15C20117121D}"
+              s:id="{71A65776-7C98-40A6-9511-4C02F045B351}"
+              s:ph="main" />
+            <r
+              uid="{BFF1992F-634A-4388-8C8E-E120E602E832}"
+              p:after="r[@uid='{2E8BDB7F-8319-4B35-8D46-0AEB0BCE1E70}']"
+              s:ds="{5BC0A845-EC8B-472A-A8FC-495AFBEE53D6}"
+              s:id="{2E6C5F1E-BC4A-4FBE-BC72-FBCB237F8DDC}"
+              s:ph="main" />
+            <r
+              uid="{DCB0CE1D-8527-49B5-8E9E-04693D62731A}"
+              p:after="r[@uid='{BFF1992F-634A-4388-8C8E-E120E602E832}']"
+              s:id="{6932DD17-1CD9-4D03-93B7-3C0A92EB8229}"
+              s:ph="main" />
+            <r
+              uid="{B443BD8C-2275-4274-9674-379E2006F027}"
+              p:after="r[@uid='{DCB0CE1D-8527-49B5-8E9E-04693D62731A}']"
+              s:ds="{9D77EB5A-16F6-4A8D-A1EB-580EE6310A86}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{D8651926-F175-4026-BB84-DC886DE6DE69}"
+              p:after="r[@uid='{B443BD8C-2275-4274-9674-379E2006F027}']"
+              s:ds="{8D09DBED-B1A3-44AE-BC46-5C2AFFEA7E06}"
+              s:id="{339A27F1-D5BB-4D77-8097-C659C900ECE6}"
+              s:ph="main" />
+            <r
+              uid="{2D452BD8-8C56-4892-84DC-D2BFAE480511}"
+              p:after="*[1=2]"
+              s:ds="{227E34D3-FAC2-4A6B-B358-872ADA75C7D8}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{9B9C6914-204E-47B8-ABD6-F2712DC7BB72}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "0ae9d850-5782-4904-b517-9c3efb268b2e"
+      Hint: Body
+      Value: <p>Join us on this first of three episodes as we take a closer look at the NOVOS Reflexive Drilling System and hear from the experts themselves.</p>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: NOVOS Expert Panel – Part 1
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: With guest Craig Johnson
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: NOVOS Expert Panel – Part 1
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190927T202503Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: NOVOS Expert Panel – Part 1
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: NOVOS Expert Panel – Part 1
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: NOVOS Expert Panel – Part 1
+    - ID: "79268dbb-e7ff-47be-b022-ead0c45d0cfa"
+      Hint: Guest Names
+      Value: Craig Johnson
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "39b2465c-bf67-4cc9-9b5b-3751f8b95884"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{BA3828AF-5EF2-4318-B72A-AF9B21812EB6}"
+    - ID: "a460cc7f-b024-4434-b13f-00f288a04b7c"
+      Hint: Episode Number
+      Value: 22
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\joannazhu
+    - ID: "bf69c7e1-1928-47e6-b2d7-fa0b551766f5"
+      Hint: Soundcloud Embed Code
+      Value: |
+        <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/695879017&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Join us on this first of three episodes as we take a closer look at the NOVOS Reflexive Drilling System and hear from the experts themselves.
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{BB607F4E-D7BC-4124-BAB5-CE37B159AB15}" cropregion="0,87,1920,1191" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20191016T212653Z
+    - ID: "e002c6d8-8864-4c8d-bf1d-dacfd00fd8c2"
+      Hint: Episode Title
+      Value: NOVOS Expert Panel – Part 1
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{BB607F4E-D7BC-4124-BAB5-CE37B159AB15}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" />
+    - ID: "f967d171-98a0-477f-8290-ee0c5257a52f"
+      Hint: Podcast Length
+      Value: "11:30"
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1B2015CC-1302-40A7-95B7-934E33AC89FA}"
+              p:before="*"
+              s:ds="{AAE839BF-E257-42D8-BFE9-FEB1922F437A}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{DCB0CE1D-8527-49B5-8E9E-04693D62731A}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{8B629F80-5274-4A87-AA7E-418275D68CEE}"
+              p:after="r[@uid='{1B2015CC-1302-40A7-95B7-934E33AC89FA}']"
+              s:ds="{77530579-5637-4536-AB95-369CFE67A10F}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{DCB0CE1D-8527-49B5-8E9E-04693D62731A}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{F4D8482F-BF58-42DD-B99A-8AE3B14AA792}"
+              p:after="r[@uid='{8B629F80-5274-4A87-AA7E-418275D68CEE}']"
+              s:ds="{000D3A9A-21FD-4190-B79A-FBFE49C6315E}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{DCB0CE1D-8527-49B5-8E9E-04693D62731A}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top" />
+            <r
+              uid="{8D701000-6077-4B30-ADD6-D419AA0350D4}"
+              p:after="r[@uid='{F4D8482F-BF58-42DD-B99A-8AE3B14AA792}']"
+              s:ds="{C0C6AAB1-0D2A-43FC-B0F9-60641C9C5179}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{DCB0CE1D-8527-49B5-8E9E-04693D62731A}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-top" />
+            <r
+              uid="{2C7F6369-FA09-452B-A1FB-292D0A37680E}"
+              p:after="r[@uid='{8D701000-6077-4B30-ADD6-D419AA0350D4}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{DCB0CE1D-8527-49B5-8E9E-04693D62731A}-0/image-block-splitter-960x1080-right" />
+            <r
+              uid="{F313A6B3-BBDF-4322-8972-2D5013CEE475}"
+              p:after="r[@uid='{2C7F6369-FA09-452B-A1FB-292D0A37680E}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{DCB0CE1D-8527-49B5-8E9E-04693D62731A}-0/image-block-splitter-960x1080-left" />
+            <r
+              uid="{3465CEC8-1467-4B66-8ED5-CC0D599BCD0F}"
+              p:after="r[@uid='{F313A6B3-BBDF-4322-8972-2D5013CEE475}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main-{DCB0CE1D-8527-49B5-8E9E-04693D62731A}-0" />
+            <r
+              uid="{E2E739B4-60B8-41F3-AE0A-024F79BC1B21}"
+              p:after="r[@uid='{3465CEC8-1467-4B66-8ED5-CC0D599BCD0F}']"
+              s:ds="{778214FC-C4D3-4BD9-B175-1E0B8D826208}"
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:ph="/main/hero-slide-{901672BD-109F-4BA8-9932-A6A9CA1537C0}-0" />
+            <r
+              uid="{61E8E63A-EAAC-4A7F-80B7-69DBEA881816}"
+              p:after="r[@uid='{E2E739B4-60B8-41F3-AE0A-024F79BC1B21}']"
+              s:ds="{AAE839BF-E257-42D8-BFE9-FEB1922F437A}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:par=""
+              s:ph="" />
+            <r
+              uid="{E6FEA661-CF5B-4835-BD45-E287DFE79E8A}"
+              p:after="r[@uid='{61E8E63A-EAAC-4A7F-80B7-69DBEA881816}']"
+              s:ds="{77530579-5637-4536-AB95-369CFE67A10F}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:par=""
+              s:ph="" />
+            <r
+              uid="{84B35419-1C79-4AF6-A8A0-5356A0E8AA61}"
+              p:after="r[@uid='{E6FEA661-CF5B-4835-BD45-E287DFE79E8A}']"
+              s:ds="{000D3A9A-21FD-4190-B79A-FBFE49C6315E}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:par=""
+              s:ph="" />
+            <r
+              uid="{62476742-2249-429A-8E55-CCFF10104DC7}"
+              p:after="r[@uid='{84B35419-1C79-4AF6-A8A0-5356A0E8AA61}']"
+              s:ds="{C0C6AAB1-0D2A-43FC-B0F9-60641C9C5179}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:par=""
+              s:ph="" />
+            <r
+              uid="{D99AE144-0D70-4D35-8823-555617E05EB6}"
+              p:after="r[@uid='{62476742-2249-429A-8E55-CCFF10104DC7}']"
+              s:ds=""
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:par=""
+              s:ph="" />
+            <r
+              uid="{C2BCB46D-6150-4DC1-A68A-F00DC063F945}"
+              p:after="r[@uid='{D99AE144-0D70-4D35-8823-555617E05EB6}']"
+              s:ds=""
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:par=""
+              s:ph="" />
+            <r
+              uid="{646383F8-FCE3-42B9-BB4A-6B64174B2317}"
+              p:after="r[@uid='{C2BCB46D-6150-4DC1-A68A-F00DC063F945}']"
+              s:ds=""
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:par=""
+              s:ph="" />
+            <r
+              uid="{9B4417AB-C22F-4C76-B2DC-98F2FCA8A71E}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white"
+              s:ph="" />
+            <r
+              uid="{10CEBA25-FC2A-4F84-8760-9B825D4EAF06}">
+              <p:d />
+            </r>
+            <r
+              uid="{37DC6908-9973-4BF3-AA1F-616581927F03}">
+              <p:d />
+            </r>
+            <r
+              uid="{3A4E7139-50CB-4BD5-AB2E-460BC7CE5AAF}">
+              <p:d />
+            </r>
+            <r
+              uid="{29B80482-A671-447F-BB46-8121D422BD81}">
+              <p:d />
+            </r>
+            <r
+              uid="{97344B92-7C95-4AC5-BA52-015B4E4B60A0}">
+              <p:d />
+            </r>
+            <r
+              uid="{7FCE1D2B-E077-4A3D-AF80-996014D9B527}">
+              <p:d />
+            </r>
+            <r
+              uid="{B7906B15-B51F-4DDA-9D56-0D4EDD3DF208}">
+              <p:d />
+            </r>
+            <r
+              uid="{E7AB4F0B-FA15-4B35-B1A3-6615E920A5B5}"
+              p:after="r[@uid='{901672BD-109F-4BA8-9932-A6A9CA1537C0}']"
+              s:ds="{D5EFAA16-A0D1-46F3-97AC-12DAE734FD1D}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{2E8BDB7F-8319-4B35-8D46-0AEB0BCE1E70}"
+              p:after="r[@uid='{E7AB4F0B-FA15-4B35-B1A3-6615E920A5B5}']"
+              s:ds="{7A2D22CD-0D5C-4FEC-B7E6-15C20117121D}"
+              s:id="{71A65776-7C98-40A6-9511-4C02F045B351}"
+              s:ph="main" />
+            <r
+              uid="{BFF1992F-634A-4388-8C8E-E120E602E832}"
+              p:after="r[@uid='{2E8BDB7F-8319-4B35-8D46-0AEB0BCE1E70}']"
+              s:ds="{5BC0A845-EC8B-472A-A8FC-495AFBEE53D6}"
+              s:id="{2E6C5F1E-BC4A-4FBE-BC72-FBCB237F8DDC}"
+              s:ph="main" />
+            <r
+              uid="{DCB0CE1D-8527-49B5-8E9E-04693D62731A}"
+              p:after="r[@uid='{BFF1992F-634A-4388-8C8E-E120E602E832}']"
+              s:id="{6932DD17-1CD9-4D03-93B7-3C0A92EB8229}"
+              s:ph="main" />
+            <r
+              uid="{B443BD8C-2275-4274-9674-379E2006F027}"
+              p:after="r[@uid='{DCB0CE1D-8527-49B5-8E9E-04693D62731A}']"
+              s:ds="{9D77EB5A-16F6-4A8D-A1EB-580EE6310A86}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{D8651926-F175-4026-BB84-DC886DE6DE69}"
+              p:after="r[@uid='{B443BD8C-2275-4274-9674-379E2006F027}']"
+              s:ds="{8D09DBED-B1A3-44AE-BC46-5C2AFFEA7E06}"
+              s:id="{339A27F1-D5BB-4D77-8097-C659C900ECE6}"
+              s:ph="main" />
+            <r
+              uid="{2D452BD8-8C56-4892-84DC-D2BFAE480511}"
+              p:after="*[1=2]"
+              s:ds="{227E34D3-FAC2-4A6B-B358-872ADA75C7D8}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{9B9C6914-204E-47B8-ABD6-F2712DC7BB72}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "0ae9d850-5782-4904-b517-9c3efb268b2e"
+      Hint: Body
+      Value: <p>Join us on this first of three episodes as we take a closer look at the NOVOS Reflexive Drilling System and hear from the experts themselves.</p>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: NOVOS Expert Panel – Part 1
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: With guest Craig Johnson
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: NOVOS Expert Panel – Part 1
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191016T213732Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: NOVOS Expert Panel – Part 1
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: NOVOS Expert Panel – Part 1
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joannazhu
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: NOVOS Expert Panel – Part 1
+    - ID: "79268dbb-e7ff-47be-b022-ead0c45d0cfa"
+      Hint: Guest Names
+      Value: Craig Johnson
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "77195bce-9662-4376-96d3-b2e746c85d52"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{BA3828AF-5EF2-4318-B72A-AF9B21812EB6}"
+    - ID: "a460cc7f-b024-4434-b13f-00f288a04b7c"
+      Hint: Episode Number
+      Value: 22
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\joannazhu
+    - ID: "bf69c7e1-1928-47e6-b2d7-fa0b551766f5"
+      Hint: Soundcloud Embed Code
+      Value: |
+        <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/695879017&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Join us on this first of three episodes as we take a closer look at the NOVOS Reflexive Drilling System and hear from the experts themselves.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20191016T213732Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{BB607F4E-D7BC-4124-BAB5-CE37B159AB15}" cropregion="0,87,1920,1191" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20191016T214316Z
+    - ID: "e002c6d8-8864-4c8d-bf1d-dacfd00fd8c2"
+      Hint: Episode Title
+      Value: NOVOS Expert Panel – Part 1
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{BB607F4E-D7BC-4124-BAB5-CE37B159AB15}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" />
+    - ID: "f967d171-98a0-477f-8290-ee0c5257a52f"
+      Hint: Podcast Length
+      Value: "11:30"
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1B2015CC-1302-40A7-95B7-934E33AC89FA}"
+              p:before="*"
+              s:ds="{AAE839BF-E257-42D8-BFE9-FEB1922F437A}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{DCB0CE1D-8527-49B5-8E9E-04693D62731A}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{8B629F80-5274-4A87-AA7E-418275D68CEE}"
+              p:after="r[@uid='{1B2015CC-1302-40A7-95B7-934E33AC89FA}']"
+              s:ds="{77530579-5637-4536-AB95-369CFE67A10F}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{DCB0CE1D-8527-49B5-8E9E-04693D62731A}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{F4D8482F-BF58-42DD-B99A-8AE3B14AA792}"
+              p:after="r[@uid='{8B629F80-5274-4A87-AA7E-418275D68CEE}']"
+              s:ds="{000D3A9A-21FD-4190-B79A-FBFE49C6315E}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{DCB0CE1D-8527-49B5-8E9E-04693D62731A}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top" />
+            <r
+              uid="{8D701000-6077-4B30-ADD6-D419AA0350D4}"
+              p:after="r[@uid='{F4D8482F-BF58-42DD-B99A-8AE3B14AA792}']"
+              s:ds="{C0C6AAB1-0D2A-43FC-B0F9-60641C9C5179}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{DCB0CE1D-8527-49B5-8E9E-04693D62731A}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-top" />
+            <r
+              uid="{2C7F6369-FA09-452B-A1FB-292D0A37680E}"
+              p:after="r[@uid='{8D701000-6077-4B30-ADD6-D419AA0350D4}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{DCB0CE1D-8527-49B5-8E9E-04693D62731A}-0/image-block-splitter-960x1080-right" />
+            <r
+              uid="{F313A6B3-BBDF-4322-8972-2D5013CEE475}"
+              p:after="r[@uid='{2C7F6369-FA09-452B-A1FB-292D0A37680E}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{DCB0CE1D-8527-49B5-8E9E-04693D62731A}-0/image-block-splitter-960x1080-left" />
+            <r
+              uid="{3465CEC8-1467-4B66-8ED5-CC0D599BCD0F}"
+              p:after="r[@uid='{F313A6B3-BBDF-4322-8972-2D5013CEE475}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main-{DCB0CE1D-8527-49B5-8E9E-04693D62731A}-0" />
+            <r
+              uid="{E2E739B4-60B8-41F3-AE0A-024F79BC1B21}"
+              p:after="r[@uid='{3465CEC8-1467-4B66-8ED5-CC0D599BCD0F}']"
+              s:ds="{778214FC-C4D3-4BD9-B175-1E0B8D826208}"
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:par="Add Gradient=1&amp;Text Color=white"
+              s:ph="/main/hero-slide-{901672BD-109F-4BA8-9932-A6A9CA1537C0}-0" />
+            <r
+              uid="{61E8E63A-EAAC-4A7F-80B7-69DBEA881816}"
+              p:after="r[@uid='{E2E739B4-60B8-41F3-AE0A-024F79BC1B21}']"
+              s:ds="{AAE839BF-E257-42D8-BFE9-FEB1922F437A}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:par=""
+              s:ph="" />
+            <r
+              uid="{E6FEA661-CF5B-4835-BD45-E287DFE79E8A}"
+              p:after="r[@uid='{61E8E63A-EAAC-4A7F-80B7-69DBEA881816}']"
+              s:ds="{77530579-5637-4536-AB95-369CFE67A10F}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:par=""
+              s:ph="" />
+            <r
+              uid="{84B35419-1C79-4AF6-A8A0-5356A0E8AA61}"
+              p:after="r[@uid='{E6FEA661-CF5B-4835-BD45-E287DFE79E8A}']"
+              s:ds="{000D3A9A-21FD-4190-B79A-FBFE49C6315E}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:par=""
+              s:ph="" />
+            <r
+              uid="{62476742-2249-429A-8E55-CCFF10104DC7}"
+              p:after="r[@uid='{84B35419-1C79-4AF6-A8A0-5356A0E8AA61}']"
+              s:ds="{C0C6AAB1-0D2A-43FC-B0F9-60641C9C5179}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:par=""
+              s:ph="" />
+            <r
+              uid="{D99AE144-0D70-4D35-8823-555617E05EB6}"
+              p:after="r[@uid='{62476742-2249-429A-8E55-CCFF10104DC7}']"
+              s:ds=""
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:par=""
+              s:ph="" />
+            <r
+              uid="{C2BCB46D-6150-4DC1-A68A-F00DC063F945}"
+              p:after="r[@uid='{D99AE144-0D70-4D35-8823-555617E05EB6}']"
+              s:ds=""
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:par=""
+              s:ph="" />
+            <r
+              uid="{646383F8-FCE3-42B9-BB4A-6B64174B2317}"
+              p:after="r[@uid='{C2BCB46D-6150-4DC1-A68A-F00DC063F945}']"
+              s:ds=""
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:par=""
+              s:ph="" />
+            <r
+              uid="{9B4417AB-C22F-4C76-B2DC-98F2FCA8A71E}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white"
+              s:ph="" />
+            <r
+              uid="{10CEBA25-FC2A-4F84-8760-9B825D4EAF06}">
+              <p:d />
+            </r>
+            <r
+              uid="{37DC6908-9973-4BF3-AA1F-616581927F03}">
+              <p:d />
+            </r>
+            <r
+              uid="{3A4E7139-50CB-4BD5-AB2E-460BC7CE5AAF}">
+              <p:d />
+            </r>
+            <r
+              uid="{29B80482-A671-447F-BB46-8121D422BD81}">
+              <p:d />
+            </r>
+            <r
+              uid="{97344B92-7C95-4AC5-BA52-015B4E4B60A0}">
+              <p:d />
+            </r>
+            <r
+              uid="{7FCE1D2B-E077-4A3D-AF80-996014D9B527}">
+              <p:d />
+            </r>
+            <r
+              uid="{B7906B15-B51F-4DDA-9D56-0D4EDD3DF208}">
+              <p:d />
+            </r>
+            <r
+              uid="{E7AB4F0B-FA15-4B35-B1A3-6615E920A5B5}"
+              p:after="r[@uid='{901672BD-109F-4BA8-9932-A6A9CA1537C0}']"
+              s:ds="{D5EFAA16-A0D1-46F3-97AC-12DAE734FD1D}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{2E8BDB7F-8319-4B35-8D46-0AEB0BCE1E70}"
+              p:after="r[@uid='{E7AB4F0B-FA15-4B35-B1A3-6615E920A5B5}']"
+              s:ds="{7A2D22CD-0D5C-4FEC-B7E6-15C20117121D}"
+              s:id="{71A65776-7C98-40A6-9511-4C02F045B351}"
+              s:ph="main" />
+            <r
+              uid="{BFF1992F-634A-4388-8C8E-E120E602E832}"
+              p:after="r[@uid='{2E8BDB7F-8319-4B35-8D46-0AEB0BCE1E70}']"
+              s:ds="{5BC0A845-EC8B-472A-A8FC-495AFBEE53D6}"
+              s:id="{2E6C5F1E-BC4A-4FBE-BC72-FBCB237F8DDC}"
+              s:ph="main" />
+            <r
+              uid="{DCB0CE1D-8527-49B5-8E9E-04693D62731A}"
+              p:after="r[@uid='{BFF1992F-634A-4388-8C8E-E120E602E832}']"
+              s:id="{6932DD17-1CD9-4D03-93B7-3C0A92EB8229}"
+              s:ph="main" />
+            <r
+              uid="{B443BD8C-2275-4274-9674-379E2006F027}"
+              p:after="r[@uid='{DCB0CE1D-8527-49B5-8E9E-04693D62731A}']"
+              s:ds="{9D77EB5A-16F6-4A8D-A1EB-580EE6310A86}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{D8651926-F175-4026-BB84-DC886DE6DE69}"
+              p:after="r[@uid='{B443BD8C-2275-4274-9674-379E2006F027}']"
+              s:ds="{8D09DBED-B1A3-44AE-BC46-5C2AFFEA7E06}"
+              s:id="{339A27F1-D5BB-4D77-8097-C659C900ECE6}"
+              s:ph="main" />
+            <r
+              uid="{2D452BD8-8C56-4892-84DC-D2BFAE480511}"
+              p:after="*[1=2]"
+              s:ds="{227E34D3-FAC2-4A6B-B358-872ADA75C7D8}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{9B9C6914-204E-47B8-ABD6-F2712DC7BB72}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "0ae9d850-5782-4904-b517-9c3efb268b2e"
+      Hint: Body
+      Value: <p>Join us on this first of three episodes as we take a closer look at the NOVOS Reflexive Drilling System and hear from the experts themselves.</p>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: NOVOS Expert Panel – Part 1
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: With guest Craig Johnson
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: NOVOS Expert Panel – Part 1
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191016T214327Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: NOVOS Expert Panel – Part 1
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: NOVOS Expert Panel – Part 1
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joannazhu
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: NOVOS Expert Panel – Part 1
+    - ID: "79268dbb-e7ff-47be-b022-ead0c45d0cfa"
+      Hint: Guest Names
+      Value: Craig Johnson
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c22cd05c-1a1b-45aa-9241-d1ddd2fe908b"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{BA3828AF-5EF2-4318-B72A-AF9B21812EB6}"
+    - ID: "a460cc7f-b024-4434-b13f-00f288a04b7c"
+      Hint: Episode Number
+      Value: 22
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\joannazhu
+    - ID: "bf69c7e1-1928-47e6-b2d7-fa0b551766f5"
+      Hint: Soundcloud Embed Code
+      Value: |
+        <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/695879017&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Join us on this first of three episodes as we take a closer look at the NOVOS Reflexive Drilling System and hear from the experts themselves.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20191016T214327Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{BB607F4E-D7BC-4124-BAB5-CE37B159AB15}" cropregion="0,87,1920,1191" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20191016T214411Z
+    - ID: "e002c6d8-8864-4c8d-bf1d-dacfd00fd8c2"
+      Hint: Episode Title
+      Value: NOVOS Expert Panel – Part 1
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{BB607F4E-D7BC-4124-BAB5-CE37B159AB15}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" />
+    - ID: "f967d171-98a0-477f-8290-ee0c5257a52f"
+      Hint: Podcast Length
+      Value: "11:30"

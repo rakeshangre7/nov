@@ -1,0 +1,1748 @@
+﻿---
+ID: "69422525-4c35-4f80-bfdc-52e1196bb3d4"
+Parent: "a98608ab-b52d-46d3-aa4c-79b35adf2b3f"
+Template: "fa173e9d-ff30-4ddf-93b9-7e6d647c30ae"
+Path: /sitecore/content/nov/nov/Home/About/Our Business Units/Rig Equipment
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}">
+              <p:d />
+            </r>
+            <r
+              uid="{C42EDEEE-8B48-4F2B-8124-0D862437BA57}"
+              p:before="*"
+              s:ds="{D12B3F58-7BF8-4BC8-A5B6-B3435A3C1A49}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{FFB67DE0-6505-4D36-89B1-8DF7E045D371}-0" />
+            <r
+              uid="{27B1C64F-0FF6-461F-B13E-71A28DDA5DC7}"
+              p:after="r[@uid='{C42EDEEE-8B48-4F2B-8124-0D862437BA57}']"
+              s:ds="{43340F78-07FD-4A71-9B69-7F85009713BA}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{FFB67DE0-6505-4D36-89B1-8DF7E045D371}-0" />
+            <r
+              uid="{7996D6FE-2F4E-46C7-92BB-56DCE80942B4}"
+              p:after="r[@uid='{27B1C64F-0FF6-461F-B13E-71A28DDA5DC7}']"
+              s:ds="{934B1EB5-B2E0-4FD2-9969-6EDCD2A9C130}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{FFB67DE0-6505-4D36-89B1-8DF7E045D371}-0" />
+            <r
+              uid="{BC24B769-EE72-4373-AF9D-13FE5AD8BA70}"
+              p:after="r[@uid='{7996D6FE-2F4E-46C7-92BB-56DCE80942B4}']"
+              s:ds="{20BD97A6-CDA2-4065-8D44-0427CB660014}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{FFB67DE0-6505-4D36-89B1-8DF7E045D371}-0" />
+            <r
+              uid="{BC23B550-7954-44A3-875D-A6ED0C93B36F}"
+              p:after="r[@uid='{BC24B769-EE72-4373-AF9D-13FE5AD8BA70}']"
+              s:ds="{D28E2FE1-06C1-4A56-A91D-C17E748C8988}"
+              s:id="{D6F7B1A2-D9A1-4301-85D8-64731201F85B}"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}"
+              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}" />
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}">
+              <p:d />
+            </r>
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
+              <p:d />
+            </r>
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}">
+              <p:d />
+            </r>
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
+              <p:d />
+            </r>
+            <r
+              uid="{ED8F0BD9-5457-4F92-ABDB-4C8272019C46}"
+              p:after="r[@uid='{141E6896-79A7-447B-B58C-9B116C7F55FB}']"
+              s:ds="{EBF49A0C-21CF-4A32-8485-25088F0662CA}"
+              s:id="{A22722F6-65DF-4574-B659-191957028C9B}"
+              s:ph="main" />
+            <r
+              uid="{833540CC-ECBE-4D66-8EDC-78A7DB8E721A}"
+              p:after="r[@uid='{ED8F0BD9-5457-4F92-ABDB-4C8272019C46}']"
+              s:ds="{F9CE7116-7AF2-4F00-A863-18CAB6D0E09B}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="main" />
+            <r
+              uid="{F43CEFC5-95A9-4B93-9F91-A4211D4847A7}"
+              p:after="r[@uid='{833540CC-ECBE-4D66-8EDC-78A7DB8E721A}']"
+              s:ds="{5F599607-D48A-4016-BDDF-F4DF499D4DE6}"
+              s:id="{7EE99E6C-C671-468E-8381-C6B9BB1E6416}"
+              s:ph="main" />
+            <r
+              uid="{FFB67DE0-6505-4D36-89B1-8DF7E045D371}"
+              p:after="r[@uid='{F43CEFC5-95A9-4B93-9F91-A4211D4847A7}']"
+              s:id="{5266AC57-9C33-41AF-B32D-D935FB8DC1F3}"
+              s:ph="main" />
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Rig Equipment
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>We make and support the world&rsquo;s most advanced drilling solutions.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Rig Equipment
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190409T191110Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Rig Equipment
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Rig Equipment
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Rig Equipment
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{51B1ABBB-48D9-4FB3-94AB-7103479664EF}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "40a5f8d4-78b3-4e2f-9345-e4a26775a4ec"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Rig Equipment
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: We make and support the world’s most advanced drilling solutions.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190409T191110Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{B77FB4DE-A79A-40C0-B7E4-83AA43029F47}" cropregion="0,173,1920,1275" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190417T164239Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{B77FB4DE-A79A-40C0-B7E4-83AA43029F47}" cropregion="0,138,1920,1217" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}">
+              <p:d />
+            </r>
+            <r
+              uid="{C42EDEEE-8B48-4F2B-8124-0D862437BA57}"
+              p:before="*"
+              s:ds="{D12B3F58-7BF8-4BC8-A5B6-B3435A3C1A49}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{FFB67DE0-6505-4D36-89B1-8DF7E045D371}-0" />
+            <r
+              uid="{27B1C64F-0FF6-461F-B13E-71A28DDA5DC7}"
+              p:after="r[@uid='{C42EDEEE-8B48-4F2B-8124-0D862437BA57}']"
+              s:ds="{43340F78-07FD-4A71-9B69-7F85009713BA}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{FFB67DE0-6505-4D36-89B1-8DF7E045D371}-0" />
+            <r
+              uid="{7996D6FE-2F4E-46C7-92BB-56DCE80942B4}"
+              p:after="r[@uid='{27B1C64F-0FF6-461F-B13E-71A28DDA5DC7}']"
+              s:ds="{934B1EB5-B2E0-4FD2-9969-6EDCD2A9C130}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{FFB67DE0-6505-4D36-89B1-8DF7E045D371}-0" />
+            <r
+              uid="{BC24B769-EE72-4373-AF9D-13FE5AD8BA70}"
+              p:after="r[@uid='{7996D6FE-2F4E-46C7-92BB-56DCE80942B4}']"
+              s:ds="{20BD97A6-CDA2-4065-8D44-0427CB660014}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{FFB67DE0-6505-4D36-89B1-8DF7E045D371}-0" />
+            <r
+              uid="{BC23B550-7954-44A3-875D-A6ED0C93B36F}"
+              p:after="r[@uid='{BC24B769-EE72-4373-AF9D-13FE5AD8BA70}']"
+              s:ds="{D28E2FE1-06C1-4A56-A91D-C17E748C8988}"
+              s:id="{D6F7B1A2-D9A1-4301-85D8-64731201F85B}"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{0109759E-4600-4B78-A0E6-96D9B8F26CB9}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}"
+              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}" />
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}">
+              <p:d />
+            </r>
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
+              <p:d />
+            </r>
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}">
+              <p:d />
+            </r>
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
+              <p:d />
+            </r>
+            <r
+              uid="{ED8F0BD9-5457-4F92-ABDB-4C8272019C46}"
+              p:after="r[@uid='{141E6896-79A7-447B-B58C-9B116C7F55FB}']"
+              s:ds="{EBF49A0C-21CF-4A32-8485-25088F0662CA}"
+              s:id="{A22722F6-65DF-4574-B659-191957028C9B}"
+              s:ph="main" />
+            <r
+              uid="{833540CC-ECBE-4D66-8EDC-78A7DB8E721A}"
+              p:after="r[@uid='{ED8F0BD9-5457-4F92-ABDB-4C8272019C46}']"
+              s:ds="{F9CE7116-7AF2-4F00-A863-18CAB6D0E09B}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="main" />
+            <r
+              uid="{F43CEFC5-95A9-4B93-9F91-A4211D4847A7}"
+              p:after="r[@uid='{833540CC-ECBE-4D66-8EDC-78A7DB8E721A}']"
+              s:ds="{5F599607-D48A-4016-BDDF-F4DF499D4DE6}"
+              s:id="{7EE99E6C-C671-468E-8381-C6B9BB1E6416}"
+              s:ph="main" />
+            <r
+              uid="{FFB67DE0-6505-4D36-89B1-8DF7E045D371}"
+              p:after="r[@uid='{F43CEFC5-95A9-4B93-9F91-A4211D4847A7}']"
+              s:id="{5266AC57-9C33-41AF-B32D-D935FB8DC1F3}"
+              s:ph="main" />
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Rig Equipment
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>We make and support the world&rsquo;s most advanced drilling solutions.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Rig Equipment
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190426T184005Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Rig Equipment
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Rig Equipment
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Rig Equipment
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{51B1ABBB-48D9-4FB3-94AB-7103479664EF}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f55e9150-a12e-4e86-892e-2915fc606e95"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Rig Equipment
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: We make and support the world’s most advanced drilling solutions.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190426T184005Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{B77FB4DE-A79A-40C0-B7E4-83AA43029F47}" cropregion="0,173,1920,1275" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190426T184034Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{B77FB4DE-A79A-40C0-B7E4-83AA43029F47}" cropregion="0,138,1920,1217" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}">
+              <p:d />
+            </r>
+            <r
+              uid="{80B86B84-9A47-4644-A474-60373EB3637F}"
+              p:before="*"
+              s:ds="{F9CE7116-7AF2-4F00-A863-18CAB6D0E09B}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{C42EDEEE-8B48-4F2B-8124-0D862437BA57}"
+              p:after="r[@uid='{80B86B84-9A47-4644-A474-60373EB3637F}']"
+              s:ds="{D12B3F58-7BF8-4BC8-A5B6-B3435A3C1A49}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{FFB67DE0-6505-4D36-89B1-8DF7E045D371}-0" />
+            <r
+              uid="{27B1C64F-0FF6-461F-B13E-71A28DDA5DC7}"
+              p:after="r[@uid='{C42EDEEE-8B48-4F2B-8124-0D862437BA57}']"
+              s:ds="{43340F78-07FD-4A71-9B69-7F85009713BA}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{FFB67DE0-6505-4D36-89B1-8DF7E045D371}-0" />
+            <r
+              uid="{7996D6FE-2F4E-46C7-92BB-56DCE80942B4}"
+              p:after="r[@uid='{27B1C64F-0FF6-461F-B13E-71A28DDA5DC7}']"
+              s:ds="{934B1EB5-B2E0-4FD2-9969-6EDCD2A9C130}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{FFB67DE0-6505-4D36-89B1-8DF7E045D371}-0" />
+            <r
+              uid="{BC24B769-EE72-4373-AF9D-13FE5AD8BA70}"
+              p:after="r[@uid='{7996D6FE-2F4E-46C7-92BB-56DCE80942B4}']"
+              s:ds="{20BD97A6-CDA2-4065-8D44-0427CB660014}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{FFB67DE0-6505-4D36-89B1-8DF7E045D371}-0" />
+            <r
+              uid="{0109759E-4600-4B78-A0E6-96D9B8F26CB9}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}"
+              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}" />
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}">
+              <p:d />
+            </r>
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
+              <p:d />
+            </r>
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}">
+              <p:d />
+            </r>
+            <r
+              uid="{ED8F0BD9-5457-4F92-ABDB-4C8272019C46}"
+              p:after="r[@uid='{141E6896-79A7-447B-B58C-9B116C7F55FB}']"
+              s:ds="{EBF49A0C-21CF-4A32-8485-25088F0662CA}"
+              s:id="{A22722F6-65DF-4574-B659-191957028C9B}"
+              s:ph="main" />
+            <r
+              uid="{FFB67DE0-6505-4D36-89B1-8DF7E045D371}"
+              p:after="r[@uid='{ED8F0BD9-5457-4F92-ABDB-4C8272019C46}']"
+              s:id="{5266AC57-9C33-41AF-B32D-D935FB8DC1F3}"
+              s:ph="main" />
+            <r
+              uid="{F43CEFC5-95A9-4B93-9F91-A4211D4847A7}"
+              p:after="r[@uid='{FFB67DE0-6505-4D36-89B1-8DF7E045D371}']"
+              s:ds="{5F599607-D48A-4016-BDDF-F4DF499D4DE6}"
+              s:id="{7EE99E6C-C671-468E-8381-C6B9BB1E6416}"
+              s:ph="main" />
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Rig Equipment
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>We make and support the world&rsquo;s most advanced drilling solutions.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Rig Equipment
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190426T184340Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Rig Equipment
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Rig Equipment
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Rig Equipment
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{51B1ABBB-48D9-4FB3-94AB-7103479664EF}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a582eb74-ca96-4dc1-93da-d8b1fb0e9a2e"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Rig Equipment
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: We make and support the world’s most advanced drilling solutions.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190426T184340Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{B77FB4DE-A79A-40C0-B7E4-83AA43029F47}" cropregion="0,173,1920,1275" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190426T184525Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{B77FB4DE-A79A-40C0-B7E4-83AA43029F47}" cropregion="0,138,1920,1217" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 4
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}">
+              <p:d />
+            </r>
+            <r
+              uid="{80B86B84-9A47-4644-A474-60373EB3637F}"
+              p:before="*"
+              s:ds="{F9CE7116-7AF2-4F00-A863-18CAB6D0E09B}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{C42EDEEE-8B48-4F2B-8124-0D862437BA57}"
+              p:after="r[@uid='{80B86B84-9A47-4644-A474-60373EB3637F}']"
+              s:ds="{D12B3F58-7BF8-4BC8-A5B6-B3435A3C1A49}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{FFB67DE0-6505-4D36-89B1-8DF7E045D371}-0" />
+            <r
+              uid="{27B1C64F-0FF6-461F-B13E-71A28DDA5DC7}"
+              p:after="r[@uid='{C42EDEEE-8B48-4F2B-8124-0D862437BA57}']"
+              s:ds="{43340F78-07FD-4A71-9B69-7F85009713BA}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{FFB67DE0-6505-4D36-89B1-8DF7E045D371}-0" />
+            <r
+              uid="{7996D6FE-2F4E-46C7-92BB-56DCE80942B4}"
+              p:after="r[@uid='{27B1C64F-0FF6-461F-B13E-71A28DDA5DC7}']"
+              s:ds="{934B1EB5-B2E0-4FD2-9969-6EDCD2A9C130}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{FFB67DE0-6505-4D36-89B1-8DF7E045D371}-0" />
+            <r
+              uid="{BC24B769-EE72-4373-AF9D-13FE5AD8BA70}"
+              p:after="r[@uid='{7996D6FE-2F4E-46C7-92BB-56DCE80942B4}']"
+              s:ds="{20BD97A6-CDA2-4065-8D44-0427CB660014}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{FFB67DE0-6505-4D36-89B1-8DF7E045D371}-0" />
+            <r
+              uid="{0109759E-4600-4B78-A0E6-96D9B8F26CB9}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}"
+              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}" />
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}">
+              <p:d />
+            </r>
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
+              <p:d />
+            </r>
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}">
+              <p:d />
+            </r>
+            <r
+              uid="{ED8F0BD9-5457-4F92-ABDB-4C8272019C46}"
+              p:after="r[@uid='{141E6896-79A7-447B-B58C-9B116C7F55FB}']"
+              s:ds="{EBF49A0C-21CF-4A32-8485-25088F0662CA}"
+              s:id="{A22722F6-65DF-4574-B659-191957028C9B}"
+              s:ph="main" />
+            <r
+              uid="{FFB67DE0-6505-4D36-89B1-8DF7E045D371}"
+              p:after="r[@uid='{ED8F0BD9-5457-4F92-ABDB-4C8272019C46}']"
+              s:id="{5266AC57-9C33-41AF-B32D-D935FB8DC1F3}"
+              s:ph="main" />
+            <r
+              uid="{F43CEFC5-95A9-4B93-9F91-A4211D4847A7}"
+              p:after="r[@uid='{FFB67DE0-6505-4D36-89B1-8DF7E045D371}']"
+              s:ds="{5F599607-D48A-4016-BDDF-F4DF499D4DE6}"
+              s:id="{7EE99E6C-C671-468E-8381-C6B9BB1E6416}"
+              s:ph="main" />
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Rig Equipment
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>We make and support the world&rsquo;s most advanced drilling solutions.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Rig Equipment
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190426T184648Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Rig Equipment
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Rig Equipment
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Rig Equipment
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{51B1ABBB-48D9-4FB3-94AB-7103479664EF}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "50fbcf78-5f0e-4d32-a235-6bd3d7479ffa"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Rig Equipment
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: We make and support the world’s most advanced drilling solutions.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190426T184648Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{B77FB4DE-A79A-40C0-B7E4-83AA43029F47}" cropregion="0,173,1920,1275" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190426T184733Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{B77FB4DE-A79A-40C0-B7E4-83AA43029F47}" cropregion="0,138,1920,1217" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 5
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}">
+              <p:d />
+            </r>
+            <r
+              uid="{80B86B84-9A47-4644-A474-60373EB3637F}"
+              p:before="*"
+              s:ds="{F9CE7116-7AF2-4F00-A863-18CAB6D0E09B}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{C42EDEEE-8B48-4F2B-8124-0D862437BA57}"
+              p:after="r[@uid='{80B86B84-9A47-4644-A474-60373EB3637F}']"
+              s:ds="{D12B3F58-7BF8-4BC8-A5B6-B3435A3C1A49}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{FFB67DE0-6505-4D36-89B1-8DF7E045D371}-0" />
+            <r
+              uid="{27B1C64F-0FF6-461F-B13E-71A28DDA5DC7}"
+              p:after="r[@uid='{C42EDEEE-8B48-4F2B-8124-0D862437BA57}']"
+              s:ds="{43340F78-07FD-4A71-9B69-7F85009713BA}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{FFB67DE0-6505-4D36-89B1-8DF7E045D371}-0" />
+            <r
+              uid="{7996D6FE-2F4E-46C7-92BB-56DCE80942B4}"
+              p:after="r[@uid='{27B1C64F-0FF6-461F-B13E-71A28DDA5DC7}']"
+              s:ds="{934B1EB5-B2E0-4FD2-9969-6EDCD2A9C130}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{FFB67DE0-6505-4D36-89B1-8DF7E045D371}-0" />
+            <r
+              uid="{BC24B769-EE72-4373-AF9D-13FE5AD8BA70}"
+              p:after="r[@uid='{7996D6FE-2F4E-46C7-92BB-56DCE80942B4}']"
+              s:ds="{20BD97A6-CDA2-4065-8D44-0427CB660014}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{FFB67DE0-6505-4D36-89B1-8DF7E045D371}-0" />
+            <r
+              uid="{0109759E-4600-4B78-A0E6-96D9B8F26CB9}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}"
+              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}" />
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}">
+              <p:d />
+            </r>
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
+              <p:d />
+            </r>
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}">
+              <p:d />
+            </r>
+            <r
+              uid="{ED8F0BD9-5457-4F92-ABDB-4C8272019C46}"
+              p:after="r[@uid='{141E6896-79A7-447B-B58C-9B116C7F55FB}']"
+              s:ds="{EBF49A0C-21CF-4A32-8485-25088F0662CA}"
+              s:id="{A22722F6-65DF-4574-B659-191957028C9B}"
+              s:ph="main" />
+            <r
+              uid="{FFB67DE0-6505-4D36-89B1-8DF7E045D371}"
+              p:after="r[@uid='{ED8F0BD9-5457-4F92-ABDB-4C8272019C46}']"
+              s:id="{5266AC57-9C33-41AF-B32D-D935FB8DC1F3}"
+              s:ph="main" />
+            <r
+              uid="{F43CEFC5-95A9-4B93-9F91-A4211D4847A7}"
+              p:after="r[@uid='{FFB67DE0-6505-4D36-89B1-8DF7E045D371}']"
+              s:ds="{5F599607-D48A-4016-BDDF-F4DF499D4DE6}"
+              s:id="{7EE99E6C-C671-468E-8381-C6B9BB1E6416}"
+              s:ph="main" />
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Rig Equipment
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>We make and support the world&rsquo;s most advanced drilling solutions.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Rig Equipment
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190426T185202Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Rig Equipment
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Rig Equipment
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Rig Equipment
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{51B1ABBB-48D9-4FB3-94AB-7103479664EF}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0e7a17f7-f30e-4726-ba0d-55e3ac82ada3"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Rig Equipment
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: We make and support the world’s most advanced drilling solutions.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190426T185202Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{B77FB4DE-A79A-40C0-B7E4-83AA43029F47}" cropregion="0,173,1920,1275" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190509T184134Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{B77FB4DE-A79A-40C0-B7E4-83AA43029F47}" cropregion="0,138,1920,1217" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 6
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}">
+              <p:d />
+            </r>
+            <r
+              uid="{80B86B84-9A47-4644-A474-60373EB3637F}"
+              p:before="*"
+              s:ds="{F9CE7116-7AF2-4F00-A863-18CAB6D0E09B}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{C42EDEEE-8B48-4F2B-8124-0D862437BA57}"
+              p:after="r[@uid='{80B86B84-9A47-4644-A474-60373EB3637F}']"
+              s:ds="{D12B3F58-7BF8-4BC8-A5B6-B3435A3C1A49}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{FFB67DE0-6505-4D36-89B1-8DF7E045D371}-0" />
+            <r
+              uid="{27B1C64F-0FF6-461F-B13E-71A28DDA5DC7}"
+              p:after="r[@uid='{C42EDEEE-8B48-4F2B-8124-0D862437BA57}']"
+              s:ds="{43340F78-07FD-4A71-9B69-7F85009713BA}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{FFB67DE0-6505-4D36-89B1-8DF7E045D371}-0" />
+            <r
+              uid="{7996D6FE-2F4E-46C7-92BB-56DCE80942B4}"
+              p:after="r[@uid='{27B1C64F-0FF6-461F-B13E-71A28DDA5DC7}']"
+              s:ds="{934B1EB5-B2E0-4FD2-9969-6EDCD2A9C130}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{FFB67DE0-6505-4D36-89B1-8DF7E045D371}-0" />
+            <r
+              uid="{BC24B769-EE72-4373-AF9D-13FE5AD8BA70}"
+              p:after="r[@uid='{7996D6FE-2F4E-46C7-92BB-56DCE80942B4}']"
+              s:ds="{20BD97A6-CDA2-4065-8D44-0427CB660014}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{FFB67DE0-6505-4D36-89B1-8DF7E045D371}-0" />
+            <r
+              uid="{0109759E-4600-4B78-A0E6-96D9B8F26CB9}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}"
+              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}" />
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}">
+              <p:d />
+            </r>
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
+              <p:d />
+            </r>
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}">
+              <p:d />
+            </r>
+            <r
+              uid="{ED8F0BD9-5457-4F92-ABDB-4C8272019C46}"
+              p:after="r[@uid='{141E6896-79A7-447B-B58C-9B116C7F55FB}']"
+              s:ds="{EBF49A0C-21CF-4A32-8485-25088F0662CA}"
+              s:id="{A22722F6-65DF-4574-B659-191957028C9B}"
+              s:ph="main" />
+            <r
+              uid="{FFB67DE0-6505-4D36-89B1-8DF7E045D371}"
+              p:after="r[@uid='{ED8F0BD9-5457-4F92-ABDB-4C8272019C46}']"
+              s:id="{5266AC57-9C33-41AF-B32D-D935FB8DC1F3}"
+              s:ph="main" />
+            <r
+              uid="{F43CEFC5-95A9-4B93-9F91-A4211D4847A7}"
+              p:after="r[@uid='{FFB67DE0-6505-4D36-89B1-8DF7E045D371}']"
+              s:ds="{5F599607-D48A-4016-BDDF-F4DF499D4DE6}"
+              s:id="{7EE99E6C-C671-468E-8381-C6B9BB1E6416}"
+              s:ph="main" />
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Rig Equipment
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>We make and support the world&rsquo;s most advanced drilling solutions.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Rig Equipment
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190521T203322Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Rig Equipment
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Rig Equipment
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Rig Equipment
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{51B1ABBB-48D9-4FB3-94AB-7103479664EF}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "81c96710-163f-419f-8721-08a23877426b"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Rig Equipment
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: We make and support the world’s most advanced drilling solutions.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190521T203322Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{B77FB4DE-A79A-40C0-B7E4-83AA43029F47}" cropregion="0,173,1920,1275" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190521T204355Z
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: rig equipment, drilling rig equipment, drill rig equipment, drilling equipment, oil well drilling equipment
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{B77FB4DE-A79A-40C0-B7E4-83AA43029F47}" cropregion="0,138,1920,1217" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 7
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}">
+              <p:d />
+            </r>
+            <r
+              uid="{80B86B84-9A47-4644-A474-60373EB3637F}"
+              p:before="*"
+              s:ds="{F9CE7116-7AF2-4F00-A863-18CAB6D0E09B}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{C42EDEEE-8B48-4F2B-8124-0D862437BA57}"
+              p:after="r[@uid='{80B86B84-9A47-4644-A474-60373EB3637F}']"
+              s:ds="{D12B3F58-7BF8-4BC8-A5B6-B3435A3C1A49}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{FFB67DE0-6505-4D36-89B1-8DF7E045D371}-0" />
+            <r
+              uid="{27B1C64F-0FF6-461F-B13E-71A28DDA5DC7}"
+              p:after="r[@uid='{C42EDEEE-8B48-4F2B-8124-0D862437BA57}']"
+              s:ds="{43340F78-07FD-4A71-9B69-7F85009713BA}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{FFB67DE0-6505-4D36-89B1-8DF7E045D371}-0" />
+            <r
+              uid="{7996D6FE-2F4E-46C7-92BB-56DCE80942B4}"
+              p:after="r[@uid='{27B1C64F-0FF6-461F-B13E-71A28DDA5DC7}']"
+              s:ds="{934B1EB5-B2E0-4FD2-9969-6EDCD2A9C130}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{FFB67DE0-6505-4D36-89B1-8DF7E045D371}-0" />
+            <r
+              uid="{BC24B769-EE72-4373-AF9D-13FE5AD8BA70}"
+              p:after="r[@uid='{7996D6FE-2F4E-46C7-92BB-56DCE80942B4}']"
+              s:ds="{20BD97A6-CDA2-4065-8D44-0427CB660014}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{FFB67DE0-6505-4D36-89B1-8DF7E045D371}-0" />
+            <r
+              uid="{0109759E-4600-4B78-A0E6-96D9B8F26CB9}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}"
+              s:ds="{68903F16-467C-4C6B-8293-FE603988C0BD}"
+              s:par="Enable Autoplay=true&amp;Add Gradient&amp;Text Color=white&amp;Wait Time=5000" />
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}">
+              <p:d />
+            </r>
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
+              <p:d />
+            </r>
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}">
+              <p:d />
+            </r>
+            <r
+              uid="{ED8F0BD9-5457-4F92-ABDB-4C8272019C46}"
+              p:after="r[@uid='{141E6896-79A7-447B-B58C-9B116C7F55FB}']"
+              s:ds="{EBF49A0C-21CF-4A32-8485-25088F0662CA}"
+              s:id="{A22722F6-65DF-4574-B659-191957028C9B}"
+              s:ph="main" />
+            <r
+              uid="{FFB67DE0-6505-4D36-89B1-8DF7E045D371}"
+              p:after="r[@uid='{ED8F0BD9-5457-4F92-ABDB-4C8272019C46}']"
+              s:id="{5266AC57-9C33-41AF-B32D-D935FB8DC1F3}"
+              s:ph="main" />
+            <r
+              uid="{F43CEFC5-95A9-4B93-9F91-A4211D4847A7}"
+              p:after="r[@uid='{FFB67DE0-6505-4D36-89B1-8DF7E045D371}']"
+              s:ds="{5F599607-D48A-4016-BDDF-F4DF499D4DE6}"
+              s:id="{7EE99E6C-C671-468E-8381-C6B9BB1E6416}"
+              s:ph="main" />
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Rig Equipment
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>We make and support the world&rsquo;s most advanced drilling solutions.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Rig Equipment
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190524T153547Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Rig Equipment
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Rig Equipment
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\arshmomin
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Rig Equipment
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{51B1ABBB-48D9-4FB3-94AB-7103479664EF}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0e00c28a-59fd-4412-9ab5-32464f016d96"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Rig Equipment
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: We make and support the world’s most advanced drilling solutions.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190524T153547Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{B77FB4DE-A79A-40C0-B7E4-83AA43029F47}" cropregion="0,173,1920,1275" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190701T204130Z
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: rig equipment, drilling rig equipment, drill rig equipment, drilling equipment, oil well drilling equipment
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{B77FB4DE-A79A-40C0-B7E4-83AA43029F47}" cropregion="0,138,1920,1217" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 8
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}">
+              <p:d />
+            </r>
+            <r
+              uid="{80B86B84-9A47-4644-A474-60373EB3637F}"
+              p:before="*"
+              s:ds="{F9CE7116-7AF2-4F00-A863-18CAB6D0E09B}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{C42EDEEE-8B48-4F2B-8124-0D862437BA57}"
+              p:after="r[@uid='{80B86B84-9A47-4644-A474-60373EB3637F}']"
+              s:ds="{D12B3F58-7BF8-4BC8-A5B6-B3435A3C1A49}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{FFB67DE0-6505-4D36-89B1-8DF7E045D371}-0" />
+            <r
+              uid="{27B1C64F-0FF6-461F-B13E-71A28DDA5DC7}"
+              p:after="r[@uid='{C42EDEEE-8B48-4F2B-8124-0D862437BA57}']"
+              s:ds="{43340F78-07FD-4A71-9B69-7F85009713BA}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{FFB67DE0-6505-4D36-89B1-8DF7E045D371}-0" />
+            <r
+              uid="{7996D6FE-2F4E-46C7-92BB-56DCE80942B4}"
+              p:after="r[@uid='{27B1C64F-0FF6-461F-B13E-71A28DDA5DC7}']"
+              s:ds="{934B1EB5-B2E0-4FD2-9969-6EDCD2A9C130}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{FFB67DE0-6505-4D36-89B1-8DF7E045D371}-0" />
+            <r
+              uid="{BC24B769-EE72-4373-AF9D-13FE5AD8BA70}"
+              p:after="r[@uid='{7996D6FE-2F4E-46C7-92BB-56DCE80942B4}']"
+              s:ds="{20BD97A6-CDA2-4065-8D44-0427CB660014}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{FFB67DE0-6505-4D36-89B1-8DF7E045D371}-0" />
+            <r
+              uid="{0109759E-4600-4B78-A0E6-96D9B8F26CB9}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}"
+              s:ds="{68903F16-467C-4C6B-8293-FE603988C0BD}"
+              s:par="Enable Autoplay=true&amp;Add Gradient&amp;Text Color=white&amp;Wait Time=5000" />
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}">
+              <p:d />
+            </r>
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
+              <p:d />
+            </r>
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}">
+              <p:d />
+            </r>
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
+              <p:d />
+            </r>
+            <r
+              uid="{ED8F0BD9-5457-4F92-ABDB-4C8272019C46}"
+              p:after="r[@uid='{141E6896-79A7-447B-B58C-9B116C7F55FB}']"
+              s:ds="{EBF49A0C-21CF-4A32-8485-25088F0662CA}"
+              s:id="{A22722F6-65DF-4574-B659-191957028C9B}"
+              s:ph="main" />
+            <r
+              uid="{FFB67DE0-6505-4D36-89B1-8DF7E045D371}"
+              p:after="r[@uid='{ED8F0BD9-5457-4F92-ABDB-4C8272019C46}']"
+              s:id="{5266AC57-9C33-41AF-B32D-D935FB8DC1F3}"
+              s:ph="main" />
+            <r
+              uid="{F43CEFC5-95A9-4B93-9F91-A4211D4847A7}"
+              p:after="r[@uid='{FFB67DE0-6505-4D36-89B1-8DF7E045D371}']"
+              s:ds="{5F599607-D48A-4016-BDDF-F4DF499D4DE6}"
+              s:id="{7EE99E6C-C671-468E-8381-C6B9BB1E6416}"
+              s:ph="main" />
+            <r
+              uid="{ACF4BA70-053C-4B70-8154-55BE3B7210E9}"
+              p:after="r[@uid='{F43CEFC5-95A9-4B93-9F91-A4211D4847A7}']"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Rig Equipment
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>We make and support the world&rsquo;s most advanced drilling solutions.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Rig Equipment
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190701T213450Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Rig Equipment
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Rig Equipment
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Rig Equipment
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{51B1ABBB-48D9-4FB3-94AB-7103479664EF}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "975bbac0-ec78-4b4b-95ad-6a8c28b0337e"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Rig Equipment
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: We make and support the world’s most advanced drilling solutions.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190701T213450Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{B77FB4DE-A79A-40C0-B7E4-83AA43029F47}" cropregion="0,173,1920,1275" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190701T214148Z
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: rig equipment, drilling rig equipment, drill rig equipment, drilling equipment, oil well drilling equipment
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{B77FB4DE-A79A-40C0-B7E4-83AA43029F47}" cropregion="0,138,1920,1217" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 9
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}">
+              <p:d />
+            </r>
+            <r
+              uid="{80B86B84-9A47-4644-A474-60373EB3637F}"
+              p:before="*"
+              s:ds="{F9CE7116-7AF2-4F00-A863-18CAB6D0E09B}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{C42EDEEE-8B48-4F2B-8124-0D862437BA57}"
+              p:after="r[@uid='{80B86B84-9A47-4644-A474-60373EB3637F}']"
+              s:ds="{D12B3F58-7BF8-4BC8-A5B6-B3435A3C1A49}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{FFB67DE0-6505-4D36-89B1-8DF7E045D371}-0" />
+            <r
+              uid="{27B1C64F-0FF6-461F-B13E-71A28DDA5DC7}"
+              p:after="r[@uid='{C42EDEEE-8B48-4F2B-8124-0D862437BA57}']"
+              s:ds="{43340F78-07FD-4A71-9B69-7F85009713BA}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{FFB67DE0-6505-4D36-89B1-8DF7E045D371}-0" />
+            <r
+              uid="{7996D6FE-2F4E-46C7-92BB-56DCE80942B4}"
+              p:after="r[@uid='{27B1C64F-0FF6-461F-B13E-71A28DDA5DC7}']"
+              s:ds="{934B1EB5-B2E0-4FD2-9969-6EDCD2A9C130}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{FFB67DE0-6505-4D36-89B1-8DF7E045D371}-0" />
+            <r
+              uid="{BC24B769-EE72-4373-AF9D-13FE5AD8BA70}"
+              p:after="r[@uid='{7996D6FE-2F4E-46C7-92BB-56DCE80942B4}']"
+              s:ds="{20BD97A6-CDA2-4065-8D44-0427CB660014}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{FFB67DE0-6505-4D36-89B1-8DF7E045D371}-0" />
+            <r
+              uid="{0109759E-4600-4B78-A0E6-96D9B8F26CB9}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}"
+              s:ds="{925C638D-1E8A-4379-A3BD-7B2164E5D801}"
+              s:par="Enable Autoplay=true&amp;Add Gradient&amp;Text Color=white&amp;Wait Time=5000" />
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}">
+              <p:d />
+            </r>
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
+              <p:d />
+            </r>
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}">
+              <p:d />
+            </r>
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
+              <p:d />
+            </r>
+            <r
+              uid="{ED8F0BD9-5457-4F92-ABDB-4C8272019C46}"
+              p:after="r[@uid='{141E6896-79A7-447B-B58C-9B116C7F55FB}']"
+              s:ds="{EBF49A0C-21CF-4A32-8485-25088F0662CA}"
+              s:id="{A22722F6-65DF-4574-B659-191957028C9B}"
+              s:ph="main" />
+            <r
+              uid="{FFB67DE0-6505-4D36-89B1-8DF7E045D371}"
+              p:after="r[@uid='{ED8F0BD9-5457-4F92-ABDB-4C8272019C46}']"
+              s:id="{5266AC57-9C33-41AF-B32D-D935FB8DC1F3}"
+              s:ph="main" />
+            <r
+              uid="{F43CEFC5-95A9-4B93-9F91-A4211D4847A7}"
+              p:after="r[@uid='{FFB67DE0-6505-4D36-89B1-8DF7E045D371}']"
+              s:ds="{5F599607-D48A-4016-BDDF-F4DF499D4DE6}"
+              s:id="{7EE99E6C-C671-468E-8381-C6B9BB1E6416}"
+              s:ph="main" />
+            <r
+              uid="{ACF4BA70-053C-4B70-8154-55BE3B7210E9}"
+              p:after="r[@uid='{F43CEFC5-95A9-4B93-9F91-A4211D4847A7}']"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+            <r
+              uid="{2FB72E40-D795-42E9-A03C-0F7ED73B4463}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Rig Equipment
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>We make and support the world&rsquo;s most advanced drilling solutions.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Rig Equipment
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190710T200017Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Rig Equipment
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Rig Equipment
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joannazhu
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Rig Equipment
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{51B1ABBB-48D9-4FB3-94AB-7103479664EF}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3296981a-3fa4-45a9-ab6f-ec7ff7480ae9"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Rig Equipment
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\joannazhu
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: We make and support the world’s most advanced drilling solutions.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190710T200017Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{B77FB4DE-A79A-40C0-B7E4-83AA43029F47}" cropregion="0,173,1920,1275" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190710T200530Z
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: rig equipment, drilling rig equipment, drill rig equipment, drilling equipment, oil well drilling equipment
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{B77FB4DE-A79A-40C0-B7E4-83AA43029F47}" cropregion="0,138,1920,1217" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 10
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}">
+              <p:d />
+            </r>
+            <r
+              uid="{80B86B84-9A47-4644-A474-60373EB3637F}"
+              p:before="*"
+              s:ds="{F9CE7116-7AF2-4F00-A863-18CAB6D0E09B}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{C42EDEEE-8B48-4F2B-8124-0D862437BA57}"
+              p:after="r[@uid='{80B86B84-9A47-4644-A474-60373EB3637F}']"
+              s:ds="{D12B3F58-7BF8-4BC8-A5B6-B3435A3C1A49}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{FFB67DE0-6505-4D36-89B1-8DF7E045D371}-0" />
+            <r
+              uid="{27B1C64F-0FF6-461F-B13E-71A28DDA5DC7}"
+              p:after="r[@uid='{C42EDEEE-8B48-4F2B-8124-0D862437BA57}']"
+              s:ds="{43340F78-07FD-4A71-9B69-7F85009713BA}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{FFB67DE0-6505-4D36-89B1-8DF7E045D371}-0" />
+            <r
+              uid="{7996D6FE-2F4E-46C7-92BB-56DCE80942B4}"
+              p:after="r[@uid='{27B1C64F-0FF6-461F-B13E-71A28DDA5DC7}']"
+              s:ds="{934B1EB5-B2E0-4FD2-9969-6EDCD2A9C130}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{FFB67DE0-6505-4D36-89B1-8DF7E045D371}-0" />
+            <r
+              uid="{BC24B769-EE72-4373-AF9D-13FE5AD8BA70}"
+              p:after="r[@uid='{7996D6FE-2F4E-46C7-92BB-56DCE80942B4}']"
+              s:ds="{20BD97A6-CDA2-4065-8D44-0427CB660014}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{FFB67DE0-6505-4D36-89B1-8DF7E045D371}-0" />
+            <r
+              uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}"
+              s:ds="{925C638D-1E8A-4379-A3BD-7B2164E5D801}"
+              s:par="Enable Autoplay=true&amp;Add Gradient&amp;Text Color=white&amp;Wait Time=5000" />
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}">
+              <p:d />
+            </r>
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
+              <p:d />
+            </r>
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}">
+              <p:d />
+            </r>
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
+              <p:d />
+            </r>
+            <r
+              uid="{ED8F0BD9-5457-4F92-ABDB-4C8272019C46}"
+              p:after="r[@uid='{141E6896-79A7-447B-B58C-9B116C7F55FB}']"
+              s:ds="{EBF49A0C-21CF-4A32-8485-25088F0662CA}"
+              s:id="{A22722F6-65DF-4574-B659-191957028C9B}"
+              s:ph="main" />
+            <r
+              uid="{FFB67DE0-6505-4D36-89B1-8DF7E045D371}"
+              p:after="r[@uid='{ED8F0BD9-5457-4F92-ABDB-4C8272019C46}']"
+              s:id="{5266AC57-9C33-41AF-B32D-D935FB8DC1F3}"
+              s:ph="main" />
+            <r
+              uid="{F43CEFC5-95A9-4B93-9F91-A4211D4847A7}"
+              p:after="r[@uid='{FFB67DE0-6505-4D36-89B1-8DF7E045D371}']"
+              s:ds="{5F599607-D48A-4016-BDDF-F4DF499D4DE6}"
+              s:id="{7EE99E6C-C671-468E-8381-C6B9BB1E6416}"
+              s:ph="main" />
+            <r
+              uid="{ACF4BA70-053C-4B70-8154-55BE3B7210E9}"
+              p:after="r[@uid='{F43CEFC5-95A9-4B93-9F91-A4211D4847A7}']"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+            <r
+              uid="{2FB72E40-D795-42E9-A03C-0F7ED73B4463}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Rig Equipment
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>We make and support the world&rsquo;s most advanced drilling solutions.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Rig Equipment
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200402T143707Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Rig Equipment
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Rig Equipment
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Rig Equipment
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{51B1ABBB-48D9-4FB3-94AB-7103479664EF}"
+    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
+      Hint: Search Result Text
+      Value: "Business Unit: Rig Equipment"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f7da9604-0ed4-4bf8-858a-58dc852829a6"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Rig Equipment
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\adminrschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: We make and support the world’s most advanced drilling solutions.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200402T143707Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{B77FB4DE-A79A-40C0-B7E4-83AA43029F47}" cropregion="0,173,1920,1275" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210422T010851Z
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: rig equipment, drilling rig equipment, drill rig equipment, drilling equipment, oil well drilling equipment
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{B77FB4DE-A79A-40C0-B7E4-83AA43029F47}" cropregion="0,138,1920,1217" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />

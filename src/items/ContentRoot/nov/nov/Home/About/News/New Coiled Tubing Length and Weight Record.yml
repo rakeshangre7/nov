@@ -1,0 +1,169 @@
+﻿---
+ID: "25d5834f-6e7a-42d5-8f43-5e5d17382ad2"
+Parent: "8dfd8a57-77e4-4e4e-a720-8f569a679339"
+Template: "93e4c55d-9fa4-4945-a03a-1565852b0a90"
+Path: /sitecore/content/nov/nov/Home/About/News/New Coiled Tubing Length and Weight Record
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{9B4417AB-C22F-4C76-B2DC-98F2FCA8A71E}">
+          <p:da
+            name="ds" />
+          <p:da
+            name="par" />
+        </r>
+        <r
+          uid="{10CEBA25-FC2A-4F84-8760-9B825D4EAF06}"
+          s:ds="{F9B30C60-7229-474B-BE24-3B7E97E67257}" />
+        <r
+          uid="{37DC6908-9973-4BF3-AA1F-616581927F03}"
+          s:ds="{5456421E-460F-4371-98F6-E8F1897880A8}" />
+        <r
+          uid="{3A4E7139-50CB-4BD5-AB2E-460BC7CE5AAF}"
+          s:ds="{D63C9CD7-7BBA-449E-AB95-89941FF8D19A}" />
+        <r
+          uid="{29B80482-A671-447F-BB46-8121D422BD81}"
+          s:ds="{26368CD2-1A4C-4BDB-B904-8EEB442BBD46}" />
+        <r
+          uid="{97344B92-7C95-4AC5-BA52-015B4E4B60A0}"
+          s:ds="{FB60F382-F281-49BC-B12F-0EB5591A74B1}" />
+        <r
+          uid="{7FCE1D2B-E077-4A3D-AF80-996014D9B527}"
+          s:ds="{EB5225E8-8EBC-45FA-A9BC-0574A6C5756D}" />
+        <r
+          uid="{B7906B15-B51F-4DDA-9D56-0D4EDD3DF208}"
+          s:ds="{03A6E44E-41EA-452C-976D-3AE81FDCCE44}" />
+        <r
+          uid="{9B9C6914-204E-47B8-ABD6-F2712DC7BB72}"
+          s:ds="{9FA11D56-9C03-4026-AFA6-D6FDCAADB8DB}" />
+      </d>
+    </r>
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{3A4E7139-50CB-4BD5-AB2E-460BC7CE5AAF}">
+              <p:d />
+            </r>
+            <r
+              uid="{7FCE1D2B-E077-4A3D-AF80-996014D9B527}">
+              <p:d />
+            </r>
+            <r
+              uid="{B7906B15-B51F-4DDA-9D56-0D4EDD3DF208}">
+              <p:d />
+            </r>
+            <r
+              uid="{9B9C6914-204E-47B8-ABD6-F2712DC7BB72}">
+              <p:d />
+            </r>
+            <r
+              uid="{2196A134-10AC-4668-82BB-1B5CF0E6C699}"
+              p:after="r[@uid='{97344B92-7C95-4AC5-BA52-015B4E4B60A0}']"
+              s:ds="{344BF58E-3B02-4DA9-BE96-478F8E94AE2A}"
+              s:id="{D6F7B1A2-D9A1-4301-85D8-64731201F85B}"
+              s:ph="main" />
+            <r
+              uid="{37DC6908-9973-4BF3-AA1F-616581927F03}"
+              p:after="r[@uid='{2196A134-10AC-4668-82BB-1B5CF0E6C699}']" />
+            <r
+              uid="{DA39F132-0164-4209-8CF0-1E4E6E012364}"
+              p:after="r[@uid='{37DC6908-9973-4BF3-AA1F-616581927F03}']"
+              s:ds="{697CA07B-FF6C-4CFD-9173-6F0BA261A7DA}"
+              s:id="{D6F7B1A2-D9A1-4301-85D8-64731201F85B}"
+              s:ph="main" />
+            <r
+              uid="{29B80482-A671-447F-BB46-8121D422BD81}"
+              p:after="r[@uid='{DA39F132-0164-4209-8CF0-1E4E6E012364}']" />
+            <r
+              uid="{5AFA24D5-6A00-496C-BB81-D6EAEDCDC030}"
+              p:after="*[1=2]"
+              s:ds="{9FA11D56-9C03-4026-AFA6-D6FDCAADB8DB}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: New Coiled Tubing Length and Weight Record
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: "<p>Quality Tubing continues to lead the intervention industry with our world-class manufacturing capabilities by milling another record-breaking coiled tubing string for the Permian Basin, which came in at over 30,000 ft and weighed more than&nbsp;170,000&nbsp;lb.</p>"
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: New Coiled Tubing Length and Weight Record
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210709T145706Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: New Coiled Tubing Length and Weight Record
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: New Coiled Tubing Length and Weight Record
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{B3C5896E-799D-4869-944E-F6791F1C242B}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: New Coiled Tubing Length and Weight Record
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c8b32222-85bc-4c3a-ae1a-adfc73ef5069"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{294053F5-3F2B-4F01-A805-2E3CC257571E}"
+    - ID: "b0d622b7-156a-4f17-9ce4-4dd213df0302"
+      Hint: Date
+      Value: 20210712T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "Quality Tubing continues to lead the intervention industry with our world-class manufacturing capabilities by milling another record-breaking coiled tubing string for the Permian Basin, which came in at over 30,000 ft and weighed more than 170,000 lb."
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{B3C5896E-799D-4869-944E-F6791F1C242B}" cropregion="67,0,1951,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210712T144643Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{B3C5896E-799D-4869-944E-F6791F1C242B}" cropregion="50,0,1970,1080" ratio="1920:1080" width="1920" height="1080" />

@@ -5,8 +5,6 @@ module.exports = {
   extend: {
     colors: {
       ...COLORS,
-      primary: COLORS.green,
-      'theme-btn-primary-text': COLORS.white,
     },
   },
 };

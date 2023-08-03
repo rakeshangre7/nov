@@ -1,0 +1,1509 @@
+﻿---
+ID: "91d253d1-d795-431a-b42b-829fca7cf115"
+Parent: "cd0214ea-b2e7-40a9-89d9-695cdf04c498"
+Template: "1bf45569-a9ee-482e-8c1f-6aed83c3c8ab"
+Path: /sitecore/content/nov/nov/Home/About/Events/Mexican Petroleum Congress
+SharedFields:
+- ID: "9135200a-5626-4dd8-ab9d-d665b8c11748"
+  Hint: __Never publish
+  Value: 
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 280
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{4E861D1C-E2C9-49A0-BF48-98301CE8801C}"
+              p:before="*"
+              s:ds="{E46D44A4-A69A-484A-A95D-C6C501D697B3}"
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:par="Add Gradient=1&amp;Text Color=white"
+              s:ph="/main/hero-slide-{9A0D17ED-330A-4FBB-A8B0-FD9BA3C697E0}-0" />
+            <r
+              uid="{9A0D17ED-330A-4FBB-A8B0-FD9BA3C697E0}"
+              p:after="r[@uid='{4E861D1C-E2C9-49A0-BF48-98301CE8801C}']"
+              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}"
+              s:id="{AB213187-9551-4F9B-AE3D-261BB2B2434F}"
+              s:ph="main" />
+            <r
+              uid="{FFB831C0-BB0E-4DF8-A7AE-63FF2E574FF6}"
+              p:after="r[@uid='{9A0D17ED-330A-4FBB-A8B0-FD9BA3C697E0}']"
+              s:ds="{A4AF40DB-6B81-44F3-B988-BD1F63B34EEA}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{CCDE23C8-0F5F-4541-8CF8-9228538F69F0}"
+              p:after="r[@uid='{FFB831C0-BB0E-4DF8-A7AE-63FF2E574FF6}']"
+              s:ds="{02F7D8CF-B118-4A76-84B6-3B3492E6550F}"
+              s:id="{93ADFF97-73E8-46AA-9C18-068BDB6232A8}"
+              s:ph="main" />
+            <r
+              uid="{469CCB81-765A-4CB6-B37A-E0BF730E129D}"
+              s:par="Enable Small Container=1&amp;Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0" />
+            <r
+              uid="{CB22DE8A-6C4B-4D76-B0BE-DE69400010DC}"
+              s:par="Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0" />
+            <r
+              uid="{DF772360-E5C4-4162-B9E4-D8DAAE753245}">
+              <p:d />
+            </r>
+            <r
+              uid="{945C1340-ED54-40B6-82B9-E426012500B4}">
+              <p:d />
+            </r>
+            <r
+              uid="{74835636-1DDD-4077-88DA-BF43D0CB2E10}">
+              <p:d />
+            </r>
+            <r
+              uid="{D9DC2E91-2941-4E2F-BCD7-3809E1023600}">
+              <p:d />
+            </r>
+            <r
+              uid="{444FE44D-0C8F-4961-9B98-410B9AB911A8}">
+              <p:d />
+            </r>
+            <r
+              uid="{82CC48F6-44A9-4DC7-9B50-55B2B32A157A}">
+              <p:d />
+            </r>
+            <r
+              uid="{F5F400D4-CBC8-4F73-84FF-06BB3FC65DAC}">
+              <p:d />
+            </r>
+            <r
+              uid="{9597CA8B-63B5-4B93-AF7D-1E0C2CACEF9C}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Mexican Petroleum Congress
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>The Mexican Petroleum Congress (Congreso Mexicano del Petrόleo, CMP) is an important scientific and technological forum for Mexico and Latin America.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Mexican Petroleum Congress
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190405T210515Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Mexican Petroleum Congress
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Mexican Petroleum Congress
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joannazhu
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Mexican Petroleum Congress
+    - ID: "6f84eee0-ddfa-478a-b9fb-8a7adc34ed42"
+      Hint: Start Date
+      Value: 20190619T000000Z
+    - ID: "81beeffb-e4e6-44ad-aa32-b3380b8d3fcd"
+      Hint: city
+      Value: León
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b585e585-d284-47f2-9876-170ecdb39e35"
+    - ID: "8f4016b6-4a51-4621-90cb-77774279dba3"
+      Hint: End Date
+      Value: 20190622T000000Z
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{E7052507-CEF7-45CC-B52B-C65B98F4ADA7}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Mexican Petroleum Congress
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\joannazhu
+    - ID: "bba7d4dd-7d1e-428e-b80d-055170466dc3"
+      Hint: country
+      Value: Mexico
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: The Mexican Petroleum Congress (Congreso Mexicano del Petrόleo, CMP) is an important scientific and technological forum for Mexico and Latin America.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190405T210515Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{C6A5264C-6121-417C-B330-CB8E0B143FE1}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190412T194047Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{C6A5264C-6121-417C-B330-CB8E0B143FE1}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{4E861D1C-E2C9-49A0-BF48-98301CE8801C}"
+              p:before="*"
+              s:ds="{E46D44A4-A69A-484A-A95D-C6C501D697B3}"
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:par="Add Gradient=1&amp;Text Color=white"
+              s:ph="/main/hero-slide-{9A0D17ED-330A-4FBB-A8B0-FD9BA3C697E0}-0" />
+            <r
+              uid="{9A0D17ED-330A-4FBB-A8B0-FD9BA3C697E0}"
+              p:after="r[@uid='{4E861D1C-E2C9-49A0-BF48-98301CE8801C}']"
+              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}"
+              s:id="{AB213187-9551-4F9B-AE3D-261BB2B2434F}"
+              s:ph="main" />
+            <r
+              uid="{FFB831C0-BB0E-4DF8-A7AE-63FF2E574FF6}"
+              p:after="r[@uid='{9A0D17ED-330A-4FBB-A8B0-FD9BA3C697E0}']"
+              s:ds="{A4AF40DB-6B81-44F3-B988-BD1F63B34EEA}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{CCDE23C8-0F5F-4541-8CF8-9228538F69F0}"
+              p:after="r[@uid='{FFB831C0-BB0E-4DF8-A7AE-63FF2E574FF6}']"
+              s:ds="{02F7D8CF-B118-4A76-84B6-3B3492E6550F}"
+              s:id="{93ADFF97-73E8-46AA-9C18-068BDB6232A8}"
+              s:ph="main" />
+            <r
+              uid="{469CCB81-765A-4CB6-B37A-E0BF730E129D}"
+              s:par="Enable Small Container=1&amp;Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0" />
+            <r
+              uid="{CB22DE8A-6C4B-4D76-B0BE-DE69400010DC}"
+              s:par="Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0" />
+            <r
+              uid="{DF772360-E5C4-4162-B9E4-D8DAAE753245}">
+              <p:d />
+            </r>
+            <r
+              uid="{945C1340-ED54-40B6-82B9-E426012500B4}">
+              <p:d />
+            </r>
+            <r
+              uid="{74835636-1DDD-4077-88DA-BF43D0CB2E10}">
+              <p:d />
+            </r>
+            <r
+              uid="{D9DC2E91-2941-4E2F-BCD7-3809E1023600}">
+              <p:d />
+            </r>
+            <r
+              uid="{444FE44D-0C8F-4961-9B98-410B9AB911A8}">
+              <p:d />
+            </r>
+            <r
+              uid="{82CC48F6-44A9-4DC7-9B50-55B2B32A157A}">
+              <p:d />
+            </r>
+            <r
+              uid="{F5F400D4-CBC8-4F73-84FF-06BB3FC65DAC}">
+              <p:d />
+            </r>
+            <r
+              uid="{9597CA8B-63B5-4B93-AF7D-1E0C2CACEF9C}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Mexican Petroleum Congress
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>The Mexican Petroleum Congress (Congreso Mexicano del Petrόleo, CMP) is an important scientific and technological forum for Mexico and Latin America.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Mexican Petroleum Congress
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190502T194355Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Mexican Petroleum Congress
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Mexican Petroleum Congress
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joannazhu
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Mexican Petroleum Congress
+    - ID: "6f84eee0-ddfa-478a-b9fb-8a7adc34ed42"
+      Hint: Start Date
+      Value: 20190619T000000Z
+    - ID: "81beeffb-e4e6-44ad-aa32-b3380b8d3fcd"
+      Hint: city
+      Value: León
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6318254e-a465-47c7-a468-0af1548900cd"
+    - ID: "8f4016b6-4a51-4621-90cb-77774279dba3"
+      Hint: End Date
+      Value: 20190622T000000Z
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{E7052507-CEF7-45CC-B52B-C65B98F4ADA7}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Mexican Petroleum Congress
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\joannazhu
+    - ID: "bba7d4dd-7d1e-428e-b80d-055170466dc3"
+      Hint: country
+      Value: Mexico
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: The Mexican Petroleum Congress (Congreso Mexicano del Petrόleo, CMP) is an important scientific and technological forum for Mexico and Latin America.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190502T194355Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{C6A5264C-6121-417C-B330-CB8E0B143FE1}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190502T194437Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{C6A5264C-6121-417C-B330-CB8E0B143FE1}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{4E861D1C-E2C9-49A0-BF48-98301CE8801C}"
+              p:before="*"
+              s:ds="{E46D44A4-A69A-484A-A95D-C6C501D697B3}"
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:par="Add Gradient=1&amp;Text Color=white"
+              s:ph="/main/hero-slide-{9A0D17ED-330A-4FBB-A8B0-FD9BA3C697E0}-0" />
+            <r
+              uid="{9A0D17ED-330A-4FBB-A8B0-FD9BA3C697E0}"
+              p:after="r[@uid='{4E861D1C-E2C9-49A0-BF48-98301CE8801C}']"
+              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}"
+              s:id="{AB213187-9551-4F9B-AE3D-261BB2B2434F}"
+              s:ph="main" />
+            <r
+              uid="{FFB831C0-BB0E-4DF8-A7AE-63FF2E574FF6}"
+              p:after="r[@uid='{9A0D17ED-330A-4FBB-A8B0-FD9BA3C697E0}']"
+              s:ds="{A4AF40DB-6B81-44F3-B988-BD1F63B34EEA}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{469CCB81-765A-4CB6-B37A-E0BF730E129D}"
+              s:par="Enable Small Container=1&amp;Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0" />
+            <r
+              uid="{CB22DE8A-6C4B-4D76-B0BE-DE69400010DC}"
+              s:par="Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0" />
+            <r
+              uid="{DF772360-E5C4-4162-B9E4-D8DAAE753245}">
+              <p:d />
+            </r>
+            <r
+              uid="{945C1340-ED54-40B6-82B9-E426012500B4}">
+              <p:d />
+            </r>
+            <r
+              uid="{74835636-1DDD-4077-88DA-BF43D0CB2E10}">
+              <p:d />
+            </r>
+            <r
+              uid="{D9DC2E91-2941-4E2F-BCD7-3809E1023600}">
+              <p:d />
+            </r>
+            <r
+              uid="{444FE44D-0C8F-4961-9B98-410B9AB911A8}">
+              <p:d />
+            </r>
+            <r
+              uid="{82CC48F6-44A9-4DC7-9B50-55B2B32A157A}">
+              <p:d />
+            </r>
+            <r
+              uid="{F5F400D4-CBC8-4F73-84FF-06BB3FC65DAC}">
+              <p:d />
+            </r>
+            <r
+              uid="{9597CA8B-63B5-4B93-AF7D-1E0C2CACEF9C}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Mexican Petroleum Congress
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>The Mexican Petroleum Congress (Congreso Mexicano del Petrόleo, CMP) is an important scientific and technological forum for Mexico and Latin America.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Mexican Petroleum Congress
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190503T193350Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Mexican Petroleum Congress
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Mexican Petroleum Congress
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Mexican Petroleum Congress
+    - ID: "6f84eee0-ddfa-478a-b9fb-8a7adc34ed42"
+      Hint: Start Date
+      Value: 20190619T000000Z
+    - ID: "81beeffb-e4e6-44ad-aa32-b3380b8d3fcd"
+      Hint: city
+      Value: León
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4055683f-c4f4-4be8-ba5f-f268698aea2c"
+    - ID: "8f4016b6-4a51-4621-90cb-77774279dba3"
+      Hint: End Date
+      Value: 20190622T000000Z
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{E7052507-CEF7-45CC-B52B-C65B98F4ADA7}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Mexican Petroleum Congress
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "bba7d4dd-7d1e-428e-b80d-055170466dc3"
+      Hint: country
+      Value: Mexico
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: The Mexican Petroleum Congress (Congreso Mexicano del Petrόleo, CMP) is an important scientific and technological forum for Mexico and Latin America.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190503T193350Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{C6A5264C-6121-417C-B330-CB8E0B143FE1}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190503T193443Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{C6A5264C-6121-417C-B330-CB8E0B143FE1}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 4
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{4E861D1C-E2C9-49A0-BF48-98301CE8801C}"
+              p:before="*"
+              s:ds="{E46D44A4-A69A-484A-A95D-C6C501D697B3}"
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:par="Add Gradient=1&amp;Text Color=white"
+              s:ph="/main/hero-slide-{9A0D17ED-330A-4FBB-A8B0-FD9BA3C697E0}-0" />
+            <r
+              uid="{9A0D17ED-330A-4FBB-A8B0-FD9BA3C697E0}"
+              p:after="r[@uid='{4E861D1C-E2C9-49A0-BF48-98301CE8801C}']"
+              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}"
+              s:id="{AB213187-9551-4F9B-AE3D-261BB2B2434F}"
+              s:ph="main" />
+            <r
+              uid="{FFB831C0-BB0E-4DF8-A7AE-63FF2E574FF6}"
+              p:after="r[@uid='{9A0D17ED-330A-4FBB-A8B0-FD9BA3C697E0}']"
+              s:ds="{A4AF40DB-6B81-44F3-B988-BD1F63B34EEA}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{469CCB81-765A-4CB6-B37A-E0BF730E129D}"
+              s:par="Enable Small Container=1&amp;Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0" />
+            <r
+              uid="{CB22DE8A-6C4B-4D76-B0BE-DE69400010DC}"
+              s:par="Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0" />
+            <r
+              uid="{DF772360-E5C4-4162-B9E4-D8DAAE753245}">
+              <p:d />
+            </r>
+            <r
+              uid="{945C1340-ED54-40B6-82B9-E426012500B4}">
+              <p:d />
+            </r>
+            <r
+              uid="{74835636-1DDD-4077-88DA-BF43D0CB2E10}">
+              <p:d />
+            </r>
+            <r
+              uid="{D9DC2E91-2941-4E2F-BCD7-3809E1023600}">
+              <p:d />
+            </r>
+            <r
+              uid="{444FE44D-0C8F-4961-9B98-410B9AB911A8}">
+              <p:d />
+            </r>
+            <r
+              uid="{82CC48F6-44A9-4DC7-9B50-55B2B32A157A}">
+              <p:d />
+            </r>
+            <r
+              uid="{F5F400D4-CBC8-4F73-84FF-06BB3FC65DAC}">
+              <p:d />
+            </r>
+            <r
+              uid="{9597CA8B-63B5-4B93-AF7D-1E0C2CACEF9C}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Mexican Petroleum Congress
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>The Mexican Petroleum Congress (Congreso Mexicano del Petrόleo, CMP) is an important scientific and technological forum for Mexico and Latin America.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Mexican Petroleum Congress
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190605T192411Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Mexican Petroleum Congress
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Mexican Petroleum Congress
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joannazhu
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Mexican Petroleum Congress
+    - ID: "6f84eee0-ddfa-478a-b9fb-8a7adc34ed42"
+      Hint: Start Date
+      Value: 20190619T000000Z
+    - ID: "81beeffb-e4e6-44ad-aa32-b3380b8d3fcd"
+      Hint: city
+      Value: León
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3c4aecd3-274a-46d7-a554-d2d1e9edac65"
+    - ID: "8f4016b6-4a51-4621-90cb-77774279dba3"
+      Hint: End Date
+      Value: 20190622T000000Z
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{E7052507-CEF7-45CC-B52B-C65B98F4ADA7}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Mexican Petroleum Congress
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\joannazhu
+    - ID: "bba7d4dd-7d1e-428e-b80d-055170466dc3"
+      Hint: country
+      Value: Mexico
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: The Mexican Petroleum Congress (Congreso Mexicano del Petrόleo, CMP) is an important scientific and technological forum for Mexico and Latin America.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190605T192411Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{C6A5264C-6121-417C-B330-CB8E0B143FE1}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190605T192556Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{C6A5264C-6121-417C-B330-CB8E0B143FE1}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 5
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{4E861D1C-E2C9-49A0-BF48-98301CE8801C}"
+              p:before="*"
+              s:ds="{E46D44A4-A69A-484A-A95D-C6C501D697B3}"
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:par="Add Gradient=1&amp;Text Color=white"
+              s:ph="/main/hero-slide-{9A0D17ED-330A-4FBB-A8B0-FD9BA3C697E0}-0" />
+            <r
+              uid="{9A0D17ED-330A-4FBB-A8B0-FD9BA3C697E0}"
+              p:after="r[@uid='{4E861D1C-E2C9-49A0-BF48-98301CE8801C}']"
+              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}"
+              s:id="{AB213187-9551-4F9B-AE3D-261BB2B2434F}"
+              s:ph="main" />
+            <r
+              uid="{FFB831C0-BB0E-4DF8-A7AE-63FF2E574FF6}"
+              p:after="r[@uid='{9A0D17ED-330A-4FBB-A8B0-FD9BA3C697E0}']"
+              s:ds="{A4AF40DB-6B81-44F3-B988-BD1F63B34EEA}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{469CCB81-765A-4CB6-B37A-E0BF730E129D}"
+              s:par="Enable Small Container=1&amp;Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0" />
+            <r
+              uid="{CB22DE8A-6C4B-4D76-B0BE-DE69400010DC}"
+              s:par="Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0" />
+            <r
+              uid="{DF772360-E5C4-4162-B9E4-D8DAAE753245}">
+              <p:d />
+            </r>
+            <r
+              uid="{945C1340-ED54-40B6-82B9-E426012500B4}">
+              <p:d />
+            </r>
+            <r
+              uid="{74835636-1DDD-4077-88DA-BF43D0CB2E10}">
+              <p:d />
+            </r>
+            <r
+              uid="{D9DC2E91-2941-4E2F-BCD7-3809E1023600}">
+              <p:d />
+            </r>
+            <r
+              uid="{444FE44D-0C8F-4961-9B98-410B9AB911A8}">
+              <p:d />
+            </r>
+            <r
+              uid="{82CC48F6-44A9-4DC7-9B50-55B2B32A157A}">
+              <p:d />
+            </r>
+            <r
+              uid="{F5F400D4-CBC8-4F73-84FF-06BB3FC65DAC}">
+              <p:d />
+            </r>
+            <r
+              uid="{9597CA8B-63B5-4B93-AF7D-1E0C2CACEF9C}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Mexican Petroleum Congress
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>The Mexican Petroleum Congress (Congreso Mexicano del Petrόleo, CMP) is an important scientific and technological forum for Mexico and Latin America.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Mexican Petroleum Congress
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190625T204931Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Mexican Petroleum Congress
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Mexican Petroleum Congress
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Mexican Petroleum Congress
+    - ID: "6f84eee0-ddfa-478a-b9fb-8a7adc34ed42"
+      Hint: Start Date
+      Value: 20190619T000000Z
+    - ID: "81beeffb-e4e6-44ad-aa32-b3380b8d3fcd"
+      Hint: city
+      Value: León
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "29629d11-a5c7-4ee1-b9a6-b82d5d1b7489"
+    - ID: "8f4016b6-4a51-4621-90cb-77774279dba3"
+      Hint: End Date
+      Value: 20190622T000000Z
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{E7052507-CEF7-45CC-B52B-C65B98F4ADA7}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Mexican Petroleum Congress
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "bba7d4dd-7d1e-428e-b80d-055170466dc3"
+      Hint: country
+      Value: Mexico
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: The Mexican Petroleum Congress (Congreso Mexicano del Petrόleo, CMP) is an important scientific and technological forum for Mexico and Latin America.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190625T204931Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{C6A5264C-6121-417C-B330-CB8E0B143FE1}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190625T205025Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{C6A5264C-6121-417C-B330-CB8E0B143FE1}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 6
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{4E861D1C-E2C9-49A0-BF48-98301CE8801C}"
+              p:before="*"
+              s:ds=""
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:par="Add Gradient=1&amp;Text Color=white"
+              s:ph="/main/hero-slide-{9A0D17ED-330A-4FBB-A8B0-FD9BA3C697E0}-0" />
+            <r
+              uid="{9A0D17ED-330A-4FBB-A8B0-FD9BA3C697E0}"
+              p:after="r[@uid='{4E861D1C-E2C9-49A0-BF48-98301CE8801C}']"
+              s:ds="{263DB060-E31E-48A1-ADD8-6198CD8B62CE}"
+              s:id="{AB213187-9551-4F9B-AE3D-261BB2B2434F}"
+              s:par="Enable Autoplay=true&amp;Add Gradient&amp;Text Color=white&amp;Wait Time=5000"
+              s:ph="main" />
+            <r
+              uid="{FFB831C0-BB0E-4DF8-A7AE-63FF2E574FF6}"
+              p:after="r[@uid='{9A0D17ED-330A-4FBB-A8B0-FD9BA3C697E0}']"
+              s:ds="{A4AF40DB-6B81-44F3-B988-BD1F63B34EEA}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{469CCB81-765A-4CB6-B37A-E0BF730E129D}"
+              s:par="Enable Small Container=1&amp;Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0" />
+            <r
+              uid="{CB22DE8A-6C4B-4D76-B0BE-DE69400010DC}"
+              s:par="Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0" />
+            <r
+              uid="{DF772360-E5C4-4162-B9E4-D8DAAE753245}">
+              <p:d />
+            </r>
+            <r
+              uid="{945C1340-ED54-40B6-82B9-E426012500B4}">
+              <p:d />
+            </r>
+            <r
+              uid="{74835636-1DDD-4077-88DA-BF43D0CB2E10}">
+              <p:d />
+            </r>
+            <r
+              uid="{D9DC2E91-2941-4E2F-BCD7-3809E1023600}">
+              <p:d />
+            </r>
+            <r
+              uid="{444FE44D-0C8F-4961-9B98-410B9AB911A8}">
+              <p:d />
+            </r>
+            <r
+              uid="{82CC48F6-44A9-4DC7-9B50-55B2B32A157A}">
+              <p:d />
+            </r>
+            <r
+              uid="{F5F400D4-CBC8-4F73-84FF-06BB3FC65DAC}">
+              <p:d />
+            </r>
+            <r
+              uid="{9597CA8B-63B5-4B93-AF7D-1E0C2CACEF9C}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Mexican Petroleum Congress
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>The Mexican Petroleum Congress (Congreso Mexicano del Petrόleo, CMP) is an important scientific and technological forum for Mexico and Latin America.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Mexican Petroleum Congress
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190701T183912Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Mexican Petroleum Congress
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Mexican Petroleum Congress
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Mexican Petroleum Congress
+    - ID: "6f84eee0-ddfa-478a-b9fb-8a7adc34ed42"
+      Hint: Start Date
+      Value: 20190619T000000Z
+    - ID: "81beeffb-e4e6-44ad-aa32-b3380b8d3fcd"
+      Hint: city
+      Value: León
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "310416d6-edbc-4519-b449-de6fa33d5335"
+    - ID: "8f4016b6-4a51-4621-90cb-77774279dba3"
+      Hint: End Date
+      Value: 20190622T000000Z
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{E7052507-CEF7-45CC-B52B-C65B98F4ADA7}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Mexican Petroleum Congress
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\verticakeshwaram
+    - ID: "bba7d4dd-7d1e-428e-b80d-055170466dc3"
+      Hint: country
+      Value: Mexico
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: The Mexican Petroleum Congress (Congreso Mexicano del Petrόleo, CMP) is an important scientific and technological forum for Mexico and Latin America.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190701T183912Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{C6A5264C-6121-417C-B330-CB8E0B143FE1}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20191004T214551Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{C6A5264C-6121-417C-B330-CB8E0B143FE1}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 7
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{4E861D1C-E2C9-49A0-BF48-98301CE8801C}"
+              p:before="*"
+              s:ds=""
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:par="Add Gradient=1&amp;Text Color=white"
+              s:ph="/main/hero-slide-{9A0D17ED-330A-4FBB-A8B0-FD9BA3C697E0}-0" />
+            <r
+              uid="{9A0D17ED-330A-4FBB-A8B0-FD9BA3C697E0}"
+              p:after="r[@uid='{4E861D1C-E2C9-49A0-BF48-98301CE8801C}']"
+              s:ds="{263DB060-E31E-48A1-ADD8-6198CD8B62CE}"
+              s:id="{AB213187-9551-4F9B-AE3D-261BB2B2434F}"
+              s:par="Enable Autoplay=true&amp;Add Gradient&amp;Text Color=white&amp;Wait Time=5000"
+              s:ph="main" />
+            <r
+              uid="{FFB831C0-BB0E-4DF8-A7AE-63FF2E574FF6}"
+              p:after="r[@uid='{9A0D17ED-330A-4FBB-A8B0-FD9BA3C697E0}']"
+              s:ds="{A4AF40DB-6B81-44F3-B988-BD1F63B34EEA}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{469CCB81-765A-4CB6-B37A-E0BF730E129D}"
+              s:par="Enable Small Container=1&amp;Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0" />
+            <r
+              uid="{CB22DE8A-6C4B-4D76-B0BE-DE69400010DC}"
+              s:par="Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0" />
+            <r
+              uid="{DF772360-E5C4-4162-B9E4-D8DAAE753245}">
+              <p:d />
+            </r>
+            <r
+              uid="{945C1340-ED54-40B6-82B9-E426012500B4}">
+              <p:d />
+            </r>
+            <r
+              uid="{74835636-1DDD-4077-88DA-BF43D0CB2E10}">
+              <p:d />
+            </r>
+            <r
+              uid="{D9DC2E91-2941-4E2F-BCD7-3809E1023600}">
+              <p:d />
+            </r>
+            <r
+              uid="{444FE44D-0C8F-4961-9B98-410B9AB911A8}">
+              <p:d />
+            </r>
+            <r
+              uid="{82CC48F6-44A9-4DC7-9B50-55B2B32A157A}">
+              <p:d />
+            </r>
+            <r
+              uid="{F5F400D4-CBC8-4F73-84FF-06BB3FC65DAC}">
+              <p:d />
+            </r>
+            <r
+              uid="{9597CA8B-63B5-4B93-AF7D-1E0C2CACEF9C}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Mexican Petroleum Congress
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>The Mexican Petroleum Congress (Congreso Mexicano del Petrόleo, CMP) is an important scientific and technological forum for Mexico and Latin America.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Mexican Petroleum Congress
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191007T142859Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Mexican Petroleum Congress
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Mexican Petroleum Congress
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Mexican Petroleum Congress
+    - ID: "6f84eee0-ddfa-478a-b9fb-8a7adc34ed42"
+      Hint: Start Date
+      Value: 20200624T000000Z
+    - ID: "81beeffb-e4e6-44ad-aa32-b3380b8d3fcd"
+      Hint: city
+      Value: Monterrey
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5926dd70-8f60-4098-8848-2167e246fdca"
+    - ID: "8f4016b6-4a51-4621-90cb-77774279dba3"
+      Hint: End Date
+      Value: 20200627T000000Z
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{E7052507-CEF7-45CC-B52B-C65B98F4ADA7}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Mexican Petroleum Congress
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "bba7d4dd-7d1e-428e-b80d-055170466dc3"
+      Hint: country
+      Value: Mexico
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: The Mexican Petroleum Congress (Congreso Mexicano del Petrόleo, CMP) is an important scientific and technological forum for Mexico and Latin America.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20191007T142859Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{C6A5264C-6121-417C-B330-CB8E0B143FE1}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20191015T153326Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{C6A5264C-6121-417C-B330-CB8E0B143FE1}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 8
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{4E861D1C-E2C9-49A0-BF48-98301CE8801C}"
+              p:before="*"
+              s:ds=""
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:par="Add Gradient=1&amp;Text Color=white"
+              s:ph="/main/hero-slide-{9A0D17ED-330A-4FBB-A8B0-FD9BA3C697E0}-0" />
+            <r
+              uid="{9A0D17ED-330A-4FBB-A8B0-FD9BA3C697E0}"
+              p:after="r[@uid='{4E861D1C-E2C9-49A0-BF48-98301CE8801C}']"
+              s:ds="{263DB060-E31E-48A1-ADD8-6198CD8B62CE}"
+              s:id="{AB213187-9551-4F9B-AE3D-261BB2B2434F}"
+              s:par="Enable Autoplay=true&amp;Add Gradient&amp;Text Color=white&amp;Wait Time=5000"
+              s:ph="main" />
+            <r
+              uid="{FFB831C0-BB0E-4DF8-A7AE-63FF2E574FF6}"
+              p:after="r[@uid='{9A0D17ED-330A-4FBB-A8B0-FD9BA3C697E0}']"
+              s:ds="{A4AF40DB-6B81-44F3-B988-BD1F63B34EEA}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{469CCB81-765A-4CB6-B37A-E0BF730E129D}"
+              s:par="Enable Small Container=1&amp;Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0" />
+            <r
+              uid="{CB22DE8A-6C4B-4D76-B0BE-DE69400010DC}"
+              s:par="Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0" />
+            <r
+              uid="{DF772360-E5C4-4162-B9E4-D8DAAE753245}">
+              <p:d />
+            </r>
+            <r
+              uid="{945C1340-ED54-40B6-82B9-E426012500B4}">
+              <p:d />
+            </r>
+            <r
+              uid="{74835636-1DDD-4077-88DA-BF43D0CB2E10}">
+              <p:d />
+            </r>
+            <r
+              uid="{D9DC2E91-2941-4E2F-BCD7-3809E1023600}">
+              <p:d />
+            </r>
+            <r
+              uid="{444FE44D-0C8F-4961-9B98-410B9AB911A8}">
+              <p:d />
+            </r>
+            <r
+              uid="{82CC48F6-44A9-4DC7-9B50-55B2B32A157A}">
+              <p:d />
+            </r>
+            <r
+              uid="{F5F400D4-CBC8-4F73-84FF-06BB3FC65DAC}">
+              <p:d />
+            </r>
+            <r
+              uid="{9597CA8B-63B5-4B93-AF7D-1E0C2CACEF9C}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Mexican Petroleum Congress
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>The Mexican Petroleum Congress (Congreso Mexicano del Petrόleo, CMP) is an important scientific and technological forum for Mexico and Latin America.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Mexican Petroleum Congress
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200327T181250Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Mexican Petroleum Congress
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Mexican Petroleum Congress
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Mexican Petroleum Congress
+    - ID: "6f84eee0-ddfa-478a-b9fb-8a7adc34ed42"
+      Hint: Start Date
+      Value: 20200624T000000Z
+    - ID: "81beeffb-e4e6-44ad-aa32-b3380b8d3fcd"
+      Hint: city
+      Value: Monterrey
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e4504fdd-3326-4595-a084-324c7fe8d58c"
+    - ID: "8f4016b6-4a51-4621-90cb-77774279dba3"
+      Hint: End Date
+      Value: 20200627T000000Z
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{E7052507-CEF7-45CC-B52B-C65B98F4ADA7}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Mexican Petroleum Congress
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jeremygrzywa
+    - ID: "bba7d4dd-7d1e-428e-b80d-055170466dc3"
+      Hint: country
+      Value: Mexico
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: The Mexican Petroleum Congress (Congreso Mexicano del Petrόleo, CMP) is an important scientific and technological forum for Mexico and Latin America.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200327T181250Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{C6A5264C-6121-417C-B330-CB8E0B143FE1}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210324T174952Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{C6A5264C-6121-417C-B330-CB8E0B143FE1}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 9
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{4E861D1C-E2C9-49A0-BF48-98301CE8801C}"
+              p:before="*"
+              s:ds=""
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:par="Add Gradient=1&amp;Text Color=white"
+              s:ph="/main/hero-slide-{9A0D17ED-330A-4FBB-A8B0-FD9BA3C697E0}-0" />
+            <r
+              uid="{9A0D17ED-330A-4FBB-A8B0-FD9BA3C697E0}"
+              p:after="r[@uid='{4E861D1C-E2C9-49A0-BF48-98301CE8801C}']"
+              s:ds="{263DB060-E31E-48A1-ADD8-6198CD8B62CE}"
+              s:id="{AB213187-9551-4F9B-AE3D-261BB2B2434F}"
+              s:par="Enable Autoplay=true&amp;Add Gradient&amp;Text Color=white&amp;Wait Time=5000"
+              s:ph="main" />
+            <r
+              uid="{FFB831C0-BB0E-4DF8-A7AE-63FF2E574FF6}"
+              p:after="r[@uid='{9A0D17ED-330A-4FBB-A8B0-FD9BA3C697E0}']"
+              s:ds="{A4AF40DB-6B81-44F3-B988-BD1F63B34EEA}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{469CCB81-765A-4CB6-B37A-E0BF730E129D}"
+              s:par="Enable Small Container=1&amp;Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0" />
+            <r
+              uid="{CB22DE8A-6C4B-4D76-B0BE-DE69400010DC}"
+              s:par="Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0" />
+            <r
+              uid="{DF772360-E5C4-4162-B9E4-D8DAAE753245}">
+              <p:d />
+            </r>
+            <r
+              uid="{945C1340-ED54-40B6-82B9-E426012500B4}">
+              <p:d />
+            </r>
+            <r
+              uid="{74835636-1DDD-4077-88DA-BF43D0CB2E10}">
+              <p:d />
+            </r>
+            <r
+              uid="{D9DC2E91-2941-4E2F-BCD7-3809E1023600}">
+              <p:d />
+            </r>
+            <r
+              uid="{444FE44D-0C8F-4961-9B98-410B9AB911A8}">
+              <p:d />
+            </r>
+            <r
+              uid="{82CC48F6-44A9-4DC7-9B50-55B2B32A157A}">
+              <p:d />
+            </r>
+            <r
+              uid="{F5F400D4-CBC8-4F73-84FF-06BB3FC65DAC}">
+              <p:d />
+            </r>
+            <r
+              uid="{9597CA8B-63B5-4B93-AF7D-1E0C2CACEF9C}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Mexican Petroleum Congress
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>The Mexican Petroleum Congress (Congreso Mexicano del Petrόleo, CMP) is an important scientific and technological forum for Mexico and Latin America.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Mexican Petroleum Congress
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210324T174955Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Mexican Petroleum Congress
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Mexican Petroleum Congress
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jeremygrzywa
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Mexican Petroleum Congress
+    - ID: "6f84eee0-ddfa-478a-b9fb-8a7adc34ed42"
+      Hint: Start Date
+      Value: 20211117T000000Z
+    - ID: "81beeffb-e4e6-44ad-aa32-b3380b8d3fcd"
+      Hint: city
+      Value: Monterrey
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ff52825f-1e4a-448e-827e-4cc2b8b17cae"
+    - ID: "8f4016b6-4a51-4621-90cb-77774279dba3"
+      Hint: End Date
+      Value: 20211121T000000Z
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{E7052507-CEF7-45CC-B52B-C65B98F4ADA7}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Mexican Petroleum Congress
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jeremygrzywa
+    - ID: "bba7d4dd-7d1e-428e-b80d-055170466dc3"
+      Hint: country
+      Value: Mexico
+    - ID: "bcfd3e35-8ec5-4ba4-b22f-00669ef4d2d5"
+      Hint: Publish Date
+      Value: 
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: The Mexican Petroleum Congress (Congreso Mexicano del Petrόleo, CMP) is an important scientific and technological forum for Mexico and Latin America.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20210324T174955Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{C6A5264C-6121-417C-B330-CB8E0B143FE1}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210324T175600Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{C6A5264C-6121-417C-B330-CB8E0B143FE1}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 10
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{DF772360-E5C4-4162-B9E4-D8DAAE753245}">
+              <p:d />
+            </r>
+            <r
+              uid="{945C1340-ED54-40B6-82B9-E426012500B4}">
+              <p:d />
+            </r>
+            <r
+              uid="{D9DC2E91-2941-4E2F-BCD7-3809E1023600}">
+              <p:d />
+            </r>
+            <r
+              uid="{4E861D1C-E2C9-49A0-BF48-98301CE8801C}"
+              p:before="*"
+              s:ds=""
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:par="Add Gradient=1&amp;Text Color=white"
+              s:ph="/main/hero-slide-{9A0D17ED-330A-4FBB-A8B0-FD9BA3C697E0}-0" />
+            <r
+              uid="{9A0D17ED-330A-4FBB-A8B0-FD9BA3C697E0}"
+              p:after="r[@uid='{4E861D1C-E2C9-49A0-BF48-98301CE8801C}']"
+              s:ds="{263DB060-E31E-48A1-ADD8-6198CD8B62CE}"
+              s:id="{AB213187-9551-4F9B-AE3D-261BB2B2434F}"
+              s:par="Enable Autoplay=true&amp;Add Gradient&amp;Text Color=white&amp;Wait Time=5000"
+              s:ph="main" />
+            <r
+              uid="{FFB831C0-BB0E-4DF8-A7AE-63FF2E574FF6}"
+              p:after="*[1=2]"
+              s:ds="{A4AF40DB-6B81-44F3-B988-BD1F63B34EEA}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{82CC48F6-44A9-4DC7-9B50-55B2B32A157A}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Mexican Petroleum Congress
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>The Mexican Petroleum Congress (Congreso Mexicano del Petrόleo, CMP) is an important scientific and technological forum for Mexico and Latin America.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Mexican Petroleum Congress
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210324T180005Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Mexican Petroleum Congress
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Mexican Petroleum Congress
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jeremygrzywa
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Mexican Petroleum Congress
+    - ID: "6f84eee0-ddfa-478a-b9fb-8a7adc34ed42"
+      Hint: Start Date
+      Value: 20211117T000000Z
+    - ID: "81beeffb-e4e6-44ad-aa32-b3380b8d3fcd"
+      Hint: city
+      Value: Monterrey
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "178c466e-9aaf-437f-b5ec-6d9d5b6456dd"
+    - ID: "8f4016b6-4a51-4621-90cb-77774279dba3"
+      Hint: End Date
+      Value: 20211121T000000Z
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{E7052507-CEF7-45CC-B52B-C65B98F4ADA7}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Mexican Petroleum Congress
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "bba7d4dd-7d1e-428e-b80d-055170466dc3"
+      Hint: country
+      Value: Mexico
+    - ID: "bcfd3e35-8ec5-4ba4-b22f-00669ef4d2d5"
+      Hint: Publish Date
+      Value: 
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: The Mexican Petroleum Congress (Congreso Mexicano del Petrόleo, CMP) is an important scientific and technological forum for Mexico and Latin America.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20210324T180005Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{C6A5264C-6121-417C-B330-CB8E0B143FE1}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230509T150912Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{C6A5264C-6121-417C-B330-CB8E0B143FE1}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />

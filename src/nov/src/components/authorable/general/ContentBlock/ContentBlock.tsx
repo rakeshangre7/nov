@@ -20,14 +20,24 @@ const ContentBlock = ({ fields }: ContentBlockProps): JSX.Element => {
   if (fields === null || fields === undefined) return <></>;
 
   return (
-    <div
-      className="bg-theme-bg border border-b-4 border-b-primary border-black dark:border-gray dark:border-b-primary max-w-lg p-2 rounded"
-      data-component="authorable/general/contentblock"
-      data-testid="contentblock"
-    >
-      <p className="font-bold">ContentBlock</p>
-      <RichTextA11yWrapper data-testid="contentblock" field={fields.text} editable />
-    </div>
+    <>
+      <div className="container mx-auto  font-light italic">
+        <div
+          className="bg-theme-bg border border-b-4 border-b-primary border-black dark:border-gray dark:border-b-primary max-w-lg p-2 rounded"
+          data-component="authorable/general/contentblock"
+          data-testid="contentblock"
+        >
+          <p className="text-80 leading-80">ContentBlock</p>
+          <RichTextA11yWrapper data-testid="contentblock" field={fields.text} editable />
+          <div className="grid gap-8 grid-cols-3">
+            <div className="text-gray">01</div>
+            <div className="bg-red">02</div>
+            <div className="bg-red">03</div>
+            <div className="bg-red">04</div>
+          </div>
+        </div>
+      </div>
+    </>
   );
 };
 
