@@ -1,0 +1,1871 @@
+﻿---
+ID: "7e961e06-9bfa-44c0-aa4f-84e13d66719c"
+Parent: "a98608ab-b52d-46d3-aa4c-79b35adf2b3f"
+Template: "fa173e9d-ff30-4ddf-93b9-7e6d647c30ae"
+Path: /sitecore/content/nov/nov/Home/About/Our Business Units/Downhole
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}">
+              <p:d />
+            </r>
+            <r
+              uid="{0109759E-4600-4B78-A0E6-96D9B8F26CB9}">
+              <p:d />
+            </r>
+            <r
+              uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}">
+              <p:d />
+            </r>
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}">
+              <p:d />
+            </r>
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
+              <p:d />
+            </r>
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}">
+              <p:d />
+            </r>
+            <r
+              uid="{329B0C59-72E0-4D5B-9CFA-8C146F0A6D13}"
+              p:before="*"
+              s:ds="{3065456C-822B-45A0-AF62-0A0D857CC1D2}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{769FF6F2-BD73-4336-B1AF-BB9AFD40960B}"
+              p:after="r[@uid='{329B0C59-72E0-4D5B-9CFA-8C146F0A6D13}']"
+              s:ds="{F8750200-8516-4515-86E8-FE7BD9457F6A}"
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:par="Add Gradient=1&amp;Text Color=white"
+              s:ph="/main/hero-slide-{A2CC676B-2F9E-4991-BC00-E0E743E66615}-0" />
+            <r
+              uid="{A2CC676B-2F9E-4991-BC00-E0E743E66615}"
+              p:after="r[@uid='{769FF6F2-BD73-4336-B1AF-BB9AFD40960B}']"
+              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}"
+              s:id="{AB213187-9551-4F9B-AE3D-261BB2B2434F}"
+              s:ph="main" />
+            <r
+              uid="{8E05721E-1C50-4E28-BF20-82C6F4D5F76A}"
+              p:after="r[@uid='{A2CC676B-2F9E-4991-BC00-E0E743E66615}']"
+              s:ds="{1F45B7D0-BB46-4326-ACC3-9FA8F6D86DE4}"
+              s:id="{A22722F6-65DF-4574-B659-191957028C9B}"
+              s:ph="main" />
+            <r
+              uid="{00868E37-563D-4517-9E2F-B4DB1E99C2F9}"
+              p:after="r[@uid='{8E05721E-1C50-4E28-BF20-82C6F4D5F76A}']"
+              s:ds="{F908E703-79C9-44C3-8C41-3BC05C0D1294}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:par=""
+              s:ph="main" />
+            <r
+              uid="{747B22C9-C1EE-4971-A291-9FB111DD4894}"
+              p:after="r[@uid='{00868E37-563D-4517-9E2F-B4DB1E99C2F9}']"
+              s:ds="{999AFE2D-7535-4B1B-91C1-6C4A66BF5692}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Downhole
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Increase ROP, improve safety, and decrease nonproductive time with Downhole drilling and intervention solutions.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Downhole
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190529T203342Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Downhole
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Downhole
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joannazhu
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Downhole
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{8B474B92-9D93-442B-B8AB-6FFFFCA5D53D}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "70c754d5-9b1b-4b57-a9ed-feb836d041df"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Downhole
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\joannazhu
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Increase ROP, improve safety, and decrease nonproductive time with Downhole drilling and intervention solutions.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190529T203342Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{8F90C662-C561-42CE-9844-5708B2927228}" cropregion="0,551,1424,1368" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190529T203431Z
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: downhole, drilling and intervention
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{8F90C662-C561-42CE-9844-5708B2927228}" cropregion="0,420,1920,1500" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}">
+              <p:d />
+            </r>
+            <r
+              uid="{0109759E-4600-4B78-A0E6-96D9B8F26CB9}">
+              <p:d />
+            </r>
+            <r
+              uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}">
+              <p:d />
+            </r>
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}">
+              <p:d />
+            </r>
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
+              <p:d />
+            </r>
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}">
+              <p:d />
+            </r>
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
+              <p:d />
+            </r>
+            <r
+              uid="{329B0C59-72E0-4D5B-9CFA-8C146F0A6D13}"
+              p:before="*"
+              s:ds="{3065456C-822B-45A0-AF62-0A0D857CC1D2}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{769FF6F2-BD73-4336-B1AF-BB9AFD40960B}"
+              p:after="r[@uid='{329B0C59-72E0-4D5B-9CFA-8C146F0A6D13}']"
+              s:ds="{F8750200-8516-4515-86E8-FE7BD9457F6A}"
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:par="Add Gradient=1&amp;Text Color=white"
+              s:ph="/main/hero-slide-{A2CC676B-2F9E-4991-BC00-E0E743E66615}-0" />
+            <r
+              uid="{A2CC676B-2F9E-4991-BC00-E0E743E66615}"
+              p:after="r[@uid='{769FF6F2-BD73-4336-B1AF-BB9AFD40960B}']"
+              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}"
+              s:id="{AB213187-9551-4F9B-AE3D-261BB2B2434F}"
+              s:ph="main" />
+            <r
+              uid="{8E05721E-1C50-4E28-BF20-82C6F4D5F76A}"
+              p:after="r[@uid='{A2CC676B-2F9E-4991-BC00-E0E743E66615}']"
+              s:ds="{1F45B7D0-BB46-4326-ACC3-9FA8F6D86DE4}"
+              s:id="{A22722F6-65DF-4574-B659-191957028C9B}"
+              s:ph="main" />
+            <r
+              uid="{16BB1EFF-F71E-4544-881C-F6E0013F5FD5}"
+              p:after="r[@uid='{8E05721E-1C50-4E28-BF20-82C6F4D5F76A}']"
+              s:ds="{8224322F-1CD5-49C4-AF24-0DC0B1800532}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{00868E37-563D-4517-9E2F-B4DB1E99C2F9}"
+              p:after="r[@uid='{16BB1EFF-F71E-4544-881C-F6E0013F5FD5}']"
+              s:ds="{F908E703-79C9-44C3-8C41-3BC05C0D1294}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:par=""
+              s:ph="main" />
+            <r
+              uid="{747B22C9-C1EE-4971-A291-9FB111DD4894}"
+              p:after="r[@uid='{00868E37-563D-4517-9E2F-B4DB1E99C2F9}']"
+              s:ds="{999AFE2D-7535-4B1B-91C1-6C4A66BF5692}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Downhole
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Increase ROP, improve safety, and decrease nonproductive time with Downhole drilling and intervention solutions.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Downhole
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190530T140928Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Downhole
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Downhole
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joannazhu
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Downhole
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{8B474B92-9D93-442B-B8AB-6FFFFCA5D53D}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1fc19199-7ef9-4347-9615-86843eab79c5"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Downhole
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\joannazhu
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Increase ROP, improve safety, and decrease nonproductive time with Downhole drilling and intervention solutions.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190530T140928Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{8F90C662-C561-42CE-9844-5708B2927228}" cropregion="0,551,1424,1368" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190530T141059Z
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: downhole, drilling and intervention
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{8F90C662-C561-42CE-9844-5708B2927228}" cropregion="0,420,1920,1500" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}">
+              <p:d />
+            </r>
+            <r
+              uid="{0109759E-4600-4B78-A0E6-96D9B8F26CB9}">
+              <p:d />
+            </r>
+            <r
+              uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}">
+              <p:d />
+            </r>
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}">
+              <p:d />
+            </r>
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
+              <p:d />
+            </r>
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}">
+              <p:d />
+            </r>
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{329B0C59-72E0-4D5B-9CFA-8C146F0A6D13}"
+              p:before="*"
+              s:ds="{3065456C-822B-45A0-AF62-0A0D857CC1D2}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{769FF6F2-BD73-4336-B1AF-BB9AFD40960B}"
+              p:after="r[@uid='{329B0C59-72E0-4D5B-9CFA-8C146F0A6D13}']"
+              s:ds="{F8750200-8516-4515-86E8-FE7BD9457F6A}"
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:par="Add Gradient=1&amp;Text Color=white"
+              s:ph="/main/hero-slide-{A2CC676B-2F9E-4991-BC00-E0E743E66615}-0" />
+            <r
+              uid="{A2CC676B-2F9E-4991-BC00-E0E743E66615}"
+              p:after="r[@uid='{769FF6F2-BD73-4336-B1AF-BB9AFD40960B}']"
+              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}"
+              s:id="{AB213187-9551-4F9B-AE3D-261BB2B2434F}"
+              s:ph="main" />
+            <r
+              uid="{8E05721E-1C50-4E28-BF20-82C6F4D5F76A}"
+              p:after="r[@uid='{A2CC676B-2F9E-4991-BC00-E0E743E66615}']"
+              s:ds="{1F45B7D0-BB46-4326-ACC3-9FA8F6D86DE4}"
+              s:id="{A22722F6-65DF-4574-B659-191957028C9B}"
+              s:ph="main" />
+            <r
+              uid="{16BB1EFF-F71E-4544-881C-F6E0013F5FD5}"
+              p:after="r[@uid='{8E05721E-1C50-4E28-BF20-82C6F4D5F76A}']"
+              s:ds="{8224322F-1CD5-49C4-AF24-0DC0B1800532}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{00868E37-563D-4517-9E2F-B4DB1E99C2F9}"
+              p:after="r[@uid='{16BB1EFF-F71E-4544-881C-F6E0013F5FD5}']"
+              s:ds="{F908E703-79C9-44C3-8C41-3BC05C0D1294}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:par=""
+              s:ph="main" />
+            <r
+              uid="{6C92B23D-0CE6-4001-972D-E1510F88B208}"
+              p:after="r[@uid='{00868E37-563D-4517-9E2F-B4DB1E99C2F9}']"
+              s:ds="{1CA92320-825B-422B-B833-3010DB955C5F}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:ph="main" />
+            <r
+              uid="{82136670-225F-4C3F-BA61-422EC6ABBF67}"
+              p:after="r[@uid='{6C92B23D-0CE6-4001-972D-E1510F88B208}']"
+              s:ds="{764378DD-B2E3-4E72-B47C-8D76DDAC475A}"
+              s:id="{7EE99E6C-C671-468E-8381-C6B9BB1E6416}"
+              s:ph="main" />
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Downhole
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Increase ROP, improve safety, and decrease nonproductive time with Downhole drilling and intervention solutions.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Downhole
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190530T212852Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Downhole
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Downhole
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joannazhu
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Downhole
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{8B474B92-9D93-442B-B8AB-6FFFFCA5D53D}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cf82133c-2608-46e6-bb73-8272a4990f98"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Downhole
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\joannazhu
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Increase ROP, improve safety, and decrease nonproductive time with Downhole drilling and intervention solutions.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190530T212852Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{8F90C662-C561-42CE-9844-5708B2927228}" cropregion="0,551,1424,1368" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190530T214139Z
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: downhole, drilling and intervention
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{8F90C662-C561-42CE-9844-5708B2927228}" cropregion="0,420,1920,1500" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 4
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}">
+              <p:d />
+            </r>
+            <r
+              uid="{0109759E-4600-4B78-A0E6-96D9B8F26CB9}">
+              <p:d />
+            </r>
+            <r
+              uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}">
+              <p:d />
+            </r>
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}">
+              <p:d />
+            </r>
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
+              <p:d />
+            </r>
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}">
+              <p:d />
+            </r>
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{329B0C59-72E0-4D5B-9CFA-8C146F0A6D13}"
+              p:before="*"
+              s:ds="{3065456C-822B-45A0-AF62-0A0D857CC1D2}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{769FF6F2-BD73-4336-B1AF-BB9AFD40960B}"
+              p:after="r[@uid='{329B0C59-72E0-4D5B-9CFA-8C146F0A6D13}']"
+              s:ds="{F8750200-8516-4515-86E8-FE7BD9457F6A}"
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:par="Add Gradient=1&amp;Text Color=white"
+              s:ph="/main/hero-slide-{A2CC676B-2F9E-4991-BC00-E0E743E66615}-0" />
+            <r
+              uid="{A2CC676B-2F9E-4991-BC00-E0E743E66615}"
+              p:after="r[@uid='{769FF6F2-BD73-4336-B1AF-BB9AFD40960B}']"
+              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}"
+              s:id="{AB213187-9551-4F9B-AE3D-261BB2B2434F}"
+              s:ph="main" />
+            <r
+              uid="{8E05721E-1C50-4E28-BF20-82C6F4D5F76A}"
+              p:after="r[@uid='{A2CC676B-2F9E-4991-BC00-E0E743E66615}']"
+              s:ds="{1F45B7D0-BB46-4326-ACC3-9FA8F6D86DE4}"
+              s:id="{A22722F6-65DF-4574-B659-191957028C9B}"
+              s:ph="main" />
+            <r
+              uid="{16BB1EFF-F71E-4544-881C-F6E0013F5FD5}"
+              p:after="r[@uid='{8E05721E-1C50-4E28-BF20-82C6F4D5F76A}']"
+              s:ds="{8224322F-1CD5-49C4-AF24-0DC0B1800532}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{00868E37-563D-4517-9E2F-B4DB1E99C2F9}"
+              p:after="r[@uid='{16BB1EFF-F71E-4544-881C-F6E0013F5FD5}']"
+              s:ds="{F908E703-79C9-44C3-8C41-3BC05C0D1294}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:par=""
+              s:ph="main" />
+            <r
+              uid="{6C92B23D-0CE6-4001-972D-E1510F88B208}"
+              p:after="r[@uid='{00868E37-563D-4517-9E2F-B4DB1E99C2F9}']"
+              s:ds="{1CA92320-825B-422B-B833-3010DB955C5F}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:ph="main" />
+            <r
+              uid="{82136670-225F-4C3F-BA61-422EC6ABBF67}"
+              p:after="r[@uid='{6C92B23D-0CE6-4001-972D-E1510F88B208}']"
+              s:ds="{764378DD-B2E3-4E72-B47C-8D76DDAC475A}"
+              s:id="{7EE99E6C-C671-468E-8381-C6B9BB1E6416}"
+              s:ph="main" />
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Downhole
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Increase ROP, improve safety, and decrease nonproductive time with Downhole drilling and intervention solutions.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Downhole
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190530T214547Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Downhole
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Downhole
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joannazhu
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Downhole
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{8B474B92-9D93-442B-B8AB-6FFFFCA5D53D}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4b24c5ba-9ac5-4acb-9dc3-2da05bae41cb"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Downhole
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\joannazhu
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Increase ROP, improve safety, and decrease nonproductive time with Downhole drilling and intervention solutions.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190530T214547Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{8F90C662-C561-42CE-9844-5708B2927228}" cropregion="0,551,1424,1368" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190530T214703Z
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: downhole, drilling and intervention
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{8F90C662-C561-42CE-9844-5708B2927228}" cropregion="0,420,1920,1500" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 5
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}">
+              <p:d />
+            </r>
+            <r
+              uid="{0109759E-4600-4B78-A0E6-96D9B8F26CB9}">
+              <p:d />
+            </r>
+            <r
+              uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}">
+              <p:d />
+            </r>
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}">
+              <p:d />
+            </r>
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
+              <p:d />
+            </r>
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}">
+              <p:d />
+            </r>
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{329B0C59-72E0-4D5B-9CFA-8C146F0A6D13}"
+              p:before="*"
+              s:ds="{3065456C-822B-45A0-AF62-0A0D857CC1D2}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{769FF6F2-BD73-4336-B1AF-BB9AFD40960B}"
+              p:after="r[@uid='{329B0C59-72E0-4D5B-9CFA-8C146F0A6D13}']"
+              s:ds=""
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:par="Add Gradient=1&amp;Text Color=white"
+              s:ph="/main/hero-slide-{A2CC676B-2F9E-4991-BC00-E0E743E66615}-0" />
+            <r
+              uid="{A2CC676B-2F9E-4991-BC00-E0E743E66615}"
+              p:after="r[@uid='{769FF6F2-BD73-4336-B1AF-BB9AFD40960B}']"
+              s:ds="{68903F16-467C-4C6B-8293-FE603988C0BD}"
+              s:id="{AB213187-9551-4F9B-AE3D-261BB2B2434F}"
+              s:par="Enable Autoplay=true&amp;Add Gradient&amp;Text Color=white&amp;Wait Time=5000"
+              s:ph="main" />
+            <r
+              uid="{8E05721E-1C50-4E28-BF20-82C6F4D5F76A}"
+              p:after="r[@uid='{A2CC676B-2F9E-4991-BC00-E0E743E66615}']"
+              s:ds="{1F45B7D0-BB46-4326-ACC3-9FA8F6D86DE4}"
+              s:id="{A22722F6-65DF-4574-B659-191957028C9B}"
+              s:ph="main" />
+            <r
+              uid="{16BB1EFF-F71E-4544-881C-F6E0013F5FD5}"
+              p:after="r[@uid='{8E05721E-1C50-4E28-BF20-82C6F4D5F76A}']"
+              s:ds="{8224322F-1CD5-49C4-AF24-0DC0B1800532}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{00868E37-563D-4517-9E2F-B4DB1E99C2F9}"
+              p:after="r[@uid='{16BB1EFF-F71E-4544-881C-F6E0013F5FD5}']"
+              s:ds="{F908E703-79C9-44C3-8C41-3BC05C0D1294}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:par=""
+              s:ph="main" />
+            <r
+              uid="{6C92B23D-0CE6-4001-972D-E1510F88B208}"
+              p:after="r[@uid='{00868E37-563D-4517-9E2F-B4DB1E99C2F9}']"
+              s:ds="{1CA92320-825B-422B-B833-3010DB955C5F}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:ph="main" />
+            <r
+              uid="{82136670-225F-4C3F-BA61-422EC6ABBF67}"
+              p:after="r[@uid='{6C92B23D-0CE6-4001-972D-E1510F88B208}']"
+              s:ds="{764378DD-B2E3-4E72-B47C-8D76DDAC475A}"
+              s:id="{7EE99E6C-C671-468E-8381-C6B9BB1E6416}"
+              s:ph="main" />
+            <r
+              uid="{FDFEC258-AF1D-4CF9-A30A-A57905E9038B}"
+              p:after="r[@uid='{82136670-225F-4C3F-BA61-422EC6ABBF67}']"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Downhole
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Increase ROP, improve safety, and decrease nonproductive time with Downhole drilling and intervention solutions.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Downhole
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190701T201838Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Downhole
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Downhole
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Downhole
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{8B474B92-9D93-442B-B8AB-6FFFFCA5D53D}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b7424f94-1c4d-4bc3-9726-90fecf11d4b9"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Downhole
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Increase ROP, improve safety, and decrease nonproductive time with Downhole drilling and intervention solutions.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190701T201838Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{8F90C662-C561-42CE-9844-5708B2927228}" cropregion="0,551,1424,1368" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190701T203908Z
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: downhole, drilling and intervention
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{8F90C662-C561-42CE-9844-5708B2927228}" cropregion="0,420,1920,1500" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 6
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}">
+              <p:d />
+            </r>
+            <r
+              uid="{0109759E-4600-4B78-A0E6-96D9B8F26CB9}">
+              <p:d />
+            </r>
+            <r
+              uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}">
+              <p:d />
+            </r>
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}">
+              <p:d />
+            </r>
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
+              <p:d />
+            </r>
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}">
+              <p:d />
+            </r>
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{329B0C59-72E0-4D5B-9CFA-8C146F0A6D13}"
+              p:before="*"
+              s:ds="{3065456C-822B-45A0-AF62-0A0D857CC1D2}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{769FF6F2-BD73-4336-B1AF-BB9AFD40960B}"
+              p:after="r[@uid='{329B0C59-72E0-4D5B-9CFA-8C146F0A6D13}']"
+              s:ds=""
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:par="Add Gradient=1&amp;Text Color=white"
+              s:ph="/main/hero-slide-{A2CC676B-2F9E-4991-BC00-E0E743E66615}-0" />
+            <r
+              uid="{A2CC676B-2F9E-4991-BC00-E0E743E66615}"
+              p:after="r[@uid='{769FF6F2-BD73-4336-B1AF-BB9AFD40960B}']"
+              s:ds="{68903F16-467C-4C6B-8293-FE603988C0BD}"
+              s:id="{AB213187-9551-4F9B-AE3D-261BB2B2434F}"
+              s:par="Enable Autoplay=true&amp;Add Gradient&amp;Text Color=white&amp;Wait Time=5000"
+              s:ph="main" />
+            <r
+              uid="{8E05721E-1C50-4E28-BF20-82C6F4D5F76A}"
+              p:after="r[@uid='{A2CC676B-2F9E-4991-BC00-E0E743E66615}']"
+              s:ds="{1F45B7D0-BB46-4326-ACC3-9FA8F6D86DE4}"
+              s:id="{A22722F6-65DF-4574-B659-191957028C9B}"
+              s:ph="main" />
+            <r
+              uid="{16BB1EFF-F71E-4544-881C-F6E0013F5FD5}"
+              p:after="r[@uid='{8E05721E-1C50-4E28-BF20-82C6F4D5F76A}']"
+              s:ds="{8224322F-1CD5-49C4-AF24-0DC0B1800532}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{00868E37-563D-4517-9E2F-B4DB1E99C2F9}"
+              p:after="r[@uid='{16BB1EFF-F71E-4544-881C-F6E0013F5FD5}']"
+              s:ds="{F908E703-79C9-44C3-8C41-3BC05C0D1294}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:par=""
+              s:ph="main" />
+            <r
+              uid="{6C92B23D-0CE6-4001-972D-E1510F88B208}"
+              p:after="r[@uid='{00868E37-563D-4517-9E2F-B4DB1E99C2F9}']"
+              s:ds="{1CA92320-825B-422B-B833-3010DB955C5F}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:ph="main" />
+            <r
+              uid="{82136670-225F-4C3F-BA61-422EC6ABBF67}"
+              p:after="r[@uid='{6C92B23D-0CE6-4001-972D-E1510F88B208}']"
+              s:ds="{764378DD-B2E3-4E72-B47C-8D76DDAC475A}"
+              s:id="{7EE99E6C-C671-468E-8381-C6B9BB1E6416}"
+              s:ph="main" />
+            <r
+              uid="{FDFEC258-AF1D-4CF9-A30A-A57905E9038B}"
+              p:after="r[@uid='{82136670-225F-4C3F-BA61-422EC6ABBF67}']"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+            <r
+              uid="{2FB72E40-D795-42E9-A03C-0F7ED73B4463}"
+              s:ds="{152AF4E0-BFF3-4400-A330-EF0E69000E7D}" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Downhole
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Increase ROP, improve safety, and decrease nonproductive time with Downhole drilling and intervention solutions.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Downhole
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190709T204700Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Downhole
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Downhole
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joannazhu
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Downhole
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{8B474B92-9D93-442B-B8AB-6FFFFCA5D53D}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ac0812db-4f75-4d6e-8719-4e3f9683a184"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Downhole
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\joannazhu
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Increase ROP, improve safety, and decrease nonproductive time with Downhole drilling and intervention solutions.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190709T204700Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{8F90C662-C561-42CE-9844-5708B2927228}" cropregion="0,551,1424,1368" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190709T204848Z
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: downhole, drilling and intervention
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{8F90C662-C561-42CE-9844-5708B2927228}" cropregion="0,420,1920,1500" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 7
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}">
+              <p:d />
+            </r>
+            <r
+              uid="{0109759E-4600-4B78-A0E6-96D9B8F26CB9}">
+              <p:d />
+            </r>
+            <r
+              uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}">
+              <p:d />
+            </r>
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}">
+              <p:d />
+            </r>
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
+              <p:d />
+            </r>
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}">
+              <p:d />
+            </r>
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{329B0C59-72E0-4D5B-9CFA-8C146F0A6D13}"
+              p:before="*"
+              s:ds="{3065456C-822B-45A0-AF62-0A0D857CC1D2}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{769FF6F2-BD73-4336-B1AF-BB9AFD40960B}"
+              p:after="r[@uid='{329B0C59-72E0-4D5B-9CFA-8C146F0A6D13}']"
+              s:ds=""
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:par="Add Gradient=1&amp;Text Color=white"
+              s:ph="/main/hero-slide-{A2CC676B-2F9E-4991-BC00-E0E743E66615}-0" />
+            <r
+              uid="{A2CC676B-2F9E-4991-BC00-E0E743E66615}"
+              p:after="r[@uid='{769FF6F2-BD73-4336-B1AF-BB9AFD40960B}']"
+              s:ds="{925C638D-1E8A-4379-A3BD-7B2164E5D801}"
+              s:id="{AB213187-9551-4F9B-AE3D-261BB2B2434F}"
+              s:par="Enable Autoplay=true&amp;Add Gradient&amp;Text Color=white&amp;Wait Time=5000"
+              s:ph="main" />
+            <r
+              uid="{8E05721E-1C50-4E28-BF20-82C6F4D5F76A}"
+              p:after="r[@uid='{A2CC676B-2F9E-4991-BC00-E0E743E66615}']"
+              s:ds="{1F45B7D0-BB46-4326-ACC3-9FA8F6D86DE4}"
+              s:id="{A22722F6-65DF-4574-B659-191957028C9B}"
+              s:ph="main" />
+            <r
+              uid="{16BB1EFF-F71E-4544-881C-F6E0013F5FD5}"
+              p:after="r[@uid='{8E05721E-1C50-4E28-BF20-82C6F4D5F76A}']"
+              s:ds="{8224322F-1CD5-49C4-AF24-0DC0B1800532}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{00868E37-563D-4517-9E2F-B4DB1E99C2F9}"
+              p:after="r[@uid='{16BB1EFF-F71E-4544-881C-F6E0013F5FD5}']"
+              s:ds="{F908E703-79C9-44C3-8C41-3BC05C0D1294}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:par=""
+              s:ph="main" />
+            <r
+              uid="{6C92B23D-0CE6-4001-972D-E1510F88B208}"
+              p:after="r[@uid='{00868E37-563D-4517-9E2F-B4DB1E99C2F9}']"
+              s:ds="{1CA92320-825B-422B-B833-3010DB955C5F}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:ph="main" />
+            <r
+              uid="{82136670-225F-4C3F-BA61-422EC6ABBF67}"
+              p:after="r[@uid='{6C92B23D-0CE6-4001-972D-E1510F88B208}']"
+              s:ds="{764378DD-B2E3-4E72-B47C-8D76DDAC475A}"
+              s:id="{7EE99E6C-C671-468E-8381-C6B9BB1E6416}"
+              s:ph="main" />
+            <r
+              uid="{FDFEC258-AF1D-4CF9-A30A-A57905E9038B}"
+              p:after="r[@uid='{82136670-225F-4C3F-BA61-422EC6ABBF67}']"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+            <r
+              uid="{2FB72E40-D795-42E9-A03C-0F7ED73B4463}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Downhole
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Increase ROP, improve safety, and decrease nonproductive time with Downhole drilling and intervention solutions.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Downhole
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190710T194158Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Downhole
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Downhole
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joannazhu
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Downhole
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{8B474B92-9D93-442B-B8AB-6FFFFCA5D53D}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "61229976-1f39-4647-9261-a49cdd9ce040"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Downhole
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\joannazhu
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Increase ROP, improve safety, and decrease nonproductive time with Downhole drilling and intervention solutions.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190710T194158Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{8F90C662-C561-42CE-9844-5708B2927228}" cropregion="0,551,1424,1368" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190710T194354Z
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: downhole, drilling and intervention
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{8F90C662-C561-42CE-9844-5708B2927228}" cropregion="0,420,1920,1500" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 8
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}">
+              <p:d />
+            </r>
+            <r
+              uid="{0109759E-4600-4B78-A0E6-96D9B8F26CB9}">
+              <p:d />
+            </r>
+            <r
+              uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}">
+              <p:d />
+            </r>
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}">
+              <p:d />
+            </r>
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
+              <p:d />
+            </r>
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}">
+              <p:d />
+            </r>
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{329B0C59-72E0-4D5B-9CFA-8C146F0A6D13}"
+              p:before="*"
+              s:ds="{3065456C-822B-45A0-AF62-0A0D857CC1D2}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{769FF6F2-BD73-4336-B1AF-BB9AFD40960B}"
+              p:after="r[@uid='{329B0C59-72E0-4D5B-9CFA-8C146F0A6D13}']"
+              s:ds=""
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:par="Add Gradient=1&amp;Text Color=white"
+              s:ph="/main/hero-slide-{A2CC676B-2F9E-4991-BC00-E0E743E66615}-0" />
+            <r
+              uid="{A2CC676B-2F9E-4991-BC00-E0E743E66615}"
+              p:after="r[@uid='{769FF6F2-BD73-4336-B1AF-BB9AFD40960B}']"
+              s:ds="{925C638D-1E8A-4379-A3BD-7B2164E5D801}"
+              s:id="{AB213187-9551-4F9B-AE3D-261BB2B2434F}"
+              s:par="Enable Autoplay=true&amp;Add Gradient&amp;Text Color=white&amp;Wait Time=5000"
+              s:ph="main" />
+            <r
+              uid="{8E05721E-1C50-4E28-BF20-82C6F4D5F76A}"
+              p:after="r[@uid='{A2CC676B-2F9E-4991-BC00-E0E743E66615}']"
+              s:ds="{1F45B7D0-BB46-4326-ACC3-9FA8F6D86DE4}"
+              s:id="{A22722F6-65DF-4574-B659-191957028C9B}"
+              s:ph="main" />
+            <r
+              uid="{16BB1EFF-F71E-4544-881C-F6E0013F5FD5}"
+              p:after="r[@uid='{8E05721E-1C50-4E28-BF20-82C6F4D5F76A}']"
+              s:ds="{8224322F-1CD5-49C4-AF24-0DC0B1800532}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{00868E37-563D-4517-9E2F-B4DB1E99C2F9}"
+              p:after="r[@uid='{16BB1EFF-F71E-4544-881C-F6E0013F5FD5}']"
+              s:ds="{F908E703-79C9-44C3-8C41-3BC05C0D1294}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:par=""
+              s:ph="main" />
+            <r
+              uid="{6C92B23D-0CE6-4001-972D-E1510F88B208}"
+              p:after="r[@uid='{00868E37-563D-4517-9E2F-B4DB1E99C2F9}']"
+              s:ds="{1CA92320-825B-422B-B833-3010DB955C5F}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:ph="main" />
+            <r
+              uid="{82136670-225F-4C3F-BA61-422EC6ABBF67}"
+              p:after="r[@uid='{6C92B23D-0CE6-4001-972D-E1510F88B208}']"
+              s:ds="{764378DD-B2E3-4E72-B47C-8D76DDAC475A}"
+              s:id="{7EE99E6C-C671-468E-8381-C6B9BB1E6416}"
+              s:ph="main" />
+            <r
+              uid="{FDFEC258-AF1D-4CF9-A30A-A57905E9038B}"
+              p:after="r[@uid='{82136670-225F-4C3F-BA61-422EC6ABBF67}']"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+            <r
+              uid="{2FB72E40-D795-42E9-A03C-0F7ED73B4463}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Downhole
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Increase ROP, improve safety, and decrease nonproductive time with Downhole drilling and intervention solutions.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Downhole
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190711T204451Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Downhole
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Downhole
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joannazhu
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Downhole
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{8B474B92-9D93-442B-B8AB-6FFFFCA5D53D}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7caff22f-8651-4b5a-b7d3-dd9bf3d1ec91"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Downhole
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\joannazhu
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Increase ROP, improve safety, and decrease nonproductive time with Downhole drilling and intervention solutions.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190711T204451Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{8F90C662-C561-42CE-9844-5708B2927228}" cropregion="0,551,1424,1368" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190711T204626Z
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: downhole, drilling and intervention
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{8F90C662-C561-42CE-9844-5708B2927228}" cropregion="0,420,1920,1500" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 9
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}">
+              <p:d />
+            </r>
+            <r
+              uid="{0109759E-4600-4B78-A0E6-96D9B8F26CB9}">
+              <p:d />
+            </r>
+            <r
+              uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}">
+              <p:d />
+            </r>
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}">
+              <p:d />
+            </r>
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
+              <p:d />
+            </r>
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}">
+              <p:d />
+            </r>
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+            <r
+              uid="{329B0C59-72E0-4D5B-9CFA-8C146F0A6D13}"
+              p:before="*"
+              s:ds="{3065456C-822B-45A0-AF62-0A0D857CC1D2}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{769FF6F2-BD73-4336-B1AF-BB9AFD40960B}"
+              p:after="r[@uid='{329B0C59-72E0-4D5B-9CFA-8C146F0A6D13}']"
+              s:ds=""
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:par="Add Gradient=1&amp;Text Color=white"
+              s:ph="/main/hero-slide-{A2CC676B-2F9E-4991-BC00-E0E743E66615}-0" />
+            <r
+              uid="{A2CC676B-2F9E-4991-BC00-E0E743E66615}"
+              p:after="r[@uid='{769FF6F2-BD73-4336-B1AF-BB9AFD40960B}']"
+              s:ds="{925C638D-1E8A-4379-A3BD-7B2164E5D801}"
+              s:id="{AB213187-9551-4F9B-AE3D-261BB2B2434F}"
+              s:par="Enable Autoplay=true&amp;Add Gradient&amp;Text Color=white&amp;Wait Time=5000"
+              s:ph="main" />
+            <r
+              uid="{8E05721E-1C50-4E28-BF20-82C6F4D5F76A}"
+              p:after="r[@uid='{A2CC676B-2F9E-4991-BC00-E0E743E66615}']"
+              s:ds="{1F45B7D0-BB46-4326-ACC3-9FA8F6D86DE4}"
+              s:id="{A22722F6-65DF-4574-B659-191957028C9B}"
+              s:ph="main" />
+            <r
+              uid="{16BB1EFF-F71E-4544-881C-F6E0013F5FD5}"
+              p:after="r[@uid='{8E05721E-1C50-4E28-BF20-82C6F4D5F76A}']"
+              s:ds="{8224322F-1CD5-49C4-AF24-0DC0B1800532}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{00868E37-563D-4517-9E2F-B4DB1E99C2F9}"
+              p:after="r[@uid='{16BB1EFF-F71E-4544-881C-F6E0013F5FD5}']"
+              s:ds="{F908E703-79C9-44C3-8C41-3BC05C0D1294}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:par=""
+              s:ph="main" />
+            <r
+              uid="{6C92B23D-0CE6-4001-972D-E1510F88B208}"
+              p:after="r[@uid='{00868E37-563D-4517-9E2F-B4DB1E99C2F9}']"
+              s:ds="{1CA92320-825B-422B-B833-3010DB955C5F}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:ph="main" />
+            <r
+              uid="{82136670-225F-4C3F-BA61-422EC6ABBF67}"
+              p:after="r[@uid='{6C92B23D-0CE6-4001-972D-E1510F88B208}']"
+              s:ds="{764378DD-B2E3-4E72-B47C-8D76DDAC475A}"
+              s:id="{7EE99E6C-C671-468E-8381-C6B9BB1E6416}"
+              s:ph="main" />
+            <r
+              uid="{3D38EE73-10EF-4016-A14E-E58A2E3CA67F}"
+              p:after="r[@uid='{82136670-225F-4C3F-BA61-422EC6ABBF67}']"
+              s:ds="{30E65D71-615A-4616-A63A-2F18865DD4F3}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{FDFEC258-AF1D-4CF9-A30A-A57905E9038B}"
+              p:after="r[@uid='{3D38EE73-10EF-4016-A14E-E58A2E3CA67F}']"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{2FB72E40-D795-42E9-A03C-0F7ED73B4463}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Downhole
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Increase ROP, improve safety, and decrease nonproductive time with Downhole drilling and intervention solutions.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Downhole
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190916T192013Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Downhole
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Downhole
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Downhole
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{8B474B92-9D93-442B-B8AB-6FFFFCA5D53D}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5aafd20f-4c7c-4275-a56d-c4660be2b946"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Downhole
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Increase ROP, improve safety, and decrease nonproductive time with Downhole drilling and intervention solutions.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190916T192013Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{8F90C662-C561-42CE-9844-5708B2927228}" cropregion="0,551,1424,1368" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190924T132055Z
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: downhole, drilling and intervention
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{8F90C662-C561-42CE-9844-5708B2927228}" cropregion="0,420,1920,1500" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 10
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}">
+              <p:d />
+            </r>
+            <r
+              uid="{0109759E-4600-4B78-A0E6-96D9B8F26CB9}">
+              <p:d />
+            </r>
+            <r
+              uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}">
+              <p:d />
+            </r>
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}">
+              <p:d />
+            </r>
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
+              <p:d />
+            </r>
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}">
+              <p:d />
+            </r>
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+            <r
+              uid="{329B0C59-72E0-4D5B-9CFA-8C146F0A6D13}"
+              p:before="*"
+              s:ds="{3065456C-822B-45A0-AF62-0A0D857CC1D2}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{769FF6F2-BD73-4336-B1AF-BB9AFD40960B}"
+              p:after="r[@uid='{329B0C59-72E0-4D5B-9CFA-8C146F0A6D13}']"
+              s:ds=""
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:par="Add Gradient=1&amp;Text Color=white"
+              s:ph="/main/hero-slide-{A2CC676B-2F9E-4991-BC00-E0E743E66615}-0" />
+            <r
+              uid="{A2CC676B-2F9E-4991-BC00-E0E743E66615}"
+              p:after="r[@uid='{769FF6F2-BD73-4336-B1AF-BB9AFD40960B}']"
+              s:ds="{925C638D-1E8A-4379-A3BD-7B2164E5D801}"
+              s:id="{AB213187-9551-4F9B-AE3D-261BB2B2434F}"
+              s:par="Enable Autoplay=true&amp;Add Gradient&amp;Text Color=white&amp;Wait Time=5000"
+              s:ph="main" />
+            <r
+              uid="{8E05721E-1C50-4E28-BF20-82C6F4D5F76A}"
+              p:after="r[@uid='{A2CC676B-2F9E-4991-BC00-E0E743E66615}']"
+              s:ds="{1F45B7D0-BB46-4326-ACC3-9FA8F6D86DE4}"
+              s:id="{A22722F6-65DF-4574-B659-191957028C9B}"
+              s:ph="main" />
+            <r
+              uid="{16BB1EFF-F71E-4544-881C-F6E0013F5FD5}"
+              p:after="r[@uid='{8E05721E-1C50-4E28-BF20-82C6F4D5F76A}']"
+              s:ds="{8224322F-1CD5-49C4-AF24-0DC0B1800532}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{00868E37-563D-4517-9E2F-B4DB1E99C2F9}"
+              p:after="r[@uid='{16BB1EFF-F71E-4544-881C-F6E0013F5FD5}']"
+              s:ds="{F908E703-79C9-44C3-8C41-3BC05C0D1294}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:par=""
+              s:ph="main" />
+            <r
+              uid="{6C92B23D-0CE6-4001-972D-E1510F88B208}"
+              p:after="r[@uid='{00868E37-563D-4517-9E2F-B4DB1E99C2F9}']"
+              s:ds="{1CA92320-825B-422B-B833-3010DB955C5F}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:ph="main" />
+            <r
+              uid="{82136670-225F-4C3F-BA61-422EC6ABBF67}"
+              p:after="r[@uid='{6C92B23D-0CE6-4001-972D-E1510F88B208}']"
+              s:ds="{764378DD-B2E3-4E72-B47C-8D76DDAC475A}"
+              s:id="{7EE99E6C-C671-468E-8381-C6B9BB1E6416}"
+              s:ph="main" />
+            <r
+              uid="{3D38EE73-10EF-4016-A14E-E58A2E3CA67F}"
+              p:after="r[@uid='{82136670-225F-4C3F-BA61-422EC6ABBF67}']"
+              s:ds="{30E65D71-615A-4616-A63A-2F18865DD4F3}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{FDFEC258-AF1D-4CF9-A30A-A57905E9038B}"
+              p:after="r[@uid='{3D38EE73-10EF-4016-A14E-E58A2E3CA67F}']"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{2FB72E40-D795-42E9-A03C-0F7ED73B4463}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Downhole
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Increase ROP, improve safety, and decrease nonproductive time with Downhole drilling and intervention solutions.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Downhole
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200330T204503Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Downhole
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Downhole
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Downhole
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{8B474B92-9D93-442B-B8AB-6FFFFCA5D53D}"
+    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
+      Hint: Search Result Text
+      Value: "Business Unit: Downhole"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "04d4e649-966c-46f0-ab19-f5213a18dfbf"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Downhole
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Increase ROP, improve safety, and decrease nonproductive time with Downhole drilling and intervention solutions.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200330T204503Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{8F90C662-C561-42CE-9844-5708B2927228}" cropregion="0,551,1424,1368" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200330T204610Z
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: downhole, drilling and intervention
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{8F90C662-C561-42CE-9844-5708B2927228}" cropregion="0,420,1920,1500" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />

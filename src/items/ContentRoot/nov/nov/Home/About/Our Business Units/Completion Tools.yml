@@ -1,0 +1,1619 @@
+﻿---
+ID: "e4f7fdda-0b0d-403a-b824-f3a8fb226206"
+Parent: "a98608ab-b52d-46d3-aa4c-79b35adf2b3f"
+Template: "fa173e9d-ff30-4ddf-93b9-7e6d647c30ae"
+Path: /sitecore/content/nov/nov/Home/About/Our Business Units/Completion Tools
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{819F930D-5CCC-44AF-A7DD-3CAAD271B202}" />
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BE19157-FD32-4581-B422-C47B44ACA6A4}"
+              p:before="*"
+              s:ds="{F7F6AE24-2EF5-426D-B7D1-9A54D636083E}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{0109759E-4600-4B78-A0E6-96D9B8F26CB9}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}"
+              s:ds="{925C638D-1E8A-4379-A3BD-7B2164E5D801}"
+              s:par="Enable Autoplay=true&amp;Add Gradient&amp;Text Color=white&amp;Wait Time=5000" />
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}"
+              s:ds="{4B6E49F7-5FE9-43B2-BDDD-60328E392A30}" />
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
+              <p:d />
+            </r>
+            <r
+              uid="{528D188A-A1F4-43C6-933E-B98265516685}"
+              p:after="r[@uid='{D0D1C772-7E1B-45CD-8D78-0877C08009C2}']"
+              s:ds="{87A05D95-A85A-4225-95D0-2FE7B88B48B7}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}"
+              s:ds="{B83F3170-7F45-439F-8812-A083DEE98A9E}" />
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{F8C6F8CE-C7CB-42A2-85C8-9D09CD00174C}"
+              p:after="r[@uid='{84911C9D-A555-4FE3-AD88-56950399EBC0}']"
+              s:ds="{CC9A5E49-A9A2-403E-A097-7A66D03E13FA}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:ph="main" />
+            <r
+              uid="{7D8BBA45-4184-4093-AC98-ADE404045C47}"
+              p:after="r[@uid='{F8C6F8CE-C7CB-42A2-85C8-9D09CD00174C}']"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+            <r
+              uid="{2FB72E40-D795-42E9-A03C-0F7ED73B4463}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Completion Tools
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Completion Tools offers its oil and gas customers completion products that improve reservoir performance and production, decrease capital, and save time.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Completion Tools
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200514T141620Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Completion Tools
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Completion Tools
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joshuashearer
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Completion Tools
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{C49DEA2C-8589-4331-B6D2-7F7ACCBDC845}"
+    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
+      Hint: Search Result Text
+      Value: "Business Unit: Completion Tools"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d070d7fe-78ac-4b11-ba68-b1af7a10f731"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: ​Completion Tools offers its oil and gas customers completion products that improve reservoir performance and production, decrease capital, and save time.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200514T141620Z
+    - ID: "d4431923-68cf-42a0-a27e-db945d791fdb"
+      Hint: Canonical URL
+      Value: "https://www.nov.com/about/our-business-units/completion-tools"
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{5F0C93CF-748F-40DF-8C53-109A7D1B22ED}" cropregion="16,0,1902,1081" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200626T162909Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{5F0C93CF-748F-40DF-8C53-109A7D1B22ED}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BE19157-FD32-4581-B422-C47B44ACA6A4}"
+              p:before="*"
+              s:ds="{F7F6AE24-2EF5-426D-B7D1-9A54D636083E}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{0109759E-4600-4B78-A0E6-96D9B8F26CB9}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}"
+              s:ds="{925C638D-1E8A-4379-A3BD-7B2164E5D801}"
+              s:par="Enable Autoplay=true&amp;Add Gradient&amp;Text Color=white&amp;Wait Time=5000" />
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}"
+              s:ds="{4B6E49F7-5FE9-43B2-BDDD-60328E392A30}" />
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
+              <p:d />
+            </r>
+            <r
+              uid="{528D188A-A1F4-43C6-933E-B98265516685}"
+              p:after="r[@uid='{D0D1C772-7E1B-45CD-8D78-0877C08009C2}']"
+              s:ds="{87A05D95-A85A-4225-95D0-2FE7B88B48B7}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}"
+              s:ds="{B83F3170-7F45-439F-8812-A083DEE98A9E}" />
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{F8C6F8CE-C7CB-42A2-85C8-9D09CD00174C}"
+              p:after="r[@uid='{84911C9D-A555-4FE3-AD88-56950399EBC0}']"
+              s:ds="{CC9A5E49-A9A2-403E-A097-7A66D03E13FA}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:ph="main" />
+            <r
+              uid="{7D8BBA45-4184-4093-AC98-ADE404045C47}"
+              p:after="r[@uid='{F8C6F8CE-C7CB-42A2-85C8-9D09CD00174C}']"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+            <r
+              uid="{2FB72E40-D795-42E9-A03C-0F7ED73B4463}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Completion Tools
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Completion Tools offers its oil and gas customers completion products that improve reservoir performance and production, maximize return on capital, and save time.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Completion Tools
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200826T125222Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Completion Tools
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Completion Tools
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaylakaplan
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Completion Tools
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{C49DEA2C-8589-4331-B6D2-7F7ACCBDC845}"
+    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
+      Hint: Search Result Text
+      Value: "Business Unit: Completion Tools"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9fa0962e-f47a-4b92-b163-a4e1f7574604"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaylakaplan
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: ​Completion Tools offers its oil and gas customers completion products that improve reservoir performance and production, decrease capital, and save time.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200826T125222Z
+    - ID: "d4431923-68cf-42a0-a27e-db945d791fdb"
+      Hint: Canonical URL
+      Value: "https://www.nov.com/about/our-business-units/completion-tools"
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{5F0C93CF-748F-40DF-8C53-109A7D1B22ED}" cropregion="16,0,1902,1081" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200826T125350Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{5F0C93CF-748F-40DF-8C53-109A7D1B22ED}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BE19157-FD32-4581-B422-C47B44ACA6A4}"
+              p:before="*"
+              s:ds="{F7F6AE24-2EF5-426D-B7D1-9A54D636083E}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}"
+              s:ds="{925C638D-1E8A-4379-A3BD-7B2164E5D801}"
+              s:par="Enable Autoplay=true&amp;Add Gradient&amp;Text Color=white&amp;Wait Time=5000" />
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}"
+              s:ds="{4B6E49F7-5FE9-43B2-BDDD-60328E392A30}" />
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
+              <p:d />
+            </r>
+            <r
+              uid="{528D188A-A1F4-43C6-933E-B98265516685}"
+              p:after="r[@uid='{D0D1C772-7E1B-45CD-8D78-0877C08009C2}']"
+              s:ds="{87A05D95-A85A-4225-95D0-2FE7B88B48B7}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}"
+              s:ds="{B83F3170-7F45-439F-8812-A083DEE98A9E}" />
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{F8C6F8CE-C7CB-42A2-85C8-9D09CD00174C}"
+              p:after="r[@uid='{84911C9D-A555-4FE3-AD88-56950399EBC0}']"
+              s:ds="{CC9A5E49-A9A2-403E-A097-7A66D03E13FA}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:ph="main" />
+            <r
+              uid="{7D8BBA45-4184-4093-AC98-ADE404045C47}"
+              p:after="r[@uid='{F8C6F8CE-C7CB-42A2-85C8-9D09CD00174C}']"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+            <r
+              uid="{2FB72E40-D795-42E9-A03C-0F7ED73B4463}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Completion Tools
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Completion Tools offers its oil and gas customers completion products that improve reservoir performance and production, maximize return on capital, and save time.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Completion Tools
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200923T161754Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Completion Tools
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Completion Tools
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaylakaplan
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Completion Tools
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{C49DEA2C-8589-4331-B6D2-7F7ACCBDC845}"
+    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
+      Hint: Search Result Text
+      Value: "Business Unit: Completion Tools"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "36d8c01b-9ed3-48b4-9a90-cdc0750522a6"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\adminrschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: ​Completion Tools offers its oil and gas customers completion products that improve reservoir performance and production, decrease capital, and save time.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200923T161754Z
+    - ID: "d4431923-68cf-42a0-a27e-db945d791fdb"
+      Hint: Canonical URL
+      Value: "https://www.nov.com/about/our-business-units/completion-tools"
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{41DA2BAE-C3D6-46B0-B07B-B4BE23454E4F}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210422T010857Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{41DA2BAE-C3D6-46B0-B07B-B4BE23454E4F}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 4
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "019c3c8b-3d47-4b92-a8e9-838880ddf307"
+      Hint: Open Graph Title
+      Value: Completion Tools
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BE19157-FD32-4581-B422-C47B44ACA6A4}"
+              p:before="*"
+              s:ds="{F7F6AE24-2EF5-426D-B7D1-9A54D636083E}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}"
+              s:ds="{925C638D-1E8A-4379-A3BD-7B2164E5D801}"
+              s:par="Enable Autoplay=true&amp;Add Gradient&amp;Text Color=white&amp;Wait Time=5000" />
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}"
+              s:ds="{4B6E49F7-5FE9-43B2-BDDD-60328E392A30}" />
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
+              <p:d />
+            </r>
+            <r
+              uid="{528D188A-A1F4-43C6-933E-B98265516685}"
+              p:after="r[@uid='{D0D1C772-7E1B-45CD-8D78-0877C08009C2}']"
+              s:ds="{87A05D95-A85A-4225-95D0-2FE7B88B48B7}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}"
+              s:ds="{B83F3170-7F45-439F-8812-A083DEE98A9E}" />
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{FDAC6416-771E-4868-9959-92943C4E1C5D}"
+              p:after="r[@uid='{84911C9D-A555-4FE3-AD88-56950399EBC0}']"
+              s:ds="{155C54DB-0541-4E38-9A45-0E1815E61840}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:ph="main" />
+            <r
+              uid="{7D8BBA45-4184-4093-AC98-ADE404045C47}"
+              p:after="r[@uid='{FDAC6416-771E-4868-9959-92943C4E1C5D}']"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+            <r
+              uid="{2FB72E40-D795-42E9-A03C-0F7ED73B4463}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Completion Tools
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Completion Tools offers its oil and gas customers completion products that improve reservoir performance and production, maximize return on capital, and save time.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Completion Tools
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220801T180918Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Completion Tools
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Completion Tools
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{55787333-F077-46C4-A41E-C06C83DED2DA}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mariahrichardson
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Completion Tools
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{C49DEA2C-8589-4331-B6D2-7F7ACCBDC845}"
+    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
+      Hint: Search Result Text
+      Value: "Business Unit: Completion Tools"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "373a7d8e-98c4-49f0-9d68-db53322260ef"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: ​Completion Tools offers its oil and gas customers completion products that improve reservoir performance and production, decrease capital, and save time.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20220801T180918Z
+    - ID: "d4431923-68cf-42a0-a27e-db945d791fdb"
+      Hint: Canonical URL
+      Value: "https://www.nov.com/about/our-business-units/completion-tools"
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{55787333-F077-46C4-A41E-C06C83DED2DA}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20221027T173232Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{55787333-F077-46C4-A41E-C06C83DED2DA}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 5
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "019c3c8b-3d47-4b92-a8e9-838880ddf307"
+      Hint: Open Graph Title
+      Value: Completion Tools
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BE19157-FD32-4581-B422-C47B44ACA6A4}"
+              p:before="*"
+              s:ds="{F7F6AE24-2EF5-426D-B7D1-9A54D636083E}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}"
+              s:ds="{925C638D-1E8A-4379-A3BD-7B2164E5D801}"
+              s:par="Enable Autoplay=true&amp;Add Gradient&amp;Text Color=white&amp;Wait Time=5000" />
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}"
+              s:ds="{4B6E49F7-5FE9-43B2-BDDD-60328E392A30}" />
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
+              <p:d />
+            </r>
+            <r
+              uid="{528D188A-A1F4-43C6-933E-B98265516685}"
+              p:after="r[@uid='{D0D1C772-7E1B-45CD-8D78-0877C08009C2}']"
+              s:ds="{87A05D95-A85A-4225-95D0-2FE7B88B48B7}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}"
+              s:ds="{B83F3170-7F45-439F-8812-A083DEE98A9E}" />
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{FDAC6416-771E-4868-9959-92943C4E1C5D}"
+              p:after="r[@uid='{84911C9D-A555-4FE3-AD88-56950399EBC0}']"
+              s:ds="{155C54DB-0541-4E38-9A45-0E1815E61840}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:ph="main" />
+            <r
+              uid="{7D8BBA45-4184-4093-AC98-ADE404045C47}"
+              p:after="r[@uid='{FDAC6416-771E-4868-9959-92943C4E1C5D}']"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+            <r
+              uid="{2FB72E40-D795-42E9-A03C-0F7ED73B4463}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Completion Tools
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Completion Tools offers its oil and gas customers completion products that improve reservoir performance and production, maximize return on capital, and save time.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Completion Tools
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221116T215238Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Completion Tools
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Completion Tools
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{55787333-F077-46C4-A41E-C06C83DED2DA}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Completion Tools
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{C49DEA2C-8589-4331-B6D2-7F7ACCBDC845}"
+    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
+      Hint: Search Result Text
+      Value: "Business Unit: Completion Tools"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3c79d9fb-8549-4700-ab6e-d8e341dddeb6"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: ​Completion Tools offers its oil and gas customers completion products that improve reservoir performance and production, decrease capital, and save time.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20221116T215238Z
+    - ID: "d4431923-68cf-42a0-a27e-db945d791fdb"
+      Hint: Canonical URL
+      Value: "https://www.nov.com/about/our-business-units/completion-tools"
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{55787333-F077-46C4-A41E-C06C83DED2DA}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20221122T204022Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{55787333-F077-46C4-A41E-C06C83DED2DA}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 6
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "019c3c8b-3d47-4b92-a8e9-838880ddf307"
+      Hint: Open Graph Title
+      Value: Completion Tools
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BE19157-FD32-4581-B422-C47B44ACA6A4}"
+              p:before="*"
+              s:ds="{F7F6AE24-2EF5-426D-B7D1-9A54D636083E}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}"
+              s:ds="{925C638D-1E8A-4379-A3BD-7B2164E5D801}"
+              s:par="Enable Autoplay=true&amp;Add Gradient&amp;Text Color=white&amp;Wait Time=5000" />
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}"
+              s:ds="{4B6E49F7-5FE9-43B2-BDDD-60328E392A30}" />
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
+              <p:d />
+            </r>
+            <r
+              uid="{528D188A-A1F4-43C6-933E-B98265516685}"
+              p:after="r[@uid='{D0D1C772-7E1B-45CD-8D78-0877C08009C2}']"
+              s:ds="{87A05D95-A85A-4225-95D0-2FE7B88B48B7}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}"
+              s:ds="{B83F3170-7F45-439F-8812-A083DEE98A9E}" />
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{FDAC6416-771E-4868-9959-92943C4E1C5D}"
+              p:after="r[@uid='{84911C9D-A555-4FE3-AD88-56950399EBC0}']"
+              s:ds="{155C54DB-0541-4E38-9A45-0E1815E61840}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:ph="main" />
+            <r
+              uid="{F0FD8F85-0D20-49BE-B072-843303B30F1B}"
+              p:after="r[@uid='{FDAC6416-771E-4868-9959-92943C4E1C5D}']"
+              s:ds="{981AB0D1-E71B-4BB0-8924-87ED12BB786C}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+            <r
+              uid="{2FB72E40-D795-42E9-A03C-0F7ED73B4463}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Completion Tools
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Completion Tools offers its oil and gas customers completion products that improve reservoir performance and production, maximize return on capital, and save time.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Completion Tools
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230210T170754Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Completion Tools
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Completion Tools
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{55787333-F077-46C4-A41E-C06C83DED2DA}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Completion Tools
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{C49DEA2C-8589-4331-B6D2-7F7ACCBDC845}"
+    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
+      Hint: Search Result Text
+      Value: "Business Unit: Completion Tools"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ab8349b5-7b7d-4ceb-aa83-4ae63f16909c"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: ​Completion Tools offers its oil and gas customers completion products that improve reservoir performance and production, decrease capital, and save time.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230210T170754Z
+    - ID: "d4431923-68cf-42a0-a27e-db945d791fdb"
+      Hint: Canonical URL
+      Value: "https://www.nov.com/about/our-business-units/completion-tools"
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{55787333-F077-46C4-A41E-C06C83DED2DA}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230220T152741Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{55787333-F077-46C4-A41E-C06C83DED2DA}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 7
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "019c3c8b-3d47-4b92-a8e9-838880ddf307"
+      Hint: Open Graph Title
+      Value: Completion Tools
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BE19157-FD32-4581-B422-C47B44ACA6A4}"
+              p:before="*"
+              s:ds="{F7F6AE24-2EF5-426D-B7D1-9A54D636083E}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}"
+              s:ds="{925C638D-1E8A-4379-A3BD-7B2164E5D801}"
+              s:par="Enable Autoplay=true&amp;Add Gradient&amp;Text Color=white&amp;Wait Time=5000" />
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}"
+              s:ds="{4B6E49F7-5FE9-43B2-BDDD-60328E392A30}" />
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
+              <p:d />
+            </r>
+            <r
+              uid="{528D188A-A1F4-43C6-933E-B98265516685}"
+              p:after="r[@uid='{D0D1C772-7E1B-45CD-8D78-0877C08009C2}']"
+              s:ds="{87A05D95-A85A-4225-95D0-2FE7B88B48B7}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}"
+              s:ds="{B83F3170-7F45-439F-8812-A083DEE98A9E}" />
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{FDAC6416-771E-4868-9959-92943C4E1C5D}"
+              p:after="r[@uid='{84911C9D-A555-4FE3-AD88-56950399EBC0}']"
+              s:ds="{155C54DB-0541-4E38-9A45-0E1815E61840}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:ph="main" />
+            <r
+              uid="{F0FD8F85-0D20-49BE-B072-843303B30F1B}"
+              p:after="r[@uid='{FDAC6416-771E-4868-9959-92943C4E1C5D}']"
+              s:ds="{981AB0D1-E71B-4BB0-8924-87ED12BB786C}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+            <r
+              uid="{2FB72E40-D795-42E9-A03C-0F7ED73B4463}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Completion Tools
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Completion Tools offers its oil and gas customers completion products that improve reservoir performance and production, maximize return on capital, and save time.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Completion Tools
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230410T164852Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Completion Tools
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Completion Tools
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{55787333-F077-46C4-A41E-C06C83DED2DA}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Completion Tools
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{C49DEA2C-8589-4331-B6D2-7F7ACCBDC845}"
+    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
+      Hint: Search Result Text
+      Value: "Business Unit: Completion Tools"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "53714e48-c3c2-4318-9d92-3d5cca5b53bc"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: ​Completion Tools offers its oil and gas customers completion products that improve reservoir performance and production, decrease capital, and save time.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230410T164852Z
+    - ID: "d4431923-68cf-42a0-a27e-db945d791fdb"
+      Hint: Canonical URL
+      Value: "https://www.nov.com/about/our-business-units/completion-tools"
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{55787333-F077-46C4-A41E-C06C83DED2DA}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230410T175858Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{55787333-F077-46C4-A41E-C06C83DED2DA}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 8
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "019c3c8b-3d47-4b92-a8e9-838880ddf307"
+      Hint: Open Graph Title
+      Value: Completion Tools
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BE19157-FD32-4581-B422-C47B44ACA6A4}"
+              p:before="*"
+              s:ds="{F7F6AE24-2EF5-426D-B7D1-9A54D636083E}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}"
+              s:ds="{925C638D-1E8A-4379-A3BD-7B2164E5D801}"
+              s:par="Enable Autoplay=true&amp;Add Gradient&amp;Text Color=white&amp;Wait Time=5000" />
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}"
+              s:ds="{4B6E49F7-5FE9-43B2-BDDD-60328E392A30}" />
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
+              <p:d />
+            </r>
+            <r
+              uid="{528D188A-A1F4-43C6-933E-B98265516685}"
+              p:after="r[@uid='{D0D1C772-7E1B-45CD-8D78-0877C08009C2}']"
+              s:ds="{87A05D95-A85A-4225-95D0-2FE7B88B48B7}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}"
+              s:ds="{B83F3170-7F45-439F-8812-A083DEE98A9E}" />
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{FDAC6416-771E-4868-9959-92943C4E1C5D}"
+              p:after="r[@uid='{84911C9D-A555-4FE3-AD88-56950399EBC0}']"
+              s:ds="{155C54DB-0541-4E38-9A45-0E1815E61840}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:ph="main" />
+            <r
+              uid="{F0FD8F85-0D20-49BE-B072-843303B30F1B}"
+              p:after="r[@uid='{FDAC6416-771E-4868-9959-92943C4E1C5D}']"
+              s:ds="{981AB0D1-E71B-4BB0-8924-87ED12BB786C}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+            <r
+              uid="{2FB72E40-D795-42E9-A03C-0F7ED73B4463}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Completion Tools
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Completion Tools offers its oil and gas customers completion products that improve reservoir performance and production, maximize return on capital, and save time.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Completion Tools
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230531T180131Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Completion Tools
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Completion Tools
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{55787333-F077-46C4-A41E-C06C83DED2DA}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Completion Tools
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{C49DEA2C-8589-4331-B6D2-7F7ACCBDC845}"
+    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
+      Hint: Search Result Text
+      Value: "Business Unit: Completion Tools"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8f1759e9-30b8-4786-a9d2-e40265d5e2cc"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: ​Completion Tools offers its oil and gas customers completion products that improve reservoir performance and production, decrease capital, and save time.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230531T180131Z
+    - ID: "d4431923-68cf-42a0-a27e-db945d791fdb"
+      Hint: Canonical URL
+      Value: "https://www.nov.com/about/our-business-units/completion-tools"
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{5A39B063-E1FA-4356-AC05-C3B827ED5596}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230531T180246Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{55787333-F077-46C4-A41E-C06C83DED2DA}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 9
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "019c3c8b-3d47-4b92-a8e9-838880ddf307"
+      Hint: Open Graph Title
+      Value: Completion Tools
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BE19157-FD32-4581-B422-C47B44ACA6A4}"
+              p:before="*"
+              s:ds="{F7F6AE24-2EF5-426D-B7D1-9A54D636083E}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}"
+              s:ds="{925C638D-1E8A-4379-A3BD-7B2164E5D801}"
+              s:par="Enable Autoplay=true&amp;Add Gradient&amp;Text Color=white&amp;Wait Time=5000" />
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}"
+              s:ds="{4B6E49F7-5FE9-43B2-BDDD-60328E392A30}" />
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
+              <p:d />
+            </r>
+            <r
+              uid="{528D188A-A1F4-43C6-933E-B98265516685}"
+              p:after="r[@uid='{D0D1C772-7E1B-45CD-8D78-0877C08009C2}']"
+              s:ds="{87A05D95-A85A-4225-95D0-2FE7B88B48B7}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}"
+              s:ds="{B83F3170-7F45-439F-8812-A083DEE98A9E}" />
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{FDAC6416-771E-4868-9959-92943C4E1C5D}"
+              p:after="r[@uid='{84911C9D-A555-4FE3-AD88-56950399EBC0}']"
+              s:ds="{155C54DB-0541-4E38-9A45-0E1815E61840}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:ph="main" />
+            <r
+              uid="{F0FD8F85-0D20-49BE-B072-843303B30F1B}"
+              p:after="r[@uid='{FDAC6416-771E-4868-9959-92943C4E1C5D}']"
+              s:ds="{981AB0D1-E71B-4BB0-8924-87ED12BB786C}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+            <r
+              uid="{2FB72E40-D795-42E9-A03C-0F7ED73B4463}">
+              <p:d />
+            </r>
+            <r
+              uid="{D0C307F9-404F-40B6-AE47-0D90DFDC0C87}"
+              s:ds="{4E0796BE-900C-43AB-ADCC-3683297D506B}" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Completion Tools
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Completion Tools offers its oil and gas customers completion products that improve reservoir performance and production, maximize return on capital, and save time.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Completion Tools
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230531T180832Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Completion Tools
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Completion Tools
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{55787333-F077-46C4-A41E-C06C83DED2DA}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Completion Tools
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{C49DEA2C-8589-4331-B6D2-7F7ACCBDC845}"
+    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
+      Hint: Search Result Text
+      Value: "Business Unit: Completion Tools"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bf44206b-95d2-4fac-9dc6-0eaca2611aba"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: ​Completion Tools offers its oil and gas customers completion products that improve reservoir performance and production, decrease capital, and save time.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230531T180832Z
+    - ID: "d4431923-68cf-42a0-a27e-db945d791fdb"
+      Hint: Canonical URL
+      Value: "https://www.nov.com/about/our-business-units/completion-tools"
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{41DA2BAE-C3D6-46B0-B07B-B4BE23454E4F}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230602T181255Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{55787333-F077-46C4-A41E-C06C83DED2DA}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 10
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "019c3c8b-3d47-4b92-a8e9-838880ddf307"
+      Hint: Open Graph Title
+      Value: Completion Tools
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BE19157-FD32-4581-B422-C47B44ACA6A4}"
+              p:before="*"
+              s:ds="{F7F6AE24-2EF5-426D-B7D1-9A54D636083E}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}"
+              s:ds="{925C638D-1E8A-4379-A3BD-7B2164E5D801}"
+              s:par="Enable Autoplay=true&amp;Add Gradient&amp;Text Color=white&amp;Wait Time=5000" />
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}"
+              s:ds="{4B6E49F7-5FE9-43B2-BDDD-60328E392A30}" />
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
+              <p:d />
+            </r>
+            <r
+              uid="{528D188A-A1F4-43C6-933E-B98265516685}"
+              p:after="r[@uid='{D0D1C772-7E1B-45CD-8D78-0877C08009C2}']"
+              s:ds="{87A05D95-A85A-4225-95D0-2FE7B88B48B7}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}"
+              s:ds="{B83F3170-7F45-439F-8812-A083DEE98A9E}" />
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{FDAC6416-771E-4868-9959-92943C4E1C5D}"
+              p:after="r[@uid='{84911C9D-A555-4FE3-AD88-56950399EBC0}']"
+              s:ds="{155C54DB-0541-4E38-9A45-0E1815E61840}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:ph="main" />
+            <r
+              uid="{F0FD8F85-0D20-49BE-B072-843303B30F1B}"
+              p:after="r[@uid='{FDAC6416-771E-4868-9959-92943C4E1C5D}']"
+              s:ds="{981AB0D1-E71B-4BB0-8924-87ED12BB786C}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+            <r
+              uid="{2FB72E40-D795-42E9-A03C-0F7ED73B4463}">
+              <p:d />
+            </r>
+            <r
+              uid="{D0C307F9-404F-40B6-AE47-0D90DFDC0C87}"
+              s:ds="{4E0796BE-900C-43AB-ADCC-3683297D506B}" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Completion Tools
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Completion Tools offers its oil and gas customers completion products that improve reservoir performance and production, maximize return on capital, and save time.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Completion Tools
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230725T000847Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Completion Tools
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{40251B7D-FBE3-4A0E-8947-D4B4FE8CD782}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Completion Tools
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{55787333-F077-46C4-A41E-C06C83DED2DA}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Completion Tools
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{C49DEA2C-8589-4331-B6D2-7F7ACCBDC845}"
+    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
+      Hint: Search Result Text
+      Value: "Business Unit: Completion Tools"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c36357d1-c130-4290-9cf4-45e957a8ebc7"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\varalakshmi.md@horizontal.com
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: ​Completion Tools offers its oil and gas customers completion products that improve reservoir performance and production, decrease capital, and save time.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230725T000847Z
+    - ID: "d4431923-68cf-42a0-a27e-db945d791fdb"
+      Hint: Canonical URL
+      Value: "https://www.nov.com/about/our-business-units/completion-tools"
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{41DA2BAE-C3D6-46B0-B07B-B4BE23454E4F}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230725T094521Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{55787333-F077-46C4-A41E-C06C83DED2DA}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />

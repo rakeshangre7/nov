@@ -1,0 +1,369 @@
+﻿---
+ID: "bd427d5e-d090-4193-afb6-97ab2c95d727"
+Parent: "8dfd8a57-77e4-4e4e-a720-8f569a679339"
+Template: "93e4c55d-9fa4-4945-a03a-1565852b0a90"
+Path: /sitecore/content/nov/nov/Home/About/News/Model tests confirm GustoMSC Tri Floater performance in harsh environment
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{10CEBA25-FC2A-4F84-8760-9B825D4EAF06}"
+          s:ds="{B4B0B8FE-3C22-405E-AD8B-8419552A7CD5}" />
+        <r
+          uid="{37DC6908-9973-4BF3-AA1F-616581927F03}"
+          s:ds="{BB21B3BD-6C09-4C8E-82A0-E8E4A991A82F}" />
+        <r
+          uid="{3A4E7139-50CB-4BD5-AB2E-460BC7CE5AAF}"
+          s:ds="{5275ADE1-CC8D-4D2F-B9C6-EEF9EE83CFCC}" />
+        <r
+          uid="{29B80482-A671-447F-BB46-8121D422BD81}"
+          s:ds="{5DAD0846-5018-455B-8E40-BBBBF9118DC0}" />
+        <r
+          uid="{97344B92-7C95-4AC5-BA52-015B4E4B60A0}"
+          s:ds="{A41B5A5D-2FCF-48D2-9AAB-5B7F44FB8F5B}" />
+        <r
+          uid="{7FCE1D2B-E077-4A3D-AF80-996014D9B527}"
+          s:ds="{D613AECB-2CEB-494C-BEA2-8FB5C655DE5F}" />
+        <r
+          uid="{B7906B15-B51F-4DDA-9D56-0D4EDD3DF208}"
+          s:ds="{3FA68E03-3BCB-4276-9F11-F44FB26D8858}" />
+        <r
+          uid="{9B9C6914-204E-47B8-ABD6-F2712DC7BB72}"
+          s:ds="{E64D01E3-A46F-4D1A-A993-70CD5461C7C7}" />
+      </d>
+    </r>
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01fd8c23-1b98-4e4b-9f2d-ecf3eb8aad68"
+      Hint: businessUnits
+      Value: "{55081714-900D-4F84-A923-2C7CDC829502}"
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{E01AED9C-2BC8-4328-98E7-1A8AD5FA0591}"
+              p:before="*"
+              s:ds="{C258E8EB-CBEC-4871-9B05-4718E9F0FA49}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{C0E5DFC0-B2E6-4ADE-A73F-688C8DC87EE3}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{D6BFF7C4-EA45-4505-AC1F-59F89F2849B1}"
+              p:after="r[@uid='{E01AED9C-2BC8-4328-98E7-1A8AD5FA0591}']"
+              s:ds="{08B5928F-CEFB-48A4-8821-E9E50BB4D240}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{C0E5DFC0-B2E6-4ADE-A73F-688C8DC87EE3}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top" />
+            <r
+              uid="{FAB8EBA1-2E93-4A91-8D5B-CD49CEB596F0}"
+              p:after="r[@uid='{D6BFF7C4-EA45-4505-AC1F-59F89F2849B1}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{C0E5DFC0-B2E6-4ADE-A73F-688C8DC87EE3}-0/image-block-splitter-960x1080-right" />
+            <r
+              uid="{020BAB62-C734-40DA-9E19-CF62E515CA1C}"
+              p:after="r[@uid='{FAB8EBA1-2E93-4A91-8D5B-CD49CEB596F0}']"
+              s:ds="{71538A36-E952-4D66-ABE5-3F5C70D315FF}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{C0E5DFC0-B2E6-4ADE-A73F-688C8DC87EE3}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{D4BDFF2B-11A5-489B-8379-47F9CA9E0F57}"
+              p:after="r[@uid='{020BAB62-C734-40DA-9E19-CF62E515CA1C}']"
+              s:ds="{4458E7F3-556C-4EF0-A50C-54F490070A24}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{C0E5DFC0-B2E6-4ADE-A73F-688C8DC87EE3}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-top" />
+            <r
+              uid="{47DF386D-E5B9-43CD-AFBB-652A3F837B7B}"
+              p:after="r[@uid='{D4BDFF2B-11A5-489B-8379-47F9CA9E0F57}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{C0E5DFC0-B2E6-4ADE-A73F-688C8DC87EE3}-0/image-block-splitter-960x1080-left" />
+            <r
+              uid="{8751544A-0A44-4027-95AA-A94DD20E59B0}"
+              p:after="r[@uid='{47DF386D-E5B9-43CD-AFBB-652A3F837B7B}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main-{C0E5DFC0-B2E6-4ADE-A73F-688C8DC87EE3}-0" />
+            <r
+              uid="{3A4E7139-50CB-4BD5-AB2E-460BC7CE5AAF}">
+              <p:d />
+            </r>
+            <r
+              uid="{1BA31D5A-F484-4800-92FC-434724C4F37C}"
+              p:after="r[@uid='{37DC6908-9973-4BF3-AA1F-616581927F03}']"
+              s:ds="{DD2BC9DE-902D-4E33-B6A2-DD949484FFA9}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:ph="main" />
+            <r
+              uid="{97344B92-7C95-4AC5-BA52-015B4E4B60A0}">
+              <p:d />
+            </r>
+            <r
+              uid="{7FCE1D2B-E077-4A3D-AF80-996014D9B527}">
+              <p:d />
+            </r>
+            <r
+              uid="{C0E5DFC0-B2E6-4ADE-A73F-688C8DC87EE3}"
+              p:after="r[@uid='{29B80482-A671-447F-BB46-8121D422BD81}']"
+              s:id="{6932DD17-1CD9-4D03-93B7-3C0A92EB8229}"
+              s:ph="main" />
+            <r
+              uid="{E2CF5C0C-62D3-4874-A892-6286CF13514E}"
+              p:after="*[1=2]"
+              s:ds="{E64D01E3-A46F-4D1A-A993-70CD5461C7C7}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{B7906B15-B51F-4DDA-9D56-0D4EDD3DF208}">
+              <p:d />
+            </r>
+            <r
+              uid="{9B9C6914-204E-47B8-ABD6-F2712DC7BB72}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Model tests confirm GustoMSC Tri Floater performance in harsh environment
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: "<p>GustoMSC has recently completed model tests on its proprietary Tri-Floater, a semi-submersible floater capable of hosting very large wind turbines.</p>"
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: "Model tests confirm GustoMSC Tri-Floater performance in harsh environment"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220317T144957Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Model tests confirm GustoMSC Tri Floater performance in harsh environment
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: "Model tests confirm GustoMSC Tri-Floater performance in harsh environment"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{113E2EFC-0893-4411-8434-6F614B3BFE99}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{7BFDF55B-D789-4F80-BAA1-EE7B8380D4C6}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Model tests confirm GustoMSC Tri Floater performance in harsh environment
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "14281cc5-4164-40ed-8e71-ee94ece0d87b"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{294053F5-3F2B-4F01-A805-2E3CC257571E}"
+    - ID: "b0d622b7-156a-4f17-9ce4-4dd213df0302"
+      Hint: Date
+      Value: 20220322T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "GustoMSC has recently completed model tests on its proprietary Tri-Floater, a semi-submersible floater capable of hosting very large wind turbines."
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{113E2EFC-0893-4411-8434-6F614B3BFE99}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220322T013741Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{113E2EFC-0893-4411-8434-6F614B3BFE99}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01fd8c23-1b98-4e4b-9f2d-ecf3eb8aad68"
+      Hint: businessUnits
+      Value: "{55081714-900D-4F84-A923-2C7CDC829502}"
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{E01AED9C-2BC8-4328-98E7-1A8AD5FA0591}"
+              p:before="*"
+              s:ds="{C258E8EB-CBEC-4871-9B05-4718E9F0FA49}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{C0E5DFC0-B2E6-4ADE-A73F-688C8DC87EE3}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{D6BFF7C4-EA45-4505-AC1F-59F89F2849B1}"
+              p:after="r[@uid='{E01AED9C-2BC8-4328-98E7-1A8AD5FA0591}']"
+              s:ds="{08B5928F-CEFB-48A4-8821-E9E50BB4D240}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{C0E5DFC0-B2E6-4ADE-A73F-688C8DC87EE3}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top" />
+            <r
+              uid="{FAB8EBA1-2E93-4A91-8D5B-CD49CEB596F0}"
+              p:after="r[@uid='{D6BFF7C4-EA45-4505-AC1F-59F89F2849B1}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{C0E5DFC0-B2E6-4ADE-A73F-688C8DC87EE3}-0/image-block-splitter-960x1080-right" />
+            <r
+              uid="{020BAB62-C734-40DA-9E19-CF62E515CA1C}"
+              p:after="r[@uid='{FAB8EBA1-2E93-4A91-8D5B-CD49CEB596F0}']"
+              s:ds="{71538A36-E952-4D66-ABE5-3F5C70D315FF}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{C0E5DFC0-B2E6-4ADE-A73F-688C8DC87EE3}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{D4BDFF2B-11A5-489B-8379-47F9CA9E0F57}"
+              p:after="r[@uid='{020BAB62-C734-40DA-9E19-CF62E515CA1C}']"
+              s:ds="{4458E7F3-556C-4EF0-A50C-54F490070A24}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{C0E5DFC0-B2E6-4ADE-A73F-688C8DC87EE3}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-top" />
+            <r
+              uid="{47DF386D-E5B9-43CD-AFBB-652A3F837B7B}"
+              p:after="r[@uid='{D4BDFF2B-11A5-489B-8379-47F9CA9E0F57}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{C0E5DFC0-B2E6-4ADE-A73F-688C8DC87EE3}-0/image-block-splitter-960x1080-left" />
+            <r
+              uid="{8751544A-0A44-4027-95AA-A94DD20E59B0}"
+              p:after="r[@uid='{47DF386D-E5B9-43CD-AFBB-652A3F837B7B}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main-{C0E5DFC0-B2E6-4ADE-A73F-688C8DC87EE3}-0" />
+            <r
+              uid="{3A4E7139-50CB-4BD5-AB2E-460BC7CE5AAF}">
+              <p:d />
+            </r>
+            <r
+              uid="{1BA31D5A-F484-4800-92FC-434724C4F37C}"
+              p:after="r[@uid='{37DC6908-9973-4BF3-AA1F-616581927F03}']"
+              s:ds="{DD2BC9DE-902D-4E33-B6A2-DD949484FFA9}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:ph="main" />
+            <r
+              uid="{97344B92-7C95-4AC5-BA52-015B4E4B60A0}">
+              <p:d />
+            </r>
+            <r
+              uid="{7FCE1D2B-E077-4A3D-AF80-996014D9B527}">
+              <p:d />
+            </r>
+            <r
+              uid="{C0E5DFC0-B2E6-4ADE-A73F-688C8DC87EE3}"
+              p:after="r[@uid='{29B80482-A671-447F-BB46-8121D422BD81}']"
+              s:id="{6932DD17-1CD9-4D03-93B7-3C0A92EB8229}"
+              s:ph="main" />
+            <r
+              uid="{E2CF5C0C-62D3-4874-A892-6286CF13514E}"
+              p:after="*[1=2]"
+              s:ds="{E64D01E3-A46F-4D1A-A993-70CD5461C7C7}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{B7906B15-B51F-4DDA-9D56-0D4EDD3DF208}">
+              <p:d />
+            </r>
+            <r
+              uid="{9B9C6914-204E-47B8-ABD6-F2712DC7BB72}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Model tests confirm GustoMSC Tri Floater performance in harsh environment
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: "<p>GustoMSC has recently completed model tests on its proprietary Tri-Floater, a semi-submersible floater capable of hosting very large wind turbines.</p>"
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: "Model tests confirm GustoMSC Tri-Floater performance in harsh environment"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220630T144909Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Model tests confirm GustoMSC Tri Floater performance in harsh environment
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: "Model tests confirm GustoMSC Tri-Floater performance in harsh environment"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{113E2EFC-0893-4411-8434-6F614B3BFE99}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{7BFDF55B-D789-4F80-BAA1-EE7B8380D4C6}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Model tests confirm GustoMSC Tri Floater performance in harsh environment
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ac4dc260-e872-4274-892e-17165f1e752b"
+    - ID: "9992a471-a0b0-471a-9c6b-6e1048c76e00"
+      Hint: brands
+      Value: "{C3F61168-AAD8-4212-BA65-2EAF59E5A3FE}"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{294053F5-3F2B-4F01-A805-2E3CC257571E}"
+    - ID: "b0d622b7-156a-4f17-9ce4-4dd213df0302"
+      Hint: Date
+      Value: 20220322T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "GustoMSC has recently completed model tests on its proprietary Tri-Floater, a semi-submersible floater capable of hosting very large wind turbines."
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20220630T144909Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{113E2EFC-0893-4411-8434-6F614B3BFE99}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220630T145020Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{113E2EFC-0893-4411-8434-6F614B3BFE99}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />

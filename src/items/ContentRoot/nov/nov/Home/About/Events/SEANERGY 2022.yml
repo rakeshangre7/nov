@@ -1,0 +1,155 @@
+﻿---
+ID: "fd3067f4-4f28-46d2-9622-a93a4323a58f"
+Parent: "cd0214ea-b2e7-40a9-89d9-695cdf04c498"
+Template: "1bf45569-a9ee-482e-8c1f-6aed83c3c8ab"
+Path: /sitecore/content/nov/nov/Home/About/Events/SEANERGY 2022
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 490
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+      xmlnxsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{40C0E7ED-9887-49E1-8E89-43D16DD2AD6C}">
+        <r
+          ds=""
+          id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+          par="Add Gradient=1&amp;Text Color=white"
+          ph="/main/hero-slide-{945C1340-ED54-40B6-82B9-E426012500B4}-0"
+          uid="{DF772360-E5C4-4162-B9E4-D8DAAE753245}" />
+        <r
+          id="{AB213187-9551-4F9B-AE3D-261BB2B2434F}"
+          ph="main"
+          uid="{945C1340-ED54-40B6-82B9-E426012500B4}" />
+        <r
+          ds="{23688262-1BEA-4B6B-91B0-2CF4C9B5421C}"
+          id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+          par="Alignment"
+          ph="main"
+          uid="{D9DC2E91-2941-4E2F-BCD7-3809E1023600}" />
+        <r
+          ds="{E07B7401-1EA6-4923-B530-905B05569BAF}"
+          id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+          par=""
+          ph="main"
+          uid="{82CC48F6-44A9-4DC7-9B50-55B2B32A157A}" />
+      </d>
+    </r>
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "019c3c8b-3d47-4b92-a8e9-838880ddf307"
+      Hint: Open Graph Title
+      Value: SEANERGY 2022
+    - ID: "01fd8c23-1b98-4e4b-9f2d-ecf3eb8aad68"
+      Hint: businessUnits
+      Value: "{55081714-900D-4F84-A923-2C7CDC829502}"
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{D9DC2E91-2941-4E2F-BCD7-3809E1023600}"
+              s:par="Alignment=left" />
+            <r
+              uid="{82CC48F6-44A9-4DC7-9B50-55B2B32A157A}">
+              <p:d />
+            </r>
+            <r
+              uid="{8465DC34-B6CB-4637-9357-9F79A7318D01}"
+              p:after="*[1=2]"
+              s:ds="{92FF692B-73AB-4DA1-8EDA-6775FDD7EF14}"
+              s:id="{846AE873-D5C7-4033-928F-6BD96E963742}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: SEANERGY 2022
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Leading the international event on Offshore Renewable Energy</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: SEANERGY 2022
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220609T160913Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: SEANERGY 2022
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: SEANERGY 2022
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{4199AFA6-32AD-492A-B1C4-C8567CD1A874}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{7BFDF55B-D789-4F80-BAA1-EE7B8380D4C6}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: SEANERGY 2022
+    - ID: "6f84eee0-ddfa-478a-b9fb-8a7adc34ed42"
+      Hint: Start Date
+      Value: 20220615T000000Z
+    - ID: "81beeffb-e4e6-44ad-aa32-b3380b8d3fcd"
+      Hint: city
+      Value: Le Havre
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e3f79678-3ba1-41ee-ad13-90ad3c7d5255"
+    - ID: "8f4016b6-4a51-4621-90cb-77774279dba3"
+      Hint: End Date
+      Value: 20220617T000000Z
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{E7052507-CEF7-45CC-B52B-C65B98F4ADA7}"
+    - ID: "b0d622b7-156a-4f17-9ce4-4dd213df0302"
+      Hint: Date
+      Value: 20220609T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "bba7d4dd-7d1e-428e-b80d-055170466dc3"
+      Hint: country
+      Value: Normandy, France
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{4199AFA6-32AD-492A-B1C4-C8567CD1A874}" cropregion="0,87,1920,1191" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230509T150911Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{4199AFA6-32AD-492A-B1C4-C8567CD1A874}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" />

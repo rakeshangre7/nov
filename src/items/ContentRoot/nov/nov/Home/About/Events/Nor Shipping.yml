@@ -1,0 +1,414 @@
+﻿---
+ID: "bb45a58f-42b8-442b-b70b-197012834388"
+Parent: "cd0214ea-b2e7-40a9-89d9-695cdf04c498"
+Template: "1bf45569-a9ee-482e-8c1f-6aed83c3c8ab"
+Path: /sitecore/content/nov/nov/Home/About/Events/Nor Shipping
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 650
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+      xmlnxsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{40C0E7ED-9887-49E1-8E89-43D16DD2AD6C}">
+        <r
+          ds=""
+          id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+          par="Add Gradient=1&amp;Text Color=white"
+          ph="/main/hero-slide-{945C1340-ED54-40B6-82B9-E426012500B4}-0"
+          uid="{DF772360-E5C4-4162-B9E4-D8DAAE753245}" />
+        <r
+          id="{AB213187-9551-4F9B-AE3D-261BB2B2434F}"
+          ph="main"
+          uid="{945C1340-ED54-40B6-82B9-E426012500B4}" />
+        <r
+          ds="{24E20049-7C32-44AF-8A55-5C0645731B7D}"
+          id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+          par="Alignment"
+          ph="main"
+          uid="{D9DC2E91-2941-4E2F-BCD7-3809E1023600}" />
+        <r
+          ds="{E9BBDE3C-1CE4-41EF-9F3A-84AC073DC808}"
+          id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+          par=""
+          ph="main"
+          uid="{82CC48F6-44A9-4DC7-9B50-55B2B32A157A}" />
+      </d>
+    </r>
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01fd8c23-1b98-4e4b-9f2d-ecf3eb8aad68"
+      Hint: businessUnits
+      Value: "{55081714-900D-4F84-A923-2C7CDC829502}"
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{643E2938-6D86-4C5D-A2C7-808BF8D36CAE}"
+              p:before="*"
+              s:ds="{5388B6DD-7CAA-42AA-9D6F-0BFE3B673710}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{644FA09A-908D-49B4-A768-B7C14AE92855}-0" />
+            <r
+              uid="{7857B03C-64D9-483D-9837-9AF4FB60A45C}"
+              p:after="r[@uid='{643E2938-6D86-4C5D-A2C7-808BF8D36CAE}']"
+              s:ds="{CF338700-0D59-46BF-827C-83C16952F338}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{644FA09A-908D-49B4-A768-B7C14AE92855}-0" />
+            <r
+              uid="{69EB7021-2F17-42E7-8A11-81E4F471A258}"
+              p:after="r[@uid='{7857B03C-64D9-483D-9837-9AF4FB60A45C}']"
+              s:ds="{5F7205BC-ECA3-4C9E-B034-48BF265A26E7}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{644FA09A-908D-49B4-A768-B7C14AE92855}-0" />
+            <r
+              uid="{DBD4905F-014A-44D7-8F9B-A06E9490AE1F}"
+              p:after="r[@uid='{69EB7021-2F17-42E7-8A11-81E4F471A258}']"
+              s:ds="{F58BBC11-F092-4E36-9097-F1CEA54069F0}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{644FA09A-908D-49B4-A768-B7C14AE92855}-0" />
+            <r
+              uid="{DAF92EEB-DFF2-4143-9B5A-5D612B06A515}"
+              p:after="r[@uid='{DBD4905F-014A-44D7-8F9B-A06E9490AE1F}']"
+              s:ds="{D05E9F48-CBDC-44EF-9B11-1C945D22BB2A}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{644FA09A-908D-49B4-A768-B7C14AE92855}-0" />
+            <r
+              uid="{FB54352E-A03A-41AB-990E-9292D122714D}"
+              p:after="r[@uid='{DAF92EEB-DFF2-4143-9B5A-5D612B06A515}']"
+              s:ds="{E8FCAA49-9A74-40C7-9696-644497FFF16C}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{644FA09A-908D-49B4-A768-B7C14AE92855}-0" />
+            <r
+              uid="{537448F3-11F3-4946-B36F-4FD3DA2A4915}"
+              p:after="r[@uid='{FB54352E-A03A-41AB-990E-9292D122714D}']"
+              s:ds="{7A45AAB9-5679-4C51-89A3-23A6E83AA538}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{644FA09A-908D-49B4-A768-B7C14AE92855}-0" />
+            <r
+              uid="{C86AE544-A29C-4714-A5A1-C0936A133BA6}"
+              p:after="r[@uid='{945C1340-ED54-40B6-82B9-E426012500B4}']"
+              s:ds="{82F53E60-B7A8-4C8F-A1BA-CC75753E0A0E}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{9FA0F88B-D637-46EB-99CA-9399A036DBE4}"
+              p:after="r[@uid='{D9DC2E91-2941-4E2F-BCD7-3809E1023600}']"
+              s:ds="{2F1D0067-1199-4CD4-B8B6-CB9274738413}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{E210AECF-63C3-4FDE-A692-739C7AEBC487}"
+              p:after="r[@uid='{9FA0F88B-D637-46EB-99CA-9399A036DBE4}']"
+              s:ds="{D6775BB2-9A83-40B4-8E64-3D28BF59A7D6}"
+              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
+              s:par="Use Button for Link"
+              s:ph="main" />
+            <r
+              uid="{AF8AE0E3-8A52-41F9-9DA4-426E63AD1FE8}"
+              p:after="r[@uid='{E210AECF-63C3-4FDE-A692-739C7AEBC487}']"
+              s:ds="{5AA512CA-3CC2-42C6-B253-5E890EA7BBDA}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{D974730A-4112-486B-82F5-826B5654B263}"
+              p:after="r[@uid='{AF8AE0E3-8A52-41F9-9DA4-426E63AD1FE8}']"
+              s:ds="{2AAC2B54-AD1A-43E8-B779-88963641B324}"
+              s:id="{703C4FCC-55FD-48C3-8F29-1B196484B61C}"
+              s:ph="main" />
+            <r
+              uid="{644FA09A-908D-49B4-A768-B7C14AE92855}"
+              p:after="r[@uid='{D974730A-4112-486B-82F5-826B5654B263}']"
+              s:id="{5266AC57-9C33-41AF-B32D-D935FB8DC1F3}"
+              s:ph="main" />
+            <r
+              uid="{82CC48F6-44A9-4DC7-9B50-55B2B32A157A}"
+              p:after="r[@uid='{644FA09A-908D-49B4-A768-B7C14AE92855}']" />
+            <r
+              uid="{B370C681-EA31-48A2-88CD-A71C6BEA4FBD}"
+              p:after="*[1=2]"
+              s:ds="{E40DA2C4-8641-479C-A8E1-3E97331CF1D8}"
+              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
+              s:par="Use Button for Link"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: "Nor-Shipping"
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>An international arena for building cross industry partnership, business and sustainable ocean development.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: "Nor-Shipping"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230509T150600Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: "Nor-Shipping"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: "Nor-Shipping"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{7BFDF55B-D789-4F80-BAA1-EE7B8380D4C6}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: "Nor-Shipping"
+    - ID: "6f84eee0-ddfa-478a-b9fb-8a7adc34ed42"
+      Hint: Start Date
+      Value: 20230606T000000Z
+    - ID: "81beeffb-e4e6-44ad-aa32-b3380b8d3fcd"
+      Hint: city
+      Value: Oslo
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "862a5b9e-6c2d-4eba-912b-a77aeef7025a"
+    - ID: "8f4016b6-4a51-4621-90cb-77774279dba3"
+      Hint: End Date
+      Value: 20230609T000000Z
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{E7052507-CEF7-45CC-B52B-C65B98F4ADA7}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "bba7d4dd-7d1e-428e-b80d-055170466dc3"
+      Hint: country
+      Value: Norway
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "NOV Marine and Construction at Nor Shipping - An international arena for building cross industry partnership, business and sustainable ocean development."
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{A3ECCA5D-37BD-4A22-AE2E-B8E2ECA2B011}" cropregion="0,177,1920,1279" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230510T135402Z
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: Marine, Offshore, Offshore Energy, Offshore Construction, Renewable, Marine and Construction, Wind Energy, Oil & Gas
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{A3ECCA5D-37BD-4A22-AE2E-B8E2ECA2B011}" cropregion="0,200,1920,1279" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01fd8c23-1b98-4e4b-9f2d-ecf3eb8aad68"
+      Hint: businessUnits
+      Value: "{55081714-900D-4F84-A923-2C7CDC829502}"
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{643E2938-6D86-4C5D-A2C7-808BF8D36CAE}"
+              p:before="*"
+              s:ds="{5388B6DD-7CAA-42AA-9D6F-0BFE3B673710}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{644FA09A-908D-49B4-A768-B7C14AE92855}-0" />
+            <r
+              uid="{7857B03C-64D9-483D-9837-9AF4FB60A45C}"
+              p:after="r[@uid='{643E2938-6D86-4C5D-A2C7-808BF8D36CAE}']"
+              s:ds="{CF338700-0D59-46BF-827C-83C16952F338}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{644FA09A-908D-49B4-A768-B7C14AE92855}-0" />
+            <r
+              uid="{69EB7021-2F17-42E7-8A11-81E4F471A258}"
+              p:after="r[@uid='{7857B03C-64D9-483D-9837-9AF4FB60A45C}']"
+              s:ds="{5F7205BC-ECA3-4C9E-B034-48BF265A26E7}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{644FA09A-908D-49B4-A768-B7C14AE92855}-0" />
+            <r
+              uid="{DBD4905F-014A-44D7-8F9B-A06E9490AE1F}"
+              p:after="r[@uid='{69EB7021-2F17-42E7-8A11-81E4F471A258}']"
+              s:ds="{F58BBC11-F092-4E36-9097-F1CEA54069F0}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{644FA09A-908D-49B4-A768-B7C14AE92855}-0" />
+            <r
+              uid="{DAF92EEB-DFF2-4143-9B5A-5D612B06A515}"
+              p:after="r[@uid='{DBD4905F-014A-44D7-8F9B-A06E9490AE1F}']"
+              s:ds="{D05E9F48-CBDC-44EF-9B11-1C945D22BB2A}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{644FA09A-908D-49B4-A768-B7C14AE92855}-0" />
+            <r
+              uid="{FB54352E-A03A-41AB-990E-9292D122714D}"
+              p:after="r[@uid='{DAF92EEB-DFF2-4143-9B5A-5D612B06A515}']"
+              s:ds="{E8FCAA49-9A74-40C7-9696-644497FFF16C}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{644FA09A-908D-49B4-A768-B7C14AE92855}-0" />
+            <r
+              uid="{537448F3-11F3-4946-B36F-4FD3DA2A4915}"
+              p:after="r[@uid='{FB54352E-A03A-41AB-990E-9292D122714D}']"
+              s:ds="{7A45AAB9-5679-4C51-89A3-23A6E83AA538}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{644FA09A-908D-49B4-A768-B7C14AE92855}-0" />
+            <r
+              uid="{C86AE544-A29C-4714-A5A1-C0936A133BA6}"
+              p:after="r[@uid='{945C1340-ED54-40B6-82B9-E426012500B4}']"
+              s:ds="{82F53E60-B7A8-4C8F-A1BA-CC75753E0A0E}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{9FA0F88B-D637-46EB-99CA-9399A036DBE4}"
+              p:after="r[@uid='{D9DC2E91-2941-4E2F-BCD7-3809E1023600}']"
+              s:ds="{2F1D0067-1199-4CD4-B8B6-CB9274738413}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{E210AECF-63C3-4FDE-A692-739C7AEBC487}"
+              p:after="r[@uid='{9FA0F88B-D637-46EB-99CA-9399A036DBE4}']"
+              s:ds="{D6775BB2-9A83-40B4-8E64-3D28BF59A7D6}"
+              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
+              s:par="Use Button for Link"
+              s:ph="main" />
+            <r
+              uid="{AF8AE0E3-8A52-41F9-9DA4-426E63AD1FE8}"
+              p:after="r[@uid='{E210AECF-63C3-4FDE-A692-739C7AEBC487}']"
+              s:ds="{5AA512CA-3CC2-42C6-B253-5E890EA7BBDA}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{D974730A-4112-486B-82F5-826B5654B263}"
+              p:after="r[@uid='{AF8AE0E3-8A52-41F9-9DA4-426E63AD1FE8}']"
+              s:ds="{2AAC2B54-AD1A-43E8-B779-88963641B324}"
+              s:id="{703C4FCC-55FD-48C3-8F29-1B196484B61C}"
+              s:ph="main" />
+            <r
+              uid="{644FA09A-908D-49B4-A768-B7C14AE92855}"
+              p:after="r[@uid='{D974730A-4112-486B-82F5-826B5654B263}']"
+              s:id="{5266AC57-9C33-41AF-B32D-D935FB8DC1F3}"
+              s:ph="main" />
+            <r
+              uid="{82CC48F6-44A9-4DC7-9B50-55B2B32A157A}"
+              p:after="r[@uid='{644FA09A-908D-49B4-A768-B7C14AE92855}']" />
+            <r
+              uid="{B370C681-EA31-48A2-88CD-A71C6BEA4FBD}"
+              p:after="*[1=2]"
+              s:ds="{E40DA2C4-8641-479C-A8E1-3E97331CF1D8}"
+              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
+              s:par="Use Button for Link"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: "Nor-Shipping"
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>An international arena for building cross industry partnership, business and sustainable ocean development.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: "Nor-Shipping"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230530T180611Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: "Nor-Shipping"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: "Nor-Shipping"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{7BFDF55B-D789-4F80-BAA1-EE7B8380D4C6}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: "Nor-Shipping"
+    - ID: "6f84eee0-ddfa-478a-b9fb-8a7adc34ed42"
+      Hint: Start Date
+      Value: 20230606T000000Z
+    - ID: "81beeffb-e4e6-44ad-aa32-b3380b8d3fcd"
+      Hint: city
+      Value: Oslo
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b9358eb4-8627-4b38-ba18-c3139ed0d384"
+    - ID: "8f4016b6-4a51-4621-90cb-77774279dba3"
+      Hint: End Date
+      Value: 20230609T000000Z
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{E7052507-CEF7-45CC-B52B-C65B98F4ADA7}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "bba7d4dd-7d1e-428e-b80d-055170466dc3"
+      Hint: country
+      Value: Norway
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "NOV Marine and Construction at Nor Shipping - An international arena for building cross industry partnership, business and sustainable ocean development."
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230530T180611Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{A3ECCA5D-37BD-4A22-AE2E-B8E2ECA2B011}" cropregion="0,177,1920,1279" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230530T180744Z
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: Marine, Offshore, Offshore Energy, Offshore Construction, Renewable, Marine and Construction, Wind Energy, Oil & Gas
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{A3ECCA5D-37BD-4A22-AE2E-B8E2ECA2B011}" cropregion="0,200,1920,1279" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />

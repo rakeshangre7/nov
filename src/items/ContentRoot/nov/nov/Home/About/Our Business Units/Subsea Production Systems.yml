@@ -1,0 +1,1357 @@
+﻿---
+ID: "fef9f1da-401c-495f-958c-1096629342f7"
+Parent: "a98608ab-b52d-46d3-aa4c-79b35adf2b3f"
+Template: "fa173e9d-ff30-4ddf-93b9-7e6d647c30ae"
+Path: /sitecore/content/nov/nov/Home/About/Our Business Units/Subsea Production Systems
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{708ABA41-4674-41D1-9637-B0613D1DF0D9}" />
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}">
+              <p:d />
+            </r>
+            <r
+              uid="{AFC80419-B784-4158-8609-695910673151}"
+              p:before="*"
+              s:ds="{5DB8B417-0396-4683-B32F-033FECD994BC}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}"
+              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}" />
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}"
+              s:ds="{1C9F7793-B10C-4F96-BD3A-4BB3BD048BD4}" />
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
+              <p:d />
+            </r>
+            <r
+              uid="{46C0CAC2-A19D-4A8C-8900-089E8F39F350}"
+              p:after="r[@uid='{D0D1C772-7E1B-45CD-8D78-0877C08009C2}']"
+              s:ds="{01B6AECD-2392-40E7-BF47-CA9C2BCEEAE5}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}">
+              <p:d />
+            </r>
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Subsea Production Systems
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Lorem Ipsum</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Subsea Production Systems
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190311T192112Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Subsea Production Systems
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Subsea Production Systems
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Subsea Production Systems
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{7EE1ADE9-0D99-4CAF-A0CA-1ECF6A8F0300}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ade543a0-01f8-4980-9857-771d651341fe"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{299EE142-6553-49B3-8C55-A15DE9D9A6C8}" cropregion="0,160,1920,1262" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190311T195901Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{299EE142-6553-49B3-8C55-A15DE9D9A6C8}" cropregion="0,346,1920,1425" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}">
+              <p:d />
+            </r>
+            <r
+              uid="{AFC80419-B784-4158-8609-695910673151}"
+              p:before="*"
+              s:ds="{5DB8B417-0396-4683-B32F-033FECD994BC}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}"
+              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}" />
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}"
+              s:ds="{1C9F7793-B10C-4F96-BD3A-4BB3BD048BD4}" />
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
+              <p:d />
+            </r>
+            <r
+              uid="{46C0CAC2-A19D-4A8C-8900-089E8F39F350}"
+              p:after="r[@uid='{D0D1C772-7E1B-45CD-8D78-0877C08009C2}']"
+              s:ds="{01B6AECD-2392-40E7-BF47-CA9C2BCEEAE5}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}">
+              <p:d />
+            </r>
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Subsea Production Systems
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: "<p>Subsea Production Systems leverages in-depth knowledge, disruptive technologies, and technically innovative subsea solutions to enhance our customers&rsquo; energy portfolio.</p>"
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Subsea Production Systems
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190320T155256Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Subsea Production Systems
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Subsea Production Systems
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Subsea Production Systems
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{7EE1ADE9-0D99-4CAF-A0CA-1ECF6A8F0300}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8597c265-c814-4d77-90ec-dec5356f9fda"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "Subsea Production Systems leverages in-depth knowledge, disruptive technologies, and technically innovative subsea solutions to enhance our customers’ energy portfolio."
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190320T155256Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{299EE142-6553-49B3-8C55-A15DE9D9A6C8}" cropregion="0,160,1920,1262" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190320T160904Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{299EE142-6553-49B3-8C55-A15DE9D9A6C8}" cropregion="0,346,1920,1425" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}">
+              <p:d />
+            </r>
+            <r
+              uid="{B5D12593-E7F8-41AB-A242-85F170D72A6B}"
+              p:before="*"
+              s:ds="{00F093C6-EA0E-4BFC-A385-87EA29617349}"
+              s:id="{D6F7B1A2-D9A1-4301-85D8-64731201F85B}"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}"
+              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}" />
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}"
+              s:ds="{1C9F7793-B10C-4F96-BD3A-4BB3BD048BD4}" />
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
+              <p:d />
+            </r>
+            <r
+              uid="{46C0CAC2-A19D-4A8C-8900-089E8F39F350}"
+              p:after="r[@uid='{D0D1C772-7E1B-45CD-8D78-0877C08009C2}']"
+              s:ds="{01B6AECD-2392-40E7-BF47-CA9C2BCEEAE5}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}">
+              <p:d />
+            </r>
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Subsea Production Systems
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: "<p>Subsea Production Systems leverages in-depth knowledge, disruptive technologies, and technically innovative subsea solutions to enhance our customers&rsquo; energy portfolio.</p>"
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Subsea Production Systems
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190320T161639Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Subsea Production Systems
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Subsea Production Systems
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Subsea Production Systems
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{7EE1ADE9-0D99-4CAF-A0CA-1ECF6A8F0300}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a188e6dc-1274-42ce-baf7-99d94ea01503"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "Subsea Production Systems leverages in-depth knowledge, disruptive technologies, and technically innovative subsea solutions to enhance our customers’ energy portfolio."
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190320T161639Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{299EE142-6553-49B3-8C55-A15DE9D9A6C8}" cropregion="0,160,1920,1262" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190320T163737Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{299EE142-6553-49B3-8C55-A15DE9D9A6C8}" cropregion="0,346,1920,1425" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 4
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}">
+              <p:d />
+            </r>
+            <r
+              uid="{B5D12593-E7F8-41AB-A242-85F170D72A6B}"
+              p:before="*"
+              s:ds="{00F093C6-EA0E-4BFC-A385-87EA29617349}"
+              s:id="{D6F7B1A2-D9A1-4301-85D8-64731201F85B}"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}"
+              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}" />
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}"
+              s:ds="{1C9F7793-B10C-4F96-BD3A-4BB3BD048BD4}" />
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
+              <p:d />
+            </r>
+            <r
+              uid="{46C0CAC2-A19D-4A8C-8900-089E8F39F350}"
+              p:after="r[@uid='{D0D1C772-7E1B-45CD-8D78-0877C08009C2}']"
+              s:ds="{01B6AECD-2392-40E7-BF47-CA9C2BCEEAE5}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}">
+              <p:d />
+            </r>
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Subsea Production Systems
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: "<p>Subsea Production Systems leverages in-depth knowledge, disruptive technologies, and technically innovative subsea solutions to enhance our customers&rsquo; energy portfolio.</p>"
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Subsea Production Systems
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190320T163758Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Subsea Production Systems
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Subsea Production Systems
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Subsea Production Systems
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{7EE1ADE9-0D99-4CAF-A0CA-1ECF6A8F0300}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "aa361459-5900-41da-8611-4a496cc564d9"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "Subsea Production Systems leverages in-depth knowledge, disruptive technologies, and technically innovative subsea solutions to enhance our customers’ energy portfolio."
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190320T163758Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{299EE142-6553-49B3-8C55-A15DE9D9A6C8}" cropregion="0,160,1920,1262" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190320T163854Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{299EE142-6553-49B3-8C55-A15DE9D9A6C8}" cropregion="0,346,1920,1425" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 5
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}">
+              <p:d />
+            </r>
+            <r
+              uid="{B5D12593-E7F8-41AB-A242-85F170D72A6B}"
+              p:before="*"
+              s:ds="{00F093C6-EA0E-4BFC-A385-87EA29617349}"
+              s:id="{D6F7B1A2-D9A1-4301-85D8-64731201F85B}"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}"
+              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}" />
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}"
+              s:ds="{1C9F7793-B10C-4F96-BD3A-4BB3BD048BD4}" />
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
+              <p:d />
+            </r>
+            <r
+              uid="{46C0CAC2-A19D-4A8C-8900-089E8F39F350}"
+              p:after="r[@uid='{D0D1C772-7E1B-45CD-8D78-0877C08009C2}']"
+              s:ds="{01B6AECD-2392-40E7-BF47-CA9C2BCEEAE5}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}">
+              <p:d />
+            </r>
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Subsea Production Systems
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: "<p>Subsea Production Systems leverages in-depth knowledge, disruptive technologies, and technically innovative subsea solutions to enhance our customers&rsquo; energy portfolio.</p>"
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Subsea Production Systems
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190328T175601Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Subsea Production Systems
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Subsea Production Systems
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Subsea Production Systems
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{7EE1ADE9-0D99-4CAF-A0CA-1ECF6A8F0300}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "73d24aa2-277b-4c36-aca4-5a9cfba68083"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "Subsea Production Systems leverages in-depth knowledge, disruptive technologies, and technically innovative subsea solutions to enhance our customers’ energy portfolio."
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190328T175601Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{299EE142-6553-49B3-8C55-A15DE9D9A6C8}" cropregion="0,160,1920,1262" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190509T183946Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{299EE142-6553-49B3-8C55-A15DE9D9A6C8}" cropregion="0,346,1920,1425" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 6
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}">
+              <p:d />
+            </r>
+            <r
+              uid="{B5D12593-E7F8-41AB-A242-85F170D72A6B}"
+              p:before="*"
+              s:ds="{00F093C6-EA0E-4BFC-A385-87EA29617349}"
+              s:id="{D6F7B1A2-D9A1-4301-85D8-64731201F85B}"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{0109759E-4600-4B78-A0E6-96D9B8F26CB9}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}"
+              s:ds="{68903F16-467C-4C6B-8293-FE603988C0BD}"
+              s:par="Enable Autoplay=true&amp;Add Gradient&amp;Text Color=white&amp;Wait Time=5000" />
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}"
+              s:ds="{1C9F7793-B10C-4F96-BD3A-4BB3BD048BD4}" />
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
+              <p:d />
+            </r>
+            <r
+              uid="{46C0CAC2-A19D-4A8C-8900-089E8F39F350}"
+              p:after="r[@uid='{D0D1C772-7E1B-45CD-8D78-0877C08009C2}']"
+              s:ds="{01B6AECD-2392-40E7-BF47-CA9C2BCEEAE5}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}">
+              <p:d />
+            </r>
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Subsea Production Systems
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: "<p>Subsea Production Systems leverages in-depth knowledge, disruptive technologies, and technically innovative subsea solutions to enhance our customers&rsquo; energy portfolio.</p>"
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Subsea Production Systems
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190524T153626Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Subsea Production Systems
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Subsea Production Systems
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\arshmomin
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Subsea Production Systems
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{7EE1ADE9-0D99-4CAF-A0CA-1ECF6A8F0300}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d791486e-13e7-4ecd-9ab1-91a6014c9bcc"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "Subsea Production Systems leverages in-depth knowledge, disruptive technologies, and technically innovative subsea solutions to enhance our customers’ energy portfolio."
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190524T153626Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{299EE142-6553-49B3-8C55-A15DE9D9A6C8}" cropregion="0,160,1920,1262" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190701T204145Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{299EE142-6553-49B3-8C55-A15DE9D9A6C8}" cropregion="0,346,1920,1425" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 7
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}">
+              <p:d />
+            </r>
+            <r
+              uid="{B5D12593-E7F8-41AB-A242-85F170D72A6B}"
+              p:before="*"
+              s:ds="{00F093C6-EA0E-4BFC-A385-87EA29617349}"
+              s:id="{D6F7B1A2-D9A1-4301-85D8-64731201F85B}"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{0109759E-4600-4B78-A0E6-96D9B8F26CB9}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}"
+              s:ds="{68903F16-467C-4C6B-8293-FE603988C0BD}"
+              s:par="Enable Autoplay=true&amp;Add Gradient&amp;Text Color=white&amp;Wait Time=5000" />
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}"
+              s:ds="{1C9F7793-B10C-4F96-BD3A-4BB3BD048BD4}" />
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
+              <p:d />
+            </r>
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}">
+              <p:d />
+            </r>
+            <r
+              uid="{46C0CAC2-A19D-4A8C-8900-089E8F39F350}"
+              p:after="r[@uid='{D0D1C772-7E1B-45CD-8D78-0877C08009C2}']"
+              s:ds="{01B6AECD-2392-40E7-BF47-CA9C2BCEEAE5}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{2FDB1CE0-C5C2-4401-BF6E-FA66971E1E66}"
+              p:after="r[@uid='{46C0CAC2-A19D-4A8C-8900-089E8F39F350}']"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Subsea Production Systems
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: "<p>Subsea Production Systems leverages in-depth knowledge, disruptive technologies, and technically innovative subsea solutions to enhance our customers&rsquo; energy portfolio.</p>"
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Subsea Production Systems
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190701T213444Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Subsea Production Systems
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Subsea Production Systems
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Subsea Production Systems
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{7EE1ADE9-0D99-4CAF-A0CA-1ECF6A8F0300}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "373f8499-1599-4fb1-a5fe-2f58661d0756"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "Subsea Production Systems leverages in-depth knowledge, disruptive technologies, and technically innovative subsea solutions to enhance our customers’ energy portfolio."
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190701T213444Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{299EE142-6553-49B3-8C55-A15DE9D9A6C8}" cropregion="0,160,1920,1262" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190701T214143Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{299EE142-6553-49B3-8C55-A15DE9D9A6C8}" cropregion="0,346,1920,1425" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 8
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}">
+              <p:d />
+            </r>
+            <r
+              uid="{B5D12593-E7F8-41AB-A242-85F170D72A6B}"
+              p:before="*"
+              s:ds="{00F093C6-EA0E-4BFC-A385-87EA29617349}"
+              s:id="{D6F7B1A2-D9A1-4301-85D8-64731201F85B}"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{0109759E-4600-4B78-A0E6-96D9B8F26CB9}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}"
+              s:ds="{925C638D-1E8A-4379-A3BD-7B2164E5D801}"
+              s:par="Enable Autoplay=true&amp;Add Gradient&amp;Text Color=white&amp;Wait Time=5000" />
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}"
+              s:ds="{1C9F7793-B10C-4F96-BD3A-4BB3BD048BD4}" />
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
+              <p:d />
+            </r>
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}">
+              <p:d />
+            </r>
+            <r
+              uid="{46C0CAC2-A19D-4A8C-8900-089E8F39F350}"
+              p:after="r[@uid='{D0D1C772-7E1B-45CD-8D78-0877C08009C2}']"
+              s:ds="{01B6AECD-2392-40E7-BF47-CA9C2BCEEAE5}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{2FDB1CE0-C5C2-4401-BF6E-FA66971E1E66}"
+              p:after="r[@uid='{46C0CAC2-A19D-4A8C-8900-089E8F39F350}']"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+            <r
+              uid="{2FB72E40-D795-42E9-A03C-0F7ED73B4463}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Subsea Production Systems
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: "<p>Subsea Production Systems leverages in-depth knowledge, disruptive technologies, and technically innovative subsea solutions to enhance our customers&rsquo; energy portfolio.</p>"
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Subsea Production Systems
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190710T200544Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Subsea Production Systems
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Subsea Production Systems
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joannazhu
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Subsea Production Systems
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{7EE1ADE9-0D99-4CAF-A0CA-1ECF6A8F0300}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1baf7898-89e4-4733-807e-9774e9dc62be"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\joannazhu
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "Subsea Production Systems leverages in-depth knowledge, disruptive technologies, and technically innovative subsea solutions to enhance our customers’ energy portfolio."
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190710T200544Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{299EE142-6553-49B3-8C55-A15DE9D9A6C8}" cropregion="0,160,1920,1262" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190710T200830Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{299EE142-6553-49B3-8C55-A15DE9D9A6C8}" cropregion="0,346,1920,1425" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 9
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}">
+              <p:d />
+            </r>
+            <r
+              uid="{B5D12593-E7F8-41AB-A242-85F170D72A6B}"
+              p:before="*"
+              s:ds="{00F093C6-EA0E-4BFC-A385-87EA29617349}"
+              s:id="{D6F7B1A2-D9A1-4301-85D8-64731201F85B}"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}"
+              s:ds="{925C638D-1E8A-4379-A3BD-7B2164E5D801}"
+              s:par="Enable Autoplay=true&amp;Add Gradient&amp;Text Color=white&amp;Wait Time=5000" />
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}"
+              s:ds="{1C9F7793-B10C-4F96-BD3A-4BB3BD048BD4}" />
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
+              <p:d />
+            </r>
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}">
+              <p:d />
+            </r>
+            <r
+              uid="{46C0CAC2-A19D-4A8C-8900-089E8F39F350}"
+              p:after="r[@uid='{D0D1C772-7E1B-45CD-8D78-0877C08009C2}']"
+              s:ds="{01B6AECD-2392-40E7-BF47-CA9C2BCEEAE5}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{2FDB1CE0-C5C2-4401-BF6E-FA66971E1E66}"
+              p:after="r[@uid='{46C0CAC2-A19D-4A8C-8900-089E8F39F350}']"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+            <r
+              uid="{2FB72E40-D795-42E9-A03C-0F7ED73B4463}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Subsea Production Systems
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: "<p>Subsea Production Systems leverages in-depth knowledge, disruptive technologies, and technically innovative subsea solutions to enhance our customers&rsquo; energy portfolio.</p>"
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Subsea Production Systems
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200402T144346Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Subsea Production Systems
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Subsea Production Systems
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Subsea Production Systems
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{7EE1ADE9-0D99-4CAF-A0CA-1ECF6A8F0300}"
+    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
+      Hint: Search Result Text
+      Value: "Business Unit: Subsea Production Systems"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0ed9bb3a-4be5-4512-a12d-48e196272935"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\adminrschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "Subsea Production Systems leverages in-depth knowledge, disruptive technologies, and technically innovative subsea solutions to enhance our customers’ energy portfolio."
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200402T144346Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{299EE142-6553-49B3-8C55-A15DE9D9A6C8}" cropregion="0,160,1920,1262" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210422T010843Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{299EE142-6553-49B3-8C55-A15DE9D9A6C8}" cropregion="0,346,1920,1425" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 10
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}">
+              <p:d />
+            </r>
+            <r
+              uid="{B5D12593-E7F8-41AB-A242-85F170D72A6B}"
+              p:before="*"
+              s:ds="{00F093C6-EA0E-4BFC-A385-87EA29617349}"
+              s:id="{D6F7B1A2-D9A1-4301-85D8-64731201F85B}"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}"
+              s:ds="{925C638D-1E8A-4379-A3BD-7B2164E5D801}"
+              s:par="Enable Autoplay=true&amp;Add Gradient&amp;Text Color=white&amp;Wait Time=5000" />
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}"
+              s:ds="{1C9F7793-B10C-4F96-BD3A-4BB3BD048BD4}" />
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
+              <p:d />
+            </r>
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}">
+              <p:d />
+            </r>
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
+              <p:d />
+            </r>
+            <r
+              uid="{73E140C8-5F31-463B-A27D-60D9E1C2180F}"
+              p:after="r[@uid='{D0D1C772-7E1B-45CD-8D78-0877C08009C2}']"
+              s:ds="{EC6446BB-FAEB-43ED-9C4B-6FEDFFEDE228}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:ph="main" />
+            <r
+              uid="{46C0CAC2-A19D-4A8C-8900-089E8F39F350}"
+              p:after="r[@uid='{73E140C8-5F31-463B-A27D-60D9E1C2180F}']"
+              s:ds="{01B6AECD-2392-40E7-BF47-CA9C2BCEEAE5}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{2FDB1CE0-C5C2-4401-BF6E-FA66971E1E66}"
+              p:after="r[@uid='{46C0CAC2-A19D-4A8C-8900-089E8F39F350}']"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+            <r
+              uid="{2FB72E40-D795-42E9-A03C-0F7ED73B4463}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Subsea Production Systems
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: "<p>Subsea Production Systems leverages in-depth knowledge, disruptive technologies, and technically innovative subsea solutions to enhance our customers&rsquo; energy portfolio.</p>"
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Subsea Production Systems
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220329T145853Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Subsea Production Systems
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Subsea Production Systems
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Subsea Production Systems
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{7EE1ADE9-0D99-4CAF-A0CA-1ECF6A8F0300}"
+    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
+      Hint: Search Result Text
+      Value: "Business Unit: Subsea Production Systems"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "475c0987-f03d-4b45-be68-ea01c38dbcd2"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\varalakshmi.md@horizontal.com
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "Subsea Production Systems leverages in-depth knowledge, disruptive technologies, and technically innovative subsea solutions to enhance our customers’ energy portfolio."
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20220329T145853Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{299EE142-6553-49B3-8C55-A15DE9D9A6C8}" cropregion="0,160,1920,1262" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230725T094539Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{299EE142-6553-49B3-8C55-A15DE9D9A6C8}" cropregion="0,346,1920,1425" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />

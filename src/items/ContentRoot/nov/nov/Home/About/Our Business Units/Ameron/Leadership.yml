@@ -1,0 +1,2144 @@
+﻿---
+ID: "ee1e6c9d-eb2f-429b-82da-58c4a50bcc2e"
+Parent: "3c489d94-7a54-4a46-bd04-2d0017ad717c"
+Template: "d227ab0e-fd44-4ae0-878a-189949913d0b"
+Path: /sitecore/content/nov/nov/Home/About/Our Business Units/Ameron/Leadership
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{C4ACEA35-73C2-4347-B325-2FC6FCDAAB8F}"
+          s:ds="{01EA307A-D378-4A5A-9CCB-726B49DA6789}" />
+        <r
+          uid="{E655A92B-3794-4099-AF60-076BAFA33189}"
+          s:ds="{44A8C483-AEDF-4C7A-8F1A-484973F7C19D}" />
+        <r
+          uid="{0D97EC48-A616-4503-81F3-8B0A22142C87}"
+          s:ds="{E1AEDC2D-9270-4B56-8F5D-3E40DF5E9C7C}" />
+        <r
+          uid="{1FD9ED8E-765E-4D75-AEB7-9C5643309FB1}"
+          s:ds="{88671050-CCBF-4968-8E1B-950F06F8E69B}" />
+        <r
+          uid="{C3E128BD-C527-476C-B850-4FF98996AE1F}"
+          s:ds="{CD1E1F88-150C-499D-9D45-D1C2159BFA71}" />
+        <r
+          uid="{9E4C6427-3865-4F4C-AF91-EFDF6A58DA77}"
+          s:ds="{A3720FBF-CF8E-4B8F-93DF-8DE762E8B22F}" />
+        <r
+          uid="{ACAD23C8-9219-4D65-B38A-4537A73C4FE0}"
+          s:ds="{5DA267AA-378A-4A32-9115-32BCC6F64B13}" />
+        <r
+          uid="{FB4C5C8E-DF5F-4300-950E-536065A8707B}"
+          s:ds="{A1EC370A-2086-4B0B-97FD-6CFC73EBD7B3}" />
+        <r
+          uid="{2849CE03-88F2-4FBC-BAE4-0D1B29D7AEAA}"
+          s:ds="{99478641-781F-4D9E-9A35-B086B11E37E9}" />
+        <r
+          uid="{B5407315-4598-49BA-A716-8895E8E1539E}"
+          s:ds="{6E3C14D1-AD0F-45DD-BE3A-46D938F38A34}" />
+        <r
+          uid="{35F5B041-CCEA-40B8-948D-6DE09851A28E}"
+          s:ds="{EDFAB475-B30B-4768-B6A4-1DA196743D89}" />
+        <r
+          uid="{99B4E79C-EEB8-49BC-8779-24C4AD0CF113}"
+          s:ds="{F6FDCB7D-F289-420F-B430-C12EE42BF54B}" />
+        <r
+          uid="{CDF8E396-F69A-48ED-A6DB-B665BD98B242}"
+          s:ds="{87C7FBAB-0571-4330-A977-241D17D38D2D}" />
+      </d>
+    </r>
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01fd8c23-1b98-4e4b-9f2d-ecf3eb8aad68"
+      Hint: businessUnits
+      Value: "{0690BF20-2098-4102-807F-40AADB887C56}"
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{BA077E75-780B-4654-A220-10E63520C582}">
+              <p:d />
+            </r>
+            <r
+              uid="{83C96A38-D18A-4E35-9D8D-71F869B259F3}">
+              <p:d />
+            </r>
+            <r
+              uid="{C4ACEA35-73C2-4347-B325-2FC6FCDAAB8F}">
+              <p:d />
+            </r>
+            <r
+              uid="{D517C3D4-726F-4A3D-A6AC-3A245C64D08F}"
+              p:before="*"
+              s:ds=""
+              s:id="{9CA51EAB-92E4-4A77-8B48-966774577172}"
+              s:par="Add Gradient=1"
+              s:ph="/main/product-hero-{F6EE9D6A-9BB6-4F9B-9B11-37901F1E93B2}-0" />
+            <r
+              uid="{F6EE9D6A-9BB6-4F9B-9B11-37901F1E93B2}"
+              p:after="r[@uid='{D517C3D4-726F-4A3D-A6AC-3A245C64D08F}']"
+              s:ds="{DB7BAB29-A94C-445B-B541-5C88B4C85EB8}"
+              s:id="{C3DD97A2-2C6B-4FDA-922C-7127AE10C976}"
+              s:ph="main" />
+            <r
+              uid="{CAE8D2EA-9D31-4725-B3F4-799784B1AE4D}"
+              p:after="r[@uid='{F6EE9D6A-9BB6-4F9B-9B11-37901F1E93B2}']"
+              s:ds="{5247F468-784C-4034-82E1-F046F7BF2522}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{E655A92B-3794-4099-AF60-076BAFA33189}">
+              <p:d />
+            </r>
+            <r
+              uid="{0D97EC48-A616-4503-81F3-8B0A22142C87}">
+              <p:d />
+            </r>
+            <r
+              uid="{1FD9ED8E-765E-4D75-AEB7-9C5643309FB1}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3E128BD-C527-476C-B850-4FF98996AE1F}">
+              <p:d />
+            </r>
+            <r
+              uid="{9E4C6427-3865-4F4C-AF91-EFDF6A58DA77}">
+              <p:d />
+            </r>
+            <r
+              uid="{ACAD23C8-9219-4D65-B38A-4537A73C4FE0}">
+              <p:d />
+            </r>
+            <r
+              uid="{2849CE03-88F2-4FBC-BAE4-0D1B29D7AEAA}">
+              <p:d />
+            </r>
+            <r
+              uid="{B5407315-4598-49BA-A716-8895E8E1539E}">
+              <p:d />
+            </r>
+            <r
+              uid="{35F5B041-CCEA-40B8-948D-6DE09851A28E}">
+              <p:d />
+            </r>
+            <r
+              uid="{99B4E79C-EEB8-49BC-8779-24C4AD0CF113}">
+              <p:d />
+            </r>
+            <r
+              uid="{CDF8E396-F69A-48ED-A6DB-B665BD98B242}">
+              <p:d />
+            </r>
+            <r
+              uid="{D48C0506-4EC7-4BCE-9D0F-1BBCBF46D550}"
+              p:after="r[@uid='{FB4C5C8E-DF5F-4300-950E-536065A8707B}']"
+              s:ds="{01225148-E3E0-432B-96F6-A314F6E441E1}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{105986F5-0630-44D0-80E4-3F28933097F6}"
+              p:after="r[@uid='{D48C0506-4EC7-4BCE-9D0F-1BBCBF46D550}']"
+              s:ds="{C09B6737-2213-4D10-8B0B-68622CE5AFF7}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{94BF6C6C-28E6-4DE2-A3D5-CCABD6395265}"
+              p:after="r[@uid='{105986F5-0630-44D0-80E4-3F28933097F6}']"
+              s:ds="{F42B20E4-181F-49AF-9CE7-1D65935D3F8B}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{855EB54A-463D-465D-840E-1910323A6684}"
+              p:after="r[@uid='{94BF6C6C-28E6-4DE2-A3D5-CCABD6395265}']"
+              s:ds="{E1D47B8E-EF15-4BEA-97BA-48F50B647847}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{269A13F1-3924-4223-B6EF-F82F6474FDFC}"
+              p:after="r[@uid='{855EB54A-463D-465D-840E-1910323A6684}']"
+              s:ds="{4002A8A2-940B-4460-9440-BEB8F41DF008}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{3ADDDF2A-6C4B-4473-ACB2-EADC8ABD6475}"
+              s:ds="{9FA55EEC-7176-4900-83B8-D7CAAA952694}" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Ameron Leadership
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: "<p>Want to learn about the exceptional team guiding Ameron?</p>"
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Ameron Leadership
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210716T210444Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Ameron Leadership
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Ameron Leadership
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{BAF6B6E1-73CF-43CA-A3DE-D1F409B58E8F}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{ABA9E56C-0FCE-464D-8E09-DB375CDF20D8}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Ameron Leadership
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8e659722-9600-4877-bca3-d2985722957e"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "Want to learn about the exceptional team guiding Ameron?"
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{BAF6B6E1-73CF-43CA-A3DE-D1F409B58E8F}" cropregion="0,87,1920,1191" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20211122T182828Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{BAF6B6E1-73CF-43CA-A3DE-D1F409B58E8F}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01fd8c23-1b98-4e4b-9f2d-ecf3eb8aad68"
+      Hint: businessUnits
+      Value: "{0690BF20-2098-4102-807F-40AADB887C56}"
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{BA077E75-780B-4654-A220-10E63520C582}">
+              <p:d />
+            </r>
+            <r
+              uid="{83C96A38-D18A-4E35-9D8D-71F869B259F3}">
+              <p:d />
+            </r>
+            <r
+              uid="{C4ACEA35-73C2-4347-B325-2FC6FCDAAB8F}">
+              <p:d />
+            </r>
+            <r
+              uid="{D517C3D4-726F-4A3D-A6AC-3A245C64D08F}"
+              p:before="*"
+              s:ds=""
+              s:id="{9CA51EAB-92E4-4A77-8B48-966774577172}"
+              s:par="Add Gradient=1"
+              s:ph="/main/product-hero-{F6EE9D6A-9BB6-4F9B-9B11-37901F1E93B2}-0" />
+            <r
+              uid="{F6EE9D6A-9BB6-4F9B-9B11-37901F1E93B2}"
+              p:after="r[@uid='{D517C3D4-726F-4A3D-A6AC-3A245C64D08F}']"
+              s:ds="{DB7BAB29-A94C-445B-B541-5C88B4C85EB8}"
+              s:id="{C3DD97A2-2C6B-4FDA-922C-7127AE10C976}"
+              s:ph="main" />
+            <r
+              uid="{CAE8D2EA-9D31-4725-B3F4-799784B1AE4D}"
+              p:after="r[@uid='{F6EE9D6A-9BB6-4F9B-9B11-37901F1E93B2}']"
+              s:ds="{5247F468-784C-4034-82E1-F046F7BF2522}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{E655A92B-3794-4099-AF60-076BAFA33189}">
+              <p:d />
+            </r>
+            <r
+              uid="{0D97EC48-A616-4503-81F3-8B0A22142C87}">
+              <p:d />
+            </r>
+            <r
+              uid="{1FD9ED8E-765E-4D75-AEB7-9C5643309FB1}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3E128BD-C527-476C-B850-4FF98996AE1F}">
+              <p:d />
+            </r>
+            <r
+              uid="{9E4C6427-3865-4F4C-AF91-EFDF6A58DA77}">
+              <p:d />
+            </r>
+            <r
+              uid="{ACAD23C8-9219-4D65-B38A-4537A73C4FE0}">
+              <p:d />
+            </r>
+            <r
+              uid="{2849CE03-88F2-4FBC-BAE4-0D1B29D7AEAA}">
+              <p:d />
+            </r>
+            <r
+              uid="{B5407315-4598-49BA-A716-8895E8E1539E}">
+              <p:d />
+            </r>
+            <r
+              uid="{35F5B041-CCEA-40B8-948D-6DE09851A28E}">
+              <p:d />
+            </r>
+            <r
+              uid="{99B4E79C-EEB8-49BC-8779-24C4AD0CF113}">
+              <p:d />
+            </r>
+            <r
+              uid="{CDF8E396-F69A-48ED-A6DB-B665BD98B242}">
+              <p:d />
+            </r>
+            <r
+              uid="{D48C0506-4EC7-4BCE-9D0F-1BBCBF46D550}"
+              p:after="r[@uid='{FB4C5C8E-DF5F-4300-950E-536065A8707B}']"
+              s:ds="{01225148-E3E0-432B-96F6-A314F6E441E1}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{105986F5-0630-44D0-80E4-3F28933097F6}"
+              p:after="r[@uid='{D48C0506-4EC7-4BCE-9D0F-1BBCBF46D550}']"
+              s:ds="{C09B6737-2213-4D10-8B0B-68622CE5AFF7}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{94BF6C6C-28E6-4DE2-A3D5-CCABD6395265}"
+              p:after="r[@uid='{105986F5-0630-44D0-80E4-3F28933097F6}']"
+              s:ds="{F42B20E4-181F-49AF-9CE7-1D65935D3F8B}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{855EB54A-463D-465D-840E-1910323A6684}"
+              p:after="r[@uid='{94BF6C6C-28E6-4DE2-A3D5-CCABD6395265}']"
+              s:ds="{E1D47B8E-EF15-4BEA-97BA-48F50B647847}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{0A31F28B-516B-4359-A8B4-A39299B4DCDF}"
+              p:after="r[@uid='{855EB54A-463D-465D-840E-1910323A6684}']"
+              s:ds="{0AA0B832-5CB2-4736-ADC7-52930F8A4745}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{D6F6DE26-3E78-4E4C-96BC-360B891B9F61}"
+              p:after="r[@uid='{0A31F28B-516B-4359-A8B4-A39299B4DCDF}']"
+              s:ds="{14C653AF-BD73-4C32-B2AB-AB833B9B0787}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{269A13F1-3924-4223-B6EF-F82F6474FDFC}"
+              p:after="r[@uid='{D6F6DE26-3E78-4E4C-96BC-360B891B9F61}']"
+              s:ds="{4002A8A2-940B-4460-9440-BEB8F41DF008}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{3ADDDF2A-6C4B-4473-ACB2-EADC8ABD6475}"
+              s:ds="{9FA55EEC-7176-4900-83B8-D7CAAA952694}" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Ameron Leadership
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: "<p>Want to learn about the exceptional team guiding Ameron?</p>"
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Ameron Leadership
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211201T214309Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Ameron Leadership
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Ameron Leadership
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{BAF6B6E1-73CF-43CA-A3DE-D1F409B58E8F}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{ABA9E56C-0FCE-464D-8E09-DB375CDF20D8}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Ameron Leadership
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e24e0aed-9824-4b37-86a1-fe35d7377a20"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "Want to learn about the exceptional team guiding Ameron?"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20211201T214309Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{BAF6B6E1-73CF-43CA-A3DE-D1F409B58E8F}" cropregion="0,87,1920,1191" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220105T161746Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{BAF6B6E1-73CF-43CA-A3DE-D1F409B58E8F}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01fd8c23-1b98-4e4b-9f2d-ecf3eb8aad68"
+      Hint: businessUnits
+      Value: "{0690BF20-2098-4102-807F-40AADB887C56}"
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{BA077E75-780B-4654-A220-10E63520C582}">
+              <p:d />
+            </r>
+            <r
+              uid="{83C96A38-D18A-4E35-9D8D-71F869B259F3}">
+              <p:d />
+            </r>
+            <r
+              uid="{C4ACEA35-73C2-4347-B325-2FC6FCDAAB8F}">
+              <p:d />
+            </r>
+            <r
+              uid="{D517C3D4-726F-4A3D-A6AC-3A245C64D08F}"
+              p:before="*"
+              s:ds=""
+              s:id="{9CA51EAB-92E4-4A77-8B48-966774577172}"
+              s:par="Add Gradient=1"
+              s:ph="/main/product-hero-{F6EE9D6A-9BB6-4F9B-9B11-37901F1E93B2}-0" />
+            <r
+              uid="{F6EE9D6A-9BB6-4F9B-9B11-37901F1E93B2}"
+              p:after="r[@uid='{D517C3D4-726F-4A3D-A6AC-3A245C64D08F}']"
+              s:ds="{DB7BAB29-A94C-445B-B541-5C88B4C85EB8}"
+              s:id="{C3DD97A2-2C6B-4FDA-922C-7127AE10C976}"
+              s:ph="main" />
+            <r
+              uid="{CAE8D2EA-9D31-4725-B3F4-799784B1AE4D}"
+              p:after="r[@uid='{F6EE9D6A-9BB6-4F9B-9B11-37901F1E93B2}']"
+              s:ds="{5247F468-784C-4034-82E1-F046F7BF2522}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{E655A92B-3794-4099-AF60-076BAFA33189}">
+              <p:d />
+            </r>
+            <r
+              uid="{0D97EC48-A616-4503-81F3-8B0A22142C87}">
+              <p:d />
+            </r>
+            <r
+              uid="{1FD9ED8E-765E-4D75-AEB7-9C5643309FB1}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3E128BD-C527-476C-B850-4FF98996AE1F}">
+              <p:d />
+            </r>
+            <r
+              uid="{9E4C6427-3865-4F4C-AF91-EFDF6A58DA77}">
+              <p:d />
+            </r>
+            <r
+              uid="{ACAD23C8-9219-4D65-B38A-4537A73C4FE0}">
+              <p:d />
+            </r>
+            <r
+              uid="{2849CE03-88F2-4FBC-BAE4-0D1B29D7AEAA}">
+              <p:d />
+            </r>
+            <r
+              uid="{B5407315-4598-49BA-A716-8895E8E1539E}">
+              <p:d />
+            </r>
+            <r
+              uid="{35F5B041-CCEA-40B8-948D-6DE09851A28E}">
+              <p:d />
+            </r>
+            <r
+              uid="{99B4E79C-EEB8-49BC-8779-24C4AD0CF113}">
+              <p:d />
+            </r>
+            <r
+              uid="{CDF8E396-F69A-48ED-A6DB-B665BD98B242}">
+              <p:d />
+            </r>
+            <r
+              uid="{D48C0506-4EC7-4BCE-9D0F-1BBCBF46D550}"
+              p:after="r[@uid='{FB4C5C8E-DF5F-4300-950E-536065A8707B}']"
+              s:ds="{01225148-E3E0-432B-96F6-A314F6E441E1}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{105986F5-0630-44D0-80E4-3F28933097F6}"
+              p:after="r[@uid='{D48C0506-4EC7-4BCE-9D0F-1BBCBF46D550}']"
+              s:ds="{C09B6737-2213-4D10-8B0B-68622CE5AFF7}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{855EB54A-463D-465D-840E-1910323A6684}"
+              p:after="r[@uid='{105986F5-0630-44D0-80E4-3F28933097F6}']"
+              s:ds="{E1D47B8E-EF15-4BEA-97BA-48F50B647847}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{0A31F28B-516B-4359-A8B4-A39299B4DCDF}"
+              p:after="r[@uid='{855EB54A-463D-465D-840E-1910323A6684}']"
+              s:ds="{0AA0B832-5CB2-4736-ADC7-52930F8A4745}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{D6F6DE26-3E78-4E4C-96BC-360B891B9F61}"
+              p:after="r[@uid='{0A31F28B-516B-4359-A8B4-A39299B4DCDF}']"
+              s:ds="{14C653AF-BD73-4C32-B2AB-AB833B9B0787}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{269A13F1-3924-4223-B6EF-F82F6474FDFC}"
+              p:after="r[@uid='{D6F6DE26-3E78-4E4C-96BC-360B891B9F61}']"
+              s:ds="{4002A8A2-940B-4460-9440-BEB8F41DF008}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{3ADDDF2A-6C4B-4473-ACB2-EADC8ABD6475}"
+              s:ds="{9FA55EEC-7176-4900-83B8-D7CAAA952694}" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Ameron Leadership
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: "<p>Want to learn about the exceptional team guiding Ameron?</p>"
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Ameron Leadership
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220112T165952Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Ameron Leadership
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{40251B7D-FBE3-4A0E-8947-D4B4FE8CD782}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Ameron Leadership
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{BAF6B6E1-73CF-43CA-A3DE-D1F409B58E8F}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{ABA9E56C-0FCE-464D-8E09-DB375CDF20D8}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Ameron Leadership
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3651f678-76b9-49e6-86b6-48df3e089e0d"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "Want to learn about the exceptional team guiding Ameron?"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20220112T165952Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{BAF6B6E1-73CF-43CA-A3DE-D1F409B58E8F}" cropregion="0,87,1920,1191" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220112T170218Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{BAF6B6E1-73CF-43CA-A3DE-D1F409B58E8F}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 4
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01fd8c23-1b98-4e4b-9f2d-ecf3eb8aad68"
+      Hint: businessUnits
+      Value: "{0690BF20-2098-4102-807F-40AADB887C56}"
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{BA077E75-780B-4654-A220-10E63520C582}">
+              <p:d />
+            </r>
+            <r
+              uid="{83C96A38-D18A-4E35-9D8D-71F869B259F3}">
+              <p:d />
+            </r>
+            <r
+              uid="{C4ACEA35-73C2-4347-B325-2FC6FCDAAB8F}">
+              <p:d />
+            </r>
+            <r
+              uid="{D517C3D4-726F-4A3D-A6AC-3A245C64D08F}"
+              p:before="*"
+              s:ds=""
+              s:id="{9CA51EAB-92E4-4A77-8B48-966774577172}"
+              s:par="Add Gradient=1"
+              s:ph="/main/product-hero-{F6EE9D6A-9BB6-4F9B-9B11-37901F1E93B2}-0" />
+            <r
+              uid="{F6EE9D6A-9BB6-4F9B-9B11-37901F1E93B2}"
+              p:after="r[@uid='{D517C3D4-726F-4A3D-A6AC-3A245C64D08F}']"
+              s:ds="{DB7BAB29-A94C-445B-B541-5C88B4C85EB8}"
+              s:id="{C3DD97A2-2C6B-4FDA-922C-7127AE10C976}"
+              s:ph="main" />
+            <r
+              uid="{CAE8D2EA-9D31-4725-B3F4-799784B1AE4D}"
+              p:after="r[@uid='{F6EE9D6A-9BB6-4F9B-9B11-37901F1E93B2}']"
+              s:ds="{5247F468-784C-4034-82E1-F046F7BF2522}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{E655A92B-3794-4099-AF60-076BAFA33189}">
+              <p:d />
+            </r>
+            <r
+              uid="{0D97EC48-A616-4503-81F3-8B0A22142C87}">
+              <p:d />
+            </r>
+            <r
+              uid="{1FD9ED8E-765E-4D75-AEB7-9C5643309FB1}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3E128BD-C527-476C-B850-4FF98996AE1F}">
+              <p:d />
+            </r>
+            <r
+              uid="{9E4C6427-3865-4F4C-AF91-EFDF6A58DA77}">
+              <p:d />
+            </r>
+            <r
+              uid="{ACAD23C8-9219-4D65-B38A-4537A73C4FE0}">
+              <p:d />
+            </r>
+            <r
+              uid="{2849CE03-88F2-4FBC-BAE4-0D1B29D7AEAA}">
+              <p:d />
+            </r>
+            <r
+              uid="{B5407315-4598-49BA-A716-8895E8E1539E}">
+              <p:d />
+            </r>
+            <r
+              uid="{35F5B041-CCEA-40B8-948D-6DE09851A28E}">
+              <p:d />
+            </r>
+            <r
+              uid="{99B4E79C-EEB8-49BC-8779-24C4AD0CF113}">
+              <p:d />
+            </r>
+            <r
+              uid="{CDF8E396-F69A-48ED-A6DB-B665BD98B242}">
+              <p:d />
+            </r>
+            <r
+              uid="{D48C0506-4EC7-4BCE-9D0F-1BBCBF46D550}"
+              p:after="r[@uid='{FB4C5C8E-DF5F-4300-950E-536065A8707B}']"
+              s:ds="{01225148-E3E0-432B-96F6-A314F6E441E1}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{105986F5-0630-44D0-80E4-3F28933097F6}"
+              p:after="r[@uid='{D48C0506-4EC7-4BCE-9D0F-1BBCBF46D550}']"
+              s:ds="{C09B6737-2213-4D10-8B0B-68622CE5AFF7}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{94BF6C6C-28E6-4DE2-A3D5-CCABD6395265}"
+              p:after="r[@uid='{105986F5-0630-44D0-80E4-3F28933097F6}']"
+              s:ds="{F42B20E4-181F-49AF-9CE7-1D65935D3F8B}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{855EB54A-463D-465D-840E-1910323A6684}"
+              p:after="r[@uid='{94BF6C6C-28E6-4DE2-A3D5-CCABD6395265}']"
+              s:ds="{E1D47B8E-EF15-4BEA-97BA-48F50B647847}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{0A31F28B-516B-4359-A8B4-A39299B4DCDF}"
+              p:after="r[@uid='{855EB54A-463D-465D-840E-1910323A6684}']"
+              s:ds="{0AA0B832-5CB2-4736-ADC7-52930F8A4745}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{D6F6DE26-3E78-4E4C-96BC-360B891B9F61}"
+              p:after="r[@uid='{0A31F28B-516B-4359-A8B4-A39299B4DCDF}']"
+              s:ds="{14C653AF-BD73-4C32-B2AB-AB833B9B0787}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{269A13F1-3924-4223-B6EF-F82F6474FDFC}"
+              p:after="r[@uid='{D6F6DE26-3E78-4E4C-96BC-360B891B9F61}']"
+              s:ds="{4002A8A2-940B-4460-9440-BEB8F41DF008}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{3ADDDF2A-6C4B-4473-ACB2-EADC8ABD6475}"
+              s:ds="{9FA55EEC-7176-4900-83B8-D7CAAA952694}" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Ameron Leadership
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: "<p>Want to learn about the exceptional team guiding Ameron?</p>"
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Ameron Leadership
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220112T170340Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Ameron Leadership
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Ameron Leadership
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{BAF6B6E1-73CF-43CA-A3DE-D1F409B58E8F}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{ABA9E56C-0FCE-464D-8E09-DB375CDF20D8}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Ameron Leadership
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "322800d7-9d91-4d50-baef-3e6d35faf64c"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "Want to learn about the exceptional team guiding Ameron?"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20220112T170340Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{BAF6B6E1-73CF-43CA-A3DE-D1F409B58E8F}" cropregion="0,87,1920,1191" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220112T170412Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{BAF6B6E1-73CF-43CA-A3DE-D1F409B58E8F}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 5
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01fd8c23-1b98-4e4b-9f2d-ecf3eb8aad68"
+      Hint: businessUnits
+      Value: "{0690BF20-2098-4102-807F-40AADB887C56}"
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{BA077E75-780B-4654-A220-10E63520C582}">
+              <p:d />
+            </r>
+            <r
+              uid="{83C96A38-D18A-4E35-9D8D-71F869B259F3}">
+              <p:d />
+            </r>
+            <r
+              uid="{C4ACEA35-73C2-4347-B325-2FC6FCDAAB8F}">
+              <p:d />
+            </r>
+            <r
+              uid="{D517C3D4-726F-4A3D-A6AC-3A245C64D08F}"
+              p:before="*"
+              s:ds=""
+              s:id="{9CA51EAB-92E4-4A77-8B48-966774577172}"
+              s:par="Add Gradient=1"
+              s:ph="/main/product-hero-{F6EE9D6A-9BB6-4F9B-9B11-37901F1E93B2}-0" />
+            <r
+              uid="{F6EE9D6A-9BB6-4F9B-9B11-37901F1E93B2}"
+              p:after="r[@uid='{D517C3D4-726F-4A3D-A6AC-3A245C64D08F}']"
+              s:ds="{DB7BAB29-A94C-445B-B541-5C88B4C85EB8}"
+              s:id="{C3DD97A2-2C6B-4FDA-922C-7127AE10C976}"
+              s:ph="main" />
+            <r
+              uid="{CAE8D2EA-9D31-4725-B3F4-799784B1AE4D}"
+              p:after="r[@uid='{F6EE9D6A-9BB6-4F9B-9B11-37901F1E93B2}']"
+              s:ds="{5247F468-784C-4034-82E1-F046F7BF2522}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{E655A92B-3794-4099-AF60-076BAFA33189}">
+              <p:d />
+            </r>
+            <r
+              uid="{0D97EC48-A616-4503-81F3-8B0A22142C87}">
+              <p:d />
+            </r>
+            <r
+              uid="{1FD9ED8E-765E-4D75-AEB7-9C5643309FB1}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3E128BD-C527-476C-B850-4FF98996AE1F}">
+              <p:d />
+            </r>
+            <r
+              uid="{9E4C6427-3865-4F4C-AF91-EFDF6A58DA77}">
+              <p:d />
+            </r>
+            <r
+              uid="{ACAD23C8-9219-4D65-B38A-4537A73C4FE0}">
+              <p:d />
+            </r>
+            <r
+              uid="{2849CE03-88F2-4FBC-BAE4-0D1B29D7AEAA}">
+              <p:d />
+            </r>
+            <r
+              uid="{B5407315-4598-49BA-A716-8895E8E1539E}">
+              <p:d />
+            </r>
+            <r
+              uid="{35F5B041-CCEA-40B8-948D-6DE09851A28E}">
+              <p:d />
+            </r>
+            <r
+              uid="{99B4E79C-EEB8-49BC-8779-24C4AD0CF113}">
+              <p:d />
+            </r>
+            <r
+              uid="{CDF8E396-F69A-48ED-A6DB-B665BD98B242}">
+              <p:d />
+            </r>
+            <r
+              uid="{D48C0506-4EC7-4BCE-9D0F-1BBCBF46D550}"
+              p:after="r[@uid='{FB4C5C8E-DF5F-4300-950E-536065A8707B}']"
+              s:ds="{01225148-E3E0-432B-96F6-A314F6E441E1}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{105986F5-0630-44D0-80E4-3F28933097F6}"
+              p:after="r[@uid='{D48C0506-4EC7-4BCE-9D0F-1BBCBF46D550}']"
+              s:ds="{C09B6737-2213-4D10-8B0B-68622CE5AFF7}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{855EB54A-463D-465D-840E-1910323A6684}"
+              p:after="r[@uid='{105986F5-0630-44D0-80E4-3F28933097F6}']"
+              s:ds="{E1D47B8E-EF15-4BEA-97BA-48F50B647847}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{0A31F28B-516B-4359-A8B4-A39299B4DCDF}"
+              p:after="r[@uid='{855EB54A-463D-465D-840E-1910323A6684}']"
+              s:ds="{0AA0B832-5CB2-4736-ADC7-52930F8A4745}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{D6F6DE26-3E78-4E4C-96BC-360B891B9F61}"
+              p:after="r[@uid='{0A31F28B-516B-4359-A8B4-A39299B4DCDF}']"
+              s:ds="{14C653AF-BD73-4C32-B2AB-AB833B9B0787}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{269A13F1-3924-4223-B6EF-F82F6474FDFC}"
+              p:after="r[@uid='{D6F6DE26-3E78-4E4C-96BC-360B891B9F61}']"
+              s:ds="{4002A8A2-940B-4460-9440-BEB8F41DF008}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{3ADDDF2A-6C4B-4473-ACB2-EADC8ABD6475}"
+              s:ds="{9FA55EEC-7176-4900-83B8-D7CAAA952694}" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Ameron Leadership
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: "<p>Want to learn about the exceptional team guiding Ameron?</p>"
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Ameron Leadership
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220112T171130Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Ameron Leadership
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Ameron Leadership
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{BAF6B6E1-73CF-43CA-A3DE-D1F409B58E8F}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{ABA9E56C-0FCE-464D-8E09-DB375CDF20D8}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Ameron Leadership
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bfad63af-ea8a-48b1-88cf-06ee50f899a0"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "Want to learn about the exceptional team guiding Ameron?"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20220112T171130Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{BAF6B6E1-73CF-43CA-A3DE-D1F409B58E8F}" cropregion="0,87,1920,1191" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220112T171313Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{BAF6B6E1-73CF-43CA-A3DE-D1F409B58E8F}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 6
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01fd8c23-1b98-4e4b-9f2d-ecf3eb8aad68"
+      Hint: businessUnits
+      Value: "{0690BF20-2098-4102-807F-40AADB887C56}"
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{BA077E75-780B-4654-A220-10E63520C582}">
+              <p:d />
+            </r>
+            <r
+              uid="{83C96A38-D18A-4E35-9D8D-71F869B259F3}">
+              <p:d />
+            </r>
+            <r
+              uid="{C4ACEA35-73C2-4347-B325-2FC6FCDAAB8F}">
+              <p:d />
+            </r>
+            <r
+              uid="{D517C3D4-726F-4A3D-A6AC-3A245C64D08F}"
+              p:before="*"
+              s:ds=""
+              s:id="{9CA51EAB-92E4-4A77-8B48-966774577172}"
+              s:par="Add Gradient=1"
+              s:ph="/main/product-hero-{F6EE9D6A-9BB6-4F9B-9B11-37901F1E93B2}-0" />
+            <r
+              uid="{F6EE9D6A-9BB6-4F9B-9B11-37901F1E93B2}"
+              p:after="r[@uid='{D517C3D4-726F-4A3D-A6AC-3A245C64D08F}']"
+              s:ds="{DB7BAB29-A94C-445B-B541-5C88B4C85EB8}"
+              s:id="{C3DD97A2-2C6B-4FDA-922C-7127AE10C976}"
+              s:ph="main" />
+            <r
+              uid="{CAE8D2EA-9D31-4725-B3F4-799784B1AE4D}"
+              p:after="r[@uid='{F6EE9D6A-9BB6-4F9B-9B11-37901F1E93B2}']"
+              s:ds="{5247F468-784C-4034-82E1-F046F7BF2522}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{E655A92B-3794-4099-AF60-076BAFA33189}">
+              <p:d />
+            </r>
+            <r
+              uid="{0D97EC48-A616-4503-81F3-8B0A22142C87}">
+              <p:d />
+            </r>
+            <r
+              uid="{1FD9ED8E-765E-4D75-AEB7-9C5643309FB1}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3E128BD-C527-476C-B850-4FF98996AE1F}">
+              <p:d />
+            </r>
+            <r
+              uid="{9E4C6427-3865-4F4C-AF91-EFDF6A58DA77}">
+              <p:d />
+            </r>
+            <r
+              uid="{ACAD23C8-9219-4D65-B38A-4537A73C4FE0}">
+              <p:d />
+            </r>
+            <r
+              uid="{2849CE03-88F2-4FBC-BAE4-0D1B29D7AEAA}">
+              <p:d />
+            </r>
+            <r
+              uid="{B5407315-4598-49BA-A716-8895E8E1539E}">
+              <p:d />
+            </r>
+            <r
+              uid="{35F5B041-CCEA-40B8-948D-6DE09851A28E}">
+              <p:d />
+            </r>
+            <r
+              uid="{99B4E79C-EEB8-49BC-8779-24C4AD0CF113}">
+              <p:d />
+            </r>
+            <r
+              uid="{CDF8E396-F69A-48ED-A6DB-B665BD98B242}">
+              <p:d />
+            </r>
+            <r
+              uid="{D48C0506-4EC7-4BCE-9D0F-1BBCBF46D550}"
+              p:after="r[@uid='{FB4C5C8E-DF5F-4300-950E-536065A8707B}']"
+              s:ds="{01225148-E3E0-432B-96F6-A314F6E441E1}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{105986F5-0630-44D0-80E4-3F28933097F6}"
+              p:after="r[@uid='{D48C0506-4EC7-4BCE-9D0F-1BBCBF46D550}']"
+              s:ds="{C09B6737-2213-4D10-8B0B-68622CE5AFF7}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{855EB54A-463D-465D-840E-1910323A6684}"
+              p:after="r[@uid='{105986F5-0630-44D0-80E4-3F28933097F6}']"
+              s:ds="{E1D47B8E-EF15-4BEA-97BA-48F50B647847}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{0A31F28B-516B-4359-A8B4-A39299B4DCDF}"
+              p:after="r[@uid='{855EB54A-463D-465D-840E-1910323A6684}']"
+              s:ds="{0AA0B832-5CB2-4736-ADC7-52930F8A4745}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{D6F6DE26-3E78-4E4C-96BC-360B891B9F61}"
+              p:after="r[@uid='{0A31F28B-516B-4359-A8B4-A39299B4DCDF}']"
+              s:ds="{14C653AF-BD73-4C32-B2AB-AB833B9B0787}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{269A13F1-3924-4223-B6EF-F82F6474FDFC}"
+              p:after="r[@uid='{D6F6DE26-3E78-4E4C-96BC-360B891B9F61}']"
+              s:ds="{4002A8A2-940B-4460-9440-BEB8F41DF008}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{3ADDDF2A-6C4B-4473-ACB2-EADC8ABD6475}"
+              s:ds="{152AF4E0-BFF3-4400-A330-EF0E69000E7D}" />
+            <r
+              uid="{1824FF23-6877-413F-9C93-FBC7374EEBEC}"
+              p:after="r[@uid='{8036035A-E577-44BC-A961-631ADBC08C0F}']"
+              s:ds="{31F28FCB-BAEA-4043-95CF-5A2C2B6319ED}"
+              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
+              s:par="Use Button for Link"
+              s:ph="main" />
+            <r
+              uid="{3E43A9BF-1F7C-47DF-91AF-807A5501C005}"
+              p:after="*[1=2]"
+              s:ds="{1C5BC719-78AB-4067-80D5-BC043822728C}"
+              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
+              s:par="Use Button for Link"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Ameron Leadership
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: "<p>Want to learn about the exceptional team guiding Ameron?</p>"
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Ameron Leadership
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220311T204655Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Ameron Leadership
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Ameron Leadership
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{BAF6B6E1-73CF-43CA-A3DE-D1F409B58E8F}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{ABA9E56C-0FCE-464D-8E09-DB375CDF20D8}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Ameron Leadership
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bc0a6ab0-606b-48c8-a768-410986cf9c6e"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "Want to learn about the exceptional team guiding Ameron?"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20220311T204655Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{BAF6B6E1-73CF-43CA-A3DE-D1F409B58E8F}" cropregion="0,87,1920,1191" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220311T211947Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{BAF6B6E1-73CF-43CA-A3DE-D1F409B58E8F}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 7
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01fd8c23-1b98-4e4b-9f2d-ecf3eb8aad68"
+      Hint: businessUnits
+      Value: "{0690BF20-2098-4102-807F-40AADB887C56}"
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{BA077E75-780B-4654-A220-10E63520C582}">
+              <p:d />
+            </r>
+            <r
+              uid="{83C96A38-D18A-4E35-9D8D-71F869B259F3}">
+              <p:d />
+            </r>
+            <r
+              uid="{C4ACEA35-73C2-4347-B325-2FC6FCDAAB8F}">
+              <p:d />
+            </r>
+            <r
+              uid="{D517C3D4-726F-4A3D-A6AC-3A245C64D08F}"
+              p:before="*"
+              s:ds=""
+              s:id="{9CA51EAB-92E4-4A77-8B48-966774577172}"
+              s:par="Add Gradient=1"
+              s:ph="/main/product-hero-{F6EE9D6A-9BB6-4F9B-9B11-37901F1E93B2}-0" />
+            <r
+              uid="{F6EE9D6A-9BB6-4F9B-9B11-37901F1E93B2}"
+              p:after="r[@uid='{D517C3D4-726F-4A3D-A6AC-3A245C64D08F}']"
+              s:ds="{DB7BAB29-A94C-445B-B541-5C88B4C85EB8}"
+              s:id="{C3DD97A2-2C6B-4FDA-922C-7127AE10C976}"
+              s:ph="main" />
+            <r
+              uid="{CAE8D2EA-9D31-4725-B3F4-799784B1AE4D}"
+              p:after="r[@uid='{F6EE9D6A-9BB6-4F9B-9B11-37901F1E93B2}']"
+              s:ds="{5247F468-784C-4034-82E1-F046F7BF2522}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{E655A92B-3794-4099-AF60-076BAFA33189}">
+              <p:d />
+            </r>
+            <r
+              uid="{0D97EC48-A616-4503-81F3-8B0A22142C87}">
+              <p:d />
+            </r>
+            <r
+              uid="{1FD9ED8E-765E-4D75-AEB7-9C5643309FB1}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3E128BD-C527-476C-B850-4FF98996AE1F}">
+              <p:d />
+            </r>
+            <r
+              uid="{9E4C6427-3865-4F4C-AF91-EFDF6A58DA77}">
+              <p:d />
+            </r>
+            <r
+              uid="{ACAD23C8-9219-4D65-B38A-4537A73C4FE0}">
+              <p:d />
+            </r>
+            <r
+              uid="{2849CE03-88F2-4FBC-BAE4-0D1B29D7AEAA}">
+              <p:d />
+            </r>
+            <r
+              uid="{B5407315-4598-49BA-A716-8895E8E1539E}">
+              <p:d />
+            </r>
+            <r
+              uid="{35F5B041-CCEA-40B8-948D-6DE09851A28E}">
+              <p:d />
+            </r>
+            <r
+              uid="{99B4E79C-EEB8-49BC-8779-24C4AD0CF113}">
+              <p:d />
+            </r>
+            <r
+              uid="{CDF8E396-F69A-48ED-A6DB-B665BD98B242}">
+              <p:d />
+            </r>
+            <r
+              uid="{D48C0506-4EC7-4BCE-9D0F-1BBCBF46D550}"
+              p:after="r[@uid='{FB4C5C8E-DF5F-4300-950E-536065A8707B}']"
+              s:ds="{01225148-E3E0-432B-96F6-A314F6E441E1}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{E8569238-5C52-4C75-8EFC-41C24E793D53}"
+              p:after="r[@uid='{D48C0506-4EC7-4BCE-9D0F-1BBCBF46D550}']"
+              s:ds="{8F8E851A-EE65-4AB9-8CED-9C1A8E00DA5A}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{3C274B66-239F-47B7-91E1-DDB668A5743E}"
+              p:after="r[@uid='{E8569238-5C52-4C75-8EFC-41C24E793D53}']"
+              s:ds="{8A05D5FA-1731-4C9D-A95F-9D929061B22F}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{855EB54A-463D-465D-840E-1910323A6684}"
+              p:after="r[@uid='{3C274B66-239F-47B7-91E1-DDB668A5743E}']"
+              s:ds="{E1D47B8E-EF15-4BEA-97BA-48F50B647847}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{0A31F28B-516B-4359-A8B4-A39299B4DCDF}"
+              p:after="r[@uid='{855EB54A-463D-465D-840E-1910323A6684}']"
+              s:ds="{0AA0B832-5CB2-4736-ADC7-52930F8A4745}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{D6F6DE26-3E78-4E4C-96BC-360B891B9F61}"
+              p:after="r[@uid='{0A31F28B-516B-4359-A8B4-A39299B4DCDF}']"
+              s:ds="{14C653AF-BD73-4C32-B2AB-AB833B9B0787}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{269A13F1-3924-4223-B6EF-F82F6474FDFC}"
+              p:after="r[@uid='{D6F6DE26-3E78-4E4C-96BC-360B891B9F61}']"
+              s:ds="{4002A8A2-940B-4460-9440-BEB8F41DF008}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{3ADDDF2A-6C4B-4473-ACB2-EADC8ABD6475}"
+              s:ds="{152AF4E0-BFF3-4400-A330-EF0E69000E7D}" />
+            <r
+              uid="{1824FF23-6877-413F-9C93-FBC7374EEBEC}"
+              p:after="r[@uid='{8036035A-E577-44BC-A961-631ADBC08C0F}']"
+              s:ds="{31F28FCB-BAEA-4043-95CF-5A2C2B6319ED}"
+              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
+              s:par="Use Button for Link"
+              s:ph="main" />
+            <r
+              uid="{3E43A9BF-1F7C-47DF-91AF-807A5501C005}"
+              p:after="*[1=2]"
+              s:ds="{1C5BC719-78AB-4067-80D5-BC043822728C}"
+              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
+              s:par="Use Button for Link"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Ameron Leadership
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: "<p>Want to learn about the exceptional team guiding Ameron?</p>"
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Ameron Leadership
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220330T185409Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Ameron Leadership
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Ameron Leadership
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{BAF6B6E1-73CF-43CA-A3DE-D1F409B58E8F}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{ABA9E56C-0FCE-464D-8E09-DB375CDF20D8}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Ameron Leadership
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "571d25c5-7e22-4719-b9c2-faa9f11ddd87"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "Want to learn about the exceptional team guiding Ameron?"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20220330T185409Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{BAF6B6E1-73CF-43CA-A3DE-D1F409B58E8F}" cropregion="0,87,1920,1191" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220413T165407Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{BAF6B6E1-73CF-43CA-A3DE-D1F409B58E8F}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 8
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01fd8c23-1b98-4e4b-9f2d-ecf3eb8aad68"
+      Hint: businessUnits
+      Value: "{0690BF20-2098-4102-807F-40AADB887C56}"
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{BA077E75-780B-4654-A220-10E63520C582}">
+              <p:d />
+            </r>
+            <r
+              uid="{83C96A38-D18A-4E35-9D8D-71F869B259F3}">
+              <p:d />
+            </r>
+            <r
+              uid="{C4ACEA35-73C2-4347-B325-2FC6FCDAAB8F}">
+              <p:d />
+            </r>
+            <r
+              uid="{D517C3D4-726F-4A3D-A6AC-3A245C64D08F}"
+              p:before="*"
+              s:ds=""
+              s:id="{9CA51EAB-92E4-4A77-8B48-966774577172}"
+              s:par="Add Gradient=1"
+              s:ph="/main/product-hero-{F6EE9D6A-9BB6-4F9B-9B11-37901F1E93B2}-0" />
+            <r
+              uid="{F6EE9D6A-9BB6-4F9B-9B11-37901F1E93B2}"
+              p:after="r[@uid='{D517C3D4-726F-4A3D-A6AC-3A245C64D08F}']"
+              s:ds="{DB7BAB29-A94C-445B-B541-5C88B4C85EB8}"
+              s:id="{C3DD97A2-2C6B-4FDA-922C-7127AE10C976}"
+              s:ph="main" />
+            <r
+              uid="{CAE8D2EA-9D31-4725-B3F4-799784B1AE4D}"
+              p:after="r[@uid='{F6EE9D6A-9BB6-4F9B-9B11-37901F1E93B2}']"
+              s:ds="{5247F468-784C-4034-82E1-F046F7BF2522}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{E655A92B-3794-4099-AF60-076BAFA33189}">
+              <p:d />
+            </r>
+            <r
+              uid="{0D97EC48-A616-4503-81F3-8B0A22142C87}">
+              <p:d />
+            </r>
+            <r
+              uid="{1FD9ED8E-765E-4D75-AEB7-9C5643309FB1}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3E128BD-C527-476C-B850-4FF98996AE1F}">
+              <p:d />
+            </r>
+            <r
+              uid="{9E4C6427-3865-4F4C-AF91-EFDF6A58DA77}">
+              <p:d />
+            </r>
+            <r
+              uid="{ACAD23C8-9219-4D65-B38A-4537A73C4FE0}">
+              <p:d />
+            </r>
+            <r
+              uid="{2849CE03-88F2-4FBC-BAE4-0D1B29D7AEAA}">
+              <p:d />
+            </r>
+            <r
+              uid="{B5407315-4598-49BA-A716-8895E8E1539E}">
+              <p:d />
+            </r>
+            <r
+              uid="{35F5B041-CCEA-40B8-948D-6DE09851A28E}">
+              <p:d />
+            </r>
+            <r
+              uid="{99B4E79C-EEB8-49BC-8779-24C4AD0CF113}">
+              <p:d />
+            </r>
+            <r
+              uid="{CDF8E396-F69A-48ED-A6DB-B665BD98B242}">
+              <p:d />
+            </r>
+            <r
+              uid="{D48C0506-4EC7-4BCE-9D0F-1BBCBF46D550}"
+              p:after="r[@uid='{FB4C5C8E-DF5F-4300-950E-536065A8707B}']"
+              s:ds="{01225148-E3E0-432B-96F6-A314F6E441E1}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{E8569238-5C52-4C75-8EFC-41C24E793D53}"
+              p:after="r[@uid='{D48C0506-4EC7-4BCE-9D0F-1BBCBF46D550}']"
+              s:ds="{8F8E851A-EE65-4AB9-8CED-9C1A8E00DA5A}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{3C274B66-239F-47B7-91E1-DDB668A5743E}"
+              p:after="r[@uid='{E8569238-5C52-4C75-8EFC-41C24E793D53}']"
+              s:ds="{8A05D5FA-1731-4C9D-A95F-9D929061B22F}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{855EB54A-463D-465D-840E-1910323A6684}"
+              p:after="r[@uid='{3C274B66-239F-47B7-91E1-DDB668A5743E}']"
+              s:ds="{E1D47B8E-EF15-4BEA-97BA-48F50B647847}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{0A31F28B-516B-4359-A8B4-A39299B4DCDF}"
+              p:after="r[@uid='{855EB54A-463D-465D-840E-1910323A6684}']"
+              s:ds="{0AA0B832-5CB2-4736-ADC7-52930F8A4745}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{269A13F1-3924-4223-B6EF-F82F6474FDFC}"
+              p:after="r[@uid='{0A31F28B-516B-4359-A8B4-A39299B4DCDF}']"
+              s:ds="{4002A8A2-940B-4460-9440-BEB8F41DF008}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{3ADDDF2A-6C4B-4473-ACB2-EADC8ABD6475}"
+              s:ds="{152AF4E0-BFF3-4400-A330-EF0E69000E7D}" />
+            <r
+              uid="{1824FF23-6877-413F-9C93-FBC7374EEBEC}"
+              p:after="r[@uid='{8036035A-E577-44BC-A961-631ADBC08C0F}']"
+              s:ds="{31F28FCB-BAEA-4043-95CF-5A2C2B6319ED}"
+              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
+              s:par="Use Button for Link"
+              s:ph="main" />
+            <r
+              uid="{3E43A9BF-1F7C-47DF-91AF-807A5501C005}"
+              p:after="*[1=2]"
+              s:ds="{1C5BC719-78AB-4067-80D5-BC043822728C}"
+              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
+              s:par="Use Button for Link"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Ameron Leadership
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: "<p>Want to learn about the exceptional team guiding Ameron?</p>"
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Ameron Leadership
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220906T192217Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Ameron Leadership
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Ameron Leadership
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{BAF6B6E1-73CF-43CA-A3DE-D1F409B58E8F}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{ABA9E56C-0FCE-464D-8E09-DB375CDF20D8}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Ameron Leadership
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "77cf3da8-56c9-4c52-9a18-2a06e9e2ad86"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "Want to learn about the exceptional team guiding Ameron?"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20220906T192217Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{BAF6B6E1-73CF-43CA-A3DE-D1F409B58E8F}" cropregion="0,87,1920,1191" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220907T151231Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{BAF6B6E1-73CF-43CA-A3DE-D1F409B58E8F}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 9
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01fd8c23-1b98-4e4b-9f2d-ecf3eb8aad68"
+      Hint: businessUnits
+      Value: "{0690BF20-2098-4102-807F-40AADB887C56}"
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{BA077E75-780B-4654-A220-10E63520C582}">
+              <p:d />
+            </r>
+            <r
+              uid="{83C96A38-D18A-4E35-9D8D-71F869B259F3}">
+              <p:d />
+            </r>
+            <r
+              uid="{C4ACEA35-73C2-4347-B325-2FC6FCDAAB8F}">
+              <p:d />
+            </r>
+            <r
+              uid="{E655A92B-3794-4099-AF60-076BAFA33189}">
+              <p:d />
+            </r>
+            <r
+              uid="{0D97EC48-A616-4503-81F3-8B0A22142C87}">
+              <p:d />
+            </r>
+            <r
+              uid="{1FD9ED8E-765E-4D75-AEB7-9C5643309FB1}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3E128BD-C527-476C-B850-4FF98996AE1F}">
+              <p:d />
+            </r>
+            <r
+              uid="{9E4C6427-3865-4F4C-AF91-EFDF6A58DA77}">
+              <p:d />
+            </r>
+            <r
+              uid="{ACAD23C8-9219-4D65-B38A-4537A73C4FE0}">
+              <p:d />
+            </r>
+            <r
+              uid="{D517C3D4-726F-4A3D-A6AC-3A245C64D08F}"
+              p:before="*"
+              s:ds=""
+              s:id="{9CA51EAB-92E4-4A77-8B48-966774577172}"
+              s:par="Add Gradient=1"
+              s:ph="/main/product-hero-{F6EE9D6A-9BB6-4F9B-9B11-37901F1E93B2}-0" />
+            <r
+              uid="{F6EE9D6A-9BB6-4F9B-9B11-37901F1E93B2}"
+              p:after="r[@uid='{D517C3D4-726F-4A3D-A6AC-3A245C64D08F}']"
+              s:ds="{DB7BAB29-A94C-445B-B541-5C88B4C85EB8}"
+              s:id="{C3DD97A2-2C6B-4FDA-922C-7127AE10C976}"
+              s:ph="main" />
+            <r
+              uid="{CAE8D2EA-9D31-4725-B3F4-799784B1AE4D}"
+              p:after="r[@uid='{F6EE9D6A-9BB6-4F9B-9B11-37901F1E93B2}']"
+              s:ds="{5247F468-784C-4034-82E1-F046F7BF2522}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{D48C0506-4EC7-4BCE-9D0F-1BBCBF46D550}"
+              p:after="r[@uid='{CAE8D2EA-9D31-4725-B3F4-799784B1AE4D}']"
+              s:ds="{01225148-E3E0-432B-96F6-A314F6E441E1}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{E8569238-5C52-4C75-8EFC-41C24E793D53}"
+              p:after="r[@uid='{D48C0506-4EC7-4BCE-9D0F-1BBCBF46D550}']"
+              s:ds="{8F8E851A-EE65-4AB9-8CED-9C1A8E00DA5A}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{3C274B66-239F-47B7-91E1-DDB668A5743E}"
+              p:after="r[@uid='{E8569238-5C52-4C75-8EFC-41C24E793D53}']"
+              s:ds="{8A05D5FA-1731-4C9D-A95F-9D929061B22F}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{855EB54A-463D-465D-840E-1910323A6684}"
+              p:after="r[@uid='{3C274B66-239F-47B7-91E1-DDB668A5743E}']"
+              s:ds="{E1D47B8E-EF15-4BEA-97BA-48F50B647847}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{0A31F28B-516B-4359-A8B4-A39299B4DCDF}"
+              p:after="r[@uid='{855EB54A-463D-465D-840E-1910323A6684}']"
+              s:ds="{0AA0B832-5CB2-4736-ADC7-52930F8A4745}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{269A13F1-3924-4223-B6EF-F82F6474FDFC}"
+              p:after="r[@uid='{0A31F28B-516B-4359-A8B4-A39299B4DCDF}']"
+              s:ds="{4002A8A2-940B-4460-9440-BEB8F41DF008}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{FB4C5C8E-DF5F-4300-950E-536065A8707B}">
+              <p:d />
+            </r>
+            <r
+              uid="{2849CE03-88F2-4FBC-BAE4-0D1B29D7AEAA}">
+              <p:d />
+            </r>
+            <r
+              uid="{B5407315-4598-49BA-A716-8895E8E1539E}">
+              <p:d />
+            </r>
+            <r
+              uid="{35F5B041-CCEA-40B8-948D-6DE09851A28E}">
+              <p:d />
+            </r>
+            <r
+              uid="{99B4E79C-EEB8-49BC-8779-24C4AD0CF113}">
+              <p:d />
+            </r>
+            <r
+              uid="{CDF8E396-F69A-48ED-A6DB-B665BD98B242}">
+              <p:d />
+            </r>
+            <r
+              uid="{3ADDDF2A-6C4B-4473-ACB2-EADC8ABD6475}"
+              s:ds="{152AF4E0-BFF3-4400-A330-EF0E69000E7D}" />
+            <r
+              uid="{1824FF23-6877-413F-9C93-FBC7374EEBEC}"
+              p:after="r[@uid='{8036035A-E577-44BC-A961-631ADBC08C0F}']"
+              s:ds="{31F28FCB-BAEA-4043-95CF-5A2C2B6319ED}"
+              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
+              s:par="Use Button for Link"
+              s:ph="main" />
+            <r
+              uid="{3E43A9BF-1F7C-47DF-91AF-807A5501C005}"
+              p:after="*[1=2]"
+              s:ds="{1C5BC719-78AB-4067-80D5-BC043822728C}"
+              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
+              s:par="Use Button for Link"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Ameron Leadership
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: "<p>Want to learn about the exceptional team guiding Ameron?</p>"
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Ameron Leadership
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230526T165208Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Ameron Leadership
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Ameron Leadership
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{BAF6B6E1-73CF-43CA-A3DE-D1F409B58E8F}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{ABA9E56C-0FCE-464D-8E09-DB375CDF20D8}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Ameron Leadership
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6b82b8ce-038a-4f43-b2f0-82fccee58851"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "Want to learn about the exceptional team guiding Ameron?"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230526T165208Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{BAF6B6E1-73CF-43CA-A3DE-D1F409B58E8F}" cropregion="0,87,1920,1191" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230530T143452Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{BAF6B6E1-73CF-43CA-A3DE-D1F409B58E8F}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 10
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01fd8c23-1b98-4e4b-9f2d-ecf3eb8aad68"
+      Hint: businessUnits
+      Value: "{0690BF20-2098-4102-807F-40AADB887C56}"
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{BA077E75-780B-4654-A220-10E63520C582}">
+              <p:d />
+            </r>
+            <r
+              uid="{83C96A38-D18A-4E35-9D8D-71F869B259F3}">
+              <p:d />
+            </r>
+            <r
+              uid="{C4ACEA35-73C2-4347-B325-2FC6FCDAAB8F}">
+              <p:d />
+            </r>
+            <r
+              uid="{E655A92B-3794-4099-AF60-076BAFA33189}">
+              <p:d />
+            </r>
+            <r
+              uid="{D517C3D4-726F-4A3D-A6AC-3A245C64D08F}"
+              p:before="*"
+              s:ds=""
+              s:id="{9CA51EAB-92E4-4A77-8B48-966774577172}"
+              s:par="Add Gradient=1"
+              s:ph="/main/product-hero-{F6EE9D6A-9BB6-4F9B-9B11-37901F1E93B2}-0" />
+            <r
+              uid="{F6EE9D6A-9BB6-4F9B-9B11-37901F1E93B2}"
+              p:after="r[@uid='{D517C3D4-726F-4A3D-A6AC-3A245C64D08F}']"
+              s:ds="{DB7BAB29-A94C-445B-B541-5C88B4C85EB8}"
+              s:id="{C3DD97A2-2C6B-4FDA-922C-7127AE10C976}"
+              s:ph="main" />
+            <r
+              uid="{973C7E5A-5931-4A96-8421-96C8D90ACDE6}"
+              p:after="r[@uid='{F6EE9D6A-9BB6-4F9B-9B11-37901F1E93B2}']"
+              s:ds="{9AA343FE-04BC-4519-BBB1-462CF253D05B}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{FFB09F6A-372A-423A-883E-2D4459E8736B}"
+              p:after="r[@uid='{973C7E5A-5931-4A96-8421-96C8D90ACDE6}']"
+              s:ds="{7F887C24-CB7A-41B0-AEAF-DC8F4538F283}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{0D97EC48-A616-4503-81F3-8B0A22142C87}">
+              <p:d />
+            </r>
+            <r
+              uid="{1FD9ED8E-765E-4D75-AEB7-9C5643309FB1}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3E128BD-C527-476C-B850-4FF98996AE1F}">
+              <p:d />
+            </r>
+            <r
+              uid="{9E4C6427-3865-4F4C-AF91-EFDF6A58DA77}">
+              <p:d />
+            </r>
+            <r
+              uid="{ACAD23C8-9219-4D65-B38A-4537A73C4FE0}">
+              <p:d />
+            </r>
+            <r
+              uid="{FB4C5C8E-DF5F-4300-950E-536065A8707B}">
+              <p:d />
+            </r>
+            <r
+              uid="{2849CE03-88F2-4FBC-BAE4-0D1B29D7AEAA}">
+              <p:d />
+            </r>
+            <r
+              uid="{B5407315-4598-49BA-A716-8895E8E1539E}">
+              <p:d />
+            </r>
+            <r
+              uid="{35F5B041-CCEA-40B8-948D-6DE09851A28E}">
+              <p:d />
+            </r>
+            <r
+              uid="{99B4E79C-EEB8-49BC-8779-24C4AD0CF113}">
+              <p:d />
+            </r>
+            <r
+              uid="{CDF8E396-F69A-48ED-A6DB-B665BD98B242}">
+              <p:d />
+            </r>
+            <r
+              uid="{3ADDDF2A-6C4B-4473-ACB2-EADC8ABD6475}"
+              s:ds="{152AF4E0-BFF3-4400-A330-EF0E69000E7D}" />
+            <r
+              uid="{1824FF23-6877-413F-9C93-FBC7374EEBEC}"
+              p:after="r[@uid='{8036035A-E577-44BC-A961-631ADBC08C0F}']"
+              s:ds="{31F28FCB-BAEA-4043-95CF-5A2C2B6319ED}"
+              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
+              s:par="Use Button for Link"
+              s:ph="main" />
+            <r
+              uid="{3E43A9BF-1F7C-47DF-91AF-807A5501C005}"
+              p:after="*[1=2]"
+              s:ds="{1C5BC719-78AB-4067-80D5-BC043822728C}"
+              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
+              s:par="Use Button for Link"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Small Cell Poles
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Let&rsquo;s build connectivity together with our line of concrete, steel, and composite pole products optimized for telecommunications.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Small Cell Poles
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230714T185422Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Small Cell Poles
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{40251B7D-FBE3-4A0E-8947-D4B4FE8CD782}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Small Cell Poles
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{BAF6B6E1-73CF-43CA-A3DE-D1F409B58E8F}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{ABA9E56C-0FCE-464D-8E09-DB375CDF20D8}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Small Cell Poles
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b892e89f-f3aa-49ad-949d-37a62ce050ae"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "Want to learn about the exceptional team guiding Ameron?"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230714T185422Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{05A21341-57BC-43DA-8251-D904583B3D4E}" cropregion="0,286,1920,1385" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230717T194426Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{05A21341-57BC-43DA-8251-D904583B3D4E}" cropregion="0,317,1920,1401" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />

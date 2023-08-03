@@ -1,0 +1,1478 @@
+﻿---
+ID: "6dcf3ebb-a834-4147-a125-1f67ea1199e7"
+Parent: "cd0214ea-b2e7-40a9-89d9-695cdf04c498"
+Template: "1bf45569-a9ee-482e-8c1f-6aed83c3c8ab"
+Path: /sitecore/content/nov/nov/Home/About/Events/ADIPEC
+SharedFields:
+- ID: "9135200a-5626-4dd8-ab9d-d665b8c11748"
+  Hint: __Never publish
+  Value: 
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 270
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{3C271A57-1595-49BE-B998-A4FDF4005BCF}"
+              p:before="*"
+              s:ds=""
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:par="Add Gradient=1&amp;Text Color=white"
+              s:ph="/main/hero-slide-{FB2DE378-13C4-4E7F-AD4A-C3015BE64BEB}-0" />
+            <r
+              uid="{FB2DE378-13C4-4E7F-AD4A-C3015BE64BEB}"
+              p:after="r[@uid='{3C271A57-1595-49BE-B998-A4FDF4005BCF}']"
+              s:ds="{263DB060-E31E-48A1-ADD8-6198CD8B62CE}"
+              s:id="{AB213187-9551-4F9B-AE3D-261BB2B2434F}"
+              s:ph="main" />
+            <r
+              uid="{2428FE36-1849-44AB-9BB0-C7A3C84351EE}"
+              p:after="r[@uid='{FB2DE378-13C4-4E7F-AD4A-C3015BE64BEB}']"
+              s:ds="{3D2C098B-D59C-400C-A73A-9AF947489ABA}"
+              s:id="{7B3D036E-FB57-4045-85AD-8AA1A59BF10F}"
+              s:par="Enable Small Container=1&amp;Right Align"
+              s:ph="main" />
+            <r
+              uid="{469CCB81-765A-4CB6-B37A-E0BF730E129D}"
+              s:ds="{3D2C098B-D59C-400C-A73A-9AF947489ABA}" />
+            <r
+              uid="{CB22DE8A-6C4B-4D76-B0BE-DE69400010DC}"
+              s:ds="{53B12834-CF82-420D-A383-443295DF5A0B}" />
+            <r
+              uid="{DF772360-E5C4-4162-B9E4-D8DAAE753245}">
+              <p:d />
+            </r>
+            <r
+              uid="{86E1914A-3A1C-4F2E-8381-2812C12DD7BC}"
+              p:after="*[1=2]"
+              s:ds="{53B12834-CF82-420D-A383-443295DF5A0B}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="main" />
+            <r
+              uid="{945C1340-ED54-40B6-82B9-E426012500B4}">
+              <p:d />
+            </r>
+            <r
+              uid="{74835636-1DDD-4077-88DA-BF43D0CB2E10}">
+              <p:d />
+            </r>
+            <r
+              uid="{D9DC2E91-2941-4E2F-BCD7-3809E1023600}">
+              <p:d />
+            </r>
+            <r
+              uid="{444FE44D-0C8F-4961-9B98-410B9AB911A8}">
+              <p:d />
+            </r>
+            <r
+              uid="{82CC48F6-44A9-4DC7-9B50-55B2B32A157A}">
+              <p:d />
+            </r>
+            <r
+              uid="{F5F400D4-CBC8-4F73-84FF-06BB3FC65DAC}">
+              <p:d />
+            </r>
+            <r
+              uid="{9597CA8B-63B5-4B93-AF7D-1E0C2CACEF9C}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: ADIPEC
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: Abu Dhabi International Petroleum Exhibition &amp; Conference (ADIPEC) is one meeting place where thought leaders gather, businesses converge, and decisions are made in a world of accelerating change for our industry.
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: ADIPEC
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190627T153605Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: ADIPEC
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: ADIPEC
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\melissapastrano
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: ADIPEC
+    - ID: "6f84eee0-ddfa-478a-b9fb-8a7adc34ed42"
+      Hint: Start Date
+      Value: 20191111T000000Z
+    - ID: "81beeffb-e4e6-44ad-aa32-b3380b8d3fcd"
+      Hint: city
+      Value: Abu Dhabi
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "efba711b-5205-4bed-9dae-c9769dad47f3"
+    - ID: "8f4016b6-4a51-4621-90cb-77774279dba3"
+      Hint: End Date
+      Value: 20191114T000000Z
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{E7052507-CEF7-45CC-B52B-C65B98F4ADA7}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: ADIPEC
+    - ID: "b0d622b7-156a-4f17-9ce4-4dd213df0302"
+      Hint: Date
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\melissapastrano
+    - ID: "bba7d4dd-7d1e-428e-b80d-055170466dc3"
+      Hint: country
+      Value: United Arab Emirates
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Abu Dhabi International Petroleum Exhibition & Conference is one meeting place where thought leaders gather, businesses converge, and decisions are made in a world of accelerating change for our industry
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190627T153605Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{A2F680A5-DD70-4FF1-8BCC-8C21B9EB8D60}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190627T154023Z
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: ADIPEC
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{A2F680A5-DD70-4FF1-8BCC-8C21B9EB8D60}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{3C271A57-1595-49BE-B998-A4FDF4005BCF}"
+              p:before="*"
+              s:ds=""
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:par="Add Gradient=1&amp;Text Color=white"
+              s:ph="/main/hero-slide-{FB2DE378-13C4-4E7F-AD4A-C3015BE64BEB}-0" />
+            <r
+              uid="{FB2DE378-13C4-4E7F-AD4A-C3015BE64BEB}"
+              p:after="r[@uid='{3C271A57-1595-49BE-B998-A4FDF4005BCF}']"
+              s:ds="{263DB060-E31E-48A1-ADD8-6198CD8B62CE}"
+              s:id="{AB213187-9551-4F9B-AE3D-261BB2B2434F}"
+              s:ph="main" />
+            <r
+              uid="{2428FE36-1849-44AB-9BB0-C7A3C84351EE}"
+              p:after="r[@uid='{FB2DE378-13C4-4E7F-AD4A-C3015BE64BEB}']"
+              s:ds="{3D2C098B-D59C-400C-A73A-9AF947489ABA}"
+              s:id="{7B3D036E-FB57-4045-85AD-8AA1A59BF10F}"
+              s:par="Enable Small Container&amp;Right Align"
+              s:ph="main" />
+            <r
+              uid="{469CCB81-765A-4CB6-B37A-E0BF730E129D}"
+              s:ds="{3D2C098B-D59C-400C-A73A-9AF947489ABA}" />
+            <r
+              uid="{CB22DE8A-6C4B-4D76-B0BE-DE69400010DC}"
+              s:ds="{53B12834-CF82-420D-A383-443295DF5A0B}" />
+            <r
+              uid="{DF772360-E5C4-4162-B9E4-D8DAAE753245}">
+              <p:d />
+            </r>
+            <r
+              uid="{86E1914A-3A1C-4F2E-8381-2812C12DD7BC}"
+              p:after="*[1=2]"
+              s:ds="{53B12834-CF82-420D-A383-443295DF5A0B}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="main" />
+            <r
+              uid="{945C1340-ED54-40B6-82B9-E426012500B4}">
+              <p:d />
+            </r>
+            <r
+              uid="{74835636-1DDD-4077-88DA-BF43D0CB2E10}">
+              <p:d />
+            </r>
+            <r
+              uid="{D9DC2E91-2941-4E2F-BCD7-3809E1023600}">
+              <p:d />
+            </r>
+            <r
+              uid="{444FE44D-0C8F-4961-9B98-410B9AB911A8}">
+              <p:d />
+            </r>
+            <r
+              uid="{82CC48F6-44A9-4DC7-9B50-55B2B32A157A}">
+              <p:d />
+            </r>
+            <r
+              uid="{F5F400D4-CBC8-4F73-84FF-06BB3FC65DAC}">
+              <p:d />
+            </r>
+            <r
+              uid="{9597CA8B-63B5-4B93-AF7D-1E0C2CACEF9C}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: ADIPEC
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: Abu Dhabi International Petroleum Exhibition &amp; Conference (ADIPEC) is one meeting place where thought leaders gather, businesses converge, and decisions are made in a world of accelerating change for our industry.
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: ADIPEC
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190701T183641Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: ADIPEC
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: ADIPEC
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: ADIPEC
+    - ID: "6f84eee0-ddfa-478a-b9fb-8a7adc34ed42"
+      Hint: Start Date
+      Value: 20191111T000000Z
+    - ID: "81beeffb-e4e6-44ad-aa32-b3380b8d3fcd"
+      Hint: city
+      Value: Abu Dhabi
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c043ec8c-f7d9-47f8-a990-032c32e12712"
+    - ID: "8f4016b6-4a51-4621-90cb-77774279dba3"
+      Hint: End Date
+      Value: 20191114T000000Z
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{E7052507-CEF7-45CC-B52B-C65B98F4ADA7}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: ADIPEC
+    - ID: "b0d622b7-156a-4f17-9ce4-4dd213df0302"
+      Hint: Date
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\verticakeshwaram
+    - ID: "bba7d4dd-7d1e-428e-b80d-055170466dc3"
+      Hint: country
+      Value: United Arab Emirates
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Abu Dhabi International Petroleum Exhibition & Conference is one meeting place where thought leaders gather, businesses converge, and decisions are made in a world of accelerating change for our industry
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190701T183641Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{A2F680A5-DD70-4FF1-8BCC-8C21B9EB8D60}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20191004T193445Z
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: ADIPEC
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{A2F680A5-DD70-4FF1-8BCC-8C21B9EB8D60}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{3C271A57-1595-49BE-B998-A4FDF4005BCF}"
+              p:before="*"
+              s:ds=""
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:par="Add Gradient=1&amp;Text Color=white"
+              s:ph="/main/hero-slide-{FB2DE378-13C4-4E7F-AD4A-C3015BE64BEB}-0" />
+            <r
+              uid="{FB2DE378-13C4-4E7F-AD4A-C3015BE64BEB}"
+              p:after="r[@uid='{3C271A57-1595-49BE-B998-A4FDF4005BCF}']"
+              s:ds="{263DB060-E31E-48A1-ADD8-6198CD8B62CE}"
+              s:id="{AB213187-9551-4F9B-AE3D-261BB2B2434F}"
+              s:ph="main" />
+            <r
+              uid="{2428FE36-1849-44AB-9BB0-C7A3C84351EE}"
+              p:after="r[@uid='{FB2DE378-13C4-4E7F-AD4A-C3015BE64BEB}']"
+              s:ds="{3D2C098B-D59C-400C-A73A-9AF947489ABA}"
+              s:id="{7B3D036E-FB57-4045-85AD-8AA1A59BF10F}"
+              s:par="Enable Small Container&amp;Right Align"
+              s:ph="main" />
+            <r
+              uid="{469CCB81-765A-4CB6-B37A-E0BF730E129D}"
+              s:ds="{3D2C098B-D59C-400C-A73A-9AF947489ABA}" />
+            <r
+              uid="{CB22DE8A-6C4B-4D76-B0BE-DE69400010DC}"
+              s:ds="{53B12834-CF82-420D-A383-443295DF5A0B}" />
+            <r
+              uid="{DF772360-E5C4-4162-B9E4-D8DAAE753245}">
+              <p:d />
+            </r>
+            <r
+              uid="{86E1914A-3A1C-4F2E-8381-2812C12DD7BC}"
+              p:after="*[1=2]"
+              s:ds="{53B12834-CF82-420D-A383-443295DF5A0B}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="main" />
+            <r
+              uid="{945C1340-ED54-40B6-82B9-E426012500B4}">
+              <p:d />
+            </r>
+            <r
+              uid="{74835636-1DDD-4077-88DA-BF43D0CB2E10}">
+              <p:d />
+            </r>
+            <r
+              uid="{D9DC2E91-2941-4E2F-BCD7-3809E1023600}">
+              <p:d />
+            </r>
+            <r
+              uid="{444FE44D-0C8F-4961-9B98-410B9AB911A8}">
+              <p:d />
+            </r>
+            <r
+              uid="{82CC48F6-44A9-4DC7-9B50-55B2B32A157A}">
+              <p:d />
+            </r>
+            <r
+              uid="{F5F400D4-CBC8-4F73-84FF-06BB3FC65DAC}">
+              <p:d />
+            </r>
+            <r
+              uid="{9597CA8B-63B5-4B93-AF7D-1E0C2CACEF9C}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: ADIPEC
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: Abu Dhabi International Petroleum Exhibition &amp; Conference (ADIPEC) is one meeting place where thought leaders gather, businesses converge, and decisions are made in a world of accelerating change for our industry.
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: ADIPEC
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200327T181100Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: ADIPEC
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: ADIPEC
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: ADIPEC
+    - ID: "6f84eee0-ddfa-478a-b9fb-8a7adc34ed42"
+      Hint: Start Date
+      Value: 20191111T000000Z
+    - ID: "81beeffb-e4e6-44ad-aa32-b3380b8d3fcd"
+      Hint: city
+      Value: Abu Dhabi
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fa64d454-f57a-4ea5-a25a-a2c118a0b581"
+    - ID: "8f4016b6-4a51-4621-90cb-77774279dba3"
+      Hint: End Date
+      Value: 20191114T000000Z
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{E7052507-CEF7-45CC-B52B-C65B98F4ADA7}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: ADIPEC
+    - ID: "b0d622b7-156a-4f17-9ce4-4dd213df0302"
+      Hint: Date
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "bba7d4dd-7d1e-428e-b80d-055170466dc3"
+      Hint: country
+      Value: United Arab Emirates
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Abu Dhabi International Petroleum Exhibition & Conference is one meeting place where thought leaders gather, businesses converge, and decisions are made in a world of accelerating change for our industry
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200327T181100Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{A2F680A5-DD70-4FF1-8BCC-8C21B9EB8D60}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200327T181200Z
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: ADIPEC
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{A2F680A5-DD70-4FF1-8BCC-8C21B9EB8D60}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 4
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{3C271A57-1595-49BE-B998-A4FDF4005BCF}"
+              p:before="*"
+              s:ds=""
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:par="Add Gradient=1&amp;Text Color=white"
+              s:ph="/main/hero-slide-{FB2DE378-13C4-4E7F-AD4A-C3015BE64BEB}-0" />
+            <r
+              uid="{FB2DE378-13C4-4E7F-AD4A-C3015BE64BEB}"
+              p:after="r[@uid='{3C271A57-1595-49BE-B998-A4FDF4005BCF}']"
+              s:ds="{263DB060-E31E-48A1-ADD8-6198CD8B62CE}"
+              s:id="{AB213187-9551-4F9B-AE3D-261BB2B2434F}"
+              s:ph="main" />
+            <r
+              uid="{2428FE36-1849-44AB-9BB0-C7A3C84351EE}"
+              p:after="r[@uid='{FB2DE378-13C4-4E7F-AD4A-C3015BE64BEB}']"
+              s:ds="{3D2C098B-D59C-400C-A73A-9AF947489ABA}"
+              s:id="{7B3D036E-FB57-4045-85AD-8AA1A59BF10F}"
+              s:par="Enable Small Container&amp;Right Align"
+              s:ph="main" />
+            <r
+              uid="{469CCB81-765A-4CB6-B37A-E0BF730E129D}"
+              s:ds="{3D2C098B-D59C-400C-A73A-9AF947489ABA}" />
+            <r
+              uid="{CB22DE8A-6C4B-4D76-B0BE-DE69400010DC}"
+              s:ds="{53B12834-CF82-420D-A383-443295DF5A0B}" />
+            <r
+              uid="{DF772360-E5C4-4162-B9E4-D8DAAE753245}">
+              <p:d />
+            </r>
+            <r
+              uid="{86E1914A-3A1C-4F2E-8381-2812C12DD7BC}"
+              p:after="*[1=2]"
+              s:ds="{53B12834-CF82-420D-A383-443295DF5A0B}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="main" />
+            <r
+              uid="{945C1340-ED54-40B6-82B9-E426012500B4}">
+              <p:d />
+            </r>
+            <r
+              uid="{74835636-1DDD-4077-88DA-BF43D0CB2E10}">
+              <p:d />
+            </r>
+            <r
+              uid="{D9DC2E91-2941-4E2F-BCD7-3809E1023600}">
+              <p:d />
+            </r>
+            <r
+              uid="{444FE44D-0C8F-4961-9B98-410B9AB911A8}">
+              <p:d />
+            </r>
+            <r
+              uid="{82CC48F6-44A9-4DC7-9B50-55B2B32A157A}">
+              <p:d />
+            </r>
+            <r
+              uid="{F5F400D4-CBC8-4F73-84FF-06BB3FC65DAC}">
+              <p:d />
+            </r>
+            <r
+              uid="{9597CA8B-63B5-4B93-AF7D-1E0C2CACEF9C}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: ADIPEC
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: Abu Dhabi International Petroleum Exhibition &amp; Conference (ADIPEC) is one meeting place where thought leaders gather, businesses converge, and decisions are made in a world of accelerating change for our industry.
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: ADIPEC
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200330T210840Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: ADIPEC
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: ADIPEC
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: ADIPEC
+    - ID: "6f84eee0-ddfa-478a-b9fb-8a7adc34ed42"
+      Hint: Start Date
+      Value: 20191111T000000Z
+    - ID: "81beeffb-e4e6-44ad-aa32-b3380b8d3fcd"
+      Hint: city
+      Value: Abu Dhabi
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "893c19ab-b9a6-4f42-8860-5639f1695218"
+    - ID: "8f4016b6-4a51-4621-90cb-77774279dba3"
+      Hint: End Date
+      Value: 20191114T000000Z
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{E7052507-CEF7-45CC-B52B-C65B98F4ADA7}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: ADIPEC
+    - ID: "b0d622b7-156a-4f17-9ce4-4dd213df0302"
+      Hint: Date
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "bba7d4dd-7d1e-428e-b80d-055170466dc3"
+      Hint: country
+      Value: United Arab Emirates
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Abu Dhabi International Petroleum Exhibition & Conference is one meeting place where thought leaders gather, businesses converge, and decisions are made in a world of accelerating change for our industry
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200330T210840Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{A2F680A5-DD70-4FF1-8BCC-8C21B9EB8D60}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200330T210911Z
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: ADIPEC
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{A2F680A5-DD70-4FF1-8BCC-8C21B9EB8D60}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 5
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{3C271A57-1595-49BE-B998-A4FDF4005BCF}"
+              p:before="*"
+              s:ds=""
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:par="Add Gradient=1&amp;Text Color=white"
+              s:ph="/main/hero-slide-{FB2DE378-13C4-4E7F-AD4A-C3015BE64BEB}-0" />
+            <r
+              uid="{FB2DE378-13C4-4E7F-AD4A-C3015BE64BEB}"
+              p:after="r[@uid='{3C271A57-1595-49BE-B998-A4FDF4005BCF}']"
+              s:ds="{263DB060-E31E-48A1-ADD8-6198CD8B62CE}"
+              s:id="{AB213187-9551-4F9B-AE3D-261BB2B2434F}"
+              s:ph="main" />
+            <r
+              uid="{2428FE36-1849-44AB-9BB0-C7A3C84351EE}"
+              p:after="r[@uid='{FB2DE378-13C4-4E7F-AD4A-C3015BE64BEB}']"
+              s:ds="{3D2C098B-D59C-400C-A73A-9AF947489ABA}"
+              s:id="{7B3D036E-FB57-4045-85AD-8AA1A59BF10F}"
+              s:par="Enable Small Container&amp;Right Align"
+              s:ph="main" />
+            <r
+              uid="{469CCB81-765A-4CB6-B37A-E0BF730E129D}"
+              s:ds="{3D2C098B-D59C-400C-A73A-9AF947489ABA}" />
+            <r
+              uid="{CB22DE8A-6C4B-4D76-B0BE-DE69400010DC}"
+              s:ds="{53B12834-CF82-420D-A383-443295DF5A0B}" />
+            <r
+              uid="{DF772360-E5C4-4162-B9E4-D8DAAE753245}">
+              <p:d />
+            </r>
+            <r
+              uid="{86E1914A-3A1C-4F2E-8381-2812C12DD7BC}"
+              p:after="*[1=2]"
+              s:ds="{53B12834-CF82-420D-A383-443295DF5A0B}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="main" />
+            <r
+              uid="{945C1340-ED54-40B6-82B9-E426012500B4}">
+              <p:d />
+            </r>
+            <r
+              uid="{74835636-1DDD-4077-88DA-BF43D0CB2E10}">
+              <p:d />
+            </r>
+            <r
+              uid="{D9DC2E91-2941-4E2F-BCD7-3809E1023600}">
+              <p:d />
+            </r>
+            <r
+              uid="{444FE44D-0C8F-4961-9B98-410B9AB911A8}">
+              <p:d />
+            </r>
+            <r
+              uid="{82CC48F6-44A9-4DC7-9B50-55B2B32A157A}">
+              <p:d />
+            </r>
+            <r
+              uid="{F5F400D4-CBC8-4F73-84FF-06BB3FC65DAC}">
+              <p:d />
+            </r>
+            <r
+              uid="{9597CA8B-63B5-4B93-AF7D-1E0C2CACEF9C}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: ADIPEC
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: Abu Dhabi International Petroleum Exhibition &amp; Conference (ADIPEC) is one meeting place where thought leaders gather, businesses converge, and decisions are made in a world of accelerating change for our industry.
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: ADIPEC
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200330T210936Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: ADIPEC
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: ADIPEC
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: ADIPEC
+    - ID: "6f84eee0-ddfa-478a-b9fb-8a7adc34ed42"
+      Hint: Start Date
+      Value: 20191111T000000Z
+    - ID: "81beeffb-e4e6-44ad-aa32-b3380b8d3fcd"
+      Hint: city
+      Value: Abu Dhabi
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e9b1368f-a3bc-4f1d-90e9-5d2dfdc87d1a"
+    - ID: "8f4016b6-4a51-4621-90cb-77774279dba3"
+      Hint: End Date
+      Value: 20191114T000000Z
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{E7052507-CEF7-45CC-B52B-C65B98F4ADA7}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: ADIPEC
+    - ID: "b0d622b7-156a-4f17-9ce4-4dd213df0302"
+      Hint: Date
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "bba7d4dd-7d1e-428e-b80d-055170466dc3"
+      Hint: country
+      Value: United Arab Emirates
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Abu Dhabi International Petroleum Exhibition & Conference is one meeting place where thought leaders gather, businesses converge, and decisions are made in a world of accelerating change for our industry
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200330T210936Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{A2F680A5-DD70-4FF1-8BCC-8C21B9EB8D60}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200330T211015Z
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: ADIPEC
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{A2F680A5-DD70-4FF1-8BCC-8C21B9EB8D60}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 6
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{3C271A57-1595-49BE-B998-A4FDF4005BCF}"
+              p:before="*"
+              s:ds=""
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:par="Add Gradient=1&amp;Text Color=white"
+              s:ph="/main/hero-slide-{FB2DE378-13C4-4E7F-AD4A-C3015BE64BEB}-0" />
+            <r
+              uid="{FB2DE378-13C4-4E7F-AD4A-C3015BE64BEB}"
+              p:after="r[@uid='{3C271A57-1595-49BE-B998-A4FDF4005BCF}']"
+              s:ds="{263DB060-E31E-48A1-ADD8-6198CD8B62CE}"
+              s:id="{AB213187-9551-4F9B-AE3D-261BB2B2434F}"
+              s:ph="main" />
+            <r
+              uid="{2428FE36-1849-44AB-9BB0-C7A3C84351EE}"
+              p:after="r[@uid='{FB2DE378-13C4-4E7F-AD4A-C3015BE64BEB}']"
+              s:ds="{3D2C098B-D59C-400C-A73A-9AF947489ABA}"
+              s:id="{7B3D036E-FB57-4045-85AD-8AA1A59BF10F}"
+              s:par="Enable Small Container&amp;Right Align"
+              s:ph="main" />
+            <r
+              uid="{469CCB81-765A-4CB6-B37A-E0BF730E129D}"
+              s:ds="{3D2C098B-D59C-400C-A73A-9AF947489ABA}" />
+            <r
+              uid="{CB22DE8A-6C4B-4D76-B0BE-DE69400010DC}"
+              s:ds="{53B12834-CF82-420D-A383-443295DF5A0B}" />
+            <r
+              uid="{DF772360-E5C4-4162-B9E4-D8DAAE753245}">
+              <p:d />
+            </r>
+            <r
+              uid="{86E1914A-3A1C-4F2E-8381-2812C12DD7BC}"
+              p:after="*[1=2]"
+              s:ds="{53B12834-CF82-420D-A383-443295DF5A0B}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="main" />
+            <r
+              uid="{945C1340-ED54-40B6-82B9-E426012500B4}">
+              <p:d />
+            </r>
+            <r
+              uid="{74835636-1DDD-4077-88DA-BF43D0CB2E10}">
+              <p:d />
+            </r>
+            <r
+              uid="{D9DC2E91-2941-4E2F-BCD7-3809E1023600}">
+              <p:d />
+            </r>
+            <r
+              uid="{444FE44D-0C8F-4961-9B98-410B9AB911A8}">
+              <p:d />
+            </r>
+            <r
+              uid="{82CC48F6-44A9-4DC7-9B50-55B2B32A157A}">
+              <p:d />
+            </r>
+            <r
+              uid="{F5F400D4-CBC8-4F73-84FF-06BB3FC65DAC}">
+              <p:d />
+            </r>
+            <r
+              uid="{9597CA8B-63B5-4B93-AF7D-1E0C2CACEF9C}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: ADIPEC
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: Abu Dhabi International Petroleum Exhibition &amp; Conference (ADIPEC) is one meeting place where thought leaders gather, businesses converge, and decisions are made in a world of accelerating change for our industry.
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: ADIPEC
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200330T211123Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: ADIPEC
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: ADIPEC
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: ADIPEC
+    - ID: "6f84eee0-ddfa-478a-b9fb-8a7adc34ed42"
+      Hint: Start Date
+      Value: 20191111T000000Z
+    - ID: "81beeffb-e4e6-44ad-aa32-b3380b8d3fcd"
+      Hint: city
+      Value: Abu Dhabi
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8fa25b32-2bd3-444b-9633-5d3c9faa544d"
+    - ID: "8f4016b6-4a51-4621-90cb-77774279dba3"
+      Hint: End Date
+      Value: 20191114T000000Z
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{E7052507-CEF7-45CC-B52B-C65B98F4ADA7}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: ADIPEC
+    - ID: "b0d622b7-156a-4f17-9ce4-4dd213df0302"
+      Hint: Date
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "bba7d4dd-7d1e-428e-b80d-055170466dc3"
+      Hint: country
+      Value: United Arab Emirates
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Abu Dhabi International Petroleum Exhibition & Conference is one meeting place where thought leaders gather, businesses converge, and decisions are made in a world of accelerating change for our industry
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200330T211123Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{A2F680A5-DD70-4FF1-8BCC-8C21B9EB8D60}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200330T211220Z
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: ADIPEC
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{A2F680A5-DD70-4FF1-8BCC-8C21B9EB8D60}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 7
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{3C271A57-1595-49BE-B998-A4FDF4005BCF}"
+              p:before="*"
+              s:ds=""
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:par="Add Gradient=1&amp;Text Color=white"
+              s:ph="/main/hero-slide-{FB2DE378-13C4-4E7F-AD4A-C3015BE64BEB}-0" />
+            <r
+              uid="{FB2DE378-13C4-4E7F-AD4A-C3015BE64BEB}"
+              p:after="r[@uid='{3C271A57-1595-49BE-B998-A4FDF4005BCF}']"
+              s:ds="{263DB060-E31E-48A1-ADD8-6198CD8B62CE}"
+              s:id="{AB213187-9551-4F9B-AE3D-261BB2B2434F}"
+              s:ph="main" />
+            <r
+              uid="{2428FE36-1849-44AB-9BB0-C7A3C84351EE}"
+              p:after="r[@uid='{FB2DE378-13C4-4E7F-AD4A-C3015BE64BEB}']"
+              s:ds="{3D2C098B-D59C-400C-A73A-9AF947489ABA}"
+              s:id="{7B3D036E-FB57-4045-85AD-8AA1A59BF10F}"
+              s:par="Enable Small Container&amp;Right Align"
+              s:ph="main" />
+            <r
+              uid="{469CCB81-765A-4CB6-B37A-E0BF730E129D}"
+              s:ds="{3D2C098B-D59C-400C-A73A-9AF947489ABA}" />
+            <r
+              uid="{CB22DE8A-6C4B-4D76-B0BE-DE69400010DC}"
+              s:ds="{53B12834-CF82-420D-A383-443295DF5A0B}" />
+            <r
+              uid="{DF772360-E5C4-4162-B9E4-D8DAAE753245}">
+              <p:d />
+            </r>
+            <r
+              uid="{86E1914A-3A1C-4F2E-8381-2812C12DD7BC}"
+              p:after="*[1=2]"
+              s:ds="{53B12834-CF82-420D-A383-443295DF5A0B}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="main" />
+            <r
+              uid="{945C1340-ED54-40B6-82B9-E426012500B4}">
+              <p:d />
+            </r>
+            <r
+              uid="{74835636-1DDD-4077-88DA-BF43D0CB2E10}">
+              <p:d />
+            </r>
+            <r
+              uid="{D9DC2E91-2941-4E2F-BCD7-3809E1023600}">
+              <p:d />
+            </r>
+            <r
+              uid="{444FE44D-0C8F-4961-9B98-410B9AB911A8}">
+              <p:d />
+            </r>
+            <r
+              uid="{82CC48F6-44A9-4DC7-9B50-55B2B32A157A}">
+              <p:d />
+            </r>
+            <r
+              uid="{F5F400D4-CBC8-4F73-84FF-06BB3FC65DAC}">
+              <p:d />
+            </r>
+            <r
+              uid="{9597CA8B-63B5-4B93-AF7D-1E0C2CACEF9C}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: ADIPEC
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: Abu Dhabi International Petroleum Exhibition &amp; Conference (ADIPEC) is one meeting place where thought leaders gather, businesses converge, and decisions are made in a world of accelerating change for our industry.
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: ADIPEC
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200330T211532Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: ADIPEC
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: ADIPEC
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: ADIPEC
+    - ID: "6f84eee0-ddfa-478a-b9fb-8a7adc34ed42"
+      Hint: Start Date
+      Value: 20201109T000000Z
+    - ID: "81beeffb-e4e6-44ad-aa32-b3380b8d3fcd"
+      Hint: city
+      Value: Abu Dhabi
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5f25dc63-50a4-4739-8843-19ed40763c8b"
+    - ID: "8f4016b6-4a51-4621-90cb-77774279dba3"
+      Hint: End Date
+      Value: 20201112T000000Z
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{E7052507-CEF7-45CC-B52B-C65B98F4ADA7}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: ADIPEC
+    - ID: "b0d622b7-156a-4f17-9ce4-4dd213df0302"
+      Hint: Date
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "bba7d4dd-7d1e-428e-b80d-055170466dc3"
+      Hint: country
+      Value: United Arab Emirates
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Abu Dhabi International Petroleum Exhibition & Conference is one meeting place where thought leaders gather, businesses converge, and decisions are made in a world of accelerating change for our industry
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200330T211532Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{A2F680A5-DD70-4FF1-8BCC-8C21B9EB8D60}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200330T211804Z
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: ADIPEC
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{A2F680A5-DD70-4FF1-8BCC-8C21B9EB8D60}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 8
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{3C271A57-1595-49BE-B998-A4FDF4005BCF}"
+              p:before="*"
+              s:ds=""
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:par="Add Gradient=1&amp;Text Color=white"
+              s:ph="/main/hero-slide-{FB2DE378-13C4-4E7F-AD4A-C3015BE64BEB}-0" />
+            <r
+              uid="{FB2DE378-13C4-4E7F-AD4A-C3015BE64BEB}"
+              p:after="r[@uid='{3C271A57-1595-49BE-B998-A4FDF4005BCF}']"
+              s:ds="{263DB060-E31E-48A1-ADD8-6198CD8B62CE}"
+              s:id="{AB213187-9551-4F9B-AE3D-261BB2B2434F}"
+              s:ph="main" />
+            <r
+              uid="{2428FE36-1849-44AB-9BB0-C7A3C84351EE}"
+              p:after="r[@uid='{FB2DE378-13C4-4E7F-AD4A-C3015BE64BEB}']"
+              s:ds="{3D2C098B-D59C-400C-A73A-9AF947489ABA}"
+              s:id="{7B3D036E-FB57-4045-85AD-8AA1A59BF10F}"
+              s:par="Enable Small Container&amp;Right Align"
+              s:ph="main" />
+            <r
+              uid="{469CCB81-765A-4CB6-B37A-E0BF730E129D}"
+              s:ds="{3D2C098B-D59C-400C-A73A-9AF947489ABA}" />
+            <r
+              uid="{CB22DE8A-6C4B-4D76-B0BE-DE69400010DC}"
+              s:ds="{53B12834-CF82-420D-A383-443295DF5A0B}" />
+            <r
+              uid="{DF772360-E5C4-4162-B9E4-D8DAAE753245}">
+              <p:d />
+            </r>
+            <r
+              uid="{86E1914A-3A1C-4F2E-8381-2812C12DD7BC}"
+              p:after="*[1=2]"
+              s:ds="{53B12834-CF82-420D-A383-443295DF5A0B}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="main" />
+            <r
+              uid="{945C1340-ED54-40B6-82B9-E426012500B4}">
+              <p:d />
+            </r>
+            <r
+              uid="{74835636-1DDD-4077-88DA-BF43D0CB2E10}">
+              <p:d />
+            </r>
+            <r
+              uid="{D9DC2E91-2941-4E2F-BCD7-3809E1023600}">
+              <p:d />
+            </r>
+            <r
+              uid="{444FE44D-0C8F-4961-9B98-410B9AB911A8}">
+              <p:d />
+            </r>
+            <r
+              uid="{82CC48F6-44A9-4DC7-9B50-55B2B32A157A}">
+              <p:d />
+            </r>
+            <r
+              uid="{F5F400D4-CBC8-4F73-84FF-06BB3FC65DAC}">
+              <p:d />
+            </r>
+            <r
+              uid="{9597CA8B-63B5-4B93-AF7D-1E0C2CACEF9C}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: ADIPEC
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: Abu Dhabi International Petroleum Exhibition &amp; Conference (ADIPEC) is one meeting place where thought leaders gather, businesses converge, and decisions are made in a world of accelerating change for our industry.
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: ADIPEC
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200330T211856Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: ADIPEC
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: ADIPEC
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: ADIPEC
+    - ID: "6f84eee0-ddfa-478a-b9fb-8a7adc34ed42"
+      Hint: Start Date
+      Value: 20201109T000000Z
+    - ID: "81beeffb-e4e6-44ad-aa32-b3380b8d3fcd"
+      Hint: city
+      Value: Abu Dhabi
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7596db65-1de9-4134-a064-507843b0a6ce"
+    - ID: "8f4016b6-4a51-4621-90cb-77774279dba3"
+      Hint: End Date
+      Value: 20201112T000000Z
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{E7052507-CEF7-45CC-B52B-C65B98F4ADA7}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: ADIPEC
+    - ID: "b0d622b7-156a-4f17-9ce4-4dd213df0302"
+      Hint: Date
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "bba7d4dd-7d1e-428e-b80d-055170466dc3"
+      Hint: country
+      Value: United Arab Emirates
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Abu Dhabi International Petroleum Exhibition & Conference is one meeting place where thought leaders gather, businesses converge, and decisions are made in a world of accelerating change for our industry
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200330T211856Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{A2F680A5-DD70-4FF1-8BCC-8C21B9EB8D60}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200330T212036Z
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: ADIPEC
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{A2F680A5-DD70-4FF1-8BCC-8C21B9EB8D60}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 9
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{DF772360-E5C4-4162-B9E4-D8DAAE753245}">
+              <p:d />
+            </r>
+            <r
+              uid="{945C1340-ED54-40B6-82B9-E426012500B4}">
+              <p:d />
+            </r>
+            <r
+              uid="{D9DC2E91-2941-4E2F-BCD7-3809E1023600}">
+              <p:d />
+            </r>
+            <r
+              uid="{82CC48F6-44A9-4DC7-9B50-55B2B32A157A}">
+              <p:d />
+            </r>
+            <r
+              uid="{3C271A57-1595-49BE-B998-A4FDF4005BCF}"
+              p:before="*"
+              s:ds=""
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:par="Add Gradient=1&amp;Text Color=white"
+              s:ph="/main/hero-slide-{FB2DE378-13C4-4E7F-AD4A-C3015BE64BEB}-0" />
+            <r
+              uid="{FB2DE378-13C4-4E7F-AD4A-C3015BE64BEB}"
+              p:after="r[@uid='{3C271A57-1595-49BE-B998-A4FDF4005BCF}']"
+              s:ds="{263DB060-E31E-48A1-ADD8-6198CD8B62CE}"
+              s:id="{AB213187-9551-4F9B-AE3D-261BB2B2434F}"
+              s:ph="main" />
+            <r
+              uid="{2428FE36-1849-44AB-9BB0-C7A3C84351EE}"
+              p:after="r[@uid='{FB2DE378-13C4-4E7F-AD4A-C3015BE64BEB}']"
+              s:ds="{3D2C098B-D59C-400C-A73A-9AF947489ABA}"
+              s:id="{7B3D036E-FB57-4045-85AD-8AA1A59BF10F}"
+              s:par="Enable Small Container&amp;Right Align"
+              s:ph="main" />
+            <r
+              uid="{86E1914A-3A1C-4F2E-8381-2812C12DD7BC}"
+              p:after="*[1=2]"
+              s:ds="{53B12834-CF82-420D-A383-443295DF5A0B}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: ADIPEC
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: Abu Dhabi International Petroleum Exhibition &amp; Conference (ADIPEC) is one meeting place where thought leaders gather, businesses converge, and decisions are made in a world of accelerating change for our industry.
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: ADIPEC
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210324T173829Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: ADIPEC
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: ADIPEC
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jeremygrzywa
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: ADIPEC
+    - ID: "6f84eee0-ddfa-478a-b9fb-8a7adc34ed42"
+      Hint: Start Date
+      Value: 20211115T000000Z
+    - ID: "81beeffb-e4e6-44ad-aa32-b3380b8d3fcd"
+      Hint: city
+      Value: Abu Dhabi
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cc8c6de7-1e44-430d-8a16-e92b3a7b1a21"
+    - ID: "8f4016b6-4a51-4621-90cb-77774279dba3"
+      Hint: End Date
+      Value: 20211118T000000Z
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{E7052507-CEF7-45CC-B52B-C65B98F4ADA7}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: ADIPEC
+    - ID: "b0d622b7-156a-4f17-9ce4-4dd213df0302"
+      Hint: Date
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "bba7d4dd-7d1e-428e-b80d-055170466dc3"
+      Hint: country
+      Value: United Arab Emirates
+    - ID: "bcfd3e35-8ec5-4ba4-b22f-00669ef4d2d5"
+      Hint: Publish Date
+      Value: 
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Abu Dhabi International Petroleum Exhibition & Conference is one meeting place where thought leaders gather, businesses converge, and decisions are made in a world of accelerating change for our industry
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20210324T173829Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{A2F680A5-DD70-4FF1-8BCC-8C21B9EB8D60}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230509T150912Z
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: ADIPEC
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{A2F680A5-DD70-4FF1-8BCC-8C21B9EB8D60}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />

@@ -1,0 +1,1230 @@
+﻿---
+ID: "4ee1faa8-7a65-488b-be63-91b414a8ba6f"
+Parent: "aa99e7cc-b90e-4ee1-9881-287a2bbc8283"
+Template: "d227ab0e-fd44-4ae0-878a-189949913d0b"
+Path: /sitecore/content/nov/nov/Home/About/Our Business Units/Fluid Motion Solutions/Mixing Technologies
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{C4ACEA35-73C2-4347-B325-2FC6FCDAAB8F}"
+          s:ds="{E75E1B76-6172-47B1-A82C-7A8EDB5D04FD}" />
+        <r
+          uid="{E655A92B-3794-4099-AF60-076BAFA33189}"
+          s:ds="{C6A93069-9081-4110-99B0-38215D478D6D}" />
+        <r
+          uid="{0D97EC48-A616-4503-81F3-8B0A22142C87}"
+          s:ds="{776F087C-407F-4014-B915-2739CCF99C4D}" />
+        <r
+          uid="{1FD9ED8E-765E-4D75-AEB7-9C5643309FB1}"
+          s:ds="{6CBE9870-789C-4EA7-A9E8-68C3E3E8ACEB}" />
+        <r
+          uid="{C3E128BD-C527-476C-B850-4FF98996AE1F}"
+          s:ds="{18ECD056-63BA-4C6D-9476-F1071DA658C2}" />
+        <r
+          uid="{9E4C6427-3865-4F4C-AF91-EFDF6A58DA77}"
+          s:ds="{684DA3E3-2792-493C-9DFA-7394D3A5AAB0}" />
+        <r
+          uid="{ACAD23C8-9219-4D65-B38A-4537A73C4FE0}"
+          s:ds="{3F85D9B5-D8C6-4DFE-A322-E794A6DB7512}" />
+        <r
+          uid="{FB4C5C8E-DF5F-4300-950E-536065A8707B}"
+          s:ds="{30D89C39-D5EC-47F4-A721-DBB1910ABF2D}" />
+        <r
+          uid="{2849CE03-88F2-4FBC-BAE4-0D1B29D7AEAA}"
+          s:ds="{27CD5936-1AA6-4796-A651-455878AFCF24}" />
+        <r
+          uid="{B5407315-4598-49BA-A716-8895E8E1539E}"
+          s:ds="{6202C608-8472-4FFD-8D6F-AC0286E0A4CA}" />
+        <r
+          uid="{35F5B041-CCEA-40B8-948D-6DE09851A28E}"
+          s:ds="{51A1C309-0AF2-4DF8-AD32-E030C69C33B6}" />
+        <r
+          uid="{99B4E79C-EEB8-49BC-8779-24C4AD0CF113}"
+          s:ds="{A466E024-9617-4E45-9B4F-372FF88DC147}" />
+        <r
+          uid="{CDF8E396-F69A-48ED-A6DB-B665BD98B242}"
+          s:ds="{339972C2-A65C-435A-ACAF-0F40E900545D}" />
+      </d>
+    </r>
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01fd8c23-1b98-4e4b-9f2d-ecf3eb8aad68"
+      Hint: businessUnits
+      Value: "{424899CB-AF39-4DD1-9B7A-A18B0152D8EC}"
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{BA077E75-780B-4654-A220-10E63520C582}">
+              <p:d />
+            </r>
+            <r
+              uid="{83C96A38-D18A-4E35-9D8D-71F869B259F3}">
+              <p:d />
+            </r>
+            <r
+              uid="{C4ACEA35-73C2-4347-B325-2FC6FCDAAB8F}">
+              <p:d />
+            </r>
+            <r
+              uid="{AA9B87B0-5C58-462F-933C-2FF24A372877}"
+              p:before="*"
+              s:ds=""
+              s:id="{9CA51EAB-92E4-4A77-8B48-966774577172}"
+              s:par="Add Gradient=1"
+              s:ph="/main/product-hero-{C47C7B60-79D1-45AE-8D81-254181584CE0}-0" />
+            <r
+              uid="{C47C7B60-79D1-45AE-8D81-254181584CE0}"
+              p:after="r[@uid='{AA9B87B0-5C58-462F-933C-2FF24A372877}']"
+              s:ds="{DB7BAB29-A94C-445B-B541-5C88B4C85EB8}"
+              s:id="{C3DD97A2-2C6B-4FDA-922C-7127AE10C976}"
+              s:ph="main" />
+            <r
+              uid="{0EF0A240-D5AC-429A-929D-8E393F7FA0BE}"
+              p:after="r[@uid='{C47C7B60-79D1-45AE-8D81-254181584CE0}']"
+              s:ds="{1FA7B6FE-CF5A-4C7C-B000-44AC9336BEFF}"
+              s:id="{BA41A7D9-9B6F-4E1B-A8AD-9F1C5714660A}"
+              s:ph="main" />
+            <r
+              uid="{E655A92B-3794-4099-AF60-076BAFA33189}">
+              <p:d />
+            </r>
+            <r
+              uid="{0D97EC48-A616-4503-81F3-8B0A22142C87}">
+              <p:d />
+            </r>
+            <r
+              uid="{1FD9ED8E-765E-4D75-AEB7-9C5643309FB1}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3E128BD-C527-476C-B850-4FF98996AE1F}">
+              <p:d />
+            </r>
+            <r
+              uid="{9E4C6427-3865-4F4C-AF91-EFDF6A58DA77}">
+              <p:d />
+            </r>
+            <r
+              uid="{ACAD23C8-9219-4D65-B38A-4537A73C4FE0}">
+              <p:d />
+            </r>
+            <r
+              uid="{FB4C5C8E-DF5F-4300-950E-536065A8707B}">
+              <p:d />
+            </r>
+            <r
+              uid="{2849CE03-88F2-4FBC-BAE4-0D1B29D7AEAA}">
+              <p:d />
+            </r>
+            <r
+              uid="{B5407315-4598-49BA-A716-8895E8E1539E}">
+              <p:d />
+            </r>
+            <r
+              uid="{35F5B041-CCEA-40B8-948D-6DE09851A28E}">
+              <p:d />
+            </r>
+            <r
+              uid="{99B4E79C-EEB8-49BC-8779-24C4AD0CF113}">
+              <p:d />
+            </r>
+            <r
+              uid="{CDF8E396-F69A-48ED-A6DB-B665BD98B242}"
+              s:ds="{040F53B8-1F89-4162-B1A4-CFAB6DF62A04}" />
+            <r
+              uid="{3ADDDF2A-6C4B-4473-ACB2-EADC8ABD6475}">
+              <p:d />
+            </r>
+            <r
+              uid="{8036035A-E577-44BC-A961-631ADBC08C0F}">
+              <p:d />
+            </r>
+            <r
+              uid="{3E853995-D554-4E46-8CD3-FF5AAB91F1D3}"
+              p:after="r[@uid='{CDF8E396-F69A-48ED-A6DB-B665BD98B242}']"
+              s:ds="{64A06350-BD13-45DB-970A-00E29CB8D525}"
+              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
+              s:par="Use Button for Link"
+              s:ph="main" />
+            <r
+              uid="{FDAAF31B-908D-41A2-8404-A27BB23427E1}"
+              p:after="r[@uid='{3E853995-D554-4E46-8CD3-FF5AAB91F1D3}']"
+              s:ds="{318492CC-A891-4E5C-A9BC-947A05E431BC}"
+              s:id="{404FE8DE-C601-4E14-8D3D-32F27B41D06D}"
+              s:ph="main" />
+            <r
+              uid="{6E7571D8-FDA1-4860-B973-F2DE68C1F007}"
+              p:after="*[1=2]"
+              s:ds="{152AF4E0-BFF3-4400-A330-EF0E69000E7D}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Mixing Technologies
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Reliability and Technology in Mixing</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Mixing Technologies
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220113T034321Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Mixing Technologies
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Mixing Technologies
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{ABA9E56C-0FCE-464D-8E09-DB375CDF20D8}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Mixing Technologies
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "97256d38-bf4c-493a-8dd2-b73cf30294ae"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Reliability and Technology in Mixing
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{C68E4EBF-9417-44E9-B1D7-FB7D4D2F07FA}" cropregion="0,160,1920,1262" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220121T015146Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{C68E4EBF-9417-44E9-B1D7-FB7D4D2F07FA}" cropregion="0,172,1920,1252" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01fd8c23-1b98-4e4b-9f2d-ecf3eb8aad68"
+      Hint: businessUnits
+      Value: "{424899CB-AF39-4DD1-9B7A-A18B0152D8EC}"
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{BA077E75-780B-4654-A220-10E63520C582}">
+              <p:d />
+            </r>
+            <r
+              uid="{83C96A38-D18A-4E35-9D8D-71F869B259F3}">
+              <p:d />
+            </r>
+            <r
+              uid="{C4ACEA35-73C2-4347-B325-2FC6FCDAAB8F}">
+              <p:d />
+            </r>
+            <r
+              uid="{AA9B87B0-5C58-462F-933C-2FF24A372877}"
+              p:before="*"
+              s:ds=""
+              s:id="{9CA51EAB-92E4-4A77-8B48-966774577172}"
+              s:par="Add Gradient=1"
+              s:ph="/main/product-hero-{C47C7B60-79D1-45AE-8D81-254181584CE0}-0" />
+            <r
+              uid="{C47C7B60-79D1-45AE-8D81-254181584CE0}"
+              p:after="r[@uid='{AA9B87B0-5C58-462F-933C-2FF24A372877}']"
+              s:ds="{DB7BAB29-A94C-445B-B541-5C88B4C85EB8}"
+              s:id="{C3DD97A2-2C6B-4FDA-922C-7127AE10C976}"
+              s:ph="main" />
+            <r
+              uid="{0EF0A240-D5AC-429A-929D-8E393F7FA0BE}"
+              p:after="r[@uid='{C47C7B60-79D1-45AE-8D81-254181584CE0}']"
+              s:ds="{1FA7B6FE-CF5A-4C7C-B000-44AC9336BEFF}"
+              s:id="{BA41A7D9-9B6F-4E1B-A8AD-9F1C5714660A}"
+              s:ph="main" />
+            <r
+              uid="{E655A92B-3794-4099-AF60-076BAFA33189}">
+              <p:d />
+            </r>
+            <r
+              uid="{0D97EC48-A616-4503-81F3-8B0A22142C87}">
+              <p:d />
+            </r>
+            <r
+              uid="{1FD9ED8E-765E-4D75-AEB7-9C5643309FB1}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3E128BD-C527-476C-B850-4FF98996AE1F}">
+              <p:d />
+            </r>
+            <r
+              uid="{9E4C6427-3865-4F4C-AF91-EFDF6A58DA77}">
+              <p:d />
+            </r>
+            <r
+              uid="{ACAD23C8-9219-4D65-B38A-4537A73C4FE0}">
+              <p:d />
+            </r>
+            <r
+              uid="{FB4C5C8E-DF5F-4300-950E-536065A8707B}">
+              <p:d />
+            </r>
+            <r
+              uid="{2849CE03-88F2-4FBC-BAE4-0D1B29D7AEAA}">
+              <p:d />
+            </r>
+            <r
+              uid="{B5407315-4598-49BA-A716-8895E8E1539E}">
+              <p:d />
+            </r>
+            <r
+              uid="{35F5B041-CCEA-40B8-948D-6DE09851A28E}">
+              <p:d />
+            </r>
+            <r
+              uid="{99B4E79C-EEB8-49BC-8779-24C4AD0CF113}">
+              <p:d />
+            </r>
+            <r
+              uid="{CDF8E396-F69A-48ED-A6DB-B665BD98B242}"
+              s:ds="{040F53B8-1F89-4162-B1A4-CFAB6DF62A04}" />
+            <r
+              uid="{3ADDDF2A-6C4B-4473-ACB2-EADC8ABD6475}">
+              <p:d />
+            </r>
+            <r
+              uid="{8036035A-E577-44BC-A961-631ADBC08C0F}">
+              <p:d />
+            </r>
+            <r
+              uid="{3E853995-D554-4E46-8CD3-FF5AAB91F1D3}"
+              p:after="r[@uid='{CDF8E396-F69A-48ED-A6DB-B665BD98B242}']"
+              s:ds="{64A06350-BD13-45DB-970A-00E29CB8D525}"
+              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
+              s:par="Use Button for Link"
+              s:ph="main" />
+            <r
+              uid="{FDAAF31B-908D-41A2-8404-A27BB23427E1}"
+              p:after="r[@uid='{3E853995-D554-4E46-8CD3-FF5AAB91F1D3}']"
+              s:ds="{318492CC-A891-4E5C-A9BC-947A05E431BC}"
+              s:id="{404FE8DE-C601-4E14-8D3D-32F27B41D06D}"
+              s:ph="main" />
+            <r
+              uid="{6E7571D8-FDA1-4860-B973-F2DE68C1F007}"
+              p:after="*[1=2]"
+              s:ds="{152AF4E0-BFF3-4400-A330-EF0E69000E7D}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Mixing Technologies
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Reliability and Technology in Mixing</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Mixing Technologies
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220121T015238Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Mixing Technologies
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Mixing Technologies
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{ABA9E56C-0FCE-464D-8E09-DB375CDF20D8}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Mixing Technologies
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5c636d48-285e-41f6-b4eb-3cf613c39fde"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Reliability and Technology in Mixing
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20220121T015238Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{C68E4EBF-9417-44E9-B1D7-FB7D4D2F07FA}" cropregion="0,160,1920,1262" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220121T015326Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{C68E4EBF-9417-44E9-B1D7-FB7D4D2F07FA}" cropregion="0,172,1920,1252" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01fd8c23-1b98-4e4b-9f2d-ecf3eb8aad68"
+      Hint: businessUnits
+      Value: "{424899CB-AF39-4DD1-9B7A-A18B0152D8EC}"
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{BA077E75-780B-4654-A220-10E63520C582}">
+              <p:d />
+            </r>
+            <r
+              uid="{83C96A38-D18A-4E35-9D8D-71F869B259F3}">
+              <p:d />
+            </r>
+            <r
+              uid="{C4ACEA35-73C2-4347-B325-2FC6FCDAAB8F}">
+              <p:d />
+            </r>
+            <r
+              uid="{AA9B87B0-5C58-462F-933C-2FF24A372877}"
+              p:before="*"
+              s:ds=""
+              s:id="{9CA51EAB-92E4-4A77-8B48-966774577172}"
+              s:par="Add Gradient=1"
+              s:ph="/main/product-hero-{C47C7B60-79D1-45AE-8D81-254181584CE0}-0" />
+            <r
+              uid="{C47C7B60-79D1-45AE-8D81-254181584CE0}"
+              p:after="r[@uid='{AA9B87B0-5C58-462F-933C-2FF24A372877}']"
+              s:ds="{DB7BAB29-A94C-445B-B541-5C88B4C85EB8}"
+              s:id="{C3DD97A2-2C6B-4FDA-922C-7127AE10C976}"
+              s:ph="main" />
+            <r
+              uid="{0EF0A240-D5AC-429A-929D-8E393F7FA0BE}"
+              p:after="r[@uid='{C47C7B60-79D1-45AE-8D81-254181584CE0}']"
+              s:ds="{1FA7B6FE-CF5A-4C7C-B000-44AC9336BEFF}"
+              s:id="{BA41A7D9-9B6F-4E1B-A8AD-9F1C5714660A}"
+              s:ph="main" />
+            <r
+              uid="{E655A92B-3794-4099-AF60-076BAFA33189}">
+              <p:d />
+            </r>
+            <r
+              uid="{0D97EC48-A616-4503-81F3-8B0A22142C87}">
+              <p:d />
+            </r>
+            <r
+              uid="{1FD9ED8E-765E-4D75-AEB7-9C5643309FB1}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3E128BD-C527-476C-B850-4FF98996AE1F}">
+              <p:d />
+            </r>
+            <r
+              uid="{9E4C6427-3865-4F4C-AF91-EFDF6A58DA77}">
+              <p:d />
+            </r>
+            <r
+              uid="{ACAD23C8-9219-4D65-B38A-4537A73C4FE0}">
+              <p:d />
+            </r>
+            <r
+              uid="{FB4C5C8E-DF5F-4300-950E-536065A8707B}">
+              <p:d />
+            </r>
+            <r
+              uid="{2849CE03-88F2-4FBC-BAE4-0D1B29D7AEAA}">
+              <p:d />
+            </r>
+            <r
+              uid="{B5407315-4598-49BA-A716-8895E8E1539E}">
+              <p:d />
+            </r>
+            <r
+              uid="{35F5B041-CCEA-40B8-948D-6DE09851A28E}">
+              <p:d />
+            </r>
+            <r
+              uid="{99B4E79C-EEB8-49BC-8779-24C4AD0CF113}">
+              <p:d />
+            </r>
+            <r
+              uid="{CDF8E396-F69A-48ED-A6DB-B665BD98B242}"
+              s:ds="{040F53B8-1F89-4162-B1A4-CFAB6DF62A04}" />
+            <r
+              uid="{3ADDDF2A-6C4B-4473-ACB2-EADC8ABD6475}">
+              <p:d />
+            </r>
+            <r
+              uid="{8036035A-E577-44BC-A961-631ADBC08C0F}">
+              <p:d />
+            </r>
+            <r
+              uid="{3E853995-D554-4E46-8CD3-FF5AAB91F1D3}"
+              p:after="r[@uid='{CDF8E396-F69A-48ED-A6DB-B665BD98B242}']"
+              s:ds="{64A06350-BD13-45DB-970A-00E29CB8D525}"
+              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
+              s:par="Use Button for Link"
+              s:ph="main" />
+            <r
+              uid="{AB7BBAC9-7D5C-46BD-90D2-E367023E2F43}"
+              p:after="r[@uid='{3E853995-D554-4E46-8CD3-FF5AAB91F1D3}']"
+              s:ds="{9B6BBE58-2A94-4C32-9E50-BA4E1EE29959}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{FDAAF31B-908D-41A2-8404-A27BB23427E1}"
+              p:after="r[@uid='{AB7BBAC9-7D5C-46BD-90D2-E367023E2F43}']"
+              s:ds="{318492CC-A891-4E5C-A9BC-947A05E431BC}"
+              s:id="{404FE8DE-C601-4E14-8D3D-32F27B41D06D}"
+              s:ph="main" />
+            <r
+              uid="{6E7571D8-FDA1-4860-B973-F2DE68C1F007}"
+              p:after="*[1=2]"
+              s:ds="{152AF4E0-BFF3-4400-A330-EF0E69000E7D}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Mixing Technologies
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Reliability and Technology in Mixing</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Mixing Technologies
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220126T170732Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Mixing Technologies
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Mixing Technologies
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{ABA9E56C-0FCE-464D-8E09-DB375CDF20D8}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Mixing Technologies
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "41fee7fb-cc6b-49db-8e1b-d51be6b13ed7"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Reliability and Technology in Mixing
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20220126T170732Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{C68E4EBF-9417-44E9-B1D7-FB7D4D2F07FA}" cropregion="0,160,1920,1262" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220127T161505Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{C68E4EBF-9417-44E9-B1D7-FB7D4D2F07FA}" cropregion="0,172,1920,1252" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 4
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01fd8c23-1b98-4e4b-9f2d-ecf3eb8aad68"
+      Hint: businessUnits
+      Value: "{424899CB-AF39-4DD1-9B7A-A18B0152D8EC}"
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{BA077E75-780B-4654-A220-10E63520C582}">
+              <p:d />
+            </r>
+            <r
+              uid="{83C96A38-D18A-4E35-9D8D-71F869B259F3}">
+              <p:d />
+            </r>
+            <r
+              uid="{C4ACEA35-73C2-4347-B325-2FC6FCDAAB8F}">
+              <p:d />
+            </r>
+            <r
+              uid="{E655A92B-3794-4099-AF60-076BAFA33189}">
+              <p:d />
+            </r>
+            <r
+              uid="{0D97EC48-A616-4503-81F3-8B0A22142C87}">
+              <p:d />
+            </r>
+            <r
+              uid="{5973BFAB-D2A9-4953-8379-28524D229C5C}"
+              p:before="*"
+              s:ds="{F22CA51D-669F-4B05-8A0C-AB751CA0D340}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{AA9B87B0-5C58-462F-933C-2FF24A372877}"
+              p:after="r[@uid='{5973BFAB-D2A9-4953-8379-28524D229C5C}']"
+              s:ds=""
+              s:id="{9CA51EAB-92E4-4A77-8B48-966774577172}"
+              s:par="Add Gradient=1"
+              s:ph="/main/product-hero-{C47C7B60-79D1-45AE-8D81-254181584CE0}-0" />
+            <r
+              uid="{C47C7B60-79D1-45AE-8D81-254181584CE0}"
+              p:after="r[@uid='{AA9B87B0-5C58-462F-933C-2FF24A372877}']"
+              s:ds="{DB7BAB29-A94C-445B-B541-5C88B4C85EB8}"
+              s:id="{C3DD97A2-2C6B-4FDA-922C-7127AE10C976}"
+              s:ph="main" />
+            <r
+              uid="{4261E665-BB81-4DAC-8908-AE4C7C05D244}"
+              p:after="r[@uid='{C47C7B60-79D1-45AE-8D81-254181584CE0}']"
+              s:ds="{2BA142D6-714F-46F1-8DFD-530F9427EEDF}"
+              s:id="{A22722F6-65DF-4574-B659-191957028C9B}"
+              s:par=""
+              s:ph="main" />
+            <r
+              uid="{0EF0A240-D5AC-429A-929D-8E393F7FA0BE}"
+              p:after="r[@uid='{4261E665-BB81-4DAC-8908-AE4C7C05D244}']"
+              s:ds="{1FA7B6FE-CF5A-4C7C-B000-44AC9336BEFF}"
+              s:id="{BA41A7D9-9B6F-4E1B-A8AD-9F1C5714660A}"
+              s:ph="main" />
+            <r
+              uid="{1FD9ED8E-765E-4D75-AEB7-9C5643309FB1}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3E128BD-C527-476C-B850-4FF98996AE1F}">
+              <p:d />
+            </r>
+            <r
+              uid="{9E4C6427-3865-4F4C-AF91-EFDF6A58DA77}">
+              <p:d />
+            </r>
+            <r
+              uid="{ACAD23C8-9219-4D65-B38A-4537A73C4FE0}">
+              <p:d />
+            </r>
+            <r
+              uid="{FB4C5C8E-DF5F-4300-950E-536065A8707B}">
+              <p:d />
+            </r>
+            <r
+              uid="{2849CE03-88F2-4FBC-BAE4-0D1B29D7AEAA}">
+              <p:d />
+            </r>
+            <r
+              uid="{B5407315-4598-49BA-A716-8895E8E1539E}">
+              <p:d />
+            </r>
+            <r
+              uid="{35F5B041-CCEA-40B8-948D-6DE09851A28E}">
+              <p:d />
+            </r>
+            <r
+              uid="{99B4E79C-EEB8-49BC-8779-24C4AD0CF113}">
+              <p:d />
+            </r>
+            <r
+              uid="{CDF8E396-F69A-48ED-A6DB-B665BD98B242}"
+              s:ds="{040F53B8-1F89-4162-B1A4-CFAB6DF62A04}" />
+            <r
+              uid="{3ADDDF2A-6C4B-4473-ACB2-EADC8ABD6475}">
+              <p:d />
+            </r>
+            <r
+              uid="{8036035A-E577-44BC-A961-631ADBC08C0F}">
+              <p:d />
+            </r>
+            <r
+              uid="{3E853995-D554-4E46-8CD3-FF5AAB91F1D3}"
+              p:after="r[@uid='{CDF8E396-F69A-48ED-A6DB-B665BD98B242}']"
+              s:ds="{64A06350-BD13-45DB-970A-00E29CB8D525}"
+              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
+              s:par="Use Button for Link"
+              s:ph="main" />
+            <r
+              uid="{AB7BBAC9-7D5C-46BD-90D2-E367023E2F43}"
+              p:after="r[@uid='{3E853995-D554-4E46-8CD3-FF5AAB91F1D3}']"
+              s:ds="{9B6BBE58-2A94-4C32-9E50-BA4E1EE29959}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{FDAAF31B-908D-41A2-8404-A27BB23427E1}"
+              p:after="r[@uid='{AB7BBAC9-7D5C-46BD-90D2-E367023E2F43}']"
+              s:ds="{318492CC-A891-4E5C-A9BC-947A05E431BC}"
+              s:id="{404FE8DE-C601-4E14-8D3D-32F27B41D06D}"
+              s:ph="main" />
+            <r
+              uid="{6E7571D8-FDA1-4860-B973-F2DE68C1F007}"
+              p:after="*[1=2]"
+              s:ds="{D716B1A8-F2FB-49CA-B9DB-CAAC03B6B0CB}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:par=""
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Mixing Technologies
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Reliability and Technology in Mixing</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Mixing Technologies
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220222T204558Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Mixing Technologies
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Mixing Technologies
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{ABA9E56C-0FCE-464D-8E09-DB375CDF20D8}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Mixing Technologies
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "34d7e067-eaee-4390-b8ba-c2c0cab2252e"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Reliability and Technology in Mixing
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20220222T204558Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{C68E4EBF-9417-44E9-B1D7-FB7D4D2F07FA}" cropregion="0,160,1920,1262" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220325T140053Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{C68E4EBF-9417-44E9-B1D7-FB7D4D2F07FA}" cropregion="0,172,1920,1252" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 5
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01fd8c23-1b98-4e4b-9f2d-ecf3eb8aad68"
+      Hint: businessUnits
+      Value: "{424899CB-AF39-4DD1-9B7A-A18B0152D8EC}"
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{BA077E75-780B-4654-A220-10E63520C582}">
+              <p:d />
+            </r>
+            <r
+              uid="{83C96A38-D18A-4E35-9D8D-71F869B259F3}">
+              <p:d />
+            </r>
+            <r
+              uid="{C4ACEA35-73C2-4347-B325-2FC6FCDAAB8F}">
+              <p:d />
+            </r>
+            <r
+              uid="{E655A92B-3794-4099-AF60-076BAFA33189}">
+              <p:d />
+            </r>
+            <r
+              uid="{0D97EC48-A616-4503-81F3-8B0A22142C87}">
+              <p:d />
+            </r>
+            <r
+              uid="{5973BFAB-D2A9-4953-8379-28524D229C5C}"
+              p:before="*"
+              s:ds="{F22CA51D-669F-4B05-8A0C-AB751CA0D340}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{AA9B87B0-5C58-462F-933C-2FF24A372877}"
+              p:after="r[@uid='{5973BFAB-D2A9-4953-8379-28524D229C5C}']"
+              s:ds=""
+              s:id="{9CA51EAB-92E4-4A77-8B48-966774577172}"
+              s:par="Add Gradient=1"
+              s:ph="/main/product-hero-{C47C7B60-79D1-45AE-8D81-254181584CE0}-0" />
+            <r
+              uid="{C47C7B60-79D1-45AE-8D81-254181584CE0}"
+              p:after="r[@uid='{AA9B87B0-5C58-462F-933C-2FF24A372877}']"
+              s:ds="{DB7BAB29-A94C-445B-B541-5C88B4C85EB8}"
+              s:id="{C3DD97A2-2C6B-4FDA-922C-7127AE10C976}"
+              s:ph="main" />
+            <r
+              uid="{4261E665-BB81-4DAC-8908-AE4C7C05D244}"
+              p:after="r[@uid='{C47C7B60-79D1-45AE-8D81-254181584CE0}']"
+              s:ds="{2BA142D6-714F-46F1-8DFD-530F9427EEDF}"
+              s:id="{A22722F6-65DF-4574-B659-191957028C9B}"
+              s:par=""
+              s:ph="main" />
+            <r
+              uid="{0EF0A240-D5AC-429A-929D-8E393F7FA0BE}"
+              p:after="r[@uid='{4261E665-BB81-4DAC-8908-AE4C7C05D244}']"
+              s:ds="{1FA7B6FE-CF5A-4C7C-B000-44AC9336BEFF}"
+              s:id="{BA41A7D9-9B6F-4E1B-A8AD-9F1C5714660A}"
+              s:ph="main" />
+            <r
+              uid="{1FD9ED8E-765E-4D75-AEB7-9C5643309FB1}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3E128BD-C527-476C-B850-4FF98996AE1F}">
+              <p:d />
+            </r>
+            <r
+              uid="{9E4C6427-3865-4F4C-AF91-EFDF6A58DA77}">
+              <p:d />
+            </r>
+            <r
+              uid="{ACAD23C8-9219-4D65-B38A-4537A73C4FE0}">
+              <p:d />
+            </r>
+            <r
+              uid="{FB4C5C8E-DF5F-4300-950E-536065A8707B}">
+              <p:d />
+            </r>
+            <r
+              uid="{2849CE03-88F2-4FBC-BAE4-0D1B29D7AEAA}">
+              <p:d />
+            </r>
+            <r
+              uid="{B5407315-4598-49BA-A716-8895E8E1539E}">
+              <p:d />
+            </r>
+            <r
+              uid="{35F5B041-CCEA-40B8-948D-6DE09851A28E}">
+              <p:d />
+            </r>
+            <r
+              uid="{99B4E79C-EEB8-49BC-8779-24C4AD0CF113}">
+              <p:d />
+            </r>
+            <r
+              uid="{CDF8E396-F69A-48ED-A6DB-B665BD98B242}"
+              s:ds="{040F53B8-1F89-4162-B1A4-CFAB6DF62A04}" />
+            <r
+              uid="{3ADDDF2A-6C4B-4473-ACB2-EADC8ABD6475}">
+              <p:d />
+            </r>
+            <r
+              uid="{8036035A-E577-44BC-A961-631ADBC08C0F}">
+              <p:d />
+            </r>
+            <r
+              uid="{3E853995-D554-4E46-8CD3-FF5AAB91F1D3}"
+              p:after="r[@uid='{CDF8E396-F69A-48ED-A6DB-B665BD98B242}']"
+              s:ds="{64A06350-BD13-45DB-970A-00E29CB8D525}"
+              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
+              s:par="Use Button for Link"
+              s:ph="main" />
+            <r
+              uid="{AB7BBAC9-7D5C-46BD-90D2-E367023E2F43}"
+              p:after="r[@uid='{3E853995-D554-4E46-8CD3-FF5AAB91F1D3}']"
+              s:ds="{9B6BBE58-2A94-4C32-9E50-BA4E1EE29959}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{FDAAF31B-908D-41A2-8404-A27BB23427E1}"
+              p:after="r[@uid='{AB7BBAC9-7D5C-46BD-90D2-E367023E2F43}']"
+              s:ds="{318492CC-A891-4E5C-A9BC-947A05E431BC}"
+              s:id="{404FE8DE-C601-4E14-8D3D-32F27B41D06D}"
+              s:ph="main" />
+            <r
+              uid="{6E7571D8-FDA1-4860-B973-F2DE68C1F007}"
+              p:after="*[1=2]"
+              s:ds="{D716B1A8-F2FB-49CA-B9DB-CAAC03B6B0CB}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:par=""
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Mixing Technologies
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Reliability and Technology in Mixing</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Mixing Technologies
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220512T144305Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Mixing Technologies
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Mixing Technologies
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{ABA9E56C-0FCE-464D-8E09-DB375CDF20D8}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Mixing Technologies
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8c22f539-e4d3-4a5d-97ad-5edd8a993c75"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Reliability and Technology in Mixing
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20220512T144305Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{C68E4EBF-9417-44E9-B1D7-FB7D4D2F07FA}" cropregion="161,415,1919,1424" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220512T144419Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{BF82A443-9B22-462E-B04D-BFA01DF0F8C3}" cropregion="0,200,1920,1279" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 6
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01fd8c23-1b98-4e4b-9f2d-ecf3eb8aad68"
+      Hint: businessUnits
+      Value: "{424899CB-AF39-4DD1-9B7A-A18B0152D8EC}"
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{BA077E75-780B-4654-A220-10E63520C582}">
+              <p:d />
+            </r>
+            <r
+              uid="{83C96A38-D18A-4E35-9D8D-71F869B259F3}">
+              <p:d />
+            </r>
+            <r
+              uid="{C4ACEA35-73C2-4347-B325-2FC6FCDAAB8F}">
+              <p:d />
+            </r>
+            <r
+              uid="{E655A92B-3794-4099-AF60-076BAFA33189}">
+              <p:d />
+            </r>
+            <r
+              uid="{0D97EC48-A616-4503-81F3-8B0A22142C87}">
+              <p:d />
+            </r>
+            <r
+              uid="{5973BFAB-D2A9-4953-8379-28524D229C5C}"
+              p:before="*"
+              s:ds="{F22CA51D-669F-4B05-8A0C-AB751CA0D340}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{AA9B87B0-5C58-462F-933C-2FF24A372877}"
+              p:after="r[@uid='{5973BFAB-D2A9-4953-8379-28524D229C5C}']"
+              s:ds=""
+              s:id="{9CA51EAB-92E4-4A77-8B48-966774577172}"
+              s:par="Add Gradient=1"
+              s:ph="/main/product-hero-{C47C7B60-79D1-45AE-8D81-254181584CE0}-0" />
+            <r
+              uid="{C47C7B60-79D1-45AE-8D81-254181584CE0}"
+              p:after="r[@uid='{AA9B87B0-5C58-462F-933C-2FF24A372877}']"
+              s:ds="{DB7BAB29-A94C-445B-B541-5C88B4C85EB8}"
+              s:id="{C3DD97A2-2C6B-4FDA-922C-7127AE10C976}"
+              s:ph="main" />
+            <r
+              uid="{4261E665-BB81-4DAC-8908-AE4C7C05D244}"
+              p:after="r[@uid='{C47C7B60-79D1-45AE-8D81-254181584CE0}']"
+              s:ds="{2BA142D6-714F-46F1-8DFD-530F9427EEDF}"
+              s:id="{A22722F6-65DF-4574-B659-191957028C9B}"
+              s:par=""
+              s:ph="main" />
+            <r
+              uid="{0EF0A240-D5AC-429A-929D-8E393F7FA0BE}"
+              p:after="r[@uid='{4261E665-BB81-4DAC-8908-AE4C7C05D244}']"
+              s:ds="{1FA7B6FE-CF5A-4C7C-B000-44AC9336BEFF}"
+              s:id="{BA41A7D9-9B6F-4E1B-A8AD-9F1C5714660A}"
+              s:ph="main" />
+            <r
+              uid="{1FD9ED8E-765E-4D75-AEB7-9C5643309FB1}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3E128BD-C527-476C-B850-4FF98996AE1F}">
+              <p:d />
+            </r>
+            <r
+              uid="{9E4C6427-3865-4F4C-AF91-EFDF6A58DA77}">
+              <p:d />
+            </r>
+            <r
+              uid="{ACAD23C8-9219-4D65-B38A-4537A73C4FE0}">
+              <p:d />
+            </r>
+            <r
+              uid="{FB4C5C8E-DF5F-4300-950E-536065A8707B}">
+              <p:d />
+            </r>
+            <r
+              uid="{2849CE03-88F2-4FBC-BAE4-0D1B29D7AEAA}">
+              <p:d />
+            </r>
+            <r
+              uid="{B5407315-4598-49BA-A716-8895E8E1539E}">
+              <p:d />
+            </r>
+            <r
+              uid="{35F5B041-CCEA-40B8-948D-6DE09851A28E}">
+              <p:d />
+            </r>
+            <r
+              uid="{99B4E79C-EEB8-49BC-8779-24C4AD0CF113}">
+              <p:d />
+            </r>
+            <r
+              uid="{CDF8E396-F69A-48ED-A6DB-B665BD98B242}"
+              s:ds="{040F53B8-1F89-4162-B1A4-CFAB6DF62A04}" />
+            <r
+              uid="{3ADDDF2A-6C4B-4473-ACB2-EADC8ABD6475}">
+              <p:d />
+            </r>
+            <r
+              uid="{8036035A-E577-44BC-A961-631ADBC08C0F}">
+              <p:d />
+            </r>
+            <r
+              uid="{3E853995-D554-4E46-8CD3-FF5AAB91F1D3}"
+              p:after="r[@uid='{CDF8E396-F69A-48ED-A6DB-B665BD98B242}']"
+              s:ds="{64A06350-BD13-45DB-970A-00E29CB8D525}"
+              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
+              s:par="Use Button for Link"
+              s:ph="main" />
+            <r
+              uid="{AB7BBAC9-7D5C-46BD-90D2-E367023E2F43}"
+              p:after="r[@uid='{3E853995-D554-4E46-8CD3-FF5AAB91F1D3}']"
+              s:ds="{9B6BBE58-2A94-4C32-9E50-BA4E1EE29959}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{FDAAF31B-908D-41A2-8404-A27BB23427E1}"
+              p:after="r[@uid='{AB7BBAC9-7D5C-46BD-90D2-E367023E2F43}']"
+              s:ds="{318492CC-A891-4E5C-A9BC-947A05E431BC}"
+              s:id="{404FE8DE-C601-4E14-8D3D-32F27B41D06D}"
+              s:ph="main" />
+            <r
+              uid="{6E7571D8-FDA1-4860-B973-F2DE68C1F007}"
+              p:after="*[1=2]"
+              s:ds="{D716B1A8-F2FB-49CA-B9DB-CAAC03B6B0CB}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:par=""
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Mixing Technologies
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Reliability and Technology in Mixing</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Mixing Technologies
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230613T183726Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Mixing Technologies
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Mixing Technologies
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{ABA9E56C-0FCE-464D-8E09-DB375CDF20D8}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Mixing Technologies
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "96180ae9-d4c3-4481-8928-011101b9b44f"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Reliability and Technology in Mixing
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230613T183726Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{C68E4EBF-9417-44E9-B1D7-FB7D4D2F07FA}" cropregion="161,415,1919,1424" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230613T192323Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{BF82A443-9B22-462E-B04D-BFA01DF0F8C3}" cropregion="0,200,1920,1279" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />

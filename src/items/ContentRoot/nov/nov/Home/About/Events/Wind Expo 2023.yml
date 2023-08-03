@@ -1,0 +1,353 @@
+﻿---
+ID: "a7871609-d37a-4b5d-b0d2-e7fea7b3d9d9"
+Parent: "cd0214ea-b2e7-40a9-89d9-695cdf04c498"
+Template: "1bf45569-a9ee-482e-8c1f-6aed83c3c8ab"
+Path: /sitecore/content/nov/nov/Home/About/Events/Wind Expo 2023
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 610
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{D9DC2E91-2941-4E2F-BCD7-3809E1023600}"
+          s:ds="{F30D3869-6820-4F40-816A-9664D4B34BA0}" />
+        <r
+          uid="{82CC48F6-44A9-4DC7-9B50-55B2B32A157A}"
+          s:ds="{A05CFD2F-413A-4659-9B51-6B3FF6756E0F}" />
+      </d>
+    </r>
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01fd8c23-1b98-4e4b-9f2d-ecf3eb8aad68"
+      Hint: businessUnits
+      Value: "{55081714-900D-4F84-A923-2C7CDC829502}"
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{D9DC2E91-2941-4E2F-BCD7-3809E1023600}"
+              s:par="Alignment=left" />
+            <r
+              uid="{735E609B-F66D-477B-9570-9372919E5B3E}"
+              p:after="r[@uid='{D9DC2E91-2941-4E2F-BCD7-3809E1023600}']"
+              s:ds="{56BB700B-C195-451F-A06D-4F8A3229981C}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{82CC48F6-44A9-4DC7-9B50-55B2B32A157A}"
+              p:after="r[@uid='{735E609B-F66D-477B-9570-9372919E5B3E}']" />
+            <r
+              uid="{5049963A-E994-4E4D-9AAC-4C39F6888B97}"
+              p:after="*[1=2]"
+              s:ds="{80A95A49-1A41-4A5E-90C5-D9C74DF28711}"
+              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
+              s:par="Use Button for Link"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Wind Expo Tokyo 2022
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: "<p>Japan's largest wind energy show - a wide range of cutting-edge products and technologies will be exhibited.</p>"
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Wind Expo Tokyo 2022
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220210T171509Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Wind Expo Tokyo 2022
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Wind Expo Tokyo 2022
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{7BFDF55B-D789-4F80-BAA1-EE7B8380D4C6}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Wind Expo Tokyo 2022
+    - ID: "6f84eee0-ddfa-478a-b9fb-8a7adc34ed42"
+      Hint: Start Date
+      Value: 20220316T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "de9dbdb2-fc7a-43b6-8c46-14046572373a"
+    - ID: "8f4016b6-4a51-4621-90cb-77774279dba3"
+      Hint: End Date
+      Value: 20220318T000000Z
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{E7052507-CEF7-45CC-B52B-C65B98F4ADA7}"
+    - ID: "b8f42732-9cb8-478d-ae95-07e25345fb0f"
+      Hint: __Hide version
+      Value: 1
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\adminrschuhsler
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{6F957F30-14CE-4E22-A1B0-C32E3B42BE9D}" cropregion="0,87,1920,1191" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20221221T212602Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{6F957F30-14CE-4E22-A1B0-C32E3B42BE9D}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01fd8c23-1b98-4e4b-9f2d-ecf3eb8aad68"
+      Hint: businessUnits
+      Value: "{55081714-900D-4F84-A923-2C7CDC829502}"
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{D9DC2E91-2941-4E2F-BCD7-3809E1023600}"
+              s:par="Alignment=left" />
+            <r
+              uid="{735E609B-F66D-477B-9570-9372919E5B3E}"
+              p:after="r[@uid='{D9DC2E91-2941-4E2F-BCD7-3809E1023600}']"
+              s:ds="{56BB700B-C195-451F-A06D-4F8A3229981C}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{82CC48F6-44A9-4DC7-9B50-55B2B32A157A}"
+              p:after="r[@uid='{735E609B-F66D-477B-9570-9372919E5B3E}']" />
+            <r
+              uid="{5049963A-E994-4E4D-9AAC-4C39F6888B97}"
+              p:after="*[1=2]"
+              s:ds="{80A95A49-1A41-4A5E-90C5-D9C74DF28711}"
+              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
+              s:par="Use Button for Link"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Wind Expo Tokyo 2022
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: "<p>Japan's largest wind energy show - a wide range of cutting-edge products and technologies will be exhibited.</p>"
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Wind Expo Tokyo 2022
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220225T143433Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Wind Expo Tokyo 2022
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Wind Expo Tokyo 2022
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{7BFDF55B-D789-4F80-BAA1-EE7B8380D4C6}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Wind Expo Tokyo 2022
+    - ID: "6f84eee0-ddfa-478a-b9fb-8a7adc34ed42"
+      Hint: Start Date
+      Value: 20220316T000000Z
+    - ID: "81beeffb-e4e6-44ad-aa32-b3380b8d3fcd"
+      Hint: city
+      Value: Tokyo
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8cf294b5-3dbd-4bf4-8b0f-7cd603cb5ff9"
+    - ID: "8f4016b6-4a51-4621-90cb-77774279dba3"
+      Hint: End Date
+      Value: 20220318T000000Z
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{E7052507-CEF7-45CC-B52B-C65B98F4ADA7}"
+    - ID: "b8f42732-9cb8-478d-ae95-07e25345fb0f"
+      Hint: __Hide version
+      Value: 1
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\adminrschuhsler
+    - ID: "bba7d4dd-7d1e-428e-b80d-055170466dc3"
+      Hint: country
+      Value: Japan
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "Japan's largest wind energy show - a wide range of cutting-edge products and technologies will be exhibited."
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20220225T143400Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{6F957F30-14CE-4E22-A1B0-C32E3B42BE9D}" cropregion="0,87,1920,1191" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20221221T212616Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{6F957F30-14CE-4E22-A1B0-C32E3B42BE9D}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01fd8c23-1b98-4e4b-9f2d-ecf3eb8aad68"
+      Hint: businessUnits
+      Value: "{55081714-900D-4F84-A923-2C7CDC829502}"
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{D9DC2E91-2941-4E2F-BCD7-3809E1023600}"
+              s:par="Alignment=left" />
+            <r
+              uid="{5049963A-E994-4E4D-9AAC-4C39F6888B97}"
+              p:after="*[1=2]"
+              s:ds="{80A95A49-1A41-4A5E-90C5-D9C74DF28711}"
+              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
+              s:par="Use Button for Link"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Wind Expo Tokyo 2022
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: "<p>Japan's largest wind energy show - a wide range of cutting-edge products and technologies will be exhibited.</p>"
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Wind Expo 2023
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221221T212634Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Wind Expo 2023
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Wind Expo 2023
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{7BFDF55B-D789-4F80-BAA1-EE7B8380D4C6}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Wind Expo 2023
+    - ID: "6f84eee0-ddfa-478a-b9fb-8a7adc34ed42"
+      Hint: Start Date
+      Value: 20230315T000000Z
+    - ID: "81beeffb-e4e6-44ad-aa32-b3380b8d3fcd"
+      Hint: city
+      Value: Tokyo Big Sight
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "05848014-2687-48fc-ba00-e73b168091da"
+    - ID: "8f4016b6-4a51-4621-90cb-77774279dba3"
+      Hint: End Date
+      Value: 20230317T000000Z
+    - ID: "9992a471-a0b0-471a-9c6b-6e1048c76e00"
+      Hint: brands
+      Value: "{C3F61168-AAD8-4212-BA65-2EAF59E5A3FE}"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{E7052507-CEF7-45CC-B52B-C65B98F4ADA7}"
+    - ID: "b8f42732-9cb8-478d-ae95-07e25345fb0f"
+      Hint: __Hide version
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "bba7d4dd-7d1e-428e-b80d-055170466dc3"
+      Hint: country
+      Value: Japan
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "Japan's largest wind energy show - a wide range of cutting-edge products and technologies will be exhibited."
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20221221T212600Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{6F957F30-14CE-4E22-A1B0-C32E3B42BE9D}" cropregion="0,87,1920,1191" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230509T150911Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{6F957F30-14CE-4E22-A1B0-C32E3B42BE9D}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" />

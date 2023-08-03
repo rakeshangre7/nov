@@ -1,0 +1,1613 @@
+﻿---
+ID: "cd63189e-12a6-4a00-b4b8-3c71dcda171c"
+Parent: "fe9eea38-ff53-4647-91bc-2667ac395223"
+Template: "2ff882b0-4f69-4f0d-9d30-c3b5396f0e5b"
+Path: /sitecore/content/nov/nov/Home/About/NOV Today Podcast/Episode 5 A Global Family Story
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1250
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{9B4417AB-C22F-4C76-B2DC-98F2FCA8A71E}"
+              s:ds=""
+              s:par="Add Gradient&amp;Text Color=black" />
+            <r
+              uid="{10CEBA25-FC2A-4F84-8760-9B825D4EAF06}"
+              s:ds="{A51B5DF5-1C50-4ED3-8920-C0D347B74D20}" />
+            <r
+              uid="{37DC6908-9973-4BF3-AA1F-616581927F03}">
+              <p:d />
+            </r>
+            <r
+              uid="{A4E84624-91D5-4023-B376-EEF5A58721D5}"
+              p:after="r[@uid='{10CEBA25-FC2A-4F84-8760-9B825D4EAF06}']"
+              s:ds="{15CFD6F4-04F7-40FA-A2C3-B52CCBC562CD}"
+              s:id="{71A65776-7C98-40A6-9511-4C02F045B351}"
+              s:ph="main" />
+            <r
+              uid="{3A4E7139-50CB-4BD5-AB2E-460BC7CE5AAF}">
+              <p:d />
+            </r>
+            <r
+              uid="{29B80482-A671-447F-BB46-8121D422BD81}">
+              <p:d />
+            </r>
+            <r
+              uid="{97344B92-7C95-4AC5-BA52-015B4E4B60A0}"
+              s:ds="{46703123-2CE7-411C-892D-F7F2235B18B0}" />
+            <r
+              uid="{7FCE1D2B-E077-4A3D-AF80-996014D9B527}">
+              <p:d />
+            </r>
+            <r
+              uid="{E4B5E95B-1967-46AA-A8EB-5EAA3C8A9DBA}"
+              p:after="r[@uid='{97344B92-7C95-4AC5-BA52-015B4E4B60A0}']"
+              s:ds="{1869A6BE-7550-45BE-881F-1881C133713E}"
+              s:id="{339A27F1-D5BB-4D77-8097-C659C900ECE6}"
+              s:ph="main" />
+            <r
+              uid="{B7906B15-B51F-4DDA-9D56-0D4EDD3DF208}"
+              s:ds="{598EF0BF-5B63-49D3-A1F2-CD9B694CB3F2}" />
+            <r
+              uid="{9B9C6914-204E-47B8-ABD6-F2712DC7BB72}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "0ae9d850-5782-4904-b517-9c3efb268b2e"
+      Hint: Body
+      Value: |
+        <p>For many at NOV, helping our communities and each other in times of need often comes as second nature. It's a part of who we are and what we do. So when you read or hear the phrase "Global Family," what does that mean to you? For some, it meant life change. Listen as two NOV employees share their experience with this powerful idea that impacts us all.</p>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: "Episode 5: A Global Family Story"
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>With Guests Billie Froggatt, Mark Froggatt, and Kadie Rose</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: "Episode 5: A Global Family Story"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190516T141757Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: "Episode 5: A Global Family Story"
+    - ID: "3dfb53fd-f01c-4297-b35f-2eb6756a17bc"
+      Hint: Quote
+      Value: Together we really are an NOV family, we come together and help one another
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: "Episode 5: A Global Family Story"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: "Episode 5: A Global Family Story"
+    - ID: "79268dbb-e7ff-47be-b022-ead0c45d0cfa"
+      Hint: Guest Names
+      Value: Billie Froggatt, Mark Froggatt, and Kadie Rose
+    - ID: "796a825d-4266-4470-96f3-0f8f8692da01"
+      Hint: Quote Name
+      Value: Rose Kadie
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4bfcdbcc-1db2-48c2-a3f6-7672c31b1e00"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{BA3828AF-5EF2-4318-B72A-AF9B21812EB6}"
+    - ID: "a460cc7f-b024-4434-b13f-00f288a04b7c"
+      Hint: Episode Number
+      Value: 5
+    - ID: "b0d622b7-156a-4f17-9ce4-4dd213df0302"
+      Hint: Date
+      Value: 20180321T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mecoreyna
+    - ID: "bf69c7e1-1928-47e6-b2d7-fa0b551766f5"
+      Hint: Soundcloud Embed Code
+      Value: |
+        <iframe width="100%" height="300" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/416558490&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true" frameborder="no" scrolling="no" allow="autoplay"></iframe>
+    - ID: "d22e8671-07eb-4818-a59b-6e88aa494d7b"
+      Hint: Quote Job Title
+      Value: Project Coordinator
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{40A7E75E-1058-41C8-AA01-BE446146ED45}" cropregion="38,0,1920,1079" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190523T194825Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{40A7E75E-1058-41C8-AA01-BE446146ED45}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+    - ID: "f967d171-98a0-477f-8290-ee0c5257a52f"
+      Hint: Podcast Length
+      Value: "13:12"
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{9B4417AB-C22F-4C76-B2DC-98F2FCA8A71E}"
+              s:ds=""
+              s:par="Add Gradient&amp;Text Color=black" />
+            <r
+              uid="{10CEBA25-FC2A-4F84-8760-9B825D4EAF06}"
+              s:ds="{A51B5DF5-1C50-4ED3-8920-C0D347B74D20}" />
+            <r
+              uid="{37DC6908-9973-4BF3-AA1F-616581927F03}">
+              <p:d />
+            </r>
+            <r
+              uid="{A4E84624-91D5-4023-B376-EEF5A58721D5}"
+              p:after="r[@uid='{10CEBA25-FC2A-4F84-8760-9B825D4EAF06}']"
+              s:ds="{15CFD6F4-04F7-40FA-A2C3-B52CCBC562CD}"
+              s:id="{71A65776-7C98-40A6-9511-4C02F045B351}"
+              s:ph="main" />
+            <r
+              uid="{3A4E7139-50CB-4BD5-AB2E-460BC7CE5AAF}">
+              <p:d />
+            </r>
+            <r
+              uid="{29B80482-A671-447F-BB46-8121D422BD81}">
+              <p:d />
+            </r>
+            <r
+              uid="{97344B92-7C95-4AC5-BA52-015B4E4B60A0}"
+              s:ds="{46703123-2CE7-411C-892D-F7F2235B18B0}" />
+            <r
+              uid="{7FCE1D2B-E077-4A3D-AF80-996014D9B527}">
+              <p:d />
+            </r>
+            <r
+              uid="{E4B5E95B-1967-46AA-A8EB-5EAA3C8A9DBA}"
+              p:after="r[@uid='{97344B92-7C95-4AC5-BA52-015B4E4B60A0}']"
+              s:ds="{1869A6BE-7550-45BE-881F-1881C133713E}"
+              s:id="{339A27F1-D5BB-4D77-8097-C659C900ECE6}"
+              s:ph="main" />
+            <r
+              uid="{B7906B15-B51F-4DDA-9D56-0D4EDD3DF208}"
+              s:ds="{598EF0BF-5B63-49D3-A1F2-CD9B694CB3F2}" />
+            <r
+              uid="{9B9C6914-204E-47B8-ABD6-F2712DC7BB72}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "0ae9d850-5782-4904-b517-9c3efb268b2e"
+      Hint: Body
+      Value: |
+        <p>For many at NOV, helping our communities and each other in times of need often comes as second nature. It's a part of who we are and what we do. So when you read or hear the phrase "Global Family," what does that mean to you? For some, it meant life change. Listen as two NOV employees share their experience with this powerful idea that impacts us all.</p>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: "Episode 5: A Global Family Story"
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>With Guests Billie Froggatt, Mark Froggatt, and Kadie Rose</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: "Episode 5: A Global Family Story"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190523T194830Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: "Episode 5: A Global Family Story"
+    - ID: "3dfb53fd-f01c-4297-b35f-2eb6756a17bc"
+      Hint: Quote
+      Value: Together we really are an NOV family, we come together and help one another
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: "Episode 5: A Global Family Story"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mecoreyna
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: "Episode 5: A Global Family Story"
+    - ID: "79268dbb-e7ff-47be-b022-ead0c45d0cfa"
+      Hint: Guest Names
+      Value: Billie Froggatt, Mark Froggatt, and Kadie Rose
+    - ID: "796a825d-4266-4470-96f3-0f8f8692da01"
+      Hint: Quote Name
+      Value: Rose Kadie
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ba78666f-da5d-4b28-8308-c455dc08fa10"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{BA3828AF-5EF2-4318-B72A-AF9B21812EB6}"
+    - ID: "a460cc7f-b024-4434-b13f-00f288a04b7c"
+      Hint: Episode Number
+      Value: 5
+    - ID: "b0d622b7-156a-4f17-9ce4-4dd213df0302"
+      Hint: Date
+      Value: 20180321T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "bf69c7e1-1928-47e6-b2d7-fa0b551766f5"
+      Hint: Soundcloud Embed Code
+      Value: |
+        <iframe width="100%" height="300" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/416558490&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true" frameborder="no" scrolling="no" allow="autoplay"></iframe>
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190523T194830Z
+    - ID: "d22e8671-07eb-4818-a59b-6e88aa494d7b"
+      Hint: Quote Job Title
+      Value: Project Coordinator
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{40A7E75E-1058-41C8-AA01-BE446146ED45}" cropregion="38,0,1920,1079" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190603T195620Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{40A7E75E-1058-41C8-AA01-BE446146ED45}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+    - ID: "f967d171-98a0-477f-8290-ee0c5257a52f"
+      Hint: Podcast Length
+      Value: "13:12"
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{9B4417AB-C22F-4C76-B2DC-98F2FCA8A71E}"
+              s:ds=""
+              s:par="Add Gradient&amp;Text Color=black" />
+            <r
+              uid="{10CEBA25-FC2A-4F84-8760-9B825D4EAF06}"
+              s:ds="{A51B5DF5-1C50-4ED3-8920-C0D347B74D20}" />
+            <r
+              uid="{37DC6908-9973-4BF3-AA1F-616581927F03}">
+              <p:d />
+            </r>
+            <r
+              uid="{A4E84624-91D5-4023-B376-EEF5A58721D5}"
+              p:after="r[@uid='{10CEBA25-FC2A-4F84-8760-9B825D4EAF06}']"
+              s:ds="{15CFD6F4-04F7-40FA-A2C3-B52CCBC562CD}"
+              s:id="{71A65776-7C98-40A6-9511-4C02F045B351}"
+              s:ph="main" />
+            <r
+              uid="{3A4E7139-50CB-4BD5-AB2E-460BC7CE5AAF}">
+              <p:d />
+            </r>
+            <r
+              uid="{29B80482-A671-447F-BB46-8121D422BD81}">
+              <p:d />
+            </r>
+            <r
+              uid="{97344B92-7C95-4AC5-BA52-015B4E4B60A0}"
+              s:ds="{46703123-2CE7-411C-892D-F7F2235B18B0}" />
+            <r
+              uid="{7FCE1D2B-E077-4A3D-AF80-996014D9B527}">
+              <p:d />
+            </r>
+            <r
+              uid="{E4B5E95B-1967-46AA-A8EB-5EAA3C8A9DBA}"
+              p:after="r[@uid='{97344B92-7C95-4AC5-BA52-015B4E4B60A0}']"
+              s:ds="{1869A6BE-7550-45BE-881F-1881C133713E}"
+              s:id="{339A27F1-D5BB-4D77-8097-C659C900ECE6}"
+              s:ph="main" />
+            <r
+              uid="{B7906B15-B51F-4DDA-9D56-0D4EDD3DF208}"
+              s:ds="{598EF0BF-5B63-49D3-A1F2-CD9B694CB3F2}" />
+            <r
+              uid="{9B9C6914-204E-47B8-ABD6-F2712DC7BB72}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "0ae9d850-5782-4904-b517-9c3efb268b2e"
+      Hint: Body
+      Value: |
+        <p>Listen as two NOV employees share their experience with the phrase "Global Family" and learn how this powerful idea impacts us all.</p>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: A Global Family Story
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>With Guests Billie Froggatt, Mark Froggatt, and Kadie Rose</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: A Global Family Story
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190603T195906Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: A Global Family Story
+    - ID: "3dfb53fd-f01c-4297-b35f-2eb6756a17bc"
+      Hint: Quote
+      Value: Together we really are an NOV family; we come together and help one another
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: A Global Family Story
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: A Global Family Story
+    - ID: "79268dbb-e7ff-47be-b022-ead0c45d0cfa"
+      Hint: Guest Names
+      Value: Billie Froggatt, Mark Froggatt, and Kadie Rose
+    - ID: "796a825d-4266-4470-96f3-0f8f8692da01"
+      Hint: Quote Name
+      Value: Kadie Rose
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c1d38b2d-6d25-4de0-857b-a3ebacbf8eed"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{BA3828AF-5EF2-4318-B72A-AF9B21812EB6}"
+    - ID: "a460cc7f-b024-4434-b13f-00f288a04b7c"
+      Hint: Episode Number
+      Value: 5
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "b0d622b7-156a-4f17-9ce4-4dd213df0302"
+      Hint: Date
+      Value: 20180321T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "bf69c7e1-1928-47e6-b2d7-fa0b551766f5"
+      Hint: Soundcloud Embed Code
+      Value: |
+        <iframe width="100%" height="300" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/416558490&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true" frameborder="no" scrolling="no" allow="autoplay"></iframe>
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: |
+        Listen as two NOV employees share their experience with the phrase "Global Family" and learn how this powerful idea impacts us all.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190603T195906Z
+    - ID: "d22e8671-07eb-4818-a59b-6e88aa494d7b"
+      Hint: Quote Job Title
+      Value: Project Coordinator
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{40A7E75E-1058-41C8-AA01-BE446146ED45}" cropregion="38,0,1920,1079" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190603T202719Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{40A7E75E-1058-41C8-AA01-BE446146ED45}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+    - ID: "f967d171-98a0-477f-8290-ee0c5257a52f"
+      Hint: Podcast Length
+      Value: "13:12"
+  - Version: 4
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{9B4417AB-C22F-4C76-B2DC-98F2FCA8A71E}"
+              s:ds=""
+              s:par="Add Gradient&amp;Text Color=black" />
+            <r
+              uid="{10CEBA25-FC2A-4F84-8760-9B825D4EAF06}"
+              s:ds="{A51B5DF5-1C50-4ED3-8920-C0D347B74D20}" />
+            <r
+              uid="{37DC6908-9973-4BF3-AA1F-616581927F03}">
+              <p:d />
+            </r>
+            <r
+              uid="{A4E84624-91D5-4023-B376-EEF5A58721D5}"
+              p:after="r[@uid='{10CEBA25-FC2A-4F84-8760-9B825D4EAF06}']"
+              s:ds="{15CFD6F4-04F7-40FA-A2C3-B52CCBC562CD}"
+              s:id="{71A65776-7C98-40A6-9511-4C02F045B351}"
+              s:ph="main" />
+            <r
+              uid="{3A4E7139-50CB-4BD5-AB2E-460BC7CE5AAF}">
+              <p:d />
+            </r>
+            <r
+              uid="{29B80482-A671-447F-BB46-8121D422BD81}">
+              <p:d />
+            </r>
+            <r
+              uid="{97344B92-7C95-4AC5-BA52-015B4E4B60A0}"
+              s:ds="{46703123-2CE7-411C-892D-F7F2235B18B0}" />
+            <r
+              uid="{7FCE1D2B-E077-4A3D-AF80-996014D9B527}">
+              <p:d />
+            </r>
+            <r
+              uid="{E4B5E95B-1967-46AA-A8EB-5EAA3C8A9DBA}"
+              p:after="r[@uid='{97344B92-7C95-4AC5-BA52-015B4E4B60A0}']"
+              s:ds="{1869A6BE-7550-45BE-881F-1881C133713E}"
+              s:id="{339A27F1-D5BB-4D77-8097-C659C900ECE6}"
+              s:ph="main" />
+            <r
+              uid="{B7906B15-B51F-4DDA-9D56-0D4EDD3DF208}"
+              s:ds="{598EF0BF-5B63-49D3-A1F2-CD9B694CB3F2}" />
+            <r
+              uid="{9B9C6914-204E-47B8-ABD6-F2712DC7BB72}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "0ae9d850-5782-4904-b517-9c3efb268b2e"
+      Hint: Body
+      Value: |
+        <p>Listen as two NOV employees share their experience with the phrase "Global Family" and learn how this powerful idea impacts us all.</p>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: A Global Family Story
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>With guests Billie Froggatt, Mark Froggatt, and Kadie Rose</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: A Global Family Story
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190603T203446Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: A Global Family Story
+    - ID: "3dfb53fd-f01c-4297-b35f-2eb6756a17bc"
+      Hint: Quote
+      Value: Together we really are an NOV family; we come together and help one another
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: A Global Family Story
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: A Global Family Story
+    - ID: "79268dbb-e7ff-47be-b022-ead0c45d0cfa"
+      Hint: Guest Names
+      Value: Billie Froggatt, Mark Froggatt, and Kadie Rose
+    - ID: "796a825d-4266-4470-96f3-0f8f8692da01"
+      Hint: Quote Name
+      Value: Kadie Rose
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "beae6701-9a78-4fc4-a036-75a5f5ed5d0d"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{BA3828AF-5EF2-4318-B72A-AF9B21812EB6}"
+    - ID: "a460cc7f-b024-4434-b13f-00f288a04b7c"
+      Hint: Episode Number
+      Value: 5
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "b0d622b7-156a-4f17-9ce4-4dd213df0302"
+      Hint: Date
+      Value: 20180321T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "bf69c7e1-1928-47e6-b2d7-fa0b551766f5"
+      Hint: Soundcloud Embed Code
+      Value: |
+        <iframe width="100%" height="300" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/416558490&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true" frameborder="no" scrolling="no" allow="autoplay"></iframe>
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: |
+        Listen as two NOV employees share their experience with the phrase "Global Family" and learn how this powerful idea impacts us all.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190603T203446Z
+    - ID: "d22e8671-07eb-4818-a59b-6e88aa494d7b"
+      Hint: Quote Job Title
+      Value: Project Coordinator
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{40A7E75E-1058-41C8-AA01-BE446146ED45}" cropregion="38,0,1920,1079" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190603T203530Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{40A7E75E-1058-41C8-AA01-BE446146ED45}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+    - ID: "f967d171-98a0-477f-8290-ee0c5257a52f"
+      Hint: Podcast Length
+      Value: "13:12"
+  - Version: 5
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{9B4417AB-C22F-4C76-B2DC-98F2FCA8A71E}"
+              s:ds=""
+              s:par="Add Gradient&amp;Text Color=black" />
+            <r
+              uid="{10CEBA25-FC2A-4F84-8760-9B825D4EAF06}"
+              s:ds="{A51B5DF5-1C50-4ED3-8920-C0D347B74D20}" />
+            <r
+              uid="{37DC6908-9973-4BF3-AA1F-616581927F03}">
+              <p:d />
+            </r>
+            <r
+              uid="{A4E84624-91D5-4023-B376-EEF5A58721D5}"
+              p:after="r[@uid='{10CEBA25-FC2A-4F84-8760-9B825D4EAF06}']"
+              s:ds="{15CFD6F4-04F7-40FA-A2C3-B52CCBC562CD}"
+              s:id="{71A65776-7C98-40A6-9511-4C02F045B351}"
+              s:ph="main" />
+            <r
+              uid="{3A4E7139-50CB-4BD5-AB2E-460BC7CE5AAF}">
+              <p:d />
+            </r>
+            <r
+              uid="{29B80482-A671-447F-BB46-8121D422BD81}">
+              <p:d />
+            </r>
+            <r
+              uid="{97344B92-7C95-4AC5-BA52-015B4E4B60A0}"
+              s:ds="{46703123-2CE7-411C-892D-F7F2235B18B0}" />
+            <r
+              uid="{7FCE1D2B-E077-4A3D-AF80-996014D9B527}">
+              <p:d />
+            </r>
+            <r
+              uid="{E4B5E95B-1967-46AA-A8EB-5EAA3C8A9DBA}"
+              p:after="r[@uid='{97344B92-7C95-4AC5-BA52-015B4E4B60A0}']"
+              s:ds="{1869A6BE-7550-45BE-881F-1881C133713E}"
+              s:id="{339A27F1-D5BB-4D77-8097-C659C900ECE6}"
+              s:ph="main" />
+            <r
+              uid="{B7906B15-B51F-4DDA-9D56-0D4EDD3DF208}"
+              s:ds="{598EF0BF-5B63-49D3-A1F2-CD9B694CB3F2}" />
+            <r
+              uid="{9B9C6914-204E-47B8-ABD6-F2712DC7BB72}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "0ae9d850-5782-4904-b517-9c3efb268b2e"
+      Hint: Body
+      Value: |
+        <p>Listen as two NOV employees share their experience with the phrase "Global Family" and learn how this powerful idea impacts us all.</p>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: A Global Family Story
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>With guests Billie Froggatt, Mark Froggatt, and Kadie Rose</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: A Global Family Story
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190603T204339Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: A Global Family Story
+    - ID: "3dfb53fd-f01c-4297-b35f-2eb6756a17bc"
+      Hint: Quote
+      Value: Together we really are an NOV family; we come together and help one another
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: A Global Family Story
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: A Global Family Story
+    - ID: "79268dbb-e7ff-47be-b022-ead0c45d0cfa"
+      Hint: Guest Names
+      Value: Billie Froggatt, Mark Froggatt, Kadie Rose
+    - ID: "796a825d-4266-4470-96f3-0f8f8692da01"
+      Hint: Quote Name
+      Value: Kadie Rose
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "44cfff46-0d95-4d81-ba56-b4780e6c063e"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{BA3828AF-5EF2-4318-B72A-AF9B21812EB6}"
+    - ID: "a460cc7f-b024-4434-b13f-00f288a04b7c"
+      Hint: Episode Number
+      Value: 5
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "b0d622b7-156a-4f17-9ce4-4dd213df0302"
+      Hint: Date
+      Value: 20180321T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "bf69c7e1-1928-47e6-b2d7-fa0b551766f5"
+      Hint: Soundcloud Embed Code
+      Value: |
+        <iframe width="100%" height="300" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/416558490&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true" frameborder="no" scrolling="no" allow="autoplay"></iframe>
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: |
+        Listen as two NOV employees share their experience with the phrase "Global Family" and learn how this powerful idea impacts us all.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190603T204339Z
+    - ID: "d22e8671-07eb-4818-a59b-6e88aa494d7b"
+      Hint: Quote Job Title
+      Value: Project Coordinator
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{40A7E75E-1058-41C8-AA01-BE446146ED45}" cropregion="38,0,1920,1079" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190603T204420Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{40A7E75E-1058-41C8-AA01-BE446146ED45}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+    - ID: "f967d171-98a0-477f-8290-ee0c5257a52f"
+      Hint: Podcast Length
+      Value: "13:12"
+  - Version: 6
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{9B4417AB-C22F-4C76-B2DC-98F2FCA8A71E}"
+              s:ds=""
+              s:par="Add Gradient&amp;Text Color=black" />
+            <r
+              uid="{10CEBA25-FC2A-4F84-8760-9B825D4EAF06}"
+              s:ds="{A51B5DF5-1C50-4ED3-8920-C0D347B74D20}" />
+            <r
+              uid="{37DC6908-9973-4BF3-AA1F-616581927F03}">
+              <p:d />
+            </r>
+            <r
+              uid="{A4E84624-91D5-4023-B376-EEF5A58721D5}"
+              p:after="r[@uid='{10CEBA25-FC2A-4F84-8760-9B825D4EAF06}']"
+              s:ds="{15CFD6F4-04F7-40FA-A2C3-B52CCBC562CD}"
+              s:id="{71A65776-7C98-40A6-9511-4C02F045B351}"
+              s:ph="main" />
+            <r
+              uid="{3A4E7139-50CB-4BD5-AB2E-460BC7CE5AAF}">
+              <p:d />
+            </r>
+            <r
+              uid="{29B80482-A671-447F-BB46-8121D422BD81}">
+              <p:d />
+            </r>
+            <r
+              uid="{97344B92-7C95-4AC5-BA52-015B4E4B60A0}"
+              s:ds="{46703123-2CE7-411C-892D-F7F2235B18B0}" />
+            <r
+              uid="{7FCE1D2B-E077-4A3D-AF80-996014D9B527}">
+              <p:d />
+            </r>
+            <r
+              uid="{E4B5E95B-1967-46AA-A8EB-5EAA3C8A9DBA}"
+              p:after="r[@uid='{97344B92-7C95-4AC5-BA52-015B4E4B60A0}']"
+              s:ds="{1869A6BE-7550-45BE-881F-1881C133713E}"
+              s:id="{339A27F1-D5BB-4D77-8097-C659C900ECE6}"
+              s:ph="main" />
+            <r
+              uid="{B7906B15-B51F-4DDA-9D56-0D4EDD3DF208}"
+              s:ds="{598EF0BF-5B63-49D3-A1F2-CD9B694CB3F2}" />
+            <r
+              uid="{9B9C6914-204E-47B8-ABD6-F2712DC7BB72}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "0ae9d850-5782-4904-b517-9c3efb268b2e"
+      Hint: Body
+      Value: |
+        <p>Listen as two NOV employees share their experience with the phrase "Global Family" and learn how this powerful idea impacts us all.</p>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: A Global Family Story
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>With guests Billie Froggatt, Mark Froggatt, and Kadie Rose</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: A Global Family Story
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190611T204347Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: A Global Family Story
+    - ID: "3dfb53fd-f01c-4297-b35f-2eb6756a17bc"
+      Hint: Quote
+      Value: Together we really are an NOV family; we come together and help one another
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: A Global Family Story
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: A Global Family Story
+    - ID: "79268dbb-e7ff-47be-b022-ead0c45d0cfa"
+      Hint: Guest Names
+      Value: Billie Froggatt, Mark Froggatt, Kadie Rose
+    - ID: "796a825d-4266-4470-96f3-0f8f8692da01"
+      Hint: Quote Name
+      Value: Kadie Rose
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fb51832e-575d-4c2d-9841-e81723238018"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{BA3828AF-5EF2-4318-B72A-AF9B21812EB6}"
+    - ID: "a460cc7f-b024-4434-b13f-00f288a04b7c"
+      Hint: Episode Number
+      Value: 5
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "b0d622b7-156a-4f17-9ce4-4dd213df0302"
+      Hint: Date
+      Value: 20180321T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "bf69c7e1-1928-47e6-b2d7-fa0b551766f5"
+      Hint: Soundcloud Embed Code
+      Value: |
+        <iframe width="100%" height="300" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/416558490&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true" frameborder="no" scrolling="no" allow="autoplay"></iframe>
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: |
+        Listen as two NOV employees share their experience with the phrase "Global Family" and learn how this powerful idea impacts us all.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190611T204347Z
+    - ID: "d22e8671-07eb-4818-a59b-6e88aa494d7b"
+      Hint: Quote Job Title
+      Value: Project Coordinator
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{40A7E75E-1058-41C8-AA01-BE446146ED45}" cropregion="38,0,1920,1079" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190611T204457Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{40A7E75E-1058-41C8-AA01-BE446146ED45}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+    - ID: "f967d171-98a0-477f-8290-ee0c5257a52f"
+      Hint: Podcast Length
+      Value: "13:12"
+  - Version: 7
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{9B4417AB-C22F-4C76-B2DC-98F2FCA8A71E}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{10CEBA25-FC2A-4F84-8760-9B825D4EAF06}"
+              s:ds="{A51B5DF5-1C50-4ED3-8920-C0D347B74D20}" />
+            <r
+              uid="{37DC6908-9973-4BF3-AA1F-616581927F03}">
+              <p:d />
+            </r>
+            <r
+              uid="{A4E84624-91D5-4023-B376-EEF5A58721D5}"
+              p:after="r[@uid='{10CEBA25-FC2A-4F84-8760-9B825D4EAF06}']"
+              s:ds="{15CFD6F4-04F7-40FA-A2C3-B52CCBC562CD}"
+              s:id="{71A65776-7C98-40A6-9511-4C02F045B351}"
+              s:ph="main" />
+            <r
+              uid="{3A4E7139-50CB-4BD5-AB2E-460BC7CE5AAF}">
+              <p:d />
+            </r>
+            <r
+              uid="{29B80482-A671-447F-BB46-8121D422BD81}">
+              <p:d />
+            </r>
+            <r
+              uid="{97344B92-7C95-4AC5-BA52-015B4E4B60A0}"
+              s:ds="{46703123-2CE7-411C-892D-F7F2235B18B0}" />
+            <r
+              uid="{7FCE1D2B-E077-4A3D-AF80-996014D9B527}">
+              <p:d />
+            </r>
+            <r
+              uid="{87154378-2825-4B9B-A40D-FEF758353844}"
+              p:after="r[@uid='{97344B92-7C95-4AC5-BA52-015B4E4B60A0}']"
+              s:ds="{0AB45E12-C5FA-419D-AC63-8CE4AD2A7546}"
+              s:id="{404FE8DE-C601-4E14-8D3D-32F27B41D06D}"
+              s:ph="main" />
+            <r
+              uid="{E4B5E95B-1967-46AA-A8EB-5EAA3C8A9DBA}"
+              p:after="r[@uid='{87154378-2825-4B9B-A40D-FEF758353844}']"
+              s:ds="{1869A6BE-7550-45BE-881F-1881C133713E}"
+              s:id="{339A27F1-D5BB-4D77-8097-C659C900ECE6}"
+              s:ph="main" />
+            <r
+              uid="{B7906B15-B51F-4DDA-9D56-0D4EDD3DF208}"
+              s:ds="{598EF0BF-5B63-49D3-A1F2-CD9B694CB3F2}" />
+            <r
+              uid="{9B9C6914-204E-47B8-ABD6-F2712DC7BB72}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "0ae9d850-5782-4904-b517-9c3efb268b2e"
+      Hint: Body
+      Value: |
+        <p>Listen as two NOV employees share their experience with the phrase "Global Family" and learn how this powerful idea impacts us all.</p>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: A Global Family Story
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>With guests Billie Froggatt, Mark Froggatt, and Kadie Rose</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: A Global Family Story
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190611T211334Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: A Global Family Story
+    - ID: "3dfb53fd-f01c-4297-b35f-2eb6756a17bc"
+      Hint: Quote
+      Value: Together we really are an NOV family; we come together and help one another
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: A Global Family Story
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: A Global Family Story
+    - ID: "79268dbb-e7ff-47be-b022-ead0c45d0cfa"
+      Hint: Guest Names
+      Value: Billie Froggatt, Mark Froggatt, Kadie Rose
+    - ID: "796a825d-4266-4470-96f3-0f8f8692da01"
+      Hint: Quote Name
+      Value: Kadie Rose
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "525a67db-0eeb-4b3a-a0c8-f2cfc21523bc"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{BA3828AF-5EF2-4318-B72A-AF9B21812EB6}"
+    - ID: "a460cc7f-b024-4434-b13f-00f288a04b7c"
+      Hint: Episode Number
+      Value: 5
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "b0d622b7-156a-4f17-9ce4-4dd213df0302"
+      Hint: Date
+      Value: 20180321T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "bf69c7e1-1928-47e6-b2d7-fa0b551766f5"
+      Hint: Soundcloud Embed Code
+      Value: |
+        <iframe width="100%" height="300" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/416558490&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true" frameborder="no" scrolling="no" allow="autoplay"></iframe>
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: |
+        Listen as two NOV employees share their experience with the phrase "Global Family" and learn how this powerful idea impacts us all.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190611T211334Z
+    - ID: "d22e8671-07eb-4818-a59b-6e88aa494d7b"
+      Hint: Quote Job Title
+      Value: Project Coordinator
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{40A7E75E-1058-41C8-AA01-BE446146ED45}" cropregion="38,0,1920,1079" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190628T190144Z
+    - ID: "e002c6d8-8864-4c8d-bf1d-dacfd00fd8c2"
+      Hint: Episode Title
+      Value: A Global Family Story
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{40A7E75E-1058-41C8-AA01-BE446146ED45}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+    - ID: "f967d171-98a0-477f-8290-ee0c5257a52f"
+      Hint: Podcast Length
+      Value: "13:12"
+  - Version: 8
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{9B4417AB-C22F-4C76-B2DC-98F2FCA8A71E}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{10CEBA25-FC2A-4F84-8760-9B825D4EAF06}"
+              s:ds="{A51B5DF5-1C50-4ED3-8920-C0D347B74D20}" />
+            <r
+              uid="{37DC6908-9973-4BF3-AA1F-616581927F03}">
+              <p:d />
+            </r>
+            <r
+              uid="{A4E84624-91D5-4023-B376-EEF5A58721D5}"
+              p:after="r[@uid='{10CEBA25-FC2A-4F84-8760-9B825D4EAF06}']"
+              s:ds="{15CFD6F4-04F7-40FA-A2C3-B52CCBC562CD}"
+              s:id="{71A65776-7C98-40A6-9511-4C02F045B351}"
+              s:ph="main" />
+            <r
+              uid="{3A4E7139-50CB-4BD5-AB2E-460BC7CE5AAF}">
+              <p:d />
+            </r>
+            <r
+              uid="{29B80482-A671-447F-BB46-8121D422BD81}">
+              <p:d />
+            </r>
+            <r
+              uid="{97344B92-7C95-4AC5-BA52-015B4E4B60A0}"
+              s:ds="{46703123-2CE7-411C-892D-F7F2235B18B0}" />
+            <r
+              uid="{7FCE1D2B-E077-4A3D-AF80-996014D9B527}">
+              <p:d />
+            </r>
+            <r
+              uid="{87154378-2825-4B9B-A40D-FEF758353844}"
+              p:after="r[@uid='{97344B92-7C95-4AC5-BA52-015B4E4B60A0}']"
+              s:ds="{0AB45E12-C5FA-419D-AC63-8CE4AD2A7546}"
+              s:id="{404FE8DE-C601-4E14-8D3D-32F27B41D06D}"
+              s:ph="main" />
+            <r
+              uid="{E4B5E95B-1967-46AA-A8EB-5EAA3C8A9DBA}"
+              p:after="r[@uid='{87154378-2825-4B9B-A40D-FEF758353844}']"
+              s:ds="{1869A6BE-7550-45BE-881F-1881C133713E}"
+              s:id="{339A27F1-D5BB-4D77-8097-C659C900ECE6}"
+              s:ph="main" />
+            <r
+              uid="{B7906B15-B51F-4DDA-9D56-0D4EDD3DF208}"
+              s:ds="{598EF0BF-5B63-49D3-A1F2-CD9B694CB3F2}" />
+            <r
+              uid="{9B9C6914-204E-47B8-ABD6-F2712DC7BB72}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "0ae9d850-5782-4904-b517-9c3efb268b2e"
+      Hint: Body
+      Value: |
+        <p>Listen as two NOV employees share their experience with the phrase "Global Family" and learn how this powerful idea impacts us all.</p>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: A Global Family Story
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>With guests Billie Froggatt, Mark Froggatt, and Kadie Rose</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: A Global Family Story
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190702T160249Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: A Global Family Story
+    - ID: "3dfb53fd-f01c-4297-b35f-2eb6756a17bc"
+      Hint: Quote
+      Value: Together we really are an NOV family; we come together and help one another
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: A Global Family Story
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: A Global Family Story
+    - ID: "79268dbb-e7ff-47be-b022-ead0c45d0cfa"
+      Hint: Guest Names
+      Value: Billie Froggatt, Mark Froggatt, Kadie Rose
+    - ID: "796a825d-4266-4470-96f3-0f8f8692da01"
+      Hint: Quote Name
+      Value: Kadie Rose
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ba20c8b4-dbb2-4ba4-b794-46714fe9f72d"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{BA3828AF-5EF2-4318-B72A-AF9B21812EB6}"
+    - ID: "a460cc7f-b024-4434-b13f-00f288a04b7c"
+      Hint: Episode Number
+      Value: 5
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "b0d622b7-156a-4f17-9ce4-4dd213df0302"
+      Hint: Date
+      Value: 20180321T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "bcfd3e35-8ec5-4ba4-b22f-00669ef4d2d5"
+      Hint: Publish Date
+      Value: 20180321T000000Z
+    - ID: "bf69c7e1-1928-47e6-b2d7-fa0b551766f5"
+      Hint: Soundcloud Embed Code
+      Value: |
+        <iframe width="100%" height="300" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/416558490&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true" frameborder="no" scrolling="no" allow="autoplay"></iframe>
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: |
+        Listen as two NOV employees share their experience with the phrase "Global Family" and learn how this powerful idea impacts us all.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190702T160249Z
+    - ID: "d22e8671-07eb-4818-a59b-6e88aa494d7b"
+      Hint: Quote Job Title
+      Value: Project Coordinator
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{40A7E75E-1058-41C8-AA01-BE446146ED45}" cropregion="38,0,1920,1079" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190708T205005Z
+    - ID: "e002c6d8-8864-4c8d-bf1d-dacfd00fd8c2"
+      Hint: Episode Title
+      Value: A Global Family Story
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{40A7E75E-1058-41C8-AA01-BE446146ED45}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+    - ID: "f967d171-98a0-477f-8290-ee0c5257a52f"
+      Hint: Podcast Length
+      Value: "13:12"
+  - Version: 9
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{9B4417AB-C22F-4C76-B2DC-98F2FCA8A71E}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{10CEBA25-FC2A-4F84-8760-9B825D4EAF06}"
+              s:ds="{A51B5DF5-1C50-4ED3-8920-C0D347B74D20}" />
+            <r
+              uid="{37DC6908-9973-4BF3-AA1F-616581927F03}">
+              <p:d />
+            </r>
+            <r
+              uid="{A4E84624-91D5-4023-B376-EEF5A58721D5}"
+              p:after="r[@uid='{10CEBA25-FC2A-4F84-8760-9B825D4EAF06}']"
+              s:ds="{15CFD6F4-04F7-40FA-A2C3-B52CCBC562CD}"
+              s:id="{71A65776-7C98-40A6-9511-4C02F045B351}"
+              s:ph="main" />
+            <r
+              uid="{3A4E7139-50CB-4BD5-AB2E-460BC7CE5AAF}">
+              <p:d />
+            </r>
+            <r
+              uid="{29B80482-A671-447F-BB46-8121D422BD81}">
+              <p:d />
+            </r>
+            <r
+              uid="{97344B92-7C95-4AC5-BA52-015B4E4B60A0}"
+              s:ds="{46703123-2CE7-411C-892D-F7F2235B18B0}" />
+            <r
+              uid="{7FCE1D2B-E077-4A3D-AF80-996014D9B527}">
+              <p:d />
+            </r>
+            <r
+              uid="{87154378-2825-4B9B-A40D-FEF758353844}"
+              p:after="r[@uid='{97344B92-7C95-4AC5-BA52-015B4E4B60A0}']"
+              s:ds="{0AB45E12-C5FA-419D-AC63-8CE4AD2A7546}"
+              s:id="{404FE8DE-C601-4E14-8D3D-32F27B41D06D}"
+              s:ph="main" />
+            <r
+              uid="{E4B5E95B-1967-46AA-A8EB-5EAA3C8A9DBA}"
+              p:after="r[@uid='{87154378-2825-4B9B-A40D-FEF758353844}']"
+              s:ds="{1869A6BE-7550-45BE-881F-1881C133713E}"
+              s:id="{339A27F1-D5BB-4D77-8097-C659C900ECE6}"
+              s:ph="main" />
+            <r
+              uid="{B7906B15-B51F-4DDA-9D56-0D4EDD3DF208}"
+              s:ds="{598EF0BF-5B63-49D3-A1F2-CD9B694CB3F2}" />
+            <r
+              uid="{9B9C6914-204E-47B8-ABD6-F2712DC7BB72}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "0ae9d850-5782-4904-b517-9c3efb268b2e"
+      Hint: Body
+      Value: |
+        <p>Listen as two NOV employees share their experience with the phrase "Global Family" and learn how this powerful idea impacts us all.</p>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: A Global Family Story
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>With guests Billie Froggatt, Mark Froggatt, and Kadie Rose</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: A Global Family Story
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190715T202121Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: A Global Family Story
+    - ID: "3dfb53fd-f01c-4297-b35f-2eb6756a17bc"
+      Hint: Quote
+      Value: Together we really are an NOV family; we come together and help one another
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: A Global Family Story
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\melissapastrano
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: A Global Family Story
+    - ID: "79268dbb-e7ff-47be-b022-ead0c45d0cfa"
+      Hint: Guest Names
+      Value: Billie Froggatt, Mark Froggatt, Kadie Rose
+    - ID: "796a825d-4266-4470-96f3-0f8f8692da01"
+      Hint: Quote Name
+      Value: Kadie Rose
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1b89a640-ab87-4f0e-a133-a46b343e5906"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{BA3828AF-5EF2-4318-B72A-AF9B21812EB6}"
+    - ID: "a460cc7f-b024-4434-b13f-00f288a04b7c"
+      Hint: Episode Number
+      Value: 5
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "b0d622b7-156a-4f17-9ce4-4dd213df0302"
+      Hint: Date
+      Value: 20180321T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\melissapastrano
+    - ID: "bcfd3e35-8ec5-4ba4-b22f-00669ef4d2d5"
+      Hint: Publish Date
+      Value: 20180321T000000Z
+    - ID: "bf69c7e1-1928-47e6-b2d7-fa0b551766f5"
+      Hint: Soundcloud Embed Code
+      Value: |
+        <iframe width="100%" height="300" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/416558490&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true" frameborder="no" scrolling="no" allow="autoplay"></iframe>
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: |
+        Listen as two NOV employees share their experience with the phrase "Global Family" and learn how this powerful idea impacts us all.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190715T202121Z
+    - ID: "d22e8671-07eb-4818-a59b-6e88aa494d7b"
+      Hint: Quote Job Title
+      Value: Project Coordinator
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{40A7E75E-1058-41C8-AA01-BE446146ED45}" cropregion="38,0,1920,1079" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190715T204324Z
+    - ID: "e002c6d8-8864-4c8d-bf1d-dacfd00fd8c2"
+      Hint: Episode Title
+      Value: A Global Family Story
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{40A7E75E-1058-41C8-AA01-BE446146ED45}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+    - ID: "f967d171-98a0-477f-8290-ee0c5257a52f"
+      Hint: Podcast Length
+      Value: "13:12"
+  - Version: 10
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{9B4417AB-C22F-4C76-B2DC-98F2FCA8A71E}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{10CEBA25-FC2A-4F84-8760-9B825D4EAF06}"
+              s:ds="{A51B5DF5-1C50-4ED3-8920-C0D347B74D20}" />
+            <r
+              uid="{37DC6908-9973-4BF3-AA1F-616581927F03}">
+              <p:d />
+            </r>
+            <r
+              uid="{A4E84624-91D5-4023-B376-EEF5A58721D5}"
+              p:after="r[@uid='{10CEBA25-FC2A-4F84-8760-9B825D4EAF06}']"
+              s:ds="{15CFD6F4-04F7-40FA-A2C3-B52CCBC562CD}"
+              s:id="{71A65776-7C98-40A6-9511-4C02F045B351}"
+              s:ph="main" />
+            <r
+              uid="{3A4E7139-50CB-4BD5-AB2E-460BC7CE5AAF}">
+              <p:d />
+            </r>
+            <r
+              uid="{29B80482-A671-447F-BB46-8121D422BD81}">
+              <p:d />
+            </r>
+            <r
+              uid="{97344B92-7C95-4AC5-BA52-015B4E4B60A0}"
+              s:ds="{46703123-2CE7-411C-892D-F7F2235B18B0}" />
+            <r
+              uid="{7FCE1D2B-E077-4A3D-AF80-996014D9B527}">
+              <p:d />
+            </r>
+            <r
+              uid="{87154378-2825-4B9B-A40D-FEF758353844}"
+              p:after="r[@uid='{97344B92-7C95-4AC5-BA52-015B4E4B60A0}']"
+              s:ds="{0AB45E12-C5FA-419D-AC63-8CE4AD2A7546}"
+              s:id="{404FE8DE-C601-4E14-8D3D-32F27B41D06D}"
+              s:ph="main" />
+            <r
+              uid="{E4B5E95B-1967-46AA-A8EB-5EAA3C8A9DBA}"
+              p:after="r[@uid='{87154378-2825-4B9B-A40D-FEF758353844}']"
+              s:ds="{1869A6BE-7550-45BE-881F-1881C133713E}"
+              s:id="{339A27F1-D5BB-4D77-8097-C659C900ECE6}"
+              s:ph="main" />
+            <r
+              uid="{B7906B15-B51F-4DDA-9D56-0D4EDD3DF208}"
+              s:ds="{598EF0BF-5B63-49D3-A1F2-CD9B694CB3F2}" />
+            <r
+              uid="{9B9C6914-204E-47B8-ABD6-F2712DC7BB72}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "0ae9d850-5782-4904-b517-9c3efb268b2e"
+      Hint: Body
+      Value: |
+        <p>Listen as two NOV employees share their experience with the phrase "Global Family" and learn how this powerful idea impacts us all.</p>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: A Global Family Story
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>With guests Billie Froggatt, Mark Froggatt, and Kadie Rose</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: A Global Family Story
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190715T205152Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: A Global Family Story
+    - ID: "3dfb53fd-f01c-4297-b35f-2eb6756a17bc"
+      Hint: Quote
+      Value: Together we really are an NOV family; we come together and help one another
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: A Global Family Story
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\melissapastrano
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: A Global Family Story
+    - ID: "79268dbb-e7ff-47be-b022-ead0c45d0cfa"
+      Hint: Guest Names
+      Value: Billie Froggatt, Mark Froggatt, Kadie Rose
+    - ID: "796a825d-4266-4470-96f3-0f8f8692da01"
+      Hint: Quote Name
+      Value: Kadie Rose
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cbf8a7af-cb16-48e9-9abc-b7427bfa6b2c"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{BA3828AF-5EF2-4318-B72A-AF9B21812EB6}"
+    - ID: "a460cc7f-b024-4434-b13f-00f288a04b7c"
+      Hint: Episode Number
+      Value: 5
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "b0d622b7-156a-4f17-9ce4-4dd213df0302"
+      Hint: Date
+      Value: 20180321T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\melissapastrano
+    - ID: "bcfd3e35-8ec5-4ba4-b22f-00669ef4d2d5"
+      Hint: Publish Date
+      Value: 20180321T000000Z
+    - ID: "bf69c7e1-1928-47e6-b2d7-fa0b551766f5"
+      Hint: Soundcloud Embed Code
+      Value: |
+        <iframe width="100%" height="300" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/416558490&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true" frameborder="no" scrolling="no" allow="autoplay"></iframe>
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: |
+        Listen as two NOV employees share their experience with the phrase "Global Family" and learn how this powerful idea impacts us all.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190715T205152Z
+    - ID: "d22e8671-07eb-4818-a59b-6e88aa494d7b"
+      Hint: Quote Job Title
+      Value: Project Coordinator
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{40A7E75E-1058-41C8-AA01-BE446146ED45}" cropregion="38,0,1920,1079" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190715T205504Z
+    - ID: "e002c6d8-8864-4c8d-bf1d-dacfd00fd8c2"
+      Hint: Episode Title
+      Value: A Global Family Story
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{40A7E75E-1058-41C8-AA01-BE446146ED45}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+    - ID: "f967d171-98a0-477f-8290-ee0c5257a52f"
+      Hint: Podcast Length
+      Value: "13:12"
