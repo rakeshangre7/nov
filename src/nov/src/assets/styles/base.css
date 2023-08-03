@@ -1,15 +1,20 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@import './fonts.css';
 
 @layer base {
+
+
   html {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
   }
 
+
+
   body {
-    @apply font-sans;
+    @apply font-primary;
     @apply text-base;
     @apply text-black;
   }
@@ -34,17 +39,6 @@
   }
 }
 
-@media (prefers-color-scheme: dark) {
-  body:not(.light) {
-    @apply text-gray;
-
-    background-color: #1b1c1d;
-  }
-}
-@media (prefers-color-scheme: light) {
-  body.dark {
-    @apply text-gray;
-
-    background-color: #1b1c1d;
-  }
+.container {
+  @apply xl:max-w-[1170px] lg:max-w-[970px];
 }

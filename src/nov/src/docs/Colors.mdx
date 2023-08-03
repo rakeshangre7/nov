@@ -5,30 +5,24 @@ import { ColorPalette, ColorItem } from '@storybook/blocks';
 This library is supported by an extensive color system that themes both styles and components. This enables more comprehensive customization and extension for any project.
 
 <ColorPalette>
-  <ColorItem title="Primary" subtitle="" colors={{ Turquoise: '#7FC3BA' }} />
+  <ColorItem title="Primary" subtitle="" colors={{ NOVRed: '#DA291C' }} />
   <ColorItem title="White" subtitle="" colors={{ White: '#FFFFFF' }} />
   <ColorItem
     title="Gray"
     subtitle=""
-    colors={{ Light: '#d8d8d8', Default: '#9e9e9e', Dark: '#393738' }}
+    colors={{
+      Darkest: '#353535',
+      Dark: '#707070',
+      NOV: '#75787b',
+      DEFAULT: '#B2B2B2',
+      Light: '#F1F1F1',
+      Lightest: '#F8F8F8',
+    }}
   />
   <ColorItem
-    title="Rose"
+    title="RED"
     subtitle=""
-    colors={{ Default: '#F8AA97', Dark: '#D79181' }}
+    colors={{ DEFAULT: '#DA291C', Light: '#ED3124', Dark: '#BA291C' }}
   />
-  <ColorItem title="Salmon" subtitle="" colors={{ Salmon: '#F58466' }} />
-  <ColorItem title="Beige" subtitle="" colors={{ Beige: '#F0EFE7' }} />
-  <ColorItem
-    title="Turquoise"
-    subtitle=""
-    colors={{ Default: '#7FC3BA', Dark: '#6BA69E', Black: '#497978' }}
-  />
-  <ColorItem title="Green" subtitle="" colors={{ Green: '#2F4E40' }} />
-  <ColorItem title="Black" subtitle="" colors={{ Black: '#2F2D2E' }} />
-  <ColorItem
-    title="Errors"
-    subtitle=""
-    colors={{ White: '#E02020', Black: '#FF5E5E' }}
-  />
+
 </ColorPalette>
