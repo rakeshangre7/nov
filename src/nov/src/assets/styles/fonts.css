@@ -77,3 +77,10 @@
     src: url('../fonts/source-sans-pro/WOFF2/SourceSansPro-BoldIt.ttf.woff2') format('woff2'),
         url('../fonts/source-sans-pro/WOFF/SourceSansPro-BoldIt.otf.woff') format('woff');
 }
+
+@font-face {
+    font-family: 'icomoon';
+    src: url('../../../public/fonts/Icon.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
