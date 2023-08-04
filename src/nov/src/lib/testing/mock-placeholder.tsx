@@ -45,7 +45,6 @@ export const getSampleRenderingContext = (
     displayName: 'Foo',
     placeholders: {},
   };
-
   const placeholders = Array.isArray(placeholderNames) ? placeholderNames : [placeholderNames];
   placeholders.forEach((placeholder: string) => {
     context.placeholders[placeholder] = placeholderContent;

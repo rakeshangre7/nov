@@ -1,11 +1,9 @@
 // Global
-import { IconProp } from '@fortawesome/fontawesome-svg-core';
 import clsx from 'clsx';
 import React, { MouseEventHandler, ReactElement, Ref, useEffect, useState } from 'react';
 import { tv } from 'tailwind-variants';
 
 // Local
-import FontAwesomeIcon from 'components/helpers/FontAwesomeIcon/FontAwesomeIcon';
 import useFeatureFlags from 'components/hooks/useFeatureFlags';
 
 export const BUTTON_TYPES = [
@@ -106,8 +104,8 @@ const buttonVariants = tv({
 const Button = ({
   auto = false,
   disabled = false,
-  iconLeft,
-  iconRight,
+  // iconLeft,
+  // iconRight,
   id,
   label,
   loading = false,
@@ -117,7 +115,8 @@ const Button = ({
   title,
   type = 'default',
 }: ButtonProps): ReactElement => {
-  const [showIcons, setShowIcons] = useState<boolean | undefined>(true);
+  // const [showIcons, setShowIcons] = useState<boolean | undefined>(true);
+  const [, setShowIcons] = useState<boolean | undefined>(true);
 
   const { getFeatureFlag } = useFeatureFlags();
 
@@ -127,10 +126,11 @@ const Button = ({
   const children = (
     <>
       <div className={text()}>
-        {showIcons && iconLeft && <FontAwesomeIcon icon={iconLeft as IconProp} />}
-        {showIcons && loading && <FontAwesomeIcon icon={'spinner'} spinPulse />}
+        {/* TODO: currently removing this as it is unnecessary and will be added as per styleguide */}
+        {/* {showIcons && iconLeft && <FontAwesomeIcon icon={iconLeft as IconProp} />}
+        {showIcons && loading && <FontAwesomeIcon icon={'spinner'} spinPulse />} */}
         {label && !loading && label}
-        {showIcons && iconRight && <FontAwesomeIcon icon={iconRight as IconProp} />}
+        {/* {showIcons && iconRight && <FontAwesomeIcon icon={iconRight as IconProp} />} */}
       </div>
     </>
   );
