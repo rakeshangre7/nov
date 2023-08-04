@@ -17,6 +17,7 @@ module.exports = {
     },
     fontFamily: {
       primary: ['Source Sans Pro', 'sans-serif'],
+      icomoon: ['icomoon'],
     },
     borderWidth: {
       //Done

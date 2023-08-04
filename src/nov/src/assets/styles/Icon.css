@@ -1,28 +1,3 @@
-/**
-* SVG Icon fonts - icomoon.io
-* Use assets/fonts/selection.json file to import set to make changes.
-*/
-
-@font-face {
-  font-family: 'icomoon';
-  src: url('../../../public/fonts/Icon.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
-}
-
-i,
-.icon {
-  /* TODO: Add this to dynamic way */
-  font-family: 'icomoon' !important;
-  font-style: normal;
-  font-weight: normal;
-  font-variant: normal;
-  text-transform: none;
-  line-height: 1;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
 .icon-play-outline:before {
   content: '\e91d';
 }

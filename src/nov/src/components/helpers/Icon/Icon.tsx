@@ -5,7 +5,14 @@ export type IconProps = {
 };
 
 const Icon = (props: IconProps) => {
-  return <i className={props.className + ' text-[40px]'}></i>;
+  return (
+    <i
+      className={
+        'font-icomoon not-italic font-normal normal-case leading-none antialiased ' +
+        props.className
+      }
+    ></i>
+  );
 };
 
 export default Icon;
