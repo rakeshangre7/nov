@@ -8,8 +8,8 @@ const Icon = (props: IconProps) => {
   return (
     <i
       className={
-        props.className +
-        ' font-icomoon not-italic font-normal normal-case leading-none antialiased'
+        'font-icomoon not-italic font-normal normal-case leading-none antialiased ' +
+        props.className
       }
     ></i>
   );
