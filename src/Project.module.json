@@ -49,6 +49,11 @@
         "path": "/sitecore/system/Languages/en-US",
         "allowedPushOperations": "CreateAndUpdate",
         "scope": "SingleItem"
+      },
+	  {
+		"name": "Content Resolvers",
+		"path": "/sitecore/system/Modules/Layout Service/Rendering Contents Resolvers/Custom Contents Resolvers",
+		"allowedPushOperations": "CreateAndUpdate"
       }
     ]
   }

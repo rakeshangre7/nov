@@ -9,151 +9,16 @@ SharedFields:
   Value: Header
 - ID: "17bb046a-a32a-41b3-8315-81217947611b"
   Hint: ComponentQuery
-  Value: |
-    fragment standardPageFields on StandardPage {
-      name
-      id
-      title {
-        jsonValue
-      }
-      cardImage {
-        ... on ImageField {
-          alt
-          src
-        }
-      }
-      cardImageCropRegion {
-        value
-      }
-      pageImage {
-        ... on ImageField {
-          alt
-          src
-        }
-      }
-      pageImageCropRegion {
-        value
-      }
-      hideInNavigation {
-        value
-      }
-      hideInFooterNavigation {
-        value
-      }
-      hideSecondaryNavigation {
-        value
-      }
-      submenuText {
-        value
-      }
-      headline {
-        value
-      }
-      template {
-        id
-      }
-    }
-    
-    fragment homeRootFields on HomeRoot {
-      searchLabel {
-        value
-      }
-      searchSuggestionsLabel {
-        value
-      }
-      searchPlaceholder {
-        value
-      }
-      productsAndServicesLabel {
-        value
-      }
-      menuLabel {
-        value
-      }
-      featuredStoryHeadline {
-        value
-      }
-      featuredStoryAbstract {
-        value
-      }
-      featuredStoryCTAText {
-        value
-      }
-      labelReadMore {
-        value
-      }
-      cardImage {
-        ... on ImageField {
-          alt
-          src
-        }
-      }
-      portalHeader {
-        value
-      }
-      portalDescription {
-        value
-      }
-      portalRegisterUrl {
-        ... on LinkField {
-          url
-          text
-        }
-      }
-      nOVPortalLogin {
-        ... on LinkField {
-          url
-          text
-        }
-      }
-      labelViewAll {
-        value
-      }
-      featuredStorySubItemLink {
-        ... on LinkField {
-          url
-          target
-        }
-      }
-    }
-    
-    query {
-      layout(site: "nov", routePath: "/", language: "en") {
-        item {
-          name
-          ... on HomeRoot {
-            ...homeRootFields
-          }
-          ... on StandardPage {
-            ...standardPageFields
-          }
-          children(hasLayout: true, includeTemplateIDs: "{559ADBC8-D9CA-436B-BA12-4019404BBE11}") {
-            results {
-              name
-              ... on StandardPage {
-                ...standardPageFields
-              }
-              
-              children(hasLayout: true, includeTemplateIDs: "{559ADBC8-D9CA-436B-BA12-4019404BBE11}") {
-                results {
-                  name
-                  ... on StandardPage {
-                    ...standardPageFields
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-    
+  Value: 
 - ID: "3d08db46-2267-41b0-bc52-be69fd618633"
   Hint: Cacheable
   Value: 1
 - ID: "8b6d532b-6128-4486-a044-ca06d90948ba"
   Hint: VaryByData
   Value: 1
+- ID: "b0b15510-b138-470e-8f33-8da2e228aafe"
+  Hint: Rendering Contents Resolver
+  Value: "{2125D8F6-7CA4-4D5E-B0D3-6B16332ECC8D}"
 Languages:
 - Language: en
   Versions:
@@ -172,14 +37,14 @@ Languages:
         sitecore\varalakshmi.md@horizontal.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "941e91d6-719d-4423-b47d-9fb989eb8ac1"
+      Value: "63e6d9e1-1cb0-4af6-8aa5-01269f0dd9d0"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\rangre@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230724T072424Z
+      Value: 20230807T074642Z
 - Language: "en-US"
   Versions:
   - Version: 1

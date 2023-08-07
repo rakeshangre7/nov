@@ -11,7 +11,7 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{0F3790F1-581D-4974-B77E-F2356F9AB89D}" />
+    <image mediaid="{77C1F641-9767-4FEA-9F25-1A7FD2CD8B2A}" />
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -21,21 +21,10 @@ SharedFields:
         id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
         s:l="{40C0E7ED-9887-49E1-8E89-43D16DD2AD6C}">
         <r
-          uid="{B46B6D8A-1008-4F40-B423-BA09226D5D15}"
-          p:before="*"
-          s:ds="local:/Data/Title"
-          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
-          s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D%7C%7B81225C08-5783-4BED-A86A-AB2B87198885%7D&amp;FieldNames=%7B0DDB035F-CAA7-4DCC-8C68-C6898B4C68AF%7D&amp;Styles=%7B4616D6A7-179C-4966-9EE3-2834EA30B178%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
-          s:ph="header"
-          s:ccb="Clear on publish" />
-        <r
-          uid="{5B9B30E4-4C9B-4FF6-B161-031765CC2538}"
-          p:after="*[1=2]"
-          s:ds=""
-          s:id="{1DEB067F-0BB1-405E-94F5-2ABB537A6160}"
-          s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B9D9E7EBC-D7F4-4437-A7E4-65BED9B03D09%7D&amp;Styles=%7BC8470D38-BFFF-4E6E-95CC-F1A9185FF77E%7D%7C%7BB89687A9-4002-457B-A4F9-37F8076183C0%7D&amp;NavigationRoot=%7B447B01DE-B691-4983-B4A7-1E03DFF32250%7D&amp;LevelFrom=%7B1BB88840-5FB3-4353-AD8D-81136F6FF75A%7D&amp;LevelTo=%7B1BB88840-5FB3-4353-AD8D-81136F6FF75A%7D&amp;Filter&amp;Flattened&amp;AddRoot=1&amp;SerializerFieldNames&amp;RenderingIdentifier&amp;CSSStyles"
-          s:ph="header"
-          s:ccb="Clear on publish" />
+          uid="{A7064BAF-4C61-4CF3-90C2-1343F43A860E}"
+          s:id="{E25CAD36-E56D-42BB-875E-9E0616DC471D}"
+          s:par="CacheClearingBehavior=Clear%20on%20publish&amp;CSSStyles"
+          s:ph="header" />
       </d>
     </r>
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
@@ -59,11 +48,11 @@ Languages:
         sitecore\varalakshmi.md@horizontal.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "e862c95c-d6a6-420f-9290-2e644173da33"
+      Value: "b0b660c0-fee5-4976-b326-a69ca5b4433f"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\varalakshmi.md@horizontal.com
+        sitecore\rangre@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230713T113536Z
+      Value: 20230807T075139Z

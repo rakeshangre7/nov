@@ -13,6 +13,9 @@ SharedFields:
 - ID: "a2f5d9df-8cba-4a1d-99eb-51acb94cb057"
   Hint: Page Editor Buttons
   Value: "{AE690388-6352-4FB0-834A-291E301A912A}"
+- ID: "b0b15510-b138-470e-8f33-8da2e228aafe"
+  Hint: Rendering Contents Resolver
+  Value: "{84D341EC-5E84-4D29-A4E4-B8F3FCACFD90}"
 - ID: "b5b27af1-25ef-405c-87ce-369b3a004016"
   Hint: Datasource Location
   Value: "query:./ancestor::*[@@templateid='{27F15A8D-52B6-4041-8CCE-3BF06E779396}']/*[@@templateid='{F01F683A-767B-4AC4-8EBC-04B38472A649}']"
@@ -45,14 +48,14 @@ Languages:
         sitecore\ashwin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "5bd26fa4-eb64-4b4d-aab0-7421a82ec7d5"
+      Value: "3b3e5d73-1429-49f9-b7e5-64177a1f10b0"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\varalakshmi.md@horizontal.com
+        sitecore\rangre@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230710T153536Z
+      Value: 20230807T074711Z
 - Language: "en-US"
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
