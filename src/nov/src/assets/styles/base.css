@@ -16,7 +16,7 @@
   body {
     @apply font-primary;
     @apply text-base;
-    @apply text-black;
+    @apply text-gray-dark;
   }
 
   /*
@@ -40,5 +40,5 @@
 }
 
 .container {
-  @apply xl:max-w-[1170px] lg:max-w-[970px];
+  @apply xl:max-w-nxl lg:max-w-nlg;
 }

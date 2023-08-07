@@ -93,6 +93,10 @@ module.exports = {
     container: {
       padding: '25px',
     },
+    maxWidth: {
+      nxl: '1170px',
+      nlg: '970px',
+    },
     spacing: {
       xxl: '7.5rem',
       xl: '5rem',

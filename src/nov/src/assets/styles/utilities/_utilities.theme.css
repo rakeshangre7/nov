@@ -1,0 +1,5 @@
+.theme-default {
+  --theme-bg: theme('colors.white');
+  --theme-heading-text: theme('colors.black');
+  --theme-text: theme('colors.gray.darkest');
+}
