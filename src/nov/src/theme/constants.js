@@ -1,11 +1,15 @@
 module.exports = {
+  // Theming
+  'theme-bg': 'var(--theme-bg)',
+  'theme-heading-text': 'var(--theme-heading-text)',
+  'theme-text': 'var(--theme-text)',
+
   black: '#000000',
   currentColor: 'currentColor',
   error: {
     dark: '#e02020',
     light: '#ff5e5e',
   },
-  test1: '#DA291C',
   red: {
     DEFAULT: '#DA291C',
     dark: '#BA291C',
