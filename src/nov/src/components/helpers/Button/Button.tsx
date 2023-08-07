@@ -1,155 +1,195 @@
 // Global
+import { Link, LinkProps, LinkField } from '@sitecore-jss/sitecore-jss-nextjs';
 import clsx from 'clsx';
-import React, { MouseEventHandler, ReactElement, Ref, useEffect, useState } from 'react';
+import Icon from '../Icon/Icon';
 import { tv } from 'tailwind-variants';
 
-// Local
-import useFeatureFlags from 'components/hooks/useFeatureFlags';
+import useExperienceEditor from 'lib/use-experience-editor';
 
-export const BUTTON_TYPES = [
-  'default',
-  'secondary',
-  'abort',
-  'errorblack',
-  'errorwhite',
-  'success',
-  'warning',
-  'foobar',
-  undefined,
-];
+import { MouseEventHandler, Ref } from 'react';
 
-interface Props {
+export interface ButtonProps extends React.HTMLAttributes<HTMLElement> {
   auto?: boolean;
   disabled?: boolean;
-  iconLeft?: string;
-  iconRight?: string;
-  id?: string;
-  label?: string;
-  loading?: boolean;
+  iconPosition?: string;
+  iconFullWidth?: boolean;
   onClick?: MouseEventHandler;
   ref?: Ref<HTMLButtonElement | null>;
-  tag?: string;
-  title?: string;
-  type: string;
+  variant: string;
+  field: LinkField;
+  className?: string;
+  iconClassName?: string;
+  text?: string;
 }
-
-type NativeAttrs = Omit<React.ButtonHTMLAttributes<undefined>, keyof Props>;
-
-type Variants =
-  | 'default'
-  | 'secondary'
-  | 'errorblack'
-  | 'errorwhite'
-  | 'success'
-  | 'warning'
-  | undefined;
-
-export type ButtonProps = Props & NativeAttrs;
-
-const buttonSlots = tv({
-  slots: {
-    text: clsx(
-      'gap-4',
-      'h-10',
-      'inline-flex',
-      'items-center',
-      'justify-center',
-      'leading-10',
-      'relative',
-      '-top-px'
-    ),
-  },
-});
-
 const buttonVariants = tv({
-  base: clsx(
-    'disabled:bg-gray-light',
-    'disabled:cursor-not-allowed',
-    'disabled:text-gray',
-    'enabled:duration-150',
-    'enabled:transition',
-    'hover:ease-in',
-    'h-10',
-    'inline-block',
-    'leading-10',
-    'py-0',
-    'px-4',
-    'rounded-md',
-    'text-center',
-    'whitespace-nowrap'
-  ),
-  defaultVariants: {
-    type: 'default',
-  },
   variants: {
-    type: {
-      default: clsx(
+    default: {
+      button: clsx(
+        'font-primary',
+        'font-semibold',
+        'items-center',
+        'flex',
+        'min-h-[46px]',
+        'rounded-none',
+        'leading-[16px]',
+        'transition',
+        'ease-in-out',
+        'delay-15',
+        'px-[30px]',
+        'text-[16px]',
+        'justify-center',
+        'py-[15px]',
+        'text-white',
+        'no-underline',
         'bg-primary',
-        'hover:text-theme-btn-primary-text/50',
-        'text-theme-btn-primary-text'
+        'cursor-pointer',
+        'hover:bg-red-dark',
+        'focus:outline-dotted',
+        'focus:outline-2',
+        'focus:outline-secondary'
       ),
-      secondary: clsx('bg-rose-dark', 'hover:text-white/50', 'text-white'),
-      abort: clsx('bg-salmon'),
-      errorblack: clsx('bg-error-black', 'hover:text-white/50', 'text-white'),
-      errorwhite: clsx('bg-error-white', 'hover:text-white/50', 'text-white'),
-      success: clsx('bg-beige', 'hover:text-black/50', 'text-black'),
-      warning: clsx('bg-orange', 'hover:text-white/50', 'text-white'),
+      primary: clsx(
+        'flex font-primary w-fit cursor-pointer before:bg-primary hover:before:w-full text-black active:before:w-full active:before:bg-red-dark focus:outline-dotted focus:outline-2	focus:outline-secondary w-fit relative font-lightbold leading-[16px] items-center text-[16px] transition-width ease-in-out duration-100 before:transition-width before:ease-in-out before:duration-100 pt-[5px] pb-[8px]  before:absolute before:bottom-[0] before:left-0 before:w-[40px] before:h-[3px] before:content-[""]'
+      ),
+      primaryWithWhiteText: clsx(
+        'flex font-primary w-fit cursor-pointer before:bg-primary hover:before:w-full text-white active:before:w-full active:before:bg-red-dark focus:outline-dotted focus:outline-2	focus:outline-secondary w-fit relative font-lightbold leading-[16px] items-center text-[16px] transition-width ease-in-out duration-100 before:transition-width before:ease-in-out before:duration-100 pt-[5px] pb-[8px]  before:absolute before:bottom-[0] before:left-0 before:w-[40px] before:h-[3px] before:content-[""]'
+      ),
+      secondary: clsx(
+        'flex font-primary w-fit justify-between relative font-semibold leading-[14px] items-center text-[14px] transition-width ease-in-out duration-100 cursor-pointer hover:text-primary active:text-primary focus:outline-dotted focus:outline-2	focus:outline-secondary'
+      ),
+      secondaryWithRedArrow: clsx(
+        'flex font-primary w-fit justify-between relative font-lightbold leading-[16px] items-center text-[16px] transition-width ease-in-out duration-100 cursor-pointer hover:text-gray-lighter active:text-primary focus:outline-dotted focus:outline-2	focus:outline-secondary'
+      ),
+      base: clsx(
+        'flex font-lightbold  leading-[24px] items-center text-[14px] transition-width ease-in-out duration-100 cursor-pointer text-gray-dark hover:underline focus:outline-dotted focus:outline-2	focus:outline-secondary'
+      ),
     },
-    minWidth: {
-      true: clsx('min-w-[10rem]'),
+    iconLeft: {
+      button: clsx('mr-[4px] text-[16px]'),
+      primary: clsx('mr-[4px] text-[16px]'),
+      primaryWithWhiteText: clsx('mr-[4px] text-[16px]'),
+      secondary: clsx('mr-[4px] text-[16px]'),
+      secondaryWithRedArrow: clsx('mr-[4px] text-[16px] font-semibold text-primary'),
+      base: clsx('pr-[4px] text-[16px]'),
+    },
+    iconRight: {
+      button: clsx('ml-[4px] text-[16px]'),
+      primary: clsx('ml-[4px] text-[16px]'),
+      primaryWithWhiteText: clsx('ml-[4px] text-[16px]'),
+      secondary: clsx('ml-[4px] text-[16px]'),
+      secondaryWithRedArrow: clsx('ml-[4px] text-[16px] font-semibold text-primary'),
+      base: clsx('pl-[4px] text-[16px]'),
     },
   },
+  compoundVariants: [
+    {
+      default: 'button',
+      disabled: true,
+      className: clsx(
+        '!bg-gray',
+        '!hover:bg-gray',
+        'focus:outline-none',
+        'focus:shadow-none',
+        'pointer-events-none'
+      ),
+    },
+    {
+      default: 'primary',
+      disabled: true,
+      className: clsx(
+        'pointer-events-none text-gray before:w-full before:bg-gray focus:outline-none focus:shadow-none'
+      ),
+    },
+    {
+      default: 'primaryWithWhiteText',
+      disabled: true,
+      className: clsx(
+        'pointer-events-none text-gray before:w-full before:bg-gray focus:outline-none focus:shadow-none'
+      ),
+    },
+    {
+      default: 'secondary',
+      disabled: true,
+      className: clsx('pointer-events-none text-gray focus:outline-none focus:shadow-none'),
+    },
+    {
+      default: 'secondaryWithRedArrow',
+      disabled: true,
+      className: clsx(
+        'pointer-events-none text-gray focus:outline-none focus:shadow-none [&_i]:text-gray'
+      ),
+    },
+    {
+      default: 'base',
+      disabled: true,
+      className: clsx('pointer-events-none text-gray focus:outline-none focus:shadow-none'),
+    },
+  ],
 });
 
 const Button = ({
-  auto = false,
-  disabled = false,
-  // iconLeft,
-  // iconRight,
-  id,
-  label,
-  loading = false,
+  auto = true,
+  iconFullWidth = false,
+  disabled,
+  iconPosition,
+  text,
+  field,
   onClick = (): void => undefined,
   ref,
-  tag = 'button',
-  title,
-  type = 'default',
-}: ButtonProps): ReactElement => {
-  // const [showIcons, setShowIcons] = useState<boolean | undefined>(true);
-  const [, setShowIcons] = useState<boolean | undefined>(true);
+  className,
+  iconClassName,
+  variant = 'base',
+  ...props
+}: ButtonProps): JSX.Element => {
+  const isEE = useExperienceEditor();
+  if (field && !field?.value) {
+    console.warn('button field is not expected type', field);
+    return <></>;
+  }
+  if (isEE) {
+    return (
+      <Link
+        field={field}
+        onClick={onClick}
+        className={clsx(buttonVariants({ default: variant, disabled: disabled }), className, {
+          'w-fit': auto,
+          'w-full': !auto && variant != 'primary' && variant != 'primaryWithWhiteText',
+          'justify-between': !auto && iconFullWidth,
+        })}
+        {...(disabled && { disabled: disabled })}
+        {...props}
+      >
+        {iconPosition === 'left' && (
+          <Icon className={clsx(buttonVariants({ iconLeft: variant }), iconClassName)} />
+        )}
+        <span>{text}</span>
+        {iconPosition === 'right' && (
+          <Icon className={clsx(buttonVariants({ iconRight: variant }), iconClassName)} />
+        )}
+      </Link>
+    );
+  }
 
-  const { getFeatureFlag } = useFeatureFlags();
-
-  const { text } = buttonSlots();
-  const className = buttonVariants({ minWidth: !auto, type: type as Variants });
-
-  const children = (
-    <>
-      <div className={text()}>
-        {/* TODO: currently removing this as it is unnecessary and will be added as per styleguide */}
-        {/* {showIcons && iconLeft && <FontAwesomeIcon icon={iconLeft as IconProp} />}
-        {showIcons && loading && <FontAwesomeIcon icon={'spinner'} spinPulse />} */}
-        {label && !loading && label}
-        {/* {showIcons && iconRight && <FontAwesomeIcon icon={iconRight as IconProp} />} */}
-      </div>
-    </>
-  );
-
-  useEffect(() => {
-    setShowIcons(getFeatureFlag('buttonIcons'));
-  }, [getFeatureFlag]);
-
-  return React.createElement(
-    tag,
-    {
-      className,
-      disabled,
-      id,
-      onClick: (evt: React.MouseEvent<Element, MouseEvent>) => onClick(evt),
-      ref,
-      title,
-    },
-    children
+  return (
+    <Link
+      field={field}
+      onClick={onClick}
+      className={clsx(buttonVariants({ default: variant, disabled: disabled }), className, {
+        'w-fit': auto,
+        'w-full': !auto && variant != 'primary' && variant != 'primaryWithWhiteText',
+        'justify-between': !auto && iconFullWidth,
+      })}
+      {...(disabled && { disabled: disabled })}
+      {...props}
+    >
+      {iconPosition === 'left' && (
+        <Icon className={clsx(buttonVariants({ iconLeft: variant }), iconClassName)} />
+      )}
+      <span>{text}</span>
+      {iconPosition === 'right' && (
+        <Icon className={clsx(buttonVariants({ iconRight: variant }), iconClassName)} />
+      )}
+    </Link>
   );
 };
 

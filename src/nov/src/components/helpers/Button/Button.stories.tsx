@@ -1,20 +1,37 @@
 // Global
 import type { Meta, StoryObj } from '@storybook/react';
-import { fas } from '@fortawesome/free-solid-svg-icons';
 
 // Local
-import Button, { BUTTON_TYPES } from './Button';
-import defaultData, { disabled, iconLeft, iconOnly, iconRight, loading } from './Button.mock-data';
-
-const iconOptions = Object.keys(fas)
-  .map((key) => fas[key].iconName)
-  .sort();
+import Button from './Button';
+import {
+  defaultData,
+  buttonDataWithFullWidthIcon,
+  primaryData,
+  primaryWithWhiteTextData,
+  secondaryData,
+  secondaryWithRedArrowData,
+  baseData,
+} from './Button.mock-data';
 
 const meta: Meta<typeof Button> = {
   argTypes: {
+    variant: {
+      control: 'select',
+      defaultValue: 'button',
+      description: 'Variant of button and link',
+      options: [
+        'button',
+        'primary',
+        'primaryWithWhiteText',
+        'secondary',
+        'secondaryWithRedArrow',
+        'base',
+      ],
+    },
+
     auto: {
       control: 'boolean',
-      defaultValue: false,
+      defaultValue: true,
       description: 'Determines if the button has a minimum width or sizes to fit its content.',
     },
     disabled: {
@@ -22,27 +39,24 @@ const meta: Meta<typeof Button> = {
       defaultValue: false,
       description: 'A flag indicated the enabled/disabled state of the button.',
     },
-    iconLeft: {
-      control: 'select',
-      description: "Specifies an icon to appear to the left of the button's label.",
-      options: iconOptions,
-    },
-    iconRight: {
-      control: 'select',
-      description: "Specifies an icon to appear to the right of the button's label.",
-      options: iconOptions,
-    },
-    id: {
-      description: 'The name of the "id" attribute to be added to the rendered element.',
-    },
-    label: {
-      defaultValue: 'Button',
-      description: "The button's label.",
-    },
-    loading: {
+    iconFullWidth: {
       control: 'boolean',
       defaultValue: false,
-      description: 'A flag indicated the not loading/loading state of the button.',
+      description: 'For button icon full width',
+    },
+    iconPosition: {
+      control: 'select',
+      defaultValue: 'right',
+      description: "Specifies an icon to appear to the right of the button's label.",
+      options: ['left', 'right'],
+    },
+    text: {
+      control: 'text',
+      description: 'Button text',
+    },
+    field: {
+      control: 'object',
+      description: 'Button/Link data',
     },
     onClick: {
       description: 'A function defining a click handler for the button.',
@@ -50,20 +64,13 @@ const meta: Meta<typeof Button> = {
     ref: {
       description: 'A React hook to be assigned to the button.',
     },
-    tag: {
-      control: 'select',
-      defaultValue: 'button',
-      description: 'The HTML tag as which the button will be rendered.',
-      options: ['a', 'button'],
+    className: {
+      control: 'text',
+      description: 'Additional className for the button',
     },
-    title: {
-      description: 'The value of the "title" attribute to be added to the rendered element.',
-    },
-    type: {
-      control: 'select',
-      defaultValue: 'default',
-      description: 'The display state of the button.',
-      options: BUTTON_TYPES,
+    iconClassName: {
+      control: 'text',
+      description: 'Additional className for the Icon',
     },
   },
   component: Button,
@@ -85,38 +92,43 @@ export default meta;
 
 type Story = StoryObj<typeof Button>;
 
-export const Default: Story = {
+export const BasicButton: Story = {
   args: {
     ...defaultData,
   },
 };
-
-export const Disabled: Story = {
+export const FullWidthButtonIcon: Story = {
   args: {
-    ...disabled,
+    ...buttonDataWithFullWidthIcon,
   },
 };
 
-export const IconLeft: Story = {
+export const Primary: Story = {
   args: {
-    ...iconLeft,
+    ...primaryData,
   },
 };
 
-export const IconOnly: Story = {
+export const PrimaryWithWhiteText: Story = {
   args: {
-    ...iconOnly,
+    ...primaryWithWhiteTextData,
   },
 };
 
-export const IconRight: Story = {
+export const Secondary: Story = {
   args: {
-    ...iconRight,
+    ...secondaryData,
   },
 };
 
-export const Loading: Story = {
+export const SecondaryWithRedArrow: Story = {
   args: {
-    ...loading,
+    ...secondaryWithRedArrowData,
+  },
+};
+
+export const Base: Story = {
+  args: {
+    ...baseData,
   },
 };
