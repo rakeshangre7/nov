@@ -63,6 +63,8 @@
     <PackageReference Include="Sitecore.XmCloud.LayoutService" />
     <PackageReference Include="Sitecore.XmCloud.Assemblies" />
     <PackageReference Include="Sitecore.Assemblies.SitecoreHeadlessServicesServer" />
+    <PackageReference Include="Sitecore.XmCloud.XA.Foundation.Multisite" />
+    <PackageReference Include="Sitecore.XmCloud.XA.Foundation.Navigation" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="App_Config\Include\zzz\z.GraphQLServices.config" />
@@ -71,7 +73,22 @@
     <None Include="README.md" />
     <None Include="web.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Compile Include="Constants\NovSitecoreConstants.cs" />
+    <Compile Include="ContentsResolver\FilteredFeedContentResolver.cs" />
+    <Compile Include="ContentsResolver\NavigationContentResolver.cs" />
+    <Compile Include="Extensions\ItemExtensions.cs" />
+    <Compile Include="Extensions\ObjectCacheExtensions.cs" />
+    <Compile Include="Extensions\TemplateExtensions.cs" />
+    <Compile Include="Helpers\NOVSitecoreHelper.cs" />
+    <Compile Include="Models\BusinessSegmentModel.cs" />
+    <Compile Include="Models\ContentTeaserCard.cs" />
+    <Compile Include="Models\FilteredFeedModel.cs" />
+    <Compile Include="Models\NavigationEntryModel.cs" />
+    <Compile Include="Models\NavigationModel.cs" />
+    <Compile Include="Templates\FilteredFeedTemplate.cs" />
+    <Compile Include="Templates\SiteStartItemTemplate.cs" />
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

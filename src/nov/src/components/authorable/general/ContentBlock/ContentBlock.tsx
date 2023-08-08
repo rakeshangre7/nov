@@ -21,20 +21,14 @@ const ContentBlock = ({ fields }: ContentBlockProps): JSX.Element => {
 
   return (
     <>
-      <div className="container mx-auto  font-light italic">
+      <div className="container mx-auto font-light italic">
         <div
-          className="bg-theme-bg border border-b-4 border-b-primary border-black dark:border-gray dark:border-b-primary max-w-lg p-2 rounded"
+          className="theme-default bg-theme-bg text-theme-text"
           data-component="authorable/general/contentblock"
           data-testid="contentblock"
         >
-          <p className="text-80 leading-80">ContentBlock</p>
+          <p className="text-80 leading-80 text-theme-heading-text">ContentBlock</p>
           <RichTextA11yWrapper data-testid="contentblock" field={fields.text} editable />
-          <div className="grid gap-8 grid-cols-3">
-            <div className="text-gray">01</div>
-            <div className="bg-red">02</div>
-            <div className="bg-red">03</div>
-            <div className="bg-red">04</div>
-          </div>
         </div>
       </div>
     </>
