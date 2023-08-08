@@ -5,12 +5,10 @@ import type { Meta, StoryObj } from '@storybook/react';
 import Button from './Button';
 import {
   defaultData,
-  buttonDataWithFullWidthIcon,
   primaryData,
-  primaryWithWhiteTextData,
   secondaryData,
-  secondaryWithRedArrowData,
-  baseData,
+  tertiaryData,
+  standardData,
 } from './Button.mock-data';
 
 const meta: Meta<typeof Button> = {
@@ -19,14 +17,7 @@ const meta: Meta<typeof Button> = {
       control: 'select',
       defaultValue: 'button',
       description: 'Variant of button and link',
-      options: [
-        'button',
-        'primary',
-        'primaryWithWhiteText',
-        'secondary',
-        'secondaryWithRedArrow',
-        'base',
-      ],
+      options: ['button', 'primary', 'secondary', 'tertiary', 'standard'],
     },
 
     auto: {
@@ -97,21 +88,10 @@ export const BasicButton: Story = {
     ...defaultData,
   },
 };
-export const FullWidthButtonIcon: Story = {
-  args: {
-    ...buttonDataWithFullWidthIcon,
-  },
-};
 
 export const Primary: Story = {
   args: {
     ...primaryData,
-  },
-};
-
-export const PrimaryWithWhiteText: Story = {
-  args: {
-    ...primaryWithWhiteTextData,
   },
 };
 
@@ -121,14 +101,14 @@ export const Secondary: Story = {
   },
 };
 
-export const SecondaryWithRedArrow: Story = {
+export const Tertiary: Story = {
   args: {
-    ...secondaryWithRedArrowData,
+    ...tertiaryData,
   },
 };
 
-export const Base: Story = {
+export const Standard: Story = {
   args: {
-    ...baseData,
+    ...standardData,
   },
 };

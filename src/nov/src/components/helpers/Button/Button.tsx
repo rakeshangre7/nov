@@ -1,5 +1,5 @@
 // Global
-import { Link, LinkProps, LinkField } from '@sitecore-jss/sitecore-jss-nextjs';
+import { Link, LinkField } from '@sitecore-jss/sitecore-jss-nextjs';
 import clsx from 'clsx';
 import Icon from '../Icon/Icon';
 import { tv } from 'tailwind-variants';
@@ -51,34 +51,29 @@ const buttonVariants = tv({
       primary: clsx(
         'flex font-primary w-fit cursor-pointer before:bg-primary hover:before:w-full text-black active:before:w-full active:before:bg-red-dark focus:outline-dotted focus:outline-2	focus:outline-secondary w-fit relative font-lightbold leading-[16px] items-center text-[16px] transition-width ease-in-out duration-100 before:transition-width before:ease-in-out before:duration-100 pt-[5px] pb-[8px]  before:absolute before:bottom-[0] before:left-0 before:w-[40px] before:h-[3px] before:content-[""]'
       ),
-      primaryWithWhiteText: clsx(
-        'flex font-primary w-fit cursor-pointer before:bg-primary hover:before:w-full text-white active:before:w-full active:before:bg-red-dark focus:outline-dotted focus:outline-2	focus:outline-secondary w-fit relative font-lightbold leading-[16px] items-center text-[16px] transition-width ease-in-out duration-100 before:transition-width before:ease-in-out before:duration-100 pt-[5px] pb-[8px]  before:absolute before:bottom-[0] before:left-0 before:w-[40px] before:h-[3px] before:content-[""]'
-      ),
       secondary: clsx(
         'flex font-primary w-fit justify-between relative font-semibold leading-[14px] items-center text-[14px] transition-width ease-in-out duration-100 cursor-pointer hover:text-primary active:text-primary focus:outline-dotted focus:outline-2	focus:outline-secondary'
       ),
-      secondaryWithRedArrow: clsx(
+      tertiary: clsx(
         'flex font-primary w-fit justify-between relative font-lightbold leading-[16px] items-center text-[16px] transition-width ease-in-out duration-100 cursor-pointer hover:text-gray-lighter active:text-primary focus:outline-dotted focus:outline-2	focus:outline-secondary'
       ),
-      base: clsx(
+      standard: clsx(
         'flex font-lightbold  leading-[24px] items-center text-[14px] transition-width ease-in-out duration-100 cursor-pointer text-gray-dark hover:underline focus:outline-dotted focus:outline-2	focus:outline-secondary'
       ),
     },
     iconLeft: {
       button: clsx('mr-[4px] text-[16px]'),
       primary: clsx('mr-[4px] text-[16px]'),
-      primaryWithWhiteText: clsx('mr-[4px] text-[16px]'),
       secondary: clsx('mr-[4px] text-[16px]'),
-      secondaryWithRedArrow: clsx('mr-[4px] text-[16px] font-semibold text-primary'),
-      base: clsx('pr-[4px] text-[16px]'),
+      tertiary: clsx('mr-[4px] text-[16px] font-semibold text-primary'),
+      standard: clsx('pr-[4px] text-[16px]'),
     },
     iconRight: {
       button: clsx('ml-[4px] text-[16px]'),
       primary: clsx('ml-[4px] text-[16px]'),
-      primaryWithWhiteText: clsx('ml-[4px] text-[16px]'),
       secondary: clsx('ml-[4px] text-[16px]'),
-      secondaryWithRedArrow: clsx('ml-[4px] text-[16px] font-semibold text-primary'),
-      base: clsx('pl-[4px] text-[16px]'),
+      tertiary: clsx('ml-[4px] text-[16px] font-semibold text-primary'),
+      standard: clsx('pl-[4px] text-[16px]'),
     },
   },
   compoundVariants: [
@@ -101,26 +96,19 @@ const buttonVariants = tv({
       ),
     },
     {
-      default: 'primaryWithWhiteText',
-      disabled: true,
-      className: clsx(
-        'pointer-events-none text-gray before:w-full before:bg-gray focus:outline-none focus:shadow-none'
-      ),
-    },
-    {
       default: 'secondary',
       disabled: true,
       className: clsx('pointer-events-none text-gray focus:outline-none focus:shadow-none'),
     },
     {
-      default: 'secondaryWithRedArrow',
+      default: 'tertiary',
       disabled: true,
       className: clsx(
         'pointer-events-none text-gray focus:outline-none focus:shadow-none [&_i]:text-gray'
       ),
     },
     {
-      default: 'base',
+      default: 'standard',
       disabled: true,
       className: clsx('pointer-events-none text-gray focus:outline-none focus:shadow-none'),
     },
@@ -135,10 +123,9 @@ const Button = ({
   text,
   field,
   onClick = (): void => undefined,
-  ref,
   className,
   iconClassName,
-  variant = 'base',
+  variant = 'standard',
   ...props
 }: ButtonProps): JSX.Element => {
   const isEE = useExperienceEditor();
@@ -150,13 +137,13 @@ const Button = ({
     return (
       <Link
         field={field}
-        onClick={onClick}
         className={clsx(buttonVariants({ default: variant, disabled: disabled }), className, {
           'w-fit': auto,
-          'w-full': !auto && variant != 'primary' && variant != 'primaryWithWhiteText',
+          'w-full': !auto && variant != 'primary',
           'justify-between': !auto && iconFullWidth,
         })}
         {...(disabled && { disabled: disabled })}
+        {...(onClick && { onClick: onClick })}
         {...props}
       >
         {iconPosition === 'left' && (
@@ -173,13 +160,13 @@ const Button = ({
   return (
     <Link
       field={field}
-      onClick={onClick}
       className={clsx(buttonVariants({ default: variant, disabled: disabled }), className, {
         'w-fit': auto,
-        'w-full': !auto && variant != 'primary' && variant != 'primaryWithWhiteText',
+        'w-full': !auto && variant != 'primary',
         'justify-between': !auto && iconFullWidth,
       })}
       {...(disabled && { disabled: disabled })}
+      {...(onClick && { onClick: onClick })}
       {...props}
     >
       {iconPosition === 'left' && (
