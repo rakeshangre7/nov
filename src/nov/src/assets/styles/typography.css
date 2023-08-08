@@ -24,7 +24,7 @@
     @apply font-primary font-normal text-20 leading-34 tracking-normal;
   }
   .body1 {
-    @apply font-primary font-normal text-16 leading-28 tracking-normal;
+    @apply font-primary font-normal text-16 leading-28 lg:leading-32 tracking-normal;
   }
   .body2 {
     @apply font-primary font-normal text-14 leading-24 tracking-normal;
