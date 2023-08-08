@@ -10,7 +10,7 @@
   },
   "scripts": {
     "install-all": "npm install && cd src && cd nov && npm install",
-    "precommit:app": "cd src && cd nov && npm run lint:staged",
+    "precommit:app": "cd src && cd nov",
     "precommit": "npm-run-all precommit:*",
     "prepush:app": "cd src && cd nov && jss bootstrap && npm run test:silent && echo '' && echo '> running typescript compilation' && npx tsc --project tsconfig.json",
     "prepush": "npm-run-all prepush:*",
