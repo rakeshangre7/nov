@@ -40,5 +40,5 @@
 }
 
 .container {
-  @apply xl:max-w-nxl lg:max-w-nlg;
+  @apply xl:max-w-nxl lg:max-w-nlg mx-auto;
 }
