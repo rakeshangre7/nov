@@ -6,12 +6,13 @@ import { expandObj, flattenObj } from 'lib/object-parser';
 
 // Local
 import TitleBlock, { TitleBlockProps } from './TitleBlock';
-import defaultData from './TitleBlock.mock-data';
+import defaultData, { leftAlignData } from './TitleBlock.mock-data';
 
 const meta: Meta<typeof TitleBlock> = {
   title: 'Authorable/General/TitleBlock',
   component: TitleBlock,
   argTypes: {},
+  tags: ['autodocs'],
 };
 
 export default meta;
@@ -24,5 +25,14 @@ export const Default: Story = {
   },
   args: {
     ...flattenObj(defaultData),
+  },
+};
+
+export const LeftAlign: Story = {
+  render: (args) => {
+    return <TitleBlock {...(expandObj({ ...args }) as TitleBlockProps)} />;
+  },
+  args: {
+    ...flattenObj(leftAlignData),
   },
 };

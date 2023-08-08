@@ -122,6 +122,7 @@ const Button = ({
   iconPosition,
   text,
   field,
+  ref,
   onClick = (): void => undefined,
   className,
   iconClassName,
@@ -144,6 +145,7 @@ const Button = ({
         })}
         {...(disabled && { disabled: disabled })}
         {...(onClick && { onClick: onClick })}
+        {...(ref && { ref: ref })}
         {...props}
       >
         {iconPosition === 'left' && (
@@ -160,12 +162,14 @@ const Button = ({
   return (
     <Link
       field={field}
+      ref={ref}
       className={clsx(buttonVariants({ default: variant, disabled: disabled }), className, {
         'w-fit': auto,
         'w-full': !auto && variant != 'primary',
         'justify-between': !auto && iconFullWidth,
       })}
       {...(disabled && { disabled: disabled })}
+      {...(ref && { ref: ref })}
       {...(onClick && { onClick: onClick })}
       {...props}
     >

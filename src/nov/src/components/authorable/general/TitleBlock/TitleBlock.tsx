@@ -9,14 +9,14 @@ import clsx from 'clsx';
 interface Fields {
   title: Field<string>;
   body: Field<string>;
-  cta: LinkField;
+  cta?: LinkField;
 }
 
 export type TitleBlockProps = {
-  uid: string;
-  componentName: string;
-  dataSource: string;
-  params: { [key: string]: string };
+  uid?: string;
+  componentName?: string;
+  dataSource?: string;
+  params?: { [key: string]: string };
   fields: Fields;
   placeholder?: string;
 };
@@ -36,20 +36,22 @@ const TitleBlock = ({ fields, params }: TitleBlockProps): JSX.Element => {
       >
         <Text tag="h2" field={fields?.title} className={clsx('w-full ')} />
         <RichText field={fields.body} className={clsx('mt-[20px] body1 text-gray-dark w-full ')} />
-        <div
-          className={clsx('w-full flex ', {
-            'justify-start': params?.Styles === 'position-left',
-            'justify-center': params?.Styles !== 'position-left',
-          })}
-        >
-          <Button
-            variant="secondaryWithRedArrow"
-            field={fields?.cta}
-            className="mt-[33px]"
-            iconPosition="right"
-            iconClassName="icon-chevron-right"
-          />
-        </div>
+        {fields?.cta && (
+          <div
+            className={clsx('w-full flex ', {
+              'justify-start': params?.Styles === 'position-left',
+              'justify-center': params?.Styles !== 'position-left',
+            })}
+          >
+            <Button
+              variant="tertiary"
+              field={fields?.cta}
+              className="mt-[33px]"
+              iconPosition="right"
+              iconClassName="icon-chevron-right"
+            />
+          </div>
+        )}
       </div>
     </div>
   );
