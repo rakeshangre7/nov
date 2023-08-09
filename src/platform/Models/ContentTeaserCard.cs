@@ -4,6 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Script.Serialization;
 using XmCloudnov.Constants;
+using XmCloudnov.Helpers;
 
 namespace XmCloudnov.Models
 {
@@ -20,15 +21,15 @@ namespace XmCloudnov.Models
         public string Type { get; set; }
 
         [ScriptIgnore]
-        public string ContentTag { get; set; }
+        public StringField ContentTag { get; set; }
 
-        public string Heading { get; set; }
+        public StringField Heading { get; set; }
 
-        public string Subheading { get; set; }
+        public StringField Subheading { get; set; }
 
-        public string Image { get; set; }
+        public NOVImage Image { get; set; }
 
-        public string ImageAlt { get; set; }
+        //public string ImageAlt { get; set; }
 
         public string CTALink { get; set; }
 
@@ -36,21 +37,21 @@ namespace XmCloudnov.Models
 
         public string CTAText { get; set; }
 
-        public string MetaDataBefore { get; set; }
+        public StringField MetaDataBefore { get; set; }
 
-        public string MetaDataAfter { get; set; }
-
-        [ScriptIgnore]
-        public string JobTitle { get; set; }
+        public StringField MetaDataAfter { get; set; }
 
         [ScriptIgnore]
-        public string JobLocation { get; set; }
+        public StringField JobTitle { get; set; }
 
         [ScriptIgnore]
-        public string JobFunction { get; set; }
+        public StringField JobLocation { get; set; }
 
         [ScriptIgnore]
-        public string Country { get; set; }
+        public StringField JobFunction { get; set; }
+
+        [ScriptIgnore]
+        public StringField Country { get; set; }
 
         [ScriptIgnore]
         public List<string> BusinessSegments { get; set; }
@@ -62,24 +63,24 @@ namespace XmCloudnov.Models
         public List<string> BusinessUnits { get; set; }
 
         [ScriptIgnore]
-        public string Year { get; set; }
+        public StringField Year { get; set; }
 
         [ScriptIgnore]
-        public string PublishedDate { get; set; }
+        public StringField PublishedDate { get; set; }
 
         [ScriptIgnore]
-        public string ProductName { get; set; }
+        public StringField ProductName { get; set; }
 
         [ScriptIgnore]
-        public string Brand { get; set; }
+        public StringField Brand { get; set; }
 
         [ScriptIgnore]
-        public string Model { get; set; }
+        public StringField Model { get; set; }
 
         [ScriptIgnore]
-        public string Application { get; set; }
+        public StringField Application { get; set; }
 
         [ScriptIgnore]
-        public string Experience { get; set; }
+        public StringField Experience { get; set; }
     }
 }

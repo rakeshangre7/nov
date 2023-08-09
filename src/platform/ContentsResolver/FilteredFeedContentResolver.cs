@@ -122,8 +122,6 @@ namespace XmCloudnov.ContentsResolver
                                 {
 
                                     var contentTagId = page.Fields[PageFields.ContentTagFieldId]?.Value;
-                                    Sitecore.Diagnostics.Log.Info("Before Switch loop Item ID" + page.ID.ToString(), this);
-                                    Sitecore.Diagnostics.Log.Info("Before Switch loop Template ID" + page.TemplateID.ToString(), this);
                                     switch (page.TemplateID.ToString().ToLower())
                                     {
                                         case Template.ArticlePageTemplateIdString:
@@ -141,7 +139,6 @@ namespace XmCloudnov.ContentsResolver
                                             }
                                         case Template.NewsPageTemplateIdString:
                                             {
-                                                Sitecore.Diagnostics.Log.Info("In Switch loop- News condition" + page.TemplateID.ToString(), this);
                                                 GenerateNewsCard(model, startItem, page);
                                                 break;
                                             }
@@ -229,9 +226,9 @@ namespace XmCloudnov.ContentsResolver
                     model.Cards = cards;
                     break;
                 case ContentTeaserCards.SortBy.Date:
-                    var cardsNoPublishedDate = cards.Where(c => String.IsNullOrEmpty(c.PublishedDate)).ToList();
-                    var cardsPublishedDate = cards.Where(c => !String.IsNullOrEmpty(c.PublishedDate)).ToList();
-                    cardsPublishedDate = sortOrder == ContentTeaserCards.SortOrder.Descending ? cardsPublishedDate.OrderByDescending(c => DateTime.Parse(c.PublishedDate)).ToList() : cardsPublishedDate.OrderBy(c => DateTime.Parse(c.PublishedDate)).ToList();
+                    var cardsNoPublishedDate = cards.Where(c => String.IsNullOrEmpty(c.PublishedDate?.value)).ToList();
+                    var cardsPublishedDate = cards.Where(c => !String.IsNullOrEmpty(c.PublishedDate?.value)).ToList();
+                    cardsPublishedDate = sortOrder == ContentTeaserCards.SortOrder.Descending ? cardsPublishedDate.OrderByDescending(c => DateTime.Parse(c.PublishedDate?.value)).ToList() : cardsPublishedDate.OrderBy(c => DateTime.Parse(c.PublishedDate?.value)).ToList();
 
                     if (sortOrder == ContentTeaserCards.SortOrder.Descending)
                     {
@@ -330,33 +327,34 @@ namespace XmCloudnov.ContentsResolver
         {
             var employeeCard = new ContentTeaserCard();
             InitializeCard(startItem, page, employeeCard);
-            employeeCard.Heading = page.Fields[PageFields.PageTitleFieldId]?.Value;
+            employeeCard.Heading = NOVSitecoreHelper.GetStringValue(page.Fields[PageFields.PageTitleFieldId]?.Value);
             employeeCard.Type = ContentTeaserCards.CardTypes.Employee;
-            employeeCard.Country = page.Fields[PageFields.CountryFieldId]?.Value;
-            employeeCard.JobFunction = page.Fields[PageFields.JobFunctionFieldId]?.Value;
-            employeeCard.JobTitle = page.Fields[PageFields.JobTitleFieldId]?.Value;
-            employeeCard.JobLocation = page.Fields[PageFields.JobLocationFieldId]?.Value;
-            employeeCard.MetaDataBefore = page.Fields[PageFields.JobFunctionFieldId]?.Value;
-            employeeCard.Experience = page.Fields[PageFields.ExperienceFieldId]?.Value;
-            employeeCard.Subheading = string.Empty;
-
-            if (!string.IsNullOrEmpty(employeeCard.JobTitle))
+            employeeCard.Country =   NOVSitecoreHelper.GetStringValue(page.Fields[PageFields.CountryFieldId]?.Value);
+            employeeCard.JobFunction = NOVSitecoreHelper.GetStringValue(page.Fields[PageFields.JobFunctionFieldId]?.Value);
+            employeeCard.JobTitle = NOVSitecoreHelper.GetStringValue(page.Fields[PageFields.JobTitleFieldId]?.Value);
+            employeeCard.JobLocation = NOVSitecoreHelper.GetStringValue(page.Fields[PageFields.JobLocationFieldId]?.Value);
+            employeeCard.MetaDataBefore = NOVSitecoreHelper.GetStringValue(page.Fields[PageFields.JobFunctionFieldId]?.Value);
+            employeeCard.Experience = NOVSitecoreHelper.GetStringValue(page.Fields[PageFields.ExperienceFieldId]?.Value);
+            //employeeCard.Subheading =  string.Empty;
+            string subheadingText = string.Empty;
+            if (!string.IsNullOrEmpty(employeeCard.JobTitle?.value))
             {
                 var titleLabel = startItem.GetFieldAsString(HomeRootFields.PositionFieldId);
-                employeeCard.Subheading = titleLabel + employeeCard.JobTitle + NovSitecoreConstants.BRTag;
+                subheadingText =   titleLabel + employeeCard.JobTitle + NovSitecoreConstants.BRTag;
             }
 
-            if (!string.IsNullOrEmpty(employeeCard.JobLocation))
+            if (!string.IsNullOrEmpty(employeeCard.JobLocation?.value))
             {
                 var locationLabel = startItem.GetFieldAsString(HomeRootFields.LocationFieldId);
-                employeeCard.Subheading += locationLabel + employeeCard.JobLocation + NovSitecoreConstants.BRTag;
+                subheadingText += locationLabel + employeeCard.JobLocation + NovSitecoreConstants.BRTag;
             }
 
-            if (!string.IsNullOrEmpty(employeeCard.Experience))
+            if (!string.IsNullOrEmpty(employeeCard.Experience?.value))
             {
                 var experienceLabel = startItem.GetFieldAsString(HomeRootFields.ExperienceFieldId);
-                employeeCard.Subheading += experienceLabel + employeeCard.Experience + NovSitecoreConstants.BRTag;
+                subheadingText += experienceLabel + employeeCard.Experience + NovSitecoreConstants.BRTag;
             }
+            employeeCard.Subheading = NOVSitecoreHelper.GetStringValue(subheadingText);
             GenerateImageForCard(startItem, employeeCard);
 
             //card.ContentTag =  TODO: Set
@@ -370,15 +368,15 @@ namespace XmCloudnov.ContentsResolver
 
             newsCard.Type = ContentTeaserCards.CardTypes.News;
             DateField newsDate = (DateField)page.Fields[PageFields.NewsPageDateFieldId];
-            newsCard.Year = newsDate?.DateTime.Year.ToString();
-            newsCard.MetaDataBefore = ContentPageTypes.News;
+            newsCard.Year = NOVSitecoreHelper.GetStringValue(newsDate?.DateTime.Year.ToString());
+            newsCard.MetaDataBefore = NOVSitecoreHelper.GetStringValue(ContentPageTypes.News);
 
             var publishedDate = newsDate?.DateTime != DateTime.MinValue
 ? newsDate?.DateTime.ToString(ContentTeaserCards.DateFormats.ContentCardDateFormat) : string.Empty;
             if (!string.IsNullOrEmpty(publishedDate))
             {
-                newsCard.PublishedDate = publishedDate;
-                newsCard.MetaDataBefore = newsCard.MetaDataBefore + (string.IsNullOrEmpty(newsCard.MetaDataBefore) ? string.Empty : ContentTeaserCards.Separator) + publishedDate;
+                newsCard.PublishedDate = NOVSitecoreHelper.GetStringValue(publishedDate);
+                newsCard.MetaDataBefore = NOVSitecoreHelper.GetStringValue( newsCard.MetaDataBefore?.value + (string.IsNullOrEmpty(newsCard.MetaDataBefore?.value) ? string.Empty : ContentTeaserCards.Separator) + publishedDate);
             }
             GenerateImageForCard(startItem, newsCard);
             Sitecore.Diagnostics.Log.Info("End of news card " + page.TemplateID.ToString(), newsCard);
@@ -398,9 +396,9 @@ namespace XmCloudnov.ContentsResolver
                 if (!string.IsNullOrEmpty(country))
                 {
                     location = location.Length > 0 ? location + NovSitecoreConstants.ContentTeaserCards.Separator + country : country;
-                    eventDetailsCard.Country = country;
+                    eventDetailsCard.Country = NOVSitecoreHelper.GetStringValue(country);
                 }
-                eventDetailsCard.MetaDataBefore = location;
+                eventDetailsCard.MetaDataBefore = NOVSitecoreHelper.GetStringValue(location);
 
             }
 
@@ -421,7 +419,7 @@ namespace XmCloudnov.ContentsResolver
                            endDateField?.DateTime.ToString(ContentTeaserCards.DateFormats.ContentCardDateFormat);
                 }
 
-                eventDetailsCard.MetaDataAfter = date;
+                eventDetailsCard.MetaDataAfter = NOVSitecoreHelper.GetStringValue(date);
             }
             GenerateImageForCard(startItem, eventDetailsCard);
 
@@ -434,8 +432,8 @@ namespace XmCloudnov.ContentsResolver
             var image = NOVSitecoreHelper.GetImage(startItem, PageFields.CardImageFieldId);
             if (image != null)
             {
-                card.Image = image.Url;
-                card.ImageAlt = image.Alt;
+                card.Image = image;
+                //card.ImageAlt = image.Alt;
             }
             //card.ContentTag =  TODO: Set
         }
@@ -443,8 +441,8 @@ namespace XmCloudnov.ContentsResolver
         private static void InitializeCard(Item startItem, Item page, ContentTeaserCard card)
         {
             card.PageId = page.ID.ToGuid();
-            card.Heading = page.Fields[PageFields.HeadlineFieldId]?.Value;
-            card.Subheading = HttpUtility.HtmlDecode(Regex.Replace(page.Fields[PageFields.SubheadingFieldId]?.Value, "<.*?>", String.Empty));
+            card.Heading = NOVSitecoreHelper.GetStringValue(page.Fields[PageFields.HeadlineFieldId]?.Value);
+            card.Subheading = NOVSitecoreHelper.GetStringValue(HttpUtility.HtmlDecode(Regex.Replace(page.Fields[PageFields.SubheadingFieldId]?.Value, "<.*?>", String.Empty)));
             card.CTALink = page.GetUrl();
             card.CTAText = startItem.Fields[HomeRootFields.LabelReadMoreFieldId]?.Value;
         }
