@@ -141,7 +141,7 @@ const Button = ({
       {iconPosition === 'left' && (
         <Icon className={clsx(buttonVariants({ iconLeft: variant as Variants }), iconClassName)} />
       )}
-      <span>{text}</span>
+      <span>{text || field?.value?.text}</span>
       {iconPosition === 'right' && (
         <Icon className={clsx(buttonVariants({ iconRight: variant as Variants }), iconClassName)} />
       )}
