@@ -4,6 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
+using XmCloudnov.Helpers;
 
 namespace XmCloudnov.Models
 {
@@ -43,31 +44,31 @@ namespace XmCloudnov.Models
         //    }
         //}
 
-        public string PageImage
+        public NOVImage PageImage
         {
             get;
             set;
         }
 
-        public string CardImage
+        public NOVImage CardImage
         {
             get;
             set;
         }
 
-        public string CardImageAlt
+        public StringField CardImageAlt
         {
             get;
             set;
         }
 
-        public string ColorCode
+        public StringField ColorCode
         {
             get;
             set;
         }
 
-        public string CssClass
+        public StringField CssClass
         {
             get;
             set;
@@ -91,37 +92,37 @@ namespace XmCloudnov.Models
             set;
         }
 
-        public string Url
+        public NOVLink Url
         {
             get;
             set;
         }
 
-        public string Headline
+        public StringField Headline
         {
             get;
             set;
         }
 
-        public string Abstract
+        public StringField Abstract
         {
             get;
             set;
         }
 
-        public string MenuTitle
+        public StringField MenuTitle
         {
             get;
             set;
         }
 
-        public string MobileMenuTitle
+        public StringField MobileMenuTitle
         {
             get;
             set;
         }
 
-        public string SubMenuText
+        public StringField SubMenuText
         {
             get;
             set;
@@ -157,37 +158,37 @@ namespace XmCloudnov.Models
             set;
         }
 
-        public string Target
+        public StringField Target
         {
             get;
             set;
         }
 
-        public string FeaturedStoryHeadline
+        public StringField FeaturedStoryHeadline
         {
             get;
             set;
         }
 
-        public string FeaturedStoryAbstract
+        public StringField FeaturedStoryAbstract
         {
             get;
             set;
         }
 
-        public string FeaturedStoryCTALink
+        public NOVLink FeaturedStoryCTALink
         {
             get;
             set;
         }
 
-        public string FeaturedStoryCTALinkTarget
+        public StringField FeaturedStoryCTALinkTarget
         {
             get;
             set;
         }
 
-        public string FeaturedStoryCTAText
+        public StringField FeaturedStoryCTAText
         {
             get;
             set;
