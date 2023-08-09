@@ -76,18 +76,18 @@ const SamplePlaceholderComponent = ({ containedBy }: any): JSX.Element => (
  * @param {React.FC} args additional React components to add to the factory
  * @returns {ComponentFactory} a method that accepts a string and returns a matching component or null
  */
-const createComponentFactory = (...args: React.FC[]): ComponentFactory => (
-  componentName: string
-): React.FC | null => {
-  const components = new Map<string, React.FC>();
+const createComponentFactory =
+  (...args: React.FC[]): ComponentFactory =>
+  (componentName: string): React.FC | null => {
+    const components = new Map<string, React.FC>();
 
-  components.set(SAMPLE_COMPONENT_NAME, SamplePlaceholderComponent as React.FC);
+    components.set(SAMPLE_COMPONENT_NAME, SamplePlaceholderComponent as React.FC);
 
-  args.forEach((component) => {
-    components.set(component.name, component);
-  });
+    args.forEach((component) => {
+      components.set(component.name, component);
+    });
 
-  return components.get(componentName) || null;
-};
+    return components.get(componentName) || null;
+  };
 
 export default createComponentFactory;
