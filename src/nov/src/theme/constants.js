@@ -22,10 +22,11 @@ module.exports = {
     nov: '#75787b',
     light: '#F1F1F1',
     lightest: '#F8F8F8',
+    lighter: '#696969',
   },
 
   primary: '#DA291C',
-  secondary: '#75787b',
+  secondary: '#78757b',
   transparent: 'transparent',
   white: '#ffffff',
 };
