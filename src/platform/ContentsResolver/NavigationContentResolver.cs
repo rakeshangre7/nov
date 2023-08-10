@@ -1,6 +1,4 @@
-﻿using DocumentFormat.OpenXml.EMMA;
-using Microsoft.AspNet.OData;
-using Microsoft.Extensions.DependencyInjection;
+﻿using Microsoft.Extensions.DependencyInjection;
 using Newtonsoft.Json.Linq;
 using Sitecore;
 using Sitecore.Data;
@@ -9,16 +7,10 @@ using Sitecore.Data.Items;
 using Sitecore.DependencyInjection;
 using Sitecore.LayoutService.Configuration;
 using Sitecore.LayoutService.ItemRendering.ContentsResolvers;
-using Sitecore.LayoutService.ItemRendering.Pipelines.GetLayoutServiceContext;
-using Sitecore.Mvc.Helpers;
 using Sitecore.Mvc.Presentation;
 using Sitecore.XA.Foundation.Navigation.Services;
-using Sitecore.XA.Foundation.SitecoreExtensions.Extensions;
-using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Web;
-using XmCloudnov.Constants;
 using XmCloudnov.Extensions;
 using XmCloudnov.Helpers;
 using XmCloudnov.Models;
@@ -71,6 +63,7 @@ namespace XmCloudnov.ContentResolver
                 }
                 navigationModel.MenuLabel = NOVSitecoreHelper.GetStringValue(startItem.Fields[HomeRootFields.MenuLabelFieldId]?.Value);
                 navigationModel.SiteLogo = NOVSitecoreHelper.GetImage(startItem, HomeRootFields.SiteLogoImageFieldId);
+                navigationModel.SiteLogoTransparent = NOVSitecoreHelper.GetImage(startItem, HomeRootFields.SiteLogoTransparentImageFieldId);
 
                 foreach (Item item in startItem.Children.Where(i => i.Language == Context.Language))
                 {

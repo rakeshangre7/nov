@@ -16,6 +16,10 @@ namespace XmCloudnov.Models
         {
             get; set;
         }
+        public NOVImage SiteLogoTransparent
+        {
+            get;set;
+        }
         public StringField MenuLabel
         {
             get; set;
