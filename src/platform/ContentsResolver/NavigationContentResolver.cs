@@ -63,6 +63,7 @@ namespace XmCloudnov.ContentResolver
                 }
                 navigationModel.MenuLabel = NOVSitecoreHelper.GetStringValue(startItem.Fields[HomeRootFields.MenuLabelFieldId]?.Value);
                 navigationModel.SiteLogo = NOVSitecoreHelper.GetImage(startItem, HomeRootFields.SiteLogoImageFieldId);
+                navigationModel.SiteLogoTransparent = NOVSitecoreHelper.GetImage(startItem, HomeRootFields.SiteLogoTransparentImageFieldId);
 
                 foreach (Item item in startItem.Children.Where(i => i.Language == Context.Language))
                 {
