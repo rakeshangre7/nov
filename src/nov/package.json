@@ -21,7 +21,7 @@
   },
   "engines": {
     "node": ">=18",
-    "npm": ">=9"
+    "npm": ">=7"
   },
   "author": {
     "name": "Sitecore Corporation",
@@ -132,22 +132,23 @@
   },
   "scripts": {
     "bootstrap": "ts-node --project tsconfig.scripts.json scripts/bootstrap.ts && graphql-let",
-    "build": "yarpm-pnpm run bootstrap && yarpm-pnpm run next:build ",
+    "build": "npm run bootstrap && npm run next:build ",
     "graphql:update": "ts-node --project tsconfig.scripts.json ./scripts/fetch-graphql-introspection-data.ts",
     "jss": "jss",
     "lint": "eslint ./src/**/*.tsx ./src/**/*.ts ./scripts/**/*.ts",
+    "lint:staged": "lint-staged",
     "next:build": "next build",
     "next:dev": "cross-env NODE_OPTIONS='--inspect' next dev",
     "next:start": "next start",
     "scaffold": "ts-node --project tsconfig.scripts.json scripts/scaffold-component/index.ts",
     "start": "cross-env-shell JSS_MODE=disconnected \"npm-run-all --serial bootstrap --parallel next:dev start:disconnected-proxy start:watch-components\"",
-    "start:connected": "yarpm-pnpm run bootstrap && (yarpm-pnpm run next:dev &  yarpm-pnpm run start:watch-components)",
+    "start:connected": "npm run bootstrap && (npm run next:dev &  npm run start:watch-components)",
     "start:disconnected-proxy": "ts-node --project tsconfig.scripts.json ./scripts/disconnected-mode-proxy.ts",
-    "start:production": "yarpm-pnpm run bootstrap && yarpm-pnpm run next:build && yarpm-pnpm run next:start",
+    "start:production": "npm run bootstrap && npm run next:build && npm run next:start",
     "start:watch-components": "ts-node --project tsconfig.scripts.json scripts/generate-component-builder/index.ts --watch",
     "test": "jest",
-    "storybook": "yarpm-pnpm run bootstrap && storybook dev -p 6006",
-    "build-storybook": "yarpm-pnpm run bootstrap && storybook build",
-    "precommit": "yarpm-pnpm run lint"
+    "storybook": "npm run bootstrap && storybook dev -p 6006",
+    "build-storybook": "npm run bootstrap && storybook build",
+    "precommit": "npm run lint"
   }
 }
