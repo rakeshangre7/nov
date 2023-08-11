@@ -70,7 +70,7 @@ module.exports = {
     fontWeight: {
       light: 300,
       normal: 400,
-      medium:500,
+      medium: 500,
       semibold: 600,
       bold: 700,
     },
@@ -88,6 +88,7 @@ module.exports = {
     screens: {
       //Done
       xl: '1440px',
+      l: '1280px',
       lg: '1024px',
       md: '768px',
       sm: '425px',

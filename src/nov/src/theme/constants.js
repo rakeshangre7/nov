@@ -5,6 +5,7 @@ module.exports = {
   'theme-text': 'var(--theme-text)',
 
   black: '#000000',
+  lightBlack:"#1b1b1b",
   currentColor: 'currentColor',
   error: {
     dark: '#e02020',

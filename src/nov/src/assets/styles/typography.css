@@ -29,4 +29,17 @@
   .body2 {
     @apply font-primary font-normal text-14 leading-24 tracking-normal;
   }
+  .basicFocus {
+    @apply lg:focus:outline-dotted lg:focus:outline-2	lg:focus:outline-secondary;
+  }
+
+  /* Chrome, Safari and Opera */
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+
+  .no-scrollbar {
+    -ms-overflow-style: none; /* IE and Edge */
+    scrollbar-width: none; /* Firefox */
+  }
 }
