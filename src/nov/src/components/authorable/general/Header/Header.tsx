@@ -57,19 +57,22 @@ const Header = ({ fields }: HeaderProps) => {
     return (
       <div className="w-[390px] h-[700px] bg-white fixed border-l-[1px] border-gray-light top-[65px] right-0 l:w-[464px] flex justify-between flex-col">
         <div>
-          <a href={activeNavbarStoryDetail?.featuredStoryCTALink?.value?.href}>
+          <a tabIndex={-1} href={activeNavbarStoryDetail?.featuredStoryCTALink?.value?.href}>
             <Image
               alt="linkImage"
               src="https://www.nov.com/-/media/nov/images/products/products-and-services-hero.jpg?h=295&la=en-us&w=514&cropregion=0,160,1920,1262&hash=DF60D308A4833243AFF0E8BF8932A9FB"
               height={265}
               width={463}
+              tabIndex={0}
+              className="basicFocus"
             />
           </a>
           <div className="px-[33px] ">
-            <a href={activeNavbarStoryDetail?.featuredStoryCTALink?.value?.href}>
+            <a tabIndex={-1} href={activeNavbarStoryDetail?.featuredStoryCTALink?.value?.href}>
               <Text
                 tag={'h4'}
-                className="h4 !leading-30 mt-[33px] !text-xl text-black w-full"
+                className="h4 !leading-30 mt-[33px] !text-xl text-black basicFocus w-fit"
+                tabIndex="0"
                 field={activeNavbarStoryDetail.featuredStoryHeadline}
               />
             </a>
@@ -122,7 +125,7 @@ const Header = ({ fields }: HeaderProps) => {
                   className={clsx(
                     'mt-[14px]  ml-[2px] lg:max-w-[165px] l:max-w-[225px] [&_span]:max-w-full  min-h-[28px] h-fit lg:[&_span]:max-w-[133px] l:[&_span]:max-w-[193px] active:!text-black lg:active:!text-primary hover:!text-black lg:hover:!text-primary',
                     {
-                      '!text-primary':
+                      '!text-primary cursor-default':
                         selectedPrimaryLink === navbar.itemId ||
                         selectedSecondaryLink === navbar.itemId,
                     }
