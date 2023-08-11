@@ -42,9 +42,7 @@ namespace XmCloudnov.ContentResolver
                 navigationModel.PortalDescription = NOVSitecoreHelper.GetStringValue(startItem.Fields[HomeRootFields.PortalDescriptionFieldId]?.Value);
                 navigationModel.PortalHeader = NOVSitecoreHelper.GetStringValue(startItem.Fields[HomeRootFields.PortalHeaderFieldId]?.Value);
                 navigationModel.PortalRegisterUrl = NOVSitecoreHelper.GetLinkValue(startItem, HomeRootFields.PortalRegisterUrlFieldId);
-                navigationModel.PortalRegisterUrlText = NOVSitecoreHelper.GetStringValue(((LinkField)startItem.Fields[HomeRootFields.PortalRegisterUrlFieldId]).Text);
                 navigationModel.PortalLoginUrl = NOVSitecoreHelper.GetLinkValue(startItem, HomeRootFields.NOVPortalLoginFieldId);
-                navigationModel.PortalRegisterUrlText = NOVSitecoreHelper.GetStringValue(((LinkField)startItem.Fields[HomeRootFields.NOVPortalLoginFieldId]).Text);
                 navigationModel.ViewAllText = NOVSitecoreHelper.GetStringValue(startItem.Fields[HomeRootFields.LabelViewAllFieldId]?.Value);
                 var siteFeatureLink = NOVSitecoreHelper.GetLinkValue(startItem, HomeRootFields.FeaturedStorySubItemLinkFieldId);
                 if (siteFeatureLink != null && siteFeatureLink.value != null && !string.IsNullOrEmpty(siteFeatureLink.value.href))

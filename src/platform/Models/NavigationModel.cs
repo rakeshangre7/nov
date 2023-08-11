@@ -57,18 +57,18 @@ namespace XmCloudnov.Models
         {
             get; set;
         }
-        public StringField PortalRegisterUrlText
-        {
-            get; set;
-        }
+        //public StringField PortalRegisterUrlText
+        //{
+        //    get; set;
+        //}
         public NOVLink PortalLoginUrl
         {
             get; set;
         }
-        public StringField PortalLoginText
-        {
-            get; set;
-        }
+        //public StringField PortalLoginText
+        //{
+        //    get; set;
+        //}
         public StringField ViewAllText
         {
             get; set;

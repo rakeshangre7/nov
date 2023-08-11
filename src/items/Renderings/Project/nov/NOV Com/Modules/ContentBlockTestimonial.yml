@@ -7,6 +7,43 @@ SharedFields:
 - ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
   Hint: componentName
   Value: ContentBlockTestimonial
+- ID: "17bb046a-a32a-41b3-8315-81217947611b"
+  Hint: ComponentQuery
+  Value: |
+    query ContentBlockTestimonial($datasource: String!, $language: String!) {
+      item(path: $datasource, language: $language) {
+      ... on ContentBlockTestimonial{
+         image{
+          src,
+          alt,
+          height,
+          width
+        },
+        imageCropRegion{
+           value
+        },
+        testimonial{
+           value
+        },
+        fullName{
+           value
+        },
+        jobTitle{
+           value
+        },
+         cta{
+           anchor,
+          url,
+          text,
+          linkType
+        },
+        backgroundVideo{
+          value
+        }
+      }
+      }
+    }
+    
 - ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
   Hint: Datasource Template
   Value: /sitecore/templates/Project/nov/NOV Com/Modules/Content Block Testimonial
@@ -54,14 +91,14 @@ Languages:
         sitecore\ashwin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "a5cf1cb2-bc8f-49ba-973b-046a11a44c3c"
+      Value: "13433b8e-0525-4689-a2f6-6f713195ed58"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\varalakshmi.md@horizontal.com
+        sitecore\rangre@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230710T153533Z
+      Value: 20230811T092710Z
 - Language: "en-US"
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
@@ -83,11 +120,11 @@ Languages:
         sitecore\ashwin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "a2b95b72-c21c-403b-9375-06303f9d3761"
+      Value: "c961d05d-9aca-4e14-989f-44fe6248fb7e"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\ashwin
+        sitecore\rangre@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20190520T182314Z
+      Value: 20230811T094144Z
