@@ -90,6 +90,7 @@ module.exports = {
       l: '1280px',
       lg: '1024px',
       md: '768px',
+      smd: '767px',
       sm: '425px',
     },
     container: {

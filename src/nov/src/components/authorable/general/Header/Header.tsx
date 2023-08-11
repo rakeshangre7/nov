@@ -89,7 +89,7 @@ const Header = ({ fields }: HeaderProps) => {
           iconPosition="right"
           iconClassName="icon-arrow-right"
           iconFullWidth={true}
-          className="min-h-[40px] text-[16px] px-[33px]"
+          className="!min-h-[40px] max-h-[40px] text-[16px] px-[33px] py-[12px]"
           text={activeNavbarStoryDetail?.featuredStoryCTAText?.value}
           field={activeNavbarStoryDetail?.featuredStoryCTALink}
         />
@@ -209,12 +209,12 @@ const Header = ({ fields }: HeaderProps) => {
               onClick={() => {
                 setIsUserProfileClick(!isUserProfileClick);
               }}
-              className="h-[30px] relative w-[30px] mr-[17px] hidden lg:flex justify-center items-center cursor-pointer basicFocus rounded-[1px] "
+              className="h-[30px] relative w-[30px] mr-[17px] hidden smd:flex justify-center items-center cursor-pointer basicFocus rounded-[1px] "
             >
               <Icon
                 className={clsx('icon-user text-xl ', {
                   'text-white': !isExpanded,
-                  'lg:!text-primary': isExpanded || isUserProfileClick,
+                  'smd:!text-primary': isExpanded || isUserProfileClick,
                 })}
               />
               {
@@ -222,7 +222,7 @@ const Header = ({ fields }: HeaderProps) => {
                   className={clsx(
                     'absolute transition-all ease-in-out duration-200 invisible top-[47px] right-[-63px] opacity-0 w-[256px] ',
                     {
-                      'lg:visible lg:opacity-100 lg:h-[228px] drop-shadow-[0_0_5px_rgba(51,51,51,0.22)] before:content("") before:border-[7px] before:absolute before:top-[calc(7px*-2)] before:border-x-transparent before:border-t-transparent before:border-b-white  before:right-[calc(25%+7px)]': isUserProfileClick,
+                      'smd:visible smd:opacity-100 smd:h-[228px] z-10 drop-shadow-[0_0_5px_rgba(51,51,51,0.22)] before:content("") before:border-[7px] before:absolute before:top-[calc(7px*-2)] before:border-x-transparent before:border-t-transparent before:border-b-white  before:right-[calc(25%+7px)]': isUserProfileClick,
                     }
                   )}
                 >
@@ -281,7 +281,7 @@ const Header = ({ fields }: HeaderProps) => {
             </div>
             {renderHeaderTeaser()}
           </div>
-          <div className="lg:hidden">
+          <div className="smd:hidden">
             <UserAccount
               isMobile={true}
               portalHeader={fields.portalHeader}

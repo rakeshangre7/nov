@@ -33,7 +33,7 @@ const UserAccount = ({
         {portalDescription && (
           <Text
             tag={'p'}
-            className="text-xs font-primary leading-[16px] text-gray-dark font-normal max-w-[190px] mx-auto mt-[22px] text-center"
+            className="text-2xs font-primary leading-[16px] text-gray-dark font-normal max-w-[190px] mx-auto mt-[22px] text-center"
             field={portalDescription}
           />
         )}
