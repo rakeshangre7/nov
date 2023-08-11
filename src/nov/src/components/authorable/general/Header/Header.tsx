@@ -28,7 +28,7 @@ const Header = ({ fields }: HeaderProps) => {
   });
   const [selectedPrimaryLink, setSelectedPrimaryLink] = useState<boolean | string>();
   const [selectedSecondaryLink, setSelectedSecondaryLink] = useState<boolean | string>();
-  const [secondaryLinkData, setSecondaryLinkData] = useState<unk>([]);
+  const [secondaryLinkData, setSecondaryLinkData] = useState<any>([]);
   const [tertiaryLinkData, setTertiaryLinkData] = useState<any>([]);
   const handleScroll = () => {
     const currentScrollPos = window.pageYOffset;
