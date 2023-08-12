@@ -88,7 +88,7 @@ module.exports = {
       //Done
       xl: '1440px',
       lg: '1024px',
-      md: '768px',
+      md: '767px',
       sm: '425px',
     },
     container: {
