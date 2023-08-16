@@ -28,6 +28,7 @@ const Header = ({ fields }: HeaderProps) => {
     featuredStoryAbstract: fields.siteFeaturedAbstract,
     featuredStoryCTALink: fields.siteFeaturedCtaLink,
     featuredStoryCTAText: fields.siteFeaturedCtatext,
+    cardImage: fields.cardImage,
   });
   const [selectedPrimaryLink, setSelectedPrimaryLink] = useState<boolean | string>(false);
   const [selectedSecondaryLink, setSelectedSecondaryLink] = useState<boolean | string>();
@@ -53,6 +54,7 @@ const Header = ({ fields }: HeaderProps) => {
         featuredStoryAbstract: fields.siteFeaturedAbstract,
         featuredStoryCTALink: fields.siteFeaturedCtaLink,
         featuredStoryCTAText: fields.siteFeaturedCtatext,
+        cardImage: fields.cardImage,
       });
     } else {
       document.body.classList.add(...className);
@@ -100,11 +102,12 @@ const Header = ({ fields }: HeaderProps) => {
       <div className="w-[389px] h-[700px] bg-white fixed border-l-[1px] border-gray-light top-[65px] z-10 right-0 l:w-[463px] flex justify-between flex-col">
         <div>
           <a tabIndex={-1} href={activeNavbarStoryDetail?.featuredStoryCTALink?.value?.href}>
+            {/* TODO: Need to add proper image */}
             <Image
-              alt="linkImage"
-              src="https://www.nov.com/-/media/nov/images/products/products-and-services-hero.jpg?h=295&la=en-us&w=514&cropregion=0,160,1920,1262&hash=DF60D308A4833243AFF0E8BF8932A9FB"
-              height={265}
-              width={463}
+              alt={activeNavbarStoryDetail?.cardImage?.alt}
+              src={activeNavbarStoryDetail?.cardImage?.url}
+              height={activeNavbarStoryDetail?.cardImage?.height}
+              width={activeNavbarStoryDetail?.cardImage?.width}
               tabIndex={0}
               className="basicFocus"
             />
@@ -190,6 +193,7 @@ const Header = ({ fields }: HeaderProps) => {
                         featuredStoryAbstract: navbar.featuredStoryAbstract,
                         featuredStoryCTALink: navbar.featuredStoryCTALink,
                         featuredStoryCTAText: navbar.featuredStoryCTAText,
+                        cardImage: navbar.cardImage,
                       });
                     }
                   }
@@ -254,6 +258,7 @@ const Header = ({ fields }: HeaderProps) => {
       >
         <div className="container mx-auto h-full flex justify-between items-center">
           <a className="log-wrapper text-white basicFocus" href="/">
+            {/* TODO: Need to add proper image */}
             {!isExpanded ? (
               <Image
                 alt="logo"
