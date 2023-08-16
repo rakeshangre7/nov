@@ -1,5 +1,5 @@
 // import { Field, withDatasourceCheck } from '@sitecore-jss/sitecore-jss-nextjs';
-import { Field, Image } from '@sitecore-jss/sitecore-jss-nextjs';
+import { Image } from '@sitecore-jss/sitecore-jss-nextjs';
 import FooterCopyright from './FooterCopyright';
 import Button from '@/components/helpers/Button/Button';
 import FooterSocial from './FooterSocial';
@@ -8,14 +8,16 @@ import FooterAccordion from './FooterAccordion';
 // Local
 
 // Ideally, all this is from generated Typescript code from Sitecore and we're not manually defining types.
-interface Fields {
-  text: Field<string>;
-}
 
 export type FooterProps = {
   rendering: { componentName: string };
   params: { [key: string]: string };
-  fields: Fields;
+  uid: string;
+  componentName: string;
+  dataSource?: string;
+  data: unknown;
+  fields: unknown;
+  defaultData: unknown;
 };
 
 const Footer = ({ fields }: FooterProps): JSX.Element => {
