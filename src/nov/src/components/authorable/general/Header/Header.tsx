@@ -101,17 +101,19 @@ const Header = ({ fields }: HeaderProps) => {
     return (
       <div className="w-[389px] h-[700px] bg-white fixed border-l-[1px] border-gray-light top-[65px] z-10 right-0 l:w-[463px] flex justify-between flex-col">
         <div>
-          <a tabIndex={-1} href={activeNavbarStoryDetail?.featuredStoryCTALink?.value?.href}>
-            {/* TODO: Need to add proper image */}
-            <Image
-              alt={activeNavbarStoryDetail?.cardImage?.alt}
-              src={activeNavbarStoryDetail?.cardImage?.url}
-              height={activeNavbarStoryDetail?.cardImage?.height}
-              width={activeNavbarStoryDetail?.cardImage?.width}
-              tabIndex={0}
-              className="basicFocus"
-            />
-          </a>
+          {activeNavbarStoryDetail?.cardImage?.src && (
+            <a tabIndex={-1} href={activeNavbarStoryDetail?.featuredStoryCTALink?.value?.href}>
+              {/* TODO: Need to add proper image */}
+              <Image
+                alt={activeNavbarStoryDetail?.cardImage?.alt}
+                src={activeNavbarStoryDetail?.cardImage?.url}
+                height={activeNavbarStoryDetail?.cardImage?.height}
+                width={activeNavbarStoryDetail?.cardImage?.width}
+                tabIndex={0}
+                className="basicFocus"
+              />
+            </a>
+          )}
           <div className="px-[33px] ">
             <a tabIndex={-1} href={activeNavbarStoryDetail?.featuredStoryCTALink?.value?.href}>
               <Text
