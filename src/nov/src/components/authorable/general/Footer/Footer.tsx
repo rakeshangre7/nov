@@ -1,8 +1,6 @@
 // import { Field, withDatasourceCheck } from '@sitecore-jss/sitecore-jss-nextjs';
-import { Field, Image, Link, Text } from '@sitecore-jss/sitecore-jss-nextjs';
+import { Field, Image } from '@sitecore-jss/sitecore-jss-nextjs';
 import FooterCopyright from './FooterCopyright';
-import Icon from 'components/helpers/Icon/Icon';
-import { useBreakpoints } from '../../../utility/breakpoints';
 import Button from '@/components/helpers/Button/Button';
 import FooterSocial from './FooterSocial';
 import FooterAccordion from './FooterAccordion';
@@ -23,37 +21,48 @@ export type FooterProps = {
 const Footer = ({ fields }: FooterProps): JSX.Element => {
   // Fail out if fields aren't present
   if (fields === null || fields === undefined) return <></>;
-  const { isDesktop } = useBreakpoints();
+
   const footerItem = fields?.data?.footerItem;
 
-  const footerMenu =
+  const filtereFooterMenu =
     fields?.data?.footerItem?.siteTemplate?.[0]?.homeItem.results?.[0]?.primaryMenu?.results;
   const footerSocial = fields?.data?.footerItem.footerSocialLinks.jsonValue;
+  const primaryFooterMenu = filtereFooterMenu.filter(
+    (item) => item.hideInFooterNavigation.jsonValue.value === false
+  );
 
-  const handleClick = (e) => {
-    e.preventDefault();
-    // write your logic for on click
-  };
+  const footerMenu = primaryFooterMenu.map((mainItem) => {
+    const filteredSecondaryMenu = mainItem.secondaryMenu.results.filter(
+      (secondaryItem) => secondaryItem.hideInFooterNavigation.jsonValue.value === false
+    );
+
+    return {
+      ...mainItem,
+      secondaryMenu: {
+        results: filteredSecondaryMenu,
+      },
+    };
+  });
+
   return (
     <>
       <div className="flex flex-wrap">
-        <div className="w-3/6 lg:w-[calc(20%+12px)] h-20 lg:h-auto flex items-center order-1 bg-gray-lightest md:grow lg:grow-0 pl-8 lg:pl-20">
+        <div className="w-3/6 lg:w-[calc(17%)] h-20 lg:h-auto flex items-center order-1 bg-gray-lightest md:grow lg:grow-0 pl-8 lg:pl-20">
           <div className="main-logo">
             <Image field={footerItem?.logo?.jsonValue} />
           </div>
         </div>
         <Button
-          className="w-3/6 md:w-64 flex order-3"
+          className="w-3/6 md:w-[240px] flex order-3"
           field={footerItem?.contactLink.jsonValue}
           variant="button"
         />
 
         <div className="lg:container w-full max-w-full lg:px-20 order-4">
-          <nav className="module A3-footer__nav js-accordion w-full ">
-            <ul className="FooterNavList lg:grid lg:grid-flow-col justify-stretch">
-              {footerMenu?.map((Item, index) => (
-                <FooterAccordion Item1={Item} />
-              ))}
+          <nav className="w-full ">
+            <ul className="lg:pt-7 lg:pb-8 lg:grid lg:grid-flow-col justify-stretch">
+              {Array.isArray(footerMenu) &&
+                footerMenu?.map((Item, index) => <FooterAccordion FMItem={Item} />)}
             </ul>
           </nav>
         </div>

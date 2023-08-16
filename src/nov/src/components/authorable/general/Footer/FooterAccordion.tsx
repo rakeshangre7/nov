@@ -1,5 +1,5 @@
 import React, { useEffect, useRef, useState } from 'react';
-import { Field, Text } from '@sitecore-jss/sitecore-jss-nextjs';
+import { Field, Link, Text } from '@sitecore-jss/sitecore-jss-nextjs';
 import Button from '@/components/helpers/Button/Button';
 import { useBreakpoints } from '../../../utility/breakpoints';
 import Icon from 'components/helpers/Icon/Icon';
@@ -7,7 +7,7 @@ export type FooterAccordionProps = {
   fields?: Field<string>;
 };
 
-const FooterAccordion = ({ Item1, index }: FooterAccordionProps) => {
+const FooterAccordion = ({ FMItem, index }: FooterAccordionProps) => {
   const [isOpen, setIsOpen] = useState(false);
   const [height, setHeight] = useState<number | null>(null);
   const { isDesktop } = useBreakpoints();
@@ -17,8 +17,9 @@ const FooterAccordion = ({ Item1, index }: FooterAccordionProps) => {
     if (descriptionref?.current) {
       descriptionref?.current?.scrollHeight && setHeight(descriptionref.current.scrollHeight);
     }
-    isDesktop && setIsOpen(true);
-  });
+    isDesktop ? setIsOpen(true) : setIsOpen(false);
+  }, [isDesktop]);
+
   const handleClick = (e) => {
     e.preventDefault();
     setIsOpen(!isOpen);
@@ -26,25 +27,25 @@ const FooterAccordion = ({ Item1, index }: FooterAccordionProps) => {
 
   return (
     <>
-      <li className="js-accordion-item">
-        <div className="js-accordion-item-trigger border-b lg:border-b-0 border-solid border-gray-light bg-white relative">
+      <li className="">
+        <div className="border-b  border-solid border-gray-light bg-white relative">
           {isDesktop ? (
             <Button
-              className="w-48 lg:w-64 flex order-3"
+              className="w-48 lg:w-64 flex order-3 font-semibold lg:pb-8 hover:underline hover:text-black"
               field={{
                 value: {
-                  href: Item1?.primaryURL?.path,
+                  href: FMItem?.primaryURL?.path,
                   linktype: 'external',
                   target: '_blank',
                   text: 'Link with new tab screen reader text',
                 },
               }}
-              text={Item1?.menuTitle?.jsonValue.value}
+              text={FMItem?.menuTitle?.jsonValue.value}
               variant="tertiary"
             />
           ) : (
             <>
-              <div className="js-accordion-item-title lg:hidden">
+              <div className="lg:hidden">
                 <Button
                   field={{
                     value: {},
@@ -54,7 +55,7 @@ const FooterAccordion = ({ Item1, index }: FooterAccordionProps) => {
                   } !text-2xl !font-normal`}
                   iconFullWidth
                   iconPosition="right"
-                  text={Item1?.menuTitle?.jsonValue.value}
+                  text={FMItem?.menuTitle?.jsonValue.value}
                   variant="tertiary"
                   id={`control_${index}`}
                   onClick={handleClick}
@@ -70,24 +71,44 @@ const FooterAccordion = ({ Item1, index }: FooterAccordionProps) => {
         <div
           ref={descriptionref}
           id={`body_${index}`}
-          className="text-body-gray overflow-hidden duration-300 h-auto"
+          className="bg-gray-lightest lg:bg-transparent overflow-hidden lg:overflow-visible duration-300 h-auto"
           style={
             isOpen
               ? height
-                ? { height: `${height}px`, marginTop: '13px' }
-                : { height: `auto`, marginTop: '13px' }
-              : { height: `${0}px`, marginTop: '0px' }
+                ? { height: `${height}px` }
+                : { height: `auto` }
+              : { height: `${0}px` }
           }
           aria-hidden={isOpen ? false : true}
         >
-          <ul>
-            {Item1?.secondaryMenu?.results?.map((Item2, index) => (
-              <li key={index}>
-                <a href="/about/events">
-                  <Text field={Item2?.menuTitle?.jsonValue} />
+          <ul className="px-14 lg:px-0 lg:pt-2.5">
+            {!isDesktop && (
+              <li
+                key={index}
+                className="flex py-3.5 lg:py-1.5 first:pt-10 first:lg:pt-1.5 last:pb-12 last:lg:pb-1.5"
+              >
+                <a
+                  href={FMItem?.primaryURL?.path}
+                  className="text-sm leading-6 hover:underline font-medium"
+                >
+                  <Text field={FMItem?.menuTitle?.jsonValue} />
                 </a>
               </li>
-            ))}
+            )}
+            {Array.isArray(FMItem?.secondaryMenu?.results) &&
+              FMItem?.secondaryMenu?.results?.map((Item: unknown, index: number) => (
+                <li
+                  key={index}
+                  className="flex py-3.5 lg:py-1.5 first:pt-10 first:lg:pt-1.5 last:pb-12 last:lg:pb-1.5"
+                >
+                  <a
+                    href={Item?.primaryURL?.path}
+                    className="text-sm leading-6 hover:underline font-medium outline-none"
+                  >
+                    <Text field={Item?.menuTitle?.jsonValue} />
+                  </a>
+                </li>
+              ))}
           </ul>
         </div>
       </li>
