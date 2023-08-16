@@ -28,10 +28,10 @@ const FooterAccordion = ({ FMItem, index }: FooterAccordionProps) => {
   return (
     <>
       <li className="">
-        <div className="border-b  border-solid border-gray-light bg-white relative">
+        <div className="border-b border-solid border-gray-light bg-white relative [&>a]:hover:text-black">
           {isDesktop ? (
             <Button
-              className="w-48 lg:w-64 flex order-3 font-semibold lg:pb-8 hover:underline hover:text-black"
+              className="w-48 lg:w-64 flex order-3 font-semibold lg:pb-8 hover:underline"
               field={{
                 value: {
                   href: FMItem?.primaryURL?.path,
