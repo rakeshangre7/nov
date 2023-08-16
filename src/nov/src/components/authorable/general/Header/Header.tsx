@@ -157,8 +157,8 @@ const Header = ({ fields }: HeaderProps) => {
           }}
         >
           <Icon
-            className={clsx('icon-arrow-left text-black visible lg:hidden mt-[16px] text-base', {
-              'invisible lg:hidden': !selectedPrimaryLink,
+            className={clsx('icon-arrow-left text-black visible l:hidden mt-[16px] text-base', {
+              'invisible l:hidden': !selectedPrimaryLink,
             })}
           ></Icon>
         </a>
@@ -169,7 +169,7 @@ const Header = ({ fields }: HeaderProps) => {
                 variant={'secondary'}
                 auto={false}
                 className={clsx(
-                  'mt-[14px] relative ml-[2px] text-lightBlack lg:max-w-[165px] xl:max-w-[225px] [&_span]:max-w-full  min-h-[28px] h-fit lg:[&_span]:max-w-[133px] l:[&_span]:max-w-[193px] active:!text-lightBlack lg:active:!text-primary hover:!text-lightBlack lg:hover:!text-primary',
+                  'mt-[14px] relative ml-[2px] text-lightBlack l:max-w-[165px] xl:max-w-[225px] [&_span]:max-w-full  min-h-[28px] h-fit l:[&_span]:max-w-[193px] active:!text-lightBlack l:active:!text-primary hover:!text-lightBlack l:hover:!text-primary',
                   {
                     '!text-primary cursor-default !outline-none':
                       selectedPrimaryLink === navbar.itemId ||
@@ -226,10 +226,10 @@ const Header = ({ fields }: HeaderProps) => {
     return (
       isExpanded && (
         <div className="w-full bg-white scroll-auto overflow-hidden flex flex-col justify-between h-[calc(100%-65px)]">
-          <div className="px-[25px] h-[calc(100%-228px)] smd:h-full overflow-x-hidden  overflow-y-auto scroll-auto mt-[-1px] lg:hidden bg-white no-scrollbar">
+          <div className="px-[25px] h-[calc(100%-228px)] smd:h-full overflow-x-hidden  overflow-y-auto scroll-auto mt-[-1px] l:hidden bg-white no-scrollbar">
             {renderMobileNavigation()}
           </div>
-          <div className="bg-white relative h-[700px] w-full hidden lg:block">
+          <div className="bg-white relative h-[700px] w-full hidden l:block">
             <div className="container flex mx-auto bg-white ">
               <div className="w-[220px] items-start pr-0 xl:w-[300px] mt-[52px] pl-[1px] ">
                 {renderLinks({ isPrimary: true, navList: fields?.navigationEntries })}
@@ -258,7 +258,7 @@ const Header = ({ fields }: HeaderProps) => {
           '!bg-white': isExpanded,
         })}
       >
-        <div className="container mx-auto h-full flex justify-between items-center">
+        <div className="container xl:max-w-nxl l:max-w-nlg lg:max-w-full  mx-auto h-full flex justify-between items-center">
           <a className="log-wrapper text-white basicFocus" href="/">
             {/* TODO: Need to add proper image */}
             {!isExpanded ? (
@@ -327,7 +327,7 @@ const Header = ({ fields }: HeaderProps) => {
             </li>
             <li
               tabIndex={0}
-              className="flex items-center basicFocus px-[2.5px] mr-[1px] lg:mr-0 cursor-pointer h-[30px] rounded-[1px]"
+              className="flex items-center basicFocus px-[2.5px] mr-[1px] l:mr-0 cursor-pointer h-[30px] rounded-[1px]"
               onClick={() => setIsExpanded(!isExpanded)}
             >
               <Text
@@ -353,7 +353,7 @@ const Header = ({ fields }: HeaderProps) => {
   return (
     <>
       <div
-        className="fixed top-0 transition-all duration-200 w-full h-full lg:h-fit"
+        className="fixed top-0 transition-all duration-200 w-full h-full l:h-fit"
         ref={navigationRef}
       >
         {renderBasicHeaderInfo()}
