@@ -30,7 +30,7 @@
     @apply font-primary font-normal text-sm leading-24 tracking-normal;
   }
   .basicFocus {
-    @apply lg:focus:outline-dotted lg:focus:outline-2	lg:focus:outline-secondary;
+    @apply lg:focus:outline-dotted lg:focus:outline-2	lg:focus:outline-secondary hover:!outline-0 active:!outline-0;
   }
 
   /* Chrome, Safari and Opera */
