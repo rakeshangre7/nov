@@ -17,9 +17,9 @@ export type HeaderProps = {
 };
 
 const Header = ({ fields }: HeaderProps) => {
-  const userAccountRef = useRef(null);
-  const navigationRef = useRef(null);
-  const userRef = useRef(null);
+  const userAccountRef = useRef<HTMLDivElement>(null);
+  const navigationRef = useRef<HTMLDivElement>(null);
+  const userRef = useRef<HTMLLIElement>(null);
   const [isSticky, setIsSticky] = useState<boolean>(false);
   const [isExpanded, setIsExpanded] = useState<boolean>(false);
   const [isUserProfileClick, setIsUserProfileClick] = useState<boolean>(false);
