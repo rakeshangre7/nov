@@ -1,0 +1,56 @@
+﻿---
+ID: "c6ddf8ee-8571-423a-a9f1-c0c5716983fa"
+Parent: "d6b8701a-f642-49ae-ae58-7e68188ef657"
+Template: "81919c10-b79a-417d-93ef-20f8fdeafce5"
+Path: /sitecore/content/nov/nov/Data/System/Default Templates Content/B2 Text Only Hero
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 700
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1ef88e0a-3663-4819-a93b-4ea59051af6d"
+      Hint: subheading
+      Value: "<p>Have a question? Contact us.</p>"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190108T112042Z
+    - ID: "2a597478-0c95-418a-a5fa-e4f6b9596301"
+      Hint: heading
+      Value: Contact Us
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "492cda75-be72-41de-b849-77bf42bda182"
+      Hint: contenttag
+      Value: "{BE882534-92BC-479C-9BDA-8002E74DC304}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mathias
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mathias
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "55487340-9186-4c7f-a4ac-0d8e7763707d"
+    - ID: "95ca1a50-482f-4d24-96df-7e8047892857"
+      Hint: cta
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ashwin
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190108T112042Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190624T202010Z

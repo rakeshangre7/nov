@@ -1,0 +1,203 @@
+﻿---
+ID: "7bfdf55b-d789-4f80-baa1-ee7b8380d4c6"
+Parent: "e79abf5d-5db9-4b4f-a44f-5b5415d2cd82"
+Template: "6cd7163e-c56a-466d-addb-6087e5158ebc"
+Path: /sitecore/content/nov/nov/Data/System/Business Segments Folder/Rig Technologies
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0807d0a6-04d1-4072-9093-68cb81246950"
+      Hint: businessSegmentName
+      Value: Rig Technologies
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181024T174218Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "193a0ecb-81c8-4085-affd-cbfb933df0a7"
+    - ID: "8ece14d8-09aa-4dc7-a693-056e3123e529"
+      Hint: businessUnits
+      Value: |
+        {8B474B92-9D93-442B-B8AB-6FFFFCA5D53D}
+        {29187DDA-196A-4DEB-AFED-F6B08921A5C3}
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ashwin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20181120T151751Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "0807d0a6-04d1-4072-9093-68cb81246950"
+      Hint: businessSegmentName
+      Value: Rig Technologies
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190306T190407Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c2783604-4180-4daa-9fbc-d24e20f14943"
+    - ID: "8ece14d8-09aa-4dc7-a693-056e3123e529"
+      Hint: businessUnits
+      Value: |
+        {51B1ABBB-48D9-4FB3-94AB-7103479664EF}
+        {367B717A-53A6-42D9-9CDB-9430CB28988D}
+        {55081714-900D-4F84-A923-2C7CDC829502}
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190306T190407Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190306T190442Z
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: |
+        <r owner="sitecore\rainerschuhsler" date="20190412T203338Z" />
+    - ID: "0807d0a6-04d1-4072-9093-68cb81246950"
+      Hint: businessSegmentName
+      Value: Rig Technologies
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190412T203334Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{8B87E652-E3F7-4C54-BDD9-66E1B888FF8B}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fcd23423-8a5c-4829-abea-1e193924d31c"
+    - ID: "8ece14d8-09aa-4dc7-a693-056e3123e529"
+      Hint: businessUnits
+      Value: |
+        {51B1ABBB-48D9-4FB3-94AB-7103479664EF}
+        {367B717A-53A6-42D9-9CDB-9430CB28988D}
+        {55081714-900D-4F84-A923-2C7CDC829502}
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190412T203334Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190412T203338Z
+  - Version: 4
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "0807d0a6-04d1-4072-9093-68cb81246950"
+      Hint: businessSegmentName
+      Value: Rig Technologies
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190412T203417Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8c4588a7-e800-4955-acdc-6c091e3ae26f"
+    - ID: "8ece14d8-09aa-4dc7-a693-056e3123e529"
+      Hint: businessUnits
+      Value: |
+        {51B1ABBB-48D9-4FB3-94AB-7103479664EF}
+        {367B717A-53A6-42D9-9CDB-9430CB28988D}
+        {55081714-900D-4F84-A923-2C7CDC829502}
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190412T203417Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190412T203454Z
+  - Version: 5
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "0807d0a6-04d1-4072-9093-68cb81246950"
+      Hint: businessSegmentName
+      Value: Rig Technologies
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190708T153404Z
+    - ID: "35ab810a-6891-4ab4-a51b-aaf76b6a6382"
+      Hint: personalizationProfile
+      Value: "{79527B7D-D73F-42F0-84D0-0992F9E31322}"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\verticgappau
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fff4c737-68a9-449a-ac2e-b18e6a5a411c"
+    - ID: "8ece14d8-09aa-4dc7-a693-056e3123e529"
+      Hint: businessUnits
+      Value: |
+        {51B1ABBB-48D9-4FB3-94AB-7103479664EF}
+        {367B717A-53A6-42D9-9CDB-9430CB28988D}
+        {55081714-900D-4F84-A923-2C7CDC829502}
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\verticgappau
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190708T153404Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190708T155657Z

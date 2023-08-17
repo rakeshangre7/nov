@@ -1,0 +1,55 @@
+﻿---
+ID: "da819b65-99e6-46e8-8b66-9354b1448ca2"
+Parent: "f908e4d8-2390-4cd9-8a32-18262f61ad38"
+Template: "35041ee5-2b5b-45ce-85ac-ccc750e35c41"
+Path: /sitecore/content/nov/nov/Data/System/Footer/Footer
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230720T130743Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\varalakshmi.md@horizontal.com
+    - ID: "5ae8793e-d128-4174-a446-35e0f8483223"
+      Hint: contactLink
+      Value: |
+        <link text="Contact US" anchor="" linktype="internal" class="" title=""  querystring="" id="{447B01DE-B691-4983-B4A7-1E03DFF32250}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\varalakshmi.md@horizontal.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3b5bdbb1-8d05-40df-8e27-44bd5207409d"
+    - ID: "a112a25d-a7c9-4b8c-bf9f-237386b4c7c5"
+      Hint: Footer Social Links
+      Value: |
+        {D1DC540C-6C9B-416A-A920-A9399800947E}
+        {E12896DA-600E-44D7-B72B-952C0D8C1EE5}
+        {174C7596-72CB-4FD1-9571-61E1AED59C6F}
+        {70258B4A-7252-41D0-8216-D28BBFEC216A}
+        {B981C0B3-BB80-4031-9C4E-E9E2D7923699}
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\varalakshmi.md@horizontal.com
+    - ID: "d38c0fc1-16cd-488d-ada3-98e17c8e504c"
+      Hint: footerLinks
+      Value: |
+        {2030C557-D31F-489D-87B2-D27750E32E41}
+        {BDB84342-5184-48FE-959E-ACCB48DEEF1F}
+        {FD9B0807-1490-42DE-80C9-6A39E39D2DC0}
+        {5E8DB53C-3E3B-44EB-8497-B700B7B29B35}
+        {E059FF17-ECA3-4004-BD0B-82D00B654C50}
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230811T095614Z
+    - ID: "ddda21ca-c827-45cd-bcdd-148b7a0eb2f8"
+      Hint: Logo
+      Value: |
+        <image mediaid="{49DA6260-C4A9-4ED9-89DA-2FBDD40EEE1C}" />
