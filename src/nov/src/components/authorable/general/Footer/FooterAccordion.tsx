@@ -1,10 +1,43 @@
 import React, { useEffect, useRef, useState } from 'react';
-import { Field, Link, Text } from '@sitecore-jss/sitecore-jss-nextjs';
+import { Field, Text } from '@sitecore-jss/sitecore-jss-nextjs';
 import Button from '@/components/helpers/Button/Button';
 import { useBreakpoints } from '../../../utility/breakpoints';
-import Icon from 'components/helpers/Icon/Icon';
+interface SecondaryMenu {
+  menuTitle: {
+    jsonValue: Field<string>;
+  };
+  primaryURL: {
+    path: string;
+    url: string;
+  };
+  hideInNavigation: {
+    jsonValue: {
+      value: boolean;
+    };
+  };
+  hideInFooterNavigation: {
+    jsonValue: {
+      value: boolean;
+    };
+  };
+}
 export type FooterAccordionProps = {
-  fields?: Field<string>;
+  // fields?: Field<string>;
+  index?: number;
+  // FMItem: Array<Item>;
+  FMItem: {
+    primaryURL: {
+      path: string;
+    };
+    menuTitle: {
+      jsonValue: {
+        value: string;
+      };
+    };
+    secondaryMenu: {
+      results: Array<SecondaryMenu>;
+    };
+  };
 };
 
 const FooterAccordion = ({ FMItem, index }: FooterAccordionProps) => {
@@ -20,7 +53,7 @@ const FooterAccordion = ({ FMItem, index }: FooterAccordionProps) => {
     isDesktop ? setIsOpen(true) : setIsOpen(false);
   }, [isDesktop]);
 
-  const handleClick = (e) => {
+  const handleClick = (e: { preventDefault: () => void }) => {
     e.preventDefault();
     setIsOpen(!isOpen);
   };
@@ -96,7 +129,7 @@ const FooterAccordion = ({ FMItem, index }: FooterAccordionProps) => {
               </li>
             )}
             {Array.isArray(FMItem?.secondaryMenu?.results) &&
-              FMItem?.secondaryMenu?.results?.map((Item: unknown, index: number) => (
+              FMItem?.secondaryMenu?.results?.map((Item, index: number) => (
                 <li
                   key={index}
                   className="flex py-3.5 lg:py-1.5 first:pt-10 first:lg:pt-1.5 last:pb-12 last:lg:pb-1.5"

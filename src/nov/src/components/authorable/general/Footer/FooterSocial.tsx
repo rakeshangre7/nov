@@ -1,22 +1,42 @@
-import { Field } from '@sitecore-jss/sitecore-jss-nextjs';
 import Icon from 'components/helpers/Icon/Icon';
+interface SocialLinks {
+  id: string;
+  url: string;
+  name: string;
+  displayName: string;
+  fields: {
+    socialChannelUrl: {
+      value: string;
+    };
+    socialChannel: {
+      value?: string;
+    };
+  };
+}
+
 export type FooterSocialProps = {
-  fields?: Field<string>;
+  footerSocialLink: {
+    jsonValue: SocialLinks[];
+  };
 };
 const FooterSocial = ({ footerSocialLink }: FooterSocialProps) => {
+  console.log('test', footerSocialLink);
   return (
     <div className="grow flex items-center align-middle lg:order-2 order-5 bg-white lg:bg-gray-lightest py-11 lg:py-9">
       <ul className="w-full flex text-4xl justify-around md:w-3/5">
-        {Array.isArray(footerSocialLink) &&
-          footerSocialLink?.map((Item, index) => (
+        {Array.isArray(footerSocialLink.jsonValue) &&
+          footerSocialLink?.jsonValue.map((Item: SocialLinks, index: number) => (
             <li key={index}>
-              <a
-                href={Item.fields.socialChannelUrl.value}
-                target="_blank"
-                className="focus:outline-none"
-              >
-                <Icon className={`icon-${Item.fields.socialChannel.value}`} />
-              </a>
+              {Item?.fields?.socialChannelUrl?.value && (
+                <a
+                  href={Item?.fields?.socialChannelUrl?.value}
+                  target="_blank"
+                  className="focus:outline-none"
+                  rel="noreferrer"
+                >
+                  <Icon className={`icon-${Item.fields.socialChannel.value}`} />
+                </a>
+              )}
             </li>
           ))}
       </ul>
