@@ -60,6 +60,7 @@ module.exports = {
       36: pxToRem(36),
       34: pxToRem(34),
       32: pxToRem(32),
+      30: pxToRem(30),
       28: pxToRem(28),
       24: pxToRem(24),
       16: pxToRem(16),
@@ -87,8 +88,10 @@ module.exports = {
     screens: {
       //Done
       xl: '1440px',
+      l: '1280px',
       lg: '1024px',
       md: '768px',
+      smd: '767px',
       sm: '425px',
     },
     container: {

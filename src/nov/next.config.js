@@ -29,6 +29,11 @@ const nextConfig = {
     defaultLocale: jssConfig.defaultLanguage,
   },
 
+  images: {
+    domains: ['www.nov.com'],
+    path: `${publicUrl}/_next/image`,
+    dangerouslyAllowSVG: true,
+  },
   // Enable React Strict Mode
   reactStrictMode: true,
 

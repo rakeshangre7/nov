@@ -18,7 +18,7 @@
     @apply font-primary font-bold text-5xl leading-42 tracking-normal;
   }
   .subHeading1 {
-    @apply font-primary font-normal text-2xl leading-36 tracking-normal;
+    @apply font-primary font-normal text-5xl leading-42 tracking-normal;
   }
   .subHeading2 {
     @apply font-primary font-normal text-xl leading-34 tracking-normal;
@@ -28,5 +28,18 @@
   }
   .body2 {
     @apply font-primary font-normal text-sm leading-24 tracking-normal;
+  }
+  .basicFocus {
+    @apply lg:focus:outline-dotted lg:focus:outline-2	lg:focus:outline-secondary hover:!outline-0 active:!outline-0;
+  }
+
+  /* Chrome, Safari and Opera */
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+
+  .no-scrollbar {
+    -ms-overflow-style: none; /* IE and Edge */
+    scrollbar-width: none; /* Firefox */
   }
 }
