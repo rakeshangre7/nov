@@ -30,7 +30,7 @@
     @apply font-primary font-normal text-sm leading-24 tracking-normal;
   }
   .basicFocus {
-    @apply lg:focus:outline-dotted lg:focus:outline-2	lg:focus:outline-secondary hover:!outline-0 active:!outline-0;
+    @apply lg:focus:outline-dotted lg:focus:outline-2 lg:focus:outline-secondary hover:!outline-0 active:!outline-0;
   }
 
   /* Chrome, Safari and Opera */
@@ -41,5 +41,51 @@
   .no-scrollbar {
     -ms-overflow-style: none; /* IE and Edge */
     scrollbar-width: none; /* Firefox */
+  }
+  .navigationTransitionInitial {
+    transition-delay: 200ms;
+    transform: translate(-10px, -10%);
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 200ms, transform 200ms;
+    transition-timing-function: ease-in-out;
+    z-index: -1;
+  }
+  .navigationTransitionFinal {
+    opacity: 1;
+    visibility: visible;
+    transform: translate(0%, 0%);
+    z-index: 20;
+  }
+
+  .navigationTransitionInitialForMobile {
+    transition-delay: 200ms;
+    transform: translate(-10px, -10%);
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 200ms, transform 200ms, height 200ms;
+    transition-timing-function: ease-in-out;
+    z-index: -1;
+    height: 0;
+    min-height: 0;
+    margin-top: 0;
+  }
+  .navigationTransitionFinalForMobile {
+    opacity: 1;
+    visibility: visible;
+    transform: translate(0%, 0%);
+    z-index: 20;
+    height: auto;
+    min-height: 28px;
+    margin-top: 14px;
+  }
+  .navigationTransitionInitialMobile {
+    height: 0;
+    width: 0;
+    transition: opacity 200ms, transform 200ms, width 200ms, height 200ms;
+  }
+  .navigationTransitionFinalMobile {
+    height: auto;
+    width: auto;
   }
 }
