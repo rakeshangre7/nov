@@ -1,0 +1,27 @@
+﻿---
+ID: "f908e4d8-2390-4cd9-8a32-18262f61ad38"
+Parent: "7709cdcf-ebe4-485d-9aca-b79bdda6bb2d"
+Template: "fbb26002-1dac-451f-b37f-56e6ad0ca5dc"
+Path: /sitecore/content/nov/nov/Data/System/Footer
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: applicationsv2/32x32/folder.png
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230720T130537Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "113bc182-8be7-40d9-962b-88196084b5f4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\varalakshmi.md@horizontal.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230811T125929Z
