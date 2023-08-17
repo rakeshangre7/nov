@@ -2,7 +2,7 @@
 import { Field, Image, ImageField, LinkField } from '@sitecore-jss/sitecore-jss-nextjs';
 import FooterCopyright from './FooterCopyright';
 import Button from '@/components/helpers/Button/Button';
-import FooterSocial from './FooterSocial';
+// import FooterSocial from './FooterSocial';
 import FooterAccordion from './FooterAccordion';
 
 // Local
@@ -47,7 +47,7 @@ interface Fields {
       footerLinks: {
         jsonValue: Array<LinksItem>;
       };
-      footerSocialLinks: {
+      footerSocialLinks?: {
         jsonValue?: Array<SocialLinks>;
       };
     };
@@ -160,8 +160,7 @@ const Footer = ({ fields }: FooterProps): JSX.Element => {
             </ul>
           </nav>
         </div>
-        {/* <FooterSocial footerSocialLink={footerSocial} />*/}
-        <FooterSocial footerSocialLink={footerItem?.footerSocialLinks} />
+        {/* <FooterSocial footerSocialLink={footerItem?.footerSocialLinks} /> */}
         <FooterCopyright
           copyrightText={footerItem?.copyrightText?.jsonValue}
           footerLinks={footerItem?.footerLinks?.jsonValue}
