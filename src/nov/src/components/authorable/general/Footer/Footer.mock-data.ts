@@ -2,7 +2,9 @@ import { FooterProps } from './Footer';
 
 // Realistically this is going to have a lot more data from Sitecore or XM Cloud, but this is a good example mock data set.
 const defaultData: FooterProps = {
-  rendering: { componentName: 'Footer' },
+  uid: '6dbb2883-8393-4232-94c8-2ebae5cbb48d',
+  componentName: 'Footer',
+  dataSource: '',
   params: {},
   fields: {
     data: {
@@ -11,8 +13,10 @@ const defaultData: FooterProps = {
           jsonValue: {
             value: {
               src:
-                'https://edge.sitecorecloud.io/nationaloile493-nov-dev-59ee/media/nov/nov-red-and-grey-logo.svg?iar=0',
+                'https://edge.sitecorecloud.io/nationaloile493-nov-dev-59ee/media/nov/nov-red-and-grey-logo.svg?h=24&iar=0&w=56',
               alt: 'nov',
+              width: '56',
+              height: '24',
             },
           },
         },
@@ -216,778 +220,762 @@ const defaultData: FooterProps = {
             },
           ],
         },
-        siteTemplate: [
-          {
-            homeItem: {
-              results: [
-                {
-                  primaryMenu: {
-                    results: [
-                      {
-                        menuTitle: {
-                          jsonValue: {
-                            value: 'About Us',
-                          },
-                        },
-                        hideInNavigation: {
-                          jsonValue: {
-                            value: true,
-                          },
-                        },
-                        hideInFooterNavigation: {
-                          jsonValue: {
-                            value: false,
-                          },
-                        },
-                        primaryURL: {
-                          path: '/About',
-                          url: 'https://xmcloudcm.localhost/en-US/About',
-                        },
-                        secondaryMenu: {
-                          results: [
-                            {
-                              menuTitle: {
-                                jsonValue: {
-                                  value: 'Industry Events',
-                                },
-                              },
-                              hideInNavigation: {
-                                jsonValue: {
-                                  value: false,
-                                },
-                              },
-                              hideInFooterNavigation: {
-                                jsonValue: {
-                                  value: false,
-                                },
-                              },
-                              primaryURL: {
-                                path: '/About/Events',
-                                url: 'https://xmcloudcm.localhost/en-US/About/Events',
-                              },
-                            },
-                            {
-                              menuTitle: {
-                                jsonValue: {
-                                  value: 'News',
-                                },
-                              },
-                              hideInNavigation: {
-                                jsonValue: {
-                                  value: false,
-                                },
-                              },
-                              hideInFooterNavigation: {
-                                jsonValue: {
-                                  value: false,
-                                },
-                              },
-                              primaryURL: {
-                                path: '/About/News',
-                                url: 'https://xmcloudcm.localhost/en-US/About/News',
-                              },
-                            },
-                            {
-                              menuTitle: {
-                                jsonValue: {
-                                  value: 'NOV Live',
-                                },
-                              },
-                              hideInNavigation: {
-                                jsonValue: {
-                                  value: false,
-                                },
-                              },
-                              hideInFooterNavigation: {
-                                jsonValue: {
-                                  value: false,
-                                },
-                              },
-                              primaryURL: {
-                                path: '/About/NOV-Live',
-                                url: 'https://xmcloudcm.localhost/en-US/About/NOV-Live',
-                              },
-                            },
-                            {
-                              menuTitle: {
-                                jsonValue: {
-                                  value: 'NOV Today Podcast',
-                                },
-                              },
-                              hideInNavigation: {
-                                jsonValue: {
-                                  value: false,
-                                },
-                              },
-                              hideInFooterNavigation: {
-                                jsonValue: {
-                                  value: false,
-                                },
-                              },
-                              primaryURL: {
-                                path: '/About/NOV-Today-Podcast',
-                                url: 'https://xmcloudcm.localhost/en-US/About/NOV-Today-Podcast',
-                              },
-                            },
-                            {
-                              menuTitle: {
-                                jsonValue: {
-                                  value: 'Our Business Units',
-                                },
-                              },
-                              hideInNavigation: {
-                                jsonValue: {
-                                  value: false,
-                                },
-                              },
-                              hideInFooterNavigation: {
-                                jsonValue: {
-                                  value: false,
-                                },
-                              },
-                              primaryURL: {
-                                path: '/About/Our-Business-Units',
-                                url: 'https://xmcloudcm.localhost/en-US/About/Our-Business-Units',
-                              },
-                            },
-                            {
-                              menuTitle: {
-                                jsonValue: {
-                                  value: 'Our Company Structure',
-                                },
-                              },
-                              hideInNavigation: {
-                                jsonValue: {
-                                  value: false,
-                                },
-                              },
-                              hideInFooterNavigation: {
-                                jsonValue: {
-                                  value: false,
-                                },
-                              },
-                              primaryURL: {
-                                path: '/About/Our-Company-Structure',
-                                url:
-                                  'https://xmcloudcm.localhost/en-US/About/Our-Company-Structure',
-                              },
-                            },
-                            {
-                              menuTitle: {
-                                jsonValue: {
-                                  value: 'Sustainability',
-                                },
-                              },
-                              hideInNavigation: {
-                                jsonValue: {
-                                  value: false,
-                                },
-                              },
-                              hideInFooterNavigation: {
-                                jsonValue: {
-                                  value: false,
-                                },
-                              },
-                              primaryURL: {
-                                path: '/About/Sustainability',
-                                url: 'https://xmcloudcm.localhost/en-US/About/Sustainability',
-                              },
-                            },
-                          ],
-                        },
-                        secondaryMenu2: {
-                          results: [],
-                        },
-                      },
-                      {
-                        menuTitle: {
-                          jsonValue: {
-                            value: 'Careers',
-                          },
-                        },
-                        hideInNavigation: {
-                          jsonValue: {
-                            value: false,
-                          },
-                        },
-                        hideInFooterNavigation: {
-                          jsonValue: {
-                            value: false,
-                          },
-                        },
-                        primaryURL: {
-                          path: '/Careers',
-                          url: 'https://xmcloudcm.localhost/en-US/Careers',
-                        },
-                        secondaryMenu: {
-                          results: [
-                            {
-                              menuTitle: {
-                                jsonValue: {
-                                  value: 'Diversity',
-                                },
-                              },
-                              hideInNavigation: {
-                                jsonValue: {
-                                  value: false,
-                                },
-                              },
-                              hideInFooterNavigation: {
-                                jsonValue: {
-                                  value: false,
-                                },
-                              },
-                              primaryURL: {
-                                path: '/Careers/Diversity',
-                                url: 'https://xmcloudcm.localhost/en-US/Careers/Diversity',
-                              },
-                            },
-                            {
-                              menuTitle: {
-                                jsonValue: {
-                                  value: 'Early Career Development',
-                                },
-                              },
-                              hideInNavigation: {
-                                jsonValue: {
-                                  value: false,
-                                },
-                              },
-                              hideInFooterNavigation: {
-                                jsonValue: {
-                                  value: false,
-                                },
-                              },
-                              primaryURL: {
-                                path: '/Careers/Early-Career-Development',
-                                url:
-                                  'https://xmcloudcm.localhost/en-US/Careers/Early-Career-Development',
-                              },
-                            },
-                            {
-                              menuTitle: {
-                                jsonValue: {
-                                  value: 'Our Employees',
-                                },
-                              },
-                              hideInNavigation: {
-                                jsonValue: {
-                                  value: false,
-                                },
-                              },
-                              hideInFooterNavigation: {
-                                jsonValue: {
-                                  value: false,
-                                },
-                              },
-                              primaryURL: {
-                                path: '/Careers/Our-Employees',
-                                url: 'https://xmcloudcm.localhost/en-US/Careers/Our-Employees',
-                              },
-                            },
-                            {
-                              menuTitle: {
-                                jsonValue: {
-                                  value: 'Search for Jobs',
-                                },
-                              },
-                              hideInNavigation: {
-                                jsonValue: {
-                                  value: false,
-                                },
-                              },
-                              hideInFooterNavigation: {
-                                jsonValue: {
-                                  value: false,
-                                },
-                              },
-                              primaryURL: {
-                                path: '/Careers/Search-for-Jobs',
-                                url: 'https://xmcloudcm.localhost/en-US/Careers/Search-for-Jobs',
-                              },
-                            },
-                            {
-                              menuTitle: {
-                                jsonValue: {
-                                  value: 'Working at NOV',
-                                },
-                              },
-                              hideInNavigation: {
-                                jsonValue: {
-                                  value: false,
-                                },
-                              },
-                              hideInFooterNavigation: {
-                                jsonValue: {
-                                  value: false,
-                                },
-                              },
-                              primaryURL: {
-                                path: '/Careers/Working-at-NOV',
-                                url: 'https://xmcloudcm.localhost/en-US/Careers/Working-at-NOV',
-                              },
-                            },
-                          ],
-                        },
-                        secondaryMenu2: {
-                          results: [],
-                        },
-                      },
-                      {
-                        menuTitle: {
-                          jsonValue: {
-                            value: 'Investors',
-                          },
-                        },
-                        hideInNavigation: {
-                          jsonValue: {
-                            value: false,
-                          },
-                        },
-                        hideInFooterNavigation: {
-                          jsonValue: {
-                            value: false,
-                          },
-                        },
-                        primaryURL: {
-                          path: '/Investors',
-                          url: 'https://xmcloudcm.localhost/en-US/Investors',
-                        },
-                        secondaryMenu: {
-                          results: [
-                            {
-                              menuTitle: {
-                                jsonValue: {
-                                  value: 'Annual Results',
-                                },
-                              },
-                              hideInNavigation: {
-                                jsonValue: {
-                                  value: false,
-                                },
-                              },
-                              hideInFooterNavigation: {
-                                jsonValue: {
-                                  value: false,
-                                },
-                              },
-                              primaryURL: {
-                                path: '/Investors/Annual-Results',
-                                url: 'https://xmcloudcm.localhost/en-US/Investors/Annual-Results',
-                              },
-                            },
-                            {
-                              menuTitle: {
-                                jsonValue: {
-                                  value: 'Company Overview',
-                                },
-                              },
-                              hideInNavigation: {
-                                jsonValue: {
-                                  value: false,
-                                },
-                              },
-                              hideInFooterNavigation: {
-                                jsonValue: {
-                                  value: false,
-                                },
-                              },
-                              primaryURL: {
-                                path: '/Investors/Company-Overview',
-                                url: 'https://xmcloudcm.localhost/en-US/Investors/Company-Overview',
-                              },
-                            },
-                            {
-                              menuTitle: {
-                                jsonValue: {
-                                  value: 'Corporate Governance',
-                                },
-                              },
-                              hideInNavigation: {
-                                jsonValue: {
-                                  value: false,
-                                },
-                              },
-                              hideInFooterNavigation: {
-                                jsonValue: {
-                                  value: false,
-                                },
-                              },
-                              primaryURL: {
-                                path: '/Investors/Corporate-Governance',
-                                url:
-                                  'https://xmcloudcm.localhost/en-US/Investors/Corporate-Governance',
-                              },
-                            },
-                            {
-                              menuTitle: {
-                                jsonValue: {
-                                  value: 'Events',
-                                },
-                              },
-                              hideInNavigation: {
-                                jsonValue: {
-                                  value: false,
-                                },
-                              },
-                              hideInFooterNavigation: {
-                                jsonValue: {
-                                  value: false,
-                                },
-                              },
-                              primaryURL: {
-                                path: '/Investors/Events',
-                                url: 'https://xmcloudcm.localhost/en-US/Investors/Events',
-                              },
-                            },
-                            {
-                              menuTitle: {
-                                jsonValue: {
-                                  value: 'Investor Contacts',
-                                },
-                              },
-                              hideInNavigation: {
-                                jsonValue: {
-                                  value: false,
-                                },
-                              },
-                              hideInFooterNavigation: {
-                                jsonValue: {
-                                  value: false,
-                                },
-                              },
-                              primaryURL: {
-                                path: '/Investors/IR-Contacts',
-                                url: 'https://xmcloudcm.localhost/en-US/Investors/IR-Contacts',
-                              },
-                            },
-                            {
-                              menuTitle: {
-                                jsonValue: {
-                                  value: 'Join our Q3 2019 conference call',
-                                },
-                              },
-                              hideInNavigation: {
-                                jsonValue: {
-                                  value: true,
-                                },
-                              },
-                              hideInFooterNavigation: {
-                                jsonValue: {
-                                  value: true,
-                                },
-                              },
-                              primaryURL: {
-                                path: '/Investors/Join-our-Q3-2019-conference-call',
-                                url:
-                                  'https://xmcloudcm.localhost/en-US/Investors/Join-our-Q3-2019-conference-call',
-                              },
-                            },
-                            {
-                              menuTitle: {
-                                jsonValue: {
-                                  value: 'News Releases',
-                                },
-                              },
-                              hideInNavigation: {
-                                jsonValue: {
-                                  value: false,
-                                },
-                              },
-                              hideInFooterNavigation: {
-                                jsonValue: {
-                                  value: false,
-                                },
-                              },
-                              primaryURL: {
-                                path: '/Investors/News-Releases',
-                                url: 'https://xmcloudcm.localhost/en-US/Investors/News-Releases',
-                              },
-                            },
-                            {
-                              menuTitle: {
-                                jsonValue: {
-                                  value: 'Presentations',
-                                },
-                              },
-                              hideInNavigation: {
-                                jsonValue: {
-                                  value: false,
-                                },
-                              },
-                              hideInFooterNavigation: {
-                                jsonValue: {
-                                  value: false,
-                                },
-                              },
-                              primaryURL: {
-                                path: '/Investors/Presentations',
-                                url: 'https://xmcloudcm.localhost/en-US/Investors/Presentations',
-                              },
-                            },
-                            {
-                              menuTitle: {
-                                jsonValue: {
-                                  value: 'Quarterly Results',
-                                },
-                              },
-                              hideInNavigation: {
-                                jsonValue: {
-                                  value: false,
-                                },
-                              },
-                              hideInFooterNavigation: {
-                                jsonValue: {
-                                  value: false,
-                                },
-                              },
-                              primaryURL: {
-                                path: '/Investors/Quarterly-Results',
-                                url:
-                                  'https://xmcloudcm.localhost/en-US/Investors/Quarterly-Results',
-                              },
-                            },
-                            {
-                              menuTitle: {
-                                jsonValue: {
-                                  value: 'SEC Filings',
-                                },
-                              },
-                              hideInNavigation: {
-                                jsonValue: {
-                                  value: false,
-                                },
-                              },
-                              hideInFooterNavigation: {
-                                jsonValue: {
-                                  value: false,
-                                },
-                              },
-                              primaryURL: {
-                                path: '/Investors/SEC-Filings',
-                                url: 'https://xmcloudcm.localhost/en-US/Investors/SEC-Filings',
-                              },
-                            },
-                          ],
-                        },
-                        secondaryMenu2: {
-                          results: [
-                            {
-                              menuTitle: {
-                                jsonValue: {
-                                  value: 'Shareholder Information',
-                                },
-                              },
-                              hideInNavigation: {
-                                jsonValue: {
-                                  value: false,
-                                },
-                              },
-                              hideInFooterNavigation: {
-                                jsonValue: {
-                                  value: false,
-                                },
-                              },
-                              primaryURL: {
-                                path: '/Investors/Shareholder-Information',
-                                url:
-                                  'https://xmcloudcm.localhost/en-US/Investors/Shareholder-Information',
-                              },
-                            },
-                            {
-                              menuTitle: {
-                                jsonValue: {
-                                  value: 'Stock Information',
-                                },
-                              },
-                              hideInNavigation: {
-                                jsonValue: {
-                                  value: false,
-                                },
-                              },
-                              hideInFooterNavigation: {
-                                jsonValue: {
-                                  value: false,
-                                },
-                              },
-                              primaryURL: {
-                                path: '/Investors/Stock-Information',
-                                url:
-                                  'https://xmcloudcm.localhost/en-US/Investors/Stock-Information',
-                              },
-                            },
-                          ],
-                        },
-                      },
-                      {
-                        menuTitle: {
-                          jsonValue: {
-                            value: 'Products and Services',
-                          },
-                        },
-                        hideInNavigation: {
-                          jsonValue: {
-                            value: false,
-                          },
-                        },
-                        hideInFooterNavigation: {
-                          jsonValue: {
-                            value: false,
-                          },
-                        },
-                        primaryURL: {
-                          path: '/Products-and-Services',
-                          url: 'https://xmcloudcm.localhost/en-US/Products-and-Services',
-                        },
-                        secondaryMenu: {
-                          results: [
-                            {
-                              menuTitle: {
-                                jsonValue: {
-                                  value: 'Brands',
-                                },
-                              },
-                              hideInNavigation: {
-                                jsonValue: {
-                                  value: false,
-                                },
-                              },
-                              hideInFooterNavigation: {
-                                jsonValue: {
-                                  value: false,
-                                },
-                              },
-                              primaryURL: {
-                                path: '/Products-and-Services/Brands',
-                                url:
-                                  'https://xmcloudcm.localhost/en-US/Products-and-Services/Brands',
-                              },
-                            },
-                            {
-                              menuTitle: {
-                                jsonValue: {
-                                  value: 'Capabilities and Industries',
-                                },
-                              },
-                              hideInNavigation: {
-                                jsonValue: {
-                                  value: false,
-                                },
-                              },
-                              hideInFooterNavigation: {
-                                jsonValue: {
-                                  value: false,
-                                },
-                              },
-                              primaryURL: {
-                                path: '/Products-and-Services/Capabilities',
-                                url:
-                                  'https://xmcloudcm.localhost/en-US/Products-and-Services/Capabilities',
-                              },
-                            },
-                            {
-                              menuTitle: {
-                                jsonValue: {
-                                  value: 'Document Library',
-                                },
-                              },
-                              hideInNavigation: {
-                                jsonValue: {
-                                  value: false,
-                                },
-                              },
-                              hideInFooterNavigation: {
-                                jsonValue: {
-                                  value: false,
-                                },
-                              },
-                              primaryURL: {
-                                path: '/Products-and-Services/Document-Library',
-                                url:
-                                  'https://xmcloudcm.localhost/en-US/Products-and-Services/Document-Library',
-                              },
-                            },
-                            {
-                              menuTitle: {
-                                jsonValue: {
-                                  value: 'Patents',
-                                },
-                              },
-                              hideInNavigation: {
-                                jsonValue: {
-                                  value: false,
-                                },
-                              },
-                              hideInFooterNavigation: {
-                                jsonValue: {
-                                  value: false,
-                                },
-                              },
-                              primaryURL: {
-                                path: '/Products-and-Services/Patents',
-                                url:
-                                  'https://xmcloudcm.localhost/en-US/Products-and-Services/Patents',
-                              },
-                            },
-                            {
-                              menuTitle: {
-                                jsonValue: {
-                                  value: 'Tools',
-                                },
-                              },
-                              hideInNavigation: {
-                                jsonValue: {
-                                  value: false,
-                                },
-                              },
-                              hideInFooterNavigation: {
-                                jsonValue: {
-                                  value: false,
-                                },
-                              },
-                              primaryURL: {
-                                path: '/Products-and-Services/Tools',
-                                url:
-                                  'https://xmcloudcm.localhost/en-US/Products-and-Services/Tools',
-                              },
-                            },
-                            {
-                              menuTitle: {
-                                jsonValue: {
-                                  value: 'Training',
-                                },
-                              },
-                              hideInNavigation: {
-                                jsonValue: {
-                                  value: false,
-                                },
-                              },
-                              hideInFooterNavigation: {
-                                jsonValue: {
-                                  value: false,
-                                },
-                              },
-                              primaryURL: {
-                                path: '/Products-and-Services/Training',
-                                url:
-                                  'https://xmcloudcm.localhost/en-US/Products-and-Services/Training',
-                              },
-                            },
-                          ],
-                        },
-                        secondaryMenu2: {
-                          results: [],
-                        },
-                      },
-                    ],
-                  },
+      },
+      homeItem: {
+        primaryMenu: {
+          results: [
+            {
+              menuTitle: {
+                jsonValue: {
+                  value: 'About Us',
                 },
-              ],
+              },
+              hideInNavigation: {
+                jsonValue: {
+                  value: true,
+                },
+              },
+              hideInFooterNavigation: {
+                jsonValue: {
+                  value: true,
+                },
+              },
+              primaryURL: {
+                path: '/About',
+                url: 'https://xmcloudcm.localhost/en-US/About',
+              },
+              secondaryMenu: {
+                results: [
+                  {
+                    menuTitle: {
+                      jsonValue: {
+                        value: 'Industry Events',
+                      },
+                    },
+                    hideInNavigation: {
+                      jsonValue: {
+                        value: false,
+                      },
+                    },
+                    hideInFooterNavigation: {
+                      jsonValue: {
+                        value: false,
+                      },
+                    },
+                    primaryURL: {
+                      path: '/About/Events',
+                      url: 'https://xmcloudcm.localhost/en-US/About/Events',
+                    },
+                  },
+                  {
+                    menuTitle: {
+                      jsonValue: {
+                        value: 'News',
+                      },
+                    },
+                    hideInNavigation: {
+                      jsonValue: {
+                        value: false,
+                      },
+                    },
+                    hideInFooterNavigation: {
+                      jsonValue: {
+                        value: false,
+                      },
+                    },
+                    primaryURL: {
+                      path: '/About/News',
+                      url: 'https://xmcloudcm.localhost/en-US/About/News',
+                    },
+                  },
+                  {
+                    menuTitle: {
+                      jsonValue: {
+                        value: 'NOV Live',
+                      },
+                    },
+                    hideInNavigation: {
+                      jsonValue: {
+                        value: false,
+                      },
+                    },
+                    hideInFooterNavigation: {
+                      jsonValue: {
+                        value: false,
+                      },
+                    },
+                    primaryURL: {
+                      path: '/About/NOV-Live',
+                      url: 'https://xmcloudcm.localhost/en-US/About/NOV-Live',
+                    },
+                  },
+                  {
+                    menuTitle: {
+                      jsonValue: {
+                        value: 'NOV Today Podcast',
+                      },
+                    },
+                    hideInNavigation: {
+                      jsonValue: {
+                        value: false,
+                      },
+                    },
+                    hideInFooterNavigation: {
+                      jsonValue: {
+                        value: false,
+                      },
+                    },
+                    primaryURL: {
+                      path: '/About/NOV-Today-Podcast',
+                      url: 'https://xmcloudcm.localhost/en-US/About/NOV-Today-Podcast',
+                    },
+                  },
+                  {
+                    menuTitle: {
+                      jsonValue: {
+                        value: 'Our Business Units',
+                      },
+                    },
+                    hideInNavigation: {
+                      jsonValue: {
+                        value: false,
+                      },
+                    },
+                    hideInFooterNavigation: {
+                      jsonValue: {
+                        value: false,
+                      },
+                    },
+                    primaryURL: {
+                      path: '/About/Our-Business-Units',
+                      url: 'https://xmcloudcm.localhost/en-US/About/Our-Business-Units',
+                    },
+                  },
+                  {
+                    menuTitle: {
+                      jsonValue: {
+                        value: 'Our Company Structure',
+                      },
+                    },
+                    hideInNavigation: {
+                      jsonValue: {
+                        value: false,
+                      },
+                    },
+                    hideInFooterNavigation: {
+                      jsonValue: {
+                        value: false,
+                      },
+                    },
+                    primaryURL: {
+                      path: '/About/Our-Company-Structure',
+                      url: 'https://xmcloudcm.localhost/en-US/About/Our-Company-Structure',
+                    },
+                  },
+                  {
+                    menuTitle: {
+                      jsonValue: {
+                        value: 'Sustainability',
+                      },
+                    },
+                    hideInNavigation: {
+                      jsonValue: {
+                        value: false,
+                      },
+                    },
+                    hideInFooterNavigation: {
+                      jsonValue: {
+                        value: false,
+                      },
+                    },
+                    primaryURL: {
+                      path: '/About/Sustainability',
+                      url: 'https://xmcloudcm.localhost/en-US/About/Sustainability',
+                    },
+                  },
+                ],
+              },
+              secondaryMenu2: {
+                results: [],
+              },
             },
-          },
-        ],
+            {
+              menuTitle: {
+                jsonValue: {
+                  value: 'Careers',
+                },
+              },
+              hideInNavigation: {
+                jsonValue: {
+                  value: false,
+                },
+              },
+              hideInFooterNavigation: {
+                jsonValue: {
+                  value: false,
+                },
+              },
+              primaryURL: {
+                path: '/Careers',
+                url: 'https://xmcloudcm.localhost/en-US/Careers',
+              },
+              secondaryMenu: {
+                results: [
+                  {
+                    menuTitle: {
+                      jsonValue: {
+                        value: 'Diversity',
+                      },
+                    },
+                    hideInNavigation: {
+                      jsonValue: {
+                        value: false,
+                      },
+                    },
+                    hideInFooterNavigation: {
+                      jsonValue: {
+                        value: false,
+                      },
+                    },
+                    primaryURL: {
+                      path: '/Careers/Diversity',
+                      url: 'https://xmcloudcm.localhost/en-US/Careers/Diversity',
+                    },
+                  },
+                  {
+                    menuTitle: {
+                      jsonValue: {
+                        value: 'Early Career Development',
+                      },
+                    },
+                    hideInNavigation: {
+                      jsonValue: {
+                        value: false,
+                      },
+                    },
+                    hideInFooterNavigation: {
+                      jsonValue: {
+                        value: false,
+                      },
+                    },
+                    primaryURL: {
+                      path: '/Careers/Early-Career-Development',
+                      url: 'https://xmcloudcm.localhost/en-US/Careers/Early-Career-Development',
+                    },
+                  },
+                  {
+                    menuTitle: {
+                      jsonValue: {
+                        value: 'Our Employees',
+                      },
+                    },
+                    hideInNavigation: {
+                      jsonValue: {
+                        value: false,
+                      },
+                    },
+                    hideInFooterNavigation: {
+                      jsonValue: {
+                        value: false,
+                      },
+                    },
+                    primaryURL: {
+                      path: '/Careers/Our-Employees',
+                      url: 'https://xmcloudcm.localhost/en-US/Careers/Our-Employees',
+                    },
+                  },
+                  {
+                    menuTitle: {
+                      jsonValue: {
+                        value: 'Search for Jobs',
+                      },
+                    },
+                    hideInNavigation: {
+                      jsonValue: {
+                        value: false,
+                      },
+                    },
+                    hideInFooterNavigation: {
+                      jsonValue: {
+                        value: false,
+                      },
+                    },
+                    primaryURL: {
+                      path: '/Careers/Search-for-Jobs',
+                      url: 'https://xmcloudcm.localhost/en-US/Careers/Search-for-Jobs',
+                    },
+                  },
+                  {
+                    menuTitle: {
+                      jsonValue: {
+                        value: 'Working at NOV',
+                      },
+                    },
+                    hideInNavigation: {
+                      jsonValue: {
+                        value: false,
+                      },
+                    },
+                    hideInFooterNavigation: {
+                      jsonValue: {
+                        value: false,
+                      },
+                    },
+                    primaryURL: {
+                      path: '/Careers/Working-at-NOV',
+                      url: 'https://xmcloudcm.localhost/en-US/Careers/Working-at-NOV',
+                    },
+                  },
+                ],
+              },
+              secondaryMenu2: {
+                results: [],
+              },
+            },
+            {
+              menuTitle: {
+                jsonValue: {
+                  value: 'Investors',
+                },
+              },
+              hideInNavigation: {
+                jsonValue: {
+                  value: false,
+                },
+              },
+              hideInFooterNavigation: {
+                jsonValue: {
+                  value: false,
+                },
+              },
+              primaryURL: {
+                path: '/Investors',
+                url: 'https://xmcloudcm.localhost/en-US/Investors',
+              },
+              secondaryMenu: {
+                results: [
+                  {
+                    menuTitle: {
+                      jsonValue: {
+                        value: 'Annual Results',
+                      },
+                    },
+                    hideInNavigation: {
+                      jsonValue: {
+                        value: false,
+                      },
+                    },
+                    hideInFooterNavigation: {
+                      jsonValue: {
+                        value: false,
+                      },
+                    },
+                    primaryURL: {
+                      path: '/Investors/Annual-Results',
+                      url: 'https://xmcloudcm.localhost/en-US/Investors/Annual-Results',
+                    },
+                  },
+                  {
+                    menuTitle: {
+                      jsonValue: {
+                        value: 'Company Overview',
+                      },
+                    },
+                    hideInNavigation: {
+                      jsonValue: {
+                        value: false,
+                      },
+                    },
+                    hideInFooterNavigation: {
+                      jsonValue: {
+                        value: false,
+                      },
+                    },
+                    primaryURL: {
+                      path: '/Investors/Company-Overview',
+                      url: 'https://xmcloudcm.localhost/en-US/Investors/Company-Overview',
+                    },
+                  },
+                  {
+                    menuTitle: {
+                      jsonValue: {
+                        value: 'Corporate Governance',
+                      },
+                    },
+                    hideInNavigation: {
+                      jsonValue: {
+                        value: false,
+                      },
+                    },
+                    hideInFooterNavigation: {
+                      jsonValue: {
+                        value: false,
+                      },
+                    },
+                    primaryURL: {
+                      path: '/Investors/Corporate-Governance',
+                      url: 'https://xmcloudcm.localhost/en-US/Investors/Corporate-Governance',
+                    },
+                  },
+                  {
+                    menuTitle: {
+                      jsonValue: {
+                        value: 'Events',
+                      },
+                    },
+                    hideInNavigation: {
+                      jsonValue: {
+                        value: false,
+                      },
+                    },
+                    hideInFooterNavigation: {
+                      jsonValue: {
+                        value: false,
+                      },
+                    },
+                    primaryURL: {
+                      path: '/Investors/Events',
+                      url: 'https://xmcloudcm.localhost/en-US/Investors/Events',
+                    },
+                  },
+                  {
+                    menuTitle: {
+                      jsonValue: {
+                        value: 'Investor Contacts',
+                      },
+                    },
+                    hideInNavigation: {
+                      jsonValue: {
+                        value: false,
+                      },
+                    },
+                    hideInFooterNavigation: {
+                      jsonValue: {
+                        value: false,
+                      },
+                    },
+                    primaryURL: {
+                      path: '/Investors/IR-Contacts',
+                      url: 'https://xmcloudcm.localhost/en-US/Investors/IR-Contacts',
+                    },
+                  },
+                  {
+                    menuTitle: {
+                      jsonValue: {
+                        value: 'Join our Q3 2019 conference call',
+                      },
+                    },
+                    hideInNavigation: {
+                      jsonValue: {
+                        value: true,
+                      },
+                    },
+                    hideInFooterNavigation: {
+                      jsonValue: {
+                        value: true,
+                      },
+                    },
+                    primaryURL: {
+                      path: '/Investors/Join-our-Q3-2019-conference-call',
+                      url:
+                        'https://xmcloudcm.localhost/en-US/Investors/Join-our-Q3-2019-conference-call',
+                    },
+                  },
+                  {
+                    menuTitle: {
+                      jsonValue: {
+                        value: 'News Releases',
+                      },
+                    },
+                    hideInNavigation: {
+                      jsonValue: {
+                        value: false,
+                      },
+                    },
+                    hideInFooterNavigation: {
+                      jsonValue: {
+                        value: false,
+                      },
+                    },
+                    primaryURL: {
+                      path: '/Investors/News-Releases',
+                      url: 'https://xmcloudcm.localhost/en-US/Investors/News-Releases',
+                    },
+                  },
+                  {
+                    menuTitle: {
+                      jsonValue: {
+                        value: 'Presentations',
+                      },
+                    },
+                    hideInNavigation: {
+                      jsonValue: {
+                        value: false,
+                      },
+                    },
+                    hideInFooterNavigation: {
+                      jsonValue: {
+                        value: false,
+                      },
+                    },
+                    primaryURL: {
+                      path: '/Investors/Presentations',
+                      url: 'https://xmcloudcm.localhost/en-US/Investors/Presentations',
+                    },
+                  },
+                  {
+                    menuTitle: {
+                      jsonValue: {
+                        value: 'Quarterly Results',
+                      },
+                    },
+                    hideInNavigation: {
+                      jsonValue: {
+                        value: false,
+                      },
+                    },
+                    hideInFooterNavigation: {
+                      jsonValue: {
+                        value: false,
+                      },
+                    },
+                    primaryURL: {
+                      path: '/Investors/Quarterly-Results',
+                      url: 'https://xmcloudcm.localhost/en-US/Investors/Quarterly-Results',
+                    },
+                  },
+                  {
+                    menuTitle: {
+                      jsonValue: {
+                        value: 'SEC Filings',
+                      },
+                    },
+                    hideInNavigation: {
+                      jsonValue: {
+                        value: false,
+                      },
+                    },
+                    hideInFooterNavigation: {
+                      jsonValue: {
+                        value: false,
+                      },
+                    },
+                    primaryURL: {
+                      path: '/Investors/SEC-Filings',
+                      url: 'https://xmcloudcm.localhost/en-US/Investors/SEC-Filings',
+                    },
+                  },
+                ],
+              },
+              secondaryMenu2: {
+                results: [
+                  {
+                    menuTitle: {
+                      jsonValue: {
+                        value: 'Shareholder Information',
+                      },
+                    },
+                    hideInNavigation: {
+                      jsonValue: {
+                        value: false,
+                      },
+                    },
+                    hideInFooterNavigation: {
+                      jsonValue: {
+                        value: false,
+                      },
+                    },
+                    primaryURL: {
+                      path: '/Investors/Shareholder-Information',
+                      url: 'https://xmcloudcm.localhost/en-US/Investors/Shareholder-Information',
+                    },
+                  },
+                  {
+                    menuTitle: {
+                      jsonValue: {
+                        value: 'Stock Information',
+                      },
+                    },
+                    hideInNavigation: {
+                      jsonValue: {
+                        value: false,
+                      },
+                    },
+                    hideInFooterNavigation: {
+                      jsonValue: {
+                        value: false,
+                      },
+                    },
+                    primaryURL: {
+                      path: '/Investors/Stock-Information',
+                      url: 'https://xmcloudcm.localhost/en-US/Investors/Stock-Information',
+                    },
+                  },
+                ],
+              },
+            },
+            {
+              menuTitle: {
+                jsonValue: {
+                  value: 'Products and Services',
+                },
+              },
+              hideInNavigation: {
+                jsonValue: {
+                  value: false,
+                },
+              },
+              hideInFooterNavigation: {
+                jsonValue: {
+                  value: false,
+                },
+              },
+              primaryURL: {
+                path: '/Products-and-Services',
+                url: 'https://xmcloudcm.localhost/en-US/Products-and-Services',
+              },
+              secondaryMenu: {
+                results: [
+                  {
+                    menuTitle: {
+                      jsonValue: {
+                        value: 'Brands',
+                      },
+                    },
+                    hideInNavigation: {
+                      jsonValue: {
+                        value: false,
+                      },
+                    },
+                    hideInFooterNavigation: {
+                      jsonValue: {
+                        value: false,
+                      },
+                    },
+                    primaryURL: {
+                      path: '/Products-and-Services/Brands',
+                      url: 'https://xmcloudcm.localhost/en-US/Products-and-Services/Brands',
+                    },
+                  },
+                  {
+                    menuTitle: {
+                      jsonValue: {
+                        value: 'Capabilities and Industries',
+                      },
+                    },
+                    hideInNavigation: {
+                      jsonValue: {
+                        value: false,
+                      },
+                    },
+                    hideInFooterNavigation: {
+                      jsonValue: {
+                        value: false,
+                      },
+                    },
+                    primaryURL: {
+                      path: '/Products-and-Services/Capabilities',
+                      url: 'https://xmcloudcm.localhost/en-US/Products-and-Services/Capabilities',
+                    },
+                  },
+                  {
+                    menuTitle: {
+                      jsonValue: {
+                        value: 'Document Library',
+                      },
+                    },
+                    hideInNavigation: {
+                      jsonValue: {
+                        value: false,
+                      },
+                    },
+                    hideInFooterNavigation: {
+                      jsonValue: {
+                        value: false,
+                      },
+                    },
+                    primaryURL: {
+                      path: '/Products-and-Services/Document-Library',
+                      url:
+                        'https://xmcloudcm.localhost/en-US/Products-and-Services/Document-Library',
+                    },
+                  },
+                  {
+                    menuTitle: {
+                      jsonValue: {
+                        value: 'Patents',
+                      },
+                    },
+                    hideInNavigation: {
+                      jsonValue: {
+                        value: false,
+                      },
+                    },
+                    hideInFooterNavigation: {
+                      jsonValue: {
+                        value: false,
+                      },
+                    },
+                    primaryURL: {
+                      path: '/Products-and-Services/Patents',
+                      url: 'https://xmcloudcm.localhost/en-US/Products-and-Services/Patents',
+                    },
+                  },
+                  {
+                    menuTitle: {
+                      jsonValue: {
+                        value: 'Tools',
+                      },
+                    },
+                    hideInNavigation: {
+                      jsonValue: {
+                        value: false,
+                      },
+                    },
+                    hideInFooterNavigation: {
+                      jsonValue: {
+                        value: false,
+                      },
+                    },
+                    primaryURL: {
+                      path: '/Products-and-Services/Tools',
+                      url: 'https://xmcloudcm.localhost/en-US/Products-and-Services/Tools',
+                    },
+                  },
+                  {
+                    menuTitle: {
+                      jsonValue: {
+                        value: 'Training',
+                      },
+                    },
+                    hideInNavigation: {
+                      jsonValue: {
+                        value: false,
+                      },
+                    },
+                    hideInFooterNavigation: {
+                      jsonValue: {
+                        value: false,
+                      },
+                    },
+                    primaryURL: {
+                      path: '/Products-and-Services/Training',
+                      url: 'https://xmcloudcm.localhost/en-US/Products-and-Services/Training',
+                    },
+                  },
+                ],
+              },
+              secondaryMenu2: {
+                results: [],
+              },
+            },
+          ],
+        },
       },
     },
+  },
+  rendering: {
+    componentName: '',
   },
 };
 

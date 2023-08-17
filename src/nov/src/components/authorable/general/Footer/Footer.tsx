@@ -1,5 +1,5 @@
 // import { Field, withDatasourceCheck } from '@sitecore-jss/sitecore-jss-nextjs';
-import { Image } from '@sitecore-jss/sitecore-jss-nextjs';
+import { Field, Image, ImageField, LinkField } from '@sitecore-jss/sitecore-jss-nextjs';
 import FooterCopyright from './FooterCopyright';
 import Button from '@/components/helpers/Button/Button';
 import FooterSocial from './FooterSocial';
@@ -8,6 +8,100 @@ import FooterAccordion from './FooterAccordion';
 // Local
 
 // Ideally, all this is from generated Typescript code from Sitecore and we're not manually defining types.
+interface LinksItem {
+  id: string;
+  url: string;
+  name: string;
+  displayName: string;
+  index?: number;
+  fields?: {
+    link: LinkField;
+  };
+}
+interface SocialLinks {
+  id: string;
+  url: string;
+  name: string;
+  displayName: string;
+  fields: {
+    socialChannelUrl: {
+      value: string;
+    };
+    socialChannel: {
+      value?: string;
+    };
+  };
+}
+interface Fields {
+  data: {
+    footerItem: {
+      logo: {
+        jsonValue: ImageField;
+      };
+      contactLink: {
+        jsonValue: LinkField;
+      };
+      copyrightText: {
+        jsonValue: Field<string>;
+      };
+      footerLinks: {
+        jsonValue: Array<LinksItem>;
+      };
+      footerSocialLinks: {
+        jsonValue?: Array<SocialLinks>;
+      };
+    };
+    homeItem: {
+      primaryMenu: {
+        results: Array<NavLink>;
+      };
+    };
+  };
+}
+interface NavLink {
+  menuTitle: {
+    jsonValue: Field<string>;
+  };
+  primaryURL: {
+    path: string;
+    url: string;
+  };
+  hideInNavigation: {
+    jsonValue: {
+      value: boolean;
+    };
+  };
+  hideInFooterNavigation: {
+    jsonValue: {
+      value: boolean;
+    };
+  };
+  secondaryMenu: {
+    results: Array<SecondaryMenu>;
+  };
+  secondaryMenu2: {
+    results: Array<SecondaryMenu>;
+  };
+}
+interface SecondaryMenu {
+  menuTitle: {
+    jsonValue: Field<string>;
+  };
+  primaryURL: {
+    path: string;
+    url: string;
+  };
+  hideInNavigation: {
+    jsonValue: {
+      value: boolean;
+    };
+  };
+  hideInFooterNavigation: {
+    jsonValue: {
+      value: boolean;
+    };
+  };
+}
 
 export type FooterProps = {
   rendering: { componentName: string };
@@ -15,9 +109,7 @@ export type FooterProps = {
   uid: string;
   componentName: string;
   dataSource?: string;
-  data: unknown;
-  fields: unknown;
-  defaultData: unknown;
+  fields: Fields;
 };
 
 const Footer = ({ fields }: FooterProps): JSX.Element => {
@@ -25,10 +117,8 @@ const Footer = ({ fields }: FooterProps): JSX.Element => {
   if (fields === null || fields === undefined) return <></>;
 
   const footerItem = fields?.data?.footerItem;
-
-  const filtereFooterMenu =
-    fields?.data?.footerItem?.siteTemplate?.[0]?.homeItem.results?.[0]?.primaryMenu?.results;
-  const footerSocial = fields?.data?.footerItem.footerSocialLinks.jsonValue;
+  const filtereFooterMenu = fields?.data?.homeItem?.primaryMenu?.results;
+  // const footerSocial = fields?.data?.footerItem?.footerSocialLinks?.jsonValue;
   const primaryFooterMenu = filtereFooterMenu.filter(
     (item) => item.hideInFooterNavigation.jsonValue.value === false
   );
@@ -64,11 +154,14 @@ const Footer = ({ fields }: FooterProps): JSX.Element => {
           <nav className="w-full ">
             <ul className="lg:pt-7 lg:pb-8 lg:grid lg:grid-flow-col justify-stretch">
               {Array.isArray(footerMenu) &&
-                footerMenu?.map((Item, index) => <FooterAccordion FMItem={Item} />)}
+                footerMenu?.map((Item: NavLink, index: number) => (
+                  <FooterAccordion FMItem={Item} key={index} />
+                ))}
             </ul>
           </nav>
         </div>
-        <FooterSocial footerSocialLink={footerSocial} />
+        {/* <FooterSocial footerSocialLink={footerSocial} />*/}
+        <FooterSocial footerSocialLink={footerItem?.footerSocialLinks} />
         <FooterCopyright
           copyrightText={footerItem?.copyrightText?.jsonValue}
           footerLinks={footerItem?.footerLinks?.jsonValue}

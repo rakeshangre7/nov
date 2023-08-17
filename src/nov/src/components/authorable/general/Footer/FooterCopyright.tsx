@@ -1,11 +1,19 @@
 import Button from '@/components/helpers/Button/Button';
 import { Field, LinkField, Text } from '@sitecore-jss/sitecore-jss-nextjs';
+interface LinksItem {
+  id: string;
+  url: string;
+  name: string;
+  displayName: string;
+  index?: number;
+  fields?: {
+    link: LinkField;
+  };
+}
 
 export type FooterCopyrightProps = {
   copyrightText?: Field<string>;
-
-  portalRegisterUrl?: LinkField;
-  portalLoginUrl?: LinkField;
+  footerLinks: LinksItem[];
 };
 const FooterCopyright = ({ footerLinks, copyrightText }: FooterCopyrightProps) => {
   return (
@@ -13,7 +21,7 @@ const FooterCopyright = ({ footerLinks, copyrightText }: FooterCopyrightProps) =
       <div className="container max-w-full px-8 lg:px-20 pt-6 pb-10 lg:py-8 md:flex md:justify-between">
         <ul className="flex pb-4 lg:pb-0">
           {footerLinks?.map(
-            (Links, index) =>
+            (Links: LinksItem, index: number) =>
               Links?.fields?.link.value.href && (
                 <li
                   key={index}
