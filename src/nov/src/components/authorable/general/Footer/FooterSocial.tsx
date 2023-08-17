@@ -20,6 +20,7 @@ export type FooterSocialProps = {
   };
 };
 const FooterSocial = ({ footerSocialLink }: FooterSocialProps) => {
+  console.log('test', footerSocialLink);
   return (
     <div className="grow flex items-center align-middle lg:order-2 order-5 bg-white lg:bg-gray-lightest py-11 lg:py-9">
       <ul className="w-full flex text-4xl justify-around md:w-3/5">
