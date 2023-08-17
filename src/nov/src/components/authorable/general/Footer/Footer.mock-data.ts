@@ -12,8 +12,7 @@ const defaultData: FooterProps = {
         logo: {
           jsonValue: {
             value: {
-              src:
-                'https://edge.sitecorecloud.io/nationaloile493-nov-dev-59ee/media/nov/nov-red-and-grey-logo.svg?h=24&iar=0&w=56',
+              src: 'https://edge.sitecorecloud.io/nationaloile493-nov-dev-59ee/media/nov/nov-red-and-grey-logo.svg?h=24&iar=0&w=56',
               alt: 'nov',
               width: '56',
               height: '24',
@@ -677,8 +676,7 @@ const defaultData: FooterProps = {
                     },
                     primaryURL: {
                       path: '/Investors/Join-our-Q3-2019-conference-call',
-                      url:
-                        'https://xmcloudcm.localhost/en-US/Investors/Join-our-Q3-2019-conference-call',
+                      url: 'https://xmcloudcm.localhost/en-US/Investors/Join-our-Q3-2019-conference-call',
                     },
                   },
                   {
@@ -896,8 +894,7 @@ const defaultData: FooterProps = {
                     },
                     primaryURL: {
                       path: '/Products-and-Services/Document-Library',
-                      url:
-                        'https://xmcloudcm.localhost/en-US/Products-and-Services/Document-Library',
+                      url: 'https://xmcloudcm.localhost/en-US/Products-and-Services/Document-Library',
                     },
                   },
                   {
