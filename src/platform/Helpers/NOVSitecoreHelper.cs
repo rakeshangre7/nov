@@ -5,6 +5,7 @@ using System.Web;
 using Sitecore.Data;
 using Sitecore.Data.Fields;
 using Sitecore.Data.Items;
+using Sitecore.Resources.Media;
 using XmCloudnov.Extensions;
 
 namespace XmCloudnov.Helpers
@@ -17,14 +18,18 @@ namespace XmCloudnov.Helpers
 
             if (imgField != null && imgField.MediaItem != null)
             {
+                MediaUrlOptions mediaUrlOptions = new MediaUrlOptions();
+                mediaUrlOptions.AlwaysIncludeServerUrl = true;
+                mediaUrlOptions.AbsolutePath = true;
+
                 return new NOVImage()
                 {
                     value = new ImageProperties()
                     {
-                        Url = Sitecore.Resources.Media.MediaManager.GetMediaUrl(imgField.MediaItem),
-                        Alt = imgField.Alt,
-                        Height = imgField.Height,
-                        Width = imgField.Width
+                        src = Sitecore.Resources.Media.MediaManager.GetMediaUrl(imgField.MediaItem, mediaUrlOptions),
+                        alt = imgField.Alt,
+                        height = imgField.Height,
+                        width = imgField.Width
                     }
                 };
             }
@@ -88,9 +93,9 @@ namespace XmCloudnov.Helpers
 
     public class ImageProperties
     {
-        public string Url { get; set; }
-        public string Alt { get; set; }
-        public string Height { get; set; }
-        public string Width { get; set; }
+        public string src { get; set; }
+        public string alt { get; set; }
+        public string height { get; set; }
+        public string width { get; set; }
     }
 }

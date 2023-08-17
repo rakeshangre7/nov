@@ -7,6 +7,48 @@ SharedFields:
 - ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
   Hint: componentName
   Value: DocumentList
+- ID: "17bb046a-a32a-41b3-8315-81217947611b"
+  Hint: ComponentQuery
+  Value: |
+    query DocumentList($datasource: String!, $language: String!) {
+      item(path: $datasource, language: $language) {
+        
+        path
+        ... on DocumentList{
+          name
+          assets{
+           ... on MultilistField{
+             
+             targetItems {
+               ... on Asset{
+                
+                assetTitle{
+              value
+            }
+            assetDescription{
+              value
+            }
+    
+     mediaItem{
+              ... on LookupField{
+                targetItem {
+                  url{
+                    url
+                  }
+                }
+              }
+              value
+            }
+    
+              }
+            }
+           }  
+        }
+      }
+    }
+    }
+         
+    
 - ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
   Hint: Datasource Template
   Value: /sitecore/templates/Project/nov/NOV Com/Modules/Document List
@@ -56,14 +98,14 @@ Languages:
         sitecore\ashwin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "9902e802-bc5f-421a-a449-afb10b83f57a"
+      Value: "3db8cc97-903a-47b9-9ca8-ee7eadec6d7d"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\varalakshmi.md@horizontal.com
+        sitecore\rangre@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230710T153534Z
+      Value: 20230816T124030Z
 - Language: "en-US"
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
@@ -85,11 +127,11 @@ Languages:
         sitecore\ashwin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "c88c1282-58c2-473f-91d7-c5a73bd5ffc0"
+      Value: "98528d63-9308-418b-a5a2-59c5abefe0fa"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\ashwin
+        sitecore\rangre@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20190520T182548Z
+      Value: 20230816T124346Z

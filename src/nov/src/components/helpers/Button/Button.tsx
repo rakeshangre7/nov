@@ -89,12 +89,12 @@ const Button = ({
         className={clsx(
           buttonVariants({ type: variant as Variants }),
           disabled && buttonVariants({ disabledClass: variant as Variants }),
-          className,
           {
             // 'w-fit': auto,
             'w-full': !auto && variant != 'primary',
             'justify-between': !auto && iconFullWidth,
-          }
+          },
+          className
         )}
         showLinkTextWithChildrenPresent={false}
         internalLinkMatcher={INTERNAL_LINK_REGEX}
@@ -108,7 +108,7 @@ const Button = ({
             className={clsx(buttonVariants({ iconLeft: variant as Variants }), iconClassName)}
           />
         )}
-        <span>{text}</span>
+        <span>{text || field?.value?.text}</span>
         {iconPosition === 'right' && (
           <Icon
             className={clsx(buttonVariants({ iconRight: variant as Variants }), iconClassName)}

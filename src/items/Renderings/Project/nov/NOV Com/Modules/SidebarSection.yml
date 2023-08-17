@@ -7,6 +7,58 @@ SharedFields:
 - ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
   Hint: componentName
   Value: SidebarSection
+- ID: "17bb046a-a32a-41b3-8315-81217947611b"
+  Hint: ComponentQuery
+  Value: |
+    query SideBarSection($datasource: String!, $language: String!) {
+      item(path: $datasource, language: $language) {
+      ... on SidebarSection{
+        link1{
+          anchor,
+          url,
+          text,
+          linkType
+        },
+        link2{
+           anchor,
+          url,
+          text,
+          linkType
+        },
+        link3{
+           anchor,
+          url,
+          text,
+          linkType
+        },
+        link4{
+           anchor,
+          url,
+          text,
+          linkType
+        },
+        link5{
+           anchor,
+          url,
+          text,
+          linkType
+        },
+         link6{
+           anchor,
+          url,
+          text,
+          linkType
+        },
+        headline{
+          value
+        }
+        body{
+          value
+        }
+      }
+      }
+    }
+    
 - ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
   Hint: Datasource Template
   Value: /sitecore/templates/Project/nov/NOV Com/Modules/Sidebar Section
@@ -53,7 +105,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20230710T153544Z
-- Language: "en-us"
+- Language: "en-US"
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
@@ -74,11 +126,11 @@ Languages:
         sitecore\ashwin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "36ecf91e-b0b4-4eec-b6c7-20bb40f9d1d4"
+      Value: "2bce5acf-321c-449b-9216-70c03fda1644"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\ashwin
+        sitecore\rangre@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20181210T191221Z
+      Value: 20230810T084127Z
