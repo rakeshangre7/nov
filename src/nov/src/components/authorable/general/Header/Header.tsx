@@ -1,5 +1,5 @@
 import Icon from '@/components/helpers/Icon/Icon';
-import { Text } from '@sitecore-jss/sitecore-jss-nextjs';
+import { Field, ImageField, LinkField, NextImage, Text } from '@sitecore-jss/sitecore-jss-nextjs';
 import clsx from 'clsx';
 import Image from 'next/image';
 import React, { useEffect, useRef, useState } from 'react';
@@ -7,13 +7,74 @@ import UserAccount from './UserAccount';
 import Button from '@/components/helpers/Button/Button';
 
 // Ideally, all this is from generated Typescript code from Sitecore and we're not manually defining types.
-
+type renderLinkProps = {
+  isPrimary?: boolean;
+  isSecondary?: boolean;
+  isTertiary?: boolean;
+  navList?: subPagesProps[];
+  isMobile?: boolean;
+};
+type featureDetailProps = {
+  featuredStoryHeadline?: Field<string> | null;
+  featuredStoryAbstract?: Field<string> | null;
+  featuredStoryCTALink?: LinkField | null;
+  featuredStoryCTAText?: Field<string> | null;
+  cardImage?: ImageField | null;
+};
+export type subPagesProps = {
+  subPages?: subPagesProps[];
+  hideInFooterNavigation?: boolean;
+  hideSubNavigation?: boolean;
+  target?: string | null;
+  featuredStoryHeadline?: Field<string> | null;
+  featuredStoryAbstract?: Field<string> | null;
+  featuredStoryCTALink?: LinkField | null;
+  featuredStoryCTALinkTarget?: string | null;
+  featuredStoryCTAText?: Field<string> | null;
+  hasSubPages?: boolean;
+  pageImage?: null;
+  cardImage?: ImageField | null;
+  cardImageAlt?: Field<string> | null;
+  colorCode?: Field<string> | null;
+  cssClass?: Field<string> | null;
+  featuredItem?: Field<string> | null;
+  templateId?: string;
+  itemId?: string;
+  url?: LinkField | null;
+  headline?: Field<string> | null;
+  abstract?: Field<string> | null;
+  menuTitle?: Field<string> | null;
+  mobileMenuTitle?: Field<string> | null;
+  subMenuText?: Field<string> | null;
+  isActive?: boolean;
+  linkToFirstChild?: boolean;
+  hideInNavigation?: boolean;
+};
 export type HeaderProps = {
   uid: string;
   componentName: string;
   dataSource?: string;
-  params: { [key: string]: string };
-  fields: any;
+  params?: { [key: string]: string };
+  fields?: {
+    portalDescription?: Field<string>;
+    portalRegisterUrl?: LinkField;
+    portalRegisterUrlText?: Field<string> | null;
+    portalLoginUrl?: LinkField;
+    portalLoginText?: Field<string> | null;
+    viewAllText?: Field<string>;
+    cardImage?: ImageField;
+    cardImageAlt: Field<string> | null;
+    navigationEntries?: subPagesProps[];
+    siteFeaturedHeadline?: Field<string>;
+    siteLogo?: ImageField;
+    siteLogoTransparent?: ImageField;
+    menuLabel?: Field<string>;
+    siteFeaturedAbstract?: Field<string>;
+    siteFeaturedCtaLink?: LinkField;
+    siteFeaturedCtatext?: Field<string>;
+    learnMoreText?: Field<string>;
+    portalHeader?: Field<string>;
+  };
 };
 
 const Header = ({ fields }: HeaderProps) => {
@@ -23,17 +84,11 @@ const Header = ({ fields }: HeaderProps) => {
   const [isSticky, setIsSticky] = useState<boolean>(false);
   const [isExpanded, setIsExpanded] = useState<boolean>(false);
   const [isUserProfileClick, setIsUserProfileClick] = useState<boolean>(false);
-  const [activeNavbarStoryDetail, setActiveNavbarStoryDetail] = useState({
-    featuredStoryHeadline: fields.siteFeaturedHeadline,
-    featuredStoryAbstract: fields.siteFeaturedAbstract,
-    featuredStoryCTALink: fields.siteFeaturedCtaLink,
-    featuredStoryCTAText: fields.siteFeaturedCtatext,
-    cardImage: fields.cardImage,
-  });
+  const [activeNavbarStoryDetail, setActiveNavbarStoryDetail] = useState<featureDetailProps>({});
   const [selectedPrimaryLink, setSelectedPrimaryLink] = useState<boolean | string>(false);
   const [selectedSecondaryLink, setSelectedSecondaryLink] = useState<boolean | string>();
-  const [secondaryLinkData, setSecondaryLinkData] = useState<any>([]);
-  const [tertiaryLinkData, setTertiaryLinkData] = useState<any>([]);
+  const [secondaryLinkData, setSecondaryLinkData] = useState<subPagesProps[]>([]);
+  const [tertiaryLinkData, setTertiaryLinkData] = useState<subPagesProps[]>([]);
   const handleScroll = () => {
     const currentScrollPos = window.pageYOffset;
     setIsSticky(currentScrollPos > 30);
@@ -50,11 +105,11 @@ const Header = ({ fields }: HeaderProps) => {
       setSecondaryLinkData([]);
       setTertiaryLinkData([]);
       setActiveNavbarStoryDetail({
-        featuredStoryHeadline: fields.siteFeaturedHeadline,
-        featuredStoryAbstract: fields.siteFeaturedAbstract,
-        featuredStoryCTALink: fields.siteFeaturedCtaLink,
-        featuredStoryCTAText: fields.siteFeaturedCtatext,
-        cardImage: fields.cardImage,
+        featuredStoryHeadline: fields?.siteFeaturedHeadline,
+        featuredStoryAbstract: fields?.siteFeaturedAbstract,
+        featuredStoryCTALink: fields?.siteFeaturedCtaLink,
+        featuredStoryCTAText: fields?.siteFeaturedCtatext,
+        cardImage: fields?.cardImage,
       });
     } else {
       document.body.classList.add(...className);
@@ -62,12 +117,13 @@ const Header = ({ fields }: HeaderProps) => {
   }, [isExpanded]);
 
   useEffect(() => {
-    const closeOpenMenus = (e: any) => {
+    const closeOpenMenus = ({ target }: MouseEvent): void => {
       if (
         isUserProfileClick &&
-        !userAccountRef?.current?.contains(e.target) &&
-        !(e.target.id === 'userProfile') &&
-        !(e.target.id === 'userProfileIcon')
+        target instanceof HTMLElement &&
+        !userAccountRef?.current?.contains(target as Node) &&
+        !(target.id === 'userProfile') &&
+        !(target.id === 'userProfileIcon')
       ) {
         setIsUserProfileClick(false);
       }
@@ -76,8 +132,8 @@ const Header = ({ fields }: HeaderProps) => {
   }, [userAccountRef, isUserProfileClick]);
 
   useEffect(() => {
-    const closeOpenMenus = (e: any) => {
-      if (isExpanded && !navigationRef?.current?.contains(e.target)) {
+    const closeOpenMenus = ({ target }: MouseEvent): void => {
+      if (isExpanded && target && !navigationRef?.current?.contains(target as Node)) {
         setIsExpanded(false);
       }
     };
@@ -85,6 +141,13 @@ const Header = ({ fields }: HeaderProps) => {
   }, [navigationRef, isExpanded]);
   useEffect(() => {
     window.addEventListener('scroll', handleScroll);
+    setActiveNavbarStoryDetail({
+      featuredStoryHeadline: fields?.siteFeaturedHeadline,
+      featuredStoryAbstract: fields?.siteFeaturedAbstract,
+      featuredStoryCTALink: fields?.siteFeaturedCtaLink,
+      featuredStoryCTAText: fields?.siteFeaturedCtatext,
+      cardImage: fields?.cardImage,
+    });
     return () => {
       window.removeEventListener('scroll', handleScroll);
     };
@@ -101,14 +164,12 @@ const Header = ({ fields }: HeaderProps) => {
     return (
       <div className="w-[389px] h-[700px] bg-white fixed border-l-[1px] border-gray-light top-[65px] z-10 right-0 l:w-[463px] flex justify-between flex-col">
         <div>
-          {activeNavbarStoryDetail?.cardImage?.src && (
+          {activeNavbarStoryDetail?.cardImage && (
             <a tabIndex={-1} href={activeNavbarStoryDetail?.featuredStoryCTALink?.value?.href}>
               {/* TODO: Need to add proper image */}
-              <Image
-                alt={activeNavbarStoryDetail?.cardImage?.alt}
-                src={activeNavbarStoryDetail?.cardImage?.url}
-                height={activeNavbarStoryDetail?.cardImage?.height}
-                width={activeNavbarStoryDetail?.cardImage?.width}
+
+              <NextImage
+                field={activeNavbarStoryDetail?.cardImage}
                 tabIndex={0}
                 className="basicFocus"
               />
@@ -116,35 +177,47 @@ const Header = ({ fields }: HeaderProps) => {
           )}
           <div className="px-[33px] ">
             <a tabIndex={-1} href={activeNavbarStoryDetail?.featuredStoryCTALink?.value?.href}>
-              <Text
-                tag={'h4'}
-                className="h4  mt-[30px] !text-xl text-black basicFocus w-fit !leading-30 focus:!outline-[1px]"
-                tabIndex="0"
-                field={activeNavbarStoryDetail?.featuredStoryHeadline}
-              />
+              {activeNavbarStoryDetail?.featuredStoryHeadline && (
+                <Text
+                  tag={'h4'}
+                  className="h4  mt-[30px] !text-xl text-black basicFocus w-fit !leading-30 focus:!outline-[1px]"
+                  tabIndex="0"
+                  field={activeNavbarStoryDetail?.featuredStoryHeadline}
+                />
+              )}
             </a>
-            <Text
-              tag={'p'}
-              className="body1 mt-[27px] !leading-[25.6px]"
-              field={activeNavbarStoryDetail?.featuredStoryAbstract}
-            />
+            {activeNavbarStoryDetail?.featuredStoryAbstract && (
+              <Text
+                tag={'p'}
+                className="body1 mt-[27px] !leading-[25.6px]"
+                field={activeNavbarStoryDetail?.featuredStoryAbstract}
+              />
+            )}
           </div>
         </div>
-        <Button
-          variant="button"
-          auto={false}
-          iconPosition="right"
-          iconClassName="icon-arrow-right"
-          iconFullWidth={true}
-          className="!min-h-[40px] max-h-[40px] text-[16px] px-[33px] py-[12px]"
-          text={activeNavbarStoryDetail?.featuredStoryCTAText?.value}
-          field={activeNavbarStoryDetail?.featuredStoryCTALink}
-        />
+        {activeNavbarStoryDetail?.featuredStoryCTALink && (
+          <Button
+            variant="button"
+            auto={false}
+            iconPosition="right"
+            iconClassName="icon-arrow-right"
+            iconFullWidth={true}
+            className="!min-h-[40px] max-h-[40px] text-[16px] px-[33px] py-[12px]"
+            text={activeNavbarStoryDetail?.featuredStoryCTAText?.value}
+            field={activeNavbarStoryDetail?.featuredStoryCTALink}
+          />
+        )}
       </div>
     );
   };
 
-  const renderLinks = ({ isPrimary, isSecondary, isTertiary, navList, isMobile }: any) => {
+  const renderLinks = ({
+    isPrimary,
+    isSecondary,
+    isTertiary,
+    navList,
+    isMobile,
+  }: renderLinkProps) => {
     return (
       <div className="relative">
         <a
@@ -162,50 +235,55 @@ const Header = ({ fields }: HeaderProps) => {
             })}
           ></Icon>
         </a>
-        {navList?.map((navbar: any) => {
+        {navList?.map((navbar: subPagesProps) => {
           return (
             <>
-              <Button
-                variant={'secondary'}
-                auto={false}
-                className={clsx(
-                  'mt-[14px] relative ml-[2px] text-lightBlack l:max-w-[165px] xl:max-w-[225px] [&_span]:max-w-full  min-h-[28px] h-fit l:[&_span]:max-w-[193px] active:!text-lightBlack l:active:!text-primary hover:!text-lightBlack l:hover:!text-primary',
-                  {
-                    '!text-primary cursor-default !outline-none':
-                      selectedPrimaryLink === navbar.itemId ||
-                      selectedSecondaryLink === navbar.itemId,
-                  }
-                )}
-                text={navbar?.menuTitle?.value}
-                field={navbar.url}
-                onClick={(e) => {
-                  if (navbar?.subPages?.length > 0) {
-                    e.preventDefault();
-                    e.stopPropagation();
-                    if (isPrimary) {
-                      setSelectedPrimaryLink(navbar.itemId);
-                      setSecondaryLinkData(navbar.subPages);
-                    } else if (isSecondary) {
-                      setSelectedSecondaryLink(navbar.itemId);
-                      setTertiaryLinkData(navbar.subPages);
+              {navbar.url && (
+                <Button
+                  variant={'secondary'}
+                  auto={false}
+                  className={clsx(
+                    'mt-[14px] relative ml-[2px] text-lightBlack l:max-w-[165px] xl:max-w-[225px] [&_span]:max-w-full  min-h-[28px] h-fit l:[&_span]:max-w-[193px] active:!text-lightBlack l:active:!text-primary hover:!text-lightBlack l:hover:!text-primary',
+                    {
+                      '!text-primary cursor-default !outline-none':
+                        selectedPrimaryLink === navbar.itemId ||
+                        selectedSecondaryLink === navbar.itemId,
                     }
-                    if (isPrimary) {
-                      setActiveNavbarStoryDetail({
-                        featuredStoryHeadline: navbar.featuredStoryHeadline,
-                        featuredStoryAbstract: navbar.featuredStoryAbstract,
-                        featuredStoryCTALink: navbar.featuredStoryCTALink,
-                        featuredStoryCTAText: navbar.featuredStoryCTAText,
-                        cardImage: navbar.cardImage,
-                      });
+                  )}
+                  text={navbar?.menuTitle?.value}
+                  field={navbar.url}
+                  onClick={(e) => {
+                    if (navbar?.subPages) {
+                      if (navbar.subPages?.length > 0) {
+                        e.preventDefault();
+                        e.stopPropagation();
+                        if (isPrimary && navbar.itemId) {
+                          setSelectedPrimaryLink(navbar.itemId);
+                          setSecondaryLinkData(navbar.subPages);
+                        } else if (isSecondary && navbar.itemId) {
+                          setSelectedSecondaryLink(navbar.itemId);
+                          setTertiaryLinkData(navbar.subPages);
+                        }
+                        if (isPrimary) {
+                          setActiveNavbarStoryDetail({
+                            featuredStoryHeadline: navbar.featuredStoryHeadline,
+                            featuredStoryAbstract: navbar.featuredStoryAbstract,
+                            featuredStoryCTALink: navbar.featuredStoryCTALink,
+                            featuredStoryCTAText: navbar.featuredStoryCTAText,
+                            cardImage: navbar.cardImage,
+                          });
+                        }
+                      }
                     }
-                  }
-                }}
-                {...(!isTertiary &&
-                  navbar?.subPages?.length > 0 && {
-                    iconPosition: 'right',
-                    iconClassName: 'icon-chevron-right text-lg',
-                  })}
-              />
+                  }}
+                  {...(!isTertiary &&
+                    navbar?.subPages &&
+                    navbar.subPages?.length > 0 && {
+                      iconPosition: 'right',
+                      iconClassName: 'icon-chevron-right text-lg',
+                    })}
+                />
+              )}
               {!isMobile && isPrimary && selectedPrimaryLink === navbar.itemId && (
                 <div className="absolute top-0 left-[100%] h-full  w-[220px] items-start pr-0 xl:w-[300px] mt-[-14px] pl-[1px] ">
                   {renderLinks({ isSecondary: true, navList: secondaryLinkData })}
@@ -240,10 +318,10 @@ const Header = ({ fields }: HeaderProps) => {
           <div className="smd:hidden">
             <UserAccount
               isMobile={true}
-              portalHeader={fields.portalHeader}
-              portalDescription={fields.portalDescription}
-              portalRegisterUrl={fields.portalRegisterUrl}
-              portalLoginUrl={fields.portalLoginUrl}
+              portalHeader={fields?.portalHeader}
+              portalDescription={fields?.portalDescription}
+              portalRegisterUrl={fields?.portalRegisterUrl}
+              portalLoginUrl={fields?.portalLoginUrl}
             />
           </div>
         </div>
@@ -310,17 +388,18 @@ const Header = ({ fields }: HeaderProps) => {
                 <div
                   ref={userAccountRef}
                   className={clsx(
-                    'absolute transition-all ease-in-out duration-200 invisible top-[47px] right-[-63px] opacity-0 w-[256px] ',
+                    'absolute transition-all ease-in-out duration-200 invisible top-[47px] right-[-63px] opacity-0 w-[256px]',
                     {
-                      'smd:visible smd:opacity-100 smd:h-[228px] z-50 drop-shadow-[0_0_5px_rgba(51,51,51,0.22)] before:content("") before:border-[7px] before:absolute before:top-[calc(7px*-2)] before:border-x-transparent before:border-t-transparent before:border-b-white  before:right-[calc(25%+7px)]': isUserProfileClick,
+                      'smd:visible smd:opacity-100 smd:h-[228px] z-50 drop-shadow-[0_0_5px_rgba(51,51,51,0.22)] before:content("") before:border-[7px] before:absolute before:top-[calc(7px*-2)] before:border-x-transparent before:border-t-transparent before:border-b-white  before:right-[calc(25%+7px)]':
+                        isUserProfileClick,
                     }
                   )}
                 >
                   <UserAccount
-                    portalHeader={fields.portalHeader}
-                    portalDescription={fields.portalDescription}
-                    portalRegisterUrl={fields.portalRegisterUrl}
-                    portalLoginUrl={fields.portalLoginUrl}
+                    portalHeader={fields?.portalHeader}
+                    portalDescription={fields?.portalDescription}
+                    portalRegisterUrl={fields?.portalRegisterUrl}
+                    portalLoginUrl={fields?.portalLoginUrl}
                   />
                 </div>
               }
@@ -330,14 +409,16 @@ const Header = ({ fields }: HeaderProps) => {
               className="flex items-center basicFocus px-[2.5px] mr-[1px] l:mr-0 cursor-pointer h-[30px] rounded-[1px]"
               onClick={() => setIsExpanded(!isExpanded)}
             >
-              <Text
-                tag={'p'}
-                className={clsx(' mr-[15px] body2 !leading-16 font-medium', {
-                  'text-black': isExpanded,
-                  'text-white': !isExpanded,
-                })}
-                field={fields.menuLabel}
-              />
+              {fields?.menuLabel && (
+                <Text
+                  tag={'p'}
+                  className={clsx(' mr-[15px] body2 !leading-16 font-medium', {
+                    'text-black': isExpanded,
+                    'text-white': !isExpanded,
+                  })}
+                  field={fields.menuLabel}
+                />
+              )}
               <Icon
                 className={clsx('text-xl', {
                   'text-black icon-x scale-[1.2]': isExpanded,
