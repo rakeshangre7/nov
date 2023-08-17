@@ -276,7 +276,7 @@ const Header = ({ fields }: HeaderProps) => {
     return (
       <div className="w-[389px] h-[700px] bg-white fixed border-l-[1px] border-gray-light top-[65px] z-10 right-0 l:w-[463px] flex justify-between flex-col">
         <div>
-          {activeNavbarStoryDetail?.cardImage && (
+          {activeNavbarStoryDetail?.cardImage?.value?.src && (
             <a tabIndex={-1} href={activeNavbarStoryDetail?.featuredStoryCTALink?.value?.href}>
               <NextImage
                 field={activeNavbarStoryDetail?.cardImage}
@@ -477,9 +477,13 @@ const Header = ({ fields }: HeaderProps) => {
         <div className="container xl:max-w-nxl l:max-w-nlg lg:max-w-full  mx-auto h-full flex justify-between items-center">
           <a className="log-wrapper text-white basicFocus" href="/">
             {!isExpanded ? (
-              <NextImage field={fields?.siteLogoTransparent} />
+              <>
+                {fields?.siteLogoTransparent?.value?.src && (
+                  <NextImage field={fields?.siteLogoTransparent} />
+                )}
+              </>
             ) : (
-              <NextImage field={fields?.siteLogo} />
+              <> {fields?.siteLogo?.value?.src && <NextImage field={fields?.siteLogo} />}</>
             )}
           </a>
           <ul className="flex items-center">
