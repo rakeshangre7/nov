@@ -1,0 +1,68 @@
+﻿---
+ID: "8b474b92-9d93-442b-b8ab-6ffffca5d53d"
+Parent: "5364b321-1d1d-4637-bf61-478519d4df4a"
+Template: "42b89a58-67c0-454d-8774-0c34e46f5d9d"
+Path: /sitecore/content/nov/nov/Data/System/Business Units Folder/Downhole
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181024T174439Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1c16cfdf-bcb3-458e-88e8-5c933fa1cedb"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ashwin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20181024T174443Z
+    - ID: "fd73a0aa-9735-498a-a0ac-548a27f79d61"
+      Hint: businessUnitName
+      Value: Downhole
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "15ccc5c2-c336-42e1-9a69-c0654bc39cb4"
+      Hint: personalizationProfile
+      Value: "{4B1ADC56-C8FC-4CE6-A5A6-9D3C974C5D5C}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190708T154606Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{40251B7D-FBE3-4A0E-8947-D4B4FE8CD782}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticgappau
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\verticgappau
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d1c002ea-f03f-48df-9eca-c30146e2257e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\verticgappau
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190708T154606Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190708T154625Z
+    - ID: "fd73a0aa-9735-498a-a0ac-548a27f79d61"
+      Hint: businessUnitName
+      Value: Downhole

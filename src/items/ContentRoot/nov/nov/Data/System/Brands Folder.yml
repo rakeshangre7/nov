@@ -1,0 +1,28 @@
+﻿---
+ID: "09381a1f-b159-43fa-927f-8bebba5a450f"
+Parent: "7709cdcf-ebe4-485d-9aca-b79bdda6bb2d"
+Template: "ec6e335a-1205-4327-91be-80459828d619"
+Path: /sitecore/content/nov/nov/Data/System/Brands Folder
+SharedFields:
+- ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
+  Hint: __Security
+  Value: |
+    ar|sitecore\NOV Editor|pe|+item:create|pd|+item:rename|+item:write|+item:create|+item:delete|
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181114T191506Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "032d3522-f6d6-480e-98cc-13bb99c3a55a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ashwin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20181114T191506Z
