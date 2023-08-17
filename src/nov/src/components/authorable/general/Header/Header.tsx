@@ -1,7 +1,6 @@
 import Icon from '@/components/helpers/Icon/Icon';
 import { Field, ImageField, LinkField, NextImage, Text } from '@sitecore-jss/sitecore-jss-nextjs';
 import clsx from 'clsx';
-import Image from 'next/image';
 import React, { useEffect, useRef, useState } from 'react';
 import UserAccount from './UserAccount';
 import Button from '@/components/helpers/Button/Button';
@@ -14,6 +13,7 @@ type renderLinkProps = {
   navList?: subPagesProps[];
   isMobile?: boolean;
 };
+
 type featureDetailProps = {
   featuredStoryHeadline?: Field<string> | null;
   featuredStoryAbstract?: Field<string> | null;
@@ -238,7 +238,7 @@ const Header = ({ fields }: HeaderProps) => {
         {navList?.map((navbar: subPagesProps) => {
           return (
             <>
-              {navbar.url && (
+              {navbar.url && !navbar.hideInNavigation && (
                 <Button
                   variant={'secondary'}
                   auto={false}
@@ -253,7 +253,7 @@ const Header = ({ fields }: HeaderProps) => {
                   text={navbar?.menuTitle?.value}
                   field={navbar.url}
                   onClick={(e) => {
-                    if (navbar?.subPages) {
+                    if (navbar?.subPages && !navbar.hideSubNavigation) {
                       if (navbar.subPages?.length > 0) {
                         e.preventDefault();
                         e.stopPropagation();
@@ -278,22 +278,33 @@ const Header = ({ fields }: HeaderProps) => {
                   }}
                   {...(!isTertiary &&
                     navbar?.subPages &&
+                    !navbar.hideSubNavigation &&
                     navbar.subPages?.length > 0 && {
                       iconPosition: 'right',
                       iconClassName: 'icon-chevron-right text-lg',
                     })}
                 />
               )}
-              {!isMobile && isPrimary && selectedPrimaryLink === navbar.itemId && (
-                <div className="absolute top-0 left-[100%] h-full  w-[220px] items-start pr-0 xl:w-[300px] mt-[-14px] pl-[1px] ">
-                  {renderLinks({ isSecondary: true, navList: secondaryLinkData })}
-                </div>
-              )}
-              {!isMobile && isSecondary && selectedSecondaryLink === navbar.itemId && (
-                <div className="absolute top-0 left-[100%] h-full w-[220px] items-start pr-0 xl:w-[300px] mt-[-14px] pl-[1px] ">
-                  {renderLinks({ isTertiary: true, navList: tertiaryLinkData })}
-                </div>
-              )}
+              {!isMobile &&
+                isPrimary &&
+                navbar?.subPages &&
+                navbar.subPages?.length > 0 &&
+                !navbar.hideSubNavigation &&
+                selectedPrimaryLink === navbar.itemId && (
+                  <div className="absolute top-0 left-[100%] h-full  w-[220px] items-start pr-0 xl:w-[300px] mt-[-14px] pl-[1px] ">
+                    {renderLinks({ isSecondary: true, navList: secondaryLinkData })}
+                  </div>
+                )}
+              {!isMobile &&
+                isSecondary &&
+                !navbar.hideSubNavigation &&
+                navbar?.subPages &&
+                navbar.subPages?.length > 0 &&
+                selectedSecondaryLink === navbar.itemId && (
+                  <div className="absolute top-0 left-[100%] h-full w-[220px] items-start pr-0 xl:w-[300px] mt-[-14px] pl-[1px] ">
+                    {renderLinks({ isTertiary: true, navList: tertiaryLinkData })}
+                  </div>
+                )}
             </>
           );
         })}
@@ -340,19 +351,9 @@ const Header = ({ fields }: HeaderProps) => {
           <a className="log-wrapper text-white basicFocus" href="/">
             {/* TODO: Need to add proper image */}
             {!isExpanded ? (
-              <Image
-                alt="logo"
-                src="https://www.nov.com/frontend/dist/assets/images/nov-white-logo.svg?h=ca4c3608b57011ce5e9505976a8c031c"
-                width={56}
-                height={24}
-              />
+              <NextImage field={fields?.siteLogoTransparent} />
             ) : (
-              <Image
-                alt="logo"
-                src="https://www.nov.com/frontend/dist/assets/images/nov-red-and-grey-logo.svg?h=5a8a2922d81cecf82baa22b433cc9d0f"
-                width={56}
-                height={24}
-              />
+              <NextImage field={fields?.siteLogo} />
             )}
           </a>
           <ul className="flex items-center">
