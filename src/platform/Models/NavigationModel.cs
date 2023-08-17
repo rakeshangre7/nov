@@ -8,7 +8,7 @@ namespace XmCloudnov.Models
 {
     public class NavigationModel
     {
-        public string SiteFeaturedHeadline
+        public StringField SiteFeaturedHeadline
         {
             get; set;
         }
@@ -16,56 +16,60 @@ namespace XmCloudnov.Models
         {
             get; set;
         }
-        public string MenuLabel
+        public NOVImage SiteLogoTransparent
+        {
+            get;set;
+        }
+        public StringField MenuLabel
         {
             get; set;
         }
-        public string SiteFeaturedAbstract
+        public StringField SiteFeaturedAbstract
         {
             get; set;
         }
-        public string SiteFeaturedCtaLink
+        public NOVLink SiteFeaturedCtaLink
         {
             get; set;
         }
 
-        public string SiteFeaturedCtaLinkTarget
+        //public StringField SiteFeaturedCtaLinkTarget
+        //{
+        //    get; set;
+        //}
+        public StringField SiteFeaturedCtatext
         {
             get; set;
         }
-        public string SiteFeaturedCtatext
+        public StringField LearnMoreText
         {
             get; set;
         }
-        public string LearnMoreText
+        public StringField PortalHeader
         {
             get; set;
         }
-        public string PortalHeader
+        public StringField PortalDescription
         {
             get; set;
         }
-        public string PortalDescription
+        public NOVLink PortalRegisterUrl
         {
             get; set;
         }
-        public string PortalRegisterUrl
+        public StringField PortalRegisterUrlText
         {
             get; set;
         }
-        public string PortalRegisterUrlText
+        public NOVLink PortalLoginUrl
         {
             get; set;
         }
-        public string PortalLoginUrl
+        public StringField PortalLoginText
         {
             get; set;
         }
-        public string PortalLoginText
-        {
-            get; set;
-        }
-        public string ViewAllText
+        public StringField ViewAllText
         {
             get; set;
         }
@@ -73,7 +77,7 @@ namespace XmCloudnov.Models
         {
             get; set;
         }
-        public string CardImageAlt
+        public StringField CardImageAlt
         {
             get; set;
         }
@@ -104,4 +108,6 @@ namespace XmCloudnov.Models
         //    }
         //}
     }
+
+    
 }

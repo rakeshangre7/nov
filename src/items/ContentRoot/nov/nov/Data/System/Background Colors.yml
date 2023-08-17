@@ -1,0 +1,28 @@
+﻿---
+ID: "c7bef56a-0801-4854-86ba-9453b99e84f5"
+Parent: "7709cdcf-ebe4-485d-9aca-b79bdda6bb2d"
+Template: "69a0939b-219b-4c71-8446-2559a55c7bcc"
+Path: /sitecore/content/nov/nov/Data/System/Background Colors
+SharedFields:
+- ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
+  Hint: __Security
+  Value: |
+    ar|sitecore\NOV Editor|pe|+item:create|pd|+item:rename|+item:write|+item:create|+item:delete|
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181018T195810Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "90b41142-340d-4032-b109-b680003b939d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ashwin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20181018T195842Z

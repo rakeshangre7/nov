@@ -1,18 +1,43 @@
 ﻿---
 ID: "30ea3997-216d-4263-b0ef-63bda3c07bf1"
 Parent: "62aea773-6a06-4003-beb0-d9fd12d88a49"
-Template: "99f8905d-4a87-4eb8-9f8b-a9bebfb3add6"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
 Path: /sitecore/layout/Renderings/Project/nov/NOV Shared/PageNotFound
 SharedFields:
-- ID: "2e51df70-d3e4-458c-b03a-95c734dd39e7"
+- ID: "003a72cd-4cd6-4392-9862-41d4159929cd"
   Hint: Data source
   Value: 
+- ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
+  Hint: componentName
+  Value: PageNotFound
+- ID: "17bb046a-a32a-41b3-8315-81217947611b"
+  Hint: ComponentQuery
+  Value: |
+    query NotFound {
+      homeItem: item(path:"/sitecore/content/nov/nov/Home", language: "en-US") {
+       ... on HomeRoot{
+        notFoundHeadline{
+          jsonValue
+        }
+        notFoundText{
+          jsonValue     
+        }
+        notFoundLink{
+        
+          ... on LinkField{
+            linkType
+            anchor
+            url
+            text
+            className       
+          }
+        }
+      }  
+      }
+    }
 - ID: "3d08db46-2267-41b0-bc52-be69fd618633"
   Hint: Cacheable
   Value: 1
-- ID: "51b435bc-f7b9-478a-9c51-52916af96ff5"
-  Hint: Path
-  Value: /Views/NOVShared/ErrorPages/_PageNotFound.cshtml
 Languages:
 - Language: en
   Versions:
@@ -34,14 +59,14 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "3837dd03-c8e2-4627-b7e9-d8cbeed79fdf"
+      Value: "2d2aeb09-a696-414c-917e-11143643cf3f"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\varalakshmi.md@horizontal.com
+        sitecore\rangre@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230705T085211Z
+      Value: 20230817T082517Z
 - Language: "en-US"
   Versions:
   - Version: 1

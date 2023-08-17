@@ -1,6 +1,4 @@
-﻿using DocumentFormat.OpenXml.EMMA;
-using Microsoft.AspNet.OData;
-using Microsoft.Extensions.DependencyInjection;
+﻿using Microsoft.Extensions.DependencyInjection;
 using Newtonsoft.Json.Linq;
 using Sitecore;
 using Sitecore.Data;
@@ -9,16 +7,10 @@ using Sitecore.Data.Items;
 using Sitecore.DependencyInjection;
 using Sitecore.LayoutService.Configuration;
 using Sitecore.LayoutService.ItemRendering.ContentsResolvers;
-using Sitecore.LayoutService.ItemRendering.Pipelines.GetLayoutServiceContext;
-using Sitecore.Mvc.Helpers;
 using Sitecore.Mvc.Presentation;
 using Sitecore.XA.Foundation.Navigation.Services;
-using Sitecore.XA.Foundation.SitecoreExtensions.Extensions;
-using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Web;
-using XmCloudnov.Constants;
 using XmCloudnov.Extensions;
 using XmCloudnov.Helpers;
 using XmCloudnov.Models;
@@ -42,22 +34,36 @@ namespace XmCloudnov.ContentResolver
             if (startItem != null)
             {
                 menuItems = startItem.Children.Where(item => item.HasBaseTemplate(new Sitecore.Data.ID(XmCloudnov.Templates.Templates.ContentPageTemplateID)));
-                navigationModel.SiteFeaturedHeadline = startItem.Fields[FeaturedStoryFields.FeaturedStoryHeadlineFieldId]?.Value;
-                navigationModel.SiteFeaturedCtatext = startItem.Fields[FeaturedStoryFields.FeaturedStoryCTATextFieldId]?.Value;
-                navigationModel.SiteFeaturedAbstract = startItem.Fields[FeaturedStoryFields.FeaturedStoryAbstractFieldId]?.Value;
-                navigationModel.LearnMoreText = startItem.Fields[HomeRootFields.LabelReadMoreFieldId]?.Value;
+                navigationModel.SiteFeaturedHeadline = NOVSitecoreHelper.GetStringValue(startItem.Fields[FeaturedStoryFields.FeaturedStoryHeadlineFieldId]?.Value);
+                navigationModel.SiteFeaturedCtatext = NOVSitecoreHelper.GetStringValue(startItem.Fields[FeaturedStoryFields.FeaturedStoryCTATextFieldId]?.Value);
+                navigationModel.SiteFeaturedAbstract = NOVSitecoreHelper.GetStringValue(startItem.Fields[FeaturedStoryFields.FeaturedStoryAbstractFieldId]?.Value);
+                navigationModel.LearnMoreText = NOVSitecoreHelper.GetStringValue(startItem.Fields[HomeRootFields.LabelReadMoreFieldId]?.Value);
                 navigationModel.CardImage = NOVSitecoreHelper.GetImage(startItem, HomeRootFields.CardImageFieldId);
-                navigationModel.PortalDescription = startItem.Fields[HomeRootFields.PortalDescriptionFieldId]?.Value;
-                navigationModel.PortalHeader = startItem.Fields[HomeRootFields.PortalHeaderFieldId]?.Value;
-                navigationModel.PortalRegisterUrl = ((LinkField)startItem.Fields[HomeRootFields.PortalRegisterUrlFieldId]).GetFriendlyUrl();
-                navigationModel.PortalRegisterUrlText = ((LinkField)startItem.Fields[HomeRootFields.PortalRegisterUrlFieldId]).Text;
-                navigationModel.PortalLoginUrl = ((LinkField)startItem.Fields[HomeRootFields.NOVPortalLoginFieldId]).GetFriendlyUrl();
-                navigationModel.PortalRegisterUrlText = ((LinkField)startItem.Fields[HomeRootFields.NOVPortalLoginFieldId]).Text;
-                navigationModel.ViewAllText = startItem.Fields[HomeRootFields.LabelViewAllFieldId]?.Value;
-                var siteFeatureLink = ((LinkField)startItem.Fields[HomeRootFields.FeaturedStorySubItemLinkFieldId]).GetFriendlyUrl() ?? string.Empty;
-                navigationModel.SiteFeaturedCtaLink = !string.IsNullOrEmpty(siteFeatureLink) ? siteFeatureLink : startItem.GetUrl();
-                navigationModel.MenuLabel = startItem.Fields[HomeRootFields.MenuLabelFieldId]?.Value;
+                navigationModel.PortalDescription = NOVSitecoreHelper.GetStringValue(startItem.Fields[HomeRootFields.PortalDescriptionFieldId]?.Value);
+                navigationModel.PortalHeader = NOVSitecoreHelper.GetStringValue(startItem.Fields[HomeRootFields.PortalHeaderFieldId]?.Value);
+                navigationModel.PortalRegisterUrl = NOVSitecoreHelper.GetLinkValue(startItem, HomeRootFields.PortalRegisterUrlFieldId);
+                navigationModel.PortalRegisterUrlText = NOVSitecoreHelper.GetStringValue(((LinkField)startItem.Fields[HomeRootFields.PortalRegisterUrlFieldId]).Text);
+                navigationModel.PortalLoginUrl = NOVSitecoreHelper.GetLinkValue(startItem, HomeRootFields.NOVPortalLoginFieldId);
+                navigationModel.PortalRegisterUrlText = NOVSitecoreHelper.GetStringValue(((LinkField)startItem.Fields[HomeRootFields.NOVPortalLoginFieldId]).Text);
+                navigationModel.ViewAllText = NOVSitecoreHelper.GetStringValue(startItem.Fields[HomeRootFields.LabelViewAllFieldId]?.Value);
+                var siteFeatureLink = NOVSitecoreHelper.GetLinkValue(startItem, HomeRootFields.FeaturedStorySubItemLinkFieldId);
+                if (siteFeatureLink != null && siteFeatureLink.value != null && !string.IsNullOrEmpty(siteFeatureLink.value.href))
+                {
+                    navigationModel.SiteFeaturedCtaLink = siteFeatureLink;
+                }
+                else
+                {
+                    navigationModel.SiteFeaturedCtaLink = new NOVLink()
+                    {
+                        value = new LinkProperties()
+                        {
+                            href = startItem.GetUrl()
+                        }
+                    };
+                }
+                navigationModel.MenuLabel = NOVSitecoreHelper.GetStringValue(startItem.Fields[HomeRootFields.MenuLabelFieldId]?.Value);
                 navigationModel.SiteLogo = NOVSitecoreHelper.GetImage(startItem, HomeRootFields.SiteLogoImageFieldId);
+                navigationModel.SiteLogoTransparent = NOVSitecoreHelper.GetImage(startItem, HomeRootFields.SiteLogoTransparentImageFieldId);
 
                 foreach (Item item in startItem.Children.Where(i => i.Language == Context.Language))
                 {
@@ -91,45 +97,58 @@ namespace XmCloudnov.ContentResolver
             var cardImage = NOVSitecoreHelper.GetImage(item, ContentPageFields.CardImageFieldId);
             var navigationEntry = new NavigationEntryModel()
             {
-                Url = item.GetUrl(),
-                MenuTitle = StringUtil.GetString(item[MenuFields.MenuTitleFieldId], item[StandardContentFields.PageTitleFieldId]),
-                MobileMenuTitle = StringUtil.GetString(item[MenuFields.MobileMenuTitleFieldId], StringUtil.GetString(item[MenuFields.MenuTitleFieldId], item[StandardContentFields.PageTitleFieldId])),
+                Url = new NOVLink()
+                {
+                    value = new LinkProperties()
+                    {
+                        href = item.GetUrl()
+                    }
+                },
+                MenuTitle = NOVSitecoreHelper.GetStringValue(StringUtil.GetString(item[MenuFields.MenuTitleFieldId], item[StandardContentFields.PageTitleFieldId])),
+                MobileMenuTitle = NOVSitecoreHelper.GetStringValue(StringUtil.GetString(item[MenuFields.MobileMenuTitleFieldId], StringUtil.GetString(item[MenuFields.MenuTitleFieldId], item[StandardContentFields.PageTitleFieldId]))),
+
                 IsActive = activeItem != null && activeItem.Paths.FullPath.StartsWith(item.Paths.FullPath),
                 HideInNavigation = item.GetFieldAsBool(MenuFields.HideInNavigationFieldId),
                 HideInFooterNavigation = item.GetFieldAsBool(MenuFields.HideInFooterNavigationFieldId),
                 HideSubNavigation = item.GetFieldAsBool(MenuFields.HideSecondaryNavigationFieldId),
-                SubMenuText = item.GetFieldAsString(MenuFields.SubmenuTextFieldId),
-                Headline = item.GetFieldAsString(StandardContentFields.HeadlineFieldId),
+                SubMenuText = NOVSitecoreHelper.GetStringValue(item.GetFieldAsString(MenuFields.SubmenuTextFieldId)),
+                Headline = NOVSitecoreHelper.GetStringValue(item.GetFieldAsString(StandardContentFields.HeadlineFieldId)),
                 TemplateId = item.TemplateID,
                 ItemId = item.ID,
                 //PageImage = Html.Sitecore().FieldOpenGraphImageImageUrl(item).ToString(),
 
-                CardImage = cardImage?.Url,
-                CardImageAlt = cardImage?.Alt
+                CardImage = cardImage
             };
 
             if (depth == Depth.One) //second level menu items - will show featured story
             {
                 //Featured Story fields
-                navigationEntry.FeaturedStoryHeadline = item.GetFieldAsString(FeaturedStoryFields.FeaturedStoryHeadlineFieldId);
-                navigationEntry.FeaturedStoryAbstract = item.GetFieldAsString(FeaturedStoryFields.FeaturedStoryAbstractFieldId);
+                navigationEntry.FeaturedStoryHeadline = NOVSitecoreHelper.GetStringValue(item.GetFieldAsString(FeaturedStoryFields.FeaturedStoryHeadlineFieldId));
+                navigationEntry.FeaturedStoryAbstract = NOVSitecoreHelper.GetStringValue(item.GetFieldAsString(FeaturedStoryFields.FeaturedStoryAbstractFieldId));
 
-                if (string.IsNullOrEmpty(item.GetFieldLinkUrl(FeaturedStoryFields.FeaturedStorySubItemLinkFieldId)))
+                var featuredSubItemLink = NOVSitecoreHelper.GetLinkValue(item, FeaturedStoryFields.FeaturedStorySubItemLinkFieldId);
+                if (featuredSubItemLink != null && featuredSubItemLink.value != null && !string.IsNullOrEmpty(featuredSubItemLink.value.href))
                 {
-                    navigationEntry.FeaturedStoryCTALink = item.GetUrl();
+                    navigationEntry.FeaturedStoryCTALink = featuredSubItemLink;
                 }
                 else
                 {
-                    navigationEntry.FeaturedStoryCTALink = item.GetFieldLinkUrl(FeaturedStoryFields.FeaturedStorySubItemLinkFieldId, out var linkTarget);
-                    navigationEntry.FeaturedStoryCTALinkTarget = linkTarget;
+                    navigationEntry.FeaturedStoryCTALink = new NOVLink()
+                    {
+                        value = new LinkProperties()
+                        {
+                            href = item.GetUrl()
+                        }
+                    };
+                    //navigationEntry.FeaturedStoryCTALinkTarget = linkTarget;
                 }
 
-                if (String.IsNullOrEmpty(navigationEntry.FeaturedStoryCTALinkTarget))
-                {
-                    navigationEntry.FeaturedStoryCTALinkTarget = NovSitecoreConstants.LinkTargetSelf;
-                }
+                //if (String.IsNullOrEmpty(navigationEntry.FeaturedStoryCTALinkTarget?.value))
+                //{
+                //    navigationEntry.FeaturedStoryCTALinkTarget = NovSitecoreConstants.LinkTargetSelf;
+                //}
 
-                navigationEntry.FeaturedStoryCTAText = item.GetFieldAsString(FeaturedStoryFields.FeaturedStoryCTATextFieldId);
+                navigationEntry.FeaturedStoryCTAText = NOVSitecoreHelper.GetStringValue(item.GetFieldAsString(FeaturedStoryFields.FeaturedStoryCTATextFieldId));
             }
 
             //

@@ -1,0 +1,28 @@
+﻿---
+ID: "d7889b43-fbc5-4879-a79a-26fde75d80b9"
+Parent: "7709cdcf-ebe4-485d-9aca-b79bdda6bb2d"
+Template: "40d96c96-be5b-4a14-9c68-ad2608c70f19"
+Path: /sitecore/content/nov/nov/Data/System/Capabilities Folder
+SharedFields:
+- ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
+  Hint: __Security
+  Value: |
+    ar|sitecore\NOV Editor|pe|+item:create|pd|+item:rename|+item:write|+item:create|+item:delete|
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181114T191307Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f603bd1f-ad7d-4b69-8c3a-604e486cc9da"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ashwin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20181114T191317Z
