@@ -5,6 +5,7 @@ using System.Web;
 using Sitecore.Data;
 using Sitecore.Data.Fields;
 using Sitecore.Data.Items;
+using Sitecore.Resources.Media;
 using XmCloudnov.Extensions;
 
 namespace XmCloudnov.Helpers
@@ -17,11 +18,15 @@ namespace XmCloudnov.Helpers
 
             if (imgField != null && imgField.MediaItem != null)
             {
+                MediaUrlOptions mediaUrlOptions = new MediaUrlOptions();
+                mediaUrlOptions.AlwaysIncludeServerUrl = true;
+                mediaUrlOptions.AbsolutePath = true;
+
                 return new NOVImage()
                 {
                     value = new ImageProperties()
                     {
-                        src = Sitecore.Resources.Media.MediaManager.GetMediaUrl(imgField.MediaItem),
+                        src = Sitecore.Resources.Media.MediaManager.GetMediaUrl(imgField.MediaItem, mediaUrlOptions),
                         alt = imgField.Alt,
                         height = imgField.Height,
                         width = imgField.Width
