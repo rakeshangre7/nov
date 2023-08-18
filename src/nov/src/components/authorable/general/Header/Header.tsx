@@ -362,7 +362,7 @@ const Header = ({ fields }: HeaderProps) => {
                       navigationTransitionFinal: (isPrimary || show) && isExpanded,
                     }
                   )}
-                  style={index ? { transitionDelay: `${100 * (index / 2)}ms` } : {}}
+                  style={index ? { transitionDelay: `${100 * ((index + 1) / 2)}ms` } : {}}
                   text={navbar?.menuTitle?.value}
                   field={navbar.url}
                   onClick={(e) => {
@@ -432,13 +432,13 @@ const Header = ({ fields }: HeaderProps) => {
     return (
       <div
         className={clsx(
-          'w-full -z-50 transition-all duration-200 bg-white opacity-0 scroll-auto overflow-hidden flex flex-col justify-between h-[calc(100%-65px)]',
+          'w-full hidden relative transition-all duration-200 bg-white opacity-0 scroll-auto overflow-hidden  flex-col justify-between h-[calc(100%-65px)]',
           {
-            'z-10 opacity-100': isExpanded,
+            'z-10 opacity-100 !flex': isExpanded,
           }
         )}
       >
-        <div className="px-[25px] h-[calc(100%-228px)] smd:h-full overflow-x-hidden  overflow-y-auto scroll-auto mt-[-1px] l:hidden bg-white no-scrollbar">
+        <div className="px-[25px] h-[calc(100%-228px)] smd:h-full overflow-x-hidden overflow-y-auto scroll-auto mt-[-1px] l:hidden bg-white no-scrollbar">
           {renderMobileNavigation({ isPrimary: true, navList: fields?.navigationEntries })}
         </div>
         <div className="bg-white relative h-[700px] w-full hidden l:block">
@@ -572,10 +572,9 @@ const Header = ({ fields }: HeaderProps) => {
         {renderNavigation()}
       </div>
       <div
-        className={clsx(
-          'absolute top-[765px] left-0 right-0 bottom-0 z-10 bg-black/[0.8] invisible',
-          { 'l:!visible': isExpanded }
-        )}
+        className={clsx('absolute top-[765px] left-0 right-0 bottom-0  bg-black/[0.8] invisible', {
+          'l:!visible z-10': isExpanded,
+        })}
       ></div>
     </>
   );

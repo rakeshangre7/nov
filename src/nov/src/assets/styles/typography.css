@@ -43,19 +43,16 @@
     scrollbar-width: none; /* Firefox */
   }
   .navigationTransitionInitial {
-    transition-delay: 200ms;
     transform: translate(-10px, -10%);
     visibility: hidden;
     opacity: 0;
     transition: opacity 200ms, transform 200ms;
     transition-timing-function: ease-in-out;
-    z-index: -1;
   }
   .navigationTransitionFinal {
     opacity: 1;
     visibility: visible;
     transform: translate(0%, 0%);
-    z-index: 20;
   }
 
   .navigationTransitionInitialForMobile {
