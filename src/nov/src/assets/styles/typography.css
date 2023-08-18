@@ -43,7 +43,6 @@
     scrollbar-width: none; /* Firefox */
   }
   .navigationTransitionInitial {
-    transition-delay: 200ms;
     transform: translate(-10px, -10%);
     visibility: hidden;
     opacity: 0;
