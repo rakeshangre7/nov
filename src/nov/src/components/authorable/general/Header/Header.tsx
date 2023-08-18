@@ -432,7 +432,7 @@ const Header = ({ fields }: HeaderProps) => {
     return (
       <div
         className={clsx(
-          'w-full -z-50 transition-all duration-200 bg-white opacity-0 scroll-auto overflow-hidden flex flex-col justify-between h-[calc(100%-65px)]',
+          'w-full -z-50 transition-all relative duration-200 bg-white opacity-0 scroll-auto overflow-hidden flex flex-col justify-between h-[calc(100%-65px)]',
           {
             'z-10 opacity-100': isExpanded,
           }
@@ -573,8 +573,8 @@ const Header = ({ fields }: HeaderProps) => {
       </div>
       <div
         className={clsx(
-          'absolute top-[765px] left-0 right-0 bottom-0 z-10 bg-black/[0.8] invisible',
-          { 'l:!visible': isExpanded }
+          'absolute top-[765px] left-0 right-0 bottom-0 bg-black/[0.8] invisible',
+          { 'l:!visible z-10': isExpanded }
         )}
       ></div>
     </>
