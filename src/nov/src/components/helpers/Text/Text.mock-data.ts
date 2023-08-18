@@ -4,7 +4,6 @@ const defaultData = {
 };
 
 export default defaultData;
-
 export const blockquote = {
   className: '',
   tag: 'blockquote',
