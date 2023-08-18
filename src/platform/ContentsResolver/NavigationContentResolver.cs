@@ -101,7 +101,7 @@ namespace XmCloudnov.ContentResolver
                 {
                     value = new LinkProperties()
                     {
-                        href = item.GetUrl()
+                        href = Sitecore.Links.LinkManager.GetItemUrl(item)
                     }
                 },
                 MenuTitle = NOVSitecoreHelper.GetStringValue(StringUtil.GetString(item[MenuFields.MenuTitleFieldId], item[StandardContentFields.PageTitleFieldId])),
@@ -137,7 +137,7 @@ namespace XmCloudnov.ContentResolver
                     {
                         value = new LinkProperties()
                         {
-                            href = item.GetUrl()
+                            href = Sitecore.Links.LinkManager.GetItemUrl(item)
                         }
                     };
                     //navigationEntry.FeaturedStoryCTALinkTarget = linkTarget;
