@@ -11,6 +11,7 @@ using Sitecore.Mvc.Presentation;
 using Sitecore.XA.Foundation.Navigation.Services;
 using System.Collections.Generic;
 using System.Linq;
+using XmCloudnov.Constants;
 using XmCloudnov.Extensions;
 using XmCloudnov.Helpers;
 using XmCloudnov.Models;
@@ -119,6 +120,19 @@ namespace XmCloudnov.ContentResolver
 
                 CardImage = cardImage
             };
+
+
+            if (item.HasBaseTemplate(Templates.Templates.RedirectPageTemplateIdString))
+            {
+                navigationEntry.Url = new NOVLink()
+                {
+                    value = new LinkProperties()
+                    {
+                        href = item.GetFieldLinkUrl(MenuFields.RedirectPageURLFieldId, out var linkTarget),
+                        target = !string.IsNullOrEmpty(linkTarget) ? linkTarget : NovSitecoreConstants.LinkTargetSelf
+                    }
+                };
+            }
 
             if (depth == Depth.One) //second level menu items - will show featured story
             {
