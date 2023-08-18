@@ -11,6 +11,7 @@ using Sitecore.Mvc.Presentation;
 using Sitecore.XA.Foundation.Navigation.Services;
 using System.Collections.Generic;
 using System.Linq;
+using XmCloudnov.Constants;
 using XmCloudnov.Extensions;
 using XmCloudnov.Helpers;
 using XmCloudnov.Models;
@@ -101,7 +102,7 @@ namespace XmCloudnov.ContentResolver
                 {
                     value = new LinkProperties()
                     {
-                        href = item.GetUrl()
+                        href = Sitecore.Links.LinkManager.GetItemUrl(item)
                     }
                 },
                 MenuTitle = NOVSitecoreHelper.GetStringValue(StringUtil.GetString(item[MenuFields.MenuTitleFieldId], item[StandardContentFields.PageTitleFieldId])),
@@ -120,6 +121,19 @@ namespace XmCloudnov.ContentResolver
                 CardImage = cardImage
             };
 
+
+            if (item.HasBaseTemplate(Templates.Templates.RedirectPageTemplateIdString))
+            {
+                navigationEntry.Url = new NOVLink()
+                {
+                    value = new LinkProperties()
+                    {
+                        href = item.GetFieldLinkUrl(MenuFields.RedirectPageURLFieldId, out var linkTarget),
+                        target = !string.IsNullOrEmpty(linkTarget) ? linkTarget : NovSitecoreConstants.LinkTargetSelf
+                    }
+                };
+            }
+
             if (depth == Depth.One) //second level menu items - will show featured story
             {
                 //Featured Story fields
@@ -137,7 +151,7 @@ namespace XmCloudnov.ContentResolver
                     {
                         value = new LinkProperties()
                         {
-                            href = item.GetUrl()
+                            href = Sitecore.Links.LinkManager.GetItemUrl(item)
                         }
                     };
                     //navigationEntry.FeaturedStoryCTALinkTarget = linkTarget;
