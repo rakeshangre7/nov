@@ -572,10 +572,9 @@ const Header = ({ fields }: HeaderProps) => {
         {renderNavigation()}
       </div>
       <div
-        className={clsx(
-          'absolute top-[765px] left-0 right-0 bottom-0 bg-black/[0.8] invisible',
-          { 'l:!visible z-10': isExpanded }
-        )}
+        className={clsx('absolute top-[765px] left-0 right-0 bottom-0 bg-black/[0.8] invisible', {
+          'l:!visible z-10': isExpanded,
+        })}
       ></div>
     </>
   );
