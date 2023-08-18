@@ -59,13 +59,15 @@ namespace XmCloudnov.Templates
         public static readonly ID SubmenuTextFieldId = new ID("e751f1ed-0db0-463a-ac3e-57c8ca267f71");
         public static readonly ID MobileMenuTitleFieldId = new ID("3a81e0b8-4742-4d96-be89-8c1f3716c285");
         public static readonly ID HideInFooterNavigationFieldId = new ID("d3c5ed7b-3756-4e8f-b2df-d1c79758a255");
-        
+        public static readonly ID RedirectPageURLFieldId = new ID("926f1875-e20e-41cb-a705-e45affa0dc35");
+
     }
 
     public static class Templates
     {
         public const string ContentPageTemplateID = "559adbc8-d9ca-436b-ba12-4019404bbe11";
         public const string BrandCapabilityOverviewPageTemplateID = "ced78efe-1f24-4e4f-95f1-ffbefbc22db9";
+        public static readonly ID RedirectPageTemplateIdString = new ID("dbc23d7d-62bd-46a5-b584-58b43c5dfaad");
     }
 
 
