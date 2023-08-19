@@ -325,6 +325,10 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
               uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
               <p:d />
             </r>
@@ -385,7 +389,7 @@ Languages:
       Value: Well Completions
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "9922cd29-71d3-48d5-a97c-d6856fa464a7"
+      Value: "c22fae5e-d332-4d98-bfec-c0e8ebbf9485"
     - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
       Hint: contentTag
       Value: "{894AD693-62BC-4D0F-8E34-42401EBEF1F3}"
@@ -395,7 +399,7 @@ Languages:
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\adminrschuhsler
+        sitecore\heatherbaxter
     - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
       Hint: Meta Description
       Value: "Completions are becoming more complicated, and we have the technologies you need to overcome the simplest of challenges all the way out to extended-reach wells in unconventional shales."
@@ -408,7 +412,7 @@ Languages:
         <image mediaid="{26FEB80F-66BF-48B5-B066-2D2394D5273B}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20210422T010921Z
+      Value: 20190926T213824Z
     - ID: "da134e40-cb02-4645-9846-115fb9a5aeca"
       Hint: capability
       Value: "{1AFB362C-570B-4DE9-9622-2ACEDD74FA52}"
@@ -416,233 +420,3 @@ Languages:
       Hint: Page Image
       Value: |
         <image mediaid="{26FEB80F-66BF-48B5-B066-2D2394D5273B}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
-  - Version: 5
-    Fields:
-    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
-      Hint: __Lock
-      Value: <r />
-    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
-      Hint: __Final Renderings
-      Value: |
-        <r xmlns:p="p" xmlns:s="s"
-          p:p="1">
-          <d
-            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
-            <r
-              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
-              <p:d />
-            </r>
-            <r
-              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
-              <p:d />
-            </r>
-            <r
-              uid="{594436F7-93A9-4AED-A0B7-DB55F1FA7A93}"
-              p:after="r[@uid='{37A7ADD6-9046-4B18-B22A-BE9133614F3D}']"
-              s:ds="{B969D1FF-EBC9-44B5-BD20-01F0C14A9C50}"
-              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
-              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
-              s:ph="main" />
-            <r
-              uid="{24828B27-1B10-43F6-B65E-9C70AEFE2931}"
-              p:after="*[1=2]"
-              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
-              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
-              s:ph="main" />
-            <r
-              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
-              <p:d />
-            </r>
-          </d>
-        </r>
-    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
-      Hint: Featured Story Headline
-      Value: Well Completions
-    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
-      Hint: Subheading
-      Value: "<p>Completions are becoming more complicated, and we have the technologies you need to overcome the simplest of challenges all the way out to extended-reach wells in unconventional shales.</p>"
-    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
-      Hint: Headline
-      Value: Well Completions
-    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
-      Hint: __Created
-      Value: 20220511T201443Z
-    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
-      Hint: Mobile Menu Title
-      Value: Well Completions
-    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
-      Hint: __Workflow state
-      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
-    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
-      Hint: Page Title
-      Value: Well Completions
-    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
-      Hint: __Owner
-      Value: |
-        sitecore\kaileyshelton
-    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
-      Hint: Open Graph Image
-      Value: |
-        <image mediaid="{EF27CA96-FFA9-4C7F-A98E-457213599539}" />
-    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
-      Hint: __Created by
-      Value: |
-        sitecore\lizrisoli
-    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
-      Hint: Menu Title
-      Value: Well Completions
-    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
-      Hint: __Revision
-      Value: "6209b576-0ba1-4e94-8037-870482834865"
-    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
-      Hint: contentTag
-      Value: "{894AD693-62BC-4D0F-8E34-42401EBEF1F3}"
-    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
-      Hint: Featured Story CTA Text
-      Value: Well Completions
-    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
-      Hint: __Updated by
-      Value: |
-        sitecore\lissettegomezandrews
-    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
-      Hint: Meta Description
-      Value: "Completions are becoming more complicated, and we have the technologies you need to overcome the simplest of challenges all the way out to extended-reach wells in unconventional shales."
-    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
-      Hint: __Valid from
-      Value: 20220511T201443Z
-    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
-      Hint: Card Image
-      Value: |
-        <image mediaid="{EF27CA96-FFA9-4C7F-A98E-457213599539}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
-    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
-      Hint: __Updated
-      Value: 20220518T165053Z
-    - ID: "da134e40-cb02-4645-9846-115fb9a5aeca"
-      Hint: capability
-      Value: "{1AFB362C-570B-4DE9-9622-2ACEDD74FA52}"
-    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
-      Hint: Page Image
-      Value: |
-        <image mediaid="{EF27CA96-FFA9-4C7F-A98E-457213599539}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
-  - Version: 6
-    Fields:
-    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
-      Hint: __Lock
-      Value: <r />
-    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
-      Hint: __Final Renderings
-      Value: |
-        <r xmlns:p="p" xmlns:s="s"
-          p:p="1">
-          <d
-            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
-            <r
-              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}">
-              <p:d />
-            </r>
-            <r
-              uid="{2343FD96-551A-47FF-B40B-6530D51E57E1}"
-              p:before="*"
-              s:ds=""
-              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
-              s:par="Add Gradient=1&amp;Text Color=white"
-              s:ph="/main/hero-slide-{37A7ADD6-9046-4B18-B22A-BE9133614F3D}-0" />
-            <r
-              uid="{37A7ADD6-9046-4B18-B22A-BE9133614F3D}"
-              s:ds="{263DB060-E31E-48A1-ADD8-6198CD8B62CE}"
-              s:par="Enable Autoplay=true&amp;Enable Center Text&amp;Add Gradient=1&amp;Text Color=white&amp;Wait Time=5000" />
-            <r
-              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
-              <p:d />
-            </r>
-            <r
-              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
-              <p:d />
-            </r>
-            <r
-              uid="{594436F7-93A9-4AED-A0B7-DB55F1FA7A93}"
-              p:after="r[@uid='{37A7ADD6-9046-4B18-B22A-BE9133614F3D}']"
-              s:ds="{B969D1FF-EBC9-44B5-BD20-01F0C14A9C50}"
-              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
-              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
-              s:ph="main" />
-            <r
-              uid="{24828B27-1B10-43F6-B65E-9C70AEFE2931}"
-              p:after="*[1=2]"
-              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
-              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
-              s:ph="main" />
-            <r
-              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
-              <p:d />
-            </r>
-          </d>
-        </r>
-    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
-      Hint: Featured Story Headline
-      Value: Well Completions
-    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
-      Hint: Subheading
-      Value: "<p>Completions are becoming more complicated, and we have the technologies you need to overcome the simplest of challenges all the way out to extended-reach wells in unconventional shales.</p>"
-    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
-      Hint: Headline
-      Value: Well Completions
-    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
-      Hint: __Created
-      Value: 20230309T194538Z
-    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
-      Hint: Mobile Menu Title
-      Value: Well Completions
-    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
-      Hint: __Workflow state
-      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
-    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
-      Hint: Page Title
-      Value: Well Completions
-    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
-      Hint: __Owner
-      Value: |
-        sitecore\kaileyshelton
-    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
-      Hint: Open Graph Image
-      Value: 
-    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
-      Hint: __Created by
-      Value: |
-        sitecore\lissettegomezandrews
-    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
-      Hint: Menu Title
-      Value: Well Completions
-    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
-      Hint: __Revision
-      Value: "35da243b-397c-4512-9cb1-4e8337897a0b"
-    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
-      Hint: contentTag
-      Value: "{894AD693-62BC-4D0F-8E34-42401EBEF1F3}"
-    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
-      Hint: Featured Story CTA Text
-      Value: Well Completions
-    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
-      Hint: __Updated by
-      Value: |
-        sitecore\lissettegomezandrews
-    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
-      Hint: Meta Description
-      Value: "Completions are becoming more complicated, and we have the technologies you need to overcome the simplest of challenges all the way out to extended-reach wells in unconventional shales."
-    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
-      Hint: __Valid from
-      Value: 20230309T194538Z
-    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
-      Hint: Card Image
-      Value: |
-        <image mediaid="{275942CD-DAD0-4446-9CC5-96EC7FB2DF38}" cropregion="0,253,1920,1359" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
-    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
-      Hint: __Updated
-      Value: 20230316T190630Z
-    - ID: "da134e40-cb02-4645-9846-115fb9a5aeca"
-      Hint: capability
-      Value: "{1AFB362C-570B-4DE9-9622-2ACEDD74FA52}"
-    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
-      Hint: Page Image
-      Value: |
-        <image mediaid="{275942CD-DAD0-4446-9CC5-96EC7FB2DF38}" cropregion="0,280,1920,1359" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />

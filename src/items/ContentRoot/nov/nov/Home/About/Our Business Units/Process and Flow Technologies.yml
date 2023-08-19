@@ -940,6 +940,10 @@ Languages:
               uid="{0371D386-3572-4076-8538-6734215DB82E}"
               s:ds="{5C6DF03D-C8B7-4F46-9F9A-98E3F8024146}" />
             <r
+              uid="{0109759E-4600-4B78-A0E6-96D9B8F26CB9}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
               uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}"
               s:ds="{925C638D-1E8A-4379-A3BD-7B2164E5D801}"
               s:par="Enable Autoplay=true&amp;Add Gradient&amp;Text Color=white&amp;Wait Time=5000" />
@@ -1034,7 +1038,7 @@ Languages:
       Value: "Business Unit: Process and Flow Technologies"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "915eb6ad-a0c5-4f72-bc03-7d3ec6e9cec9"
+      Value: "a3d04ccb-dd0f-429c-a691-188cea4ba970"
     - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
       Hint: contentTag
       Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
@@ -1044,7 +1048,7 @@ Languages:
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\adminrschuhsler
+        sitecore\kaileyshelton
     - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
       Hint: Meta Description
       Value: Process and Flow Technologies enhances your efficiency through service expertise that drives operational uptime and integrated solutions that maximize costs.
@@ -1057,152 +1061,7 @@ Languages:
         <image mediaid="{E578D83F-7189-431D-B108-C761547421D3}" cropregion="0,315,1920,1417" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20210422T010856Z
-    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
-      Hint: Page Image
-      Value: |
-        <image mediaid="{E578D83F-7189-431D-B108-C761547421D3}" cropregion="0,326,1920,1405" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
-  - Version: 9
-    Fields:
-    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
-      Hint: __Lock
-      Value: <r />
-    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
-      Hint: __Final Renderings
-      Value: |
-        <r xmlns:p="p" xmlns:s="s"
-          p:p="1">
-          <d
-            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
-            <r
-              uid="{0371D386-3572-4076-8538-6734215DB82E}"
-              s:ds="{5C6DF03D-C8B7-4F46-9F9A-98E3F8024146}" />
-            <r
-              uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}"
-              s:ds="{925C638D-1E8A-4379-A3BD-7B2164E5D801}"
-              s:par="Enable Autoplay=true&amp;Add Gradient&amp;Text Color=white&amp;Wait Time=5000" />
-            <r
-              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}"
-              s:ds="{A2ED1BFC-0C2C-42DB-B35F-C1158B3E11C3}" />
-            <r
-              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
-              <p:d />
-            </r>
-            <r
-              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}">
-              <p:d />
-            </r>
-            <r
-              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
-              <p:d />
-            </r>
-            <r
-              uid="{7F89E5B0-E94D-49AE-A9F7-0EC7D9622673}"
-              p:after="r[@uid='{D0D1C772-7E1B-45CD-8D78-0877C08009C2}']"
-              s:ds="{6C9A419F-059E-4CD0-B971-40E7E4A4686D}"
-              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
-              s:ph="main" />
-            <r
-              uid="{926EFC0C-AA03-4C2F-BCAC-D251D5BB4A26}"
-              p:after="r[@uid='{7F89E5B0-E94D-49AE-A9F7-0EC7D9622673}']"
-              s:ds="{068B2B4B-7D16-49C1-A4E2-D0F88332A891}"
-              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
-              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
-              s:ph="main" />
-            <r
-              uid="{B253E709-1F52-47C7-84E7-70155FCC192E}"
-              p:after="r[@uid='{926EFC0C-AA03-4C2F-BCAC-D251D5BB4A26}']"
-              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
-              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
-              s:ph="main" />
-            <r
-              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
-              <p:d />
-            </r>
-            <r
-              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
-              <p:d />
-            </r>
-            <r
-              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
-              <p:d />
-            </r>
-            <r
-              uid="{2FB72E40-D795-42E9-A03C-0F7ED73B4463}">
-              <p:d />
-            </r>
-          </d>
-        </r>
-    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
-      Hint: Featured Story Headline
-      Value: Process and Flow Technologies
-    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
-      Hint: Hide Secondary Navigation
-      Value: 1
-    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
-      Hint: Subheading
-      Value: <p>Process and Flow Technologies enhances your efficiency through service expertise that drives operational uptime and integrated solutions that minimize costs.</p>
-    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
-      Hint: Headline
-      Value: Process and Flow Technologies
-    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
-      Hint: __Created
-      Value: 20230525T180052Z
-    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
-      Hint: Hide In Navigation
-      Value: 1
-    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
-      Hint: Mobile Menu Title
-      Value: Process and Flow Technologies
-    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
-      Hint: __Workflow state
-      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
-    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
-      Hint: Page Title
-      Value: Process and Flow Technologies
-    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
-      Hint: __Owner
-      Value: |
-        sitecore\rainerschuhsler
-    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
-      Hint: __Created by
-      Value: |
-        sitecore\lissettegomezandrews
-    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
-      Hint: Menu Title
-      Value: Process and Flow Technologies
-    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
-      Hint: businessUnit
-      Value: "{609C7FC7-1EDE-4C71-AD49-E65F4E7314DE}"
-    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
-      Hint: Search Result Text
-      Value: "Business Unit: Process and Flow Technologies"
-    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
-      Hint: __Revision
-      Value: "021f0d2f-d556-4d59-b28f-37de02473a55"
-    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
-      Hint: contentTag
-      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
-    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
-      Hint: Featured Story CTA Text
-      Value: 
-    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
-      Hint: __Updated by
-      Value: |
-        sitecore\lissettegomezandrews
-    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
-      Hint: Meta Description
-      Value: Process and Flow Technologies enhances your efficiency through service expertise that drives operational uptime and integrated solutions that maximize costs.
-    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
-      Hint: __Valid from
-      Value: 20230525T180052Z
-    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
-      Hint: Card Image
-      Value: |
-        <image mediaid="{E578D83F-7189-431D-B108-C761547421D3}" cropregion="0,315,1920,1417" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
-    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
-      Hint: __Updated
-      Value: 20230531T171337Z
+      Value: 20200402T143116Z
     - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
       Hint: Page Image
       Value: |

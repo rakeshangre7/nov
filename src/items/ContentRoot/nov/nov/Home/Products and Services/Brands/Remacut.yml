@@ -726,6 +726,10 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
               uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
               <p:d />
             </r>
@@ -789,7 +793,7 @@ Languages:
       Value: "Brand: Remacut"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "f6137428-89c8-46b4-b49e-049a7148644c"
+      Value: "fe4948ae-e8e1-46ee-9372-649b9cde16e1"
     - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
       Hint: contentTag
       Value: "{EA155798-89F9-42A8-A18A-1921664D1E01}"
@@ -799,7 +803,7 @@ Languages:
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\adminrschuhsler
+        sitecore\arshmomin
     - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
       Hint: Meta Description
       Value: "Remacut assists worldwide customers and operators with the engineering, construction, factory testing, and on-board commissioning and operation of complete systems both at surface and subsea."
@@ -812,123 +816,7 @@ Languages:
         <image mediaid="{694D3A64-D8D8-4084-A077-20B87AABD032}" cropregion="0,257,1920,1359" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20210422T010346Z
-    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
-      Hint: Meta Keywords
-      Value: Remacut
-    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
-      Hint: Page Image
-      Value: |
-        <image mediaid="{694D3A64-D8D8-4084-A077-20B87AABD032}" cropregion="0,276,1920,1356" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
-    - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
-      Hint: brand
-      Value: "{EECEB99A-C865-4E49-A1A4-375ADEA98679}"
-  - Version: 9
-    Fields:
-    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
-      Hint: __Lock
-      Value: <r />
-    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
-      Hint: __Final Renderings
-      Value: |
-        <r xmlns:p="p" xmlns:s="s"
-          p:p="1">
-          <d
-            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
-            <r
-              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
-              <p:d />
-            </r>
-            <r
-              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
-              <p:d />
-            </r>
-            <r
-              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
-              <p:d />
-            </r>
-            <r
-              uid="{FA98A08B-D02D-4F67-B81B-62AAB437E709}"
-              p:after="r[@uid='{3F94459F-580E-478C-AF58-1F6F8D07C8A9}']"
-              s:ds="{31FFFA8E-2A94-49C2-AC27-F82A65D29047}"
-              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
-              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
-              s:ph="main" />
-            <r
-              uid="{E748D0C2-63FB-4C30-ACC6-D7B614E98690}"
-              p:after="r[@uid='{FA98A08B-D02D-4F67-B81B-62AAB437E709}']"
-              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
-              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
-              s:ph="main" />
-            <r
-              uid="{D48B554B-5324-4D8B-9347-46A326730108}"
-              p:after="*[1=2]"
-              s:ds="{C7ACE19A-A355-4E48-BD24-2DF81C242E27}"
-              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
-              s:ph="main" />
-          </d>
-        </r>
-    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
-      Hint: Featured Story Headline
-      Value: Remacut
-    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
-      Hint: Subheading
-      Value: "<p>Remacut assists worldwide customers and operators with the engineering, construction, factory testing, and on-board commissioning and operation of complete pipelay and cablelay systems.</p>"
-    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
-      Hint: Headline
-      Value: Remacut
-    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
-      Hint: __Created
-      Value: 20230202T215641Z
-    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
-      Hint: Mobile Menu Title
-      Value: Remacut
-    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
-      Hint: __Workflow state
-      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
-    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
-      Hint: Page Title
-      Value: Remacut
-    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
-      Hint: __Owner
-      Value: |
-        sitecore\charisgamroth
-    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
-      Hint: __Created by
-      Value: |
-        sitecore\lissettegomezandrews
-    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
-      Hint: Menu Title
-      Value: Remacut
-    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
-      Hint: Search Result Text
-      Value: "Brand: Remacut"
-    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
-      Hint: __Revision
-      Value: "76480c28-d0df-4c2b-917a-206a75e12927"
-    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
-      Hint: contentTag
-      Value: "{EA155798-89F9-42A8-A18A-1921664D1E01}"
-    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
-      Hint: Featured Story CTA Text
-      Value: 
-    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
-      Hint: __Updated by
-      Value: |
-        sitecore\lissettegomezandrews
-    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
-      Hint: Meta Description
-      Value: "Remacut assists worldwide customers and operators with the engineering, construction, factory testing, and on-board commissioning and operation of complete systems both at surface and subsea."
-    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
-      Hint: __Valid from
-      Value: 20230202T215641Z
-    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
-      Hint: Card Image
-      Value: |
-        <image mediaid="{694D3A64-D8D8-4084-A077-20B87AABD032}" cropregion="0,257,1920,1359" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
-    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
-      Hint: __Updated
-      Value: 20230202T215942Z
+      Value: 20190517T171533Z
     - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
       Hint: Meta Keywords
       Value: Remacut

@@ -10,14 +10,177 @@ SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 100
-- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
-  Hint: __Thumbnail
-  Value: |
-    <image mediaid="{C0DF1841-8C64-44A8-BC95-14E1D703BA6C}" />
 Languages:
 - Language: "en-US"
   Versions:
   - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{83C96A38-D18A-4E35-9D8D-71F869B259F3}"
+              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}" />
+            <r
+              uid="{C4ACEA35-73C2-4347-B325-2FC6FCDAAB8F}"
+              s:ds="{192D4981-4429-44BA-9CD5-CE7BC7420ADB}" />
+            <r
+              uid="{E655A92B-3794-4099-AF60-076BAFA33189}">
+              <p:d />
+            </r>
+            <r
+              uid="{0D97EC48-A616-4503-81F3-8B0A22142C87}">
+              <p:d />
+            </r>
+            <r
+              uid="{1FD9ED8E-765E-4D75-AEB7-9C5643309FB1}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3E128BD-C527-476C-B850-4FF98996AE1F}">
+              <p:d />
+            </r>
+            <r
+              uid="{9E4C6427-3865-4F4C-AF91-EFDF6A58DA77}">
+              <p:d />
+            </r>
+            <r
+              uid="{ACAD23C8-9219-4D65-B38A-4537A73C4FE0}">
+              <p:d />
+            </r>
+            <r
+              uid="{FB4C5C8E-DF5F-4300-950E-536065A8707B}">
+              <p:d />
+            </r>
+            <r
+              uid="{04EFACA5-EA20-4053-9828-DC160050C54A}"
+              p:after="r[@uid='{C4ACEA35-73C2-4347-B325-2FC6FCDAAB8F}']"
+              s:ds="{75EF1B64-2798-497B-AD5F-FC5AF25E53AF}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{D609490C-3577-4B88-8A92-81612FCA8105}"
+              p:after="r[@uid='{04EFACA5-EA20-4053-9828-DC160050C54A}']"
+              s:ds="{35701659-BFB1-4FC6-917C-3EA0D39C84B5}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{24F4FCBB-31F2-4D0D-BA20-045BD6EF7926}"
+              p:after="r[@uid='{D609490C-3577-4B88-8A92-81612FCA8105}']"
+              s:ds="{2635E3F5-9571-4ADB-A174-1019A3BE9EDC}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:ph="main" />
+            <r
+              uid="{8CCC5188-F8DB-42FC-8B20-6A93A7773C33}"
+              p:after="r[@uid='{24F4FCBB-31F2-4D0D-BA20-045BD6EF7926}']"
+              s:ds="{486B681C-DA6D-426C-9F04-3E3E436FCA5F}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{862F6A49-CECD-45AE-B0F7-E458FF453C9F}"
+              p:after="r[@uid='{8CCC5188-F8DB-42FC-8B20-6A93A7773C33}']"
+              s:ds="{50FAA442-B233-4878-ADB6-9D1B36D3E158}"
+              s:id="{404FE8DE-C601-4E14-8D3D-32F27B41D06D}"
+              s:ph="main" />
+            <r
+              uid="{399F91DE-10EF-4910-BAE4-467E7A661A32}"
+              p:after="r[@uid='{862F6A49-CECD-45AE-B0F7-E458FF453C9F}']"
+              s:ds="{4487FA68-4D08-4D1A-998A-F7D9111AB271}"
+              s:id="{404FE8DE-C601-4E14-8D3D-32F27B41D06D}"
+              s:ph="main" />
+            <r
+              uid="{34CEEED9-A005-4C6B-94F5-EBAE7C923DAB}"
+              p:after="r[@uid='{399F91DE-10EF-4910-BAE4-467E7A661A32}']"
+              s:ds="{E1FE937D-A8A8-4496-83D6-5CD6C300C067}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{2849CE03-88F2-4FBC-BAE4-0D1B29D7AEAA}">
+              <p:d />
+            </r>
+            <r
+              uid="{B5407315-4598-49BA-A716-8895E8E1539E}">
+              <p:d />
+            </r>
+            <r
+              uid="{35F5B041-CCEA-40B8-948D-6DE09851A28E}">
+              <p:d />
+            </r>
+            <r
+              uid="{99B4E79C-EEB8-49BC-8779-24C4AD0CF113}">
+              <p:d />
+            </r>
+            <r
+              uid="{CDF8E396-F69A-48ED-A6DB-B665BD98B242}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Working at NOV
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Become part of a global team developing innovative solutions in a dynamic industry.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Working at NOV
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190331T161744Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Working at NOV
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Working at NOV
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\verticachang
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Working at NOV
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4e090cb7-56e2-479c-a26c-077a421b3156"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Working at NOV
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\verticachang
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Become part of a global team developing innovative solutions in a dynamic industry.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190331T161744Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190331T192436Z
+  - Version: 2
     Fields:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
@@ -188,7 +351,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20190402T143939Z
-  - Version: 2
+  - Version: 3
     Fields:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
@@ -353,7 +516,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20190402T144136Z
-  - Version: 3
+  - Version: 4
     Fields:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
@@ -519,7 +682,7 @@ Languages:
       Hint: Page Image
       Value: |
         <image mediaid="{47891B2D-1FA9-4A62-B1E8-5909FC846E15}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" />
-  - Version: 4
+  - Version: 5
     Fields:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
@@ -685,7 +848,7 @@ Languages:
       Hint: Page Image
       Value: |
         <image mediaid="{47891B2D-1FA9-4A62-B1E8-5909FC846E15}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" />
-  - Version: 5
+  - Version: 6
     Fields:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
@@ -851,7 +1014,7 @@ Languages:
       Hint: Page Image
       Value: |
         <image mediaid="{47891B2D-1FA9-4A62-B1E8-5909FC846E15}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" />
-  - Version: 6
+  - Version: 7
     Fields:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
@@ -1021,7 +1184,7 @@ Languages:
       Hint: Page Image
       Value: |
         <image mediaid="{47891B2D-1FA9-4A62-B1E8-5909FC846E15}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" />
-  - Version: 7
+  - Version: 8
     Fields:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
@@ -1191,7 +1354,7 @@ Languages:
       Hint: Page Image
       Value: |
         <image mediaid="{47891B2D-1FA9-4A62-B1E8-5909FC846E15}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" />
-  - Version: 8
+  - Version: 9
     Fields:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
@@ -1361,7 +1524,7 @@ Languages:
       Hint: Page Image
       Value: |
         <image mediaid="{47891B2D-1FA9-4A62-B1E8-5909FC846E15}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" />
-  - Version: 9
+  - Version: 10
     Fields:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
@@ -1373,6 +1536,10 @@ Languages:
           p:p="1">
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{BA077E75-780B-4654-A220-10E63520C582}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
             <r
               uid="{83C96A38-D18A-4E35-9D8D-71F869B259F3}"
               s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}" />
@@ -1500,7 +1667,7 @@ Languages:
       Value: Working at NOV
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "f4a7b126-28c2-43be-add4-bd05896a35d9"
+      Value: "b49fbacd-1600-48d8-ae73-2b67e4c0e48b"
     - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
       Hint: contentTag
       Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
@@ -1510,7 +1677,7 @@ Languages:
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\adminrschuhsler
+        sitecore\kaileyshelton
     - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
       Hint: Meta Description
       Value: Become part of a global team developing innovative solutions in a dynamic industry.
@@ -1523,175 +1690,7 @@ Languages:
         <image mediaid="{47891B2D-1FA9-4A62-B1E8-5909FC846E15}" cropregion="0,87,1920,1191" ratio="514:295" width="514" height="295" />
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20210416T005619Z
-    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
-      Hint: Page Image
-      Value: |
-        <image mediaid="{47891B2D-1FA9-4A62-B1E8-5909FC846E15}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" />
-  - Version: 10
-    Fields:
-    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
-      Hint: __Lock
-      Value: |
-        <r owner="sitecore\jeremygrzywa" date="20210507T162001Z" />
-    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
-      Hint: __Final Renderings
-      Value: |
-        <r xmlns:p="p" xmlns:s="s"
-          p:p="1">
-          <d
-            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
-            <r
-              uid="{83C96A38-D18A-4E35-9D8D-71F869B259F3}"
-              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}" />
-            <r
-              uid="{C4ACEA35-73C2-4347-B325-2FC6FCDAAB8F}"
-              s:ds="{192D4981-4429-44BA-9CD5-CE7BC7420ADB}" />
-            <r
-              uid="{E655A92B-3794-4099-AF60-076BAFA33189}">
-              <p:d />
-            </r>
-            <r
-              uid="{0D97EC48-A616-4503-81F3-8B0A22142C87}">
-              <p:d />
-            </r>
-            <r
-              uid="{1FD9ED8E-765E-4D75-AEB7-9C5643309FB1}">
-              <p:d />
-            </r>
-            <r
-              uid="{C3E128BD-C527-476C-B850-4FF98996AE1F}">
-              <p:d />
-            </r>
-            <r
-              uid="{9E4C6427-3865-4F4C-AF91-EFDF6A58DA77}">
-              <p:d />
-            </r>
-            <r
-              uid="{F318A250-AA04-43EB-8FC0-BB8280DF8948}"
-              p:after="r[@uid='{C4ACEA35-73C2-4347-B325-2FC6FCDAAB8F}']"
-              s:ds="{615E65D3-79E3-427B-99F6-51049A4F6876}"
-              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
-              s:par="Use Button for Link=1"
-              s:ph="main" />
-            <r
-              uid="{04EFACA5-EA20-4053-9828-DC160050C54A}"
-              p:after="r[@uid='{F318A250-AA04-43EB-8FC0-BB8280DF8948}']"
-              s:ds="{75EF1B64-2798-497B-AD5F-FC5AF25E53AF}"
-              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
-              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
-              s:ph="main" />
-            <r
-              uid="{D609490C-3577-4B88-8A92-81612FCA8105}"
-              p:after="r[@uid='{04EFACA5-EA20-4053-9828-DC160050C54A}']"
-              s:ds="{35701659-BFB1-4FC6-917C-3EA0D39C84B5}"
-              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
-              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
-              s:ph="main" />
-            <r
-              uid="{C2565383-DD85-42E8-AB04-B7C30DBAC267}"
-              p:after="r[@uid='{D609490C-3577-4B88-8A92-81612FCA8105}']"
-              s:ds="{96F8F458-7167-4348-BECC-79C93DDDC1C4}"
-              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
-              s:ph="main" />
-            <r
-              uid="{34CEEED9-A005-4C6B-94F5-EBAE7C923DAB}"
-              p:after="r[@uid='{C2565383-DD85-42E8-AB04-B7C30DBAC267}']"
-              s:ds="{E1FE937D-A8A8-4496-83D6-5CD6C300C067}"
-              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
-              s:ph="main" />
-            <r
-              uid="{ACAD23C8-9219-4D65-B38A-4537A73C4FE0}">
-              <p:d />
-            </r>
-            <r
-              uid="{FB4C5C8E-DF5F-4300-950E-536065A8707B}">
-              <p:d />
-            </r>
-            <r
-              uid="{2849CE03-88F2-4FBC-BAE4-0D1B29D7AEAA}">
-              <p:d />
-            </r>
-            <r
-              uid="{B5407315-4598-49BA-A716-8895E8E1539E}">
-              <p:d />
-            </r>
-            <r
-              uid="{35F5B041-CCEA-40B8-948D-6DE09851A28E}">
-              <p:d />
-            </r>
-            <r
-              uid="{99B4E79C-EEB8-49BC-8779-24C4AD0CF113}">
-              <p:d />
-            </r>
-            <r
-              uid="{CDF8E396-F69A-48ED-A6DB-B665BD98B242}">
-              <p:d />
-            </r>
-            <r
-              uid="{3ADDDF2A-6C4B-4473-ACB2-EADC8ABD6475}">
-              <p:d />
-            </r>
-          </d>
-        </r>
-    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
-      Hint: Featured Story Headline
-      Value: Working at NOV
-    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
-      Hint: Subheading
-      Value: <p>Become part of a global team developing innovative solutions in a dynamic industry.</p>
-    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
-      Hint: Headline
-      Value: Working at NOV
-    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
-      Hint: __Created
-      Value: 20210507T162000Z
-    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
-      Hint: Mobile Menu Title
-      Value: Working at NOV
-    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
-      Hint: __Workflow state
-      Value: "{8B87E652-E3F7-4C54-BDD9-66E1B888FF8B}"
-    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
-      Hint: Page Title
-      Value: Working at NOV
-    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
-      Hint: __Owner
-      Value: |
-        sitecore\charisgamroth
-    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
-      Hint: __Created by
-      Value: |
-        sitecore\jeremygrzywa
-    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
-      Hint: Menu Title
-      Value: Working at NOV
-    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
-      Hint: __Revision
-      Value: "fae460a7-bc62-497d-ace1-5e5f65055cdf"
-    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
-      Hint: contentTag
-      Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
-    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
-      Hint: Featured Story CTA Text
-      Value: Working at NOV
-    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
-      Hint: __Updated by
-      Value: |
-        sitecore\varalakshmi.md@horizontal.com
-    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
-      Hint: Meta Description
-      Value: Become part of a global team developing innovative solutions in a dynamic industry.
-    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
-      Hint: __Valid from
-      Value: 20210507T162000Z
-    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
-      Hint: Card Image
-      Value: |
-        <image mediaid="{47891B2D-1FA9-4A62-B1E8-5909FC846E15}" cropregion="0,87,1920,1191" ratio="514:295" width="514" height="295" />
-    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
-      Hint: __Updated
-      Value: 20230725T094618Z
+      Value: 20190827T163607Z
     - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
       Hint: Page Image
       Value: |

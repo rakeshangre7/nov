@@ -1,0 +1,248 @@
+﻿---
+ID: "d8ad3fb1-d6f5-4aa2-95b8-3d94423d95ec"
+Parent: "fb96e395-5144-4daf-b9d4-af3e3cae9983"
+Template: "d227ab0e-fd44-4ae0-878a-189949913d0b"
+Path: /sitecore/content/nov/nov/Home/private/Norway/2021
+SharedFields:
+- ID: "66afdd9e-0c87-4ef2-9ef2-405f3b88a047"
+  Hint: Hide From Search
+  Value: 1
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+      xmlnxsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{40C0E7ED-9887-49E1-8E89-43D16DD2AD6C}">
+        <r
+          ds=""
+          id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+          par="Add Gradient=1&amp;Text Color=white"
+          ph="/main/hero-slide-{83C96A38-D18A-4E35-9D8D-71F869B259F3}-0"
+          uid="{BA077E75-780B-4654-A220-10E63520C582}" />
+        <r
+          id="{AB213187-9551-4F9B-AE3D-261BB2B2434F}"
+          ph="main"
+          uid="{83C96A38-D18A-4E35-9D8D-71F869B259F3}" />
+        <r
+          ds="{D5AABF06-C95B-44D3-9D38-EF6F20D5DF84}"
+          id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+          par="Alignment"
+          ph="main"
+          uid="{C4ACEA35-73C2-4347-B325-2FC6FCDAAB8F}" />
+        <r
+          ds="{1B8EF9CC-D053-4228-A920-2C3343CD8A16}"
+          id="{C9BE8A1C-14D0-4650-BB74-C2797F12C5BA}"
+          par=""
+          ph="main"
+          uid="{E655A92B-3794-4099-AF60-076BAFA33189}" />
+        <r
+          ds="{91AEFEF4-CE75-4671-ADEA-BECD864DBBEF}"
+          id="{7EE99E6C-C671-468E-8381-C6B9BB1E6416}"
+          par=""
+          ph="main"
+          uid="{0D97EC48-A616-4503-81F3-8B0A22142C87}" />
+        <r
+          ds="{57C2703A-E666-45FA-9911-64A4185C6C5C}"
+          id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+          par="Alignment"
+          ph="main"
+          uid="{1FD9ED8E-765E-4D75-AEB7-9C5643309FB1}" />
+        <r
+          ds="{3416C267-997F-4AEA-9319-1A1B003131CD}"
+          id="{2E6C5F1E-BC4A-4FBE-BC72-FBCB237F8DDC}"
+          par=""
+          ph="main"
+          uid="{C3E128BD-C527-476C-B850-4FF98996AE1F}" />
+        <r
+          ds="{2DF83705-EA53-4541-ABF3-677DF49B0F4A}"
+          id="{F6988CA1-8F6A-4235-8851-39729DDF65B4}"
+          par="Alignment=right"
+          ph="main"
+          uid="{9E4C6427-3865-4F4C-AF91-EFDF6A58DA77}" />
+        <r
+          ds="{A8ECB237-FC8C-4E47-A9D5-AA7E5FE15362}"
+          id="{AE82AE93-5552-4F52-951B-C3A434D646F3}"
+          par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+          ph="main"
+          uid="{ACAD23C8-9219-4D65-B38A-4537A73C4FE0}" />
+        <r
+          ds="{80890CBE-BF36-47F2-8446-8F849D93991C}"
+          id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+          par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+          ph="main"
+          uid="{FB4C5C8E-DF5F-4300-950E-536065A8707B}" />
+        <r
+          ds="{2A629234-97DA-4B63-AD02-65C47B468560}"
+          id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+          par=""
+          ph="main"
+          uid="{2849CE03-88F2-4FBC-BAE4-0D1B29D7AEAA}" />
+        <r
+          ds="{B70641C9-B325-4D9A-B9E5-416DCC04BF58}"
+          id="{09A5B06F-A291-4BC8-8851-CC3FBB8D885D}"
+          par=""
+          ph="main"
+          uid="{B5407315-4598-49BA-A716-8895E8E1539E}" />
+        <r
+          ds="{0DCC1D57-5F15-46F0-ADF6-F084AEC3C5E9}"
+          id="{846AE873-D5C7-4033-928F-6BD96E963742}"
+          par=""
+          ph="main"
+          uid="{35F5B041-CCEA-40B8-948D-6DE09851A28E}" />
+        <r
+          ds="{05A4BE01-0164-48A5-9AAA-45E1051A3091}"
+          id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+          par="Alignment"
+          ph="main"
+          uid="{99B4E79C-EEB8-49BC-8779-24C4AD0CF113}" />
+        <r
+          ds="{06F79C7F-CD91-4011-96BC-9A7E27513567}"
+          id="{404FE8DE-C601-4E14-8D3D-32F27B41D06D}"
+          par=""
+          ph="main"
+          uid="{CDF8E396-F69A-48ED-A6DB-B665BD98B242}" />
+        <r
+          ds="{D5EC64F5-E90A-44BE-92E3-BFDFE13FE68A}"
+          id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+          par=""
+          ph="main"
+          uid="{3ADDDF2A-6C4B-4473-ACB2-EADC8ABD6475}" />
+        <r
+          ds="{BF5F6030-AB5B-4B33-BE76-CAA8C856E00B}"
+          id="{8811D96E-0023-4E45-BF2A-E9827DB7E4BB}"
+          par=""
+          ph="main"
+          uid="{8036035A-E577-44BC-A961-631ADBC08C0F}" />
+      </d>
+    </r>
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{BA077E75-780B-4654-A220-10E63520C582}">
+              <p:d />
+            </r>
+            <r
+              uid="{83C96A38-D18A-4E35-9D8D-71F869B259F3}">
+              <p:d />
+            </r>
+            <r
+              uid="{C4ACEA35-73C2-4347-B325-2FC6FCDAAB8F}"
+              s:par="Alignment=left" />
+            <r
+              uid="{E655A92B-3794-4099-AF60-076BAFA33189}">
+              <p:d />
+            </r>
+            <r
+              uid="{0D97EC48-A616-4503-81F3-8B0A22142C87}">
+              <p:d />
+            </r>
+            <r
+              uid="{1FD9ED8E-765E-4D75-AEB7-9C5643309FB1}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3E128BD-C527-476C-B850-4FF98996AE1F}">
+              <p:d />
+            </r>
+            <r
+              uid="{9E4C6427-3865-4F4C-AF91-EFDF6A58DA77}">
+              <p:d />
+            </r>
+            <r
+              uid="{ACAD23C8-9219-4D65-B38A-4537A73C4FE0}">
+              <p:d />
+            </r>
+            <r
+              uid="{FB4C5C8E-DF5F-4300-950E-536065A8707B}">
+              <p:d />
+            </r>
+            <r
+              uid="{2849CE03-88F2-4FBC-BAE4-0D1B29D7AEAA}">
+              <p:d />
+            </r>
+            <r
+              uid="{B5407315-4598-49BA-A716-8895E8E1539E}">
+              <p:d />
+            </r>
+            <r
+              uid="{35F5B041-CCEA-40B8-948D-6DE09851A28E}">
+              <p:d />
+            </r>
+            <r
+              uid="{99B4E79C-EEB8-49BC-8779-24C4AD0CF113}">
+              <p:d />
+            </r>
+            <r
+              uid="{CDF8E396-F69A-48ED-A6DB-B665BD98B242}">
+              <p:d />
+            </r>
+            <r
+              uid="{3ADDDF2A-6C4B-4473-ACB2-EADC8ABD6475}">
+              <p:d />
+            </r>
+            <r
+              uid="{8036035A-E577-44BC-A961-631ADBC08C0F}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: 2022
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: NOV Norway financial disclosure requirements
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220628T221744Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: 2021
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: NOV Norway financial disclosure requirements
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: 2021
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0b74d845-7beb-423d-9a33-b3650f9e0319"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220629T143609Z

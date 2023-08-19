@@ -7,10 +7,6 @@ SharedFields:
 - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
   Hint: __Workflow
   Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
-- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
-  Hint: __Thumbnail
-  Value: |
-    <image mediaid="{A5D4BC86-895A-4C7E-A5FB-3781E2DC90B8}" />
 Languages:
 - Language: "en-US"
   Versions:
@@ -271,6 +267,10 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
+              uid="{9B4417AB-C22F-4C76-B2DC-98F2FCA8A71E}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
               uid="{10CEBA25-FC2A-4F84-8760-9B825D4EAF06}"
               s:ds="{ED891EA4-BC71-48EB-8C78-63340D201284}" />
             <r
@@ -345,7 +345,7 @@ Languages:
       Value: "New side-entry mixer optimizes reliability, simplifies maintenance"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "1181d98d-63ed-4ccc-9778-bc82bb629135"
+      Value: "994c8c6e-bfdf-47a4-96fe-4a71b9a09eb2"
     - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
       Hint: contentTag
       Value: "{294053F5-3F2B-4F01-A805-2E3CC257571E}"
@@ -355,7 +355,7 @@ Languages:
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\varalakshmi.md@horizontal.com
+        sitecore\rainerschuhsler
     - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
       Hint: Meta Description
       Value: "The Chemineer SB mixer offers advanced sealing technology, horizontal-swivel functionality, and uniform blending in large-volume vessel applications."
@@ -368,7 +368,7 @@ Languages:
         <image mediaid="{52CD0F96-9BDC-4AF8-B6DA-6FE6ED530920}" cropregion="0,27,1920,1129" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230725T094320Z
+      Value: 20200923T151505Z
     - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
       Hint: Page Image
       Value: |

@@ -1,0 +1,86 @@
+﻿---
+ID: "c8e8aad4-84d0-405a-a340-e98fb7914e5a"
+Parent: "f9635888-b5d7-46b4-87d5-8b58709499d3"
+Template: "1d0ee984-9527-4cde-ae7d-cd084f4e70e2"
+Path: /sitecore/content/nov/nov/Home/Misc/Rainer/T15 Overview Page
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{40C0E7ED-9887-49E1-8E89-43D16DD2AD6C}">
+        <r
+          id="{13EC6ADB-6326-43B6-8A85-0D8510F63F5B}"
+          ph="/main/text-only-hero-slide-{EAD6C629-1FBA-4F5A-86DE-92F7C0771592}-0"
+          uid="{9ED68B73-DFBC-4455-A82D-6AE336E6B342}" />
+        <r
+          id="{BD41E061-3601-46AF-AC01-7B0617E0836B}"
+          ph="main"
+          uid="{EAD6C629-1FBA-4F5A-86DE-92F7C0771592}" />
+        <r
+          ds="{2A16146F-6C3C-4E65-8AF3-22E5B37AF5D2}"
+          id="{88C2CC12-F008-40D3-97CE-A9D1C7CE929D}"
+          par=""
+          ph="main"
+          uid="{E1DA10A3-25D1-4FAF-BE97-A562E5CFFBFA}" />
+        <r
+          ds="{019FDA46-DB5F-488E-9664-5CE404F014D0}"
+          id="{88C2CC12-F008-40D3-97CE-A9D1C7CE929D}"
+          par=""
+          ph="main"
+          uid="{2D30EBC3-FEF6-4783-9146-C258C8356A40}" />
+      </d>
+    </r>
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: |
+        <r owner="sitecore\arshmomin" date="20210119T154458Z" />
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: T15 Overview Page
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: T15 Overview Page
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210119T154457Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: T15 Overview Page
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{8B87E652-E3F7-4C54-BDD9-66E1B888FF8B}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: T15 Overview Page
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\arshmomin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\arshmomin
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: T15 Overview Page
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fb2f35a0-5c61-45e5-ba0d-a10adf8ffd9c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\arshmomin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210119T154458Z

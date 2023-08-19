@@ -1,0 +1,1481 @@
+﻿---
+ID: "fbfa7ada-093a-42df-8f8d-c46e0d74bd1b"
+Parent: "e3d406ad-28d8-4bf8-8e31-36f46d6fa1bd"
+Template: "fa173e9d-ff30-4ddf-93b9-7e6d647c30ae"
+Path: /sitecore/content/nov/nov/Home/Misc/Completion Tools Russia
+SharedFields:
+- ID: "66afdd9e-0c87-4ef2-9ef2-405f3b88a047"
+  Hint: Hide From Search
+  Value: 1
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BE19157-FD32-4581-B422-C47B44ACA6A4}"
+              p:before="*"
+              s:ds="{F7F6AE24-2EF5-426D-B7D1-9A54D636083E}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}"
+              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}" />
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}"
+              s:ds="{4B6E49F7-5FE9-43B2-BDDD-60328E392A30}" />
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
+              <p:d />
+            </r>
+            <r
+              uid="{528D188A-A1F4-43C6-933E-B98265516685}"
+              p:after="r[@uid='{D0D1C772-7E1B-45CD-8D78-0877C08009C2}']"
+              s:ds="{87A05D95-A85A-4225-95D0-2FE7B88B48B7}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}"
+              s:ds="{B83F3170-7F45-439F-8812-A083DEE98A9E}" />
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
+              <p:d />
+            </r>
+            <r
+              uid="{F8C6F8CE-C7CB-42A2-85C8-9D09CD00174C}"
+              p:after="r[@uid='{84911C9D-A555-4FE3-AD88-56950399EBC0}']"
+              s:ds="{CC9A5E49-A9A2-403E-A097-7A66D03E13FA}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:ph="main" />
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Completion Tools
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Your source for completion tools from well construction to multistage fracturing. With a technology focus, we offer a variety of completion products. Our tools improve the performance of reservoirs with achieving higher extraction ratios and production, reducing capital expenditure and saving time.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Completion Tools
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190311T155701Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Completion Tools
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Completion Tools
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Completion Tools
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{C49DEA2C-8589-4331-B6D2-7F7ACCBDC845}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bfd5144c-9c7b-441b-a68e-c46de39848c8"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\joannazhu
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190311T155701Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{2F5C5B8B-BD30-4295-B597-5F3301356D5D}" cropregion="0,323,1920,1425" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190606T202835Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{2F5C5B8B-BD30-4295-B597-5F3301356D5D}" cropregion="0,346,1920,1425" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BE19157-FD32-4581-B422-C47B44ACA6A4}"
+              p:before="*"
+              s:ds="{ADCE3AD4-4D74-4037-9561-F111F587615A}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{0109759E-4600-4B78-A0E6-96D9B8F26CB9}"
+              s:ds="{1E9AD2BF-DD31-4164-880C-5BD430D44E8C}" />
+            <r
+              uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}"
+              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}" />
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}"
+              s:ds="{50BFC15E-C6BF-4AC7-8A5A-0A1D3C82ECB5}" />
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
+              <p:d />
+            </r>
+            <r
+              uid="{528D188A-A1F4-43C6-933E-B98265516685}"
+              p:after="r[@uid='{D0D1C772-7E1B-45CD-8D78-0877C08009C2}']"
+              s:ds="{87A05D95-A85A-4225-95D0-2FE7B88B48B7}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}"
+              s:ds="{F663ED49-AD82-462B-8F23-DCF95254230D}" />
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
+              <p:d />
+            </r>
+            <r
+              uid="{F8C6F8CE-C7CB-42A2-85C8-9D09CD00174C}"
+              p:after="r[@uid='{84911C9D-A555-4FE3-AD88-56950399EBC0}']"
+              s:ds="{CC9A5E49-A9A2-403E-A097-7A66D03E13FA}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:ph="main" />
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Completion Tools
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: |
+        <p>Мы выступаем единым поставщиком оборудования для заканчивания скважин, начиная от строительства скважины и заканчивая многостадийным ГРП<br />
+        Наше проверенное оборудование и технологии заканчивания улучшают производительность пласта, помогая Вам достичь более высоких коэффициентов добычи при одновременном снижении капитальных затрат и экономии времени.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Оборудование заканчивания .
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190327T190933Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Completion Tools
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Completion Tools
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\verticachang
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Completion Tools
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{C49DEA2C-8589-4331-B6D2-7F7ACCBDC845}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0ab05f9c-03a7-4ee5-b626-285167660d9a"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Мы выступаем единым поставщиком оборудования для заканчивания скважин, начиная от строительства скважины и заканчивая многостадийным ГРП Наше проверенное оборудование и технологии заканчивания улучшают производительность пласта, помогая Вам достичь более высоких коэффициентов добычи при одновременном снижении капитальных затрат и экономии времени.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190327T190933Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{2F5C5B8B-BD30-4295-B597-5F3301356D5D}" cropregion="0,323,1920,1425" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190411T181944Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{2F5C5B8B-BD30-4295-B597-5F3301356D5D}" cropregion="0,346,1920,1425" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}">
+              <p:d />
+            </r>
+            <r
+              uid="{0109759E-4600-4B78-A0E6-96D9B8F26CB9}">
+              <p:d />
+            </r>
+            <r
+              uid="{F8437639-336C-40C8-8457-454565D4A5BE}"
+              p:before="*"
+              s:ds="{1E9AD2BF-DD31-4164-880C-5BD430D44E8C}"
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:ph="/main/hero-slide-{141E6896-79A7-447B-B58C-9B116C7F55FB}-0" />
+            <r
+              uid="{4BE19157-FD32-4581-B422-C47B44ACA6A4}"
+              p:after="r[@uid='{F8437639-336C-40C8-8457-454565D4A5BE}']"
+              s:ds="{ADCE3AD4-4D74-4037-9561-F111F587615A}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}"
+              s:ds="{CCB69BF8-F886-4AF5-90ED-A570756CD6EF}" />
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}"
+              s:ds="{50BFC15E-C6BF-4AC7-8A5A-0A1D3C82ECB5}" />
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
+              <p:d />
+            </r>
+            <r
+              uid="{528D188A-A1F4-43C6-933E-B98265516685}"
+              p:after="r[@uid='{D0D1C772-7E1B-45CD-8D78-0877C08009C2}']"
+              s:ds="{87A05D95-A85A-4225-95D0-2FE7B88B48B7}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}"
+              s:ds="{F663ED49-AD82-462B-8F23-DCF95254230D}" />
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
+              <p:d />
+            </r>
+            <r
+              uid="{F8C6F8CE-C7CB-42A2-85C8-9D09CD00174C}"
+              p:after="r[@uid='{84911C9D-A555-4FE3-AD88-56950399EBC0}']"
+              s:ds="{CC9A5E49-A9A2-403E-A097-7A66D03E13FA}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:ph="main" />
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Completion Tools
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: |
+        <p>Мы выступаем единым поставщиком оборудования для заканчивания скважин, начиная от строительства скважины и заканчивая многостадийным ГРП<br />
+        Наше проверенное оборудование и технологии заканчивания улучшают производительность пласта, помогая Вам достичь более высоких коэффициентов добычи при одновременном снижении капитальных затрат и экономии времени.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Оборудование заканчивания .
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190411T182133Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Completion Tools
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Completion Tools
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Completion Tools
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{C49DEA2C-8589-4331-B6D2-7F7ACCBDC845}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "990d8d6e-5734-47c3-bc56-a4a7ced081d1"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Мы выступаем единым поставщиком оборудования для заканчивания скважин, начиная от строительства скважины и заканчивая многостадийным ГРП Наше проверенное оборудование и технологии заканчивания улучшают производительность пласта, помогая Вам достичь более высоких коэффициентов добычи при одновременном снижении капитальных затрат и экономии времени.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190411T182133Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{2F5C5B8B-BD30-4295-B597-5F3301356D5D}" cropregion="0,323,1920,1425" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190411T183057Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{2F5C5B8B-BD30-4295-B597-5F3301356D5D}" cropregion="0,346,1920,1425" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 4
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}">
+              <p:d />
+            </r>
+            <r
+              uid="{0109759E-4600-4B78-A0E6-96D9B8F26CB9}">
+              <p:d />
+            </r>
+            <r
+              uid="{F8437639-336C-40C8-8457-454565D4A5BE}"
+              p:before="*"
+              s:ds="{1E9AD2BF-DD31-4164-880C-5BD430D44E8C}"
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:ph="/main/hero-slide-{141E6896-79A7-447B-B58C-9B116C7F55FB}-0" />
+            <r
+              uid="{4BE19157-FD32-4581-B422-C47B44ACA6A4}"
+              p:after="r[@uid='{F8437639-336C-40C8-8457-454565D4A5BE}']"
+              s:ds="{ADCE3AD4-4D74-4037-9561-F111F587615A}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}"
+              s:ds="{CCB69BF8-F886-4AF5-90ED-A570756CD6EF}" />
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}"
+              s:ds="{50BFC15E-C6BF-4AC7-8A5A-0A1D3C82ECB5}" />
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
+              <p:d />
+            </r>
+            <r
+              uid="{528D188A-A1F4-43C6-933E-B98265516685}"
+              p:after="r[@uid='{D0D1C772-7E1B-45CD-8D78-0877C08009C2}']"
+              s:ds="{2E13C11D-3324-4C8C-87C7-0BBBC7207733}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}"
+              s:ds="{F663ED49-AD82-462B-8F23-DCF95254230D}" />
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
+              <p:d />
+            </r>
+            <r
+              uid="{F8C6F8CE-C7CB-42A2-85C8-9D09CD00174C}"
+              p:after="r[@uid='{84911C9D-A555-4FE3-AD88-56950399EBC0}']"
+              s:ds="{CC9A5E49-A9A2-403E-A097-7A66D03E13FA}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:ph="main" />
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Completion Tools
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: |
+        <p>Мы выступаем единым поставщиком оборудования для заканчивания скважин, начиная от строительства скважины и заканчивая многостадийным ГРП<br />
+        Наше проверенное оборудование и технологии заканчивания улучшают производительность пласта, помогая Вам достичь более высоких коэффициентов добычи при одновременном снижении капитальных затрат и экономии времени.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Оборудование заканчивания .
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190411T184319Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Completion Tools
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Completion Tools
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Completion Tools
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{C49DEA2C-8589-4331-B6D2-7F7ACCBDC845}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "67d42615-81c8-4fa8-80d7-59ad9802b341"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Мы выступаем единым поставщиком оборудования для заканчивания скважин, начиная от строительства скважины и заканчивая многостадийным ГРП Наше проверенное оборудование и технологии заканчивания улучшают производительность пласта, помогая Вам достичь более высоких коэффициентов добычи при одновременном снижении капитальных затрат и экономии времени.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190411T184319Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{2F5C5B8B-BD30-4295-B597-5F3301356D5D}" cropregion="0,323,1920,1425" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190503T153611Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{2F5C5B8B-BD30-4295-B597-5F3301356D5D}" cropregion="0,346,1920,1425" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 5
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}">
+              <p:d />
+            </r>
+            <r
+              uid="{0109759E-4600-4B78-A0E6-96D9B8F26CB9}">
+              <p:d />
+            </r>
+            <r
+              uid="{F8437639-336C-40C8-8457-454565D4A5BE}"
+              p:before="*"
+              s:ds="{1E9AD2BF-DD31-4164-880C-5BD430D44E8C}"
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:ph="/main/hero-slide-{141E6896-79A7-447B-B58C-9B116C7F55FB}-0" />
+            <r
+              uid="{4BE19157-FD32-4581-B422-C47B44ACA6A4}"
+              p:after="r[@uid='{F8437639-336C-40C8-8457-454565D4A5BE}']"
+              s:ds="{ADCE3AD4-4D74-4037-9561-F111F587615A}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}"
+              s:ds="{CCB69BF8-F886-4AF5-90ED-A570756CD6EF}" />
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}"
+              s:ds="{50BFC15E-C6BF-4AC7-8A5A-0A1D3C82ECB5}" />
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
+              <p:d />
+            </r>
+            <r
+              uid="{528D188A-A1F4-43C6-933E-B98265516685}"
+              p:after="r[@uid='{D0D1C772-7E1B-45CD-8D78-0877C08009C2}']"
+              s:ds="{2E13C11D-3324-4C8C-87C7-0BBBC7207733}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}"
+              s:ds="{F663ED49-AD82-462B-8F23-DCF95254230D}" />
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
+              <p:d />
+            </r>
+            <r
+              uid="{F8C6F8CE-C7CB-42A2-85C8-9D09CD00174C}"
+              p:after="r[@uid='{84911C9D-A555-4FE3-AD88-56950399EBC0}']"
+              s:ds="{CC9A5E49-A9A2-403E-A097-7A66D03E13FA}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:ph="main" />
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Completion Tools
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: |
+        <p>Мы выступаем единым поставщиком оборудования для заканчивания скважин, начиная от строительства скважины и заканчивая многостадийным ГРП<br />
+        Наше проверенное оборудование и технологии заканчивания улучшают производительность пласта, помогая Вам достичь более высоких коэффициентов добычи при одновременном снижении капитальных затрат и экономии времени.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Оборудование заканчивания .
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190513T213839Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Completion Tools
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Completion Tools
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Completion Tools
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{C49DEA2C-8589-4331-B6D2-7F7ACCBDC845}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "859e3841-3a36-4bfb-b6e1-117f8937211f"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Мы выступаем единым поставщиком оборудования для заканчивания скважин, начиная от строительства скважины и заканчивая многостадийным ГРП Наше проверенное оборудование и технологии заканчивания улучшают производительность пласта, помогая Вам достичь более высоких коэффициентов добычи при одновременном снижении капитальных затрат и экономии времени.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190513T213839Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{095C894A-3157-47F7-BB04-E02D049AF11D}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190513T215109Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{095C894A-3157-47F7-BB04-E02D049AF11D}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 6
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}">
+              <p:d />
+            </r>
+            <r
+              uid="{0109759E-4600-4B78-A0E6-96D9B8F26CB9}">
+              <p:d />
+            </r>
+            <r
+              uid="{F8437639-336C-40C8-8457-454565D4A5BE}"
+              p:before="*"
+              s:ds="{1E9AD2BF-DD31-4164-880C-5BD430D44E8C}"
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:ph="/main/hero-slide-{141E6896-79A7-447B-B58C-9B116C7F55FB}-0" />
+            <r
+              uid="{4BE19157-FD32-4581-B422-C47B44ACA6A4}"
+              p:after="r[@uid='{F8437639-336C-40C8-8457-454565D4A5BE}']"
+              s:ds="{ADCE3AD4-4D74-4037-9561-F111F587615A}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}"
+              s:ds="{CCB69BF8-F886-4AF5-90ED-A570756CD6EF}" />
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}"
+              s:ds="{50BFC15E-C6BF-4AC7-8A5A-0A1D3C82ECB5}" />
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
+              <p:d />
+            </r>
+            <r
+              uid="{528D188A-A1F4-43C6-933E-B98265516685}"
+              p:after="r[@uid='{D0D1C772-7E1B-45CD-8D78-0877C08009C2}']"
+              s:ds="{2E13C11D-3324-4C8C-87C7-0BBBC7207733}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}"
+              s:ds="{F663ED49-AD82-462B-8F23-DCF95254230D}" />
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
+              <p:d />
+            </r>
+            <r
+              uid="{F8C6F8CE-C7CB-42A2-85C8-9D09CD00174C}"
+              p:after="r[@uid='{84911C9D-A555-4FE3-AD88-56950399EBC0}']"
+              s:ds="{CC9A5E49-A9A2-403E-A097-7A66D03E13FA}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:ph="main" />
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Completion Tools
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: |
+        <p>Мы выступаем единым поставщиком оборудования для заканчивания скважин, начиная от строительства скважины и заканчивая многостадийным ГРП<br />
+        Наше проверенное оборудование и технологии заканчивания улучшают производительность пласта, помогая Вам достичь более высоких коэффициентов добычи при одновременном снижении капитальных затрат и экономии времени.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Оборудование заканчивания .
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190513T215229Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Completion Tools
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Completion Tools
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Completion Tools
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{C49DEA2C-8589-4331-B6D2-7F7ACCBDC845}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "659f4da5-b9b1-4f69-afa8-756a69837a58"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Мы выступаем единым поставщиком оборудования для заканчивания скважин, начиная от строительства скважины и заканчивая многостадийным ГРП Наше проверенное оборудование и технологии заканчивания улучшают производительность пласта, помогая Вам достичь более высоких коэффициентов добычи при одновременном снижении капитальных затрат и экономии времени.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190513T215229Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{095C894A-3157-47F7-BB04-E02D049AF11D}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190604T152412Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{095C894A-3157-47F7-BB04-E02D049AF11D}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 7
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}">
+              <p:d />
+            </r>
+            <r
+              uid="{0109759E-4600-4B78-A0E6-96D9B8F26CB9}">
+              <p:d />
+            </r>
+            <r
+              uid="{F8437639-336C-40C8-8457-454565D4A5BE}"
+              p:before="*"
+              s:ds="{1E9AD2BF-DD31-4164-880C-5BD430D44E8C}"
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:par="Add Gradient=1&amp;Text Color=white"
+              s:ph="/main/hero-slide-{141E6896-79A7-447B-B58C-9B116C7F55FB}-0" />
+            <r
+              uid="{4BE19157-FD32-4581-B422-C47B44ACA6A4}"
+              p:after="r[@uid='{F8437639-336C-40C8-8457-454565D4A5BE}']"
+              s:ds="{ADCE3AD4-4D74-4037-9561-F111F587615A}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}"
+              s:ds="{CCB69BF8-F886-4AF5-90ED-A570756CD6EF}" />
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}"
+              s:ds="{50BFC15E-C6BF-4AC7-8A5A-0A1D3C82ECB5}" />
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
+              <p:d />
+            </r>
+            <r
+              uid="{528D188A-A1F4-43C6-933E-B98265516685}"
+              p:after="r[@uid='{D0D1C772-7E1B-45CD-8D78-0877C08009C2}']"
+              s:ds="{2E13C11D-3324-4C8C-87C7-0BBBC7207733}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}"
+              s:ds="{F663ED49-AD82-462B-8F23-DCF95254230D}" />
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
+              <p:d />
+            </r>
+            <r
+              uid="{F8C6F8CE-C7CB-42A2-85C8-9D09CD00174C}"
+              p:after="r[@uid='{84911C9D-A555-4FE3-AD88-56950399EBC0}']"
+              s:ds="{CC9A5E49-A9A2-403E-A097-7A66D03E13FA}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:ph="main" />
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Completion Tools
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: |
+        <p>Мы выступаем единым поставщиком оборудования для заканчивания скважин, начиная от строительства скважины и заканчивая многостадийным ГРП<br />
+        Наше проверенное оборудование и технологии заканчивания улучшают производительность пласта, помогая Вам достичь более высоких коэффициентов добычи при одновременном снижении капитальных затрат и экономии времени.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Оборудование заканчивания .
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190604T152444Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Completion Tools
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Completion Tools
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Completion Tools
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{C49DEA2C-8589-4331-B6D2-7F7ACCBDC845}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "21e4801f-a3c0-4bad-a982-bba56c0a9b81"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Мы выступаем единым поставщиком оборудования для заканчивания скважин, начиная от строительства скважины и заканчивая многостадийным ГРП Наше проверенное оборудование и технологии заканчивания улучшают производительность пласта, помогая Вам достичь более высоких коэффициентов добычи при одновременном снижении капитальных затрат и экономии времени.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190604T152444Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{095C894A-3157-47F7-BB04-E02D049AF11D}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190610T175130Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{095C894A-3157-47F7-BB04-E02D049AF11D}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 8
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}">
+              <p:d />
+            </r>
+            <r
+              uid="{0109759E-4600-4B78-A0E6-96D9B8F26CB9}">
+              <p:d />
+            </r>
+            <r
+              uid="{F8437639-336C-40C8-8457-454565D4A5BE}"
+              p:before="*"
+              s:ds="{1E9AD2BF-DD31-4164-880C-5BD430D44E8C}"
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:par="Add Gradient=1&amp;Text Color=white"
+              s:ph="/main/hero-slide-{141E6896-79A7-447B-B58C-9B116C7F55FB}-0" />
+            <r
+              uid="{4BE19157-FD32-4581-B422-C47B44ACA6A4}"
+              p:after="r[@uid='{F8437639-336C-40C8-8457-454565D4A5BE}']"
+              s:ds="{ADCE3AD4-4D74-4037-9561-F111F587615A}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}"
+              s:ds="{CCB69BF8-F886-4AF5-90ED-A570756CD6EF}" />
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}"
+              s:ds="{50BFC15E-C6BF-4AC7-8A5A-0A1D3C82ECB5}" />
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
+              <p:d />
+            </r>
+            <r
+              uid="{528D188A-A1F4-43C6-933E-B98265516685}"
+              p:after="r[@uid='{D0D1C772-7E1B-45CD-8D78-0877C08009C2}']"
+              s:ds="{2E13C11D-3324-4C8C-87C7-0BBBC7207733}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}"
+              s:ds="{F663ED49-AD82-462B-8F23-DCF95254230D}" />
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
+              <p:d />
+            </r>
+            <r
+              uid="{F8C6F8CE-C7CB-42A2-85C8-9D09CD00174C}"
+              p:after="r[@uid='{84911C9D-A555-4FE3-AD88-56950399EBC0}']"
+              s:ds="{CC9A5E49-A9A2-403E-A097-7A66D03E13FA}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:ph="main" />
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Completion Tools
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: |
+        <p>Мы выступаем единым поставщиком оборудования для заканчивания скважин, начиная от строительства скважины и заканчивая многостадийным ГРП<br />
+        Наше проверенное оборудование и технологии заканчивания улучшают производительность пласта, помогая Вам достичь более высоких коэффициентов добычи при одновременном снижении капитальных затрат и экономии времени.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Оборудование заканчивания .
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190726T151531Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Completion Tools
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Completion Tools
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Completion Tools
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{C49DEA2C-8589-4331-B6D2-7F7ACCBDC845}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e22dae5a-3cf4-4a90-aea1-680a4a7e8191"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Мы выступаем единым поставщиком оборудования для заканчивания скважин, начиная от строительства скважины и заканчивая многостадийным ГРП Наше проверенное оборудование и технологии заканчивания улучшают производительность пласта, помогая Вам достичь более высоких коэффициентов добычи при одновременном снижении капитальных затрат и экономии времени.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190726T151531Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{5F0C93CF-748F-40DF-8C53-109A7D1B22ED}" cropregion="16,0,1902,1081" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190726T151642Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{5F0C93CF-748F-40DF-8C53-109A7D1B22ED}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 9
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}">
+              <p:d />
+            </r>
+            <r
+              uid="{0109759E-4600-4B78-A0E6-96D9B8F26CB9}">
+              <p:d />
+            </r>
+            <r
+              uid="{F8437639-336C-40C8-8457-454565D4A5BE}"
+              p:before="*"
+              s:ds=""
+              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+              s:par="Add Gradient=1&amp;Text Color=white"
+              s:ph="/main/hero-slide-{141E6896-79A7-447B-B58C-9B116C7F55FB}-0" />
+            <r
+              uid="{4BE19157-FD32-4581-B422-C47B44ACA6A4}"
+              p:after="r[@uid='{F8437639-336C-40C8-8457-454565D4A5BE}']"
+              s:ds="{ADCE3AD4-4D74-4037-9561-F111F587615A}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}"
+              s:ds="{CCB69BF8-F886-4AF5-90ED-A570756CD6EF}" />
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}"
+              s:ds="{50BFC15E-C6BF-4AC7-8A5A-0A1D3C82ECB5}" />
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
+              <p:d />
+            </r>
+            <r
+              uid="{528D188A-A1F4-43C6-933E-B98265516685}"
+              p:after="r[@uid='{D0D1C772-7E1B-45CD-8D78-0877C08009C2}']"
+              s:ds="{2E13C11D-3324-4C8C-87C7-0BBBC7207733}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}"
+              s:ds="{F663ED49-AD82-462B-8F23-DCF95254230D}" />
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
+              <p:d />
+            </r>
+            <r
+              uid="{F8C6F8CE-C7CB-42A2-85C8-9D09CD00174C}"
+              p:after="r[@uid='{84911C9D-A555-4FE3-AD88-56950399EBC0}']"
+              s:ds="{CC9A5E49-A9A2-403E-A097-7A66D03E13FA}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:ph="main" />
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Completion Tools
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: |
+        <p>Мы выступаем единым поставщиком оборудования для заканчивания скважин, начиная от строительства скважины и заканчивая многостадийным ГРП<br />
+        Наше проверенное оборудование и технологии заканчивания улучшают производительность пласта, помогая Вам достичь более высоких коэффициентов добычи при одновременном снижении капитальных затрат и экономии времени.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Оборудование заканчивания .
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190726T152154Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Completion Tools
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Completion Tools
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Completion Tools
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{C49DEA2C-8589-4331-B6D2-7F7ACCBDC845}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "90d49ea6-a746-4689-980a-9b7b918850a8"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Мы выступаем единым поставщиком оборудования для заканчивания скважин, начиная от строительства скважины и заканчивая многостадийным ГРП Наше проверенное оборудование и технологии заканчивания улучшают производительность пласта, помогая Вам достичь более высоких коэффициентов добычи при одновременном снижении капитальных затрат и экономии времени.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190726T152154Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{5F0C93CF-748F-40DF-8C53-109A7D1B22ED}" cropregion="16,0,1902,1081" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190726T152244Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{5F0C93CF-748F-40DF-8C53-109A7D1B22ED}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 10
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}">
+              <p:d />
+            </r>
+            <r
+              uid="{0109759E-4600-4B78-A0E6-96D9B8F26CB9}">
+              <p:d />
+            </r>
+            <r
+              uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}">
+              <p:d />
+            </r>
+            <r
+              uid="{47817B30-01D5-44CF-8168-54FA6625D334}"
+              p:before="*"
+              s:ds="{37A1CBE5-5DB1-4205-A238-3430E45C4DBF}"
+              s:id="{9CA51EAB-92E4-4A77-8B48-966774577172}"
+              s:ph="/main/product-hero-{A6FD81C2-A1EF-4A4F-82F4-119DDD075385}-0" />
+            <r
+              uid="{A6FD81C2-A1EF-4A4F-82F4-119DDD075385}"
+              p:after="r[@uid='{47817B30-01D5-44CF-8168-54FA6625D334}']"
+              s:ds="{2D169DA4-8A82-4B8D-BD2B-E640C33594AB}"
+              s:id="{C3DD97A2-2C6B-4FDA-922C-7127AE10C976}"
+              s:ph="main" />
+            <r
+              uid="{4BE19157-FD32-4581-B422-C47B44ACA6A4}"
+              p:after="r[@uid='{A6FD81C2-A1EF-4A4F-82F4-119DDD075385}']"
+              s:ds="{ADCE3AD4-4D74-4037-9561-F111F587615A}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}"
+              s:ds="{50BFC15E-C6BF-4AC7-8A5A-0A1D3C82ECB5}" />
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
+              <p:d />
+            </r>
+            <r
+              uid="{528D188A-A1F4-43C6-933E-B98265516685}"
+              p:after="r[@uid='{D0D1C772-7E1B-45CD-8D78-0877C08009C2}']"
+              s:ds="{2E13C11D-3324-4C8C-87C7-0BBBC7207733}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}"
+              s:ds="{F663ED49-AD82-462B-8F23-DCF95254230D}" />
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
+              <p:d />
+            </r>
+            <r
+              uid="{F8C6F8CE-C7CB-42A2-85C8-9D09CD00174C}"
+              p:after="r[@uid='{84911C9D-A555-4FE3-AD88-56950399EBC0}']"
+              s:ds="{CC9A5E49-A9A2-403E-A097-7A66D03E13FA}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:ph="main" />
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Completion Tools
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: |
+        <p>Мы выступаем единым поставщиком оборудования для заканчивания скважин, начиная от строительства скважины и заканчивая многостадийным ГРП<br />
+        Наше проверенное оборудование и технологии заканчивания улучшают производительность пласта, помогая Вам достичь более высоких коэффициентов добычи при одновременном снижении капитальных затрат и экономии времени.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Оборудование заканчивания .
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191023T181012Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Completion Tools
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Completion Tools
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joannazhu
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Completion Tools
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{C49DEA2C-8589-4331-B6D2-7F7ACCBDC845}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3f2cbb7d-8177-4064-82ef-03c7beab6044"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\joannazhu
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Мы выступаем единым поставщиком оборудования для заканчивания скважин, начиная от строительства скважины и заканчивая многостадийным ГРП Наше проверенное оборудование и технологии заканчивания улучшают производительность пласта, помогая Вам достичь более высоких коэффициентов добычи при одновременном снижении капитальных затрат и экономии времени.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20191023T181012Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{5F0C93CF-748F-40DF-8C53-109A7D1B22ED}" cropregion="16,0,1902,1081" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20191023T181751Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{5F0C93CF-748F-40DF-8C53-109A7D1B22ED}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />

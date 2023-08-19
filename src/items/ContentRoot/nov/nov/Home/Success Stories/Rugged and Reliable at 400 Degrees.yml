@@ -1,0 +1,538 @@
+﻿---
+ID: "6b59a50a-b5dd-4f7a-80b2-9837bbfff8d2"
+Parent: "443b027a-c1bf-4252-b423-6ef002958654"
+Template: "34b41a4a-a8b5-432c-8a07-b6ca70ada9da"
+Path: /sitecore/content/nov/nov/Home/Success Stories/Rugged and Reliable at 400 Degrees
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01fd8c23-1b98-4e4b-9f2d-ecf3eb8aad68"
+      Hint: businessUnits
+      Value: "{3B8F9886-CBF9-4610-8636-0D4DB6DFD4BE}"
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{10CEBA25-FC2A-4F84-8760-9B825D4EAF06}"
+              s:ds="{1CF363C5-2509-4E34-A70A-BC85CE54AA72}" />
+            <r
+              uid="{37DC6908-9973-4BF3-AA1F-616581927F03}"
+              s:ds="{E59B73A9-B6EA-4984-B861-D250A08B0332}" />
+            <r
+              uid="{3A4E7139-50CB-4BD5-AB2E-460BC7CE5AAF}">
+              <p:d />
+            </r>
+            <r
+              uid="{89C038C4-DC21-4706-907D-75677F6FAE03}"
+              p:after="r[@uid='{37DC6908-9973-4BF3-AA1F-616581927F03}']"
+              s:ds="{09B0301F-0F79-401E-99E0-7DACF99ECFEC}"
+              s:id="{D6F7B1A2-D9A1-4301-85D8-64731201F85B}"
+              s:ph="main" />
+            <r
+              uid="{29B80482-A671-447F-BB46-8121D422BD81}"
+              s:ds="{215D42FD-13F5-44AC-B9AD-11299972B3C9}" />
+            <r
+              uid="{97344B92-7C95-4AC5-BA52-015B4E4B60A0}">
+              <p:d />
+            </r>
+            <r
+              uid="{7FCE1D2B-E077-4A3D-AF80-996014D9B527}">
+              <p:d />
+            </r>
+            <r
+              uid="{B7906B15-B51F-4DDA-9D56-0D4EDD3DF208}">
+              <p:d />
+            </r>
+            <r
+              uid="{9B9C6914-204E-47B8-ABD6-F2712DC7BB72}">
+              <p:d />
+            </r>
+            <r
+              uid="{B82E8E2D-CE49-4599-8A4E-FB5FAC8A3576}"
+              p:after="r[@uid='{29B80482-A671-447F-BB46-8121D422BD81}']"
+              s:ds="{272699C6-6137-4613-AA3F-F1F67B32344D}"
+              s:id="{D6F7B1A2-D9A1-4301-85D8-64731201F85B}"
+              s:ph="main" />
+            <r
+              uid="{7958B9EA-81A8-4C02-B3F0-19A539F65903}"
+              p:after="r[@uid='{B82E8E2D-CE49-4599-8A4E-FB5FAC8A3576}']"
+              s:ds="{C20E3663-9BAE-4717-90C5-E2AF05EABC1E}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{032A3FAF-788D-4E23-98C3-1AC1452E5332}"
+              p:after="r[@uid='{7958B9EA-81A8-4C02-B3F0-19A539F65903}']"
+              s:ds="{3595EDE7-5972-40DC-9052-241AC04C9F95}"
+              s:id="{D6F7B1A2-D9A1-4301-85D8-64731201F85B}"
+              s:ph="main" />
+            <r
+              uid="{7314F6E6-5E64-4EAB-8E79-446F2F62DC81}"
+              p:after="r[@uid='{032A3FAF-788D-4E23-98C3-1AC1452E5332}']"
+              s:ds="{798D10E1-8640-455A-87FA-05F57B07CC40}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{66302CA9-EF59-4450-A0E0-3F9C68FA2D8E}"
+              p:after="r[@uid='{7314F6E6-5E64-4EAB-8E79-446F2F62DC81}']"
+              s:ds="{2244EDDC-B02A-4D31-AE27-0F1146B46C3B}"
+              s:id="{D6F7B1A2-D9A1-4301-85D8-64731201F85B}"
+              s:ph="main" />
+            <r
+              uid="{667AA4DD-F1BA-4596-8CAD-1428347605D6}"
+              p:after="r[@uid='{66302CA9-EF59-4450-A0E0-3F9C68FA2D8E}']"
+              s:ds="{D9048168-EBB8-42B1-AA9E-F1C9A52B889E}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{51CA8568-3B9B-4E44-A80E-71CF441FEE9B}"
+              p:after="r[@uid='{667AA4DD-F1BA-4596-8CAD-1428347605D6}']"
+              s:ds="{D53A81CF-AC1B-4AA7-B21E-85EA0D5AE77D}"
+              s:id="{D6F7B1A2-D9A1-4301-85D8-64731201F85B}"
+              s:ph="main" />
+            <r
+              uid="{4115CB2B-4FE4-4522-ADA7-E19088ADE0EC}"
+              p:after="r[@uid='{51CA8568-3B9B-4E44-A80E-71CF441FEE9B}']"
+              s:ds="{18A945E3-0C87-4D38-A0B0-84D8076D08D8}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{98CCC0D3-F1FE-4676-BC22-FED440434CFC}"
+              p:after="*[1=2]"
+              s:ds="{B0FFADDF-4735-4DF8-A964-9B0EAA9F0249}"
+              s:id="{339A27F1-D5BB-4D77-8097-C659C900ECE6}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1a57e23f-e82c-4721-8eaa-f1ccc23fcb00"
+      Hint: Author
+      Value: |
+        sitecore\verticakeshwaram
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Rugged and Reliable at 400 Degrees
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>400 degrees withstood in the wellbore</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Rugged and Reliable at 400 Degrees
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190603T141745Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Rugged and Reliable at 400 Degrees
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Rugged and Reliable at 400 Degrees
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\charisgamroth
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{3A98FB5B-55BC-4332-A107-34A543AC1970}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Rugged and Reliable at 400 Degrees
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0e07a20f-87c6-4210-9510-7eef0985a23d"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{9A15C205-A2CF-4B37-B78A-5792277B1A76}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\verticakeshwaram
+    - ID: "bcfd3e35-8ec5-4ba4-b22f-00669ef4d2d5"
+      Hint: Publish Date
+      Value: 20190620Z
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: 400 degrees withstood in the wellbore
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{0BE82A46-D724-482C-8A41-58B4C77C795E}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190620T210540Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{0BE82A46-D724-482C-8A41-58B4C77C795E}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01fd8c23-1b98-4e4b-9f2d-ecf3eb8aad68"
+      Hint: businessUnits
+      Value: "{3B8F9886-CBF9-4610-8636-0D4DB6DFD4BE}"
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{10CEBA25-FC2A-4F84-8760-9B825D4EAF06}"
+              s:ds="{1CF363C5-2509-4E34-A70A-BC85CE54AA72}" />
+            <r
+              uid="{37DC6908-9973-4BF3-AA1F-616581927F03}"
+              s:ds="{E59B73A9-B6EA-4984-B861-D250A08B0332}" />
+            <r
+              uid="{3A4E7139-50CB-4BD5-AB2E-460BC7CE5AAF}">
+              <p:d />
+            </r>
+            <r
+              uid="{89C038C4-DC21-4706-907D-75677F6FAE03}"
+              p:after="r[@uid='{37DC6908-9973-4BF3-AA1F-616581927F03}']"
+              s:ds="{09B0301F-0F79-401E-99E0-7DACF99ECFEC}"
+              s:id="{D6F7B1A2-D9A1-4301-85D8-64731201F85B}"
+              s:ph="main" />
+            <r
+              uid="{29B80482-A671-447F-BB46-8121D422BD81}"
+              s:ds="{215D42FD-13F5-44AC-B9AD-11299972B3C9}" />
+            <r
+              uid="{97344B92-7C95-4AC5-BA52-015B4E4B60A0}">
+              <p:d />
+            </r>
+            <r
+              uid="{7FCE1D2B-E077-4A3D-AF80-996014D9B527}">
+              <p:d />
+            </r>
+            <r
+              uid="{B7906B15-B51F-4DDA-9D56-0D4EDD3DF208}">
+              <p:d />
+            </r>
+            <r
+              uid="{9B9C6914-204E-47B8-ABD6-F2712DC7BB72}">
+              <p:d />
+            </r>
+            <r
+              uid="{B82E8E2D-CE49-4599-8A4E-FB5FAC8A3576}"
+              p:after="r[@uid='{29B80482-A671-447F-BB46-8121D422BD81}']"
+              s:ds="{272699C6-6137-4613-AA3F-F1F67B32344D}"
+              s:id="{D6F7B1A2-D9A1-4301-85D8-64731201F85B}"
+              s:ph="main" />
+            <r
+              uid="{7958B9EA-81A8-4C02-B3F0-19A539F65903}"
+              p:after="r[@uid='{B82E8E2D-CE49-4599-8A4E-FB5FAC8A3576}']"
+              s:ds="{C20E3663-9BAE-4717-90C5-E2AF05EABC1E}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{032A3FAF-788D-4E23-98C3-1AC1452E5332}"
+              p:after="r[@uid='{7958B9EA-81A8-4C02-B3F0-19A539F65903}']"
+              s:ds="{3595EDE7-5972-40DC-9052-241AC04C9F95}"
+              s:id="{D6F7B1A2-D9A1-4301-85D8-64731201F85B}"
+              s:ph="main" />
+            <r
+              uid="{7314F6E6-5E64-4EAB-8E79-446F2F62DC81}"
+              p:after="r[@uid='{032A3FAF-788D-4E23-98C3-1AC1452E5332}']"
+              s:ds="{798D10E1-8640-455A-87FA-05F57B07CC40}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{66302CA9-EF59-4450-A0E0-3F9C68FA2D8E}"
+              p:after="r[@uid='{7314F6E6-5E64-4EAB-8E79-446F2F62DC81}']"
+              s:ds="{2244EDDC-B02A-4D31-AE27-0F1146B46C3B}"
+              s:id="{D6F7B1A2-D9A1-4301-85D8-64731201F85B}"
+              s:ph="main" />
+            <r
+              uid="{667AA4DD-F1BA-4596-8CAD-1428347605D6}"
+              p:after="r[@uid='{66302CA9-EF59-4450-A0E0-3F9C68FA2D8E}']"
+              s:ds="{D9048168-EBB8-42B1-AA9E-F1C9A52B889E}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{51CA8568-3B9B-4E44-A80E-71CF441FEE9B}"
+              p:after="r[@uid='{667AA4DD-F1BA-4596-8CAD-1428347605D6}']"
+              s:ds="{D53A81CF-AC1B-4AA7-B21E-85EA0D5AE77D}"
+              s:id="{D6F7B1A2-D9A1-4301-85D8-64731201F85B}"
+              s:ph="main" />
+            <r
+              uid="{4115CB2B-4FE4-4522-ADA7-E19088ADE0EC}"
+              p:after="r[@uid='{51CA8568-3B9B-4E44-A80E-71CF441FEE9B}']"
+              s:ds="{18A945E3-0C87-4D38-A0B0-84D8076D08D8}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{98CCC0D3-F1FE-4676-BC22-FED440434CFC}"
+              p:after="*[1=2]"
+              s:ds="{B0FFADDF-4735-4DF8-A964-9B0EAA9F0249}"
+              s:id="{339A27F1-D5BB-4D77-8097-C659C900ECE6}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1a57e23f-e82c-4721-8eaa-f1ccc23fcb00"
+      Hint: Author
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Rugged and Reliable at 400 Degrees
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>400&deg; withstood in the wellbore</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Rugged and Reliable at 400 Degrees
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190624T213131Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Rugged and Reliable at 400 Degrees
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Rugged and Reliable at 400 Degrees
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\charisgamroth
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{3A98FB5B-55BC-4332-A107-34A543AC1970}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Rugged and Reliable at 400 Degrees
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3734c8be-17e3-4fcd-b19b-bef4b3928d4a"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{9A15C205-A2CF-4B37-B78A-5792277B1A76}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "bcfd3e35-8ec5-4ba4-b22f-00669ef4d2d5"
+      Hint: Publish Date
+      Value: 20190709Z
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: 400° withstood in the wellbore
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190624T213131Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{0BE82A46-D724-482C-8A41-58B4C77C795E}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190709T161418Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{0BE82A46-D724-482C-8A41-58B4C77C795E}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01fd8c23-1b98-4e4b-9f2d-ecf3eb8aad68"
+      Hint: businessUnits
+      Value: "{3B8F9886-CBF9-4610-8636-0D4DB6DFD4BE}"
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{9B4417AB-C22F-4C76-B2DC-98F2FCA8A71E}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{10CEBA25-FC2A-4F84-8760-9B825D4EAF06}"
+              s:ds="{1CF363C5-2509-4E34-A70A-BC85CE54AA72}" />
+            <r
+              uid="{37DC6908-9973-4BF3-AA1F-616581927F03}"
+              s:ds="{E59B73A9-B6EA-4984-B861-D250A08B0332}" />
+            <r
+              uid="{3A4E7139-50CB-4BD5-AB2E-460BC7CE5AAF}">
+              <p:d />
+            </r>
+            <r
+              uid="{89C038C4-DC21-4706-907D-75677F6FAE03}"
+              p:after="r[@uid='{37DC6908-9973-4BF3-AA1F-616581927F03}']"
+              s:ds="{09B0301F-0F79-401E-99E0-7DACF99ECFEC}"
+              s:id="{D6F7B1A2-D9A1-4301-85D8-64731201F85B}"
+              s:ph="main" />
+            <r
+              uid="{29B80482-A671-447F-BB46-8121D422BD81}"
+              s:ds="{215D42FD-13F5-44AC-B9AD-11299972B3C9}" />
+            <r
+              uid="{97344B92-7C95-4AC5-BA52-015B4E4B60A0}">
+              <p:d />
+            </r>
+            <r
+              uid="{7FCE1D2B-E077-4A3D-AF80-996014D9B527}">
+              <p:d />
+            </r>
+            <r
+              uid="{B7906B15-B51F-4DDA-9D56-0D4EDD3DF208}">
+              <p:d />
+            </r>
+            <r
+              uid="{9B9C6914-204E-47B8-ABD6-F2712DC7BB72}">
+              <p:d />
+            </r>
+            <r
+              uid="{B82E8E2D-CE49-4599-8A4E-FB5FAC8A3576}"
+              p:after="r[@uid='{29B80482-A671-447F-BB46-8121D422BD81}']"
+              s:ds="{272699C6-6137-4613-AA3F-F1F67B32344D}"
+              s:id="{D6F7B1A2-D9A1-4301-85D8-64731201F85B}"
+              s:ph="main" />
+            <r
+              uid="{7958B9EA-81A8-4C02-B3F0-19A539F65903}"
+              p:after="r[@uid='{B82E8E2D-CE49-4599-8A4E-FB5FAC8A3576}']"
+              s:ds="{C20E3663-9BAE-4717-90C5-E2AF05EABC1E}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{032A3FAF-788D-4E23-98C3-1AC1452E5332}"
+              p:after="r[@uid='{7958B9EA-81A8-4C02-B3F0-19A539F65903}']"
+              s:ds="{3595EDE7-5972-40DC-9052-241AC04C9F95}"
+              s:id="{D6F7B1A2-D9A1-4301-85D8-64731201F85B}"
+              s:ph="main" />
+            <r
+              uid="{7314F6E6-5E64-4EAB-8E79-446F2F62DC81}"
+              p:after="r[@uid='{032A3FAF-788D-4E23-98C3-1AC1452E5332}']"
+              s:ds="{798D10E1-8640-455A-87FA-05F57B07CC40}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{66302CA9-EF59-4450-A0E0-3F9C68FA2D8E}"
+              p:after="r[@uid='{7314F6E6-5E64-4EAB-8E79-446F2F62DC81}']"
+              s:ds="{2244EDDC-B02A-4D31-AE27-0F1146B46C3B}"
+              s:id="{D6F7B1A2-D9A1-4301-85D8-64731201F85B}"
+              s:ph="main" />
+            <r
+              uid="{667AA4DD-F1BA-4596-8CAD-1428347605D6}"
+              p:after="r[@uid='{66302CA9-EF59-4450-A0E0-3F9C68FA2D8E}']"
+              s:ds="{D9048168-EBB8-42B1-AA9E-F1C9A52B889E}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{51CA8568-3B9B-4E44-A80E-71CF441FEE9B}"
+              p:after="r[@uid='{667AA4DD-F1BA-4596-8CAD-1428347605D6}']"
+              s:ds="{D53A81CF-AC1B-4AA7-B21E-85EA0D5AE77D}"
+              s:id="{D6F7B1A2-D9A1-4301-85D8-64731201F85B}"
+              s:ph="main" />
+            <r
+              uid="{4115CB2B-4FE4-4522-ADA7-E19088ADE0EC}"
+              p:after="r[@uid='{51CA8568-3B9B-4E44-A80E-71CF441FEE9B}']"
+              s:ds="{18A945E3-0C87-4D38-A0B0-84D8076D08D8}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{98CCC0D3-F1FE-4676-BC22-FED440434CFC}"
+              p:after="*[1=2]"
+              s:ds="{B0FFADDF-4735-4DF8-A964-9B0EAA9F0249}"
+              s:id="{339A27F1-D5BB-4D77-8097-C659C900ECE6}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1a57e23f-e82c-4721-8eaa-f1ccc23fcb00"
+      Hint: Author
+      Value: |
+        sitecore\alex
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Rugged and Reliable at 400 Degrees
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>400&deg; withstood in the wellbore</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Rugged and Reliable at 400 Degrees
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190709T210529Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Rugged and Reliable at 400 Degrees
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Rugged and Reliable at 400 Degrees
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\charisgamroth
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{3A98FB5B-55BC-4332-A107-34A543AC1970}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Rugged and Reliable at 400 Degrees
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3cb609ec-b6f9-4631-a35f-4f45ec3a1c61"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{9A15C205-A2CF-4B37-B78A-5792277B1A76}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\alex
+    - ID: "bcfd3e35-8ec5-4ba4-b22f-00669ef4d2d5"
+      Hint: Publish Date
+      Value: 20211006Z
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: 400° withstood in the wellbore
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190709T210529Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{0BE82A46-D724-482C-8A41-58B4C77C795E}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20211006T120121Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{0BE82A46-D724-482C-8A41-58B4C77C795E}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
