@@ -84,7 +84,7 @@ const Header = ({ fields }: HeaderProps) => {
   const navigationRef = useRef<HTMLDivElement>(null);
   const userRef = useRef<HTMLLIElement>(null);
   const [isSticky, setIsSticky] = useState<boolean>(false);
-  const [isExpanded, setIsExpanded] = useState<boolean>(true);
+  const [isExpanded, setIsExpanded] = useState<boolean>(false);
   const [isUserProfileClick, setIsUserProfileClick] = useState<boolean>(false);
   const [activeNavbarStoryDetail, setActiveNavbarStoryDetail] = useState<featureDetailProps>({});
   const [selectedPrimaryLink, setSelectedPrimaryLink] = useState<boolean | string>(false);
