@@ -1,0 +1,268 @@
+﻿---
+ID: "a45e3756-22b9-416b-9dcf-3cc107a61fc6"
+Parent: "bdb97faf-7f54-4d49-8930-c9f0f8dfb352"
+Template: "d227ab0e-fd44-4ae0-878a-189949913d0b"
+Path: /sitecore/content/nov/nov/Home/Products and Services/Brands/Chemineer/Services and Aftermarket
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+      xmlnxsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{40C0E7ED-9887-49E1-8E89-43D16DD2AD6C}">
+        <r
+          ds=""
+          id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+          par="Add Gradient=1&amp;Text Color=white"
+          ph="/main/hero-slide-{83C96A38-D18A-4E35-9D8D-71F869B259F3}-0"
+          uid="{BA077E75-780B-4654-A220-10E63520C582}" />
+        <r
+          id="{AB213187-9551-4F9B-AE3D-261BB2B2434F}"
+          ph="main"
+          uid="{83C96A38-D18A-4E35-9D8D-71F869B259F3}" />
+        <r
+          ds="{56A85CAB-61E2-4C55-BB81-04E0435F85AB}"
+          id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+          par="Alignment"
+          ph="main"
+          uid="{C4ACEA35-73C2-4347-B325-2FC6FCDAAB8F}" />
+        <r
+          ds="{CBEA25DC-9D6C-47B6-83E0-8D2EEA19BD31}"
+          id="{C9BE8A1C-14D0-4650-BB74-C2797F12C5BA}"
+          par=""
+          ph="main"
+          uid="{E655A92B-3794-4099-AF60-076BAFA33189}" />
+        <r
+          ds="{C7E20AA3-DA8F-4823-BE28-7E1862A8FA86}"
+          id="{7EE99E6C-C671-468E-8381-C6B9BB1E6416}"
+          par=""
+          ph="main"
+          uid="{0D97EC48-A616-4503-81F3-8B0A22142C87}" />
+        <r
+          ds="{4E4E8FD8-F024-49EE-9FF0-F08213631814}"
+          id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+          par="Alignment"
+          ph="main"
+          uid="{1FD9ED8E-765E-4D75-AEB7-9C5643309FB1}" />
+        <r
+          ds="{8FB58413-567B-4014-AB3E-C093CED135C6}"
+          id="{2E6C5F1E-BC4A-4FBE-BC72-FBCB237F8DDC}"
+          par=""
+          ph="main"
+          uid="{C3E128BD-C527-476C-B850-4FF98996AE1F}" />
+        <r
+          ds="{EC932A4E-C6AE-48FB-8982-1C0EFC251DFD}"
+          id="{F6988CA1-8F6A-4235-8851-39729DDF65B4}"
+          par="Alignment=right"
+          ph="main"
+          uid="{9E4C6427-3865-4F4C-AF91-EFDF6A58DA77}" />
+        <r
+          ds="{CD08F6A3-DE9C-4FA1-A7E6-09871033160F}"
+          id="{AE82AE93-5552-4F52-951B-C3A434D646F3}"
+          par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+          ph="main"
+          uid="{ACAD23C8-9219-4D65-B38A-4537A73C4FE0}" />
+        <r
+          ds="{74399EF0-CAEB-41C5-9060-1E52DA1A1EB3}"
+          id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+          par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+          ph="main"
+          uid="{FB4C5C8E-DF5F-4300-950E-536065A8707B}" />
+        <r
+          ds="{9D4F5681-22C2-43FC-9305-46C48523B4DB}"
+          id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+          par=""
+          ph="main"
+          uid="{2849CE03-88F2-4FBC-BAE4-0D1B29D7AEAA}" />
+        <r
+          ds="{1CD7E2C0-EE46-4D9C-BEF6-218E8554BB81}"
+          id="{09A5B06F-A291-4BC8-8851-CC3FBB8D885D}"
+          par=""
+          ph="main"
+          uid="{B5407315-4598-49BA-A716-8895E8E1539E}" />
+        <r
+          ds="{FAA71C2A-4DD1-496D-A4FF-A568E75BD3E2}"
+          id="{846AE873-D5C7-4033-928F-6BD96E963742}"
+          par=""
+          ph="main"
+          uid="{35F5B041-CCEA-40B8-948D-6DE09851A28E}" />
+        <r
+          ds="{619232D8-67F6-49B3-A815-6D80A04C65AC}"
+          id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+          par="Alignment"
+          ph="main"
+          uid="{99B4E79C-EEB8-49BC-8779-24C4AD0CF113}" />
+        <r
+          ds="{25C31959-382A-4FDE-812D-4A767B1FCAB1}"
+          id="{404FE8DE-C601-4E14-8D3D-32F27B41D06D}"
+          par=""
+          ph="main"
+          uid="{CDF8E396-F69A-48ED-A6DB-B665BD98B242}" />
+        <r
+          ds="{D5EC64F5-E90A-44BE-92E3-BFDFE13FE68A}"
+          id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+          par=""
+          ph="main"
+          uid="{3ADDDF2A-6C4B-4473-ACB2-EADC8ABD6475}" />
+        <r
+          ds="{BF5F6030-AB5B-4B33-BE76-CAA8C856E00B}"
+          id="{8811D96E-0023-4E45-BF2A-E9827DB7E4BB}"
+          par=""
+          ph="main"
+          uid="{8036035A-E577-44BC-A961-631ADBC08C0F}" />
+      </d>
+    </r>
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{C9A48E8E-814A-47D3-846A-925A4D58D82C}"
+              p:before="*"
+              s:ds="{56A85CAB-61E2-4C55-BB81-04E0435F85AB}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=left"
+              s:ph="/main/sidebar-content" />
+            <r
+              uid="{C4ACEA35-73C2-4347-B325-2FC6FCDAAB8F}">
+              <p:d />
+            </r>
+            <r
+              uid="{E655A92B-3794-4099-AF60-076BAFA33189}">
+              <p:d />
+            </r>
+            <r
+              uid="{B69BAB85-3140-4A9C-B641-D3CD91F3466C}"
+              p:after="r[@uid='{83C96A38-D18A-4E35-9D8D-71F869B259F3}']"
+              s:ds="{08A5CC5C-5B36-48C7-96E6-0052561683AA}"
+              s:id="{A22722F6-65DF-4574-B659-191957028C9B}"
+              s:ph="main" />
+            <r
+              uid="{B7D0A5CC-A08E-496B-A8DA-A3611E6A119B}"
+              p:after="*[1=2]"
+              s:ds="{3B6C5E27-47E9-441E-9D51-782524829CAF}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{0D97EC48-A616-4503-81F3-8B0A22142C87}">
+              <p:d />
+            </r>
+            <r
+              uid="{1FD9ED8E-765E-4D75-AEB7-9C5643309FB1}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3E128BD-C527-476C-B850-4FF98996AE1F}">
+              <p:d />
+            </r>
+            <r
+              uid="{9E4C6427-3865-4F4C-AF91-EFDF6A58DA77}">
+              <p:d />
+            </r>
+            <r
+              uid="{ACAD23C8-9219-4D65-B38A-4537A73C4FE0}">
+              <p:d />
+            </r>
+            <r
+              uid="{FB4C5C8E-DF5F-4300-950E-536065A8707B}">
+              <p:d />
+            </r>
+            <r
+              uid="{2849CE03-88F2-4FBC-BAE4-0D1B29D7AEAA}">
+              <p:d />
+            </r>
+            <r
+              uid="{B5407315-4598-49BA-A716-8895E8E1539E}">
+              <p:d />
+            </r>
+            <r
+              uid="{35F5B041-CCEA-40B8-948D-6DE09851A28E}">
+              <p:d />
+            </r>
+            <r
+              uid="{99B4E79C-EEB8-49BC-8779-24C4AD0CF113}">
+              <p:d />
+            </r>
+            <r
+              uid="{CDF8E396-F69A-48ED-A6DB-B665BD98B242}">
+              <p:d />
+            </r>
+            <r
+              uid="{3ADDDF2A-6C4B-4473-ACB2-EADC8ABD6475}">
+              <p:d />
+            </r>
+            <r
+              uid="{8036035A-E577-44BC-A961-631ADBC08C0F}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Chemineer Services and Aftermarket
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Chemineer Services and Aftermarket
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210922T201545Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Chemineer Services and Aftermarket
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{40251B7D-FBE3-4A0E-8947-D4B4FE8CD782}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Chemineer Services and Aftermarket
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Chemineer Services and Aftermarket
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8d8972d1-7d04-4bc3-8241-4c1cd79225e2"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{08EEF214-5907-4A5A-A66B-3D6E2FA7D600}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210922T202111Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{08EEF214-5907-4A5A-A66B-3D6E2FA7D600}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />

@@ -8,7 +8,7 @@ SharedFields:
   Hint: __Publishing groups
   Value: |
     {8E080626-DDC3-4EF4-A1D1-F0BE4A200254}
-    {3D54DBE2-8730-407F-9CDC-4B21F535596F}
+    {8E080626-DDC3-4EF4-A1D1-F0BE4A200254}
 - ID: "9135200a-5626-4dd8-ab9d-d665b8c11748"
   Hint: __Never publish
   Value: 
@@ -19,6 +19,113 @@ Languages:
 - Language: "en-US"
   Versions:
   - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{115CFCED-6DE1-4C60-A1AA-AE6FB3225E53}"
+              p:after="r[@uid='{3F94459F-580E-478C-AF58-1F6F8D07C8A9}']"
+              s:ds="{3B07BDF8-0B80-40C3-9B81-8D2E64D6BB79}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{30C7B990-1052-46B1-9367-FFE213AC53E8}"
+              p:after="*[1=2]"
+              s:ds="{1F9946A3-19E7-4080-A8BE-7DA8AE43CF84}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Anson
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>We supply flowline equipment for today&rsquo;s extreme fracturing and well servicing environments.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Anson
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190515T185757Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Anson
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Anson
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Anson
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "edd66be1-19c9-4cc6-bc30-b7a399efd959"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{EA155798-89F9-42A8-A18A-1921664D1E01}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Anson
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: ​We supply flowline equipment for today’s extreme fracturing and well servicing environments.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190515T185757Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{2E407277-4504-4FC3-B8BD-91EC02F358A7}" cropregion="0,160,1920,1262" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190515T190216Z
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: Anson, flowline equipment, well servicing
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{2E407277-4504-4FC3-B8BD-91EC02F358A7}" cropregion="0,172,1920,1252" ratio="1920:1080" width="1920" height="1080" />
+    - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
+      Hint: brand
+      Value: "{AB64EE6B-5B3B-4062-808B-098086C4AF94}"
+  - Version: 2
     Fields:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
@@ -128,7 +235,7 @@ Languages:
     - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
       Hint: brand
       Value: "{AB64EE6B-5B3B-4062-808B-098086C4AF94}"
-  - Version: 2
+  - Version: 3
     Fields:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
@@ -238,7 +345,7 @@ Languages:
     - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
       Hint: brand
       Value: "{AB64EE6B-5B3B-4062-808B-098086C4AF94}"
-  - Version: 3
+  - Version: 4
     Fields:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
@@ -348,7 +455,7 @@ Languages:
     - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
       Hint: brand
       Value: "{AB64EE6B-5B3B-4062-808B-098086C4AF94}"
-  - Version: 4
+  - Version: 5
     Fields:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
@@ -458,7 +565,7 @@ Languages:
     - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
       Hint: brand
       Value: "{AB64EE6B-5B3B-4062-808B-098086C4AF94}"
-  - Version: 5
+  - Version: 6
     Fields:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
@@ -571,7 +678,7 @@ Languages:
     - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
       Hint: brand
       Value: "{AB64EE6B-5B3B-4062-808B-098086C4AF94}"
-  - Version: 6
+  - Version: 7
     Fields:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
@@ -691,7 +798,7 @@ Languages:
     - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
       Hint: brand
       Value: "{AB64EE6B-5B3B-4062-808B-098086C4AF94}"
-  - Version: 7
+  - Version: 8
     Fields:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
@@ -811,7 +918,7 @@ Languages:
     - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
       Hint: brand
       Value: "{AB64EE6B-5B3B-4062-808B-098086C4AF94}"
-  - Version: 8
+  - Version: 9
     Fields:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
@@ -931,7 +1038,7 @@ Languages:
     - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
       Hint: brand
       Value: "{AB64EE6B-5B3B-4062-808B-098086C4AF94}"
-  - Version: 9
+  - Version: 10
     Fields:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
@@ -1020,7 +1127,7 @@ Languages:
       Value: "Brand: Anson"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "0d71a509-fc7f-4a80-a24a-6176a15525a0"
+      Value: "6f572886-fce1-41f6-9dd4-6c3e5ee799f4"
     - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
       Hint: contentTag
       Value: "{EA155798-89F9-42A8-A18A-1921664D1E01}"
@@ -1030,7 +1137,7 @@ Languages:
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\kaileyshelton
+        sitecore\marijanaomorac
     - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
       Hint: Meta Description
       Value: ​We supply flowline equipment for today’s extreme fracturing and well servicing environments.
@@ -1046,129 +1153,7 @@ Languages:
         <image mediaid="{2E407277-4504-4FC3-B8BD-91EC02F358A7}" cropregion="0,160,1920,1262" ratio="514:295" width="514" height="295" />
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20201001T182105Z
-    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
-      Hint: Meta Keywords
-      Value: Anson, flowline equipment, well servicing
-    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
-      Hint: Page Image
-      Value: |
-        <image mediaid="{2E407277-4504-4FC3-B8BD-91EC02F358A7}" cropregion="0,172,1920,1252" ratio="1920:1080" width="1920" height="1080" />
-    - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
-      Hint: brand
-      Value: "{AB64EE6B-5B3B-4062-808B-098086C4AF94}"
-  - Version: 10
-    Fields:
-    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
-      Hint: __Lock
-      Value: <r />
-    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
-      Hint: __Final Renderings
-      Value: |
-        <r xmlns:p="p" xmlns:s="s"
-          p:p="1">
-          <d
-            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
-            <r
-              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
-              <p:d />
-            </r>
-            <r
-              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
-              <p:d />
-            </r>
-            <r
-              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
-              <p:d />
-            </r>
-            <r
-              uid="{115CFCED-6DE1-4C60-A1AA-AE6FB3225E53}"
-              p:after="r[@uid='{3F94459F-580E-478C-AF58-1F6F8D07C8A9}']"
-              s:ds="{3B07BDF8-0B80-40C3-9B81-8D2E64D6BB79}"
-              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
-              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
-              s:ph="main" />
-            <r
-              uid="{30C7B990-1052-46B1-9367-FFE213AC53E8}"
-              p:after="r[@uid='{115CFCED-6DE1-4C60-A1AA-AE6FB3225E53}']"
-              s:ds="{1F9946A3-19E7-4080-A8BE-7DA8AE43CF84}"
-              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
-              s:ph="main" />
-            <r
-              uid="{F83C646C-79DC-4BA1-8064-D2E145AA06C3}"
-              p:after="*[1=2]"
-              s:ds="{6F7AF6BA-E0BF-4116-9788-8D881CA75930}"
-              s:id="{404FE8DE-C601-4E14-8D3D-32F27B41D06D}"
-              s:ph="main" />
-          </d>
-        </r>
-    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
-      Hint: Featured Story Headline
-      Value: Anson
-    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
-      Hint: Subheading
-      Value: "<p>Valves, fittings, and engineered solutions manufacturer for high-pressure fracturing, well service, and drilling applications globally</p>"
-    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
-      Hint: Headline
-      Value: Anson
-    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
-      Hint: __Created
-      Value: 20210315T204303Z
-    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
-      Hint: Mobile Menu Title
-      Value: Anson
-    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
-      Hint: __Workflow state
-      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
-    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
-      Hint: Page Title
-      Value: Anson
-    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
-      Hint: __Owner
-      Value: |
-        sitecore\kaileyshelton
-    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
-      Hint: __Created by
-      Value: |
-        sitecore\kaylakaplan
-    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
-      Hint: businessSegments
-      Value: "{ABA9E56C-0FCE-464D-8E09-DB375CDF20D8}"
-    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
-      Hint: Menu Title
-      Value: Anson
-    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
-      Hint: Search Result Text
-      Value: "Brand: Anson"
-    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
-      Hint: __Revision
-      Value: "22abe810-8c74-4256-935d-6ae03d5a11ce"
-    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
-      Hint: contentTag
-      Value: "{EA155798-89F9-42A8-A18A-1921664D1E01}"
-    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
-      Hint: Featured Story CTA Text
-      Value: Anson
-    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
-      Hint: __Updated by
-      Value: |
-        sitecore\adminrschuhsler
-    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
-      Hint: Meta Description
-      Value: ​We supply flowline equipment for today’s extreme fracturing and well servicing environments.
-    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
-      Hint: __Valid from
-      Value: 20210315T204303Z
-    - ID: "d4431923-68cf-42a0-a27e-db945d791fdb"
-      Hint: Canonical URL
-      Value: "https://www.nov.com/products-and-services/brands/anson"
-    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
-      Hint: Card Image
-      Value: |
-        <image mediaid="{2E407277-4504-4FC3-B8BD-91EC02F358A7}" cropregion="0,160,1920,1262" ratio="514:295" width="514" height="295" />
-    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
-      Hint: __Updated
-      Value: 20210422T010325Z
+      Value: 20210125T173526Z
     - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
       Hint: Meta Keywords
       Value: Anson, flowline equipment, well servicing

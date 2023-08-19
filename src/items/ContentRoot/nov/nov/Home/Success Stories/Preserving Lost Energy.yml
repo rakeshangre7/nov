@@ -1,0 +1,618 @@
+﻿---
+ID: "fba7115f-b794-4cf0-93e7-f9d74ef670dc"
+Parent: "443b027a-c1bf-4252-b423-6ef002958654"
+Template: "34b41a4a-a8b5-432c-8a07-b6ca70ada9da"
+Path: /sitecore/content/nov/nov/Home/Success Stories/Preserving Lost Energy
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "019c3c8b-3d47-4b92-a8e9-838880ddf307"
+      Hint: Open Graph Title
+      Value: Preserving Lost Energy
+    - ID: "01fd8c23-1b98-4e4b-9f2d-ecf3eb8aad68"
+      Hint: businessUnits
+      Value: "{51B1ABBB-48D9-4FB3-94AB-7103479664EF}"
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{6E7EC926-8144-45F3-80E5-9DCA1CAF5BC8}"
+              p:before="*"
+              s:ds="{5FEEAB3C-B89E-4B4A-B28A-0F4FB1F5FE59}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{24997A7B-B980-4126-B4C6-1CA71D022C96}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{E864A437-C9E9-4209-9C17-DEDB9B889F24}"
+              p:after="r[@uid='{6E7EC926-8144-45F3-80E5-9DCA1CAF5BC8}']"
+              s:ds="{29ED8745-A2B9-499F-80FF-5FC2BE0FD850}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{24997A7B-B980-4126-B4C6-1CA71D022C96}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top" />
+            <r
+              uid="{D0F18FAF-6998-40B5-899D-0452C7C66521}"
+              p:after="r[@uid='{E864A437-C9E9-4209-9C17-DEDB9B889F24}']"
+              s:ds="{705EFE26-F353-4DAE-AB06-5926B0368B70}"
+              s:id="{EA2AC21A-A652-4FD4-9F5D-4F9EB4322B26}"
+              s:ph="/main/image-block-main-{24997A7B-B980-4126-B4C6-1CA71D022C96}-0/image-block-splitter-960x1080-left" />
+            <r
+              uid="{421D58EA-90D7-4D6F-8B3A-148B03115759}"
+              p:after="r[@uid='{D0F18FAF-6998-40B5-899D-0452C7C66521}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{24997A7B-B980-4126-B4C6-1CA71D022C96}-0/image-block-splitter-960x1080-right" />
+            <r
+              uid="{AF1E5B24-97DA-469A-9124-1F85AFFFB087}"
+              p:after="r[@uid='{421D58EA-90D7-4D6F-8B3A-148B03115759}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main-{24997A7B-B980-4126-B4C6-1CA71D022C96}-0" />
+            <r
+              uid="{5993EB89-85A8-45E8-AB6F-38E15C8DD0F7}"
+              p:after="r[@uid='{AF1E5B24-97DA-469A-9124-1F85AFFFB087}']"
+              s:ds="{8322E131-3219-4306-A47B-8DAF891057E6}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{E571A1E0-4594-47FB-A929-EF92F16BC06E}-0" />
+            <r
+              uid="{3B53473D-0097-426B-97F9-1236C189261F}"
+              p:after="r[@uid='{5993EB89-85A8-45E8-AB6F-38E15C8DD0F7}']"
+              s:ds="{AB7E16DE-3D89-486C-BA6F-1A695F91512E}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{E571A1E0-4594-47FB-A929-EF92F16BC06E}-0" />
+            <r
+              uid="{9B4417AB-C22F-4C76-B2DC-98F2FCA8A71E}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{10CEBA25-FC2A-4F84-8760-9B825D4EAF06}"
+              s:ds="{F64E07E8-0AB3-4C68-9074-A10D98D912E4}" />
+            <r
+              uid="{37DC6908-9973-4BF3-AA1F-616581927F03}"
+              s:ds="{84149946-1452-4A6C-9782-76D1F048D758}" />
+            <r
+              uid="{3A4E7139-50CB-4BD5-AB2E-460BC7CE5AAF}">
+              <p:d />
+            </r>
+            <r
+              uid="{29B80482-A671-447F-BB46-8121D422BD81}">
+              <p:d />
+            </r>
+            <r
+              uid="{97344B92-7C95-4AC5-BA52-015B4E4B60A0}">
+              <p:d />
+            </r>
+            <r
+              uid="{7FCE1D2B-E077-4A3D-AF80-996014D9B527}">
+              <p:d />
+            </r>
+            <r
+              uid="{B7906B15-B51F-4DDA-9D56-0D4EDD3DF208}">
+              <p:d />
+            </r>
+            <r
+              uid="{E58A0925-43A5-4500-9648-97D52BD14C89}"
+              p:after="r[@uid='{37DC6908-9973-4BF3-AA1F-616581927F03}']"
+              s:ds="{BFD68E59-14EE-4F14-A852-77FA9060FB78}"
+              s:id="{D6F7B1A2-D9A1-4301-85D8-64731201F85B}"
+              s:ph="main" />
+            <r
+              uid="{D2CA0424-F829-4074-98EF-472EF83C6495}"
+              p:after="r[@uid='{E58A0925-43A5-4500-9648-97D52BD14C89}']"
+              s:ds="{F1A90664-4E49-4AB2-9862-BCADD630C10F}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{E571A1E0-4594-47FB-A929-EF92F16BC06E}"
+              p:after="r[@uid='{D2CA0424-F829-4074-98EF-472EF83C6495}']"
+              s:id="{5266AC57-9C33-41AF-B32D-D935FB8DC1F3}"
+              s:ph="main" />
+            <r
+              uid="{24997A7B-B980-4126-B4C6-1CA71D022C96}"
+              p:after="r[@uid='{E571A1E0-4594-47FB-A929-EF92F16BC06E}']"
+              s:id="{6932DD17-1CD9-4D03-93B7-3C0A92EB8229}"
+              s:ph="main" />
+            <r
+              uid="{ECC9E287-2B24-46BF-B85E-42B7C1C041E4}"
+              p:after="*[1=2]"
+              s:ds="{6FF8FD12-24EC-4F17-A7CA-94C613444A81}"
+              s:id="{339A27F1-D5BB-4D77-8097-C659C900ECE6}"
+              s:ph="main" />
+            <r
+              uid="{9B9C6914-204E-47B8-ABD6-F2712DC7BB72}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1a57e23f-e82c-4721-8eaa-f1ccc23fcb00"
+      Hint: Author
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Preserving Lost Energy
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Up to 80% reduced power consumption on a rig in active heave compensation mode</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Preserving Lost Energy
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191029T162513Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Preserving Lost Energy
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Preserving Lost Energy
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{4012DCA7-A892-47A5-9F0E-66EAD695DCA8}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{7BFDF55B-D789-4F80-BAA1-EE7B8380D4C6}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Preserving Lost Energy
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7218f115-9f41-4caf-a861-19ea293623bb"
+    - ID: "9c306482-94bb-47b2-b1ba-62ffc01637e4"
+      Hint: Open Graph Description
+      Value: As a kinetic energy recovery system (KERS), PowerBlade preserves lost energy to reduce fuel costs and emissions while increasing operational safety and reliability.
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{68F83742-71B9-4716-B503-331A758DF65A}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Learn more
+    - ID: "b0d622b7-156a-4f17-9ce4-4dd213df0302"
+      Hint: Date
+      Value: 20191029T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "bcfd3e35-8ec5-4ba4-b22f-00669ef4d2d5"
+      Hint: Publish Date
+      Value: 20200810Z
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: As a kinetic energy recovery system (KERS), PowerBlade preserves lost energy to reduce fuel costs and emissions while increasing operational safety and reliability.
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{4012DCA7-A892-47A5-9F0E-66EAD695DCA8}" cropregion="0,0,1920,1102" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200810T134004Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{4012DCA7-A892-47A5-9F0E-66EAD695DCA8}" cropregion="0,0,1920,1079" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "019c3c8b-3d47-4b92-a8e9-838880ddf307"
+      Hint: Open Graph Title
+      Value: Preserving Lost Energy
+    - ID: "01fd8c23-1b98-4e4b-9f2d-ecf3eb8aad68"
+      Hint: businessUnits
+      Value: "{51B1ABBB-48D9-4FB3-94AB-7103479664EF}"
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{6E7EC926-8144-45F3-80E5-9DCA1CAF5BC8}"
+              p:before="*"
+              s:ds="{5FEEAB3C-B89E-4B4A-B28A-0F4FB1F5FE59}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{24997A7B-B980-4126-B4C6-1CA71D022C96}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{E864A437-C9E9-4209-9C17-DEDB9B889F24}"
+              p:after="r[@uid='{6E7EC926-8144-45F3-80E5-9DCA1CAF5BC8}']"
+              s:ds="{29ED8745-A2B9-499F-80FF-5FC2BE0FD850}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{24997A7B-B980-4126-B4C6-1CA71D022C96}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top" />
+            <r
+              uid="{D0F18FAF-6998-40B5-899D-0452C7C66521}"
+              p:after="r[@uid='{E864A437-C9E9-4209-9C17-DEDB9B889F24}']"
+              s:ds="{705EFE26-F353-4DAE-AB06-5926B0368B70}"
+              s:id="{EA2AC21A-A652-4FD4-9F5D-4F9EB4322B26}"
+              s:ph="/main/image-block-main-{24997A7B-B980-4126-B4C6-1CA71D022C96}-0/image-block-splitter-960x1080-left" />
+            <r
+              uid="{421D58EA-90D7-4D6F-8B3A-148B03115759}"
+              p:after="r[@uid='{D0F18FAF-6998-40B5-899D-0452C7C66521}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{24997A7B-B980-4126-B4C6-1CA71D022C96}-0/image-block-splitter-960x1080-right" />
+            <r
+              uid="{AF1E5B24-97DA-469A-9124-1F85AFFFB087}"
+              p:after="r[@uid='{421D58EA-90D7-4D6F-8B3A-148B03115759}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main-{24997A7B-B980-4126-B4C6-1CA71D022C96}-0" />
+            <r
+              uid="{5993EB89-85A8-45E8-AB6F-38E15C8DD0F7}"
+              p:after="r[@uid='{AF1E5B24-97DA-469A-9124-1F85AFFFB087}']"
+              s:ds="{8322E131-3219-4306-A47B-8DAF891057E6}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{E571A1E0-4594-47FB-A929-EF92F16BC06E}-0" />
+            <r
+              uid="{3B53473D-0097-426B-97F9-1236C189261F}"
+              p:after="r[@uid='{5993EB89-85A8-45E8-AB6F-38E15C8DD0F7}']"
+              s:ds="{AB7E16DE-3D89-486C-BA6F-1A695F91512E}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{E571A1E0-4594-47FB-A929-EF92F16BC06E}-0" />
+            <r
+              uid="{9B4417AB-C22F-4C76-B2DC-98F2FCA8A71E}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{10CEBA25-FC2A-4F84-8760-9B825D4EAF06}"
+              s:ds="{F64E07E8-0AB3-4C68-9074-A10D98D912E4}" />
+            <r
+              uid="{37DC6908-9973-4BF3-AA1F-616581927F03}"
+              s:ds="{84149946-1452-4A6C-9782-76D1F048D758}" />
+            <r
+              uid="{3A4E7139-50CB-4BD5-AB2E-460BC7CE5AAF}">
+              <p:d />
+            </r>
+            <r
+              uid="{29B80482-A671-447F-BB46-8121D422BD81}">
+              <p:d />
+            </r>
+            <r
+              uid="{97344B92-7C95-4AC5-BA52-015B4E4B60A0}">
+              <p:d />
+            </r>
+            <r
+              uid="{7FCE1D2B-E077-4A3D-AF80-996014D9B527}">
+              <p:d />
+            </r>
+            <r
+              uid="{B7906B15-B51F-4DDA-9D56-0D4EDD3DF208}">
+              <p:d />
+            </r>
+            <r
+              uid="{E58A0925-43A5-4500-9648-97D52BD14C89}"
+              p:after="r[@uid='{37DC6908-9973-4BF3-AA1F-616581927F03}']"
+              s:ds="{BFD68E59-14EE-4F14-A852-77FA9060FB78}"
+              s:id="{D6F7B1A2-D9A1-4301-85D8-64731201F85B}"
+              s:ph="main" />
+            <r
+              uid="{D2CA0424-F829-4074-98EF-472EF83C6495}"
+              p:after="r[@uid='{E58A0925-43A5-4500-9648-97D52BD14C89}']"
+              s:ds="{F1A90664-4E49-4AB2-9862-BCADD630C10F}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{E571A1E0-4594-47FB-A929-EF92F16BC06E}"
+              p:after="r[@uid='{D2CA0424-F829-4074-98EF-472EF83C6495}']"
+              s:id="{5266AC57-9C33-41AF-B32D-D935FB8DC1F3}"
+              s:ph="main" />
+            <r
+              uid="{24997A7B-B980-4126-B4C6-1CA71D022C96}"
+              p:after="r[@uid='{E571A1E0-4594-47FB-A929-EF92F16BC06E}']"
+              s:id="{6932DD17-1CD9-4D03-93B7-3C0A92EB8229}"
+              s:ph="main" />
+            <r
+              uid="{ECC9E287-2B24-46BF-B85E-42B7C1C041E4}"
+              p:after="*[1=2]"
+              s:ds="{6FF8FD12-24EC-4F17-A7CA-94C613444A81}"
+              s:id="{339A27F1-D5BB-4D77-8097-C659C900ECE6}"
+              s:ph="main" />
+            <r
+              uid="{9B9C6914-204E-47B8-ABD6-F2712DC7BB72}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1a57e23f-e82c-4721-8eaa-f1ccc23fcb00"
+      Hint: Author
+      Value: |
+        sitecore\kaylakaplan
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Preserving Lost Energy
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Up to 80% reduced power consumption on a rig in active heave compensation mode</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Preserving Lost Energy
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200810T152017Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Preserving Lost Energy
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Preserving Lost Energy
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{4012DCA7-A892-47A5-9F0E-66EAD695DCA8}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jeremygrzywa
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{7BFDF55B-D789-4F80-BAA1-EE7B8380D4C6}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Preserving Lost Energy
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0d485a9c-05f7-4210-87b8-e7cb03faca27"
+    - ID: "9c306482-94bb-47b2-b1ba-62ffc01637e4"
+      Hint: Open Graph Description
+      Value: As a kinetic energy recovery system (KERS), PowerBlade preserves lost energy to reduce fuel costs and emissions while increasing operational safety and reliability.
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{68F83742-71B9-4716-B503-331A758DF65A}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Learn more
+    - ID: "b0d622b7-156a-4f17-9ce4-4dd213df0302"
+      Hint: Date
+      Value: 20191029T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaylakaplan
+    - ID: "bcfd3e35-8ec5-4ba4-b22f-00669ef4d2d5"
+      Hint: Publish Date
+      Value: 20200929Z
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: As a kinetic energy recovery system (KERS), PowerBlade preserves lost energy to reduce fuel costs and emissions while increasing operational safety and reliability.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200810T152017Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{4012DCA7-A892-47A5-9F0E-66EAD695DCA8}" cropregion="0,0,1920,1102" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200929T210525Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{4012DCA7-A892-47A5-9F0E-66EAD695DCA8}" cropregion="0,0,1920,1079" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "019c3c8b-3d47-4b92-a8e9-838880ddf307"
+      Hint: Open Graph Title
+      Value: Preserving Lost Energy
+    - ID: "01fd8c23-1b98-4e4b-9f2d-ecf3eb8aad68"
+      Hint: businessUnits
+      Value: "{51B1ABBB-48D9-4FB3-94AB-7103479664EF}"
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{6E7EC926-8144-45F3-80E5-9DCA1CAF5BC8}"
+              p:before="*"
+              s:ds="{5FEEAB3C-B89E-4B4A-B28A-0F4FB1F5FE59}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{24997A7B-B980-4126-B4C6-1CA71D022C96}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom" />
+            <r
+              uid="{E864A437-C9E9-4209-9C17-DEDB9B889F24}"
+              p:after="r[@uid='{6E7EC926-8144-45F3-80E5-9DCA1CAF5BC8}']"
+              s:ds="{29ED8745-A2B9-499F-80FF-5FC2BE0FD850}"
+              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
+              s:ph="/main/image-block-main-{24997A7B-B980-4126-B4C6-1CA71D022C96}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top" />
+            <r
+              uid="{D0F18FAF-6998-40B5-899D-0452C7C66521}"
+              p:after="r[@uid='{E864A437-C9E9-4209-9C17-DEDB9B889F24}']"
+              s:ds="{705EFE26-F353-4DAE-AB06-5926B0368B70}"
+              s:id="{EA2AC21A-A652-4FD4-9F5D-4F9EB4322B26}"
+              s:ph="/main/image-block-main-{24997A7B-B980-4126-B4C6-1CA71D022C96}-0/image-block-splitter-960x1080-left" />
+            <r
+              uid="{421D58EA-90D7-4D6F-8B3A-148B03115759}"
+              p:after="r[@uid='{D0F18FAF-6998-40B5-899D-0452C7C66521}']"
+              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
+              s:ph="/main/image-block-main-{24997A7B-B980-4126-B4C6-1CA71D022C96}-0/image-block-splitter-960x1080-right" />
+            <r
+              uid="{AF1E5B24-97DA-469A-9124-1F85AFFFB087}"
+              p:after="r[@uid='{421D58EA-90D7-4D6F-8B3A-148B03115759}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main-{24997A7B-B980-4126-B4C6-1CA71D022C96}-0" />
+            <r
+              uid="{5993EB89-85A8-45E8-AB6F-38E15C8DD0F7}"
+              p:after="r[@uid='{AF1E5B24-97DA-469A-9124-1F85AFFFB087}']"
+              s:ds="{8322E131-3219-4306-A47B-8DAF891057E6}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{E571A1E0-4594-47FB-A929-EF92F16BC06E}-0" />
+            <r
+              uid="{3B53473D-0097-426B-97F9-1236C189261F}"
+              p:after="r[@uid='{5993EB89-85A8-45E8-AB6F-38E15C8DD0F7}']"
+              s:ds="{AB7E16DE-3D89-486C-BA6F-1A695F91512E}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{E571A1E0-4594-47FB-A929-EF92F16BC06E}-0" />
+            <r
+              uid="{9B4417AB-C22F-4C76-B2DC-98F2FCA8A71E}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{10CEBA25-FC2A-4F84-8760-9B825D4EAF06}"
+              s:ds="{F64E07E8-0AB3-4C68-9074-A10D98D912E4}" />
+            <r
+              uid="{37DC6908-9973-4BF3-AA1F-616581927F03}"
+              s:ds="{84149946-1452-4A6C-9782-76D1F048D758}" />
+            <r
+              uid="{3A4E7139-50CB-4BD5-AB2E-460BC7CE5AAF}">
+              <p:d />
+            </r>
+            <r
+              uid="{29B80482-A671-447F-BB46-8121D422BD81}">
+              <p:d />
+            </r>
+            <r
+              uid="{97344B92-7C95-4AC5-BA52-015B4E4B60A0}">
+              <p:d />
+            </r>
+            <r
+              uid="{7FCE1D2B-E077-4A3D-AF80-996014D9B527}">
+              <p:d />
+            </r>
+            <r
+              uid="{B7906B15-B51F-4DDA-9D56-0D4EDD3DF208}">
+              <p:d />
+            </r>
+            <r
+              uid="{E58A0925-43A5-4500-9648-97D52BD14C89}"
+              p:after="r[@uid='{37DC6908-9973-4BF3-AA1F-616581927F03}']"
+              s:ds="{BFD68E59-14EE-4F14-A852-77FA9060FB78}"
+              s:id="{D6F7B1A2-D9A1-4301-85D8-64731201F85B}"
+              s:ph="main" />
+            <r
+              uid="{D2CA0424-F829-4074-98EF-472EF83C6495}"
+              p:after="r[@uid='{E58A0925-43A5-4500-9648-97D52BD14C89}']"
+              s:ds="{F1A90664-4E49-4AB2-9862-BCADD630C10F}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{E571A1E0-4594-47FB-A929-EF92F16BC06E}"
+              p:after="r[@uid='{D2CA0424-F829-4074-98EF-472EF83C6495}']"
+              s:id="{5266AC57-9C33-41AF-B32D-D935FB8DC1F3}"
+              s:ph="main" />
+            <r
+              uid="{24997A7B-B980-4126-B4C6-1CA71D022C96}"
+              p:after="r[@uid='{E571A1E0-4594-47FB-A929-EF92F16BC06E}']"
+              s:id="{6932DD17-1CD9-4D03-93B7-3C0A92EB8229}"
+              s:ph="main" />
+            <r
+              uid="{ECC9E287-2B24-46BF-B85E-42B7C1C041E4}"
+              p:after="*[1=2]"
+              s:ds="{6FF8FD12-24EC-4F17-A7CA-94C613444A81}"
+              s:id="{339A27F1-D5BB-4D77-8097-C659C900ECE6}"
+              s:ph="main" />
+            <r
+              uid="{9B9C6914-204E-47B8-ABD6-F2712DC7BB72}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1a57e23f-e82c-4721-8eaa-f1ccc23fcb00"
+      Hint: Author
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Preserving Lost Energy
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Up to 80% reduced power consumption on a rig in active heave compensation mode</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Preserving Lost Energy
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200930T143410Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Preserving Lost Energy
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Preserving Lost Energy
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{4012DCA7-A892-47A5-9F0E-66EAD695DCA8}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{7BFDF55B-D789-4F80-BAA1-EE7B8380D4C6}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Preserving Lost Energy
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2c5dd03e-1721-4a6e-b27c-b45feb94c6ac"
+    - ID: "9c306482-94bb-47b2-b1ba-62ffc01637e4"
+      Hint: Open Graph Description
+      Value: As a kinetic energy recovery system (KERS), PowerBlade preserves lost energy to reduce fuel costs and emissions while increasing operational safety and reliability.
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{9A15C205-A2CF-4B37-B78A-5792277B1A76}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Learn more
+    - ID: "b0d622b7-156a-4f17-9ce4-4dd213df0302"
+      Hint: Date
+      Value: 20191029T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "bcfd3e35-8ec5-4ba4-b22f-00669ef4d2d5"
+      Hint: Publish Date
+      Value: 20230418Z
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: As a kinetic energy recovery system (KERS), PowerBlade preserves lost energy to reduce fuel costs and emissions while increasing operational safety and reliability.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200930T143410Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{4012DCA7-A892-47A5-9F0E-66EAD695DCA8}" cropregion="0,0,1920,1102" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230418T014552Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{4012DCA7-A892-47A5-9F0E-66EAD695DCA8}" cropregion="0,0,1920,1079" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />

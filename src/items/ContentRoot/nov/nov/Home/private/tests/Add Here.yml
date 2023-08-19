@@ -1,0 +1,105 @@
+﻿---
+ID: "aba97193-1740-45fe-9328-02aad80c5062"
+Parent: "ac0e50a4-faa0-4fd1-9a23-1949f4c7607b"
+Template: "d227ab0e-fd44-4ae0-878a-189949913d0b"
+Path: /sitecore/content/nov/nov/Home/private/tests/Add Here
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{C4ACEA35-73C2-4347-B325-2FC6FCDAAB8F}"
+          s:ds="{FCBD1A85-93E7-4EA4-AB0D-B06968D8790D}" />
+        <r
+          uid="{E655A92B-3794-4099-AF60-076BAFA33189}"
+          s:ds="{10693700-A5D1-47B5-AA1C-39524664BDCA}" />
+        <r
+          uid="{0D97EC48-A616-4503-81F3-8B0A22142C87}"
+          s:ds="{E1A78C70-FBC4-4748-BE21-CC9B42BF4BA3}" />
+        <r
+          uid="{1FD9ED8E-765E-4D75-AEB7-9C5643309FB1}"
+          s:ds="{E8D0FAFC-61D5-451E-8D26-53D84386EACE}" />
+        <r
+          uid="{C3E128BD-C527-476C-B850-4FF98996AE1F}"
+          s:ds="{816EF413-616F-4ACA-860B-4365E2F532DB}" />
+        <r
+          uid="{9E4C6427-3865-4F4C-AF91-EFDF6A58DA77}"
+          s:ds="{291DAED5-7DC3-4D9B-AED5-B5F2BFBF3758}" />
+        <r
+          uid="{ACAD23C8-9219-4D65-B38A-4537A73C4FE0}"
+          s:ds="{A6C7ED48-5797-42F9-8CBD-392062CA826C}" />
+        <r
+          uid="{FB4C5C8E-DF5F-4300-950E-536065A8707B}"
+          s:ds="{5D717C18-BE18-45A2-8539-637ADDD57781}" />
+        <r
+          uid="{2849CE03-88F2-4FBC-BAE4-0D1B29D7AEAA}"
+          s:ds="{576E9BBB-669D-4856-BF93-7FD9E623D6EA}" />
+        <r
+          uid="{B5407315-4598-49BA-A716-8895E8E1539E}"
+          s:ds="{6D82803F-24C8-43D5-B45F-094EC60F5EA8}" />
+        <r
+          uid="{35F5B041-CCEA-40B8-948D-6DE09851A28E}"
+          s:ds="{C05357A1-2C0B-4DD6-81C9-82E0FA12A1E7}" />
+        <r
+          uid="{99B4E79C-EEB8-49BC-8779-24C4AD0CF113}"
+          s:ds="{D72C1904-9618-4C7D-B64C-7B4C2074F3C6}" />
+        <r
+          uid="{CDF8E396-F69A-48ED-A6DB-B665BD98B242}"
+          s:ds="{A5A69707-CD36-4002-B272-E1E2E192AE81}" />
+      </d>
+    </r>
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: |
+        <r owner="sitecore\rainerschuhsler" date="20230817T042418Z" />
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Add Here
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Add Here
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211112T173838Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Add Here
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{8B87E652-E3F7-4C54-BDD9-66E1B888FF8B}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Add Here
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Add Here
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d46ef5f9-ce83-4a3f-a732-eb2929263b7a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230817T042418Z

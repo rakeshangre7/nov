@@ -1,0 +1,123 @@
+﻿---
+ID: "328c8b3e-771b-450a-b979-ab2ae61344e7"
+Parent: "f9635888-b5d7-46b4-87d5-8b58709499d3"
+Template: "1bf45569-a9ee-482e-8c1f-6aed83c3c8ab"
+Path: /sitecore/content/nov/nov/Home/Misc/Rainer/T6 Event Details
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+      xmlnxsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{40C0E7ED-9887-49E1-8E89-43D16DD2AD6C}">
+        <r
+          ds="{AEA3EE89-C4D3-4A12-B84A-2B4DEC5F8807}"
+          id="{7B3D036E-FB57-4045-85AD-8AA1A59BF10F}"
+          par="Enable Small Container=1&amp;Right Align"
+          ph="/main/sidebar-content"
+          uid="{469CCB81-765A-4CB6-B37A-E0BF730E129D}" />
+        <r
+          ds="{B4700C91-47FD-4922-9102-D5B2C4A74D5B}"
+          id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+          par="Alignment=left"
+          ph="/main/sidebar-content"
+          uid="{CB22DE8A-6C4B-4D76-B0BE-DE69400010DC}" />
+        <r
+          id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+          ph="/main/hero-slide-{945C1340-ED54-40B6-82B9-E426012500B4}-0"
+          uid="{DF772360-E5C4-4162-B9E4-D8DAAE753245}" />
+        <r
+          id="{AB213187-9551-4F9B-AE3D-261BB2B2434F}"
+          ph="main"
+          uid="{945C1340-ED54-40B6-82B9-E426012500B4}" />
+        <r
+          ds="{E5117321-AA4B-499F-9DAA-30CED6138760}"
+          id="{A22722F6-65DF-4574-B659-191957028C9B}"
+          par=""
+          ph="main"
+          uid="{74835636-1DDD-4077-88DA-BF43D0CB2E10}" />
+        <r
+          ds="{152D3D0E-499A-43A7-81AA-D6750E2EC342}"
+          id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+          par="Alignment"
+          ph="main"
+          uid="{D9DC2E91-2941-4E2F-BCD7-3809E1023600}" />
+        <r
+          ds="{3BBDF692-77AD-4519-8539-2B7A8CB3807B}"
+          id="{7EE99E6C-C671-468E-8381-C6B9BB1E6416}"
+          par=""
+          ph="main"
+          uid="{444FE44D-0C8F-4961-9B98-410B9AB911A8}" />
+        <r
+          ds="{1784075B-C0E1-408E-B1F7-C27D21BB8ABD}"
+          id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+          par=""
+          ph="main"
+          uid="{82CC48F6-44A9-4DC7-9B50-55B2B32A157A}" />
+        <r
+          ds="{D5EC64F5-E90A-44BE-92E3-BFDFE13FE68A}"
+          id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+          par=""
+          ph="main"
+          uid="{F5F400D4-CBC8-4F73-84FF-06BB3FC65DAC}" />
+        <r
+          ds="{BF5F6030-AB5B-4B33-BE76-CAA8C856E00B}"
+          id="{8811D96E-0023-4E45-BF2A-E9827DB7E4BB}"
+          par=""
+          ph="main"
+          uid="{9597CA8B-63B5-4B93-AF7D-1E0C2CACEF9C}" />
+      </d>
+    </r>
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: |
+        <r owner="sitecore\arshmomin" date="20210119T154340Z" />
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: T6 Event Details
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: T6 Event Details
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210119T154339Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: T6 Event Details
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{8B87E652-E3F7-4C54-BDD9-66E1B888FF8B}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: T6 Event Details
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\arshmomin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\arshmomin
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: T6 Event Details
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d2ca2db0-06f2-4c24-82f7-508925db72de"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\arshmomin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210119T154340Z

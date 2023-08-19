@@ -13,10 +13,6 @@ SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 0
-- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
-  Hint: __Thumbnail
-  Value: |
-    <image mediaid="{1AB2798C-E16E-4B00-9158-1C993328DAB4}" />
 Languages:
 - Language: "en-US"
   Versions:
@@ -174,7 +170,7 @@ Languages:
       Value: |
         sitecore\kaileyshelton
     - ID: "bf69c7e1-1928-47e6-b2d7-fa0b551766f5"
-      Hint: Soundcloud Embed Code
+      Hint: soundcloudEmbedCode
       Value: |
         <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/644783601&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
     - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
@@ -351,7 +347,7 @@ Languages:
       Value: |
         sitecore\kaileyshelton
     - ID: "bf69c7e1-1928-47e6-b2d7-fa0b551766f5"
-      Hint: Soundcloud Embed Code
+      Hint: soundcloudEmbedCode
       Value: |
         <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/644783601&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
     - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
@@ -531,7 +527,7 @@ Languages:
       Value: |
         sitecore\kaileyshelton
     - ID: "bf69c7e1-1928-47e6-b2d7-fa0b551766f5"
-      Hint: Soundcloud Embed Code
+      Hint: soundcloudEmbedCode
       Value: |
         <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/644783601&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
     - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
@@ -717,7 +713,7 @@ Languages:
       Value: |
         sitecore\kaileyshelton
     - ID: "bf69c7e1-1928-47e6-b2d7-fa0b551766f5"
-      Hint: Soundcloud Embed Code
+      Hint: soundcloudEmbedCode
       Value: |
         <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/644783601&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
     - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
@@ -909,7 +905,7 @@ Languages:
       Value: |
         sitecore\kaileyshelton
     - ID: "bf69c7e1-1928-47e6-b2d7-fa0b551766f5"
-      Hint: Soundcloud Embed Code
+      Hint: soundcloudEmbedCode
       Value: |
         <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/644783601&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
     - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
@@ -1104,7 +1100,7 @@ Languages:
       Hint: Publish Date
       Value: 20190705T182100Z
     - ID: "bf69c7e1-1928-47e6-b2d7-fa0b551766f5"
-      Hint: Soundcloud Embed Code
+      Hint: soundcloudEmbedCode
       Value: |
         <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/644783601&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
     - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
@@ -1299,7 +1295,7 @@ Languages:
       Hint: Publish Date
       Value: 20190705T182100Z
     - ID: "bf69c7e1-1928-47e6-b2d7-fa0b551766f5"
-      Hint: Soundcloud Embed Code
+      Hint: soundcloudEmbedCode
       Value: |
         <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/644783601&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
     - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
@@ -1494,7 +1490,7 @@ Languages:
       Hint: Publish Date
       Value: 20190705T182100Z
     - ID: "bf69c7e1-1928-47e6-b2d7-fa0b551766f5"
-      Hint: Soundcloud Embed Code
+      Hint: soundcloudEmbedCode
       Value: |
         <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/644783601&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
     - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
@@ -1674,7 +1670,7 @@ Languages:
       Value: Nils van Nood
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "f0508224-06a0-40db-b3bd-0eaff7744efa"
+      Value: "db0b877f-b603-451b-99f7-7c23c64dc51a"
     - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
       Hint: contentTag
       Value: "{BA3828AF-5EF2-4318-B72A-AF9B21812EB6}"
@@ -1684,12 +1680,12 @@ Languages:
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\varalakshmi.md@horizontal.com
+        sitecore\rainerschuhsler
     - ID: "bcfd3e35-8ec5-4ba4-b22f-00669ef4d2d5"
       Hint: Publish Date
       Value: 20190705T182100Z
     - ID: "bf69c7e1-1928-47e6-b2d7-fa0b551766f5"
-      Hint: Soundcloud Embed Code
+      Hint: soundcloudEmbedCode
       Value: |
         <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/644783601&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
     - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
@@ -1704,7 +1700,7 @@ Languages:
         <image mediaid="{7CCC6540-1349-47F0-A491-4DC8B504A5FB}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230725T094459Z
+      Value: 20190905T191023Z
     - ID: "e002c6d8-8864-4c8d-bf1d-dacfd00fd8c2"
       Hint: Episode Title
       Value: "Catching Wind: An Introduction to GustoMSC – Part 1"

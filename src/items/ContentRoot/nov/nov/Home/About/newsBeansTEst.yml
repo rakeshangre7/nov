@@ -1,0 +1,109 @@
+﻿---
+ID: "a61e9c3f-86f4-40c5-af3b-279056bf4f7c"
+Parent: "784dd9e8-c40d-47f4-accf-893251b02eb3"
+Template: "93e4c55d-9fa4-4945-a03a-1565852b0a90"
+Path: /sitecore/content/nov/nov/Home/About/newsBeansTEst
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{40C0E7ED-9887-49E1-8E89-43D16DD2AD6C}">
+        <r
+          id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+          ph="/main/hero-slide-{901672BD-109F-4BA8-9932-A6A9CA1537C0}-0"
+          uid="{9B4417AB-C22F-4C76-B2DC-98F2FCA8A71E}" />
+        <r
+          id="{AB213187-9551-4F9B-AE3D-261BB2B2434F}"
+          ph="main"
+          uid="{901672BD-109F-4BA8-9932-A6A9CA1537C0}" />
+        <r
+          ds="{279050D0-122D-4E35-9030-D5D746254137}"
+          id="{2002D52F-38B0-48F3-8256-F67F34126723}"
+          par=""
+          ph="main"
+          uid="{10CEBA25-FC2A-4F84-8760-9B825D4EAF06}" />
+        <r
+          ds="{813A0765-1E1A-4F43-ACD6-47750659C6B4}"
+          id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+          par=""
+          ph="main"
+          uid="{37DC6908-9973-4BF3-AA1F-616581927F03}" />
+        <r
+          ds="{735BC300-6B63-4707-8142-538159D12874}"
+          id="{F6988CA1-8F6A-4235-8851-39729DDF65B4}"
+          par="Alignment=right"
+          ph="main"
+          uid="{3A4E7139-50CB-4BD5-AB2E-460BC7CE5AAF}" />
+        <r
+          ds="{9B5A785E-A819-491F-8AAF-26C964BABE2B}"
+          id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+          par=""
+          ph="main"
+          uid="{29B80482-A671-447F-BB46-8121D422BD81}" />
+        <r
+          ds="{2933639E-F9F8-421D-A0AB-D1636F23D4BE}"
+          id="{2E6C5F1E-BC4A-4FBE-BC72-FBCB237F8DDC}"
+          par=""
+          ph="main"
+          uid="{97344B92-7C95-4AC5-BA52-015B4E4B60A0}" />
+        <r
+          ds="{16B0420F-FB12-407C-B382-A7C7AD3FFA12}"
+          id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+          par=""
+          ph="main"
+          uid="{7FCE1D2B-E077-4A3D-AF80-996014D9B527}" />
+        <r
+          ds="{2A1FC770-E916-4D55-BF3E-52681F7C8F1D}"
+          id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+          par=""
+          ph="main"
+          uid="{B7906B15-B51F-4DDA-9D56-0D4EDD3DF208}" />
+        <r
+          ds="{74BD3333-C5B8-4120-B765-AF8A3AFEC4BC}"
+          id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+          par=""
+          ph="main"
+          uid="{9B9C6914-204E-47B8-ABD6-F2712DC7BB72}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "019c3c8b-3d47-4b92-a8e9-838880ddf307"
+      Hint: Open Graph Title
+      Value: newsBeansTEst
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210118T184745Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{8B87E652-E3F7-4C54-BDD9-66E1B888FF8B}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: newsBeansTEst
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joshuashearer
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joshuashearer
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7ee3a1d8-17af-4034-8954-9b4ac0c22246"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\joshuashearer
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210118T184745Z

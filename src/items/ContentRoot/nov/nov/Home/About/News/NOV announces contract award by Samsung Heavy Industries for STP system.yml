@@ -10,10 +10,6 @@ SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 100
-- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
-  Hint: __Thumbnail
-  Value: |
-    <image mediaid="{0B69B974-7C3B-4E73-9CB1-9CCC6FB7E555}" />
 Languages:
 - Language: "en-US"
   Versions:
@@ -1070,6 +1066,10 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
+              uid="{9B4417AB-C22F-4C76-B2DC-98F2FCA8A71E}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
               uid="{901672BD-109F-4BA8-9932-A6A9CA1537C0}"
               s:ds=""
               s:par="Enable Autoplay=true&amp;Add Gradient=1&amp;Text Color=white&amp;Wait Time=5000" />
@@ -1154,7 +1154,7 @@ Languages:
       Value: NOV announces contract award by Samsung Heavy Industries for STP system
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "704460db-faae-43c7-87e7-481130e4f2c2"
+      Value: "fa1c7ae6-5fc3-41f7-ad00-9583942dd4e4"
     - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
       Hint: contentTag
       Value: "{294053F5-3F2B-4F01-A805-2E3CC257571E}"
@@ -1164,7 +1164,7 @@ Languages:
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\varalakshmi.md@horizontal.com
+        sitecore\rainerschuhsler
     - ID: "bcfd3e35-8ec5-4ba4-b22f-00669ef4d2d5"
       Hint: Publish Date
       Value: 20190703T203900Z
@@ -1180,7 +1180,7 @@ Languages:
         <image mediaid="{6ED4816A-432D-4FA2-BF54-9FEC41142574}" cropregion="0,88,1920,1190" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230725T094330Z
+      Value: 20200930T151322Z
     - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
       Hint: Page Image
       Value: |
