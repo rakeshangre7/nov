@@ -1098,6 +1098,10 @@ Languages:
               s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
               s:ph="/main/video-player-slider-{CB7D6F38-1094-4E12-8FD2-941F154D0378}-0" />
             <r
+              uid="{82C814F0-E3F8-47FE-A4C3-6765E3B4DF94}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
               uid="{3709ECF8-31A3-4630-B462-DC1F06EEF338}"
               s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}"
               s:par="Enable Autoplay=true&amp;Add Gradient&amp;Text Color=white&amp;Wait Time=5000" />
@@ -1170,7 +1174,7 @@ Languages:
       Value: Rig Technologies
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "dd6f0a74-ae26-49d3-8ea0-fa85f57f2822"
+      Value: "2d51374f-f5e2-433a-a6ba-db8bf32b25ee"
     - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
       Hint: contentTag
       Value: "{4BB3B086-733D-44D8-BDBE-47FE1A1D250F}"
@@ -1180,7 +1184,7 @@ Languages:
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\adminrschuhsler
+        sitecore\rainerschuhsler
     - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
       Hint: Meta Description
       Value: The most advanced rigs and equipment in the world, performing better than anything else, with no surprises
@@ -1193,7 +1197,7 @@ Languages:
         <image ratio="514:295" height="295" mediaid="{7650BE1B-E3FA-4FDA-8297-D50308A23E64}" cropregion="18,0,1901,1080" width="514" />
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20210422T010611Z
+      Value: 20190716T211622Z
     - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
       Hint: Page Image
       Value: |

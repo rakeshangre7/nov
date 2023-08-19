@@ -10,10 +10,6 @@ SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 100
-- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
-  Hint: __Thumbnail
-  Value: |
-    <image mediaid="{A1D1ADB7-84DB-4570-8A6F-E66BCFFD3A7C}" />
 Languages:
 - Language: "en-US"
   Versions:
@@ -29,6 +25,10 @@ Languages:
           p:p="1">
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{9B4417AB-C22F-4C76-B2DC-98F2FCA8A71E}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
             <r
               uid="{10CEBA25-FC2A-4F84-8760-9B825D4EAF06}"
               s:ds="{F59C9270-0CF2-4BC1-B93C-5E83D248F159}" />
@@ -101,7 +101,7 @@ Languages:
       Value: NOV announces Q3 earnings results
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "d10b3ee0-f66c-4fed-9202-686b3a8f60bb"
+      Value: "3e356cb7-c725-48ae-9948-3dd8bc8b7b87"
     - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
       Hint: contentTag
       Value: "{294053F5-3F2B-4F01-A805-2E3CC257571E}"
@@ -111,7 +111,7 @@ Languages:
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\varalakshmi.md@horizontal.com
+        sitecore\rainerschuhsler
     - ID: "bcfd3e35-8ec5-4ba4-b22f-00669ef4d2d5"
       Hint: Publish Date
       Value: 20191029T183500Z
@@ -124,7 +124,7 @@ Languages:
         <image mediaid="{258F3295-DFC5-4159-909A-DE99A3BB16C0}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230725T094337Z
+      Value: 20200930T151317Z
     - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
       Hint: Page Image
       Value: |

@@ -1,0 +1,119 @@
+﻿---
+ID: "0057bf47-cd70-49f8-9b37-2c902fd53098"
+Parent: "f9635888-b5d7-46b4-87d5-8b58709499d3"
+Template: "d845df6c-dbff-4280-acdd-cc97d29844a8"
+Path: /sitecore/content/nov/nov/Home/Misc/Rainer/T7 Employee Story
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+      xmlnxsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{40C0E7ED-9887-49E1-8E89-43D16DD2AD6C}">
+        <r
+          ds=""
+          id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+          par=""
+          ph="/main/hero-slide-{4BB25428-E6C6-4301-AAFF-F88D64F59B05}-0"
+          uid="{1D9F7519-1A07-4B02-9D49-1D933DACE3F8}" />
+        <r
+          id="{AB213187-9551-4F9B-AE3D-261BB2B2434F}"
+          ph="main"
+          uid="{4BB25428-E6C6-4301-AAFF-F88D64F59B05}" />
+        <r
+          ds="{04142320-0D72-4908-8AEE-E3797BE76675}"
+          id="{7B3D036E-FB57-4045-85AD-8AA1A59BF10F}"
+          par="Enable Small Container&amp;Right Align=1"
+          ph="main"
+          uid="{21C7C9D9-C4AD-4A1E-8F55-B927F1A450B6}" />
+        <r
+          ds="{3F504C2A-7C06-4E8B-8DE5-5192A1DA53F8}"
+          id="{2002D52F-38B0-48F3-8256-F67F34126723}"
+          par=""
+          ph="main"
+          uid="{EB0C67D7-CBAE-4EE7-B412-9964BD8F0F4C}" />
+        <r
+          ds="{AA155F3F-3C8C-44C4-BEEA-C8DC84DF6F87}"
+          id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+          par=""
+          ph="main"
+          uid="{53ACC004-BCE1-4C03-82DD-4BADD9637005}" />
+        <r
+          ds="{0B47AA74-76ED-43B3-99E7-EE77A365EBCF}"
+          id="{D6F7B1A2-D9A1-4301-85D8-64731201F85B}"
+          par=""
+          ph="main"
+          uid="{FF24F78C-1E13-4C62-8615-08CCB61E123D}" />
+        <r
+          ds="{8C9DEF45-F54F-42D3-94C1-421EA08498F7}"
+          id="{2E6C5F1E-BC4A-4FBE-BC72-FBCB237F8DDC}"
+          par=""
+          ph="main"
+          uid="{CBB1341C-3A61-4C5F-9880-5079456425CC}" />
+        <r
+          ds="{1C34AABE-F612-4DC7-8A80-9BEB03B0B488}"
+          id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+          par=""
+          ph="main"
+          uid="{60D19D74-4E08-4244-A106-160C07761BB9}" />
+        <r
+          ds="{5FA5D7C6-A901-4760-8C16-A9EB5AF9AF15}"
+          id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+          par=""
+          ph="main"
+          uid="{3205AF76-5295-41B7-AEE1-050025A6783B}" />
+      </d>
+    </r>
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: |
+        <r owner="sitecore\arshmomin" date="20210119T154349Z" />
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: T7 Employee Story
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: T7 Employee Story
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210119T154349Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: T7 Employee Story
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{8B87E652-E3F7-4C54-BDD9-66E1B888FF8B}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: T7 Employee Story
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\arshmomin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\arshmomin
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: T7 Employee Story
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d4492ab5-31ed-4a75-8c27-f2bc7218d127"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\arshmomin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210119T154349Z

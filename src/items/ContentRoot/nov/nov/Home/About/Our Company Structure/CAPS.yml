@@ -7,10 +7,6 @@ SharedFields:
 - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
   Hint: __Workflow
   Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
-- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
-  Hint: __Thumbnail
-  Value: |
-    <image mediaid="{F49972B9-F1D7-443C-B206-DE6AF4DB5280}" />
 Languages:
 - Language: "en-US"
   Versions:
@@ -1087,63 +1083,12 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
-              uid="{BC337417-19A8-4E4D-8C31-E8C142DFE8DD}"
-              p:before="*"
-              s:ds="{F3DD5634-3E3B-4828-A3EF-5317CD30F95C}"
-              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
-              s:ph="/main/hero-slide-{D6B5AB67-DFA6-42FA-9D09-73F9B9035DB7}-0" />
+              uid="{82C814F0-E3F8-47FE-A4C3-6765E3B4DF94}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
             <r
-              uid="{5CBB1A68-9C3E-44C1-867D-448FDAFA0299}"
-              p:after="r[@uid='{BC337417-19A8-4E4D-8C31-E8C142DFE8DD}']"
-              s:ds="{16C2893D-0B14-40AC-B9FB-24969B9D6342}"
-              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
-              s:ph="/main/hero-slide-{D6B5AB67-DFA6-42FA-9D09-73F9B9035DB7}-0" />
-            <r
-              uid="{1537673F-767B-4FB1-AD00-1F44AF6B9A2F}"
-              p:after="r[@uid='{5CBB1A68-9C3E-44C1-867D-448FDAFA0299}']"
-              s:ds="{924922E8-D0F2-427F-9B14-B208CF88595B}"
-              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
-              s:ph="/main/hero-slide-{D6B5AB67-DFA6-42FA-9D09-73F9B9035DB7}-0" />
-            <r
-              uid="{4A4B4DE8-B489-4B51-8CEF-2DB892A351A3}"
-              p:after="r[@uid='{1537673F-767B-4FB1-AD00-1F44AF6B9A2F}']"
-              s:ds="{B1CE1251-D9DF-46BE-856E-5DDCA5D5B3B7}"
-              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
-              s:ph="/main/hero-slide-{D6B5AB67-DFA6-42FA-9D09-73F9B9035DB7}-0" />
-            <r
-              uid="{3EB64CBE-2276-492E-B466-5E717E6826B5}"
-              p:after="r[@uid='{4A4B4DE8-B489-4B51-8CEF-2DB892A351A3}']"
-              s:ds="{BE5D3907-5F6B-425C-A3FB-130C9E83ACF7}"
-              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
-              s:ph="/main/hero-slide-{D6B5AB67-DFA6-42FA-9D09-73F9B9035DB7}-0" />
-            <r
-              uid="{8760844D-5AA6-4539-9DF7-5570DA6F8A42}"
-              p:after="r[@uid='{3EB64CBE-2276-492E-B466-5E717E6826B5}']"
-              s:ds="{0CBA5D59-77D0-4796-921B-F704CE95CD39}"
-              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
-              s:ph="/main/hero-slide-{D6B5AB67-DFA6-42FA-9D09-73F9B9035DB7}-0" />
-            <r
-              uid="{8B147D9E-FA1F-4043-9873-F7712189440E}"
-              p:after="r[@uid='{8760844D-5AA6-4539-9DF7-5570DA6F8A42}']"
-              s:ds="{34681404-366C-40B7-B960-CFE74D7ACC12}"
-              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
-              s:ph="/main/hero-slide-{D6B5AB67-DFA6-42FA-9D09-73F9B9035DB7}-0" />
-            <r
-              uid="{15EA1D21-2603-4FF4-B5A7-F835109D31B5}"
-              p:after="r[@uid='{8B147D9E-FA1F-4043-9873-F7712189440E}']"
-              s:ds="{F73AAB8E-C273-4A67-9BA1-6DC680D92E3B}"
-              s:id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
-              s:ph="/main/hero-slide-{D6B5AB67-DFA6-42FA-9D09-73F9B9035DB7}-0" />
-            <r
-              uid="{D6B5AB67-DFA6-42FA-9D09-73F9B9035DB7}"
-              p:after="r[@uid='{15EA1D21-2603-4FF4-B5A7-F835109D31B5}']"
-              s:ds="{C8A09972-90A9-4ABC-ABB2-FF421D9E91AD}"
-              s:id="{AB213187-9551-4F9B-AE3D-261BB2B2434F}"
-              s:ph="main" />
-            <r
-              uid="{3709ECF8-31A3-4630-B462-DC1F06EEF338}">
-              <p:d />
-            </r>
+              uid="{3709ECF8-31A3-4630-B462-DC1F06EEF338}"
+              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}" />
             <r
               uid="{28B4ABC6-0A05-401D-8D9F-70992A0772FB}">
               <p:d />
@@ -1158,7 +1103,7 @@ Languages:
             </r>
             <r
               uid="{F81FABFC-F140-4F90-8743-DED26863EE9D}"
-              p:after="r[@uid='{82C814F0-E3F8-47FE-A4C3-6765E3B4DF94}']"
+              p:after="r[@uid='{3709ECF8-31A3-4630-B462-DC1F06EEF338}']"
               s:ds="{D77A10C3-C88D-4AD7-94B8-B547583A0854}"
               s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
               s:ph="main" />
@@ -1170,16 +1115,9 @@ Languages:
               s:ph="main" />
             <r
               uid="{94377EF4-6468-4DBB-A43A-FB2D7BBFD020}"
-              p:after="r[@uid='{54450FB6-C0FA-4880-BA46-D99E2C439E62}']"
+              p:after="*[1=2]"
               s:ds="{CA48A092-BE82-4024-B57A-DADE5D628658}"
               s:id="{7EE99E6C-C671-468E-8381-C6B9BB1E6416}"
-              s:ph="main" />
-            <r
-              uid="{2B067BA4-D5FB-4650-9D79-C58342893442}"
-              p:after="*[1=2]"
-              s:ds="{E40DA2C4-8641-479C-A8E1-3E97331CF1D8}"
-              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
-              s:par="Use Button for Link"
               s:ph="main" />
             <r
               uid="{606DBDA0-AAFF-447A-B2F8-5433CB8107B8}">
@@ -1208,7 +1146,7 @@ Languages:
       Value: Completion & Production Solutions
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
       Hint: __Workflow state
-      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+      Value: "{8B87E652-E3F7-4C54-BDD9-66E1B888FF8B}"
     - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
       Hint: Page Title
       Value: Completion & Production Solutions
@@ -1228,7 +1166,7 @@ Languages:
       Value: Completion & Production Solutions
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "8e5119e8-1093-4135-a388-966054edf837"
+      Value: "93b26457-2b7c-48b8-944e-39e030edae04"
     - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
       Hint: contentTag
       Value: "{4BB3B086-733D-44D8-BDBE-47FE1A1D250F}"
@@ -1238,7 +1176,7 @@ Languages:
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\varalakshmi.md@horizontal.com
+        sitecore\kaileyshelton
     - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
       Hint: Meta Description
       Value: The products and technologies you need to optimize the completion process and production phase of your well’s life cycle.
@@ -1254,7 +1192,7 @@ Languages:
         <image mediaid="{F598B18D-58D4-473C-8A6D-FC37FBCDDBA2}" cropregion="0,160,1920,1262" ratio="514:295" width="514" height="295" />
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230725T094548Z
+      Value: 20190628T153543Z
     - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
       Hint: Page Image
       Value: |

@@ -7,10 +7,6 @@ SharedFields:
 - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
   Hint: __Workflow
   Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
-- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
-  Hint: __Thumbnail
-  Value: |
-    <image mediaid="{F0EE3802-A9D3-47AD-A3DC-4CC602ABDEDC}" />
 Languages:
 - Language: "en-US"
   Versions:
@@ -410,6 +406,10 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
               uid="{37A7ADD6-9046-4B18-B22A-BE9133614F3D}"
               s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}" />
             <r
@@ -473,7 +473,7 @@ Languages:
       Value: Well Control
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "fb335825-7603-4b39-b36f-0f149f613974"
+      Value: "9fb38fbb-5194-4dfb-9be2-88d65363cebd"
     - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
       Hint: contentTag
       Value: "{894AD693-62BC-4D0F-8E34-42401EBEF1F3}"
@@ -483,7 +483,7 @@ Languages:
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\varalakshmi.md@horizontal.com
+        sitecore\heatherbaxter
     - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
       Hint: Meta Description
       Value: Well control incidents, like blowouts, are one of the industry’s most significant safety concerns. We have the equipment you need to ensure proper well control in even the most challenging situations.
@@ -496,7 +496,7 @@ Languages:
         <image mediaid="{9CB7E60D-27EF-4EFF-9D76-E57F79439018}" cropregion="0,160,1920,1262" ratio="514:295" width="514" height="295" />
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230725T095037Z
+      Value: 20190926T213926Z
     - ID: "da134e40-cb02-4645-9846-115fb9a5aeca"
       Hint: capability
       Value: "{4667ED20-A9E8-453B-B745-AE82E46BDC36}"

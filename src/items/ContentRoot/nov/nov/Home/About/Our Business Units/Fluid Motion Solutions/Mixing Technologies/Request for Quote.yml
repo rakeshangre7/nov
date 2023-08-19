@@ -10,49 +10,111 @@ SharedFields:
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
-    <r xmlns:p="p" xmlns:s="s"
-      p:p="1">
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+      xmlnxsd="http://www.w3.org/2001/XMLSchema">
       <d
-        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{40C0E7ED-9887-49E1-8E89-43D16DD2AD6C}">
         <r
-          uid="{C4ACEA35-73C2-4347-B325-2FC6FCDAAB8F}"
-          s:ds="{EDC9A04C-F69F-43A0-BAE5-C9A7D89DA8CA}" />
+          ds=""
+          id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+          par="Add Gradient=1&amp;Text Color=white"
+          ph="/main/hero-slide-{83C96A38-D18A-4E35-9D8D-71F869B259F3}-0"
+          uid="{BA077E75-780B-4654-A220-10E63520C582}" />
         <r
-          uid="{E655A92B-3794-4099-AF60-076BAFA33189}"
-          s:ds="{A5855039-7B08-4FBF-BB29-3458B2320254}" />
+          id="{AB213187-9551-4F9B-AE3D-261BB2B2434F}"
+          ph="main"
+          uid="{83C96A38-D18A-4E35-9D8D-71F869B259F3}" />
         <r
-          uid="{0D97EC48-A616-4503-81F3-8B0A22142C87}"
-          s:ds="{EADBBA8A-D2EE-4B6B-AF36-FEF303AE8DB3}" />
+          ds="{EDC9A04C-F69F-43A0-BAE5-C9A7D89DA8CA}"
+          id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+          par="Alignment"
+          ph="main"
+          uid="{C4ACEA35-73C2-4347-B325-2FC6FCDAAB8F}" />
         <r
-          uid="{1FD9ED8E-765E-4D75-AEB7-9C5643309FB1}"
-          s:ds="{56C67D21-CE8B-4AB9-B032-76068B0DF24B}" />
+          ds="{A5855039-7B08-4FBF-BB29-3458B2320254}"
+          id="{C9BE8A1C-14D0-4650-BB74-C2797F12C5BA}"
+          par=""
+          ph="main"
+          uid="{E655A92B-3794-4099-AF60-076BAFA33189}" />
         <r
-          uid="{C3E128BD-C527-476C-B850-4FF98996AE1F}"
-          s:ds="{F831A661-C7C8-4B4F-95AC-AD0F461B8506}" />
+          ds="{EADBBA8A-D2EE-4B6B-AF36-FEF303AE8DB3}"
+          id="{7EE99E6C-C671-468E-8381-C6B9BB1E6416}"
+          par=""
+          ph="main"
+          uid="{0D97EC48-A616-4503-81F3-8B0A22142C87}" />
         <r
-          uid="{9E4C6427-3865-4F4C-AF91-EFDF6A58DA77}"
-          s:ds="{84E02B2C-1508-4B9D-A16A-4FA4EBCB512F}" />
+          ds="{56C67D21-CE8B-4AB9-B032-76068B0DF24B}"
+          id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+          par="Alignment"
+          ph="main"
+          uid="{1FD9ED8E-765E-4D75-AEB7-9C5643309FB1}" />
         <r
-          uid="{ACAD23C8-9219-4D65-B38A-4537A73C4FE0}"
-          s:ds="{00A30C81-B4A6-4C1F-A3FC-7AE267492773}" />
+          ds="{F831A661-C7C8-4B4F-95AC-AD0F461B8506}"
+          id="{2E6C5F1E-BC4A-4FBE-BC72-FBCB237F8DDC}"
+          par=""
+          ph="main"
+          uid="{C3E128BD-C527-476C-B850-4FF98996AE1F}" />
         <r
-          uid="{FB4C5C8E-DF5F-4300-950E-536065A8707B}"
-          s:ds="{8FA1D643-084A-48FC-BC85-2A11820F8AB4}" />
+          ds="{84E02B2C-1508-4B9D-A16A-4FA4EBCB512F}"
+          id="{F6988CA1-8F6A-4235-8851-39729DDF65B4}"
+          par="Alignment=right"
+          ph="main"
+          uid="{9E4C6427-3865-4F4C-AF91-EFDF6A58DA77}" />
         <r
-          uid="{2849CE03-88F2-4FBC-BAE4-0D1B29D7AEAA}"
-          s:ds="{6D3517D9-77EE-424C-AA2C-B4F153E94A7B}" />
+          ds="{00A30C81-B4A6-4C1F-A3FC-7AE267492773}"
+          id="{AE82AE93-5552-4F52-951B-C3A434D646F3}"
+          par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+          ph="main"
+          uid="{ACAD23C8-9219-4D65-B38A-4537A73C4FE0}" />
         <r
-          uid="{B5407315-4598-49BA-A716-8895E8E1539E}"
-          s:ds="{9F8DE624-8D3C-4D45-8EC4-DFAB9B5F1714}" />
+          ds="{8FA1D643-084A-48FC-BC85-2A11820F8AB4}"
+          id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+          par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+          ph="main"
+          uid="{FB4C5C8E-DF5F-4300-950E-536065A8707B}" />
         <r
-          uid="{35F5B041-CCEA-40B8-948D-6DE09851A28E}"
-          s:ds="{DD7D15AC-F9D0-42B2-B614-ECEBA8642939}" />
+          ds="{6D3517D9-77EE-424C-AA2C-B4F153E94A7B}"
+          id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+          par=""
+          ph="main"
+          uid="{2849CE03-88F2-4FBC-BAE4-0D1B29D7AEAA}" />
         <r
-          uid="{99B4E79C-EEB8-49BC-8779-24C4AD0CF113}"
-          s:ds="{4155E4DA-2AA9-4A9F-91A3-18356BC00D98}" />
+          ds="{9F8DE624-8D3C-4D45-8EC4-DFAB9B5F1714}"
+          id="{09A5B06F-A291-4BC8-8851-CC3FBB8D885D}"
+          par=""
+          ph="main"
+          uid="{B5407315-4598-49BA-A716-8895E8E1539E}" />
         <r
-          uid="{CDF8E396-F69A-48ED-A6DB-B665BD98B242}"
-          s:ds="{536B08FC-2338-4772-82FE-499A97C6C0C5}" />
+          ds="{DD7D15AC-F9D0-42B2-B614-ECEBA8642939}"
+          id="{846AE873-D5C7-4033-928F-6BD96E963742}"
+          par=""
+          ph="main"
+          uid="{35F5B041-CCEA-40B8-948D-6DE09851A28E}" />
+        <r
+          ds="{4155E4DA-2AA9-4A9F-91A3-18356BC00D98}"
+          id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+          par="Alignment"
+          ph="main"
+          uid="{99B4E79C-EEB8-49BC-8779-24C4AD0CF113}" />
+        <r
+          ds="{536B08FC-2338-4772-82FE-499A97C6C0C5}"
+          id="{404FE8DE-C601-4E14-8D3D-32F27B41D06D}"
+          par=""
+          ph="main"
+          uid="{CDF8E396-F69A-48ED-A6DB-B665BD98B242}" />
+        <r
+          ds="{D5EC64F5-E90A-44BE-92E3-BFDFE13FE68A}"
+          id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+          par=""
+          ph="main"
+          uid="{3ADDDF2A-6C4B-4473-ACB2-EADC8ABD6475}" />
+        <r
+          ds="{BF5F6030-AB5B-4B33-BE76-CAA8C856E00B}"
+          id="{8811D96E-0023-4E45-BF2A-E9827DB7E4BB}"
+          par=""
+          ph="main"
+          uid="{8036035A-E577-44BC-A961-631ADBC08C0F}" />
       </d>
     </r>
 Languages:
@@ -63,9 +125,6 @@ Languages:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
       Value: <r />
-    - ID: "01fd8c23-1b98-4e4b-9f2d-ecf3eb8aad68"
-      Hint: businessUnits
-      Value: "{424899CB-AF39-4DD1-9B7A-A18B0152D8EC}"
     - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
       Hint: __Final Renderings
       Value: |
@@ -78,6 +137,9 @@ Languages:
               <p:d />
             </r>
             <r
+              uid="{3ADDDF2A-6C4B-4473-ACB2-EADC8ABD6475}"
+              p:after="*[1=2]" />
+            <r
               uid="{E655A92B-3794-4099-AF60-076BAFA33189}">
               <p:d />
             </r>
@@ -85,25 +147,6 @@ Languages:
               uid="{0D97EC48-A616-4503-81F3-8B0A22142C87}">
               <p:d />
             </r>
-            <r
-              uid="{67DC2A58-8707-4A4E-8AFC-BDBD48EC216E}"
-              p:after="r[@uid='{83C96A38-D18A-4E35-9D8D-71F869B259F3}']"
-              s:ds="{9D0E964C-C3C6-4699-B393-FEA50517E132}"
-              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
-              s:par="Alignment=center"
-              s:ph="main" />
-            <r
-              uid="{F30E4FE0-2892-432C-9308-64919CE8F84B}"
-              p:after="r[@uid='{67DC2A58-8707-4A4E-8AFC-BDBD48EC216E}']"
-              s:ds="{AB6C523C-A9C2-4A0C-8DE3-80F9E9F39D9A}"
-              s:id="{703C4FCC-55FD-48C3-8F29-1B196484B61C}"
-              s:ph="main" />
-            <r
-              uid="{9525AE85-907B-4798-BB15-06C90D695426}"
-              p:after="r[@uid='{F30E4FE0-2892-432C-9308-64919CE8F84B}']"
-              s:ds="{BA39FF6F-6456-405C-B175-8E854D5C9BC4}"
-              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
-              s:ph="main" />
             <r
               uid="{1FD9ED8E-765E-4D75-AEB7-9C5643309FB1}">
               <p:d />
@@ -167,7 +210,7 @@ Languages:
       Value: Request for Quote
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
       Hint: __Workflow state
-      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+      Value: "{40251B7D-FBE3-4A0E-8947-D4B4FE8CD782}"
     - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
       Hint: Page Title
       Value: Chemineer Request for Quote
@@ -179,15 +222,12 @@ Languages:
       Hint: __Created by
       Value: |
         sitecore\rainerschuhsler
-    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
-      Hint: businessSegments
-      Value: "{ABA9E56C-0FCE-464D-8E09-DB375CDF20D8}"
     - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
       Hint: Menu Title
       Value: Request for Quote
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "e7f284c5-cca8-421b-a7d1-057ad4d8535c"
+      Value: "0bef6be5-2593-42a4-a03d-69e55f1807c3"
     - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
       Hint: contentTag
       Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
@@ -195,174 +235,6 @@ Languages:
       Hint: __Updated by
       Value: |
         sitecore\rainerschuhsler
-    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
-      Hint: Meta Description
-      Value: If you would like to submit a request for a quote online, please complete the form and a representative will be in touch with you.
-    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
-      Hint: Card Image
-      Value: |
-        <image mediaid="{75BC538C-70D9-45B7-8BB1-DA22DB3E8E0E}" cropregion="0,87,1920,1191" ratio="514:295" width="514" height="295" />
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20211118T180600Z
-    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
-      Hint: Page Image
-      Value: |
-        <image mediaid="{75BC538C-70D9-45B7-8BB1-DA22DB3E8E0E}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" />
-  - Version: 2
-    Fields:
-    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
-      Hint: __Lock
-      Value: <r />
-    - ID: "01fd8c23-1b98-4e4b-9f2d-ecf3eb8aad68"
-      Hint: businessUnits
-      Value: "{424899CB-AF39-4DD1-9B7A-A18B0152D8EC}"
-    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
-      Hint: __Final Renderings
-      Value: |
-        <r xmlns:p="p" xmlns:s="s"
-          p:p="1">
-          <d
-            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
-            <r
-              uid="{C4ACEA35-73C2-4347-B325-2FC6FCDAAB8F}">
-              <p:d />
-            </r>
-            <r
-              uid="{E655A92B-3794-4099-AF60-076BAFA33189}">
-              <p:d />
-            </r>
-            <r
-              uid="{0D97EC48-A616-4503-81F3-8B0A22142C87}">
-              <p:d />
-            </r>
-            <r
-              uid="{67DC2A58-8707-4A4E-8AFC-BDBD48EC216E}"
-              p:after="r[@uid='{83C96A38-D18A-4E35-9D8D-71F869B259F3}']"
-              s:ds="{9D0E964C-C3C6-4699-B393-FEA50517E132}"
-              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
-              s:par="Alignment=center"
-              s:ph="main" />
-            <r
-              uid="{F30E4FE0-2892-432C-9308-64919CE8F84B}"
-              p:after="r[@uid='{67DC2A58-8707-4A4E-8AFC-BDBD48EC216E}']"
-              s:ds="{AB6C523C-A9C2-4A0C-8DE3-80F9E9F39D9A}"
-              s:id="{703C4FCC-55FD-48C3-8F29-1B196484B61C}"
-              s:ph="main" />
-            <r
-              uid="{9525AE85-907B-4798-BB15-06C90D695426}"
-              p:after="r[@uid='{F30E4FE0-2892-432C-9308-64919CE8F84B}']"
-              s:ds="{BA39FF6F-6456-405C-B175-8E854D5C9BC4}"
-              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
-              s:ph="main" />
-            <r
-              uid="{1FD9ED8E-765E-4D75-AEB7-9C5643309FB1}">
-              <p:d />
-            </r>
-            <r
-              uid="{C3E128BD-C527-476C-B850-4FF98996AE1F}">
-              <p:d />
-            </r>
-            <r
-              uid="{9E4C6427-3865-4F4C-AF91-EFDF6A58DA77}">
-              <p:d />
-            </r>
-            <r
-              uid="{ACAD23C8-9219-4D65-B38A-4537A73C4FE0}">
-              <p:d />
-            </r>
-            <r
-              uid="{FB4C5C8E-DF5F-4300-950E-536065A8707B}">
-              <p:d />
-            </r>
-            <r
-              uid="{2849CE03-88F2-4FBC-BAE4-0D1B29D7AEAA}">
-              <p:d />
-            </r>
-            <r
-              uid="{B5407315-4598-49BA-A716-8895E8E1539E}">
-              <p:d />
-            </r>
-            <r
-              uid="{35F5B041-CCEA-40B8-948D-6DE09851A28E}">
-              <p:d />
-            </r>
-            <r
-              uid="{99B4E79C-EEB8-49BC-8779-24C4AD0CF113}">
-              <p:d />
-            </r>
-            <r
-              uid="{CDF8E396-F69A-48ED-A6DB-B665BD98B242}">
-              <p:d />
-            </r>
-            <r
-              uid="{3ADDDF2A-6C4B-4473-ACB2-EADC8ABD6475}"
-              s:ds="{D716B1A8-F2FB-49CA-B9DB-CAAC03B6B0CB}" />
-            <r
-              uid="{8036035A-E577-44BC-A961-631ADBC08C0F}">
-              <p:d />
-            </r>
-          </d>
-        </r>
-    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
-      Hint: Featured Story Headline
-      Value: Request for Quote
-    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
-      Hint: Subheading
-      Value: <p>If you would like to submit a request for a quote online, please complete the form and a representative will be in touch with you.</p>
-    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
-      Hint: Headline
-      Value: "Request for Quote - Mixing Technologies"
-    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
-      Hint: __Created
-      Value: 20220113T183452Z
-    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
-      Hint: Mobile Menu Title
-      Value: Request for Quote
-    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
-      Hint: __Workflow state
-      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
-    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
-      Hint: Page Title
-      Value: "Request for Quote - Mixing Technologies"
-    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
-      Hint: __Owner
-      Value: |
-        sitecore\rainerschuhsler
-    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
-      Hint: __Created by
-      Value: |
-        sitecore\lissettegomezandrews
-    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
-      Hint: businessSegments
-      Value: "{ABA9E56C-0FCE-464D-8E09-DB375CDF20D8}"
-    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
-      Hint: Menu Title
-      Value: Request for Quote
-    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
-      Hint: __Revision
-      Value: "de6a6d79-8028-4d07-80e9-2bd76028a188"
-    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
-      Hint: contentTag
-      Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
-    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
-      Hint: __Updated by
-      Value: |
-        sitecore\rainerschuhsler
-    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
-      Hint: Meta Description
-      Value: If you would like to submit a request for a quote online, please complete the form and a representative will be in touch with you.
-    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
-      Hint: __Valid from
-      Value: 20220113T183452Z
-    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
-      Hint: Card Image
-      Value: |
-        <image mediaid="{75BC538C-70D9-45B7-8BB1-DA22DB3E8E0E}" cropregion="0,87,1920,1191" ratio="514:295" width="514" height="295" />
-    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
-      Hint: __Updated
-      Value: 20220318T142346Z
-    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
-      Hint: Page Image
-      Value: |
-        <image mediaid="{75BC538C-70D9-45B7-8BB1-DA22DB3E8E0E}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" />
+      Value: 20211018T173955Z

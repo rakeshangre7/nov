@@ -4,9 +4,6 @@ Parent: "74eafb5e-8412-4733-a701-8e9c998f307c"
 Template: "dbc23d7d-62bd-46a5-b584-58b43c5dfaad"
 Path: /sitecore/content/nov/nov/Home/About/Sustainability/Corporate Governance
 SharedFields:
-- ID: "9135200a-5626-4dd8-ab9d-d665b8c11748"
-  Hint: __Never publish
-  Value: 1
 - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
   Hint: __Workflow
   Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
@@ -55,7 +52,7 @@ Languages:
       Value: Governance
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "37f6664d-ae0b-4585-be6a-365838bf4ca1"
+      Value: "5d629b72-943d-4884-916f-f806f21c5989"
     - ID: "8e5f2089-9c97-40f6-863a-9a9ce9fac0dc"
       Hint: redirectPageName
       Value: ESG | Governance
@@ -69,14 +66,14 @@ Languages:
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\adminrschuhsler
+        sitecore\rainerschuhsler
     - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
       Hint: Card Image
       Value: |
         <image mediaid="{0AFD09B4-43C7-4703-B7E8-AE3D148A5234}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230517T164219Z
+      Value: 20201118T153134Z
     - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
       Hint: Page Image
       Value: |

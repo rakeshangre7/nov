@@ -57,6 +57,110 @@ Languages:
       Value: AmClyde
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
+      Value: 20190315T185146Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: AmClyde
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: AmClyde
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\charisgamroth
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\verticgappau
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: AmClyde
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5ef111a7-a90d-417d-a8f9-6815abe6f2e1"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{EA155798-89F9-42A8-A18A-1921664D1E01}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: AmClyde
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "AmClyde is the leading supplier of heavy-lift cranes, mooring systems, pipelay systems, deck machinery, and specialty equipment, including pipe and cable lay equipment."
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190315T185146Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{1784A411-E7DB-488E-8B26-14B0151594AE}" cropregion="0,173,1920,1275" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190329T194551Z
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: AmClyde
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{1784A411-E7DB-488E-8B26-14B0151594AE}" cropregion="0,192,1920,1275" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+    - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
+      Hint: brand
+      Value: "{B43A5540-AD8A-43CC-A0FD-42AABD63CC86}"
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{3F94459F-580E-478C-AF58-1F6F8D07C8A9}"
+              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}" />
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{69DCDBF9-C109-4CF5-855C-6C5CD7151A5A}"
+              p:after="*[1=2]"
+              s:ds="{DA942367-5D55-41CF-88BB-AC51E9D677E0}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: AmClyde
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: "<p>AmClyde is the leading supplier of heavy-lift cranes, mooring systems, pipelay systems, deck machinery, and specialty equipment, including pipe and cable lay equipment.</p>"
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: AmClyde
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
       Value: 20190329T214204Z
     - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
       Hint: Mobile Menu Title
@@ -114,7 +218,7 @@ Languages:
     - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
       Hint: brand
       Value: "{B43A5540-AD8A-43CC-A0FD-42AABD63CC86}"
-  - Version: 2
+  - Version: 3
     Fields:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
@@ -218,7 +322,7 @@ Languages:
     - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
       Hint: brand
       Value: "{B43A5540-AD8A-43CC-A0FD-42AABD63CC86}"
-  - Version: 3
+  - Version: 4
     Fields:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
@@ -326,7 +430,7 @@ Languages:
     - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
       Hint: brand
       Value: "{B43A5540-AD8A-43CC-A0FD-42AABD63CC86}"
-  - Version: 4
+  - Version: 5
     Fields:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
@@ -437,7 +541,7 @@ Languages:
     - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
       Hint: brand
       Value: "{B43A5540-AD8A-43CC-A0FD-42AABD63CC86}"
-  - Version: 5
+  - Version: 6
     Fields:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
@@ -554,7 +658,7 @@ Languages:
     - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
       Hint: brand
       Value: "{B43A5540-AD8A-43CC-A0FD-42AABD63CC86}"
-  - Version: 6
+  - Version: 7
     Fields:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
@@ -671,7 +775,7 @@ Languages:
     - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
       Hint: brand
       Value: "{B43A5540-AD8A-43CC-A0FD-42AABD63CC86}"
-  - Version: 7
+  - Version: 8
     Fields:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
@@ -788,7 +892,7 @@ Languages:
     - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
       Hint: brand
       Value: "{B43A5540-AD8A-43CC-A0FD-42AABD63CC86}"
-  - Version: 8
+  - Version: 9
     Fields:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
@@ -905,7 +1009,7 @@ Languages:
     - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
       Hint: brand
       Value: "{B43A5540-AD8A-43CC-A0FD-42AABD63CC86}"
-  - Version: 9
+  - Version: 10
     Fields:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
@@ -1012,119 +1116,6 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20190626T150954Z
-    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
-      Hint: Meta Keywords
-      Value: "AmClyde, heavy-lift cranes, heavy lift cranes, mooring systems, cable lay systems, pipelay systems, cablelay systems, pipe lay systems, cablelay, pipe lay, cable lay, pipelay"
-    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
-      Hint: Page Image
-      Value: |
-        <image mediaid="{4D1C04A9-39C4-44D7-B012-8F684A4F1B5D}" cropregion="0,161,1920,1244" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
-    - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
-      Hint: brand
-      Value: "{B43A5540-AD8A-43CC-A0FD-42AABD63CC86}"
-  - Version: 10
-    Fields:
-    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
-      Hint: __Lock
-      Value: <r />
-    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
-      Hint: __Final Renderings
-      Value: |
-        <r xmlns:p="p" xmlns:s="s"
-          p:p="1">
-          <d
-            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
-            <r
-              uid="{3F94459F-580E-478C-AF58-1F6F8D07C8A9}"
-              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}" />
-            <r
-              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
-              <p:d />
-            </r>
-            <r
-              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
-              <p:d />
-            </r>
-            <r
-              uid="{69DCDBF9-C109-4CF5-855C-6C5CD7151A5A}"
-              p:after="r[@uid='{3F94459F-580E-478C-AF58-1F6F8D07C8A9}']"
-              s:ds="{DA942367-5D55-41CF-88BB-AC51E9D677E0}"
-              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
-              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
-              s:ph="main" />
-            <r
-              uid="{76BB6500-42B2-4631-BB98-F941FE14F211}"
-              p:after="*[1=2]"
-              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
-              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
-              s:ph="main" />
-            <r
-              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
-              <p:d />
-            </r>
-          </d>
-        </r>
-    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
-      Hint: Featured Story Headline
-      Value: AmClyde
-    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
-      Hint: Subheading
-      Value: "<p>AmClyde is the leading supplier of heavy-lift cranes, mooring systems, pipelay systems, deck machinery, and specialty equipment, including pipe and cable lay equipment.</p>"
-    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
-      Hint: Headline
-      Value: AmClyde
-    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
-      Hint: __Created
-      Value: 20210111T200244Z
-    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
-      Hint: Mobile Menu Title
-      Value: AmClyde
-    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
-      Hint: __Workflow state
-      Value: "{8B87E652-E3F7-4C54-BDD9-66E1B888FF8B}"
-    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
-      Hint: Page Title
-      Value: AmClyde
-    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
-      Hint: __Owner
-      Value: |
-        sitecore\charisgamroth
-    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
-      Hint: __Created by
-      Value: |
-        sitecore\seanlimited
-    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
-      Hint: Menu Title
-      Value: AmClyde
-    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
-      Hint: Search Result Text
-      Value: "Brand: AmClyde"
-    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
-      Hint: __Revision
-      Value: "af37faba-449f-406b-9748-de6e73177592"
-    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
-      Hint: contentTag
-      Value: "{EA155798-89F9-42A8-A18A-1921664D1E01}"
-    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
-      Hint: Featured Story CTA Text
-      Value: AmClyde
-    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
-      Hint: __Updated by
-      Value: |
-        sitecore\adminrschuhsler
-    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
-      Hint: Meta Description
-      Value: "AmClyde is the leading supplier of heavy-lift cranes, mooring systems, pipelay systems, deck machinery, and specialty equipment, including pipe and cable lay equipment."
-    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
-      Hint: __Valid from
-      Value: 20210111T200244Z
-    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
-      Hint: Card Image
-      Value: |
-        <image mediaid="{4D1C04A9-39C4-44D7-B012-8F684A4F1B5D}" cropregion="0,146,1920,1248" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
-    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
-      Hint: __Updated
-      Value: 20210422T010346Z
     - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
       Hint: Meta Keywords
       Value: "AmClyde, heavy-lift cranes, heavy lift cranes, mooring systems, cable lay systems, pipelay systems, cablelay systems, pipe lay systems, cablelay, pipe lay, cable lay, pipelay"

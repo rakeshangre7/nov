@@ -1,0 +1,92 @@
+﻿---
+ID: "0c26f9a1-37fe-4a8d-be91-f8fdd65f84e6"
+Parent: "f9635888-b5d7-46b4-87d5-8b58709499d3"
+Template: "767fef1e-1eb7-417d-93c6-ca72cac21a26"
+Path: /sitecore/content/nov/nov/Home/Misc/Rainer/T14 Brand Page
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{40C0E7ED-9887-49E1-8E89-43D16DD2AD6C}">
+        <r
+          id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+          ph="/main/hero-slide-{3F94459F-580E-478C-AF58-1F6F8D07C8A9}-0"
+          uid="{1C56C344-4578-4758-B430-8A58A494C4CE}" />
+        <r
+          id="{AB213187-9551-4F9B-AE3D-261BB2B2434F}"
+          ph="main"
+          uid="{3F94459F-580E-478C-AF58-1F6F8D07C8A9}" />
+        <r
+          ds="{146A72C0-14EA-439C-A106-AE8F705C39A8}"
+          id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+          par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+          ph="main"
+          uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}" />
+        <r
+          ds="{CF481FDC-5F92-4E60-BE89-76C471E7185F}"
+          id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+          par=""
+          ph="main"
+          uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}" />
+        <r
+          ds="{0A89E158-87C0-4084-89FE-611895B96A55}"
+          id="{404FE8DE-C601-4E14-8D3D-32F27B41D06D}"
+          par=""
+          ph="main"
+          uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}" />
+      </d>
+    </r>
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: |
+        <r owner="sitecore\arshmomin" date="20210119T154450Z" />
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: T14 Brand Page
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: T14 Brand Page
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210119T154449Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: T14 Brand Page
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{8B87E652-E3F7-4C54-BDD9-66E1B888FF8B}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: T14 Brand Page
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\arshmomin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\arshmomin
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: T14 Brand Page
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c592b5d7-c715-4ad2-9ee0-b406641e9d99"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\arshmomin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210119T154450Z
