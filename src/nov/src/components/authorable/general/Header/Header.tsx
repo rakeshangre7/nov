@@ -158,11 +158,16 @@ const Header = ({ fields }: HeaderProps) => {
   }: renderLinkProps) => {
     return (
       <div
-        className={clsx('relative', {
-          'mt-[41px]': isPrimary && !selectedSecondaryLink && !selectedPrimaryLink,
+        className={clsx(' ', {
+          '!mt-[28px]': isPrimary && !selectedSecondaryLink && !selectedPrimaryLink,
+          'mt-[4px]':
+            (isPrimary || show) &&
+            isExpanded &&
+            !(isPrimary && (selectedPrimaryLink || selectedSecondaryLink)) &&
+            !(isSecondary && selectedSecondaryLink),
         })}
       >
-        <a
+        {/* <a
           onClick={() => {
             if (isSecondary) {
               setSelectedPrimaryLink(false);
@@ -179,7 +184,7 @@ const Header = ({ fields }: HeaderProps) => {
               })}
             ></Icon>
           )}
-        </a>
+        </a> */}
         {navList?.map((navbar: subPagesProps, index: number) => {
           return (
             <>
@@ -198,6 +203,8 @@ const Header = ({ fields }: HeaderProps) => {
                         isExpanded &&
                         !(isPrimary && (selectedPrimaryLink || selectedSecondaryLink)) &&
                         !(isSecondary && selectedSecondaryLink),
+                      hidden:
+                        isPrimary && selectedPrimaryLink && selectedPrimaryLink !== navbar.itemId,
                     }
                   )}
                   style={{ transitionDelay: `${100 * (index / 2)}ms` }}
@@ -239,7 +246,7 @@ const Header = ({ fields }: HeaderProps) => {
                 navbar.subPages?.length > 0 &&
                 !navbar.hideSubNavigation && (
                   <div
-                    className={clsx('navigationTransitionInitialMobile', {
+                    className={clsx('navigationTransitionInitialMobile bg-red', {
                       navigationTransitionFinalMobile: selectedPrimaryLink === navbar.itemId,
                     })}
                   >
@@ -321,31 +328,9 @@ const Header = ({ fields }: HeaderProps) => {
     );
   };
 
-  const renderLinks = ({
-    isPrimary,
-    isSecondary,
-    isTertiary,
-    navList,
-    isMobile,
-    show,
-  }: renderLinkProps) => {
+  const renderLinks = ({ isPrimary, isSecondary, isTertiary, navList, show }: renderLinkProps) => {
     return (
       <div className="relative l:h-full">
-        <a
-          onClick={() => {
-            if (isSecondary) {
-              setSelectedPrimaryLink(false);
-            } else if (isTertiary) {
-              setSelectedSecondaryLink(false);
-            }
-          }}
-        >
-          <Icon
-            className={clsx('icon-arrow-left text-black visible l:hidden mt-[16px] text-base', {
-              'invisible l:hidden': !selectedPrimaryLink,
-            })}
-          ></Icon>
-        </a>
         {navList?.map((navbar: subPagesProps, index: number) => {
           return (
             <>
@@ -396,12 +381,11 @@ const Header = ({ fields }: HeaderProps) => {
                     })}
                 />
               )}
-              {!isMobile &&
-                isPrimary &&
+              {isPrimary &&
                 navbar?.subPages &&
                 navbar.subPages?.length > 0 &&
                 !navbar.hideSubNavigation && (
-                  <div className="absolute top-0 left-[100%] h-[700px]  w-[220px] items-start pr-0 xl:w-[300px] mt-[-14px] pl-[1px] ">
+                  <div className="absolute top-0 left-[100%] h-[700px]  w-[220px] items-start pr-0 xl:w-[300px] pl-[1px] ">
                     {renderLinks({
                       isSecondary: true,
                       navList: navbar.subPages,
@@ -409,12 +393,11 @@ const Header = ({ fields }: HeaderProps) => {
                     })}
                   </div>
                 )}
-              {!isMobile &&
-                isSecondary &&
+              {isSecondary &&
                 !navbar.hideSubNavigation &&
                 navbar?.subPages &&
                 navbar.subPages?.length > 0 && (
-                  <div className="absolute top-0 left-[100%] h-full w-[220px] items-start pr-0 xl:w-[300px] mt-[-14px] pl-[1px] ">
+                  <div className="absolute top-0 left-[100%] h-full w-[220px] items-start pr-0 xl:w-[300px] pl-[1px] ">
                     {renderLinks({
                       isTertiary: true,
                       navList: navbar.subPages,
@@ -432,13 +415,13 @@ const Header = ({ fields }: HeaderProps) => {
     return (
       <div
         className={clsx(
-          'w-full -z-50 transition-all duration-200 bg-white opacity-0 scroll-auto overflow-hidden flex flex-col justify-between h-[calc(100%-65px)]',
+          'w-full transition-all relative invisible duration-200 bg-white opacity-0 scroll-auto overflow-hidden flex flex-col justify-between h-[calc(100%-65px)]',
           {
-            'z-10 opacity-100': isExpanded,
+            ' opacity-100 visible z-50': isExpanded,
           }
         )}
       >
-        <div className="px-[25px] h-[calc(100%-228px)] smd:h-full overflow-x-hidden  overflow-y-auto scroll-auto mt-[-1px] l:hidden bg-white no-scrollbar">
+        <div className="px-[25px] relative h-[calc(100%-228px)] smd:h-full overflow-x-hidden  overflow-y-auto scroll-auto mt-[-1px] l:hidden bg-white no-scrollbar">
           {renderMobileNavigation({ isPrimary: true, navList: fields?.navigationEntries })}
         </div>
         <div className="bg-white relative h-[700px] w-full hidden l:block">
@@ -564,12 +547,18 @@ const Header = ({ fields }: HeaderProps) => {
   };
   return (
     <>
-      <div
-        className="fixed top-0 transition-all duration-200 w-full h-full l:h-fit"
-        ref={navigationRef}
-      >
-        {renderBasicHeaderInfo()}
-        {renderNavigation()}
+      <div className="w-full h-full l:h-fit" ref={navigationRef}>
+        <div className="fixed top-0 w-full h-full l:h-fit">{renderBasicHeaderInfo()}</div>
+        <div
+          className={clsx(
+            'transition-all invisible duration-200 fixed top-[65px] w-full h-full l:h-fit',
+            {
+              'bg-white !visible': isExpanded,
+            }
+          )}
+        >
+          {renderNavigation()}
+        </div>
       </div>
       <div
         className={clsx(
