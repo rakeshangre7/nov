@@ -2,7 +2,7 @@
 ID: "a2fa3672-47d9-4c3d-aa22-6be62a189ae7"
 Parent: "a26635f9-64ce-4082-89ac-99ee069aeab6"
 Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/nov/NOV Shared/Field Sections/Map Parameters/Map Parameters/Facilities
+Path: /sitecore/templates/Project/nov/NOV Shared/Field Sections/Map Parameters/Map Parameters/facilities
 SharedFields:
 - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
   Hint: Type
@@ -11,6 +11,27 @@ SharedFields:
   Hint: __Sortorder
   Value: 300
 Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230820T071018Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\varalakshmi.md@horizontal.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8084e233-e5cd-4682-baec-e2f30d18a202"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\varalakshmi.md@horizontal.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230820T071018Z
 - Language: "en-US"
   Versions:
   - Version: 1
