@@ -67,7 +67,7 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20181206T235529Z
-- Language: "en-us"
+- Language: "en-US"
   Versions:
   - Version: 1
     Fields:
@@ -75,16 +75,16 @@ Languages:
       Hint: __Lock
       Value: <r />
     - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
-      Hint: Featured Story Headline
+      Hint: featuredStoryHeadline
       Value: $name
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20180919T141053Z
     - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
-      Hint: Mobile Menu Title
+      Hint: mobileMenuTitle
       Value: $name
     - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
-      Hint: Page Title
+      Hint: pageTitle
       Value: $name
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
@@ -95,7 +95,7 @@ Languages:
       Value: |
         sitecore\ashwin
     - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
-      Hint: Menu Title
+      Hint: menuTitle
       Value: $name
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
@@ -105,7 +105,7 @@ Languages:
       Value: |
         sitecore\admin
     - ID: "bcfd3e35-8ec5-4ba4-b22f-00669ef4d2d5"
-      Hint: Publish Date
+      Hint: publishDate
       Value: 20181015T000000Z
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
