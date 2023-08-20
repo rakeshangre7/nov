@@ -2,7 +2,7 @@
 ID: "ab00c786-9c57-44b9-acb8-839a20db65f6"
 Parent: "cb02e3db-500e-4c53-a9e9-3a4e969c48ec"
 Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/nov/NOV Shared/Field Sections/Image Required/Image Required/Image
+Path: /sitecore/templates/Project/nov/NOV Shared/Field Sections/Image Required/Image Required/image
 SharedFields:
 - ID: "21828437-ea4b-40a1-8c61-4ce60ea41db6"
   Hint: Validate Button
@@ -23,6 +23,27 @@ SharedFields:
   Hint: __Sortorder
   Value: 100
 Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230820T071017Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\varalakshmi.md@horizontal.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "be6288ec-903a-4343-b2fa-15c38d6682fc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\varalakshmi.md@horizontal.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230820T071017Z
 - Language: "en-US"
   Versions:
   - Version: 1

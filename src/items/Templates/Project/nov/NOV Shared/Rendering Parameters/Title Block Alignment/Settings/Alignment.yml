@@ -2,7 +2,7 @@
 ID: "859900c8-7e93-49d2-998c-693cbfe14761"
 Parent: "33b69d8c-28c7-4a9c-97be-553dfee199f6"
 Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/nov/NOV Shared/Rendering Parameters/Title Block Alignment/Settings/Alignment
+Path: /sitecore/templates/Project/nov/NOV Shared/Rendering Parameters/Title Block Alignment/Settings/alignment
 SharedFields:
 - ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
   Hint: Source
@@ -14,6 +14,27 @@ SharedFields:
   Hint: __Sortorder
   Value: 100
 Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230820T071035Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\varalakshmi.md@horizontal.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2b3ac601-9dc9-4d0f-b26f-1e6a3a8a878e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\varalakshmi.md@horizontal.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230820T071035Z
 - Language: "en-US"
   Versions:
   - Version: 1

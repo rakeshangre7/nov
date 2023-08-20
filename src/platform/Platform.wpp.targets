@@ -5,7 +5,7 @@
   https://docs.microsoft.com/en-us/aspnet/web-forms/overview/deployment/advanced-enterprise-web-deployment/excluding-files-and-folders-from-deployment
 -->
 <Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
-  <!--
+	<!--
     Use the SitecoreAssemblies ItemGroup provided by the Sitecore.Assemblies.Platform
     package in order to prevent built-in Sitecore assemblies from publishing.
     https://doc.sitecore.com/developers/93/sitecore-experience-manager/en/sitecore-assembly-list-nuget-packages.html
@@ -13,11 +13,18 @@
     Delay executing this target until after Compile in order to
     ensure the NuGet package targets have been evaluated.
   -->
-  <Target Name="ExcludeSitecoreAssemblies" AfterTargets="Compile">
+	<!--<Target Name="ExcludeSitecoreAssemblies" AfterTargets="Compile">
     <ItemGroup>
       <ExcludeFromPackageFiles Include="@(SitecoreAssemblies -> 'bin\%(Filename)%(Extension)')" />
       <ExcludeFromPackageFiles Include="@(SitecoreAssemblies -> 'bin\%(Filename).pdb')" />
       <ExcludeFromPackageFiles Include="@(SitecoreAssemblies -> 'bin\%(Filename).xml')" />
     </ItemGroup>
-  </Target>
+  </Target>-->
+	<Target Name="DotNetToolRestore" BeforeTargets="Build">
+		<Exec Condition="'$(BuildingInsideVisualStudio)' == 'true'" WorkingDirectory="$(SolutionDir)" Command="dotnet tool restore"/>
+	</Target>
+
+	<Target Name="Leprechaun" AfterTargets="DotNetToolRestore">
+		<Exec Condition="'$(BuildingInsideVisualStudio)' == 'true'" Command="dotnet leprechaun /c $(SolutionDir)src\Leprechaun.config"/>
+	</Target>
 </Project>
