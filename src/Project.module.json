@@ -56,5 +56,11 @@
 		"allowedPushOperations": "CreateAndUpdate"
       }
     ]
+  },
+  "leprechaun": {
+    "configuration": {
+      "@extends": "Nov.Base",
+      "@name": "Project.Item"
+    }
   }
 }
