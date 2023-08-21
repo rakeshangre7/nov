@@ -518,7 +518,7 @@ const Header = ({ fields }: HeaderProps) => {
           className={clsx(
             'transition-all invisible duration-200 fixed top-[65px] w-full h-full l:h-fit',
             {
-              'bg-white !visible': isExpanded,
+              'bg-white !visible !z-[2]': isExpanded,
             }
           )}
         >
