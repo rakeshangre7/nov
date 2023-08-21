@@ -4,15 +4,17 @@ export interface VideoPlayerProps {
     videoid: {
       value: string;
     };
+    image: {
+      value: string;
+    };
   };
   className?: string;
-  controls?: boolean | string | undefined;
+  controls?: boolean;
   preload?: string;
   muted?: boolean;
-  autoplay?: string;
-  loop?: string | true;
-  playsinline?: string;
-  // poster?: string;
+  autoplay?: boolean;
+  loop?: boolean;
+  playsinline?: boolean;
 }
 
 const VideoPlayer = ({
@@ -27,16 +29,22 @@ const VideoPlayer = ({
 }: VideoPlayerProps): JSX.Element => {
   return (
     <video
-      width={640}
-      height={360}
+      width="640"
+      height="360"
       className={className}
-      {...(controls && { controls: true })}
-      {...(preload && { preload: preload })}
-      {...(autoplay && { autoplay })}
-      {...(loop && { loop: true })}
-      {...(playsinline && { playsinline: true })}
-      {...(muted && { muted: true })}
-      poster="https://www.nov.com:443/-/media/nov/images/capability/biogas-solutions/biogas-production.jpg"
+      controls={controls}
+      preload={preload}
+      autoPlay={autoplay}
+      loop={loop}
+      playsInline={playsinline}
+      muted={muted}
+      // {...(controls && { controls: controls })}
+      // {...(preload && { preload: preload })}
+      // {...(autoplay && { autoplay: autoplay })}
+      // {...(loop && { loop: loop })}
+      // {...(playsinline && { playsinline: playsinline })}
+      // {...(muted && { muted: false })}
+      poster={field?.image?.value}
     >
       <source src={field?.videoid?.value} type="video/mp4" />
     </video>
