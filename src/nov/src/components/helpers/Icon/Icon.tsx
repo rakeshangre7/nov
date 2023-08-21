@@ -1,8 +1,9 @@
-import React from 'react';
+import React, { MouseEventHandler } from 'react';
 
 export type IconProps = {
   className: string;
   id?: string;
+  onClick?: MouseEventHandler;
 };
 
 const Icon = ({ className, ...props }: IconProps) => {

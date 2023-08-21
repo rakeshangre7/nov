@@ -10,10 +10,6 @@ SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 400
-- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
-  Hint: __Thumbnail
-  Value: |
-    <image mediaid="{7C3309B8-9F07-4AF7-8630-0DB4E1B4D981}" />
 Languages:
 - Language: "en-US"
   Versions:
@@ -153,7 +149,7 @@ Languages:
       Hint: Publish Date
       Value: 20190319T000000Z
     - ID: "bf69c7e1-1928-47e6-b2d7-fa0b551766f5"
-      Hint: Soundcloud Embed Code
+      Hint: soundcloudEmbedCode
       Value: |
         <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/631377189&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
     - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
@@ -352,7 +348,7 @@ Languages:
       Hint: Publish Date
       Value: 20190319T000000Z
     - ID: "bf69c7e1-1928-47e6-b2d7-fa0b551766f5"
-      Hint: Soundcloud Embed Code
+      Hint: soundcloudEmbedCode
       Value: |
         <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/631377189&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
     - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
@@ -557,7 +553,7 @@ Languages:
       Hint: Publish Date
       Value: 20190319T000000Z
     - ID: "bf69c7e1-1928-47e6-b2d7-fa0b551766f5"
-      Hint: Soundcloud Embed Code
+      Hint: soundcloudEmbedCode
       Value: |
         <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/631377189&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
     - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
@@ -765,7 +761,7 @@ Languages:
       Hint: Publish Date
       Value: 20190319T000000Z
     - ID: "bf69c7e1-1928-47e6-b2d7-fa0b551766f5"
-      Hint: Soundcloud Embed Code
+      Hint: soundcloudEmbedCode
       Value: |
         <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/631377189&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
     - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
@@ -972,7 +968,7 @@ Languages:
       Hint: Publish Date
       Value: 20190319T000000Z
     - ID: "bf69c7e1-1928-47e6-b2d7-fa0b551766f5"
-      Hint: Soundcloud Embed Code
+      Hint: soundcloudEmbedCode
       Value: |
         <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/631377189&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
     - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
@@ -1179,7 +1175,7 @@ Languages:
       Hint: Publish Date
       Value: 20190319T000000Z
     - ID: "bf69c7e1-1928-47e6-b2d7-fa0b551766f5"
-      Hint: Soundcloud Embed Code
+      Hint: soundcloudEmbedCode
       Value: |
         <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/631377189&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
     - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
@@ -1365,7 +1361,7 @@ Languages:
       Value: Adam Rubin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "10a6101f-8ecb-4d55-bb42-942ec65916e4"
+      Value: "8cef0c73-b4b9-41b3-a1c6-db4d0347f401"
     - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
       Hint: contentTag
       Value: "{BA3828AF-5EF2-4318-B72A-AF9B21812EB6}"
@@ -1381,12 +1377,12 @@ Languages:
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\varalakshmi.md@horizontal.com
+        sitecore\heatherbaxter
     - ID: "bcfd3e35-8ec5-4ba4-b22f-00669ef4d2d5"
       Hint: Publish Date
       Value: 20190319T000000Z
     - ID: "bf69c7e1-1928-47e6-b2d7-fa0b551766f5"
-      Hint: Soundcloud Embed Code
+      Hint: soundcloudEmbedCode
       Value: |
         <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/631377189&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
     - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
@@ -1404,7 +1400,7 @@ Languages:
         <image mediaid="{ACDDB058-3C37-4896-9049-6A171F9B0CA1}" cropregion="0,160,1920,1262" ratio="514:295" width="514" height="295" />
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230725T094456Z
+      Value: 20190930T211646Z
     - ID: "e002c6d8-8864-4c8d-bf1d-dacfd00fd8c2"
       Hint: Episode Title
       Value: Not Your Average Garden Hose – Part 1

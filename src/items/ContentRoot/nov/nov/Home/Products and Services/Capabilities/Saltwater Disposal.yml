@@ -7,10 +7,6 @@ SharedFields:
 - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
   Hint: __Workflow
   Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
-- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
-  Hint: __Thumbnail
-  Value: |
-    <image mediaid="{EA6ADDA6-E802-4B40-8E59-5479C0D197AD}" />
 Languages:
 - Language: "en-US"
   Versions:
@@ -568,6 +564,10 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
               uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
               <p:d />
             </r>
@@ -634,7 +634,7 @@ Languages:
       Value: Saltwater Disposal
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "558b3082-9e5e-49f7-b8a2-0e0d9cb73dcb"
+      Value: "d3f1048f-64ff-4a5d-9279-246dd53abd52"
     - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
       Hint: contentTag
       Value: "{894AD693-62BC-4D0F-8E34-42401EBEF1F3}"
@@ -644,7 +644,7 @@ Languages:
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\varalakshmi.md@horizontal.com
+        sitecore\kimmontgomery
     - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
       Hint: Meta Description
       Value: From equipment design and installation, to aftermarket and digital monitoring, we help you achieve a more effective saltwater disposal site.
@@ -657,7 +657,7 @@ Languages:
         <image mediaid="{115AA207-A039-4AE4-B306-BDF6FAF93A77}" cropregion="15,0,1584,900" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230725T095025Z
+      Value: 20200717T222539Z
     - ID: "da134e40-cb02-4645-9846-115fb9a5aeca"
       Hint: capability
       Value: "{4F6F963B-79C8-4F55-8148-57C9C2B78EE3}"

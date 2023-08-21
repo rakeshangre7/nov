@@ -1,0 +1,2574 @@
+﻿---
+ID: "893a18cf-80f1-42a0-9b5f-3fa1156f1fbd"
+Parent: "e3d406ad-28d8-4bf8-8e31-36f46d6fa1bd"
+Template: "d227ab0e-fd44-4ae0-878a-189949913d0b"
+Path: /sitecore/content/nov/nov/Home/Misc/Fleet Care
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{165B41A3-9A1A-410A-A92E-7E89C8E63789}"
+              p:before="*"
+              s:ds="{8E646520-6448-4337-84CD-EAA6C72E9B0C}"
+              s:id="{703C4FCC-55FD-48C3-8F29-1B196484B61C}"
+              s:ph="/main/product-tabs-container-{98372559-FD25-4280-ACB5-1A99DFFB9090}-0/product-tab-content-{AAA2CBFC-D6E0-46BB-8611-10B34A8CB9E4}-0" />
+            <r
+              uid="{03059D00-D72A-4305-B3DA-CA86814F37C5}"
+              p:after="r[@uid='{165B41A3-9A1A-410A-A92E-7E89C8E63789}']"
+              s:ds="{708C9408-40B3-43EC-AD7D-B6EFE3F1711E}"
+              s:id="{541C8841-7802-4878-BBC4-5B3AC533A4BA}"
+              s:ph="/main/product-tabs-container-{98372559-FD25-4280-ACB5-1A99DFFB9090}-0/product-tab-content-{27DBA568-DB2E-483D-AAA2-30F1E5766DAD}-0" />
+            <r
+              uid="{27DBA568-DB2E-483D-AAA2-30F1E5766DAD}"
+              p:after="r[@uid='{03059D00-D72A-4305-B3DA-CA86814F37C5}']"
+              s:ds="{79FD46F2-A4A0-4A13-839A-714FCDEDA1DA}"
+              s:id="{CABE2E45-C5EB-4990-AD19-E203DFF43BE7}"
+              s:ph="/main/product-tabs-container-{98372559-FD25-4280-ACB5-1A99DFFB9090}-0" />
+            <r
+              uid="{AAA2CBFC-D6E0-46BB-8611-10B34A8CB9E4}"
+              p:after="r[@uid='{27DBA568-DB2E-483D-AAA2-30F1E5766DAD}']"
+              s:ds="{00AD0746-5845-4827-9258-FA455DDDEDBB}"
+              s:id="{CABE2E45-C5EB-4990-AD19-E203DFF43BE7}"
+              s:ph="/main/product-tabs-container-{98372559-FD25-4280-ACB5-1A99DFFB9090}-0" />
+            <r
+              uid="{2AF72778-CD10-4507-B1DC-3A22E90EE6FA}"
+              p:after="r[@uid='{AAA2CBFC-D6E0-46BB-8611-10B34A8CB9E4}']"
+              s:ds="{76CC994D-167F-412A-9527-EBD136548EF8}"
+              s:id="{EA2AC21A-A652-4FD4-9F5D-4F9EB4322B26}"
+              s:ph="/main/image-block-main-{9C4AFD2C-DAF1-457E-9774-6AEC6BDA7744}-0/image-block-splitter-960x1080-right" />
+            <r
+              uid="{E67D7AB7-550A-4CD2-9462-DA1A6321D2B3}"
+              p:after="r[@uid='{2AF72778-CD10-4507-B1DC-3A22E90EE6FA}']"
+              s:ds="{420CF68F-71EA-4ABB-A5DC-D6B1AA5E744C}"
+              s:id="{EA2AC21A-A652-4FD4-9F5D-4F9EB4322B26}"
+              s:ph="/main/image-block-main-{9C4AFD2C-DAF1-457E-9774-6AEC6BDA7744}-0/image-block-splitter-960x1080-left" />
+            <r
+              uid="{B01035A6-24F3-4863-8E4B-4939B885A9C6}"
+              p:after="r[@uid='{E67D7AB7-550A-4CD2-9462-DA1A6321D2B3}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main-{9C4AFD2C-DAF1-457E-9774-6AEC6BDA7744}-0" />
+            <r
+              uid="{24171700-46EB-417C-ADE6-4A6D0BDE2D3A}"
+              p:after="r[@uid='{B01035A6-24F3-4863-8E4B-4939B885A9C6}']"
+              s:ds="{B8DF25EE-73D9-4D16-9A80-B864C06E2DCE}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{CFCBBA34-4149-4724-B613-070CFD2DA918}-0" />
+            <r
+              uid="{361DBE87-B926-4F53-97DE-8A386A83E02E}"
+              p:after="r[@uid='{24171700-46EB-417C-ADE6-4A6D0BDE2D3A}']"
+              s:ds="{98254880-2CA6-495C-A59A-EFC8D72BD818}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{CFCBBA34-4149-4724-B613-070CFD2DA918}-0" />
+            <r
+              uid="{BA077E75-780B-4654-A220-10E63520C582}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{83C96A38-D18A-4E35-9D8D-71F869B259F3}"
+              s:ds="{68903F16-467C-4C6B-8293-FE603988C0BD}" />
+            <r
+              uid="{C4ACEA35-73C2-4347-B325-2FC6FCDAAB8F}">
+              <p:d />
+            </r>
+            <r
+              uid="{E655A92B-3794-4099-AF60-076BAFA33189}">
+              <p:d />
+            </r>
+            <r
+              uid="{0D97EC48-A616-4503-81F3-8B0A22142C87}">
+              <p:d />
+            </r>
+            <r
+              uid="{1FD9ED8E-765E-4D75-AEB7-9C5643309FB1}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3E128BD-C527-476C-B850-4FF98996AE1F}">
+              <p:d />
+            </r>
+            <r
+              uid="{9E4C6427-3865-4F4C-AF91-EFDF6A58DA77}">
+              <p:d />
+            </r>
+            <r
+              uid="{ACAD23C8-9219-4D65-B38A-4537A73C4FE0}">
+              <p:d />
+            </r>
+            <r
+              uid="{FB4C5C8E-DF5F-4300-950E-536065A8707B}">
+              <p:d />
+            </r>
+            <r
+              uid="{2849CE03-88F2-4FBC-BAE4-0D1B29D7AEAA}">
+              <p:d />
+            </r>
+            <r
+              uid="{B5407315-4598-49BA-A716-8895E8E1539E}">
+              <p:d />
+            </r>
+            <r
+              uid="{35F5B041-CCEA-40B8-948D-6DE09851A28E}">
+              <p:d />
+            </r>
+            <r
+              uid="{99B4E79C-EEB8-49BC-8779-24C4AD0CF113}">
+              <p:d />
+            </r>
+            <r
+              uid="{CDF8E396-F69A-48ED-A6DB-B665BD98B242}">
+              <p:d />
+            </r>
+            <r
+              uid="{98372559-FD25-4280-ACB5-1A99DFFB9090}"
+              p:after="r[@uid='{83C96A38-D18A-4E35-9D8D-71F869B259F3}']"
+              s:id="{F60303F6-09BF-456C-BCA8-CDCC7CDB4E14}"
+              s:ph="main" />
+            <r
+              uid="{CFCBBA34-4149-4724-B613-070CFD2DA918}"
+              p:after="r[@uid='{98372559-FD25-4280-ACB5-1A99DFFB9090}']"
+              s:id="{5266AC57-9C33-41AF-B32D-D935FB8DC1F3}"
+              s:ph="main" />
+            <r
+              uid="{6907A48D-C4E4-4085-BE37-97B7B8FA5AAF}"
+              p:after="r[@uid='{CFCBBA34-4149-4724-B613-070CFD2DA918}']"
+              s:ds="{A68AD4F3-9597-4A86-A24C-337954E9B58C}"
+              s:id="{2E6C5F1E-BC4A-4FBE-BC72-FBCB237F8DDC}"
+              s:ph="main" />
+            <r
+              uid="{6C74F550-0D77-45DE-9375-84199FD29DDD}"
+              p:after="r[@uid='{6907A48D-C4E4-4085-BE37-97B7B8FA5AAF}']"
+              s:ds="{297C1569-CBB7-49D6-A03E-8457F950C23B}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{33210AA8-458C-4395-939D-6535D6FBF599}"
+              p:after="r[@uid='{6C74F550-0D77-45DE-9375-84199FD29DDD}']"
+              s:ds="{0D0FD7EF-1604-446B-ADF2-EFAB57C6048D}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{DF7F8D84-16DB-45B7-84CB-CDC446216059}"
+              p:after="r[@uid='{33210AA8-458C-4395-939D-6535D6FBF599}']"
+              s:ds="{74EA9870-96B3-40E8-882A-F4BC512E92C2}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{CDD3C1D7-50BE-45C6-9BDD-38D82D8F3E0B}"
+              p:after="r[@uid='{DF7F8D84-16DB-45B7-84CB-CDC446216059}']"
+              s:ds="{70DD1DDE-9A06-4DFB-A365-A2C0F55DF4B3}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{D4AC3387-5FE5-4E92-8A2A-AF0182FB470B}"
+              p:after="r[@uid='{CDD3C1D7-50BE-45C6-9BDD-38D82D8F3E0B}']"
+              s:ds="{DEC6DF5C-1154-4794-B21A-8F897ED7DEDA}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{5D1EFC18-1191-47A1-8C32-053C80A2B277}"
+              p:after="r[@uid='{D4AC3387-5FE5-4E92-8A2A-AF0182FB470B}']"
+              s:ds="{3DD42F81-0B2B-429C-8EA6-2F9BF458042B}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{E57AA2AF-A48E-4247-A98E-F124070C6306}"
+              p:after="r[@uid='{5D1EFC18-1191-47A1-8C32-053C80A2B277}']"
+              s:ds="{56FA2F95-942E-4859-A446-C3FD02EA1069}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{D31FAD66-7098-4BB5-A20E-2610C0DBE212}"
+              p:after="r[@uid='{E57AA2AF-A48E-4247-A98E-F124070C6306}']"
+              s:ds="{ADBC6AAC-ABD0-4A52-A3F6-7F13CD056CE1}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{3FB1BC6F-22AF-497F-BCD8-1DC5E30A9F07}"
+              p:after="r[@uid='{D31FAD66-7098-4BB5-A20E-2610C0DBE212}']"
+              s:ds="{7ADA6443-6854-4784-B923-90106F656CB8}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{9026EC1C-AA02-4232-99DC-7F02836AE452}"
+              p:after="r[@uid='{3FB1BC6F-22AF-497F-BCD8-1DC5E30A9F07}']"
+              s:ds="{C9B51E98-688B-42D6-A7A1-2D0A0A7AB549}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{5CB5BFE4-D7FD-47A6-8356-09BAEAB8294F}"
+              p:after="r[@uid='{9026EC1C-AA02-4232-99DC-7F02836AE452}']"
+              s:ds="{37B4B2BA-D633-4DAE-8F89-D8F15B2B791A}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{213F0CED-0BDA-4562-9EB9-158558108221}"
+              p:after="r[@uid='{5CB5BFE4-D7FD-47A6-8356-09BAEAB8294F}']"
+              s:ds="{54D7EAB0-022F-4A69-AF2C-E6D4D91EEFB2}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{61B85335-598B-4D41-AB16-3DED10912D8D}"
+              p:after="r[@uid='{213F0CED-0BDA-4562-9EB9-158558108221}']"
+              s:ds="{898579BF-F48B-489C-B7E0-CB9470790E12}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{06D2408B-97D9-4EEB-8F67-C08E15F71A49}"
+              p:after="r[@uid='{61B85335-598B-4D41-AB16-3DED10912D8D}']"
+              s:ds="{6029BCE7-F99B-4F06-A80E-C81E500EE6EA}"
+              s:id="{2E6C5F1E-BC4A-4FBE-BC72-FBCB237F8DDC}"
+              s:ph="main" />
+            <r
+              uid="{3ADDDF2A-6C4B-4473-ACB2-EADC8ABD6475}"
+              s:ds="{04A87825-EF8D-4998-877A-4F9780098984}" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Fleet Care
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: "<p>Our Fleet Care team integrates four areas of service to address your specific needs such as in-situ repair, engineering surveys, recertification, or preservation.</p>"
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Fleet Care
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190812T220029Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Fleet Care
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Fleet Care
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joannazhu
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Fleet Care
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f4b588e2-cecd-4c35-89c0-342a389c7271"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\joannazhu
+    - ID: "bcfd3e35-8ec5-4ba4-b22f-00669ef4d2d5"
+      Hint: Publish Date
+      Value: 20190725T150000Z
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "Our Fleet Care team integrates four areas of service to address your specific needs such as in-situ repair, engineering surveys, recertification, or preservation."
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190812T220029Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{552F6E66-1B6E-4C5D-B80E-DD9A32A00590}" cropregion="0,87,1920,1191" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190812T220039Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{552F6E66-1B6E-4C5D-B80E-DD9A32A00590}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{165B41A3-9A1A-410A-A92E-7E89C8E63789}"
+              p:before="*"
+              s:ds="{8E646520-6448-4337-84CD-EAA6C72E9B0C}"
+              s:id="{703C4FCC-55FD-48C3-8F29-1B196484B61C}"
+              s:ph="/main/product-tabs-container-{98372559-FD25-4280-ACB5-1A99DFFB9090}-0/product-tab-content-{AAA2CBFC-D6E0-46BB-8611-10B34A8CB9E4}-0" />
+            <r
+              uid="{03059D00-D72A-4305-B3DA-CA86814F37C5}"
+              p:after="r[@uid='{165B41A3-9A1A-410A-A92E-7E89C8E63789}']"
+              s:ds="{708C9408-40B3-43EC-AD7D-B6EFE3F1711E}"
+              s:id="{541C8841-7802-4878-BBC4-5B3AC533A4BA}"
+              s:ph="/main/product-tabs-container-{98372559-FD25-4280-ACB5-1A99DFFB9090}-0/product-tab-content-{27DBA568-DB2E-483D-AAA2-30F1E5766DAD}-0" />
+            <r
+              uid="{27DBA568-DB2E-483D-AAA2-30F1E5766DAD}"
+              p:after="r[@uid='{03059D00-D72A-4305-B3DA-CA86814F37C5}']"
+              s:ds="{79FD46F2-A4A0-4A13-839A-714FCDEDA1DA}"
+              s:id="{CABE2E45-C5EB-4990-AD19-E203DFF43BE7}"
+              s:ph="/main/product-tabs-container-{98372559-FD25-4280-ACB5-1A99DFFB9090}-0" />
+            <r
+              uid="{AAA2CBFC-D6E0-46BB-8611-10B34A8CB9E4}"
+              p:after="r[@uid='{27DBA568-DB2E-483D-AAA2-30F1E5766DAD}']"
+              s:ds="{00AD0746-5845-4827-9258-FA455DDDEDBB}"
+              s:id="{CABE2E45-C5EB-4990-AD19-E203DFF43BE7}"
+              s:ph="/main/product-tabs-container-{98372559-FD25-4280-ACB5-1A99DFFB9090}-0" />
+            <r
+              uid="{2AF72778-CD10-4507-B1DC-3A22E90EE6FA}"
+              p:after="r[@uid='{AAA2CBFC-D6E0-46BB-8611-10B34A8CB9E4}']"
+              s:ds="{76CC994D-167F-412A-9527-EBD136548EF8}"
+              s:id="{EA2AC21A-A652-4FD4-9F5D-4F9EB4322B26}"
+              s:ph="/main/image-block-main-{9C4AFD2C-DAF1-457E-9774-6AEC6BDA7744}-0/image-block-splitter-960x1080-right" />
+            <r
+              uid="{E67D7AB7-550A-4CD2-9462-DA1A6321D2B3}"
+              p:after="r[@uid='{2AF72778-CD10-4507-B1DC-3A22E90EE6FA}']"
+              s:ds="{420CF68F-71EA-4ABB-A5DC-D6B1AA5E744C}"
+              s:id="{EA2AC21A-A652-4FD4-9F5D-4F9EB4322B26}"
+              s:ph="/main/image-block-main-{9C4AFD2C-DAF1-457E-9774-6AEC6BDA7744}-0/image-block-splitter-960x1080-left" />
+            <r
+              uid="{B01035A6-24F3-4863-8E4B-4939B885A9C6}"
+              p:after="r[@uid='{E67D7AB7-550A-4CD2-9462-DA1A6321D2B3}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main-{9C4AFD2C-DAF1-457E-9774-6AEC6BDA7744}-0" />
+            <r
+              uid="{24171700-46EB-417C-ADE6-4A6D0BDE2D3A}"
+              p:after="r[@uid='{B01035A6-24F3-4863-8E4B-4939B885A9C6}']"
+              s:ds="{B8DF25EE-73D9-4D16-9A80-B864C06E2DCE}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{CFCBBA34-4149-4724-B613-070CFD2DA918}-0" />
+            <r
+              uid="{361DBE87-B926-4F53-97DE-8A386A83E02E}"
+              p:after="r[@uid='{24171700-46EB-417C-ADE6-4A6D0BDE2D3A}']"
+              s:ds="{98254880-2CA6-495C-A59A-EFC8D72BD818}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{CFCBBA34-4149-4724-B613-070CFD2DA918}-0" />
+            <r
+              uid="{BA077E75-780B-4654-A220-10E63520C582}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{83C96A38-D18A-4E35-9D8D-71F869B259F3}"
+              s:ds="{68903F16-467C-4C6B-8293-FE603988C0BD}" />
+            <r
+              uid="{C4ACEA35-73C2-4347-B325-2FC6FCDAAB8F}">
+              <p:d />
+            </r>
+            <r
+              uid="{E655A92B-3794-4099-AF60-076BAFA33189}">
+              <p:d />
+            </r>
+            <r
+              uid="{0D97EC48-A616-4503-81F3-8B0A22142C87}">
+              <p:d />
+            </r>
+            <r
+              uid="{1FD9ED8E-765E-4D75-AEB7-9C5643309FB1}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3E128BD-C527-476C-B850-4FF98996AE1F}">
+              <p:d />
+            </r>
+            <r
+              uid="{9E4C6427-3865-4F4C-AF91-EFDF6A58DA77}">
+              <p:d />
+            </r>
+            <r
+              uid="{ACAD23C8-9219-4D65-B38A-4537A73C4FE0}">
+              <p:d />
+            </r>
+            <r
+              uid="{FB4C5C8E-DF5F-4300-950E-536065A8707B}">
+              <p:d />
+            </r>
+            <r
+              uid="{2849CE03-88F2-4FBC-BAE4-0D1B29D7AEAA}">
+              <p:d />
+            </r>
+            <r
+              uid="{B5407315-4598-49BA-A716-8895E8E1539E}">
+              <p:d />
+            </r>
+            <r
+              uid="{35F5B041-CCEA-40B8-948D-6DE09851A28E}">
+              <p:d />
+            </r>
+            <r
+              uid="{98372559-FD25-4280-ACB5-1A99DFFB9090}"
+              p:after="r[@uid='{83C96A38-D18A-4E35-9D8D-71F869B259F3}']"
+              s:id="{F60303F6-09BF-456C-BCA8-CDCC7CDB4E14}"
+              s:ph="main" />
+            <r
+              uid="{CFCBBA34-4149-4724-B613-070CFD2DA918}"
+              p:after="r[@uid='{98372559-FD25-4280-ACB5-1A99DFFB9090}']"
+              s:id="{5266AC57-9C33-41AF-B32D-D935FB8DC1F3}"
+              s:ph="main" />
+            <r
+              uid="{6161E570-8CAA-4D66-B72B-0E44D4608151}"
+              p:after="r[@uid='{CFCBBA34-4149-4724-B613-070CFD2DA918}']"
+              s:ds="{E92433FD-882E-4E4F-8DA5-C09E64A89BB4}"
+              s:id="{D6F7B1A2-D9A1-4301-85D8-64731201F85B}"
+              s:ph="main" />
+            <r
+              uid="{A674D822-5097-447A-BA1C-30A38B2BD039}"
+              p:after="r[@uid='{6161E570-8CAA-4D66-B72B-0E44D4608151}']"
+              s:ds="{697B42FE-5C8F-4955-B12C-4F9883BA5035}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{6C74F550-0D77-45DE-9375-84199FD29DDD}"
+              p:after="r[@uid='{A674D822-5097-447A-BA1C-30A38B2BD039}']"
+              s:ds="{297C1569-CBB7-49D6-A03E-8457F950C23B}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{33210AA8-458C-4395-939D-6535D6FBF599}"
+              p:after="r[@uid='{6C74F550-0D77-45DE-9375-84199FD29DDD}']"
+              s:ds="{0D0FD7EF-1604-446B-ADF2-EFAB57C6048D}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{DF7F8D84-16DB-45B7-84CB-CDC446216059}"
+              p:after="r[@uid='{33210AA8-458C-4395-939D-6535D6FBF599}']"
+              s:ds="{74EA9870-96B3-40E8-882A-F4BC512E92C2}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{CDD3C1D7-50BE-45C6-9BDD-38D82D8F3E0B}"
+              p:after="r[@uid='{DF7F8D84-16DB-45B7-84CB-CDC446216059}']"
+              s:ds="{70DD1DDE-9A06-4DFB-A365-A2C0F55DF4B3}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{D4AC3387-5FE5-4E92-8A2A-AF0182FB470B}"
+              p:after="r[@uid='{CDD3C1D7-50BE-45C6-9BDD-38D82D8F3E0B}']"
+              s:ds="{DEC6DF5C-1154-4794-B21A-8F897ED7DEDA}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{5D1EFC18-1191-47A1-8C32-053C80A2B277}"
+              p:after="r[@uid='{D4AC3387-5FE5-4E92-8A2A-AF0182FB470B}']"
+              s:ds="{3DD42F81-0B2B-429C-8EA6-2F9BF458042B}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{E57AA2AF-A48E-4247-A98E-F124070C6306}"
+              p:after="r[@uid='{5D1EFC18-1191-47A1-8C32-053C80A2B277}']"
+              s:ds="{56FA2F95-942E-4859-A446-C3FD02EA1069}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{99B4E79C-EEB8-49BC-8779-24C4AD0CF113}">
+              <p:d />
+            </r>
+            <r
+              uid="{CDF8E396-F69A-48ED-A6DB-B665BD98B242}">
+              <p:d />
+            </r>
+            <r
+              uid="{3ADDDF2A-6C4B-4473-ACB2-EADC8ABD6475}"
+              s:ds="{04A87825-EF8D-4998-877A-4F9780098984}" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Fleet Care
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>NOV’s global Fleet Care program delivers a suite of maintenance, parts, and engineering services that minimize downtime and maximize asset value.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Fleet Care
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190814T153728Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Fleet Care
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Fleet Care
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joannazhu
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Fleet Care
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4c3194e0-bd2a-4ff9-bc00-e9f74460ce67"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\joannazhu
+    - ID: "bcfd3e35-8ec5-4ba4-b22f-00669ef4d2d5"
+      Hint: Publish Date
+      Value: 20190725T150000Z
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: NOV’s global Fleet Care program delivers a suite of maintenance, parts, and engineering services that minimize downtime and maximize asset value.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190814T153728Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{552F6E66-1B6E-4C5D-B80E-DD9A32A00590}" cropregion="0,87,1920,1191" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190816T190316Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{552F6E66-1B6E-4C5D-B80E-DD9A32A00590}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{165B41A3-9A1A-410A-A92E-7E89C8E63789}"
+              p:before="*"
+              s:ds="{8E646520-6448-4337-84CD-EAA6C72E9B0C}"
+              s:id="{703C4FCC-55FD-48C3-8F29-1B196484B61C}"
+              s:ph="/main/product-tabs-container-{98372559-FD25-4280-ACB5-1A99DFFB9090}-0/product-tab-content-{AAA2CBFC-D6E0-46BB-8611-10B34A8CB9E4}-0" />
+            <r
+              uid="{03059D00-D72A-4305-B3DA-CA86814F37C5}"
+              p:after="r[@uid='{165B41A3-9A1A-410A-A92E-7E89C8E63789}']"
+              s:ds="{708C9408-40B3-43EC-AD7D-B6EFE3F1711E}"
+              s:id="{541C8841-7802-4878-BBC4-5B3AC533A4BA}"
+              s:ph="/main/product-tabs-container-{98372559-FD25-4280-ACB5-1A99DFFB9090}-0/product-tab-content-{27DBA568-DB2E-483D-AAA2-30F1E5766DAD}-0" />
+            <r
+              uid="{27DBA568-DB2E-483D-AAA2-30F1E5766DAD}"
+              p:after="r[@uid='{03059D00-D72A-4305-B3DA-CA86814F37C5}']"
+              s:ds="{79FD46F2-A4A0-4A13-839A-714FCDEDA1DA}"
+              s:id="{CABE2E45-C5EB-4990-AD19-E203DFF43BE7}"
+              s:ph="/main/product-tabs-container-{98372559-FD25-4280-ACB5-1A99DFFB9090}-0" />
+            <r
+              uid="{AAA2CBFC-D6E0-46BB-8611-10B34A8CB9E4}"
+              p:after="r[@uid='{27DBA568-DB2E-483D-AAA2-30F1E5766DAD}']"
+              s:ds="{00AD0746-5845-4827-9258-FA455DDDEDBB}"
+              s:id="{CABE2E45-C5EB-4990-AD19-E203DFF43BE7}"
+              s:ph="/main/product-tabs-container-{98372559-FD25-4280-ACB5-1A99DFFB9090}-0" />
+            <r
+              uid="{2AF72778-CD10-4507-B1DC-3A22E90EE6FA}"
+              p:after="r[@uid='{AAA2CBFC-D6E0-46BB-8611-10B34A8CB9E4}']"
+              s:ds="{76CC994D-167F-412A-9527-EBD136548EF8}"
+              s:id="{EA2AC21A-A652-4FD4-9F5D-4F9EB4322B26}"
+              s:ph="/main/image-block-main-{9C4AFD2C-DAF1-457E-9774-6AEC6BDA7744}-0/image-block-splitter-960x1080-right" />
+            <r
+              uid="{E67D7AB7-550A-4CD2-9462-DA1A6321D2B3}"
+              p:after="r[@uid='{2AF72778-CD10-4507-B1DC-3A22E90EE6FA}']"
+              s:ds="{420CF68F-71EA-4ABB-A5DC-D6B1AA5E744C}"
+              s:id="{EA2AC21A-A652-4FD4-9F5D-4F9EB4322B26}"
+              s:ph="/main/image-block-main-{9C4AFD2C-DAF1-457E-9774-6AEC6BDA7744}-0/image-block-splitter-960x1080-left" />
+            <r
+              uid="{B01035A6-24F3-4863-8E4B-4939B885A9C6}"
+              p:after="r[@uid='{E67D7AB7-550A-4CD2-9462-DA1A6321D2B3}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main-{9C4AFD2C-DAF1-457E-9774-6AEC6BDA7744}-0" />
+            <r
+              uid="{24171700-46EB-417C-ADE6-4A6D0BDE2D3A}"
+              p:after="r[@uid='{B01035A6-24F3-4863-8E4B-4939B885A9C6}']"
+              s:ds="{B8DF25EE-73D9-4D16-9A80-B864C06E2DCE}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{CFCBBA34-4149-4724-B613-070CFD2DA918}-0" />
+            <r
+              uid="{361DBE87-B926-4F53-97DE-8A386A83E02E}"
+              p:after="r[@uid='{24171700-46EB-417C-ADE6-4A6D0BDE2D3A}']"
+              s:ds="{98254880-2CA6-495C-A59A-EFC8D72BD818}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{CFCBBA34-4149-4724-B613-070CFD2DA918}-0" />
+            <r
+              uid="{BA077E75-780B-4654-A220-10E63520C582}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{83C96A38-D18A-4E35-9D8D-71F869B259F3}"
+              s:ds="{68903F16-467C-4C6B-8293-FE603988C0BD}" />
+            <r
+              uid="{C4ACEA35-73C2-4347-B325-2FC6FCDAAB8F}">
+              <p:d />
+            </r>
+            <r
+              uid="{E655A92B-3794-4099-AF60-076BAFA33189}">
+              <p:d />
+            </r>
+            <r
+              uid="{0D97EC48-A616-4503-81F3-8B0A22142C87}">
+              <p:d />
+            </r>
+            <r
+              uid="{1FD9ED8E-765E-4D75-AEB7-9C5643309FB1}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3E128BD-C527-476C-B850-4FF98996AE1F}">
+              <p:d />
+            </r>
+            <r
+              uid="{9E4C6427-3865-4F4C-AF91-EFDF6A58DA77}">
+              <p:d />
+            </r>
+            <r
+              uid="{ACAD23C8-9219-4D65-B38A-4537A73C4FE0}">
+              <p:d />
+            </r>
+            <r
+              uid="{FB4C5C8E-DF5F-4300-950E-536065A8707B}">
+              <p:d />
+            </r>
+            <r
+              uid="{2849CE03-88F2-4FBC-BAE4-0D1B29D7AEAA}">
+              <p:d />
+            </r>
+            <r
+              uid="{B5407315-4598-49BA-A716-8895E8E1539E}">
+              <p:d />
+            </r>
+            <r
+              uid="{35F5B041-CCEA-40B8-948D-6DE09851A28E}">
+              <p:d />
+            </r>
+            <r
+              uid="{98372559-FD25-4280-ACB5-1A99DFFB9090}"
+              p:after="r[@uid='{83C96A38-D18A-4E35-9D8D-71F869B259F3}']"
+              s:id="{F60303F6-09BF-456C-BCA8-CDCC7CDB4E14}"
+              s:ph="main" />
+            <r
+              uid="{CFCBBA34-4149-4724-B613-070CFD2DA918}"
+              p:after="r[@uid='{98372559-FD25-4280-ACB5-1A99DFFB9090}']"
+              s:id="{5266AC57-9C33-41AF-B32D-D935FB8DC1F3}"
+              s:ph="main" />
+            <r
+              uid="{6161E570-8CAA-4D66-B72B-0E44D4608151}"
+              p:after="r[@uid='{CFCBBA34-4149-4724-B613-070CFD2DA918}']"
+              s:ds="{E92433FD-882E-4E4F-8DA5-C09E64A89BB4}"
+              s:id="{D6F7B1A2-D9A1-4301-85D8-64731201F85B}"
+              s:ph="main" />
+            <r
+              uid="{A674D822-5097-447A-BA1C-30A38B2BD039}"
+              p:after="r[@uid='{6161E570-8CAA-4D66-B72B-0E44D4608151}']"
+              s:ds="{697B42FE-5C8F-4955-B12C-4F9883BA5035}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{6C74F550-0D77-45DE-9375-84199FD29DDD}"
+              p:after="r[@uid='{A674D822-5097-447A-BA1C-30A38B2BD039}']"
+              s:ds="{297C1569-CBB7-49D6-A03E-8457F950C23B}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{33210AA8-458C-4395-939D-6535D6FBF599}"
+              p:after="r[@uid='{6C74F550-0D77-45DE-9375-84199FD29DDD}']"
+              s:ds="{0D0FD7EF-1604-446B-ADF2-EFAB57C6048D}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{DF7F8D84-16DB-45B7-84CB-CDC446216059}"
+              p:after="r[@uid='{33210AA8-458C-4395-939D-6535D6FBF599}']"
+              s:ds="{74EA9870-96B3-40E8-882A-F4BC512E92C2}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{CDD3C1D7-50BE-45C6-9BDD-38D82D8F3E0B}"
+              p:after="r[@uid='{DF7F8D84-16DB-45B7-84CB-CDC446216059}']"
+              s:ds="{70DD1DDE-9A06-4DFB-A365-A2C0F55DF4B3}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{D4AC3387-5FE5-4E92-8A2A-AF0182FB470B}"
+              p:after="r[@uid='{CDD3C1D7-50BE-45C6-9BDD-38D82D8F3E0B}']"
+              s:ds="{DEC6DF5C-1154-4794-B21A-8F897ED7DEDA}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{5D1EFC18-1191-47A1-8C32-053C80A2B277}"
+              p:after="r[@uid='{D4AC3387-5FE5-4E92-8A2A-AF0182FB470B}']"
+              s:ds="{3DD42F81-0B2B-429C-8EA6-2F9BF458042B}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{E57AA2AF-A48E-4247-A98E-F124070C6306}"
+              p:after="r[@uid='{5D1EFC18-1191-47A1-8C32-053C80A2B277}']"
+              s:ds="{56FA2F95-942E-4859-A446-C3FD02EA1069}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{99B4E79C-EEB8-49BC-8779-24C4AD0CF113}">
+              <p:d />
+            </r>
+            <r
+              uid="{CDF8E396-F69A-48ED-A6DB-B665BD98B242}">
+              <p:d />
+            </r>
+            <r
+              uid="{3ADDDF2A-6C4B-4473-ACB2-EADC8ABD6475}"
+              s:ds="{04A87825-EF8D-4998-877A-4F9780098984}" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Fleet Care
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>NOV’s global Fleet Care program delivers a suite of maintenance, parts, and engineering services that minimize downtime and maximize asset value.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Fleet Care
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190816T190346Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Fleet Care
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Fleet Care
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joannazhu
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Fleet Care
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d027a9c3-9fd5-41be-8683-99f5df8cc756"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\joannazhu
+    - ID: "bcfd3e35-8ec5-4ba4-b22f-00669ef4d2d5"
+      Hint: Publish Date
+      Value: 20190725T150000Z
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: NOV’s global Fleet Care program delivers a suite of maintenance, parts, and engineering services that minimize downtime and maximize asset value.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190816T190346Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{552F6E66-1B6E-4C5D-B80E-DD9A32A00590}" cropregion="0,87,1920,1191" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190816T190522Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{552F6E66-1B6E-4C5D-B80E-DD9A32A00590}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 4
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{165B41A3-9A1A-410A-A92E-7E89C8E63789}"
+              p:before="*"
+              s:ds="{8E646520-6448-4337-84CD-EAA6C72E9B0C}"
+              s:id="{703C4FCC-55FD-48C3-8F29-1B196484B61C}"
+              s:ph="/main/product-tabs-container-{98372559-FD25-4280-ACB5-1A99DFFB9090}-0/product-tab-content-{AAA2CBFC-D6E0-46BB-8611-10B34A8CB9E4}-0" />
+            <r
+              uid="{03059D00-D72A-4305-B3DA-CA86814F37C5}"
+              p:after="r[@uid='{165B41A3-9A1A-410A-A92E-7E89C8E63789}']"
+              s:ds="{708C9408-40B3-43EC-AD7D-B6EFE3F1711E}"
+              s:id="{541C8841-7802-4878-BBC4-5B3AC533A4BA}"
+              s:ph="/main/product-tabs-container-{98372559-FD25-4280-ACB5-1A99DFFB9090}-0/product-tab-content-{27DBA568-DB2E-483D-AAA2-30F1E5766DAD}-0" />
+            <r
+              uid="{27DBA568-DB2E-483D-AAA2-30F1E5766DAD}"
+              p:after="r[@uid='{03059D00-D72A-4305-B3DA-CA86814F37C5}']"
+              s:ds="{79FD46F2-A4A0-4A13-839A-714FCDEDA1DA}"
+              s:id="{CABE2E45-C5EB-4990-AD19-E203DFF43BE7}"
+              s:ph="/main/product-tabs-container-{98372559-FD25-4280-ACB5-1A99DFFB9090}-0" />
+            <r
+              uid="{AAA2CBFC-D6E0-46BB-8611-10B34A8CB9E4}"
+              p:after="r[@uid='{27DBA568-DB2E-483D-AAA2-30F1E5766DAD}']"
+              s:ds="{00AD0746-5845-4827-9258-FA455DDDEDBB}"
+              s:id="{CABE2E45-C5EB-4990-AD19-E203DFF43BE7}"
+              s:ph="/main/product-tabs-container-{98372559-FD25-4280-ACB5-1A99DFFB9090}-0" />
+            <r
+              uid="{2AF72778-CD10-4507-B1DC-3A22E90EE6FA}"
+              p:after="r[@uid='{AAA2CBFC-D6E0-46BB-8611-10B34A8CB9E4}']"
+              s:ds="{76CC994D-167F-412A-9527-EBD136548EF8}"
+              s:id="{EA2AC21A-A652-4FD4-9F5D-4F9EB4322B26}"
+              s:ph="/main/image-block-main-{9C4AFD2C-DAF1-457E-9774-6AEC6BDA7744}-0/image-block-splitter-960x1080-right" />
+            <r
+              uid="{E67D7AB7-550A-4CD2-9462-DA1A6321D2B3}"
+              p:after="r[@uid='{2AF72778-CD10-4507-B1DC-3A22E90EE6FA}']"
+              s:ds="{420CF68F-71EA-4ABB-A5DC-D6B1AA5E744C}"
+              s:id="{EA2AC21A-A652-4FD4-9F5D-4F9EB4322B26}"
+              s:ph="/main/image-block-main-{9C4AFD2C-DAF1-457E-9774-6AEC6BDA7744}-0/image-block-splitter-960x1080-left" />
+            <r
+              uid="{B01035A6-24F3-4863-8E4B-4939B885A9C6}"
+              p:after="r[@uid='{E67D7AB7-550A-4CD2-9462-DA1A6321D2B3}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main-{9C4AFD2C-DAF1-457E-9774-6AEC6BDA7744}-0" />
+            <r
+              uid="{24171700-46EB-417C-ADE6-4A6D0BDE2D3A}"
+              p:after="r[@uid='{B01035A6-24F3-4863-8E4B-4939B885A9C6}']"
+              s:ds="{B8DF25EE-73D9-4D16-9A80-B864C06E2DCE}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{CFCBBA34-4149-4724-B613-070CFD2DA918}-0" />
+            <r
+              uid="{361DBE87-B926-4F53-97DE-8A386A83E02E}"
+              p:after="r[@uid='{24171700-46EB-417C-ADE6-4A6D0BDE2D3A}']"
+              s:ds="{98254880-2CA6-495C-A59A-EFC8D72BD818}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{CFCBBA34-4149-4724-B613-070CFD2DA918}-0" />
+            <r
+              uid="{BA077E75-780B-4654-A220-10E63520C582}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{83C96A38-D18A-4E35-9D8D-71F869B259F3}"
+              s:ds="{68903F16-467C-4C6B-8293-FE603988C0BD}" />
+            <r
+              uid="{C4ACEA35-73C2-4347-B325-2FC6FCDAAB8F}">
+              <p:d />
+            </r>
+            <r
+              uid="{E655A92B-3794-4099-AF60-076BAFA33189}">
+              <p:d />
+            </r>
+            <r
+              uid="{0D97EC48-A616-4503-81F3-8B0A22142C87}">
+              <p:d />
+            </r>
+            <r
+              uid="{1FD9ED8E-765E-4D75-AEB7-9C5643309FB1}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3E128BD-C527-476C-B850-4FF98996AE1F}">
+              <p:d />
+            </r>
+            <r
+              uid="{9E4C6427-3865-4F4C-AF91-EFDF6A58DA77}">
+              <p:d />
+            </r>
+            <r
+              uid="{ACAD23C8-9219-4D65-B38A-4537A73C4FE0}">
+              <p:d />
+            </r>
+            <r
+              uid="{FB4C5C8E-DF5F-4300-950E-536065A8707B}">
+              <p:d />
+            </r>
+            <r
+              uid="{2849CE03-88F2-4FBC-BAE4-0D1B29D7AEAA}">
+              <p:d />
+            </r>
+            <r
+              uid="{B5407315-4598-49BA-A716-8895E8E1539E}">
+              <p:d />
+            </r>
+            <r
+              uid="{35F5B041-CCEA-40B8-948D-6DE09851A28E}">
+              <p:d />
+            </r>
+            <r
+              uid="{98372559-FD25-4280-ACB5-1A99DFFB9090}"
+              p:after="r[@uid='{83C96A38-D18A-4E35-9D8D-71F869B259F3}']"
+              s:id="{F60303F6-09BF-456C-BCA8-CDCC7CDB4E14}"
+              s:ph="main" />
+            <r
+              uid="{CFCBBA34-4149-4724-B613-070CFD2DA918}"
+              p:after="r[@uid='{98372559-FD25-4280-ACB5-1A99DFFB9090}']"
+              s:id="{5266AC57-9C33-41AF-B32D-D935FB8DC1F3}"
+              s:ph="main" />
+            <r
+              uid="{6161E570-8CAA-4D66-B72B-0E44D4608151}"
+              p:after="r[@uid='{CFCBBA34-4149-4724-B613-070CFD2DA918}']"
+              s:ds="{E92433FD-882E-4E4F-8DA5-C09E64A89BB4}"
+              s:id="{D6F7B1A2-D9A1-4301-85D8-64731201F85B}"
+              s:ph="main" />
+            <r
+              uid="{A674D822-5097-447A-BA1C-30A38B2BD039}"
+              p:after="r[@uid='{6161E570-8CAA-4D66-B72B-0E44D4608151}']"
+              s:ds="{697B42FE-5C8F-4955-B12C-4F9883BA5035}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{6C74F550-0D77-45DE-9375-84199FD29DDD}"
+              p:after="r[@uid='{A674D822-5097-447A-BA1C-30A38B2BD039}']"
+              s:ds="{297C1569-CBB7-49D6-A03E-8457F950C23B}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{33210AA8-458C-4395-939D-6535D6FBF599}"
+              p:after="r[@uid='{6C74F550-0D77-45DE-9375-84199FD29DDD}']"
+              s:ds="{0D0FD7EF-1604-446B-ADF2-EFAB57C6048D}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{DF7F8D84-16DB-45B7-84CB-CDC446216059}"
+              p:after="r[@uid='{33210AA8-458C-4395-939D-6535D6FBF599}']"
+              s:ds="{74EA9870-96B3-40E8-882A-F4BC512E92C2}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{CDD3C1D7-50BE-45C6-9BDD-38D82D8F3E0B}"
+              p:after="r[@uid='{DF7F8D84-16DB-45B7-84CB-CDC446216059}']"
+              s:ds="{70DD1DDE-9A06-4DFB-A365-A2C0F55DF4B3}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{D4AC3387-5FE5-4E92-8A2A-AF0182FB470B}"
+              p:after="r[@uid='{CDD3C1D7-50BE-45C6-9BDD-38D82D8F3E0B}']"
+              s:ds="{DEC6DF5C-1154-4794-B21A-8F897ED7DEDA}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{5D1EFC18-1191-47A1-8C32-053C80A2B277}"
+              p:after="r[@uid='{D4AC3387-5FE5-4E92-8A2A-AF0182FB470B}']"
+              s:ds="{3DD42F81-0B2B-429C-8EA6-2F9BF458042B}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{E57AA2AF-A48E-4247-A98E-F124070C6306}"
+              p:after="r[@uid='{5D1EFC18-1191-47A1-8C32-053C80A2B277}']"
+              s:ds="{56FA2F95-942E-4859-A446-C3FD02EA1069}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{99B4E79C-EEB8-49BC-8779-24C4AD0CF113}">
+              <p:d />
+            </r>
+            <r
+              uid="{CDF8E396-F69A-48ED-A6DB-B665BD98B242}">
+              <p:d />
+            </r>
+            <r
+              uid="{3ADDDF2A-6C4B-4473-ACB2-EADC8ABD6475}"
+              s:ds="{04A87825-EF8D-4998-877A-4F9780098984}" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Fleet Care
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>NOV’s global Fleet Care program delivers a suite of maintenance, parts, and engineering services that minimize downtime and maximize asset value.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Fleet Care
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190822T184036Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Fleet Care
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Fleet Care
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joannazhu
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Fleet Care
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6a75645d-3d3e-44ff-ae76-58353ca6d6de"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\joannazhu
+    - ID: "bcfd3e35-8ec5-4ba4-b22f-00669ef4d2d5"
+      Hint: Publish Date
+      Value: 20190725T150000Z
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: NOV’s global Fleet Care program delivers a suite of maintenance, parts, and engineering services that minimize downtime and maximize asset value.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190822T184036Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{552F6E66-1B6E-4C5D-B80E-DD9A32A00590}" cropregion="0,87,1920,1191" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190822T184129Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{552F6E66-1B6E-4C5D-B80E-DD9A32A00590}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 5
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{165B41A3-9A1A-410A-A92E-7E89C8E63789}"
+              p:before="*"
+              s:ds="{8E646520-6448-4337-84CD-EAA6C72E9B0C}"
+              s:id="{703C4FCC-55FD-48C3-8F29-1B196484B61C}"
+              s:ph="/main/product-tabs-container-{98372559-FD25-4280-ACB5-1A99DFFB9090}-0/product-tab-content-{AAA2CBFC-D6E0-46BB-8611-10B34A8CB9E4}-0" />
+            <r
+              uid="{03059D00-D72A-4305-B3DA-CA86814F37C5}"
+              p:after="r[@uid='{165B41A3-9A1A-410A-A92E-7E89C8E63789}']"
+              s:ds="{708C9408-40B3-43EC-AD7D-B6EFE3F1711E}"
+              s:id="{541C8841-7802-4878-BBC4-5B3AC533A4BA}"
+              s:ph="/main/product-tabs-container-{98372559-FD25-4280-ACB5-1A99DFFB9090}-0/product-tab-content-{27DBA568-DB2E-483D-AAA2-30F1E5766DAD}-0" />
+            <r
+              uid="{27DBA568-DB2E-483D-AAA2-30F1E5766DAD}"
+              p:after="r[@uid='{03059D00-D72A-4305-B3DA-CA86814F37C5}']"
+              s:ds="{79FD46F2-A4A0-4A13-839A-714FCDEDA1DA}"
+              s:id="{CABE2E45-C5EB-4990-AD19-E203DFF43BE7}"
+              s:ph="/main/product-tabs-container-{98372559-FD25-4280-ACB5-1A99DFFB9090}-0" />
+            <r
+              uid="{AAA2CBFC-D6E0-46BB-8611-10B34A8CB9E4}"
+              p:after="r[@uid='{27DBA568-DB2E-483D-AAA2-30F1E5766DAD}']"
+              s:ds="{00AD0746-5845-4827-9258-FA455DDDEDBB}"
+              s:id="{CABE2E45-C5EB-4990-AD19-E203DFF43BE7}"
+              s:ph="/main/product-tabs-container-{98372559-FD25-4280-ACB5-1A99DFFB9090}-0" />
+            <r
+              uid="{2AF72778-CD10-4507-B1DC-3A22E90EE6FA}"
+              p:after="r[@uid='{AAA2CBFC-D6E0-46BB-8611-10B34A8CB9E4}']"
+              s:ds="{76CC994D-167F-412A-9527-EBD136548EF8}"
+              s:id="{EA2AC21A-A652-4FD4-9F5D-4F9EB4322B26}"
+              s:ph="/main/image-block-main-{9C4AFD2C-DAF1-457E-9774-6AEC6BDA7744}-0/image-block-splitter-960x1080-right" />
+            <r
+              uid="{E67D7AB7-550A-4CD2-9462-DA1A6321D2B3}"
+              p:after="r[@uid='{2AF72778-CD10-4507-B1DC-3A22E90EE6FA}']"
+              s:ds="{420CF68F-71EA-4ABB-A5DC-D6B1AA5E744C}"
+              s:id="{EA2AC21A-A652-4FD4-9F5D-4F9EB4322B26}"
+              s:ph="/main/image-block-main-{9C4AFD2C-DAF1-457E-9774-6AEC6BDA7744}-0/image-block-splitter-960x1080-left" />
+            <r
+              uid="{B01035A6-24F3-4863-8E4B-4939B885A9C6}"
+              p:after="r[@uid='{E67D7AB7-550A-4CD2-9462-DA1A6321D2B3}']"
+              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
+              s:ph="/main/image-block-main-{9C4AFD2C-DAF1-457E-9774-6AEC6BDA7744}-0" />
+            <r
+              uid="{24171700-46EB-417C-ADE6-4A6D0BDE2D3A}"
+              p:after="r[@uid='{B01035A6-24F3-4863-8E4B-4939B885A9C6}']"
+              s:ds="{B8DF25EE-73D9-4D16-9A80-B864C06E2DCE}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{CFCBBA34-4149-4724-B613-070CFD2DA918}-0" />
+            <r
+              uid="{361DBE87-B926-4F53-97DE-8A386A83E02E}"
+              p:after="r[@uid='{24171700-46EB-417C-ADE6-4A6D0BDE2D3A}']"
+              s:ds="{98254880-2CA6-495C-A59A-EFC8D72BD818}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{CFCBBA34-4149-4724-B613-070CFD2DA918}-0" />
+            <r
+              uid="{BA077E75-780B-4654-A220-10E63520C582}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{83C96A38-D18A-4E35-9D8D-71F869B259F3}"
+              s:ds="{68903F16-467C-4C6B-8293-FE603988C0BD}" />
+            <r
+              uid="{C4ACEA35-73C2-4347-B325-2FC6FCDAAB8F}">
+              <p:d />
+            </r>
+            <r
+              uid="{E655A92B-3794-4099-AF60-076BAFA33189}">
+              <p:d />
+            </r>
+            <r
+              uid="{0D97EC48-A616-4503-81F3-8B0A22142C87}">
+              <p:d />
+            </r>
+            <r
+              uid="{1FD9ED8E-765E-4D75-AEB7-9C5643309FB1}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3E128BD-C527-476C-B850-4FF98996AE1F}">
+              <p:d />
+            </r>
+            <r
+              uid="{9E4C6427-3865-4F4C-AF91-EFDF6A58DA77}">
+              <p:d />
+            </r>
+            <r
+              uid="{ACAD23C8-9219-4D65-B38A-4537A73C4FE0}">
+              <p:d />
+            </r>
+            <r
+              uid="{FB4C5C8E-DF5F-4300-950E-536065A8707B}">
+              <p:d />
+            </r>
+            <r
+              uid="{98372559-FD25-4280-ACB5-1A99DFFB9090}"
+              p:after="r[@uid='{83C96A38-D18A-4E35-9D8D-71F869B259F3}']"
+              s:id="{F60303F6-09BF-456C-BCA8-CDCC7CDB4E14}"
+              s:ph="main" />
+            <r
+              uid="{6C74F550-0D77-45DE-9375-84199FD29DDD}"
+              p:after="r[@uid='{98372559-FD25-4280-ACB5-1A99DFFB9090}']"
+              s:ds="{297C1569-CBB7-49D6-A03E-8457F950C23B}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{33210AA8-458C-4395-939D-6535D6FBF599}"
+              p:after="r[@uid='{6C74F550-0D77-45DE-9375-84199FD29DDD}']"
+              s:ds="{0D0FD7EF-1604-446B-ADF2-EFAB57C6048D}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{DF7F8D84-16DB-45B7-84CB-CDC446216059}"
+              p:after="r[@uid='{33210AA8-458C-4395-939D-6535D6FBF599}']"
+              s:ds="{74EA9870-96B3-40E8-882A-F4BC512E92C2}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{CDD3C1D7-50BE-45C6-9BDD-38D82D8F3E0B}"
+              p:after="r[@uid='{DF7F8D84-16DB-45B7-84CB-CDC446216059}']"
+              s:ds="{70DD1DDE-9A06-4DFB-A365-A2C0F55DF4B3}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{D4AC3387-5FE5-4E92-8A2A-AF0182FB470B}"
+              p:after="r[@uid='{CDD3C1D7-50BE-45C6-9BDD-38D82D8F3E0B}']"
+              s:ds="{DEC6DF5C-1154-4794-B21A-8F897ED7DEDA}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{5D1EFC18-1191-47A1-8C32-053C80A2B277}"
+              p:after="r[@uid='{D4AC3387-5FE5-4E92-8A2A-AF0182FB470B}']"
+              s:ds="{3DD42F81-0B2B-429C-8EA6-2F9BF458042B}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{E57AA2AF-A48E-4247-A98E-F124070C6306}"
+              p:after="r[@uid='{5D1EFC18-1191-47A1-8C32-053C80A2B277}']"
+              s:ds="{56FA2F95-942E-4859-A446-C3FD02EA1069}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{2849CE03-88F2-4FBC-BAE4-0D1B29D7AEAA}">
+              <p:d />
+            </r>
+            <r
+              uid="{B5407315-4598-49BA-A716-8895E8E1539E}">
+              <p:d />
+            </r>
+            <r
+              uid="{35F5B041-CCEA-40B8-948D-6DE09851A28E}">
+              <p:d />
+            </r>
+            <r
+              uid="{99B4E79C-EEB8-49BC-8779-24C4AD0CF113}">
+              <p:d />
+            </r>
+            <r
+              uid="{CDF8E396-F69A-48ED-A6DB-B665BD98B242}">
+              <p:d />
+            </r>
+            <r
+              uid="{3ADDDF2A-6C4B-4473-ACB2-EADC8ABD6475}"
+              s:ds="{04A87825-EF8D-4998-877A-4F9780098984}" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Fleet Care
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>NOV’s commitment to caring for your fleet is unmatched, offering the industry's most comprehensive suite of services that includes 24/7 technical support, spare parts, field service, repair, training, rentals, exchanges, upgrades, and project management.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Fleet Care
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190830T142459Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Fleet Care
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Fleet Care
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joannazhu
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Fleet Care
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d316831e-3667-4143-a64c-6e9c9a1d37ca"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\joannazhu
+    - ID: "bcfd3e35-8ec5-4ba4-b22f-00669ef4d2d5"
+      Hint: Publish Date
+      Value: 20190725T150000Z
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: NOV’s commitment to caring for your fleet is unmatched, offering the industry's most comprehensive suite of services that includes 24/7 technical support, spare parts, field service, repair, training, rentals, exchanges, upgrades, and project management.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190830T142459Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{552F6E66-1B6E-4C5D-B80E-DD9A32A00590}" cropregion="0,87,1920,1191" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190830T151610Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{552F6E66-1B6E-4C5D-B80E-DD9A32A00590}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 6
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{165B41A3-9A1A-410A-A92E-7E89C8E63789}"
+              p:before="*"
+              s:ds="{8E646520-6448-4337-84CD-EAA6C72E9B0C}"
+              s:id="{703C4FCC-55FD-48C3-8F29-1B196484B61C}"
+              s:ph="/main/product-tabs-container-{98372559-FD25-4280-ACB5-1A99DFFB9090}-0/product-tab-content-{AAA2CBFC-D6E0-46BB-8611-10B34A8CB9E4}-0" />
+            <r
+              uid="{03059D00-D72A-4305-B3DA-CA86814F37C5}"
+              p:after="r[@uid='{165B41A3-9A1A-410A-A92E-7E89C8E63789}']"
+              s:ds="{708C9408-40B3-43EC-AD7D-B6EFE3F1711E}"
+              s:id="{541C8841-7802-4878-BBC4-5B3AC533A4BA}"
+              s:ph="/main/product-tabs-container-{98372559-FD25-4280-ACB5-1A99DFFB9090}-0/product-tab-content-{27DBA568-DB2E-483D-AAA2-30F1E5766DAD}-0" />
+            <r
+              uid="{27DBA568-DB2E-483D-AAA2-30F1E5766DAD}"
+              p:after="r[@uid='{03059D00-D72A-4305-B3DA-CA86814F37C5}']"
+              s:ds="{79FD46F2-A4A0-4A13-839A-714FCDEDA1DA}"
+              s:id="{CABE2E45-C5EB-4990-AD19-E203DFF43BE7}"
+              s:ph="/main/product-tabs-container-{98372559-FD25-4280-ACB5-1A99DFFB9090}-0" />
+            <r
+              uid="{AAA2CBFC-D6E0-46BB-8611-10B34A8CB9E4}"
+              p:after="r[@uid='{27DBA568-DB2E-483D-AAA2-30F1E5766DAD}']"
+              s:ds="{00AD0746-5845-4827-9258-FA455DDDEDBB}"
+              s:id="{CABE2E45-C5EB-4990-AD19-E203DFF43BE7}"
+              s:ph="/main/product-tabs-container-{98372559-FD25-4280-ACB5-1A99DFFB9090}-0" />
+            <r
+              uid="{24171700-46EB-417C-ADE6-4A6D0BDE2D3A}"
+              p:after="r[@uid='{AAA2CBFC-D6E0-46BB-8611-10B34A8CB9E4}']"
+              s:ds="{B8DF25EE-73D9-4D16-9A80-B864C06E2DCE}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{CFCBBA34-4149-4724-B613-070CFD2DA918}-0" />
+            <r
+              uid="{361DBE87-B926-4F53-97DE-8A386A83E02E}"
+              p:after="r[@uid='{24171700-46EB-417C-ADE6-4A6D0BDE2D3A}']"
+              s:ds="{98254880-2CA6-495C-A59A-EFC8D72BD818}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{CFCBBA34-4149-4724-B613-070CFD2DA918}-0" />
+            <r
+              uid="{BA077E75-780B-4654-A220-10E63520C582}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{83C96A38-D18A-4E35-9D8D-71F869B259F3}"
+              s:ds="{68903F16-467C-4C6B-8293-FE603988C0BD}" />
+            <r
+              uid="{C4ACEA35-73C2-4347-B325-2FC6FCDAAB8F}">
+              <p:d />
+            </r>
+            <r
+              uid="{E655A92B-3794-4099-AF60-076BAFA33189}">
+              <p:d />
+            </r>
+            <r
+              uid="{0D97EC48-A616-4503-81F3-8B0A22142C87}">
+              <p:d />
+            </r>
+            <r
+              uid="{1FD9ED8E-765E-4D75-AEB7-9C5643309FB1}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3E128BD-C527-476C-B850-4FF98996AE1F}">
+              <p:d />
+            </r>
+            <r
+              uid="{9E4C6427-3865-4F4C-AF91-EFDF6A58DA77}">
+              <p:d />
+            </r>
+            <r
+              uid="{ACAD23C8-9219-4D65-B38A-4537A73C4FE0}">
+              <p:d />
+            </r>
+            <r
+              uid="{FB4C5C8E-DF5F-4300-950E-536065A8707B}">
+              <p:d />
+            </r>
+            <r
+              uid="{98372559-FD25-4280-ACB5-1A99DFFB9090}"
+              p:after="r[@uid='{83C96A38-D18A-4E35-9D8D-71F869B259F3}']"
+              s:id="{F60303F6-09BF-456C-BCA8-CDCC7CDB4E14}"
+              s:ph="main" />
+            <r
+              uid="{6C74F550-0D77-45DE-9375-84199FD29DDD}"
+              p:after="r[@uid='{98372559-FD25-4280-ACB5-1A99DFFB9090}']"
+              s:ds="{297C1569-CBB7-49D6-A03E-8457F950C23B}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{33210AA8-458C-4395-939D-6535D6FBF599}"
+              p:after="r[@uid='{6C74F550-0D77-45DE-9375-84199FD29DDD}']"
+              s:ds="{0D0FD7EF-1604-446B-ADF2-EFAB57C6048D}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{DF7F8D84-16DB-45B7-84CB-CDC446216059}"
+              p:after="r[@uid='{33210AA8-458C-4395-939D-6535D6FBF599}']"
+              s:ds="{74EA9870-96B3-40E8-882A-F4BC512E92C2}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{CDD3C1D7-50BE-45C6-9BDD-38D82D8F3E0B}"
+              p:after="r[@uid='{DF7F8D84-16DB-45B7-84CB-CDC446216059}']"
+              s:ds="{70DD1DDE-9A06-4DFB-A365-A2C0F55DF4B3}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{D4AC3387-5FE5-4E92-8A2A-AF0182FB470B}"
+              p:after="r[@uid='{CDD3C1D7-50BE-45C6-9BDD-38D82D8F3E0B}']"
+              s:ds="{DEC6DF5C-1154-4794-B21A-8F897ED7DEDA}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{5D1EFC18-1191-47A1-8C32-053C80A2B277}"
+              p:after="r[@uid='{D4AC3387-5FE5-4E92-8A2A-AF0182FB470B}']"
+              s:ds="{3DD42F81-0B2B-429C-8EA6-2F9BF458042B}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{E57AA2AF-A48E-4247-A98E-F124070C6306}"
+              p:after="r[@uid='{5D1EFC18-1191-47A1-8C32-053C80A2B277}']"
+              s:ds="{56FA2F95-942E-4859-A446-C3FD02EA1069}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{2849CE03-88F2-4FBC-BAE4-0D1B29D7AEAA}">
+              <p:d />
+            </r>
+            <r
+              uid="{B5407315-4598-49BA-A716-8895E8E1539E}">
+              <p:d />
+            </r>
+            <r
+              uid="{35F5B041-CCEA-40B8-948D-6DE09851A28E}">
+              <p:d />
+            </r>
+            <r
+              uid="{99B4E79C-EEB8-49BC-8779-24C4AD0CF113}">
+              <p:d />
+            </r>
+            <r
+              uid="{CDF8E396-F69A-48ED-A6DB-B665BD98B242}">
+              <p:d />
+            </r>
+            <r
+              uid="{3ADDDF2A-6C4B-4473-ACB2-EADC8ABD6475}"
+              s:ds="{04A87825-EF8D-4998-877A-4F9780098984}" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Fleet Care
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>NOV’s commitment to caring for your fleet is unmatched, offering the industry's most comprehensive suite of services that includes 24/7 technical support, spare parts, field service, repair, training, rentals, exchanges, upgrades, and project management.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Fleet Care
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190904T165429Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Fleet Care
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Fleet Care
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Fleet Care
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5ac7957a-b287-4479-89f8-dcff1442cc62"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "bcfd3e35-8ec5-4ba4-b22f-00669ef4d2d5"
+      Hint: Publish Date
+      Value: 20190725T150000Z
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: NOV’s commitment to caring for your fleet is unmatched, offering the industry's most comprehensive suite of services that includes 24/7 technical support, spare parts, field service, repair, training, rentals, exchanges, upgrades, and project management.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190904T165429Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{552F6E66-1B6E-4C5D-B80E-DD9A32A00590}" cropregion="0,87,1920,1191" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190904T165806Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{552F6E66-1B6E-4C5D-B80E-DD9A32A00590}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 7
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{165B41A3-9A1A-410A-A92E-7E89C8E63789}"
+              p:before="*"
+              s:ds="{8E646520-6448-4337-84CD-EAA6C72E9B0C}"
+              s:id="{703C4FCC-55FD-48C3-8F29-1B196484B61C}"
+              s:ph="/main/product-tabs-container-{98372559-FD25-4280-ACB5-1A99DFFB9090}-0/product-tab-content-{AAA2CBFC-D6E0-46BB-8611-10B34A8CB9E4}-0" />
+            <r
+              uid="{03059D00-D72A-4305-B3DA-CA86814F37C5}"
+              p:after="r[@uid='{165B41A3-9A1A-410A-A92E-7E89C8E63789}']"
+              s:ds="{708C9408-40B3-43EC-AD7D-B6EFE3F1711E}"
+              s:id="{541C8841-7802-4878-BBC4-5B3AC533A4BA}"
+              s:ph="/main/product-tabs-container-{98372559-FD25-4280-ACB5-1A99DFFB9090}-0/product-tab-content-{27DBA568-DB2E-483D-AAA2-30F1E5766DAD}-0" />
+            <r
+              uid="{27DBA568-DB2E-483D-AAA2-30F1E5766DAD}"
+              p:after="r[@uid='{03059D00-D72A-4305-B3DA-CA86814F37C5}']"
+              s:ds="{79FD46F2-A4A0-4A13-839A-714FCDEDA1DA}"
+              s:id="{CABE2E45-C5EB-4990-AD19-E203DFF43BE7}"
+              s:ph="/main/product-tabs-container-{98372559-FD25-4280-ACB5-1A99DFFB9090}-0" />
+            <r
+              uid="{AAA2CBFC-D6E0-46BB-8611-10B34A8CB9E4}"
+              p:after="r[@uid='{27DBA568-DB2E-483D-AAA2-30F1E5766DAD}']"
+              s:ds="{00AD0746-5845-4827-9258-FA455DDDEDBB}"
+              s:id="{CABE2E45-C5EB-4990-AD19-E203DFF43BE7}"
+              s:ph="/main/product-tabs-container-{98372559-FD25-4280-ACB5-1A99DFFB9090}-0" />
+            <r
+              uid="{24171700-46EB-417C-ADE6-4A6D0BDE2D3A}"
+              p:after="r[@uid='{AAA2CBFC-D6E0-46BB-8611-10B34A8CB9E4}']"
+              s:ds="{B8DF25EE-73D9-4D16-9A80-B864C06E2DCE}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{CFCBBA34-4149-4724-B613-070CFD2DA918}-0" />
+            <r
+              uid="{361DBE87-B926-4F53-97DE-8A386A83E02E}"
+              p:after="r[@uid='{24171700-46EB-417C-ADE6-4A6D0BDE2D3A}']"
+              s:ds="{98254880-2CA6-495C-A59A-EFC8D72BD818}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{CFCBBA34-4149-4724-B613-070CFD2DA918}-0" />
+            <r
+              uid="{BA077E75-780B-4654-A220-10E63520C582}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{83C96A38-D18A-4E35-9D8D-71F869B259F3}"
+              s:ds="{68903F16-467C-4C6B-8293-FE603988C0BD}" />
+            <r
+              uid="{C4ACEA35-73C2-4347-B325-2FC6FCDAAB8F}">
+              <p:d />
+            </r>
+            <r
+              uid="{E655A92B-3794-4099-AF60-076BAFA33189}">
+              <p:d />
+            </r>
+            <r
+              uid="{0D97EC48-A616-4503-81F3-8B0A22142C87}">
+              <p:d />
+            </r>
+            <r
+              uid="{1FD9ED8E-765E-4D75-AEB7-9C5643309FB1}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3E128BD-C527-476C-B850-4FF98996AE1F}">
+              <p:d />
+            </r>
+            <r
+              uid="{9E4C6427-3865-4F4C-AF91-EFDF6A58DA77}">
+              <p:d />
+            </r>
+            <r
+              uid="{ACAD23C8-9219-4D65-B38A-4537A73C4FE0}">
+              <p:d />
+            </r>
+            <r
+              uid="{FB4C5C8E-DF5F-4300-950E-536065A8707B}">
+              <p:d />
+            </r>
+            <r
+              uid="{98372559-FD25-4280-ACB5-1A99DFFB9090}"
+              p:after="r[@uid='{83C96A38-D18A-4E35-9D8D-71F869B259F3}']"
+              s:id="{F60303F6-09BF-456C-BCA8-CDCC7CDB4E14}"
+              s:ph="main" />
+            <r
+              uid="{6C74F550-0D77-45DE-9375-84199FD29DDD}"
+              p:after="r[@uid='{98372559-FD25-4280-ACB5-1A99DFFB9090}']"
+              s:ds="{297C1569-CBB7-49D6-A03E-8457F950C23B}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{33210AA8-458C-4395-939D-6535D6FBF599}"
+              p:after="r[@uid='{6C74F550-0D77-45DE-9375-84199FD29DDD}']"
+              s:ds="{0D0FD7EF-1604-446B-ADF2-EFAB57C6048D}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{DF7F8D84-16DB-45B7-84CB-CDC446216059}"
+              p:after="r[@uid='{33210AA8-458C-4395-939D-6535D6FBF599}']"
+              s:ds="{74EA9870-96B3-40E8-882A-F4BC512E92C2}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{CDD3C1D7-50BE-45C6-9BDD-38D82D8F3E0B}"
+              p:after="r[@uid='{DF7F8D84-16DB-45B7-84CB-CDC446216059}']"
+              s:ds="{70DD1DDE-9A06-4DFB-A365-A2C0F55DF4B3}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{D4AC3387-5FE5-4E92-8A2A-AF0182FB470B}"
+              p:after="r[@uid='{CDD3C1D7-50BE-45C6-9BDD-38D82D8F3E0B}']"
+              s:ds="{DEC6DF5C-1154-4794-B21A-8F897ED7DEDA}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{5D1EFC18-1191-47A1-8C32-053C80A2B277}"
+              p:after="r[@uid='{D4AC3387-5FE5-4E92-8A2A-AF0182FB470B}']"
+              s:ds="{3DD42F81-0B2B-429C-8EA6-2F9BF458042B}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{E57AA2AF-A48E-4247-A98E-F124070C6306}"
+              p:after="r[@uid='{5D1EFC18-1191-47A1-8C32-053C80A2B277}']"
+              s:ds="{56FA2F95-942E-4859-A446-C3FD02EA1069}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{2849CE03-88F2-4FBC-BAE4-0D1B29D7AEAA}">
+              <p:d />
+            </r>
+            <r
+              uid="{B5407315-4598-49BA-A716-8895E8E1539E}">
+              <p:d />
+            </r>
+            <r
+              uid="{35F5B041-CCEA-40B8-948D-6DE09851A28E}">
+              <p:d />
+            </r>
+            <r
+              uid="{99B4E79C-EEB8-49BC-8779-24C4AD0CF113}">
+              <p:d />
+            </r>
+            <r
+              uid="{CDF8E396-F69A-48ED-A6DB-B665BD98B242}">
+              <p:d />
+            </r>
+            <r
+              uid="{3ADDDF2A-6C4B-4473-ACB2-EADC8ABD6475}"
+              s:ds="{04A87825-EF8D-4998-877A-4F9780098984}" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Fleet Care
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>NOV’s commitment to caring for your fleet is unmatched, offering the industry's most comprehensive suite of services that includes 24/7 technical support, spare parts, field service, repair, training, rentals, exchanges, upgrades, and project management.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Fleet Care
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190906T155414Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Fleet Care
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Fleet Care
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Fleet Care
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "eee80fd1-12ea-4580-8793-55fd2929bc05"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "bcfd3e35-8ec5-4ba4-b22f-00669ef4d2d5"
+      Hint: Publish Date
+      Value: 20190725T150000Z
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: NOV’s commitment to caring for your fleet is unmatched, offering the industry's most comprehensive suite of services that includes 24/7 technical support, spare parts, field service, repair, training, rentals, exchanges, upgrades, and project management.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190906T155414Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{FF496984-E10A-4036-8668-89B313B6C356}" cropregion="0,87,1920,1191" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190909T164035Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{FF496984-E10A-4036-8668-89B313B6C356}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 8
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{165B41A3-9A1A-410A-A92E-7E89C8E63789}"
+              p:before="*"
+              s:ds="{8E646520-6448-4337-84CD-EAA6C72E9B0C}"
+              s:id="{703C4FCC-55FD-48C3-8F29-1B196484B61C}"
+              s:ph="/main/product-tabs-container-{98372559-FD25-4280-ACB5-1A99DFFB9090}-0/product-tab-content-{AAA2CBFC-D6E0-46BB-8611-10B34A8CB9E4}-0" />
+            <r
+              uid="{03059D00-D72A-4305-B3DA-CA86814F37C5}"
+              p:after="r[@uid='{165B41A3-9A1A-410A-A92E-7E89C8E63789}']"
+              s:ds="{708C9408-40B3-43EC-AD7D-B6EFE3F1711E}"
+              s:id="{541C8841-7802-4878-BBC4-5B3AC533A4BA}"
+              s:ph="/main/product-tabs-container-{98372559-FD25-4280-ACB5-1A99DFFB9090}-0/product-tab-content-{27DBA568-DB2E-483D-AAA2-30F1E5766DAD}-0" />
+            <r
+              uid="{27DBA568-DB2E-483D-AAA2-30F1E5766DAD}"
+              p:after="r[@uid='{03059D00-D72A-4305-B3DA-CA86814F37C5}']"
+              s:ds="{79FD46F2-A4A0-4A13-839A-714FCDEDA1DA}"
+              s:id="{CABE2E45-C5EB-4990-AD19-E203DFF43BE7}"
+              s:ph="/main/product-tabs-container-{98372559-FD25-4280-ACB5-1A99DFFB9090}-0" />
+            <r
+              uid="{AAA2CBFC-D6E0-46BB-8611-10B34A8CB9E4}"
+              p:after="r[@uid='{27DBA568-DB2E-483D-AAA2-30F1E5766DAD}']"
+              s:ds="{00AD0746-5845-4827-9258-FA455DDDEDBB}"
+              s:id="{CABE2E45-C5EB-4990-AD19-E203DFF43BE7}"
+              s:ph="/main/product-tabs-container-{98372559-FD25-4280-ACB5-1A99DFFB9090}-0" />
+            <r
+              uid="{24171700-46EB-417C-ADE6-4A6D0BDE2D3A}"
+              p:after="r[@uid='{AAA2CBFC-D6E0-46BB-8611-10B34A8CB9E4}']"
+              s:ds="{B8DF25EE-73D9-4D16-9A80-B864C06E2DCE}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{CFCBBA34-4149-4724-B613-070CFD2DA918}-0" />
+            <r
+              uid="{361DBE87-B926-4F53-97DE-8A386A83E02E}"
+              p:after="r[@uid='{24171700-46EB-417C-ADE6-4A6D0BDE2D3A}']"
+              s:ds="{98254880-2CA6-495C-A59A-EFC8D72BD818}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{CFCBBA34-4149-4724-B613-070CFD2DA918}-0" />
+            <r
+              uid="{BA077E75-780B-4654-A220-10E63520C582}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{83C96A38-D18A-4E35-9D8D-71F869B259F3}"
+              s:ds="{68903F16-467C-4C6B-8293-FE603988C0BD}" />
+            <r
+              uid="{C4ACEA35-73C2-4347-B325-2FC6FCDAAB8F}">
+              <p:d />
+            </r>
+            <r
+              uid="{E655A92B-3794-4099-AF60-076BAFA33189}">
+              <p:d />
+            </r>
+            <r
+              uid="{0D97EC48-A616-4503-81F3-8B0A22142C87}">
+              <p:d />
+            </r>
+            <r
+              uid="{1FD9ED8E-765E-4D75-AEB7-9C5643309FB1}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3E128BD-C527-476C-B850-4FF98996AE1F}">
+              <p:d />
+            </r>
+            <r
+              uid="{9E4C6427-3865-4F4C-AF91-EFDF6A58DA77}">
+              <p:d />
+            </r>
+            <r
+              uid="{ACAD23C8-9219-4D65-B38A-4537A73C4FE0}">
+              <p:d />
+            </r>
+            <r
+              uid="{FB4C5C8E-DF5F-4300-950E-536065A8707B}">
+              <p:d />
+            </r>
+            <r
+              uid="{2849CE03-88F2-4FBC-BAE4-0D1B29D7AEAA}">
+              <p:d />
+            </r>
+            <r
+              uid="{98372559-FD25-4280-ACB5-1A99DFFB9090}"
+              p:after="r[@uid='{83C96A38-D18A-4E35-9D8D-71F869B259F3}']"
+              s:id="{F60303F6-09BF-456C-BCA8-CDCC7CDB4E14}"
+              s:ph="main" />
+            <r
+              uid="{6C74F550-0D77-45DE-9375-84199FD29DDD}"
+              p:after="r[@uid='{98372559-FD25-4280-ACB5-1A99DFFB9090}']"
+              s:ds="{297C1569-CBB7-49D6-A03E-8457F950C23B}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{33210AA8-458C-4395-939D-6535D6FBF599}"
+              p:after="r[@uid='{6C74F550-0D77-45DE-9375-84199FD29DDD}']"
+              s:ds="{0D0FD7EF-1604-446B-ADF2-EFAB57C6048D}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{DF7F8D84-16DB-45B7-84CB-CDC446216059}"
+              p:after="r[@uid='{33210AA8-458C-4395-939D-6535D6FBF599}']"
+              s:ds="{74EA9870-96B3-40E8-882A-F4BC512E92C2}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{CDD3C1D7-50BE-45C6-9BDD-38D82D8F3E0B}"
+              p:after="r[@uid='{DF7F8D84-16DB-45B7-84CB-CDC446216059}']"
+              s:ds="{70DD1DDE-9A06-4DFB-A365-A2C0F55DF4B3}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{D4AC3387-5FE5-4E92-8A2A-AF0182FB470B}"
+              p:after="r[@uid='{CDD3C1D7-50BE-45C6-9BDD-38D82D8F3E0B}']"
+              s:ds="{DEC6DF5C-1154-4794-B21A-8F897ED7DEDA}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{5D1EFC18-1191-47A1-8C32-053C80A2B277}"
+              p:after="r[@uid='{D4AC3387-5FE5-4E92-8A2A-AF0182FB470B}']"
+              s:ds="{3DD42F81-0B2B-429C-8EA6-2F9BF458042B}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{E57AA2AF-A48E-4247-A98E-F124070C6306}"
+              p:after="r[@uid='{5D1EFC18-1191-47A1-8C32-053C80A2B277}']"
+              s:ds="{56FA2F95-942E-4859-A446-C3FD02EA1069}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{A627AA65-6BCA-423F-953A-0EB2D0863138}"
+              p:after="r[@uid='{E57AA2AF-A48E-4247-A98E-F124070C6306}']"
+              s:ds="{965B9D03-A381-4855-A551-8022F4E17A58}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{B5407315-4598-49BA-A716-8895E8E1539E}">
+              <p:d />
+            </r>
+            <r
+              uid="{35F5B041-CCEA-40B8-948D-6DE09851A28E}">
+              <p:d />
+            </r>
+            <r
+              uid="{99B4E79C-EEB8-49BC-8779-24C4AD0CF113}">
+              <p:d />
+            </r>
+            <r
+              uid="{CDF8E396-F69A-48ED-A6DB-B665BD98B242}">
+              <p:d />
+            </r>
+            <r
+              uid="{3ADDDF2A-6C4B-4473-ACB2-EADC8ABD6475}"
+              s:ds="{04A87825-EF8D-4998-877A-4F9780098984}" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Fleet Care
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>NOV’s commitment to caring for your fleet is unmatched, offering the industry's most comprehensive suite of services that includes 24/7 technical support, spare parts, field service, repair, training, rentals, exchanges, upgrades, and project management.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Fleet Care
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190923T190017Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Fleet Care
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Fleet Care
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Fleet Care
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "395db443-5fa2-48d9-8260-e00e0b5e2c23"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "bcfd3e35-8ec5-4ba4-b22f-00669ef4d2d5"
+      Hint: Publish Date
+      Value: 20190725T150000Z
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: NOV’s commitment to caring for your fleet is unmatched, offering the industry's most comprehensive suite of services that includes 24/7 technical support, spare parts, field service, repair, training, rentals, exchanges, upgrades, and project management.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190923T190017Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{FF496984-E10A-4036-8668-89B313B6C356}" cropregion="0,87,1920,1191" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190927T200445Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{FF496984-E10A-4036-8668-89B313B6C356}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 9
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{165B41A3-9A1A-410A-A92E-7E89C8E63789}"
+              p:before="*"
+              s:ds="{8E646520-6448-4337-84CD-EAA6C72E9B0C}"
+              s:id="{703C4FCC-55FD-48C3-8F29-1B196484B61C}"
+              s:ph="/main/product-tabs-container-{98372559-FD25-4280-ACB5-1A99DFFB9090}-0/product-tab-content-{AAA2CBFC-D6E0-46BB-8611-10B34A8CB9E4}-0" />
+            <r
+              uid="{03059D00-D72A-4305-B3DA-CA86814F37C5}"
+              p:after="r[@uid='{165B41A3-9A1A-410A-A92E-7E89C8E63789}']"
+              s:ds="{708C9408-40B3-43EC-AD7D-B6EFE3F1711E}"
+              s:id="{541C8841-7802-4878-BBC4-5B3AC533A4BA}"
+              s:ph="/main/product-tabs-container-{98372559-FD25-4280-ACB5-1A99DFFB9090}-0/product-tab-content-{27DBA568-DB2E-483D-AAA2-30F1E5766DAD}-0" />
+            <r
+              uid="{27DBA568-DB2E-483D-AAA2-30F1E5766DAD}"
+              p:after="r[@uid='{03059D00-D72A-4305-B3DA-CA86814F37C5}']"
+              s:ds="{79FD46F2-A4A0-4A13-839A-714FCDEDA1DA}"
+              s:id="{CABE2E45-C5EB-4990-AD19-E203DFF43BE7}"
+              s:ph="/main/product-tabs-container-{98372559-FD25-4280-ACB5-1A99DFFB9090}-0" />
+            <r
+              uid="{AAA2CBFC-D6E0-46BB-8611-10B34A8CB9E4}"
+              p:after="r[@uid='{27DBA568-DB2E-483D-AAA2-30F1E5766DAD}']"
+              s:ds="{00AD0746-5845-4827-9258-FA455DDDEDBB}"
+              s:id="{CABE2E45-C5EB-4990-AD19-E203DFF43BE7}"
+              s:ph="/main/product-tabs-container-{98372559-FD25-4280-ACB5-1A99DFFB9090}-0" />
+            <r
+              uid="{24171700-46EB-417C-ADE6-4A6D0BDE2D3A}"
+              p:after="r[@uid='{AAA2CBFC-D6E0-46BB-8611-10B34A8CB9E4}']"
+              s:ds="{B8DF25EE-73D9-4D16-9A80-B864C06E2DCE}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{CFCBBA34-4149-4724-B613-070CFD2DA918}-0" />
+            <r
+              uid="{361DBE87-B926-4F53-97DE-8A386A83E02E}"
+              p:after="r[@uid='{24171700-46EB-417C-ADE6-4A6D0BDE2D3A}']"
+              s:ds="{98254880-2CA6-495C-A59A-EFC8D72BD818}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{CFCBBA34-4149-4724-B613-070CFD2DA918}-0" />
+            <r
+              uid="{BA077E75-780B-4654-A220-10E63520C582}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{83C96A38-D18A-4E35-9D8D-71F869B259F3}"
+              s:ds="{68903F16-467C-4C6B-8293-FE603988C0BD}" />
+            <r
+              uid="{C4ACEA35-73C2-4347-B325-2FC6FCDAAB8F}">
+              <p:d />
+            </r>
+            <r
+              uid="{E655A92B-3794-4099-AF60-076BAFA33189}">
+              <p:d />
+            </r>
+            <r
+              uid="{0D97EC48-A616-4503-81F3-8B0A22142C87}">
+              <p:d />
+            </r>
+            <r
+              uid="{1FD9ED8E-765E-4D75-AEB7-9C5643309FB1}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3E128BD-C527-476C-B850-4FF98996AE1F}">
+              <p:d />
+            </r>
+            <r
+              uid="{9E4C6427-3865-4F4C-AF91-EFDF6A58DA77}">
+              <p:d />
+            </r>
+            <r
+              uid="{ACAD23C8-9219-4D65-B38A-4537A73C4FE0}">
+              <p:d />
+            </r>
+            <r
+              uid="{FB4C5C8E-DF5F-4300-950E-536065A8707B}">
+              <p:d />
+            </r>
+            <r
+              uid="{2849CE03-88F2-4FBC-BAE4-0D1B29D7AEAA}">
+              <p:d />
+            </r>
+            <r
+              uid="{98372559-FD25-4280-ACB5-1A99DFFB9090}"
+              p:after="r[@uid='{83C96A38-D18A-4E35-9D8D-71F869B259F3}']"
+              s:id="{F60303F6-09BF-456C-BCA8-CDCC7CDB4E14}"
+              s:ph="main" />
+            <r
+              uid="{6C74F550-0D77-45DE-9375-84199FD29DDD}"
+              p:after="r[@uid='{98372559-FD25-4280-ACB5-1A99DFFB9090}']"
+              s:ds="{297C1569-CBB7-49D6-A03E-8457F950C23B}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{33210AA8-458C-4395-939D-6535D6FBF599}"
+              p:after="r[@uid='{6C74F550-0D77-45DE-9375-84199FD29DDD}']"
+              s:ds="{0D0FD7EF-1604-446B-ADF2-EFAB57C6048D}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{DF7F8D84-16DB-45B7-84CB-CDC446216059}"
+              p:after="r[@uid='{33210AA8-458C-4395-939D-6535D6FBF599}']"
+              s:ds="{74EA9870-96B3-40E8-882A-F4BC512E92C2}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{CDD3C1D7-50BE-45C6-9BDD-38D82D8F3E0B}"
+              p:after="r[@uid='{DF7F8D84-16DB-45B7-84CB-CDC446216059}']"
+              s:ds="{70DD1DDE-9A06-4DFB-A365-A2C0F55DF4B3}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{D4AC3387-5FE5-4E92-8A2A-AF0182FB470B}"
+              p:after="r[@uid='{CDD3C1D7-50BE-45C6-9BDD-38D82D8F3E0B}']"
+              s:ds="{DEC6DF5C-1154-4794-B21A-8F897ED7DEDA}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{5D1EFC18-1191-47A1-8C32-053C80A2B277}"
+              p:after="r[@uid='{D4AC3387-5FE5-4E92-8A2A-AF0182FB470B}']"
+              s:ds="{3DD42F81-0B2B-429C-8EA6-2F9BF458042B}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{E57AA2AF-A48E-4247-A98E-F124070C6306}"
+              p:after="r[@uid='{5D1EFC18-1191-47A1-8C32-053C80A2B277}']"
+              s:ds="{56FA2F95-942E-4859-A446-C3FD02EA1069}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{A627AA65-6BCA-423F-953A-0EB2D0863138}"
+              p:after="r[@uid='{E57AA2AF-A48E-4247-A98E-F124070C6306}']"
+              s:ds="{965B9D03-A381-4855-A551-8022F4E17A58}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{B5407315-4598-49BA-A716-8895E8E1539E}">
+              <p:d />
+            </r>
+            <r
+              uid="{35F5B041-CCEA-40B8-948D-6DE09851A28E}">
+              <p:d />
+            </r>
+            <r
+              uid="{99B4E79C-EEB8-49BC-8779-24C4AD0CF113}">
+              <p:d />
+            </r>
+            <r
+              uid="{CDF8E396-F69A-48ED-A6DB-B665BD98B242}">
+              <p:d />
+            </r>
+            <r
+              uid="{3ADDDF2A-6C4B-4473-ACB2-EADC8ABD6475}"
+              s:ds="{04A87825-EF8D-4998-877A-4F9780098984}" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Fleet Care
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>NOV’s commitment to caring for your fleet is unmatched, offering the industry's most comprehensive suite of services that includes 24/7 technical support, spare parts, field service, repair, training, rentals, exchanges, upgrades, and project management.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Fleet Care
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191216T161546Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Fleet Care
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Fleet Care
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Fleet Care
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "767e505d-89da-427d-bbbe-2992f6786c2f"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "bcfd3e35-8ec5-4ba4-b22f-00669ef4d2d5"
+      Hint: Publish Date
+      Value: 20190725T150000Z
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: NOV’s commitment to caring for your fleet is unmatched, offering the industry's most comprehensive suite of services that includes 24/7 technical support, spare parts, field service, repair, training, rentals, exchanges, upgrades, and project management.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20191216T161546Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{FF496984-E10A-4036-8668-89B313B6C356}" cropregion="0,87,1920,1191" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200212T155000Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{FF496984-E10A-4036-8668-89B313B6C356}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 10
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01fd8c23-1b98-4e4b-9f2d-ecf3eb8aad68"
+      Hint: businessUnits
+      Value: "{367B717A-53A6-42D9-9CDB-9430CB28988D}"
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{165B41A3-9A1A-410A-A92E-7E89C8E63789}"
+              p:before="*"
+              s:ds="{8E646520-6448-4337-84CD-EAA6C72E9B0C}"
+              s:id="{703C4FCC-55FD-48C3-8F29-1B196484B61C}"
+              s:ph="/main/product-tabs-container-{98372559-FD25-4280-ACB5-1A99DFFB9090}-0/product-tab-content-{AAA2CBFC-D6E0-46BB-8611-10B34A8CB9E4}-0" />
+            <r
+              uid="{03059D00-D72A-4305-B3DA-CA86814F37C5}"
+              p:after="r[@uid='{165B41A3-9A1A-410A-A92E-7E89C8E63789}']"
+              s:ds="{708C9408-40B3-43EC-AD7D-B6EFE3F1711E}"
+              s:id="{541C8841-7802-4878-BBC4-5B3AC533A4BA}"
+              s:ph="/main/product-tabs-container-{98372559-FD25-4280-ACB5-1A99DFFB9090}-0/product-tab-content-{27DBA568-DB2E-483D-AAA2-30F1E5766DAD}-0" />
+            <r
+              uid="{27DBA568-DB2E-483D-AAA2-30F1E5766DAD}"
+              p:after="r[@uid='{03059D00-D72A-4305-B3DA-CA86814F37C5}']"
+              s:ds="{79FD46F2-A4A0-4A13-839A-714FCDEDA1DA}"
+              s:id="{CABE2E45-C5EB-4990-AD19-E203DFF43BE7}"
+              s:ph="/main/product-tabs-container-{98372559-FD25-4280-ACB5-1A99DFFB9090}-0" />
+            <r
+              uid="{AAA2CBFC-D6E0-46BB-8611-10B34A8CB9E4}"
+              p:after="r[@uid='{27DBA568-DB2E-483D-AAA2-30F1E5766DAD}']"
+              s:ds="{00AD0746-5845-4827-9258-FA455DDDEDBB}"
+              s:id="{CABE2E45-C5EB-4990-AD19-E203DFF43BE7}"
+              s:ph="/main/product-tabs-container-{98372559-FD25-4280-ACB5-1A99DFFB9090}-0" />
+            <r
+              uid="{24171700-46EB-417C-ADE6-4A6D0BDE2D3A}"
+              p:after="r[@uid='{AAA2CBFC-D6E0-46BB-8611-10B34A8CB9E4}']"
+              s:ds="{B8DF25EE-73D9-4D16-9A80-B864C06E2DCE}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{CFCBBA34-4149-4724-B613-070CFD2DA918}-0" />
+            <r
+              uid="{361DBE87-B926-4F53-97DE-8A386A83E02E}"
+              p:after="r[@uid='{24171700-46EB-417C-ADE6-4A6D0BDE2D3A}']"
+              s:ds="{98254880-2CA6-495C-A59A-EFC8D72BD818}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{CFCBBA34-4149-4724-B613-070CFD2DA918}-0" />
+            <r
+              uid="{BA077E75-780B-4654-A220-10E63520C582}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{83C96A38-D18A-4E35-9D8D-71F869B259F3}"
+              s:ds="{68903F16-467C-4C6B-8293-FE603988C0BD}" />
+            <r
+              uid="{C4ACEA35-73C2-4347-B325-2FC6FCDAAB8F}">
+              <p:d />
+            </r>
+            <r
+              uid="{E655A92B-3794-4099-AF60-076BAFA33189}">
+              <p:d />
+            </r>
+            <r
+              uid="{0D97EC48-A616-4503-81F3-8B0A22142C87}">
+              <p:d />
+            </r>
+            <r
+              uid="{1FD9ED8E-765E-4D75-AEB7-9C5643309FB1}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3E128BD-C527-476C-B850-4FF98996AE1F}">
+              <p:d />
+            </r>
+            <r
+              uid="{9E4C6427-3865-4F4C-AF91-EFDF6A58DA77}">
+              <p:d />
+            </r>
+            <r
+              uid="{ACAD23C8-9219-4D65-B38A-4537A73C4FE0}">
+              <p:d />
+            </r>
+            <r
+              uid="{FB4C5C8E-DF5F-4300-950E-536065A8707B}">
+              <p:d />
+            </r>
+            <r
+              uid="{2849CE03-88F2-4FBC-BAE4-0D1B29D7AEAA}">
+              <p:d />
+            </r>
+            <r
+              uid="{98372559-FD25-4280-ACB5-1A99DFFB9090}"
+              p:after="r[@uid='{83C96A38-D18A-4E35-9D8D-71F869B259F3}']"
+              s:id="{F60303F6-09BF-456C-BCA8-CDCC7CDB4E14}"
+              s:ph="main" />
+            <r
+              uid="{6C74F550-0D77-45DE-9375-84199FD29DDD}"
+              p:after="r[@uid='{98372559-FD25-4280-ACB5-1A99DFFB9090}']"
+              s:ds="{297C1569-CBB7-49D6-A03E-8457F950C23B}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{33210AA8-458C-4395-939D-6535D6FBF599}"
+              p:after="r[@uid='{6C74F550-0D77-45DE-9375-84199FD29DDD}']"
+              s:ds="{0D0FD7EF-1604-446B-ADF2-EFAB57C6048D}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{DF7F8D84-16DB-45B7-84CB-CDC446216059}"
+              p:after="r[@uid='{33210AA8-458C-4395-939D-6535D6FBF599}']"
+              s:ds="{74EA9870-96B3-40E8-882A-F4BC512E92C2}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{CDD3C1D7-50BE-45C6-9BDD-38D82D8F3E0B}"
+              p:after="r[@uid='{DF7F8D84-16DB-45B7-84CB-CDC446216059}']"
+              s:ds="{70DD1DDE-9A06-4DFB-A365-A2C0F55DF4B3}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{D4AC3387-5FE5-4E92-8A2A-AF0182FB470B}"
+              p:after="r[@uid='{CDD3C1D7-50BE-45C6-9BDD-38D82D8F3E0B}']"
+              s:ds="{DEC6DF5C-1154-4794-B21A-8F897ED7DEDA}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{5D1EFC18-1191-47A1-8C32-053C80A2B277}"
+              p:after="r[@uid='{D4AC3387-5FE5-4E92-8A2A-AF0182FB470B}']"
+              s:ds="{3DD42F81-0B2B-429C-8EA6-2F9BF458042B}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{E57AA2AF-A48E-4247-A98E-F124070C6306}"
+              p:after="r[@uid='{5D1EFC18-1191-47A1-8C32-053C80A2B277}']"
+              s:ds="{56FA2F95-942E-4859-A446-C3FD02EA1069}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{A627AA65-6BCA-423F-953A-0EB2D0863138}"
+              p:after="r[@uid='{E57AA2AF-A48E-4247-A98E-F124070C6306}']"
+              s:ds="{965B9D03-A381-4855-A551-8022F4E17A58}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{B5407315-4598-49BA-A716-8895E8E1539E}">
+              <p:d />
+            </r>
+            <r
+              uid="{35F5B041-CCEA-40B8-948D-6DE09851A28E}">
+              <p:d />
+            </r>
+            <r
+              uid="{99B4E79C-EEB8-49BC-8779-24C4AD0CF113}">
+              <p:d />
+            </r>
+            <r
+              uid="{CDF8E396-F69A-48ED-A6DB-B665BD98B242}">
+              <p:d />
+            </r>
+            <r
+              uid="{3ADDDF2A-6C4B-4473-ACB2-EADC8ABD6475}"
+              s:ds="{04A87825-EF8D-4998-877A-4F9780098984}" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Fleet Care
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>NOV’s commitment to caring for your fleet is unmatched, offering the industry's most comprehensive suite of services that includes 24/7 technical support, spare parts, field service, repair, training, rentals, exchanges, upgrades, and project management.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Fleet Care
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200305T192025Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Fleet Care
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Fleet Care
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\joannazhu
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
+      Hint: businessSegments
+      Value: "{7BFDF55B-D789-4F80-BAA1-EE7B8380D4C6}"
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Fleet Care
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1a2e0001-c4d7-4556-a421-1667c40b769b"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1F7E6CF6-397F-43E3-8BE0-F22A71E03F76}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "bcfd3e35-8ec5-4ba4-b22f-00669ef4d2d5"
+      Hint: Publish Date
+      Value: 20190725T150000Z
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: NOV’s commitment to caring for your fleet is unmatched, offering the industry's most comprehensive suite of services that includes 24/7 technical support, spare parts, field service, repair, training, rentals, exchanges, upgrades, and project management.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20200305T192025Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{FF496984-E10A-4036-8668-89B313B6C356}" cropregion="0,87,1920,1191" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200305T192503Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{FF496984-E10A-4036-8668-89B313B6C356}" cropregion="0,100,1920,1180" ratio="1920:1080" width="1920" height="1080" />

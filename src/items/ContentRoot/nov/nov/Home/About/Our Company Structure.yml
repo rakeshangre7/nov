@@ -1469,6 +1469,10 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
+              uid="{BA077E75-780B-4654-A220-10E63520C582}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
               uid="{C4ACEA35-73C2-4347-B325-2FC6FCDAAB8F}">
               <p:d />
             </r>
@@ -1486,6 +1490,10 @@ Languages:
             </r>
             <r
               uid="{C3E128BD-C527-476C-B850-4FF98996AE1F}">
+              <p:d />
+            </r>
+            <r
+              uid="{9E4C6427-3865-4F4C-AF91-EFDF6A58DA77}">
               <p:d />
             </r>
             <r
@@ -1518,14 +1526,17 @@ Languages:
               s:ph="main" />
             <r
               uid="{A9C99412-96BE-41BE-94ED-84307C8F6414}"
-              p:after="*[1=2]"
+              p:after="r[@uid='{FE5438F1-80F4-4B8D-8354-F2C8CEDEA6A8}']"
               s:ds="{4D1ACDA0-D2B4-4C96-B3F1-B83F8074932A}"
               s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
               s:ph="main" />
             <r
-              uid="{9E4C6427-3865-4F4C-AF91-EFDF6A58DA77}">
-              <p:d />
-            </r>
+              uid="{731AB935-D6C0-4FA4-98B9-3D25B6851C53}"
+              p:after="*[1=2]"
+              s:ds="{1354155E-6829-4E5D-944C-59CDCCCAE440}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
             <r
               uid="{ACAD23C8-9219-4D65-B38A-4537A73C4FE0}">
               <p:d />
@@ -1598,7 +1609,7 @@ Languages:
       Value: Our Company Structure
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "cf05a24b-6b0a-4e0d-87e6-235da53203ff"
+      Value: "9126b350-36f6-4e10-aa83-43b81c6d65b7"
     - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
       Hint: contentTag
       Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
@@ -1608,7 +1619,7 @@ Languages:
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\rainerschuhsler
+        sitecore\artemloboda
     - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
       Hint: Meta Description
       Value: Our family of companies is organized to provide expert solutions, equipment, and operational support to optimize your drilling and production operations.
@@ -1621,7 +1632,7 @@ Languages:
         <image mediaid="{42427CE2-FD7F-4D9B-8C80-1738465DF2B9}" cropregion="0,146,1920,1248" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20211112T162949Z
+      Value: 20201216T175717Z
     - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
       Hint: Page Image
       Value: |

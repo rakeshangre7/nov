@@ -13,10 +13,6 @@ SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 100
-- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
-  Hint: __Thumbnail
-  Value: |
-    <image mediaid="{8DEB0088-8967-49FA-8D92-318C62ED93FB}" />
 Languages:
 - Language: "en-US"
   Versions:
@@ -855,6 +851,10 @@ Languages:
               s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
               s:ph="/main/image-block-main-{DB86011C-7B3B-4F4C-92EE-E7F12026DDAE}-0" />
             <r
+              uid="{9B4417AB-C22F-4C76-B2DC-98F2FCA8A71E}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
               uid="{10CEBA25-FC2A-4F84-8760-9B825D4EAF06}">
               <p:d />
             </r>
@@ -954,7 +954,7 @@ Languages:
       Value: NOV collaborates with drilling contractor to design and manufacture
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "2ff33a38-1c24-4a34-a45c-c73ed9a24f0c"
+      Value: "a80c141d-487d-4649-be7c-d65bb50e3003"
     - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
       Hint: contentTag
       Value: "{294053F5-3F2B-4F01-A805-2E3CC257571E}"
@@ -964,7 +964,7 @@ Languages:
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\varalakshmi.md@horizontal.com
+        sitecore\rainerschuhsler
     - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
       Hint: __Valid from
       Value: 20200210T165803Z
@@ -977,7 +977,7 @@ Languages:
         <image mediaid="{A3E7BDE9-0965-4999-8165-404D85E1C685}" cropregion="0,87,1920,1191" ratio="514:295" width="514" height="295" />
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230725T094345Z
+      Value: 20200930T151315Z
     - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
       Hint: Page Image
       Value: |

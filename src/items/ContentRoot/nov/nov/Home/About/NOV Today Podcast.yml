@@ -29,6 +29,506 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
+              uid="{891379C9-C5B8-43EF-9A11-3157D7259FBC}"
+              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}" />
+            <r
+              uid="{567B5EE0-2011-441D-99C4-B048296EF03C}">
+              <p:d />
+            </r>
+            <r
+              uid="{29C0FB27-9EBE-466C-9648-1B3CED591D78}">
+              <p:d />
+            </r>
+            <r
+              uid="{55E55775-15F4-4BFC-8652-856E7AD1B9BA}">
+              <p:d />
+            </r>
+            <r
+              uid="{ADEFD730-6D25-41BA-B761-A852AA7DFCC1}">
+              <p:d />
+            </r>
+            <r
+              uid="{87CF5108-E08C-453E-9655-7DEA9ACAACF9}"
+              p:after="r[@uid='{891379C9-C5B8-43EF-9A11-3157D7259FBC}']"
+              s:ds="{11DDC002-D64E-4D64-A7EF-A51F3C6FAA28}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{A0B31BDD-7C63-4049-98B8-0632A1AD81DB}"
+              p:after="r[@uid='{87CF5108-E08C-453E-9655-7DEA9ACAACF9}']"
+              s:ds="{D122F7EB-5693-42F0-B8E3-41715676FD00}"
+              s:id="{541CD221-299D-4306-BA94-CF79FBAEB96F}"
+              s:ph="main" />
+            <r
+              uid="{352DA2A5-9DC9-42CB-830C-46BA9161741A}"
+              p:after="r[@uid='{A0B31BDD-7C63-4049-98B8-0632A1AD81DB}']"
+              s:ds="{4D3A939F-1666-4076-B945-FB55DAB707DA}"
+              s:id="{846AE873-D5C7-4033-928F-6BD96E963742}"
+              s:ph="main" />
+            <r
+              uid="{6E4FD80B-B9D8-4F47-8103-DB827C3AD5BA}"
+              p:after="*[1=2]"
+              s:ds="{8B652097-764A-4273-8C5F-0EFC1CD7571D}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{5287F413-D547-4F9D-8A6B-98CCCA8F16C3}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: NOV Today Podcast
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Discover the people, places, and technologies that shape the oil and gas industry.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: NOV Today Podcast
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190520T190657Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: NOV Today Podcast
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: NOV Today Podcast
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticgappau
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: NOV Today Podcast
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0c93712d-8588-47e0-b1c3-e710a3d5da1e"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: NOV Today Podcast
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190520T190657Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{FA7500CE-3BC7-4B24-A7DD-9BFC639113E3}" cropregion="38,0,1920,1079" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190524T151355Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{FA7500CE-3BC7-4B24-A7DD-9BFC639113E3}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{29CCFEC8-7728-4642-A74C-DBB3C36E5A66}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{891379C9-C5B8-43EF-9A11-3157D7259FBC}"
+              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}" />
+            <r
+              uid="{567B5EE0-2011-441D-99C4-B048296EF03C}">
+              <p:d />
+            </r>
+            <r
+              uid="{29C0FB27-9EBE-466C-9648-1B3CED591D78}">
+              <p:d />
+            </r>
+            <r
+              uid="{55E55775-15F4-4BFC-8652-856E7AD1B9BA}">
+              <p:d />
+            </r>
+            <r
+              uid="{ADEFD730-6D25-41BA-B761-A852AA7DFCC1}">
+              <p:d />
+            </r>
+            <r
+              uid="{87CF5108-E08C-453E-9655-7DEA9ACAACF9}"
+              p:after="r[@uid='{891379C9-C5B8-43EF-9A11-3157D7259FBC}']"
+              s:ds="{11DDC002-D64E-4D64-A7EF-A51F3C6FAA28}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{A0B31BDD-7C63-4049-98B8-0632A1AD81DB}"
+              p:after="r[@uid='{87CF5108-E08C-453E-9655-7DEA9ACAACF9}']"
+              s:ds="{D122F7EB-5693-42F0-B8E3-41715676FD00}"
+              s:id="{541CD221-299D-4306-BA94-CF79FBAEB96F}"
+              s:ph="main" />
+            <r
+              uid="{352DA2A5-9DC9-42CB-830C-46BA9161741A}"
+              p:after="r[@uid='{A0B31BDD-7C63-4049-98B8-0632A1AD81DB}']"
+              s:ds="{4D3A939F-1666-4076-B945-FB55DAB707DA}"
+              s:id="{846AE873-D5C7-4033-928F-6BD96E963742}"
+              s:ph="main" />
+            <r
+              uid="{6E4FD80B-B9D8-4F47-8103-DB827C3AD5BA}"
+              p:after="*[1=2]"
+              s:ds="{8B652097-764A-4273-8C5F-0EFC1CD7571D}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{5287F413-D547-4F9D-8A6B-98CCCA8F16C3}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: NOV Today Podcast
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Discover the people, places, and technologies that shape the oil and gas industry.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: NOV Today Podcast
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190603T194107Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: NOV Today Podcast
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: NOV Today Podcast
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticgappau
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: NOV Today Podcast
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "41d5f84c-5412-4acd-bc7b-87711678d9b7"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: NOV Today Podcast
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190603T194107Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{FA7500CE-3BC7-4B24-A7DD-9BFC639113E3}" cropregion="38,0,1920,1079" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190612T193932Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{FA7500CE-3BC7-4B24-A7DD-9BFC639113E3}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{29CCFEC8-7728-4642-A74C-DBB3C36E5A66}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{891379C9-C5B8-43EF-9A11-3157D7259FBC}"
+              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}" />
+            <r
+              uid="{567B5EE0-2011-441D-99C4-B048296EF03C}">
+              <p:d />
+            </r>
+            <r
+              uid="{29C0FB27-9EBE-466C-9648-1B3CED591D78}">
+              <p:d />
+            </r>
+            <r
+              uid="{55E55775-15F4-4BFC-8652-856E7AD1B9BA}">
+              <p:d />
+            </r>
+            <r
+              uid="{ADEFD730-6D25-41BA-B761-A852AA7DFCC1}">
+              <p:d />
+            </r>
+            <r
+              uid="{87CF5108-E08C-453E-9655-7DEA9ACAACF9}"
+              p:after="r[@uid='{891379C9-C5B8-43EF-9A11-3157D7259FBC}']"
+              s:ds="{11DDC002-D64E-4D64-A7EF-A51F3C6FAA28}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{A0B31BDD-7C63-4049-98B8-0632A1AD81DB}"
+              p:after="r[@uid='{87CF5108-E08C-453E-9655-7DEA9ACAACF9}']"
+              s:ds="{D122F7EB-5693-42F0-B8E3-41715676FD00}"
+              s:id="{541CD221-299D-4306-BA94-CF79FBAEB96F}"
+              s:ph="main" />
+            <r
+              uid="{352DA2A5-9DC9-42CB-830C-46BA9161741A}"
+              p:after="r[@uid='{A0B31BDD-7C63-4049-98B8-0632A1AD81DB}']"
+              s:ds="{4D3A939F-1666-4076-B945-FB55DAB707DA}"
+              s:id="{846AE873-D5C7-4033-928F-6BD96E963742}"
+              s:ph="main" />
+            <r
+              uid="{6E4FD80B-B9D8-4F47-8103-DB827C3AD5BA}"
+              p:after="*[1=2]"
+              s:ds="{8B652097-764A-4273-8C5F-0EFC1CD7571D}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{5287F413-D547-4F9D-8A6B-98CCCA8F16C3}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: NOV Today Podcast
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Discover the people, places, and technologies that shape the oil and gas industry.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: NOV Today Podcast
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190612T194313Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: NOV Today Podcast
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: NOV Today Podcast
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticgappau
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: NOV Today Podcast
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4a8472b8-9d78-47f7-8b05-2280070fed9c"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: NOV Today Podcast
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\charisgamroth
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190612T194313Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{FA7500CE-3BC7-4B24-A7DD-9BFC639113E3}" cropregion="38,0,1920,1079" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190612T201010Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{FA7500CE-3BC7-4B24-A7DD-9BFC639113E3}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 4
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{29CCFEC8-7728-4642-A74C-DBB3C36E5A66}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{891379C9-C5B8-43EF-9A11-3157D7259FBC}"
+              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}" />
+            <r
+              uid="{567B5EE0-2011-441D-99C4-B048296EF03C}">
+              <p:d />
+            </r>
+            <r
+              uid="{29C0FB27-9EBE-466C-9648-1B3CED591D78}">
+              <p:d />
+            </r>
+            <r
+              uid="{55E55775-15F4-4BFC-8652-856E7AD1B9BA}">
+              <p:d />
+            </r>
+            <r
+              uid="{ADEFD730-6D25-41BA-B761-A852AA7DFCC1}">
+              <p:d />
+            </r>
+            <r
+              uid="{87CF5108-E08C-453E-9655-7DEA9ACAACF9}"
+              p:after="r[@uid='{891379C9-C5B8-43EF-9A11-3157D7259FBC}']"
+              s:ds="{11DDC002-D64E-4D64-A7EF-A51F3C6FAA28}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{A0B31BDD-7C63-4049-98B8-0632A1AD81DB}"
+              p:after="r[@uid='{87CF5108-E08C-453E-9655-7DEA9ACAACF9}']"
+              s:ds="{D122F7EB-5693-42F0-B8E3-41715676FD00}"
+              s:id="{541CD221-299D-4306-BA94-CF79FBAEB96F}"
+              s:ph="main" />
+            <r
+              uid="{352DA2A5-9DC9-42CB-830C-46BA9161741A}"
+              p:after="r[@uid='{A0B31BDD-7C63-4049-98B8-0632A1AD81DB}']"
+              s:ds="{4D3A939F-1666-4076-B945-FB55DAB707DA}"
+              s:id="{846AE873-D5C7-4033-928F-6BD96E963742}"
+              s:ph="main" />
+            <r
+              uid="{6E4FD80B-B9D8-4F47-8103-DB827C3AD5BA}"
+              p:after="*[1=2]"
+              s:ds="{8B652097-764A-4273-8C5F-0EFC1CD7571D}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{5287F413-D547-4F9D-8A6B-98CCCA8F16C3}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: NOV Today Podcast
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Discover the people, places, and technologies that shape the oil and gas industry.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: NOV Today Podcast
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190613T213831Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: NOV Today Podcast
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: NOV Today Podcast
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticgappau
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: NOV Today Podcast
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "00127881-63e0-4bb0-bed8-328f98a20441"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: NOV Today Podcast
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190613T213831Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{FA7500CE-3BC7-4B24-A7DD-9BFC639113E3}" cropregion="38,0,1920,1079" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190613T213952Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{FA7500CE-3BC7-4B24-A7DD-9BFC639113E3}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 5
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
               uid="{29CCFEC8-7728-4642-A74C-DBB3C36E5A66}"
               s:ds=""
               s:par="Add Gradient=1&amp;Text Color=white" />
@@ -142,7 +642,7 @@ Languages:
       Hint: Page Image
       Value: |
         <image mediaid="{FA7500CE-3BC7-4B24-A7DD-9BFC639113E3}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
-  - Version: 2
+  - Version: 6
     Fields:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
@@ -268,7 +768,7 @@ Languages:
       Hint: Page Image
       Value: |
         <image mediaid="{FA7500CE-3BC7-4B24-A7DD-9BFC639113E3}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
-  - Version: 3
+  - Version: 7
     Fields:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
@@ -394,7 +894,7 @@ Languages:
       Hint: Page Image
       Value: |
         <image mediaid="{FA7500CE-3BC7-4B24-A7DD-9BFC639113E3}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
-  - Version: 4
+  - Version: 8
     Fields:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
@@ -520,7 +1020,7 @@ Languages:
       Hint: Page Image
       Value: |
         <image mediaid="{FA7500CE-3BC7-4B24-A7DD-9BFC639113E3}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
-  - Version: 5
+  - Version: 9
     Fields:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
@@ -649,7 +1149,7 @@ Languages:
       Hint: Page Image
       Value: |
         <image mediaid="{FA7500CE-3BC7-4B24-A7DD-9BFC639113E3}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
-  - Version: 6
+  - Version: 10
     Fields:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
@@ -721,7 +1221,7 @@ Languages:
       Value: NOV Today Podcast
     - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
       Hint: Subheading
-      Value: <p>Discover the people, places, and technologies that shape the energy industry.</p>
+      Value: <p>Discover the people, places, and technologies that shape the oil and gas industry.</p>
     - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
       Hint: Headline
       Value: NOV Today Podcast
@@ -733,7 +1233,7 @@ Languages:
       Value: NOV Today Podcast
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
       Hint: __Workflow state
-      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+      Value: "{40251B7D-FBE3-4A0E-8947-D4B4FE8CD782}"
     - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
       Hint: Page Title
       Value: NOV Today Podcast
@@ -750,7 +1250,7 @@ Languages:
       Value: NOV Today Podcast
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "eb5d11f5-10b8-4d76-96c2-b5dc4287020e"
+      Value: "ce0f8376-6bbc-4756-8fc6-039a0fb57ae0"
     - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
       Hint: contentTag
       Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
@@ -760,7 +1260,7 @@ Languages:
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\jeremygrzywa
+        sitecore\rainerschuhsler
     - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
       Hint: Meta Description
       Value: Discover the people, places, and technologies that shape the oil and gas industry.
@@ -773,512 +1273,7 @@ Languages:
         <image mediaid="{FA7500CE-3BC7-4B24-A7DD-9BFC639113E3}" cropregion="38,0,1920,1079" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20210409T195549Z
-    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
-      Hint: Page Image
-      Value: |
-        <image mediaid="{FA7500CE-3BC7-4B24-A7DD-9BFC639113E3}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
-  - Version: 7
-    Fields:
-    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
-      Hint: __Lock
-      Value: <r />
-    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
-      Hint: __Final Renderings
-      Value: |
-        <r xmlns:p="p" xmlns:s="s"
-          p:p="1">
-          <d
-            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
-            <r
-              uid="{29CCFEC8-7728-4642-A74C-DBB3C36E5A66}"
-              s:ds=""
-              s:par="Add Gradient=1&amp;Text Color=white" />
-            <r
-              uid="{891379C9-C5B8-43EF-9A11-3157D7259FBC}"
-              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}" />
-            <r
-              uid="{567B5EE0-2011-441D-99C4-B048296EF03C}">
-              <p:d />
-            </r>
-            <r
-              uid="{29C0FB27-9EBE-466C-9648-1B3CED591D78}">
-              <p:d />
-            </r>
-            <r
-              uid="{55E55775-15F4-4BFC-8652-856E7AD1B9BA}">
-              <p:d />
-            </r>
-            <r
-              uid="{ADEFD730-6D25-41BA-B761-A852AA7DFCC1}">
-              <p:d />
-            </r>
-            <r
-              uid="{87CF5108-E08C-453E-9655-7DEA9ACAACF9}"
-              p:after="r[@uid='{891379C9-C5B8-43EF-9A11-3157D7259FBC}']"
-              s:ds="{11DDC002-D64E-4D64-A7EF-A51F3C6FAA28}"
-              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
-              s:par="Alignment=center"
-              s:ph="main" />
-            <r
-              uid="{A0B31BDD-7C63-4049-98B8-0632A1AD81DB}"
-              p:after="r[@uid='{87CF5108-E08C-453E-9655-7DEA9ACAACF9}']"
-              s:ds="{D122F7EB-5693-42F0-B8E3-41715676FD00}"
-              s:id="{541CD221-299D-4306-BA94-CF79FBAEB96F}"
-              s:ph="main" />
-            <r
-              uid="{352DA2A5-9DC9-42CB-830C-46BA9161741A}"
-              p:after="r[@uid='{A0B31BDD-7C63-4049-98B8-0632A1AD81DB}']"
-              s:ds="{4D3A939F-1666-4076-B945-FB55DAB707DA}"
-              s:id="{846AE873-D5C7-4033-928F-6BD96E963742}"
-              s:ph="main" />
-            <r
-              uid="{6E4FD80B-B9D8-4F47-8103-DB827C3AD5BA}"
-              p:after="*[1=2]"
-              s:ds="{8B652097-764A-4273-8C5F-0EFC1CD7571D}"
-              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
-              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
-              s:ph="main" />
-            <r
-              uid="{5287F413-D547-4F9D-8A6B-98CCCA8F16C3}">
-              <p:d />
-            </r>
-          </d>
-        </r>
-    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
-      Hint: Featured Story Headline
-      Value: NOV Today Podcast
-    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
-      Hint: Subheading
-      Value: <p>Discover the people, places, and technologies that shape the energy industry.</p>
-    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
-      Hint: Headline
-      Value: NOV Today Podcast
-    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
-      Hint: __Created
-      Value: 20210409T195705Z
-    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
-      Hint: Mobile Menu Title
-      Value: NOV Today Podcast
-    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
-      Hint: __Workflow state
-      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
-    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
-      Hint: Page Title
-      Value: NOV Today Podcast
-    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
-      Hint: __Owner
-      Value: |
-        sitecore\verticgappau
-    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
-      Hint: __Created by
-      Value: |
-        sitecore\jeremygrzywa
-    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
-      Hint: Menu Title
-      Value: NOV Today Podcast
-    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
-      Hint: __Revision
-      Value: "274a7b01-837f-4cab-a637-b21d0661a6d4"
-    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
-      Hint: contentTag
-      Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
-    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
-      Hint: Featured Story CTA Text
-      Value: NOV Today Podcast
-    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
-      Hint: __Updated by
-      Value: |
-        sitecore\lissettegomezandrews
-    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
-      Hint: Meta Description
-      Value: Discover the people, places, and technologies that shape the energy industry.
-    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
-      Hint: __Valid from
-      Value: 20210409T195705Z
-    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
-      Hint: Card Image
-      Value: |
-        <image mediaid="{FA7500CE-3BC7-4B24-A7DD-9BFC639113E3}" cropregion="38,0,1920,1079" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
-    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
-      Hint: __Updated
-      Value: 20220303T224350Z
-    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
-      Hint: Page Image
-      Value: |
-        <image mediaid="{FA7500CE-3BC7-4B24-A7DD-9BFC639113E3}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
-  - Version: 8
-    Fields:
-    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
-      Hint: __Lock
-      Value: <r />
-    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
-      Hint: __Final Renderings
-      Value: |
-        <r xmlns:p="p" xmlns:s="s"
-          p:p="1">
-          <d
-            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
-            <r
-              uid="{891379C9-C5B8-43EF-9A11-3157D7259FBC}"
-              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}" />
-            <r
-              uid="{567B5EE0-2011-441D-99C4-B048296EF03C}">
-              <p:d />
-            </r>
-            <r
-              uid="{29C0FB27-9EBE-466C-9648-1B3CED591D78}">
-              <p:d />
-            </r>
-            <r
-              uid="{55E55775-15F4-4BFC-8652-856E7AD1B9BA}">
-              <p:d />
-            </r>
-            <r
-              uid="{ADEFD730-6D25-41BA-B761-A852AA7DFCC1}">
-              <p:d />
-            </r>
-            <r
-              uid="{87CF5108-E08C-453E-9655-7DEA9ACAACF9}"
-              p:after="r[@uid='{891379C9-C5B8-43EF-9A11-3157D7259FBC}']"
-              s:ds="{11DDC002-D64E-4D64-A7EF-A51F3C6FAA28}"
-              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
-              s:par="Alignment=center"
-              s:ph="main" />
-            <r
-              uid="{A0B31BDD-7C63-4049-98B8-0632A1AD81DB}"
-              p:after="r[@uid='{87CF5108-E08C-453E-9655-7DEA9ACAACF9}']"
-              s:ds="{D122F7EB-5693-42F0-B8E3-41715676FD00}"
-              s:id="{541CD221-299D-4306-BA94-CF79FBAEB96F}"
-              s:ph="main" />
-            <r
-              uid="{352DA2A5-9DC9-42CB-830C-46BA9161741A}"
-              p:after="r[@uid='{A0B31BDD-7C63-4049-98B8-0632A1AD81DB}']"
-              s:ds="{4D3A939F-1666-4076-B945-FB55DAB707DA}"
-              s:id="{846AE873-D5C7-4033-928F-6BD96E963742}"
-              s:ph="main" />
-            <r
-              uid="{6E4FD80B-B9D8-4F47-8103-DB827C3AD5BA}"
-              p:after="*[1=2]"
-              s:ds="{8B652097-764A-4273-8C5F-0EFC1CD7571D}"
-              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
-              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
-              s:ph="main" />
-            <r
-              uid="{5287F413-D547-4F9D-8A6B-98CCCA8F16C3}">
-              <p:d />
-            </r>
-          </d>
-        </r>
-    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
-      Hint: Featured Story Headline
-      Value: NOV Today Podcast
-    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
-      Hint: Subheading
-      Value: <p>Discover the people, places, and technologies that shape the energy industry.</p>
-    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
-      Hint: Headline
-      Value: NOV Today Podcast
-    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
-      Hint: __Created
-      Value: 20220317T170624Z
-    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
-      Hint: Mobile Menu Title
-      Value: NOV Today Podcast
-    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
-      Hint: __Workflow state
-      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
-    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
-      Hint: Page Title
-      Value: NOV Today Podcast
-    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
-      Hint: __Owner
-      Value: |
-        sitecore\verticgappau
-    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
-      Hint: __Created by
-      Value: |
-        sitecore\lissettegomezandrews
-    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
-      Hint: Menu Title
-      Value: NOV Today Podcast
-    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
-      Hint: __Revision
-      Value: "84a2a68c-6eb6-4c3a-9fe4-c9436a76c536"
-    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
-      Hint: contentTag
-      Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
-    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
-      Hint: Featured Story CTA Text
-      Value: NOV Today Podcast
-    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
-      Hint: __Updated by
-      Value: |
-        sitecore\lissettegomezandrews
-    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
-      Hint: Meta Description
-      Value: Discover the people, places, and technologies that shape the energy industry.
-    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
-      Hint: __Valid from
-      Value: 20220317T170624Z
-    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
-      Hint: Card Image
-      Value: |
-        <image mediaid="{FA7500CE-3BC7-4B24-A7DD-9BFC639113E3}" cropregion="38,0,1920,1079" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
-    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
-      Hint: __Updated
-      Value: 20220317T170857Z
-    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
-      Hint: Page Image
-      Value: |
-        <image mediaid="{FA7500CE-3BC7-4B24-A7DD-9BFC639113E3}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
-  - Version: 9
-    Fields:
-    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
-      Hint: __Lock
-      Value: <r />
-    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
-      Hint: __Final Renderings
-      Value: |
-        <r xmlns:p="p" xmlns:s="s"
-          p:p="1">
-          <d
-            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
-            <r
-              uid="{891379C9-C5B8-43EF-9A11-3157D7259FBC}"
-              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}" />
-            <r
-              uid="{567B5EE0-2011-441D-99C4-B048296EF03C}">
-              <p:d />
-            </r>
-            <r
-              uid="{29C0FB27-9EBE-466C-9648-1B3CED591D78}">
-              <p:d />
-            </r>
-            <r
-              uid="{55E55775-15F4-4BFC-8652-856E7AD1B9BA}">
-              <p:d />
-            </r>
-            <r
-              uid="{ADEFD730-6D25-41BA-B761-A852AA7DFCC1}">
-              <p:d />
-            </r>
-            <r
-              uid="{87CF5108-E08C-453E-9655-7DEA9ACAACF9}"
-              p:after="r[@uid='{891379C9-C5B8-43EF-9A11-3157D7259FBC}']"
-              s:ds="{11DDC002-D64E-4D64-A7EF-A51F3C6FAA28}"
-              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
-              s:par="Alignment=center"
-              s:ph="main" />
-            <r
-              uid="{A0B31BDD-7C63-4049-98B8-0632A1AD81DB}"
-              p:after="r[@uid='{87CF5108-E08C-453E-9655-7DEA9ACAACF9}']"
-              s:ds="{D122F7EB-5693-42F0-B8E3-41715676FD00}"
-              s:id="{541CD221-299D-4306-BA94-CF79FBAEB96F}"
-              s:ph="main" />
-            <r
-              uid="{352DA2A5-9DC9-42CB-830C-46BA9161741A}"
-              p:after="r[@uid='{A0B31BDD-7C63-4049-98B8-0632A1AD81DB}']"
-              s:ds="{4D3A939F-1666-4076-B945-FB55DAB707DA}"
-              s:id="{846AE873-D5C7-4033-928F-6BD96E963742}"
-              s:ph="main" />
-            <r
-              uid="{F73A1A41-CAEC-4059-A3D2-49F4853A49B4}"
-              p:after="*[1=2]"
-              s:ds="{FC6F5F73-0442-4CAC-A0BF-B40F4AF755F0}"
-              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
-              s:ph="main" />
-            <r
-              uid="{5287F413-D547-4F9D-8A6B-98CCCA8F16C3}">
-              <p:d />
-            </r>
-          </d>
-        </r>
-    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
-      Hint: Featured Story Headline
-      Value: NOV Today Podcast
-    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
-      Hint: Subheading
-      Value: <p>Discover the people, places, and technologies that shape the energy industry.</p>
-    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
-      Hint: Headline
-      Value: NOV Today Podcast
-    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
-      Hint: __Created
-      Value: 20221003T181223Z
-    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
-      Hint: Mobile Menu Title
-      Value: NOV Today Podcast
-    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
-      Hint: __Workflow state
-      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
-    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
-      Hint: Page Title
-      Value: NOV Today Podcast
-    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
-      Hint: __Owner
-      Value: |
-        sitecore\verticgappau
-    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
-      Hint: __Created by
-      Value: |
-        sitecore\rainerschuhsler
-    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
-      Hint: Menu Title
-      Value: NOV Today Podcast
-    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
-      Hint: __Revision
-      Value: "5797a195-787d-4b7f-81fa-48c371bda6b2"
-    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
-      Hint: contentTag
-      Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
-    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
-      Hint: Featured Story CTA Text
-      Value: NOV Today Podcast
-    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
-      Hint: __Updated by
-      Value: |
-        sitecore\rainerschuhsler
-    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
-      Hint: Meta Description
-      Value: Discover the people, places, and technologies that shape the energy industry.
-    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
-      Hint: __Valid from
-      Value: 20221003T181223Z
-    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
-      Hint: Card Image
-      Value: |
-        <image mediaid="{FA7500CE-3BC7-4B24-A7DD-9BFC639113E3}" cropregion="38,0,1920,1079" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
-    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
-      Hint: __Updated
-      Value: 20221004T152622Z
-    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
-      Hint: Page Image
-      Value: |
-        <image mediaid="{FA7500CE-3BC7-4B24-A7DD-9BFC639113E3}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" />
-  - Version: 10
-    Fields:
-    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
-      Hint: __Lock
-      Value: <r />
-    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
-      Hint: __Final Renderings
-      Value: |
-        <r xmlns:p="p" xmlns:s="s"
-          p:p="1">
-          <d
-            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
-            <r
-              uid="{891379C9-C5B8-43EF-9A11-3157D7259FBC}"
-              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}" />
-            <r
-              uid="{567B5EE0-2011-441D-99C4-B048296EF03C}">
-              <p:d />
-            </r>
-            <r
-              uid="{29C0FB27-9EBE-466C-9648-1B3CED591D78}">
-              <p:d />
-            </r>
-            <r
-              uid="{55E55775-15F4-4BFC-8652-856E7AD1B9BA}">
-              <p:d />
-            </r>
-            <r
-              uid="{ADEFD730-6D25-41BA-B761-A852AA7DFCC1}">
-              <p:d />
-            </r>
-            <r
-              uid="{87CF5108-E08C-453E-9655-7DEA9ACAACF9}"
-              p:after="r[@uid='{891379C9-C5B8-43EF-9A11-3157D7259FBC}']"
-              s:ds="{11DDC002-D64E-4D64-A7EF-A51F3C6FAA28}"
-              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
-              s:par="Alignment=center"
-              s:ph="main" />
-            <r
-              uid="{A0B31BDD-7C63-4049-98B8-0632A1AD81DB}"
-              p:after="r[@uid='{87CF5108-E08C-453E-9655-7DEA9ACAACF9}']"
-              s:ds="{D122F7EB-5693-42F0-B8E3-41715676FD00}"
-              s:id="{541CD221-299D-4306-BA94-CF79FBAEB96F}"
-              s:ph="main" />
-            <r
-              uid="{352DA2A5-9DC9-42CB-830C-46BA9161741A}"
-              p:after="r[@uid='{A0B31BDD-7C63-4049-98B8-0632A1AD81DB}']"
-              s:ds="{4D3A939F-1666-4076-B945-FB55DAB707DA}"
-              s:id="{846AE873-D5C7-4033-928F-6BD96E963742}"
-              s:ph="main" />
-            <r
-              uid="{F73A1A41-CAEC-4059-A3D2-49F4853A49B4}"
-              p:after="*[1=2]"
-              s:ds="{FC6F5F73-0442-4CAC-A0BF-B40F4AF755F0}"
-              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
-              s:ph="main" />
-            <r
-              uid="{5287F413-D547-4F9D-8A6B-98CCCA8F16C3}">
-              <p:d />
-            </r>
-          </d>
-        </r>
-    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
-      Hint: Featured Story Headline
-      Value: NOV Today Podcast
-    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
-      Hint: Hide Secondary Navigation
-      Value: 1
-    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
-      Hint: Subheading
-      Value: <p>Discover the people, places, and technologies that shape the energy industry.</p>
-    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
-      Hint: Headline
-      Value: NOV Today Podcast
-    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
-      Hint: __Created
-      Value: 20221004T152752Z
-    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
-      Hint: Mobile Menu Title
-      Value: NOV Today Podcast
-    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
-      Hint: __Workflow state
-      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
-    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
-      Hint: Page Title
-      Value: NOV Today Podcast
-    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
-      Hint: __Owner
-      Value: |
-        sitecore\verticgappau
-    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
-      Hint: __Created by
-      Value: |
-        sitecore\rainerschuhsler
-    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
-      Hint: Menu Title
-      Value: NOV Today Podcast
-    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
-      Hint: __Revision
-      Value: "d5d228b0-561d-4f3c-b865-2249825ce373"
-    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
-      Hint: contentTag
-      Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
-    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
-      Hint: Featured Story CTA Text
-      Value: NOV Today Podcast
-    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
-      Hint: __Updated by
-      Value: |
-        sitecore\rainerschuhsler
-    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
-      Hint: Meta Description
-      Value: Discover the people, places, and technologies that shape the energy industry.
-    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
-      Hint: __Valid from
-      Value: 20221004T152752Z
-    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
-      Hint: Card Image
-      Value: |
-        <image mediaid="{FA7500CE-3BC7-4B24-A7DD-9BFC639113E3}" cropregion="38,0,1920,1079" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
-    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
-      Hint: __Updated
-      Value: 20221004T153057Z
+      Value: 20201117T214149Z
     - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
       Hint: Page Image
       Value: |

@@ -4,9 +4,6 @@ Parent: "9fcd1f2d-ad86-40d6-9698-de1b1f6cec04"
 Template: "dbc23d7d-62bd-46a5-b584-58b43c5dfaad"
 Path: /sitecore/content/nov/nov/Home/Products and Services/Tools/Tubo2Go
 SharedFields:
-- ID: "9135200a-5626-4dd8-ab9d-d665b8c11748"
-  Hint: __Never publish
-  Value: 1
 - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
   Hint: __Workflow
   Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
@@ -132,7 +129,7 @@ Languages:
       Value: Tubo2Go
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "b269d297-4fde-43d7-8bf2-813fe363e2c5"
+      Value: "044858f0-192b-4c18-b22b-ca0c0dc6fc2b"
     - ID: "8e5f2089-9c97-40f6-863a-9a9ce9fac0dc"
       Hint: redirectPageName
       Value: Tubo2Go on the App Store
@@ -149,7 +146,7 @@ Languages:
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\rainerschuhsler
+        sitecore\kaileyshelton
     - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
       Hint: Meta Description
       Value: Stay connected on the go and explore all Tuboscope can do for you.
@@ -162,7 +159,7 @@ Languages:
         <image mediaid="{6D49EAA1-4653-4FE4-BBB7-B9C3256DAD5E}" cropregion="0,131,1920,1233" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20220627T155016Z
+      Value: 20190610T180722Z
     - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
       Hint: Page Image
       Value: |

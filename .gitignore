@@ -79,3 +79,8 @@ packages/
 /src/rendering/src/temp/!GraphQLFragmentTypes.json
 /src/rendering/src/temp/!GraphQLIntrospectionResult.json
 /node_modules
+# graphql and sitecore code generation
+/.generated/*
+!/.generated/templates
+*.graphql.d.ts
+*.graphqls.d.ts

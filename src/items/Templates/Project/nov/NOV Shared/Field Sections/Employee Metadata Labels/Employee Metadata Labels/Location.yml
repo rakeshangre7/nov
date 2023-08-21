@@ -2,7 +2,7 @@
 ID: "548528d3-0b53-439e-8725-cee70073ce46"
 Parent: "609c63dc-b709-4af4-948b-1cd3f766c8c8"
 Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/nov/NOV Shared/Field Sections/Employee Metadata Labels/Employee Metadata Labels/Location
+Path: /sitecore/templates/Project/nov/NOV Shared/Field Sections/Employee Metadata Labels/Employee Metadata Labels/location
 SharedFields:
 - ID: "21828437-ea4b-40a1-8c61-4ce60ea41db6"
   Hint: Validate Button
@@ -23,6 +23,27 @@ SharedFields:
   Hint: __Sortorder
   Value: 200
 Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230820T071007Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\varalakshmi.md@horizontal.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8a5fa9fb-7448-44cb-b6f6-7d650e9e0e48"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\varalakshmi.md@horizontal.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230820T071007Z
 - Language: "en-US"
   Versions:
   - Version: 1

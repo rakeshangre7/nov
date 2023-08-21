@@ -24,7 +24,8 @@ Languages:
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
               uid="{1C56C344-4578-4758-B430-8A58A494C4CE}"
-              s:par="Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0" />
+              s:ds=""
+              s:par="Add Gradient&amp;Text Color=black" />
             <r
               uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
               <p:d />
@@ -32,9 +33,114 @@ Languages:
             <r
               uid="{23312E3B-ECC9-4DA5-B142-A4AEBEFA518A}"
               p:after="*[1=2]"
-              s:ds="{B8A29B46-DAD4-4907-87F9-9248410B5FE9}"
+              s:ds="{0FA516AB-E04B-4F6E-B081-18C7137E6D97}"
               s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
-              s:par="Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0&amp;Background Color=%7bD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7d"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Tolteq
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Enhance your drilling performance with the latest MWD tools, software, and surface systems.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Tolteq
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190412T204456Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Tolteq
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Tolteq Brand Page
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\melissapastrano
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\melissapastrano
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Tolteq
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "acfe39c0-3143-4867-b576-bbc11565de7b"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{EA155798-89F9-42A8-A18A-1921664D1E01}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: Tolteq
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\melissapastrano
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Our Tolteq™ brand represents the latest MWD tools, software, and surface systems, which provide fast, accurate downhole data to enhance your drilling performance.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190412T204456Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{E27E018B-11CA-4E61-8A06-700597CDA239}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190412T204540Z
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: drilling, MWD, software, surface systems, downhole data
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{E27E018B-11CA-4E61-8A06-700597CDA239}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+    - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
+      Hint: brand
+      Value: "{E2BFF6DA-6FC0-4357-861D-608BA74A7D35}"
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}"
+              s:ds=""
+              s:par="Add Gradient&amp;Text Color=black" />
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{23312E3B-ECC9-4DA5-B142-A4AEBEFA518A}"
+              p:after="*[1=2]"
+              s:ds="{0FA516AB-E04B-4F6E-B081-18C7137E6D97}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
               s:ph="main" />
             <r
               uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
@@ -80,7 +186,7 @@ Languages:
       Value: Tolteq
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "d4cb673f-941f-4822-a86a-5cba9f9b85a4"
+      Value: "c5ff599b-4d7b-4435-8b14-76458c076075"
     - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
       Hint: contentTag
       Value: "{EA155798-89F9-42A8-A18A-1921664D1E01}"
@@ -90,7 +196,7 @@ Languages:
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\virtualssuser
+        sitecore\melissapastrano
     - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
       Hint: Meta Description
       Value: Our Tolteq™ brand represents the latest MWD tools, software, and surface systems, which provide fast, accurate downhole data to enhance your drilling performance.
@@ -103,7 +209,7 @@ Languages:
         <image mediaid="{E27E018B-11CA-4E61-8A06-700597CDA239}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20220708T180947Z
+      Value: 20190412T205309Z
     - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
       Hint: Meta Keywords
       Value: drilling, MWD, software, surface systems, downhole data
@@ -114,7 +220,7 @@ Languages:
     - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
       Hint: brand
       Value: "{E2BFF6DA-6FC0-4357-861D-608BA74A7D35}"
-  - Version: 2
+  - Version: 3
     Fields:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
@@ -128,6 +234,7 @@ Languages:
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
               uid="{1C56C344-4578-4758-B430-8A58A494C4CE}"
+              s:ds=""
               s:par="Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0" />
             <r
               uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
@@ -140,7 +247,7 @@ Languages:
             <r
               uid="{23312E3B-ECC9-4DA5-B142-A4AEBEFA518A}"
               p:after="r[@uid='{3F94459F-580E-478C-AF58-1F6F8D07C8A9}']"
-              s:ds="{B8A29B46-DAD4-4907-87F9-9248410B5FE9}"
+              s:ds="{0FA516AB-E04B-4F6E-B081-18C7137E6D97}"
               s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
               s:par="Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0&amp;Background Color=%7bD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7d"
               s:ph="main" />
@@ -190,7 +297,7 @@ Languages:
       Value: Tolteq
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "6f1c2a07-7e44-4a31-9f6c-7415d37fabcc"
+      Value: "072f3cd7-43d6-4d0a-add1-1af5eb506516"
     - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
       Hint: contentTag
       Value: "{EA155798-89F9-42A8-A18A-1921664D1E01}"
@@ -200,7 +307,7 @@ Languages:
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\virtualssuser
+        sitecore\kaileyshelton
     - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
       Hint: Meta Description
       Value: Our Tolteq™ brand represents the latest MWD tools, software, and surface systems, which provide fast, accurate downhole data to enhance your drilling performance.
@@ -213,7 +320,7 @@ Languages:
         <image mediaid="{E27E018B-11CA-4E61-8A06-700597CDA239}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20220708T180947Z
+      Value: 20190508T154757Z
     - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
       Hint: Meta Keywords
       Value: drilling, MWD, software, surface systems, downhole data
@@ -224,7 +331,7 @@ Languages:
     - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
       Hint: brand
       Value: "{E2BFF6DA-6FC0-4357-861D-608BA74A7D35}"
-  - Version: 3
+  - Version: 4
     Fields:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
@@ -238,6 +345,7 @@ Languages:
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
               uid="{1C56C344-4578-4758-B430-8A58A494C4CE}"
+              s:ds=""
               s:par="Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0" />
             <r
               uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
@@ -250,7 +358,7 @@ Languages:
             <r
               uid="{23312E3B-ECC9-4DA5-B142-A4AEBEFA518A}"
               p:after="r[@uid='{3F94459F-580E-478C-AF58-1F6F8D07C8A9}']"
-              s:ds="{B8A29B46-DAD4-4907-87F9-9248410B5FE9}"
+              s:ds="{0FA516AB-E04B-4F6E-B081-18C7137E6D97}"
               s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
               s:par="Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0&amp;Background Color=%7bD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7d"
               s:ph="main" />
@@ -303,7 +411,7 @@ Languages:
       Value: "Brand: Tolteq"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "68504753-150e-4e32-aa20-9ae945909b1d"
+      Value: "b32d2b8a-950c-428f-b8a0-c3008c953c4b"
     - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
       Hint: contentTag
       Value: "{EA155798-89F9-42A8-A18A-1921664D1E01}"
@@ -313,7 +421,7 @@ Languages:
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\virtualssuser
+        sitecore\arshmomin
     - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
       Hint: Meta Description
       Value: Our Tolteq™ brand represents the latest MWD tools, software, and surface systems, which provide fast, accurate downhole data to enhance your drilling performance.
@@ -326,7 +434,7 @@ Languages:
         <image mediaid="{E27E018B-11CA-4E61-8A06-700597CDA239}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20220708T180948Z
+      Value: 20190517T165809Z
     - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
       Hint: Meta Keywords
       Value: drilling, MWD, software, surface systems, downhole data
@@ -337,7 +445,7 @@ Languages:
     - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
       Hint: brand
       Value: "{E2BFF6DA-6FC0-4357-861D-608BA74A7D35}"
-  - Version: 4
+  - Version: 5
     Fields:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
@@ -351,6 +459,7 @@ Languages:
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
               uid="{1C56C344-4578-4758-B430-8A58A494C4CE}"
+              s:ds=""
               s:par="Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0" />
             <r
               uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
@@ -367,7 +476,7 @@ Languages:
             <r
               uid="{23312E3B-ECC9-4DA5-B142-A4AEBEFA518A}"
               p:after="r[@uid='{3F94459F-580E-478C-AF58-1F6F8D07C8A9}']"
-              s:ds="{B8A29B46-DAD4-4907-87F9-9248410B5FE9}"
+              s:ds="{0FA516AB-E04B-4F6E-B081-18C7137E6D97}"
               s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
               s:par="Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0&amp;Background Color=%7bD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7d"
               s:ph="main" />
@@ -422,7 +531,7 @@ Languages:
       Value: "Brand: Tolteq"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "63c3b958-a63e-413d-ab09-f43a6e754ad5"
+      Value: "31c82849-89a1-40e0-8eb1-7a979b78faa9"
     - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
       Hint: contentTag
       Value: "{EA155798-89F9-42A8-A18A-1921664D1E01}"
@@ -432,7 +541,7 @@ Languages:
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\virtualssuser
+        sitecore\arshmomin
     - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
       Hint: Meta Description
       Value: Our Tolteq™ brand represents the latest MWD tools, software, and surface systems, which provide fast, accurate downhole data to enhance your drilling performance.
@@ -445,7 +554,7 @@ Languages:
         <image mediaid="{E27E018B-11CA-4E61-8A06-700597CDA239}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20220708T180947Z
+      Value: 20190517T165914Z
     - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
       Hint: Meta Keywords
       Value: drilling, MWD, software, surface systems, downhole data
@@ -456,7 +565,7 @@ Languages:
     - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
       Hint: brand
       Value: "{E2BFF6DA-6FC0-4357-861D-608BA74A7D35}"
-  - Version: 5
+  - Version: 6
     Fields:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
@@ -470,6 +579,7 @@ Languages:
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
               uid="{1C56C344-4578-4758-B430-8A58A494C4CE}"
+              s:ds=""
               s:par="Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0" />
             <r
               uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
@@ -486,7 +596,7 @@ Languages:
             <r
               uid="{23312E3B-ECC9-4DA5-B142-A4AEBEFA518A}"
               p:after="r[@uid='{3F94459F-580E-478C-AF58-1F6F8D07C8A9}']"
-              s:ds="{B8A29B46-DAD4-4907-87F9-9248410B5FE9}"
+              s:ds="{0FA516AB-E04B-4F6E-B081-18C7137E6D97}"
               s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
               s:par="Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0&amp;Background Color=%7bD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7d"
               s:ph="main" />
@@ -547,7 +657,7 @@ Languages:
       Value: "Brand: Tolteq"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "391e2d02-e2c2-41ed-ac86-035d94db82f3"
+      Value: "f73865eb-28fb-4024-a3b1-65b7634a0d68"
     - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
       Hint: contentTag
       Value: "{EA155798-89F9-42A8-A18A-1921664D1E01}"
@@ -557,7 +667,7 @@ Languages:
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\virtualssuser
+        sitecore\heatherbaxter
     - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
       Hint: Meta Description
       Value: Our Tolteq™ brand represents the latest MWD tools, software, and surface systems, which provide fast, accurate downhole data to enhance your drilling performance.
@@ -570,7 +680,7 @@ Languages:
         <image mediaid="{E27E018B-11CA-4E61-8A06-700597CDA239}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20220708T180947Z
+      Value: 20190521T140202Z
     - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
       Hint: Meta Keywords
       Value: drilling, MWD, software, surface systems, downhole data
@@ -581,7 +691,7 @@ Languages:
     - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
       Hint: brand
       Value: "{E2BFF6DA-6FC0-4357-861D-608BA74A7D35}"
-  - Version: 6
+  - Version: 7
     Fields:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
@@ -595,7 +705,8 @@ Languages:
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
               uid="{1C56C344-4578-4758-B430-8A58A494C4CE}"
-              s:par="Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0" />
+              s:ds=""
+              s:par="Add Gradient&amp;Text Color=black" />
             <r
               uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
               <p:d />
@@ -611,7 +722,7 @@ Languages:
             <r
               uid="{23312E3B-ECC9-4DA5-B142-A4AEBEFA518A}"
               p:after="r[@uid='{3F94459F-580E-478C-AF58-1F6F8D07C8A9}']"
-              s:ds="{B8A29B46-DAD4-4907-87F9-9248410B5FE9}"
+              s:ds="{0FA516AB-E04B-4F6E-B081-18C7137E6D97}"
               s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
               s:par="Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0&amp;Background Color=%7bD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7d"
               s:ph="main" />
@@ -666,7 +777,7 @@ Languages:
       Value: "Brand: Tolteq"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "44ba44c6-e1bf-454d-9ce1-ff0c23e85d89"
+      Value: "21547628-addc-484e-b92c-7029cf92666f"
     - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
       Hint: contentTag
       Value: "{EA155798-89F9-42A8-A18A-1921664D1E01}"
@@ -676,7 +787,7 @@ Languages:
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\virtualssuser
+        sitecore\kaileyshelton
     - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
       Hint: Meta Description
       Value: Our Tolteq™ brand represents the latest MWD tools, software, and surface systems, which provide fast, accurate downhole data to enhance your drilling performance.
@@ -689,7 +800,7 @@ Languages:
         <image mediaid="{E27E018B-11CA-4E61-8A06-700597CDA239}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20220708T180947Z
+      Value: 20190517T184336Z
     - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
       Hint: Meta Keywords
       Value: drilling, MWD, software, surface systems, downhole data
@@ -700,7 +811,7 @@ Languages:
     - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
       Hint: brand
       Value: "{E2BFF6DA-6FC0-4357-861D-608BA74A7D35}"
-  - Version: 7
+  - Version: 8
     Fields:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
@@ -714,7 +825,8 @@ Languages:
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
               uid="{1C56C344-4578-4758-B430-8A58A494C4CE}"
-              s:par="Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0" />
+              s:ds=""
+              s:par="Add Gradient&amp;Text Color=black" />
             <r
               uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
               <p:d />
@@ -730,7 +842,7 @@ Languages:
             <r
               uid="{23312E3B-ECC9-4DA5-B142-A4AEBEFA518A}"
               p:after="r[@uid='{3F94459F-580E-478C-AF58-1F6F8D07C8A9}']"
-              s:ds="{B8A29B46-DAD4-4907-87F9-9248410B5FE9}"
+              s:ds="{0FA516AB-E04B-4F6E-B081-18C7137E6D97}"
               s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
               s:par="Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0&amp;Background Color=%7bD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7d"
               s:ph="main" />
@@ -785,7 +897,7 @@ Languages:
       Value: "Brand: Tolteq"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "b41d2869-978b-475b-ae7f-cf6be080a9d8"
+      Value: "615f2df7-8aae-43c2-8550-ad6622bfeb50"
     - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
       Hint: contentTag
       Value: "{EA155798-89F9-42A8-A18A-1921664D1E01}"
@@ -795,7 +907,7 @@ Languages:
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\virtualssuser
+        sitecore\rainerschuhsler
     - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
       Hint: Meta Description
       Value: Our Tolteq™ brand represents the latest MWD tools, software, and surface systems, which provide fast, accurate downhole data to enhance your drilling performance.
@@ -808,7 +920,7 @@ Languages:
         <image mediaid="{E27E018B-11CA-4E61-8A06-700597CDA239}" cropregion="18,0,1901,1080" ratio="514:295" width="514" height="295" />
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20220708T180948Z
+      Value: 20190605T195829Z
     - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
       Hint: Meta Keywords
       Value: drilling, MWD, software, surface systems, downhole data
@@ -816,125 +928,6 @@ Languages:
       Hint: Page Image
       Value: |
         <image mediaid="{E27E018B-11CA-4E61-8A06-700597CDA239}" cropregion="0,0,1920,1080" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
-    - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
-      Hint: brand
-      Value: "{E2BFF6DA-6FC0-4357-861D-608BA74A7D35}"
-  - Version: 8
-    Fields:
-    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
-      Hint: __Lock
-      Value: <r />
-    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
-      Hint: __Final Renderings
-      Value: |
-        <r xmlns:p="p" xmlns:s="s"
-          p:p="1">
-          <d
-            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
-            <r
-              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}"
-              s:par="Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0" />
-            <r
-              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
-              <p:d />
-            </r>
-            <r
-              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
-              <p:d />
-            </r>
-            <r
-              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
-              <p:d />
-            </r>
-            <r
-              uid="{23312E3B-ECC9-4DA5-B142-A4AEBEFA518A}"
-              p:after="r[@uid='{3F94459F-580E-478C-AF58-1F6F8D07C8A9}']"
-              s:ds="{B8A29B46-DAD4-4907-87F9-9248410B5FE9}"
-              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
-              s:par="Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0&amp;Background Color=%7bD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7d"
-              s:ph="main" />
-            <r
-              uid="{5FD49877-DACB-4B2D-AC30-17D0FCA3AC8F}"
-              p:after="r[@uid='{23312E3B-ECC9-4DA5-B142-A4AEBEFA518A}']"
-              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
-              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
-              s:ph="main" />
-            <r
-              uid="{58C4D416-3EC2-4535-9268-723FDB670383}"
-              p:after="*[1=2]"
-              s:ds="{1C12CB23-F10C-49F7-A857-B7208BC02E18}"
-              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
-              s:ph="main" />
-          </d>
-        </r>
-    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
-      Hint: Featured Story Headline
-      Value: Tolteq
-    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
-      Hint: Subheading
-      Value: <p>Enhance your drilling performance with the latest MWD tools, software, and surface systems.</p>
-    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
-      Hint: Headline
-      Value: Tolteq
-    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
-      Hint: __Created
-      Value: 20190607T193524Z
-    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
-      Hint: Mobile Menu Title
-      Value: Tolteq
-    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
-      Hint: __Workflow state
-      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
-    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
-      Hint: Page Title
-      Value: Tolteq
-    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
-      Hint: __Owner
-      Value: |
-        sitecore\melissapastrano
-    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
-      Hint: __Created by
-      Value: |
-        sitecore\charisgamroth
-    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
-      Hint: Menu Title
-      Value: Tolteq
-    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
-      Hint: Search Result Text
-      Value: "Brand: Tolteq"
-    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
-      Hint: __Revision
-      Value: "32d256a6-5be2-4b58-a255-de502519994b"
-    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
-      Hint: contentTag
-      Value: "{EA155798-89F9-42A8-A18A-1921664D1E01}"
-    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
-      Hint: Featured Story CTA Text
-      Value: Tolteq
-    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
-      Hint: __Updated by
-      Value: |
-        sitecore\virtualssuser
-    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
-      Hint: Meta Description
-      Value: Our Tolteq™ brand represents the latest MWD tools, software, and surface systems, which provide fast, accurate downhole data to enhance your drilling performance.
-    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
-      Hint: __Valid from
-      Value: 20190607T193524Z
-    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
-      Hint: Card Image
-      Value: |
-        <image mediaid="{FC699288-3394-45B9-A92E-E22EB22BE82D}" cropregion="0,160,1920,1262" ratio="514:295" width="514" height="295" />
-    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
-      Hint: __Updated
-      Value: 20220708T180948Z
-    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
-      Hint: Meta Keywords
-      Value: drilling, MWD, software, surface systems, downhole data
-    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
-      Hint: Page Image
-      Value: |
-        <image mediaid="{FC699288-3394-45B9-A92E-E22EB22BE82D}" cropregion="0,172,1920,1252" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
     - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
       Hint: brand
       Value: "{E2BFF6DA-6FC0-4357-861D-608BA74A7D35}"
@@ -952,7 +945,8 @@ Languages:
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
               uid="{1C56C344-4578-4758-B430-8A58A494C4CE}"
-              s:par="Add Gradient=1&amp;Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0" />
+              s:ds=""
+              s:par="Add Gradient&amp;Text Color=black" />
             <r
               uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
               <p:d />
@@ -968,7 +962,7 @@ Languages:
             <r
               uid="{23312E3B-ECC9-4DA5-B142-A4AEBEFA518A}"
               p:after="r[@uid='{3F94459F-580E-478C-AF58-1F6F8D07C8A9}']"
-              s:ds="{B8A29B46-DAD4-4907-87F9-9248410B5FE9}"
+              s:ds="{0FA516AB-E04B-4F6E-B081-18C7137E6D97}"
               s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
               s:par="Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0&amp;Background Color=%7bD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7d"
               s:ph="main" />
@@ -997,7 +991,7 @@ Languages:
       Value: Tolteq
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20190607T194012Z
+      Value: 20190607T193524Z
     - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
       Hint: Mobile Menu Title
       Value: Tolteq
@@ -1023,7 +1017,7 @@ Languages:
       Value: "Brand: Tolteq"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "67200075-b97d-4664-8e0f-4d504e0ba37b"
+      Value: "8ca4d716-c4de-48b9-b121-181456069f48"
     - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
       Hint: contentTag
       Value: "{EA155798-89F9-42A8-A18A-1921664D1E01}"
@@ -1033,20 +1027,20 @@ Languages:
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\virtualssuser
+        sitecore\charisgamroth
     - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
       Hint: Meta Description
       Value: Our Tolteq™ brand represents the latest MWD tools, software, and surface systems, which provide fast, accurate downhole data to enhance your drilling performance.
     - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
       Hint: __Valid from
-      Value: 20190607T194012Z
+      Value: 20190607T193524Z
     - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
       Hint: Card Image
       Value: |
         <image mediaid="{FC699288-3394-45B9-A92E-E22EB22BE82D}" cropregion="0,160,1920,1262" ratio="514:295" width="514" height="295" />
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20220708T180948Z
+      Value: 20190607T193724Z
     - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
       Hint: Meta Keywords
       Value: drilling, MWD, software, surface systems, downhole data
@@ -1070,6 +1064,10 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
               uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
               <p:d />
             </r>
@@ -1084,7 +1082,7 @@ Languages:
             <r
               uid="{23312E3B-ECC9-4DA5-B142-A4AEBEFA518A}"
               p:after="r[@uid='{3F94459F-580E-478C-AF58-1F6F8D07C8A9}']"
-              s:ds="{B8A29B46-DAD4-4907-87F9-9248410B5FE9}"
+              s:ds="{0FA516AB-E04B-4F6E-B081-18C7137E6D97}"
               s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
               s:par="Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0&amp;Background Color=%7bD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7d"
               s:ph="main" />
@@ -1113,7 +1111,7 @@ Languages:
       Value: Tolteq
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20220708T175107Z
+      Value: 20190607T194012Z
     - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
       Hint: Mobile Menu Title
       Value: Tolteq
@@ -1130,7 +1128,7 @@ Languages:
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
-        sitecore\lissettegomezandrews
+        sitecore\charisgamroth
     - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
       Hint: Menu Title
       Value: Tolteq
@@ -1139,7 +1137,7 @@ Languages:
       Value: "Brand: Tolteq"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "ff2a1c58-9467-471b-8814-d9c1581974e1"
+      Value: "9cedfd7c-ba7f-4e9a-9ddb-f0e3708dc2ec"
     - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
       Hint: contentTag
       Value: "{EA155798-89F9-42A8-A18A-1921664D1E01}"
@@ -1149,20 +1147,20 @@ Languages:
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\lissettegomezandrews
+        sitecore\charisgamroth
     - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
       Hint: Meta Description
       Value: Our Tolteq™ brand represents the latest MWD tools, software, and surface systems, which provide fast, accurate downhole data to enhance your drilling performance.
     - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
       Hint: __Valid from
-      Value: 20220708T175107Z
+      Value: 20190607T194012Z
     - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
       Hint: Card Image
       Value: |
         <image mediaid="{FC699288-3394-45B9-A92E-E22EB22BE82D}" cropregion="0,160,1920,1262" ratio="514:295" width="514" height="295" />
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20220708T180832Z
+      Value: 20190607T194111Z
     - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
       Hint: Meta Keywords
       Value: drilling, MWD, software, surface systems, downhole data

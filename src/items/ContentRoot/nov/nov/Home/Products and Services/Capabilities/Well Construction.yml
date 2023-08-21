@@ -7,10 +7,6 @@ SharedFields:
 - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
   Hint: __Workflow
   Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
-- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
-  Hint: __Thumbnail
-  Value: |
-    <image mediaid="{FB11E504-8870-4775-857D-E6CC53C685EB}" />
 Languages:
 - Language: "en-US"
   Versions:
@@ -910,6 +906,10 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
               uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
               <p:d />
             </r>
@@ -970,7 +970,7 @@ Languages:
       Value: Well Construction
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "8c7e6098-1962-4747-9646-b2118d6ed2d2"
+      Value: "f4c63206-39a1-49a1-8c61-1750163db344"
     - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
       Hint: contentTag
       Value: "{894AD693-62BC-4D0F-8E34-42401EBEF1F3}"
@@ -980,7 +980,7 @@ Languages:
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\varalakshmi.md@horizontal.com
+        sitecore\heatherbaxter
     - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
       Hint: Meta Description
       Value: "Building an oil or gas well is a complicated affair involving a significant amount of equipment and technical know-how. We have the solutions you need to achieve excellence in well design, helping ensure your continued production success."
@@ -993,7 +993,7 @@ Languages:
         <image mediaid="{595722CE-B0AA-4140-92D8-D4731784E9A1}" cropregion="0,88,1920,1192" ratio="514:295" width="514" height="295" />
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230725T095030Z
+      Value: 20190926T213903Z
     - ID: "da134e40-cb02-4645-9846-115fb9a5aeca"
       Hint: capability
       Value: "{EDEDF8E3-B6C8-4DEA-B395-D437BD090294}"

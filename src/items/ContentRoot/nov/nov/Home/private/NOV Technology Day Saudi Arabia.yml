@@ -1,0 +1,1446 @@
+﻿---
+ID: "d83f9af9-6051-4f30-83f3-8d7bdbefbe16"
+Parent: "65984038-5343-4cb9-8b8d-acb5350ad754"
+Template: "1bf45569-a9ee-482e-8c1f-6aed83c3c8ab"
+Path: /sitecore/content/nov/nov/Home/private/NOV Technology Day Saudi Arabia
+SharedFields:
+- ID: "66afdd9e-0c87-4ef2-9ef2-405f3b88a047"
+  Hint: Hide From Search
+  Value: 1
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 570
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+      xmlnxsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{40C0E7ED-9887-49E1-8E89-43D16DD2AD6C}">
+        <r
+          ds=""
+          id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+          par="Add Gradient=1&amp;Text Color=white"
+          ph="/main/hero-slide-{945C1340-ED54-40B6-82B9-E426012500B4}-0"
+          uid="{DF772360-E5C4-4162-B9E4-D8DAAE753245}" />
+        <r
+          id="{AB213187-9551-4F9B-AE3D-261BB2B2434F}"
+          ph="main"
+          uid="{945C1340-ED54-40B6-82B9-E426012500B4}" />
+        <r
+          ds="{58FF0341-171F-43A9-BCB2-9B1F7F765F0E}"
+          id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+          par="Alignment"
+          ph="main"
+          uid="{D9DC2E91-2941-4E2F-BCD7-3809E1023600}" />
+        <r
+          ds="{0731B4D1-33E8-46B9-8A30-7BF934490B89}"
+          id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+          par=""
+          ph="main"
+          uid="{82CC48F6-44A9-4DC7-9B50-55B2B32A157A}" />
+      </d>
+    </r>
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "019c3c8b-3d47-4b92-a8e9-838880ddf307"
+      Hint: Open Graph Title
+      Value: NOV Technology Day
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{D9DC2E91-2941-4E2F-BCD7-3809E1023600}">
+              <p:d />
+            </r>
+            <r
+              uid="{82CC48F6-44A9-4DC7-9B50-55B2B32A157A}">
+              <p:d />
+            </r>
+            <r
+              uid="{9391FE54-2D08-409F-A7B6-D552974CE9DF}"
+              p:after="r[@uid='{945C1340-ED54-40B6-82B9-E426012500B4}']"
+              s:ds="{32F7693B-607F-4D6D-AF34-5FC14FC2CB81}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{A2263378-9BC4-4A5A-8793-E17615926252}"
+              p:after="r[@uid='{9391FE54-2D08-409F-A7B6-D552974CE9DF}']"
+              s:ds="{FD5858C9-9558-4FBB-98FE-9425EDB4E8F0}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:ph="main" />
+            <r
+              uid="{5BCA38DA-3F76-446D-9ADD-03436F7915C0}"
+              p:after="*[1=2]"
+              s:ds="{2A41D287-F179-43FE-B43B-D7E4DEA6E396}"
+              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
+              s:par="Use Button for Link"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: ADNOC 2022
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: |
+        <p>NOV invites you to join the conversation as we host a panel discussion about technology, innovation, and positive change in our industry.</p>
+        <p>Learn about NOV’s digital offerings, advancements in robotics, and how we are contributing to a low carbon future.</p>
+        <p><strong>When:</strong> Tuesday, 20th September 2022 at 10:30 AM to 12:30 PM<br />
+        <strong>Where:</strong> Conrad Hotel Abu Dhabi Etihad Towers &ndash; Mezzoon Ballroom &ndash; Abu Dhabi, UAE</p>
+        <a tab-index="0" href="#rsvp" class="ui-btn--primary half-bar">RSVP</a>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: NOV Technology Day
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220812T135206Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: NOV Technology Day
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{8B87E652-E3F7-4C54-BDD9-66E1B888FF8B}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: NOV Technology Day
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{4D581BD7-C922-4693-B6EC-377FF689B7BF}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: NOV Technology Day
+    - ID: "6f84eee0-ddfa-478a-b9fb-8a7adc34ed42"
+      Hint: Start Date
+      Value: 20220920T000000Z
+    - ID: "81beeffb-e4e6-44ad-aa32-b3380b8d3fcd"
+      Hint: city
+      Value: Abu Dhabi
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "691f529f-f871-42a1-a2c2-da40c950587e"
+    - ID: "8f4016b6-4a51-4621-90cb-77774279dba3"
+      Hint: End Date
+      Value: 20220920T000000Z
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{E7052507-CEF7-45CC-B52B-C65B98F4ADA7}"
+    - ID: "b0d622b7-156a-4f17-9ce4-4dd213df0302"
+      Hint: Date
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "bba7d4dd-7d1e-428e-b80d-055170466dc3"
+      Hint: country
+      Value: UAE
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20220812T135206Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{4D581BD7-C922-4693-B6EC-377FF689B7BF}" cropregion="22,0,1906,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230707T210740Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{4D581BD7-C922-4693-B6EC-377FF689B7BF}" cropregion="4,0,1924,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 2
+    Fields:
+    - ID: "019c3c8b-3d47-4b92-a8e9-838880ddf307"
+      Hint: Open Graph Title
+      Value: NOV Technology Day
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{D9DC2E91-2941-4E2F-BCD7-3809E1023600}">
+              <p:d />
+            </r>
+            <r
+              uid="{82CC48F6-44A9-4DC7-9B50-55B2B32A157A}">
+              <p:d />
+            </r>
+            <r
+              uid="{9391FE54-2D08-409F-A7B6-D552974CE9DF}"
+              p:after="r[@uid='{945C1340-ED54-40B6-82B9-E426012500B4}']"
+              s:ds="{32F7693B-607F-4D6D-AF34-5FC14FC2CB81}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{A2263378-9BC4-4A5A-8793-E17615926252}"
+              p:after="r[@uid='{9391FE54-2D08-409F-A7B6-D552974CE9DF}']"
+              s:ds="{FD5858C9-9558-4FBB-98FE-9425EDB4E8F0}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:ph="main" />
+            <r
+              uid="{5BCA38DA-3F76-446D-9ADD-03436F7915C0}"
+              p:after="*[1=2]"
+              s:ds="{2A41D287-F179-43FE-B43B-D7E4DEA6E396}"
+              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
+              s:par="Use Button for Link"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: ADNOC 2022
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: |
+        <p>NOV invites you to join the conversation as we host a panel discussion about technology, innovation, and positive change in our industry.</p>
+        <p>Learn about NOV&rsquo;s digital offerings, advancements in robotics, and how we are contributing to a low carbon future.</p>
+        <p><strong>When:</strong> Tuesday, 20th September 2022 at 10:30 AM to 12:30 PM</p>
+        <p><strong>Where:</strong> Conrad Hotel Abu Dhabi Etihad Towers &ndash; Mezzoon Ballroom &ndash; Abu Dhabi, UAE</p>
+        <a href="#rsvp" class="ui-btn--primary half-bar">RSVP</a>
+        <a href="-/media/4c4b7e6c1f764ca1bf77a47ce0a651d2.ashx" class="ui-btn--box">Add to Calendar</a>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: NOV Technology Day
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220812T145347Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: NOV Technology Day
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{8B87E652-E3F7-4C54-BDD9-66E1B888FF8B}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: NOV Technology Day
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{4D581BD7-C922-4693-B6EC-377FF689B7BF}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: NOV Technology Day
+    - ID: "6f84eee0-ddfa-478a-b9fb-8a7adc34ed42"
+      Hint: Start Date
+      Value: 20220920T000000Z
+    - ID: "81beeffb-e4e6-44ad-aa32-b3380b8d3fcd"
+      Hint: city
+      Value: Abu Dhabi
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "12d75ea9-7930-44cb-a347-499ea4b32309"
+    - ID: "8f4016b6-4a51-4621-90cb-77774279dba3"
+      Hint: End Date
+      Value: 20220920T000000Z
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{E7052507-CEF7-45CC-B52B-C65B98F4ADA7}"
+    - ID: "b0d622b7-156a-4f17-9ce4-4dd213df0302"
+      Hint: Date
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "bba7d4dd-7d1e-428e-b80d-055170466dc3"
+      Hint: country
+      Value: UAE
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20220812T145347Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{4D581BD7-C922-4693-B6EC-377FF689B7BF}" cropregion="22,0,1906,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230707T210740Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{4D581BD7-C922-4693-B6EC-377FF689B7BF}" cropregion="4,0,1924,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 3
+    Fields:
+    - ID: "019c3c8b-3d47-4b92-a8e9-838880ddf307"
+      Hint: Open Graph Title
+      Value: NOV Technology Day
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{D9DC2E91-2941-4E2F-BCD7-3809E1023600}">
+              <p:d />
+            </r>
+            <r
+              uid="{82CC48F6-44A9-4DC7-9B50-55B2B32A157A}">
+              <p:d />
+            </r>
+            <r
+              uid="{9391FE54-2D08-409F-A7B6-D552974CE9DF}"
+              p:after="r[@uid='{945C1340-ED54-40B6-82B9-E426012500B4}']"
+              s:ds="{32F7693B-607F-4D6D-AF34-5FC14FC2CB81}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{A2263378-9BC4-4A5A-8793-E17615926252}"
+              p:after="r[@uid='{9391FE54-2D08-409F-A7B6-D552974CE9DF}']"
+              s:ds="{FD5858C9-9558-4FBB-98FE-9425EDB4E8F0}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:ph="main" />
+            <r
+              uid="{5BCA38DA-3F76-446D-9ADD-03436F7915C0}"
+              p:after="*[1=2]"
+              s:ds="{2A41D287-F179-43FE-B43B-D7E4DEA6E396}"
+              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
+              s:par="Use Button for Link"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: ADNOC 2022
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: |
+        <p>NOV invites you to join the conversation as we host a panel discussion about technology, innovation, and positive change in our industry.</p>
+        <p>Learn about NOV&rsquo;s digital offerings, advancements in robotics, and how we are contributing to a low carbon future.</p>
+        <p><strong>When:</strong> Tuesday, 20th September 2022 at 10:30 AM to 12:30 PM</p>
+        <p><strong>Where:</strong> Conrad Hotel Abu Dhabi Etihad Towers &ndash; Mezzoon Ballroom &ndash; Abu Dhabi, UAE</p>
+        <a href="#rsvp" class="ui-btn--box">RSVP</a>
+        <a href="-/media/4c4b7e6c1f764ca1bf77a47ce0a651d2.ashx" class="ui-btn--box">Add to Calendar</a>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: NOV Technology Day
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220812T145541Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: NOV Technology Day
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{8B87E652-E3F7-4C54-BDD9-66E1B888FF8B}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: NOV Technology Day
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{4D581BD7-C922-4693-B6EC-377FF689B7BF}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: NOV Technology Day
+    - ID: "6f84eee0-ddfa-478a-b9fb-8a7adc34ed42"
+      Hint: Start Date
+      Value: 20220920T000000Z
+    - ID: "81beeffb-e4e6-44ad-aa32-b3380b8d3fcd"
+      Hint: city
+      Value: Abu Dhabi
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6f23424d-8429-4b5a-851a-12edcef8a1f9"
+    - ID: "8f4016b6-4a51-4621-90cb-77774279dba3"
+      Hint: End Date
+      Value: 20220920T000000Z
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{E7052507-CEF7-45CC-B52B-C65B98F4ADA7}"
+    - ID: "b0d622b7-156a-4f17-9ce4-4dd213df0302"
+      Hint: Date
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "bba7d4dd-7d1e-428e-b80d-055170466dc3"
+      Hint: country
+      Value: UAE
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20220812T145541Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{4D581BD7-C922-4693-B6EC-377FF689B7BF}" cropregion="22,0,1906,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230707T210740Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{4D581BD7-C922-4693-B6EC-377FF689B7BF}" cropregion="4,0,1924,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 4
+    Fields:
+    - ID: "019c3c8b-3d47-4b92-a8e9-838880ddf307"
+      Hint: Open Graph Title
+      Value: NOV Technology Day
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{D9DC2E91-2941-4E2F-BCD7-3809E1023600}">
+              <p:d />
+            </r>
+            <r
+              uid="{82CC48F6-44A9-4DC7-9B50-55B2B32A157A}">
+              <p:d />
+            </r>
+            <r
+              uid="{9391FE54-2D08-409F-A7B6-D552974CE9DF}"
+              p:after="r[@uid='{945C1340-ED54-40B6-82B9-E426012500B4}']"
+              s:ds="{32F7693B-607F-4D6D-AF34-5FC14FC2CB81}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{8ADA57C9-C831-4793-A1EF-4D096890B36F}"
+              p:after="r[@uid='{9391FE54-2D08-409F-A7B6-D552974CE9DF}']"
+              s:ds="{135DEE0D-2C4F-4CC1-A9DD-2B7325BE1D7F}"
+              s:id="{703C4FCC-55FD-48C3-8F29-1B196484B61C}"
+              s:ph="main" />
+            <r
+              uid="{A2263378-9BC4-4A5A-8793-E17615926252}"
+              p:after="r[@uid='{8ADA57C9-C831-4793-A1EF-4D096890B36F}']"
+              s:ds="{FD5858C9-9558-4FBB-98FE-9425EDB4E8F0}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:ph="main" />
+            <r
+              uid="{5BCA38DA-3F76-446D-9ADD-03436F7915C0}"
+              p:after="*[1=2]"
+              s:ds="{2A41D287-F179-43FE-B43B-D7E4DEA6E396}"
+              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
+              s:par="Use Button for Link"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: ADNOC 2022
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: |
+        <p>NOV invites you to join the conversation as we host a panel discussion about technology, innovation, and positive change in our industry.</p>
+        <p>Learn about NOV&rsquo;s digital offerings, advancements in robotics, and how we are contributing to a low carbon future.</p>
+        <p><strong>When:</strong> Tuesday, 20th September 2022 at 10:30 AM to 12:30 PM</p>
+        <p><strong>Where:</strong> Conrad Hotel Abu Dhabi Etihad Towers &ndash; Mezzoon Ballroom &ndash; Abu Dhabi, UAE</p>
+        <a href="#rsvp" class="ui-btn--box">RSVP</a>
+        <a href="-/media/4c4b7e6c1f764ca1bf77a47ce0a651d2.ashx" class="ui-btn--box">Add to Calendar</a>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: NOV Technology Day
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220812T145649Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: NOV Technology Day
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{8B87E652-E3F7-4C54-BDD9-66E1B888FF8B}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: NOV Technology Day
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{4D581BD7-C922-4693-B6EC-377FF689B7BF}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: NOV Technology Day
+    - ID: "6f84eee0-ddfa-478a-b9fb-8a7adc34ed42"
+      Hint: Start Date
+      Value: 20220920T000000Z
+    - ID: "81beeffb-e4e6-44ad-aa32-b3380b8d3fcd"
+      Hint: city
+      Value: Abu Dhabi
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8af64319-74a0-49af-9eef-fd34bbdba1b4"
+    - ID: "8f4016b6-4a51-4621-90cb-77774279dba3"
+      Hint: End Date
+      Value: 20220920T000000Z
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{E7052507-CEF7-45CC-B52B-C65B98F4ADA7}"
+    - ID: "b0d622b7-156a-4f17-9ce4-4dd213df0302"
+      Hint: Date
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "bba7d4dd-7d1e-428e-b80d-055170466dc3"
+      Hint: country
+      Value: UAE
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20220812T145649Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{4D581BD7-C922-4693-B6EC-377FF689B7BF}" cropregion="22,0,1906,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230707T210741Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{4D581BD7-C922-4693-B6EC-377FF689B7BF}" cropregion="4,0,1924,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 5
+    Fields:
+    - ID: "019c3c8b-3d47-4b92-a8e9-838880ddf307"
+      Hint: Open Graph Title
+      Value: NOV Technology Day
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{D9DC2E91-2941-4E2F-BCD7-3809E1023600}">
+              <p:d />
+            </r>
+            <r
+              uid="{82CC48F6-44A9-4DC7-9B50-55B2B32A157A}">
+              <p:d />
+            </r>
+            <r
+              uid="{9391FE54-2D08-409F-A7B6-D552974CE9DF}"
+              p:after="r[@uid='{945C1340-ED54-40B6-82B9-E426012500B4}']"
+              s:ds="{32F7693B-607F-4D6D-AF34-5FC14FC2CB81}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{A2263378-9BC4-4A5A-8793-E17615926252}"
+              p:after="r[@uid='{9391FE54-2D08-409F-A7B6-D552974CE9DF}']"
+              s:ds="{FD5858C9-9558-4FBB-98FE-9425EDB4E8F0}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:ph="main" />
+            <r
+              uid="{5BCA38DA-3F76-446D-9ADD-03436F7915C0}"
+              p:after="*[1=2]"
+              s:ds="{2A41D287-F179-43FE-B43B-D7E4DEA6E396}"
+              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
+              s:par="Use Button for Link"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: ADNOC 2022
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: |
+        <p>NOV invites you to join the conversation as we host a panel discussion about technology, innovation, and positive change in our industry.</p>
+        <p>Learn about NOV&rsquo;s digital offerings, advancements in robotics, and how we are contributing to a low carbon future.</p>
+        <p><strong>When:</strong> Tuesday, 20th September 2022 at 10:30 AM to 12:30 PM</p>
+        <p><strong>Where:</strong> Conrad Hotel Abu Dhabi Etihad Towers &ndash; Mezzoon Ballroom &ndash; Abu Dhabi, UAE</p>
+        <a href="#rsvp" class="ui-btn--box">RSVP</a>
+        <a href="https://www.nov.com/add-to-calendar/nov-technology-day-abu-dhabi" class="ui-btn--box">Add to Calendar</a>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: NOV Technology Day
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220830T200812Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: NOV Technology Day
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{8B87E652-E3F7-4C54-BDD9-66E1B888FF8B}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: NOV Technology Day
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{4D581BD7-C922-4693-B6EC-377FF689B7BF}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: NOV Technology Day
+    - ID: "6f84eee0-ddfa-478a-b9fb-8a7adc34ed42"
+      Hint: Start Date
+      Value: 20220920T000000Z
+    - ID: "81beeffb-e4e6-44ad-aa32-b3380b8d3fcd"
+      Hint: city
+      Value: Abu Dhabi
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a5bad9f8-e470-4241-8a2f-b2c51a42260c"
+    - ID: "8f4016b6-4a51-4621-90cb-77774279dba3"
+      Hint: End Date
+      Value: 20220920T000000Z
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{E7052507-CEF7-45CC-B52B-C65B98F4ADA7}"
+    - ID: "b0d622b7-156a-4f17-9ce4-4dd213df0302"
+      Hint: Date
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "bba7d4dd-7d1e-428e-b80d-055170466dc3"
+      Hint: country
+      Value: UAE
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20220830T200812Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{4D581BD7-C922-4693-B6EC-377FF689B7BF}" cropregion="22,0,1906,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230707T210741Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{4D581BD7-C922-4693-B6EC-377FF689B7BF}" cropregion="4,0,1924,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 6
+    Fields:
+    - ID: "019c3c8b-3d47-4b92-a8e9-838880ddf307"
+      Hint: Open Graph Title
+      Value: NOV Technology Day
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{D9DC2E91-2941-4E2F-BCD7-3809E1023600}">
+              <p:d />
+            </r>
+            <r
+              uid="{82CC48F6-44A9-4DC7-9B50-55B2B32A157A}">
+              <p:d />
+            </r>
+            <r
+              uid="{9391FE54-2D08-409F-A7B6-D552974CE9DF}"
+              p:after="r[@uid='{945C1340-ED54-40B6-82B9-E426012500B4}']"
+              s:ds="{32F7693B-607F-4D6D-AF34-5FC14FC2CB81}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{2C52112C-6ED6-412A-AAAD-AA5ADCABC661}"
+              p:after="r[@uid='{9391FE54-2D08-409F-A7B6-D552974CE9DF}']"
+              s:ds="{89887C23-4891-423E-94C4-1D9AC5671911}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{EC96F0B9-A151-480E-9852-90D1183F8E8F}"
+              p:after="r[@uid='{2C52112C-6ED6-412A-AAAD-AA5ADCABC661}']"
+              s:ds="{E2627636-8FDB-4934-8C5E-529F4327E67A}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{9EC98E6C-476E-4B01-8D7D-D74C66D08436}"
+              p:after="r[@uid='{EC96F0B9-A151-480E-9852-90D1183F8E8F}']"
+              s:ds="{4D2A6FFD-AC2F-4D9B-B78C-2E0D046B5871}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{61EAB003-682B-4DDA-A9E9-0BD7E0364E6E}"
+              p:after="r[@uid='{9EC98E6C-476E-4B01-8D7D-D74C66D08436}']"
+              s:ds="{F0C44FF2-C661-432D-8EC1-CA5D867C14FF}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{9803051D-40F1-4372-8682-BEAA0A8DE0C5}"
+              p:after="r[@uid='{61EAB003-682B-4DDA-A9E9-0BD7E0364E6E}']"
+              s:ds="{5B1C17D3-0A29-401A-AD37-43CFFA8AE400}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{AFB88342-5BAD-4F43-BA4A-B36EAD28C225}"
+              p:after="r[@uid='{9803051D-40F1-4372-8682-BEAA0A8DE0C5}']"
+              s:ds="{C9DE2EB3-C75D-4C49-9137-CF2D7A8EF649}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{A2263378-9BC4-4A5A-8793-E17615926252}"
+              p:after="r[@uid='{AFB88342-5BAD-4F43-BA4A-B36EAD28C225}']"
+              s:ds="{0244B37A-B4AB-4A0A-9CB0-4C08DEAEF8FC}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:ph="main" />
+            <r
+              uid="{5BCA38DA-3F76-446D-9ADD-03436F7915C0}"
+              p:after="*[1=2]"
+              s:ds="{2A41D287-F179-43FE-B43B-D7E4DEA6E396}"
+              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
+              s:par="Use Button for Link"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: ADNOC 2022
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: |
+        <p>NOV invites you to join the conversation as we host a panel discussion about technology, innovation, and positive change in our industry.</p>
+        <p>Learn about NOV&rsquo;s digital offerings, advancements in robotics, and how we are contributing to a low carbon future.</p>
+        <p><strong>When:</strong> Tuesday, 20th September 2022 at 10:30 AM to 12:30 PM</p>
+        <p><strong>Where:</strong> Conrad Hotel Abu Dhabi Etihad Towers &ndash; Mezzoon Ballroom &ndash; Abu Dhabi, UAE</p>
+        <a href="~/link.aspx?_id=02DDE264C3B04619963BFC365BD5B570&amp;_z=z" class="ui-btn--box">RSVP</a>
+        <a href="https://www.nov.com/add-to-calendar/nov-technology-day-abu-dhabi" class="ui-btn--box">Add to Calendar</a>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: NOV Technology Day
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220830T201321Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: NOV Technology Day
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{8B87E652-E3F7-4C54-BDD9-66E1B888FF8B}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: NOV Technology Day
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{4D581BD7-C922-4693-B6EC-377FF689B7BF}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: NOV Technology Day
+    - ID: "6f84eee0-ddfa-478a-b9fb-8a7adc34ed42"
+      Hint: Start Date
+      Value: 20220920T000000Z
+    - ID: "81beeffb-e4e6-44ad-aa32-b3380b8d3fcd"
+      Hint: city
+      Value: Abu Dhabi
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4ee60986-9e47-409b-9938-a9a0f706d708"
+    - ID: "8f4016b6-4a51-4621-90cb-77774279dba3"
+      Hint: End Date
+      Value: 20220920T000000Z
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{E7052507-CEF7-45CC-B52B-C65B98F4ADA7}"
+    - ID: "b0d622b7-156a-4f17-9ce4-4dd213df0302"
+      Hint: Date
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "bba7d4dd-7d1e-428e-b80d-055170466dc3"
+      Hint: country
+      Value: UAE
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20220830T201321Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{4D581BD7-C922-4693-B6EC-377FF689B7BF}" cropregion="22,0,1906,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230707T210741Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{4D581BD7-C922-4693-B6EC-377FF689B7BF}" cropregion="4,0,1924,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 7
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: |
+        <r owner="sitecore\lissettegomezandrews" date="20230710T145200Z" />
+    - ID: "019c3c8b-3d47-4b92-a8e9-838880ddf307"
+      Hint: Open Graph Title
+      Value: NOV Technology Day
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{D9DC2E91-2941-4E2F-BCD7-3809E1023600}">
+              <p:d />
+            </r>
+            <r
+              uid="{82CC48F6-44A9-4DC7-9B50-55B2B32A157A}">
+              <p:d />
+            </r>
+            <r
+              uid="{9391FE54-2D08-409F-A7B6-D552974CE9DF}"
+              p:after="r[@uid='{945C1340-ED54-40B6-82B9-E426012500B4}']"
+              s:ds="{32F7693B-607F-4D6D-AF34-5FC14FC2CB81}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{2C52112C-6ED6-412A-AAAD-AA5ADCABC661}"
+              p:after="r[@uid='{9391FE54-2D08-409F-A7B6-D552974CE9DF}']"
+              s:ds="{89887C23-4891-423E-94C4-1D9AC5671911}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{EC96F0B9-A151-480E-9852-90D1183F8E8F}"
+              p:after="r[@uid='{2C52112C-6ED6-412A-AAAD-AA5ADCABC661}']"
+              s:ds="{E2627636-8FDB-4934-8C5E-529F4327E67A}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{9EC98E6C-476E-4B01-8D7D-D74C66D08436}"
+              p:after="r[@uid='{EC96F0B9-A151-480E-9852-90D1183F8E8F}']"
+              s:ds="{4D2A6FFD-AC2F-4D9B-B78C-2E0D046B5871}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{61EAB003-682B-4DDA-A9E9-0BD7E0364E6E}"
+              p:after="r[@uid='{9EC98E6C-476E-4B01-8D7D-D74C66D08436}']"
+              s:ds="{F0C44FF2-C661-432D-8EC1-CA5D867C14FF}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{9803051D-40F1-4372-8682-BEAA0A8DE0C5}"
+              p:after="r[@uid='{61EAB003-682B-4DDA-A9E9-0BD7E0364E6E}']"
+              s:ds="{5B1C17D3-0A29-401A-AD37-43CFFA8AE400}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{AFB88342-5BAD-4F43-BA4A-B36EAD28C225}"
+              p:after="r[@uid='{9803051D-40F1-4372-8682-BEAA0A8DE0C5}']"
+              s:ds="{C9DE2EB3-C75D-4C49-9137-CF2D7A8EF649}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{A2263378-9BC4-4A5A-8793-E17615926252}"
+              p:after="r[@uid='{AFB88342-5BAD-4F43-BA4A-B36EAD28C225}']"
+              s:ds="{0244B37A-B4AB-4A0A-9CB0-4C08DEAEF8FC}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:ph="main" />
+            <r
+              uid="{5BCA38DA-3F76-446D-9ADD-03436F7915C0}"
+              p:after="*[1=2]"
+              s:ds="{2A41D287-F179-43FE-B43B-D7E4DEA6E396}"
+              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
+              s:par="Use Button for Link"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: ADNOC 2023
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: |
+        <p>NOV invites you to join the conversation as we host a panel discussion about technology, innovation, and positive change in our industry.</p>
+        <p>Learn about NOV&rsquo;s digital offerings, advancements in robotics, and how we are contributing to a low carbon future.</p>
+        <p><strong>When:</strong> Wednesday, 20th September 2023 at 10:30 AM to 12:30 PM</p>
+        <p><strong>Where:</strong> Kempinski Al Othman Hotel Al Khobar, Al Qashlah, Al Khobar 31952, Saudi Arabia</p>
+        <a href="~/link.aspx?_id=02DDE264C3B04619963BFC365BD5B570&amp;_z=z" class="ui-btn--box">RSVP</a>
+        <a href="#contactus" class="ui-btn--box">Contact Us</a>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: NOV Technology Day
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220919T201620Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: NOV Technology Day
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{8B87E652-E3F7-4C54-BDD9-66E1B888FF8B}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: NOV Technology Day
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{4D581BD7-C922-4693-B6EC-377FF689B7BF}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: NOV Technology Day
+    - ID: "6f84eee0-ddfa-478a-b9fb-8a7adc34ed42"
+      Hint: Start Date
+      Value: 20230920T000000Z
+    - ID: "81beeffb-e4e6-44ad-aa32-b3380b8d3fcd"
+      Hint: city
+      Value: Al Khobar
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a8698d94-ea10-405a-8ad2-fae7684f33d1"
+    - ID: "8f4016b6-4a51-4621-90cb-77774279dba3"
+      Hint: End Date
+      Value: 20230920T000000Z
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{E7052507-CEF7-45CC-B52B-C65B98F4ADA7}"
+    - ID: "b0d622b7-156a-4f17-9ce4-4dd213df0302"
+      Hint: Date
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "bba7d4dd-7d1e-428e-b80d-055170466dc3"
+      Hint: country
+      Value: Saudi Arabia
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20220919T201620Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{4D581BD7-C922-4693-B6EC-377FF689B7BF}" cropregion="22,0,1906,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230710T151850Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{4D581BD7-C922-4693-B6EC-377FF689B7BF}" cropregion="4,0,1924,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 8
+    Fields:
+    - ID: "019c3c8b-3d47-4b92-a8e9-838880ddf307"
+      Hint: Open Graph Title
+      Value: NOV Technology Day
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{D9DC2E91-2941-4E2F-BCD7-3809E1023600}">
+              <p:d />
+            </r>
+            <r
+              uid="{82CC48F6-44A9-4DC7-9B50-55B2B32A157A}">
+              <p:d />
+            </r>
+            <r
+              uid="{9391FE54-2D08-409F-A7B6-D552974CE9DF}"
+              p:after="r[@uid='{945C1340-ED54-40B6-82B9-E426012500B4}']"
+              s:ds="{32F7693B-607F-4D6D-AF34-5FC14FC2CB81}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{2C52112C-6ED6-412A-AAAD-AA5ADCABC661}"
+              p:after="r[@uid='{9391FE54-2D08-409F-A7B6-D552974CE9DF}']"
+              s:ds="{89887C23-4891-423E-94C4-1D9AC5671911}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{EC96F0B9-A151-480E-9852-90D1183F8E8F}"
+              p:after="r[@uid='{2C52112C-6ED6-412A-AAAD-AA5ADCABC661}']"
+              s:ds="{E2627636-8FDB-4934-8C5E-529F4327E67A}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{9EC98E6C-476E-4B01-8D7D-D74C66D08436}"
+              p:after="r[@uid='{EC96F0B9-A151-480E-9852-90D1183F8E8F}']"
+              s:ds="{4D2A6FFD-AC2F-4D9B-B78C-2E0D046B5871}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{61EAB003-682B-4DDA-A9E9-0BD7E0364E6E}"
+              p:after="r[@uid='{9EC98E6C-476E-4B01-8D7D-D74C66D08436}']"
+              s:ds="{F0C44FF2-C661-432D-8EC1-CA5D867C14FF}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{9803051D-40F1-4372-8682-BEAA0A8DE0C5}"
+              p:after="r[@uid='{61EAB003-682B-4DDA-A9E9-0BD7E0364E6E}']"
+              s:ds="{5B1C17D3-0A29-401A-AD37-43CFFA8AE400}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{AFB88342-5BAD-4F43-BA4A-B36EAD28C225}"
+              p:after="r[@uid='{9803051D-40F1-4372-8682-BEAA0A8DE0C5}']"
+              s:ds="{C9DE2EB3-C75D-4C49-9137-CF2D7A8EF649}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{A2263378-9BC4-4A5A-8793-E17615926252}"
+              p:after="r[@uid='{AFB88342-5BAD-4F43-BA4A-B36EAD28C225}']"
+              s:ds="{0244B37A-B4AB-4A0A-9CB0-4C08DEAEF8FC}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:ph="main" />
+            <r
+              uid="{5BCA38DA-3F76-446D-9ADD-03436F7915C0}"
+              p:after="*[1=2]"
+              s:ds="{2A41D287-F179-43FE-B43B-D7E4DEA6E396}"
+              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
+              s:par="Use Button for Link"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: ADNOC 2022
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: |
+        <p>NOV invites you to join the conversation as we host a panel discussion about technology, innovation, and positive change in our industry.</p>
+        <p>Learn about NOV&rsquo;s digital offerings, advancements in robotics, and how we are contributing to a low carbon future.</p>
+        <p><strong>When:</strong> Tuesday, 20th September 2022 at 10:30 AM to 12:30 PM</p>
+        <p><strong>Where:</strong> Conrad Hotel Abu Dhabi Etihad Towers &ndash; Mezzoon Ballroom &ndash; Abu Dhabi, UAE</p>
+        <a href="#contactus" class="ui-btn--box">Contact Us</a>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: NOV Technology Day
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220922T041749Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: NOV Technology Day
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{8B87E652-E3F7-4C54-BDD9-66E1B888FF8B}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: NOV Technology Day
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{4D581BD7-C922-4693-B6EC-377FF689B7BF}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: NOV Technology Day
+    - ID: "6f84eee0-ddfa-478a-b9fb-8a7adc34ed42"
+      Hint: Start Date
+      Value: 20220920T000000Z
+    - ID: "81beeffb-e4e6-44ad-aa32-b3380b8d3fcd"
+      Hint: city
+      Value: Abu Dhabi
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bbe3d201-fd81-48f7-b8c5-7ec0676ef42b"
+    - ID: "8f4016b6-4a51-4621-90cb-77774279dba3"
+      Hint: End Date
+      Value: 20220920T000000Z
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{E7052507-CEF7-45CC-B52B-C65B98F4ADA7}"
+    - ID: "b0d622b7-156a-4f17-9ce4-4dd213df0302"
+      Hint: Date
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "bba7d4dd-7d1e-428e-b80d-055170466dc3"
+      Hint: country
+      Value: UAE
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20220922T041749Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{4D581BD7-C922-4693-B6EC-377FF689B7BF}" cropregion="22,0,1906,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230707T210741Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{4D581BD7-C922-4693-B6EC-377FF689B7BF}" cropregion="4,0,1924,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 9
+    Fields:
+    - ID: "019c3c8b-3d47-4b92-a8e9-838880ddf307"
+      Hint: Open Graph Title
+      Value: NOV Technology Day
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{DF772360-E5C4-4162-B9E4-D8DAAE753245}">
+              <p:d />
+            </r>
+            <r
+              uid="{945C1340-ED54-40B6-82B9-E426012500B4}">
+              <p:d />
+            </r>
+            <r
+              uid="{D9DC2E91-2941-4E2F-BCD7-3809E1023600}">
+              <p:d />
+            </r>
+            <r
+              uid="{82CC48F6-44A9-4DC7-9B50-55B2B32A157A}">
+              <p:d />
+            </r>
+            <r
+              uid="{D548D7A6-FDE3-44EF-81E6-134B271066EB}"
+              p:before="*"
+              s:ds=""
+              s:id="{9CA51EAB-92E4-4A77-8B48-966774577172}"
+              s:par="Add Gradient=1"
+              s:ph="/main/product-hero-{6E909D3D-DCA7-4553-A8D3-7EBCEC0C7782}-0" />
+            <r
+              uid="{6E909D3D-DCA7-4553-A8D3-7EBCEC0C7782}"
+              p:after="r[@uid='{D548D7A6-FDE3-44EF-81E6-134B271066EB}']"
+              s:ds="{DB7BAB29-A94C-445B-B541-5C88B4C85EB8}"
+              s:id="{C3DD97A2-2C6B-4FDA-922C-7127AE10C976}"
+              s:ph="main" />
+            <r
+              uid="{9391FE54-2D08-409F-A7B6-D552974CE9DF}"
+              p:after="r[@uid='{6E909D3D-DCA7-4553-A8D3-7EBCEC0C7782}']"
+              s:ds="{32F7693B-607F-4D6D-AF34-5FC14FC2CB81}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{EC96F0B9-A151-480E-9852-90D1183F8E8F}"
+              p:after="r[@uid='{9391FE54-2D08-409F-A7B6-D552974CE9DF}']"
+              s:ds="{E2627636-8FDB-4934-8C5E-529F4327E67A}"
+              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
+              s:par="Alignment=center"
+              s:ph="main" />
+            <r
+              uid="{9EC98E6C-476E-4B01-8D7D-D74C66D08436}"
+              p:after="r[@uid='{EC96F0B9-A151-480E-9852-90D1183F8E8F}']"
+              s:ds="{4D2A6FFD-AC2F-4D9B-B78C-2E0D046B5871}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{61EAB003-682B-4DDA-A9E9-0BD7E0364E6E}"
+              p:after="r[@uid='{9EC98E6C-476E-4B01-8D7D-D74C66D08436}']"
+              s:ds="{F0C44FF2-C661-432D-8EC1-CA5D867C14FF}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{9803051D-40F1-4372-8682-BEAA0A8DE0C5}"
+              p:after="r[@uid='{61EAB003-682B-4DDA-A9E9-0BD7E0364E6E}']"
+              s:ds="{5B1C17D3-0A29-401A-AD37-43CFFA8AE400}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{AFB88342-5BAD-4F43-BA4A-B36EAD28C225}"
+              p:after="r[@uid='{9803051D-40F1-4372-8682-BEAA0A8DE0C5}']"
+              s:ds="{C9DE2EB3-C75D-4C49-9137-CF2D7A8EF649}"
+              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+              s:ph="main" />
+            <r
+              uid="{2C52112C-6ED6-412A-AAAD-AA5ADCABC661}"
+              p:after="r[@uid='{AFB88342-5BAD-4F43-BA4A-B36EAD28C225}']"
+              s:ds="{89887C23-4891-423E-94C4-1D9AC5671911}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{A2263378-9BC4-4A5A-8793-E17615926252}"
+              p:after="r[@uid='{2C52112C-6ED6-412A-AAAD-AA5ADCABC661}']"
+              s:ds="{0244B37A-B4AB-4A0A-9CB0-4C08DEAEF8FC}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:ph="main" />
+            <r
+              uid="{5BCA38DA-3F76-446D-9ADD-03436F7915C0}"
+              p:after="*[1=2]"
+              s:ds="{2A41D287-F179-43FE-B43B-D7E4DEA6E396}"
+              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
+              s:par="Use Button for Link"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: ADNOC 2022
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: |
+        <p>Thanks for joining NOV Technology Day.</p>
+        <p>Read below to learn more about the technologies, services, and solutions leading the way toward a more sustainable, digital, and automated future.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: NOV Technology Day
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220928T151435Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: NOV Technology Day
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{8B87E652-E3F7-4C54-BDD9-66E1B888FF8B}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: NOV Technology Day
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{4D581BD7-C922-4693-B6EC-377FF689B7BF}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: NOV Technology Day
+    - ID: "6f84eee0-ddfa-478a-b9fb-8a7adc34ed42"
+      Hint: Start Date
+      Value: 20220920T000000Z
+    - ID: "81beeffb-e4e6-44ad-aa32-b3380b8d3fcd"
+      Hint: city
+      Value: Abu Dhabi
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f7a9e6b7-15d4-45fe-90b0-9cfd83c6c49f"
+    - ID: "8f4016b6-4a51-4621-90cb-77774279dba3"
+      Hint: End Date
+      Value: 20220920T000000Z
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{E7052507-CEF7-45CC-B52B-C65B98F4ADA7}"
+    - ID: "b0d622b7-156a-4f17-9ce4-4dd213df0302"
+      Hint: Date
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "bba7d4dd-7d1e-428e-b80d-055170466dc3"
+      Hint: country
+      Value: UAE
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20220928T151435Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{4D581BD7-C922-4693-B6EC-377FF689B7BF}" cropregion="22,0,1906,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230707T210742Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{4D581BD7-C922-4693-B6EC-377FF689B7BF}" cropregion="4,0,1924,1080" ratio="1920:1080" width="1920" height="1080" />
+  - Version: 10
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "019c3c8b-3d47-4b92-a8e9-838880ddf307"
+      Hint: Open Graph Title
+      Value: NOV Technology Day
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{D9DC2E91-2941-4E2F-BCD7-3809E1023600}">
+              <p:d />
+            </r>
+            <r
+              uid="{82CC48F6-44A9-4DC7-9B50-55B2B32A157A}">
+              <p:d />
+            </r>
+            <r
+              uid="{9391FE54-2D08-409F-A7B6-D552974CE9DF}"
+              p:after="r[@uid='{945C1340-ED54-40B6-82B9-E426012500B4}']"
+              s:ds="{32F7693B-607F-4D6D-AF34-5FC14FC2CB81}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{5BCA38DA-3F76-446D-9ADD-03436F7915C0}"
+              p:after="r[@uid='{9391FE54-2D08-409F-A7B6-D552974CE9DF}']"
+              s:ds="{2A41D287-F179-43FE-B43B-D7E4DEA6E396}"
+              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
+              s:par="Use Button for Link"
+              s:ph="main" />
+            <r
+              uid="{E6ECAADB-29D6-4C94-97B7-AFB9B12B7C98}"
+              p:after="*[1=2]"
+              s:ds="{A3CFAF68-9DE9-4504-8416-F6796D41B9C8}"
+              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: ADNOC 2023
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: |
+        <p>NOV invites you to join the conversation as we host a panel discussion about technology, innovation, and positive change in our industry.</p>
+        <p>Learn about NOV&rsquo;s digital offerings, advancements in robotics, and how we are contributing to a low carbon future.</p>
+        <p><strong>When:</strong> Monday, 18th September 2023 at 10:30 AM to 12:30 PM</p>
+        <p><strong>Where:</strong> Kempinski Al Othman Hotel Al Khobar &ndash; Al Maha Ballroom &ndash; Al Qashlah, Al Khobar 31952, Saudi Arabia</p>
+        <a href="#rsvp" class="ui-btn--box">RSVP</a>
+        <a href="~/link.aspx?_id=61EB76BCDB3E4310AE70D4041F8B59FF&amp;_z=z" class="ui-btn--box">Add to Calendar</a>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: NOV Technology Day
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230710T154309Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: NOV Technology Day
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{40251B7D-FBE3-4A0E-8947-D4B4FE8CD782}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: NOV Technology Day
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
+      Hint: Open Graph Image
+      Value: |
+        <image mediaid="{4D581BD7-C922-4693-B6EC-377FF689B7BF}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: NOV Technology Day
+    - ID: "6f84eee0-ddfa-478a-b9fb-8a7adc34ed42"
+      Hint: Start Date
+      Value: 20230918T000000Z
+    - ID: "81beeffb-e4e6-44ad-aa32-b3380b8d3fcd"
+      Hint: city
+      Value: Al Khobar
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ded39534-b4ee-4d70-af4f-732a2804a3da"
+    - ID: "8f4016b6-4a51-4621-90cb-77774279dba3"
+      Hint: End Date
+      Value: 20230918T000000Z
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{E7052507-CEF7-45CC-B52B-C65B98F4ADA7}"
+    - ID: "b0d622b7-156a-4f17-9ce4-4dd213df0302"
+      Hint: Date
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\lissettegomezandrews
+    - ID: "bba7d4dd-7d1e-428e-b80d-055170466dc3"
+      Hint: country
+      Value: Saudi Arabia
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230710T154309Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{4D581BD7-C922-4693-B6EC-377FF689B7BF}" cropregion="22,0,1906,1080" ratio="514:295" width="514" height="295" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230713T150915Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{4D581BD7-C922-4693-B6EC-377FF689B7BF}" cropregion="4,0,1924,1080" ratio="1920:1080" width="1920" height="1080" />

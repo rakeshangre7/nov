@@ -7,10 +7,6 @@ SharedFields:
 - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
   Hint: __Workflow
   Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
-- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
-  Hint: __Thumbnail
-  Value: |
-    <image mediaid="{149D194C-F18B-4E40-82D8-F5A3171F8E8F}" />
 Languages:
 - Language: "en-US"
   Versions:
@@ -957,6 +953,10 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
               uid="{3F94459F-580E-478C-AF58-1F6F8D07C8A9}"
               s:ds=""
               s:par="Enable Autoplay=true&amp;Add Gradient&amp;Text Color=white&amp;Wait Time=5000" />
@@ -1024,7 +1024,7 @@ Languages:
       Value: "Brand: Procon"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "93e252c7-e4f0-42d1-88ef-bdd9ce49edc7"
+      Value: "fdb17833-a0bb-429e-8977-5e9cf07b59db"
     - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
       Hint: contentTag
       Value: "{EA155798-89F9-42A8-A18A-1921664D1E01}"
@@ -1034,7 +1034,7 @@ Languages:
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\varalakshmi.md@horizontal.com
+        sitecore\charisgamroth
     - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
       Hint: Meta Description
       Value: Procon is a trusted provider of expert mud mixing solutions for drilling fluid systems.
@@ -1047,7 +1047,7 @@ Languages:
         <image mediaid="{C0C41A4F-5188-46E3-8F36-E799BAA1D58E}" cropregion="0,87,1920,1191" ratio="514:295" width="514" height="295" />
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230725T094733Z
+      Value: 20190607T181749Z
     - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
       Hint: Meta Keywords
       Value: Procon, mud mixing solutions, mud mixing solutions, drilling fluid, drilling fluid systems

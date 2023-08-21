@@ -10,10 +10,6 @@ SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 900
-- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
-  Hint: __Thumbnail
-  Value: |
-    <image mediaid="{82585C6C-F252-485B-8F74-287A0ABB0586}" />
 Languages:
 - Language: "en-US"
   Versions:
@@ -77,7 +73,7 @@ Languages:
       Value: |
         sitecore\arshmomin
     - ID: "bf69c7e1-1928-47e6-b2d7-fa0b551766f5"
-      Hint: Soundcloud Embed Code
+      Hint: soundcloudEmbedCode
       Value: |
         <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/504549177&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
     - ID: "d22e8671-07eb-4818-a59b-6e88aa494d7b"
@@ -208,7 +204,7 @@ Languages:
       Value: |
         sitecore\arshmomin
     - ID: "bf69c7e1-1928-47e6-b2d7-fa0b551766f5"
-      Hint: Soundcloud Embed Code
+      Hint: soundcloudEmbedCode
       Value: |
         <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/504549177&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
     - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
@@ -342,7 +338,7 @@ Languages:
       Value: |
         sitecore\mecoreyna
     - ID: "bf69c7e1-1928-47e6-b2d7-fa0b551766f5"
-      Hint: Soundcloud Embed Code
+      Hint: soundcloudEmbedCode
       Value: |
         <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/504549177&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
     - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
@@ -482,7 +478,7 @@ Languages:
       Value: |
         sitecore\rainerschuhsler
     - ID: "bf69c7e1-1928-47e6-b2d7-fa0b551766f5"
-      Hint: Soundcloud Embed Code
+      Hint: soundcloudEmbedCode
       Value: |
         <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/504549177&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
     - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
@@ -628,7 +624,7 @@ Languages:
       Value: |
         sitecore\rainerschuhsler
     - ID: "bf69c7e1-1928-47e6-b2d7-fa0b551766f5"
-      Hint: Soundcloud Embed Code
+      Hint: soundcloudEmbedCode
       Value: |
         <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/504549177&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
     - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
@@ -777,7 +773,7 @@ Languages:
       Value: |
         sitecore\heatherbaxter
     - ID: "bf69c7e1-1928-47e6-b2d7-fa0b551766f5"
-      Hint: Soundcloud Embed Code
+      Hint: soundcloudEmbedCode
       Value: |
         <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/504549177&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
     - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
@@ -926,7 +922,7 @@ Languages:
       Value: |
         sitecore\verticakeshwaram
     - ID: "bf69c7e1-1928-47e6-b2d7-fa0b551766f5"
-      Hint: Soundcloud Embed Code
+      Hint: soundcloudEmbedCode
       Value: |
         <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/504549177&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
     - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
@@ -1088,7 +1084,7 @@ Languages:
       Value: |
         sitecore\rainerschuhsler
     - ID: "bf69c7e1-1928-47e6-b2d7-fa0b551766f5"
-      Hint: Soundcloud Embed Code
+      Hint: soundcloudEmbedCode
       Value: |
         <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/504549177&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
     - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
@@ -1235,7 +1231,7 @@ Languages:
       Value: Irfan Rehman
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "b4ca0256-2778-4291-8a75-e20936fb3299"
+      Value: "6811aa97-59ef-482a-891b-d9f1462afad6"
     - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
       Hint: contentTag
       Value: "{BA3828AF-5EF2-4318-B72A-AF9B21812EB6}"
@@ -1251,12 +1247,12 @@ Languages:
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\varalakshmi.md@horizontal.com
+        sitecore\rainerschuhsler
     - ID: "bcfd3e35-8ec5-4ba4-b22f-00669ef4d2d5"
       Hint: Publish Date
       Value: 20180924T000000Z
     - ID: "bf69c7e1-1928-47e6-b2d7-fa0b551766f5"
-      Hint: Soundcloud Embed Code
+      Hint: soundcloudEmbedCode
       Value: |
         <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/504549177&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
     - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
@@ -1274,7 +1270,7 @@ Languages:
         <image mediaid="{0E7B6B49-C915-4A8D-8E9A-24F66E92CEFF}" cropregion="0,108,1920,1210" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230725T094510Z
+      Value: 20190708T204912Z
     - ID: "e002c6d8-8864-4c8d-bf1d-dacfd00fd8c2"
       Hint: Episode Title
       Value: "We Do More: Industrial Mixing Solutions at NOV – Part 2"

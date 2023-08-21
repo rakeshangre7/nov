@@ -43,8 +43,14 @@ namespace XmCloudnov.ContentResolver
                 navigationModel.PortalDescription = NOVSitecoreHelper.GetStringValue(startItem.Fields[HomeRootFields.PortalDescriptionFieldId]?.Value);
                 navigationModel.PortalHeader = NOVSitecoreHelper.GetStringValue(startItem.Fields[HomeRootFields.PortalHeaderFieldId]?.Value);
                 navigationModel.PortalRegisterUrl = NOVSitecoreHelper.GetLinkValue(startItem, HomeRootFields.PortalRegisterUrlFieldId);
+
+                SetUrlFromRedirectPage(startItem, navigationModel.PortalRegisterUrl,HomeRootFields.PortalRegisterUrlFieldId);
+
                 navigationModel.PortalRegisterUrlText = NOVSitecoreHelper.GetStringValue(((LinkField)startItem.Fields[HomeRootFields.PortalRegisterUrlFieldId]).Text);
                 navigationModel.PortalLoginUrl = NOVSitecoreHelper.GetLinkValue(startItem, HomeRootFields.NOVPortalLoginFieldId);
+
+                SetUrlFromRedirectPage(startItem, navigationModel.PortalLoginUrl, HomeRootFields.NOVPortalLoginFieldId);
+
                 navigationModel.PortalRegisterUrlText = NOVSitecoreHelper.GetStringValue(((LinkField)startItem.Fields[HomeRootFields.NOVPortalLoginFieldId]).Text);
                 navigationModel.ViewAllText = NOVSitecoreHelper.GetStringValue(startItem.Fields[HomeRootFields.LabelViewAllFieldId]?.Value);
                 var siteFeatureLink = NOVSitecoreHelper.GetLinkValue(startItem, HomeRootFields.FeaturedStorySubItemLinkFieldId);
@@ -91,6 +97,19 @@ namespace XmCloudnov.ContentResolver
             };
             jobject["items"] = ProcessItems(menuItems, rendering, renderingConfig);
             return navigationModel;
+        }
+
+        private static void SetUrlFromRedirectPage(Item startItem, NOVLink novLink,ID targetID)
+        {
+            LinkField registerlinkField = startItem.Fields[targetID];
+            if (registerlinkField != null && registerlinkField.IsInternal && registerlinkField.TargetItem != null)
+            {
+                if (registerlinkField.TargetItem.HasBaseTemplate(Templates.Templates.RedirectPageTemplateIdString))
+                {
+                    novLink.value.href = registerlinkField.TargetItem.GetFieldLinkUrl(MenuFields.RedirectPageURLFieldId, out var linkTarget);
+                    novLink.value.url = novLink.value.href;
+                }
+            }
         }
 
         private NavigationEntryModel PopulateNavigationEntry(Item item, Item activeItem, Depth depth)
