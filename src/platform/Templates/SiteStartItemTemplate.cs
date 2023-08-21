@@ -23,6 +23,7 @@ namespace XmCloudnov.Templates
         public static readonly ID SiteLogoImageFieldId = new ID("{CD90B628-A46E-4E03-929E-C7155F7961C5}");
         public static readonly ID SiteLogoTransparentImageFieldId = new ID("{EA1469DB-E3FC-4DFA-957D-A586F46B4A32}");
         public static readonly ID MenuLabelFieldId = new ID("d735d2c2-b327-4ded-bd40-86ad1d72a9bc");
+        public static readonly ID LabelOverviewFieldId = new ID("{853F922C-D7A5-473F-8A83-0B2F396CCB00}");
 
     }
 
