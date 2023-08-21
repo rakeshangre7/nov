@@ -157,7 +157,7 @@ const Header = ({ fields }: HeaderProps) => {
   }, []);
   const renderHeaderTeaser = () => {
     return (
-      <div className="w-[389px] h-[700px] bg-white fixed border-l-[1px] border-gray-light top-[65px] z-2 right-0 l:w-[464px] flex justify-between flex-col">
+      <div className="w-[389px] h-[700px] bg-white fixed border-l-[1px] border-gray-light top-[65px] z-[3] right-0 l:w-[464px] flex justify-between flex-col">
         <div>
           {activeNavbarStoryDetail?.cardImage?.value?.src && (
             <NextImage
@@ -359,7 +359,7 @@ const Header = ({ fields }: HeaderProps) => {
         className={clsx(
           'w-full transition-all relative invisible duration-200 bg-white opacity-0 scroll-auto overflow-hidden flex flex-col justify-between h-[calc(100%-65px)]',
           {
-            ' opacity-100 !visible z-2': isExpanded,
+            ' opacity-100 !visible z-[3]': isExpanded,
           }
         )}
       >
@@ -477,7 +477,7 @@ const Header = ({ fields }: HeaderProps) => {
                   className={clsx(
                     'absolute transition-all ease-in-out duration-200 invisible top-[47px] right-[-63px] opacity-0 w-[256px]',
                     {
-                      'smd:visible smd:opacity-100 smd:h-[228px] smd:z-3 drop-shadow-[0_0_5px_rgba(51,51,51,0.22)] before:content("") before:border-[7px] before:absolute before:top-[calc(7px*-2)] before:border-x-transparent before:border-t-transparent before:border-b-white  before:right-[calc(25%+7px)]':
+                      'smd:visible smd:opacity-100 smd:h-[228px] smd:z-[4] drop-shadow-[0_0_5px_rgba(51,51,51,0.22)] before:content("") before:border-[7px] before:absolute before:top-[calc(7px*-2)] before:border-x-transparent before:border-t-transparent before:border-b-white  before:right-[calc(25%+7px)]':
                         isUserProfileClick,
                     }
                   )}
@@ -527,8 +527,8 @@ const Header = ({ fields }: HeaderProps) => {
     <>
       <div className="w-full h-full l:h-fit" ref={navigationRef}>
         <div
-          className={clsx('fixed top-0 w-full h-full l:h-fit z-1', {
-            'z-[2]': isUserProfileClick,
+          className={clsx('fixed top-0 w-full h-full l:h-fit z-[2]', {
+            'z-[3]': isUserProfileClick,
           })}
         >
           {renderBasicHeaderInfo()}
@@ -546,7 +546,7 @@ const Header = ({ fields }: HeaderProps) => {
       </div>
       <div
         className={clsx('absolute top-[765px] left-0 right-0 bottom-0 bg-black/[0.8] hidden', {
-          'l:!block z-2': isExpanded,
+          'l:!block z-[3]': isExpanded,
         })}
       ></div>
     </>

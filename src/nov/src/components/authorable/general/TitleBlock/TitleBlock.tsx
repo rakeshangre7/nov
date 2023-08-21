@@ -39,7 +39,7 @@ const TitleBlock = ({ fields, params }: TitleBlockProps): JSX.Element => {
           field={fields.body}
           className="mt-[20px] [&_p]:!leading-32 text-gray-dark w-full "
         />
-        {fields?.cta && (
+        {fields?.cta && fields?.cta?.value?.href && (
           <div
             className={clsx('w-full flex ', {
               'justify-start': params?.Styles === 'position-left',
