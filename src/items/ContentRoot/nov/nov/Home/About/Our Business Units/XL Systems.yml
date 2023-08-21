@@ -7,14 +7,125 @@ SharedFields:
 - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
   Hint: __Workflow
   Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
-- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
-  Hint: __Thumbnail
-  Value: |
-    <image mediaid="{4A06F9E8-ABB6-401A-8955-5C9CDFD8F366}" />
 Languages:
 - Language: "en-US"
   Versions:
   - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}"
+              s:ds="{08349CD8-C247-436A-9CC6-01AFE5539DF2}" />
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}"
+              s:ds="{19B60E20-3787-4DCC-8A64-0D641BAB6D93}" />
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
+              <p:d />
+            </r>
+            <r
+              uid="{79940308-BCB0-49BA-9913-1FDB09535802}"
+              p:after="r[@uid='{D0D1C772-7E1B-45CD-8D78-0877C08009C2}']"
+              s:ds="{8931D84C-28B8-487C-B5D0-10C6440BBF07}"
+              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+              s:ph="main" />
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}">
+              <p:d />
+            </r>
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
+              <p:d />
+            </r>
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: XL Systems
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>XL Systems' oil and gas applications include conductor strings, surface casing, liners, and caissons.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: XL Systems
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190320T211319Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: XL Systems
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: XL Systems
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\verticgappau
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: XL Systems
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{302425A4-AE7D-4B4B-B0AA-719B352FA512}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4fe06cd4-9dc5-4163-8c01-b0a0e744a370"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: XL Systems' oil and gas applications include conductor strings, surface casing, liners, and caissons.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190320T211319Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image ratio="514:295" height="295" mediaid="{D64E74E2-8BFD-4AF3-806D-A4222BC12A0F}" hspace="" cropregion="0,342,1605,1263" width="514" alt="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190808T155224Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image ratio="1920:1080" height="1080" mediaid="{D64E74E2-8BFD-4AF3-806D-A4222BC12A0F}" hspace="" cropregion="0,242,1920,1321" width="1920" alt="" vspace="" />
+  - Version: 2
     Fields:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
@@ -136,7 +247,7 @@ Languages:
       Hint: Page Image
       Value: |
         <image ratio="1920:1080" height="1080" mediaid="{D64E74E2-8BFD-4AF3-806D-A4222BC12A0F}" hspace="" cropregion="0,242,1920,1321" width="1920" alt="" vspace="" />
-  - Version: 2
+  - Version: 3
     Fields:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
@@ -264,7 +375,7 @@ Languages:
       Hint: Page Image
       Value: |
         <image ratio="1920:1080" height="1080" mediaid="{D64E74E2-8BFD-4AF3-806D-A4222BC12A0F}" hspace="" cropregion="0,242,1920,1321" width="1920" alt="" vspace="" />
-  - Version: 3
+  - Version: 4
     Fields:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
@@ -393,7 +504,7 @@ Languages:
       Hint: Page Image
       Value: |
         <image ratio="1920:1080" height="1080" mediaid="{D64E74E2-8BFD-4AF3-806D-A4222BC12A0F}" hspace="" cropregion="0,242,1920,1321" width="1920" alt="" vspace="" />
-  - Version: 4
+  - Version: 5
     Fields:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
@@ -528,7 +639,7 @@ Languages:
       Hint: Page Image
       Value: |
         <image ratio="1920:1080" height="1080" mediaid="{D64E74E2-8BFD-4AF3-806D-A4222BC12A0F}" hspace="" cropregion="0,242,1920,1321" width="1920" alt="" vspace="" />
-  - Version: 5
+  - Version: 6
     Fields:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
@@ -667,7 +778,7 @@ Languages:
       Hint: Page Image
       Value: |
         <image ratio="1920:1080" height="1080" mediaid="{D64E74E2-8BFD-4AF3-806D-A4222BC12A0F}" hspace="" cropregion="0,242,1920,1321" width="1920" alt="" vspace="" />
-  - Version: 6
+  - Version: 7
     Fields:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
@@ -806,7 +917,7 @@ Languages:
       Hint: Page Image
       Value: |
         <image ratio="1920:1080" height="1080" mediaid="{D64E74E2-8BFD-4AF3-806D-A4222BC12A0F}" hspace="" cropregion="0,296,1920,1375" width="1920" alt="" vspace="" />
-  - Version: 7
+  - Version: 8
     Fields:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
@@ -945,7 +1056,7 @@ Languages:
       Hint: Page Image
       Value: |
         <image ratio="1920:1080" height="1080" mediaid="{D64E74E2-8BFD-4AF3-806D-A4222BC12A0F}" hspace="" cropregion="0,296,1920,1375" width="1920" alt="" vspace="" />
-  - Version: 8
+  - Version: 9
     Fields:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
@@ -1087,7 +1198,7 @@ Languages:
       Hint: Page Image
       Value: |
         <image ratio="1920:1080" height="1080" mediaid="{D64E74E2-8BFD-4AF3-806D-A4222BC12A0F}" hspace="" cropregion="0,296,1920,1375" width="1920" alt="" vspace="" />
-  - Version: 9
+  - Version: 10
     Fields:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
@@ -1102,6 +1213,10 @@ Languages:
             <r
               uid="{0371D386-3572-4076-8538-6734215DB82E}"
               s:ds="{08349CD8-C247-436A-9CC6-01AFE5539DF2}" />
+            <r
+              uid="{0109759E-4600-4B78-A0E6-96D9B8F26CB9}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
             <r
               uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}"
               s:ds="{925C638D-1E8A-4379-A3BD-7B2164E5D801}"
@@ -1204,7 +1319,7 @@ Languages:
       Value: "Business Unit: XL Systems"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "118c9999-0d87-4296-9ab3-030481db3a57"
+      Value: "da0c63b6-07f0-4a88-9f48-81a1af797545"
     - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
       Hint: contentTag
       Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
@@ -1214,7 +1329,7 @@ Languages:
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\adminrschuhsler
+        sitecore\kaileyshelton
     - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
       Hint: Meta Description
       Value: XL Systems' oil and gas applications include conductor strings, surface casing, liners, and caissons.
@@ -1227,158 +1342,7 @@ Languages:
         <image ratio="514:295" height="295" mediaid="{D64E74E2-8BFD-4AF3-806D-A4222BC12A0F}" hspace="" cropregion="0,342,1605,1263" width="514" alt="" vspace="" />
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20210422T010843Z
-    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
-      Hint: Page Image
-      Value: |
-        <image ratio="1920:1080" height="1080" mediaid="{D64E74E2-8BFD-4AF3-806D-A4222BC12A0F}" hspace="" cropregion="0,296,1920,1375" width="1920" alt="" vspace="" />
-  - Version: 10
-    Fields:
-    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
-      Hint: __Lock
-      Value: <r />
-    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
-      Hint: __Final Renderings
-      Value: |
-        <r xmlns:p="p" xmlns:s="s"
-          p:p="1">
-          <d
-            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
-            <r
-              uid="{0371D386-3572-4076-8538-6734215DB82E}"
-              s:ds="{08349CD8-C247-436A-9CC6-01AFE5539DF2}" />
-            <r
-              uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}"
-              s:ds="{925C638D-1E8A-4379-A3BD-7B2164E5D801}"
-              s:par="Enable Autoplay=true&amp;Add Gradient&amp;Text Color=white&amp;Wait Time=5000" />
-            <r
-              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}"
-              s:ds="{19B60E20-3787-4DCC-8A64-0D641BAB6D93}" />
-            <r
-              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
-              <p:d />
-            </r>
-            <r
-              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}">
-              <p:d />
-            </r>
-            <r
-              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
-              <p:d />
-            </r>
-            <r
-              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
-              <p:d />
-            </r>
-            <r
-              uid="{79940308-BCB0-49BA-9913-1FDB09535802}"
-              p:after="r[@uid='{D0D1C772-7E1B-45CD-8D78-0877C08009C2}']"
-              s:ds="{8931D84C-28B8-487C-B5D0-10C6440BBF07}"
-              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
-              s:ph="main" />
-            <r
-              uid="{2AA526BC-A9F9-4048-AC80-B80E236C4A87}"
-              p:after="r[@uid='{79940308-BCB0-49BA-9913-1FDB09535802}']"
-              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
-              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
-              s:ph="main" />
-            <r
-              uid="{58C24779-3945-4BE5-8ECE-566F1A64F223}"
-              p:after="r[@uid='{2AA526BC-A9F9-4048-AC80-B80E236C4A87}']"
-              s:ds="{9FB90846-7EB0-40B0-8D94-480082D2D45A}"
-              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
-              s:ph="main" />
-            <r
-              uid="{14E25B83-20AA-4D4F-81CD-DC6CA7C2236C}"
-              p:after="r[@uid='{58C24779-3945-4BE5-8ECE-566F1A64F223}']"
-              s:ds="{9914AA0B-9501-4DB4-B20A-D8B769B9BDB5}"
-              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
-              s:par="Alignment=center"
-              s:ph="main" />
-            <r
-              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
-              <p:d />
-            </r>
-            <r
-              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
-              <p:d />
-            </r>
-            <r
-              uid="{2FB72E40-D795-42E9-A03C-0F7ED73B4463}">
-              <p:d />
-            </r>
-          </d>
-        </r>
-    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
-      Hint: Featured Story Headline
-      Value: XL Systems
-    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
-      Hint: Hide Secondary Navigation
-      Value: 1
-    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
-      Hint: Subheading
-      Value: <p>XL Systems' oil and gas applications include conductor strings, surface casing, liners, and caissons.</p>
-    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
-      Hint: Headline
-      Value: XL Systems
-    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
-      Hint: __Created
-      Value: 20220308T183034Z
-    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
-      Hint: Hide In Navigation
-      Value: 1
-    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
-      Hint: Mobile Menu Title
-      Value: XL Systems
-    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
-      Hint: __Workflow state
-      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
-    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
-      Hint: Page Title
-      Value: XL Systems
-    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
-      Hint: __Owner
-      Value: |
-        sitecore\verticgappau
-    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
-      Hint: __Created by
-      Value: |
-        sitecore\rainerschuhsler
-    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
-      Hint: Menu Title
-      Value: XL Systems
-    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
-      Hint: businessUnit
-      Value: "{302425A4-AE7D-4B4B-B0AA-719B352FA512}"
-    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
-      Hint: Search Result Text
-      Value: "Business Unit: XL Systems"
-    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
-      Hint: __Revision
-      Value: "53ec5332-5d65-47e3-aedf-97be6e720e79"
-    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
-      Hint: contentTag
-      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
-    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
-      Hint: Featured Story CTA Text
-      Value: 
-    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
-      Hint: __Updated by
-      Value: |
-        sitecore\varalakshmi.md@horizontal.com
-    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
-      Hint: Meta Description
-      Value: XL Systems' oil and gas applications include conductor strings, surface casing, liners, and caissons.
-    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
-      Hint: __Valid from
-      Value: 20220308T183034Z
-    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
-      Hint: Card Image
-      Value: |
-        <image ratio="514:295" height="295" mediaid="{D64E74E2-8BFD-4AF3-806D-A4222BC12A0F}" hspace="" cropregion="0,342,1605,1263" width="514" alt="" vspace="" />
-    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
-      Hint: __Updated
-      Value: 20230725T094544Z
+      Value: 20200929T203529Z
     - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
       Hint: Page Image
       Value: |

@@ -7,14 +7,1099 @@ SharedFields:
 - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
   Hint: __Workflow
   Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
-- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
-  Hint: __Thumbnail
-  Value: |
-    <image mediaid="{90CCCC83-1CE4-4AFF-9524-1168F59DB26E}" />
 Languages:
 - Language: "en-US"
   Versions:
   - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}"
+              s:ds="{75E30C2F-6131-43A4-98E3-CDB8E4517889}" />
+            <r
+              uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}"
+              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}" />
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}"
+              s:ds="{7A0480E3-B27E-436E-87A7-404381345E09}" />
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}"
+              s:ds="{05130B5B-87FE-496D-826C-66EE5D1A2350}" />
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}">
+              <p:d />
+            </r>
+            <r
+              uid="{18580496-54A3-4448-B079-04853A01C5A8}"
+              p:after="r[@uid='{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}']"
+              s:ds="{DAC91DA7-7FE8-4733-BAA2-D6EBF17481DF}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:ph="main" />
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}"
+              s:ds="{BF97A0A0-2CF9-4B15-984D-6F0E197B9717}" />
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Pole Products
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Unsurpassed quality, design, and longevity.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Pole Products
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190308T221509Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Pole Products
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Pole Products
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Pole Products
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{0690BF20-2098-4102-807F-40AADB887C56}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "585841ea-f843-4052-8487-871bf707784b"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190308T221509Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{76744FD1-35FA-42CE-998B-CCD108CFB48C}" cropregion="323,365,323,365" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190308T221543Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{76744FD1-35FA-42CE-998B-CCD108CFB48C}" cropregion="0,127,1920,1206" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}"
+              s:ds="{75E30C2F-6131-43A4-98E3-CDB8E4517889}" />
+            <r
+              uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}"
+              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}" />
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}"
+              s:ds="{7A0480E3-B27E-436E-87A7-404381345E09}" />
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}"
+              s:ds="{05130B5B-87FE-496D-826C-66EE5D1A2350}" />
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}">
+              <p:d />
+            </r>
+            <r
+              uid="{18580496-54A3-4448-B079-04853A01C5A8}"
+              p:after="r[@uid='{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}']"
+              s:ds="{DAC91DA7-7FE8-4733-BAA2-D6EBF17481DF}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:ph="main" />
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}"
+              s:ds="{BF97A0A0-2CF9-4B15-984D-6F0E197B9717}" />
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Pole Products
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Pole Products is a leading national manufacturer of industrial and municipal poles for street lighting and traffic control for use in residential areas and commercial developments.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Pole Products
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190320T145653Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Pole Products
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Pole Products
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Pole Products
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{0690BF20-2098-4102-807F-40AADB887C56}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "64db7de6-8743-4f43-a245-673893c7266f"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Pole Products is a leading national manufacturer of industrial and municipal poles for street lighting and traffic control for use in residential areas and commercial developments.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190320T145653Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{76744FD1-35FA-42CE-998B-CCD108CFB48C}" cropregion="323,365,323,365" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190320T151500Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{76744FD1-35FA-42CE-998B-CCD108CFB48C}" cropregion="0,127,1920,1206" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{A041FD4C-6DE0-405C-ADA1-45CC79F70980}"
+              p:before="*"
+              s:ds="{DAC91DA7-7FE8-4733-BAA2-D6EBF17481DF}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{04D5F10E-BBC0-4E55-BE9A-53AF5AAE5B03}-0" />
+            <r
+              uid="{AB7554A2-EB30-449E-B8F3-775EACA0292A}"
+              p:after="r[@uid='{A041FD4C-6DE0-405C-ADA1-45CC79F70980}']"
+              s:ds="{8B0427F6-8507-4BDB-99F2-352B3C12FB9D}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{04D5F10E-BBC0-4E55-BE9A-53AF5AAE5B03}-0" />
+            <r
+              uid="{BE4722F7-C1EC-438D-97AB-9153EC229E32}"
+              p:after="r[@uid='{AB7554A2-EB30-449E-B8F3-775EACA0292A}']"
+              s:ds="{95D94622-98AD-4117-8721-5AACE82D82ED}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{04D5F10E-BBC0-4E55-BE9A-53AF5AAE5B03}-0" />
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}"
+              s:ds="{75E30C2F-6131-43A4-98E3-CDB8E4517889}" />
+            <r
+              uid="{0109759E-4600-4B78-A0E6-96D9B8F26CB9}"
+              s:ds=""
+              s:par="Add Gradient&amp;Text Color=black" />
+            <r
+              uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}"
+              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}" />
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}"
+              s:ds="{7A0480E3-B27E-436E-87A7-404381345E09}" />
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}"
+              s:ds="{05130B5B-87FE-496D-826C-66EE5D1A2350}" />
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}">
+              <p:d />
+            </r>
+            <r
+              uid="{04D5F10E-BBC0-4E55-BE9A-53AF5AAE5B03}"
+              p:after="r[@uid='{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}']"
+              s:id="{5266AC57-9C33-41AF-B32D-D935FB8DC1F3}"
+              s:ph="main" />
+            <r
+              uid="{18580496-54A3-4448-B079-04853A01C5A8}"
+              p:after="r[@uid='{04D5F10E-BBC0-4E55-BE9A-53AF5AAE5B03}']"
+              s:ds="{DAC91DA7-7FE8-4733-BAA2-D6EBF17481DF}"
+              s:id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+              s:ph="main" />
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}"
+              s:ds="{BF97A0A0-2CF9-4B15-984D-6F0E197B9717}" />
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Pole Products
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Pole Products is a leading national manufacturer of industrial and municipal poles for street lighting and traffic control for use in residential areas and commercial developments.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Pole Products
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190409T194756Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Pole Products
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Pole Products
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Pole Products
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{0690BF20-2098-4102-807F-40AADB887C56}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0ee39949-bfb1-4d9d-b14d-48d307c62a54"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Pole Products is a leading national manufacturer of industrial and municipal poles for street lighting and traffic control for use in residential areas and commercial developments.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190409T194756Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{76744FD1-35FA-42CE-998B-CCD108CFB48C}" cropregion="323,365,323,365" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190409T195027Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{76744FD1-35FA-42CE-998B-CCD108CFB48C}" cropregion="0,127,1920,1206" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 4
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{A041FD4C-6DE0-405C-ADA1-45CC79F70980}"
+              p:before="*"
+              s:ds="{DAC91DA7-7FE8-4733-BAA2-D6EBF17481DF}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{04D5F10E-BBC0-4E55-BE9A-53AF5AAE5B03}-0" />
+            <r
+              uid="{AB7554A2-EB30-449E-B8F3-775EACA0292A}"
+              p:after="r[@uid='{A041FD4C-6DE0-405C-ADA1-45CC79F70980}']"
+              s:ds="{8B0427F6-8507-4BDB-99F2-352B3C12FB9D}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{04D5F10E-BBC0-4E55-BE9A-53AF5AAE5B03}-0" />
+            <r
+              uid="{BE4722F7-C1EC-438D-97AB-9153EC229E32}"
+              p:after="r[@uid='{AB7554A2-EB30-449E-B8F3-775EACA0292A}']"
+              s:ds="{95D94622-98AD-4117-8721-5AACE82D82ED}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{04D5F10E-BBC0-4E55-BE9A-53AF5AAE5B03}-0" />
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}"
+              s:ds="{75E30C2F-6131-43A4-98E3-CDB8E4517889}" />
+            <r
+              uid="{0109759E-4600-4B78-A0E6-96D9B8F26CB9}"
+              s:ds=""
+              s:par="Add Gradient&amp;Text Color=black" />
+            <r
+              uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}"
+              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}" />
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}"
+              s:ds="{7A0480E3-B27E-436E-87A7-404381345E09}" />
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}"
+              s:ds="{05130B5B-87FE-496D-826C-66EE5D1A2350}" />
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}">
+              <p:d />
+            </r>
+            <r
+              uid="{04D5F10E-BBC0-4E55-BE9A-53AF5AAE5B03}"
+              p:after="r[@uid='{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}']"
+              s:id="{5266AC57-9C33-41AF-B32D-D935FB8DC1F3}"
+              s:ph="main" />
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}"
+              s:ds="{BF97A0A0-2CF9-4B15-984D-6F0E197B9717}" />
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Pole Products
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Pole Products is a leading national manufacturer of industrial and municipal poles for street lighting and traffic control for use in residential areas and commercial developments.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Pole Products
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190409T195054Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Pole Products
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Pole Products
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Pole Products
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{0690BF20-2098-4102-807F-40AADB887C56}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ee2e53fb-8180-45ce-9819-5593289ecd15"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Pole Products is a leading national manufacturer of industrial and municipal poles for street lighting and traffic control for use in residential areas and commercial developments.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190409T195054Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{76744FD1-35FA-42CE-998B-CCD108CFB48C}" cropregion="323,365,323,365" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190412T132232Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{76744FD1-35FA-42CE-998B-CCD108CFB48C}" cropregion="0,127,1920,1206" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 5
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{A041FD4C-6DE0-405C-ADA1-45CC79F70980}"
+              p:before="*"
+              s:ds="{DAC91DA7-7FE8-4733-BAA2-D6EBF17481DF}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{04D5F10E-BBC0-4E55-BE9A-53AF5AAE5B03}-0" />
+            <r
+              uid="{AB7554A2-EB30-449E-B8F3-775EACA0292A}"
+              p:after="r[@uid='{A041FD4C-6DE0-405C-ADA1-45CC79F70980}']"
+              s:ds="{8B0427F6-8507-4BDB-99F2-352B3C12FB9D}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{04D5F10E-BBC0-4E55-BE9A-53AF5AAE5B03}-0" />
+            <r
+              uid="{BE4722F7-C1EC-438D-97AB-9153EC229E32}"
+              p:after="r[@uid='{AB7554A2-EB30-449E-B8F3-775EACA0292A}']"
+              s:ds="{95D94622-98AD-4117-8721-5AACE82D82ED}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{04D5F10E-BBC0-4E55-BE9A-53AF5AAE5B03}-0" />
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}"
+              s:ds="{75E30C2F-6131-43A4-98E3-CDB8E4517889}" />
+            <r
+              uid="{0109759E-4600-4B78-A0E6-96D9B8F26CB9}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}"
+              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}" />
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}"
+              s:ds="{7A0480E3-B27E-436E-87A7-404381345E09}" />
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}"
+              s:ds="{05130B5B-87FE-496D-826C-66EE5D1A2350}" />
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}">
+              <p:d />
+            </r>
+            <r
+              uid="{04D5F10E-BBC0-4E55-BE9A-53AF5AAE5B03}"
+              p:after="r[@uid='{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}']"
+              s:id="{5266AC57-9C33-41AF-B32D-D935FB8DC1F3}"
+              s:ph="main" />
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}"
+              s:ds="{BF97A0A0-2CF9-4B15-984D-6F0E197B9717}" />
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Pole Products
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Pole Products is a leading national manufacturer of industrial and municipal poles for street lighting and traffic control for use in residential areas and commercial developments.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Pole Products
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190412T193440Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Pole Products
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Pole Products
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Pole Products
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{0690BF20-2098-4102-807F-40AADB887C56}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "80806f78-67ab-4dda-976c-da8bf54e2d51"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Pole Products is a leading national manufacturer of industrial and municipal poles for street lighting and traffic control for use in residential areas and commercial developments.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190412T193440Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{76744FD1-35FA-42CE-998B-CCD108CFB48C}" cropregion="323,365,323,365" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190509T183929Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{76744FD1-35FA-42CE-998B-CCD108CFB48C}" cropregion="0,127,1920,1206" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 6
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{A041FD4C-6DE0-405C-ADA1-45CC79F70980}"
+              p:before="*"
+              s:ds="{DAC91DA7-7FE8-4733-BAA2-D6EBF17481DF}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{04D5F10E-BBC0-4E55-BE9A-53AF5AAE5B03}-0" />
+            <r
+              uid="{AB7554A2-EB30-449E-B8F3-775EACA0292A}"
+              p:after="r[@uid='{A041FD4C-6DE0-405C-ADA1-45CC79F70980}']"
+              s:ds="{8B0427F6-8507-4BDB-99F2-352B3C12FB9D}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{04D5F10E-BBC0-4E55-BE9A-53AF5AAE5B03}-0" />
+            <r
+              uid="{BE4722F7-C1EC-438D-97AB-9153EC229E32}"
+              p:after="r[@uid='{AB7554A2-EB30-449E-B8F3-775EACA0292A}']"
+              s:ds="{95D94622-98AD-4117-8721-5AACE82D82ED}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{04D5F10E-BBC0-4E55-BE9A-53AF5AAE5B03}-0" />
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}"
+              s:ds="{75E30C2F-6131-43A4-98E3-CDB8E4517889}" />
+            <r
+              uid="{0109759E-4600-4B78-A0E6-96D9B8F26CB9}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}"
+              s:ds="{FBFE6E26-52AC-4D3C-B1CD-AB240294D3C8}" />
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}"
+              s:ds="{7A0480E3-B27E-436E-87A7-404381345E09}" />
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}"
+              s:ds="{05130B5B-87FE-496D-826C-66EE5D1A2350}" />
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}">
+              <p:d />
+            </r>
+            <r
+              uid="{04D5F10E-BBC0-4E55-BE9A-53AF5AAE5B03}"
+              p:after="r[@uid='{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}']"
+              s:id="{5266AC57-9C33-41AF-B32D-D935FB8DC1F3}"
+              s:ph="main" />
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}"
+              s:ds="{BF97A0A0-2CF9-4B15-984D-6F0E197B9717}" />
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Pole Products
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Pole Products is a leading national manufacturer of industrial and municipal poles for street lighting and traffic control for use in residential areas and commercial developments.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Pole Products
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190524T153426Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Pole Products
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Pole Products
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\arshmomin
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Pole Products
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{0690BF20-2098-4102-807F-40AADB887C56}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "37192b72-765f-4470-bdc1-865ffa63a7ba"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\arshmomin
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Pole Products is a leading national manufacturer of industrial and municipal poles for street lighting and traffic control for use in residential areas and commercial developments.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190524T153426Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{76744FD1-35FA-42CE-998B-CCD108CFB48C}" cropregion="323,365,323,365" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190524T153451Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{76744FD1-35FA-42CE-998B-CCD108CFB48C}" cropregion="0,127,1920,1206" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 7
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{A041FD4C-6DE0-405C-ADA1-45CC79F70980}"
+              p:before="*"
+              s:ds="{DAC91DA7-7FE8-4733-BAA2-D6EBF17481DF}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{04D5F10E-BBC0-4E55-BE9A-53AF5AAE5B03}-0" />
+            <r
+              uid="{AB7554A2-EB30-449E-B8F3-775EACA0292A}"
+              p:after="r[@uid='{A041FD4C-6DE0-405C-ADA1-45CC79F70980}']"
+              s:ds="{8B0427F6-8507-4BDB-99F2-352B3C12FB9D}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{04D5F10E-BBC0-4E55-BE9A-53AF5AAE5B03}-0" />
+            <r
+              uid="{BE4722F7-C1EC-438D-97AB-9153EC229E32}"
+              p:after="r[@uid='{AB7554A2-EB30-449E-B8F3-775EACA0292A}']"
+              s:ds="{95D94622-98AD-4117-8721-5AACE82D82ED}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{04D5F10E-BBC0-4E55-BE9A-53AF5AAE5B03}-0" />
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}"
+              s:ds="{75E30C2F-6131-43A4-98E3-CDB8E4517889}" />
+            <r
+              uid="{0109759E-4600-4B78-A0E6-96D9B8F26CB9}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}"
+              s:ds="{68903F16-467C-4C6B-8293-FE603988C0BD}"
+              s:par="Enable Autoplay=true&amp;Add Gradient&amp;Text Color=white&amp;Wait Time=5000" />
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}"
+              s:ds="{7A0480E3-B27E-436E-87A7-404381345E09}" />
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}"
+              s:ds="{05130B5B-87FE-496D-826C-66EE5D1A2350}" />
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}">
+              <p:d />
+            </r>
+            <r
+              uid="{04D5F10E-BBC0-4E55-BE9A-53AF5AAE5B03}"
+              p:after="r[@uid='{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}']"
+              s:id="{5266AC57-9C33-41AF-B32D-D935FB8DC1F3}"
+              s:ph="main" />
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}"
+              s:ds="{BF97A0A0-2CF9-4B15-984D-6F0E197B9717}" />
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Pole Products
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Pole Products is a leading national manufacturer of industrial and municipal poles for street lighting and traffic control for use in residential areas and commercial developments.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Pole Products
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190604T194107Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Pole Products
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Pole Products
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\joannazhu
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Pole Products
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{0690BF20-2098-4102-807F-40AADB887C56}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "baa413b7-9b8e-45a2-afe5-41a3fdef1423"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Pole Products is a leading national manufacturer of industrial and municipal poles for street lighting and traffic control for use in residential areas and commercial developments.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190604T194107Z
+    - ID: "d4431923-68cf-42a0-a27e-db945d791fdb"
+      Hint: Canonical URL
+      Value: "https://www.nov.com/about/our-business-units/pole-products"
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{76744FD1-35FA-42CE-998B-CCD108CFB48C}" cropregion="323,365,323,365" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190701T204043Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{76744FD1-35FA-42CE-998B-CCD108CFB48C}" cropregion="0,127,1920,1206" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 8
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{A041FD4C-6DE0-405C-ADA1-45CC79F70980}"
+              p:before="*"
+              s:ds="{DAC91DA7-7FE8-4733-BAA2-D6EBF17481DF}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{04D5F10E-BBC0-4E55-BE9A-53AF5AAE5B03}-0" />
+            <r
+              uid="{AB7554A2-EB30-449E-B8F3-775EACA0292A}"
+              p:after="r[@uid='{A041FD4C-6DE0-405C-ADA1-45CC79F70980}']"
+              s:ds="{8B0427F6-8507-4BDB-99F2-352B3C12FB9D}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{04D5F10E-BBC0-4E55-BE9A-53AF5AAE5B03}-0" />
+            <r
+              uid="{BE4722F7-C1EC-438D-97AB-9153EC229E32}"
+              p:after="r[@uid='{AB7554A2-EB30-449E-B8F3-775EACA0292A}']"
+              s:ds="{95D94622-98AD-4117-8721-5AACE82D82ED}"
+              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
+              s:ph="/main/video-player-slider-{04D5F10E-BBC0-4E55-BE9A-53AF5AAE5B03}-0" />
+            <r
+              uid="{0371D386-3572-4076-8538-6734215DB82E}"
+              s:ds="{75E30C2F-6131-43A4-98E3-CDB8E4517889}" />
+            <r
+              uid="{0109759E-4600-4B78-A0E6-96D9B8F26CB9}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}"
+              s:ds="{68903F16-467C-4C6B-8293-FE603988C0BD}"
+              s:par="Enable Autoplay=true&amp;Add Gradient&amp;Text Color=white&amp;Wait Time=5000" />
+            <r
+              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}"
+              s:ds="{7A0480E3-B27E-436E-87A7-404381345E09}" />
+            <r
+              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}"
+              s:ds="{05130B5B-87FE-496D-826C-66EE5D1A2350}" />
+            <r
+              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}">
+              <p:d />
+            </r>
+            <r
+              uid="{04D5F10E-BBC0-4E55-BE9A-53AF5AAE5B03}"
+              p:after="r[@uid='{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}']"
+              s:id="{5266AC57-9C33-41AF-B32D-D935FB8DC1F3}"
+              s:ph="main" />
+            <r
+              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}"
+              s:ds="{BF97A0A0-2CF9-4B15-984D-6F0E197B9717}" />
+            <r
+              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
+              <p:d />
+            </r>
+            <r
+              uid="{FA76BE3D-448B-4A2E-B25F-6864C98A25AA}"
+              p:after="r[@uid='{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}']"
+              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
+              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
+              s:ph="main" />
+            <r
+              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
+              <p:d />
+            </r>
+            <r
+              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: Pole Products
+    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
+      Hint: Hide Secondary Navigation
+      Value: 1
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p>Pole Products is a leading national manufacturer of industrial and municipal poles for street lighting and traffic control for use in residential areas and commercial developments.</p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: Pole Products
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190701T213507Z
+    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
+      Hint: Hide In Navigation
+      Value: 1
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: Pole Products
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: Pole Products
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: Pole Products
+    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
+      Hint: businessUnit
+      Value: "{0690BF20-2098-4102-807F-40AADB887C56}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "10ed78f3-9a4f-4379-a16d-2b890b126312"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rainerschuhsler
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: Pole Products is a leading national manufacturer of industrial and municipal poles for street lighting and traffic control for use in residential areas and commercial developments.
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190701T213507Z
+    - ID: "d4431923-68cf-42a0-a27e-db945d791fdb"
+      Hint: Canonical URL
+      Value: "https://www.nov.com/about/our-business-units/pole-products"
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{76744FD1-35FA-42CE-998B-CCD108CFB48C}" cropregion="323,365,323,365" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190701T214206Z
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{76744FD1-35FA-42CE-998B-CCD108CFB48C}" cropregion="0,127,1920,1206" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+  - Version: 9
     Fields:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
@@ -171,7 +1256,7 @@ Languages:
       Hint: Page Image
       Value: |
         <image mediaid="{76744FD1-35FA-42CE-998B-CCD108CFB48C}" cropregion="0,127,1920,1206" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
-  - Version: 2
+  - Version: 10
     Fields:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
@@ -204,6 +1289,10 @@ Languages:
             <r
               uid="{0371D386-3572-4076-8538-6734215DB82E}"
               s:ds="{75E30C2F-6131-43A4-98E3-CDB8E4517889}" />
+            <r
+              uid="{0109759E-4600-4B78-A0E6-96D9B8F26CB9}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
             <r
               uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}"
               s:ds="{925C638D-1E8A-4379-A3BD-7B2164E5D801}"
@@ -296,7 +1385,7 @@ Languages:
       Value: "Business Unit: Pole Products"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "fe660cc2-0bec-4a77-b079-410a3da1a976"
+      Value: "66bda153-1d49-4d61-be11-56b1f36162e7"
     - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
       Hint: contentTag
       Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
@@ -306,7 +1395,7 @@ Languages:
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\adminrschuhsler
+        sitecore\kaileyshelton
     - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
       Hint: Meta Description
       Value: Pole Products is a leading national manufacturer of industrial and municipal poles for street lighting and traffic control for use in residential areas and commercial developments.
@@ -322,1830 +1411,8 @@ Languages:
         <image mediaid="{76744FD1-35FA-42CE-998B-CCD108CFB48C}" cropregion="323,365,323,365" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20210422T010845Z
+      Value: 20200402T142440Z
     - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
       Hint: Page Image
       Value: |
         <image mediaid="{76744FD1-35FA-42CE-998B-CCD108CFB48C}" cropregion="0,127,1920,1206" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
-  - Version: 3
-    Fields:
-    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
-      Hint: __Lock
-      Value: |
-        <r owner="sitecore\rainerschuhsler" date="20211029T191201Z" />
-    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
-      Hint: __Final Renderings
-      Value: |
-        <r xmlns:p="p" xmlns:s="s"
-          p:p="1">
-          <d
-            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
-            <r
-              uid="{0371D386-3572-4076-8538-6734215DB82E}">
-              <p:d />
-            </r>
-            <r
-              uid="{0109759E-4600-4B78-A0E6-96D9B8F26CB9}">
-              <p:d />
-            </r>
-            <r
-              uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}">
-              <p:d />
-            </r>
-            <r
-              uid="{822C37E4-4CB2-44E6-966D-9480E49517C6}"
-              p:before="*"
-              s:ds="{5195F073-C359-4FA7-9658-39C5E065FB31}"
-              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
-              s:ph="/main/image-block-main-{17CC8F57-AF7D-4460-AA61-788DB845E2C0}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom/image-block-splitter-480x540-right" />
-            <r
-              uid="{D8F2B7E3-47A0-4895-98F7-ED9E9ECEC436}"
-              p:after="r[@uid='{822C37E4-4CB2-44E6-966D-9480E49517C6}']"
-              s:ds="{637B3E56-8131-44DA-BE46-F00BE2B1C83C}"
-              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
-              s:ph="/main/image-block-main-{17CC8F57-AF7D-4460-AA61-788DB845E2C0}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom/image-block-splitter-480x540-left" />
-            <r
-              uid="{4AB77124-231D-49ED-9F40-7FB6BE48EB5B}"
-              p:after="r[@uid='{D8F2B7E3-47A0-4895-98F7-ED9E9ECEC436}']"
-              s:ds="{C7B70A93-3C2A-4F6E-8DA1-1ABB71B1AD35}"
-              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
-              s:ph="/main/image-block-main-{17CC8F57-AF7D-4460-AA61-788DB845E2C0}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-top" />
-            <r
-              uid="{A56A908A-0701-439F-B565-ACBCAB5BA62A}"
-              p:after="r[@uid='{4AB77124-231D-49ED-9F40-7FB6BE48EB5B}']"
-              s:ds="{D343BD3F-01E2-44F1-975D-EA38C3F03CD7}"
-              s:id="{DF174940-7395-43D3-832A-2D121B9F5B42}"
-              s:ph="/main/image-block-main-{17CC8F57-AF7D-4460-AA61-788DB845E2C0}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-bottom" />
-            <r
-              uid="{C3372ACE-622E-464E-B1FC-514A7632ECC2}"
-              p:after="r[@uid='{A56A908A-0701-439F-B565-ACBCAB5BA62A}']"
-              s:ds="{0C15738B-3648-49B3-8CD6-5882254864AC}"
-              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
-              s:ph="/main/image-block-main-{17CC8F57-AF7D-4460-AA61-788DB845E2C0}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-top/image-block-splitter-480x540-right" />
-            <r
-              uid="{C512DF4A-09DD-46B1-B989-46EC6DEAEAFD}"
-              p:after="r[@uid='{C3372ACE-622E-464E-B1FC-514A7632ECC2}']"
-              s:ds="{7877AD53-5AC9-4ED3-87A0-722B4073FF84}"
-              s:id="{C43A6A13-65F9-4F84-B3E6-633E70EDEDC4}"
-              s:ph="/main/image-block-main-{17CC8F57-AF7D-4460-AA61-788DB845E2C0}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-top/image-block-splitter-480x540-left" />
-            <r
-              uid="{66E28B7D-1823-4153-8824-EDBABCFD54A9}"
-              p:after="r[@uid='{C512DF4A-09DD-46B1-B989-46EC6DEAEAFD}']"
-              s:id="{30CDBCD0-0126-446E-8E05-E7931C91B224}"
-              s:ph="/main/image-block-main-{17CC8F57-AF7D-4460-AA61-788DB845E2C0}-0/image-block-splitter-960x1080-right/image-block-splitter-960x540-bottom" />
-            <r
-              uid="{23F8D88F-88B9-48D8-8E1D-32CE75CFBB3D}"
-              p:after="r[@uid='{66E28B7D-1823-4153-8824-EDBABCFD54A9}']"
-              s:id="{30CDBCD0-0126-446E-8E05-E7931C91B224}"
-              s:ph="/main/image-block-main-{17CC8F57-AF7D-4460-AA61-788DB845E2C0}-0/image-block-splitter-960x1080-left/image-block-splitter-960x540-top" />
-            <r
-              uid="{4A8BD1C3-0073-49F6-AF4C-A6549FD1EA4D}"
-              p:after="r[@uid='{23F8D88F-88B9-48D8-8E1D-32CE75CFBB3D}']"
-              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
-              s:ph="/main/image-block-main-{17CC8F57-AF7D-4460-AA61-788DB845E2C0}-0/image-block-splitter-960x1080-right" />
-            <r
-              uid="{28105EC6-082A-452B-805F-BA6A09A690A3}"
-              p:after="r[@uid='{4A8BD1C3-0073-49F6-AF4C-A6549FD1EA4D}']"
-              s:id="{D4221315-A1B8-4B1E-8F94-19EAFD293F40}"
-              s:ph="/main/image-block-main-{17CC8F57-AF7D-4460-AA61-788DB845E2C0}-0/image-block-splitter-960x1080-left" />
-            <r
-              uid="{5BC9FDF6-57C7-466A-AF50-43C407F11CEA}"
-              p:after="r[@uid='{28105EC6-082A-452B-805F-BA6A09A690A3}']"
-              s:id="{B638AA24-F215-4B57-AD31-CBCC4CD67D58}"
-              s:ph="/main/image-block-main-{17CC8F57-AF7D-4460-AA61-788DB845E2C0}-0" />
-            <r
-              uid="{4A525A44-A73C-4F05-A312-7740D3E4F735}"
-              p:after="r[@uid='{5BC9FDF6-57C7-466A-AF50-43C407F11CEA}']"
-              s:ds="{FE2F2284-B9FE-4E5E-8A74-0D571DCE38D2}"
-              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
-              s:par="Alignment=left"
-              s:ph="/main/sidebar-content" />
-            <r
-              uid="{DDC17E24-4D5C-41E4-9854-DDABDC5F3BCC}"
-              p:after="r[@uid='{4A525A44-A73C-4F05-A312-7740D3E4F735}']"
-              s:ds=""
-              s:id="{9CA51EAB-92E4-4A77-8B48-966774577172}"
-              s:par="Add Gradient=1"
-              s:ph="/main/product-hero-{BF2DB372-9747-4110-803F-ACB59AB8F4A3}-0" />
-            <r
-              uid="{BF2DB372-9747-4110-803F-ACB59AB8F4A3}"
-              p:after="r[@uid='{DDC17E24-4D5C-41E4-9854-DDABDC5F3BCC}']"
-              s:ds="{DB7BAB29-A94C-445B-B541-5C88B4C85EB8}"
-              s:id="{C3DD97A2-2C6B-4FDA-922C-7127AE10C976}"
-              s:ph="main" />
-            <r
-              uid="{A041FD4C-6DE0-405C-ADA1-45CC79F70980}"
-              p:after="r[@uid='{BF2DB372-9747-4110-803F-ACB59AB8F4A3}']"
-              s:ds="{DAC91DA7-7FE8-4733-BAA2-D6EBF17481DF}"
-              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
-              s:ph="/main/video-player-slider-{04D5F10E-BBC0-4E55-BE9A-53AF5AAE5B03}-0" />
-            <r
-              uid="{AB7554A2-EB30-449E-B8F3-775EACA0292A}"
-              p:after="r[@uid='{A041FD4C-6DE0-405C-ADA1-45CC79F70980}']"
-              s:ds="{8B0427F6-8507-4BDB-99F2-352B3C12FB9D}"
-              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
-              s:ph="/main/video-player-slider-{04D5F10E-BBC0-4E55-BE9A-53AF5AAE5B03}-0" />
-            <r
-              uid="{BE4722F7-C1EC-438D-97AB-9153EC229E32}"
-              p:after="r[@uid='{AB7554A2-EB30-449E-B8F3-775EACA0292A}']"
-              s:ds="{95D94622-98AD-4117-8721-5AACE82D82ED}"
-              s:id="{9FBD678E-6C81-4F60-B86D-31EA0CFB1DFA}"
-              s:ph="/main/video-player-slider-{04D5F10E-BBC0-4E55-BE9A-53AF5AAE5B03}-0" />
-            <r
-              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}"
-              s:ds="{7A0480E3-B27E-436E-87A7-404381345E09}" />
-            <r
-              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}"
-              s:ds="{05130B5B-87FE-496D-826C-66EE5D1A2350}" />
-            <r
-              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}">
-              <p:d />
-            </r>
-            <r
-              uid="{D28026DA-FE43-4D3F-9415-25E00F7F449B}"
-              p:after="r[@uid='{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}']"
-              s:ds="{1A25107A-ED2A-48D4-A1BD-964A80BAC1E7}"
-              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
-              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
-              s:ph="main" />
-            <r
-              uid="{50BDB8D9-52E4-4172-A9F2-72A8A56C1135}"
-              p:after="r[@uid='{D28026DA-FE43-4D3F-9415-25E00F7F449B}']"
-              s:ds="{FEAF8740-3EA6-4EBA-B1DA-CE104DAEF1B2}"
-              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
-              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
-              s:ph="main" />
-            <r
-              uid="{52ABA33C-4BCE-4620-92BE-516FE3442FC7}"
-              p:after="r[@uid='{50BDB8D9-52E4-4172-A9F2-72A8A56C1135}']"
-              s:ds="{29064887-518A-4E96-96B7-C13405328420}"
-              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
-              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
-              s:ph="main" />
-            <r
-              uid="{E9B6E800-198A-4B42-B255-75239D315443}"
-              p:after="r[@uid='{52ABA33C-4BCE-4620-92BE-516FE3442FC7}']"
-              s:ds="{3FF6DEA0-1D36-4E1A-8EA6-1021D29BD70B}"
-              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
-              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
-              s:ph="main" />
-            <r
-              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}"
-              s:ds="{BF97A0A0-2CF9-4B15-984D-6F0E197B9717}" />
-            <r
-              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
-              <p:d />
-            </r>
-            <r
-              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
-              <p:d />
-            </r>
-            <r
-              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
-              <p:d />
-            </r>
-            <r
-              uid="{2FB72E40-D795-42E9-A03C-0F7ED73B4463}">
-              <p:d />
-            </r>
-            <r
-              uid="{04D5F10E-BBC0-4E55-BE9A-53AF5AAE5B03}"
-              p:after="r[@uid='{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}']"
-              s:id="{5266AC57-9C33-41AF-B32D-D935FB8DC1F3}"
-              s:ph="main" />
-            <r
-              uid="{DA69D40C-3307-4C70-987C-DD5BD198711F}"
-              p:after="r[@uid='{04D5F10E-BBC0-4E55-BE9A-53AF5AAE5B03}']"
-              s:ds="{28E1DFC6-52BC-42C2-B7DE-C8583B7FEEA9}"
-              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
-              s:par="Alignment=center"
-              s:ph="main" />
-            <r
-              uid="{17CC8F57-AF7D-4460-AA61-788DB845E2C0}"
-              p:after="r[@uid='{DA69D40C-3307-4C70-987C-DD5BD198711F}']"
-              s:id="{6932DD17-1CD9-4D03-93B7-3C0A92EB8229}"
-              s:ph="main" />
-            <r
-              uid="{4A1F098F-9C61-45D5-A200-938666222D36}"
-              p:after="r[@uid='{17CC8F57-AF7D-4460-AA61-788DB845E2C0}']"
-              s:ds="{55D98671-97ED-476A-8BC8-3E9CD023FC99}"
-              s:id="{339A27F1-D5BB-4D77-8097-C659C900ECE6}"
-              s:ph="main" />
-            <r
-              uid="{FA76BE3D-448B-4A2E-B25F-6864C98A25AA}"
-              p:after="r[@uid='{4A1F098F-9C61-45D5-A200-938666222D36}']"
-              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
-              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
-              s:ph="main" />
-            <r
-              uid="{1E9E42D0-FBDD-463D-BFDA-50C9A1D22200}"
-              p:after="r[@uid='{FA76BE3D-448B-4A2E-B25F-6864C98A25AA}']"
-              s:ds="{9AEDA515-824E-4B9D-9FE6-91D45E00377F}"
-              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
-              s:ph="main" />
-            <r
-              uid="{E7549EA9-B8CE-48AF-89F0-8C7F998239FB}"
-              p:after="r[@uid='{1E9E42D0-FBDD-463D-BFDA-50C9A1D22200}']"
-              s:ds="{152AF4E0-BFF3-4400-A330-EF0E69000E7D}"
-              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
-              s:ph="main" />
-            <r
-              uid="{D0C307F9-404F-40B6-AE47-0D90DFDC0C87}"
-              s:ds="{6E13FDA5-2F69-4BF2-A7FA-CB99B0FE4D22}" />
-          </d>
-        </r>
-    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
-      Hint: Featured Story Headline
-      Value: Pole Products
-    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
-      Hint: Hide Secondary Navigation
-      Value: 
-    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
-      Hint: Subheading
-      Value: <p>We are a leading manufacturer of poles for street lighting, traffic control, and distribution for use in cities, residential areas, and commercial developments.</p>
-    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
-      Hint: Headline
-      Value: Pole Products
-    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
-      Hint: __Created
-      Value: 20210511T212125Z
-    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
-      Hint: Hide In Navigation
-      Value: 
-    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
-      Hint: Mobile Menu Title
-      Value: Pole Products
-    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
-      Hint: __Workflow state
-      Value: "{40251B7D-FBE3-4A0E-8947-D4B4FE8CD782}"
-    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
-      Hint: Page Title
-      Value: Pole Products
-    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
-      Hint: __Owner
-      Value: |
-        sitecore\rainerschuhsler
-    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
-      Hint: Open Graph Image
-      Value: |
-        <image mediaid="{CC6DB14A-F87A-4157-B969-6F534DA672D0}" />
-    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
-      Hint: __Created by
-      Value: |
-        sitecore\rainerschuhsler
-    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
-      Hint: Menu Title
-      Value: Pole Products
-    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
-      Hint: businessUnit
-      Value: "{0690BF20-2098-4102-807F-40AADB887C56}"
-    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
-      Hint: Search Result Text
-      Value: "Business Unit: Pole Products"
-    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
-      Hint: __Revision
-      Value: "f1dc7ddd-da4f-413d-804d-52ee98e3619c"
-    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
-      Hint: contentTag
-      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
-    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
-      Hint: Featured Story CTA Text
-      Value: 
-    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
-      Hint: __Updated by
-      Value: |
-        sitecore\rainerschuhsler
-    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
-      Hint: Meta Description
-      Value: Pole Products is a leading national manufacturer of industrial and municipal poles for street lighting and traffic control for use in residential areas and commercial developments.
-    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
-      Hint: __Valid from
-      Value: 20210511T212125Z
-    - ID: "d4431923-68cf-42a0-a27e-db945d791fdb"
-      Hint: Canonical URL
-      Value: 
-    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
-      Hint: Card Image
-      Value: |
-        <image mediaid="{CC6DB14A-F87A-4157-B969-6F534DA672D0}" cropregion="0,0,1920,1102" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
-    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
-      Hint: __Updated
-      Value: 20211029T191201Z
-    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
-      Hint: Page Image
-      Value: |
-        <image mediaid="{CC6DB14A-F87A-4157-B969-6F534DA672D0}" cropregion="0,0,1920,1079" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
-  - Version: 4
-    Fields:
-    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
-      Hint: __Lock
-      Value: <r />
-    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
-      Hint: __Final Renderings
-      Value: |
-        <r xmlns:p="p" xmlns:s="s"
-          p:p="1">
-          <d
-            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
-            <r
-              uid="{0371D386-3572-4076-8538-6734215DB82E}">
-              <p:d />
-            </r>
-            <r
-              uid="{0109759E-4600-4B78-A0E6-96D9B8F26CB9}">
-              <p:d />
-            </r>
-            <r
-              uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}">
-              <p:d />
-            </r>
-            <r
-              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}">
-              <p:d />
-            </r>
-            <r
-              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
-              <p:d />
-            </r>
-            <r
-              uid="{DDC17E24-4D5C-41E4-9854-DDABDC5F3BCC}"
-              p:before="*"
-              s:ds=""
-              s:id="{9CA51EAB-92E4-4A77-8B48-966774577172}"
-              s:par="Add Gradient=1"
-              s:ph="/main/product-hero-{BF2DB372-9747-4110-803F-ACB59AB8F4A3}-0" />
-            <r
-              uid="{BF2DB372-9747-4110-803F-ACB59AB8F4A3}"
-              p:after="r[@uid='{DDC17E24-4D5C-41E4-9854-DDABDC5F3BCC}']"
-              s:ds="{DB7BAB29-A94C-445B-B541-5C88B4C85EB8}"
-              s:id="{C3DD97A2-2C6B-4FDA-922C-7127AE10C976}"
-              s:ph="main" />
-            <r
-              uid="{FA76BE3D-448B-4A2E-B25F-6864C98A25AA}"
-              p:after="r[@uid='{BF2DB372-9747-4110-803F-ACB59AB8F4A3}']"
-              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
-              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
-              s:ph="main" />
-            <r
-              uid="{1E9E42D0-FBDD-463D-BFDA-50C9A1D22200}"
-              p:after="r[@uid='{FA76BE3D-448B-4A2E-B25F-6864C98A25AA}']"
-              s:ds="{63250B0A-241A-4A59-BB8E-6905085D289C}"
-              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
-              s:par=""
-              s:ph="main" />
-            <r
-              uid="{E7549EA9-B8CE-48AF-89F0-8C7F998239FB}"
-              p:after="r[@uid='{1E9E42D0-FBDD-463D-BFDA-50C9A1D22200}']"
-              s:ds="{9FA55EEC-7176-4900-83B8-D7CAAA952694}"
-              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
-              s:par=""
-              s:ph="main" />
-            <r
-              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}">
-              <p:d />
-            </r>
-            <r
-              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
-              <p:d />
-            </r>
-            <r
-              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
-              <p:d />
-            </r>
-            <r
-              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
-              <p:d />
-            </r>
-            <r
-              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
-              <p:d />
-            </r>
-            <r
-              uid="{2FB72E40-D795-42E9-A03C-0F7ED73B4463}">
-              <p:d />
-            </r>
-            <r
-              uid="{D0C307F9-404F-40B6-AE47-0D90DFDC0C87}"
-              s:ds="{6E13FDA5-2F69-4BF2-A7FA-CB99B0FE4D22}" />
-          </d>
-        </r>
-    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
-      Hint: Featured Story Headline
-      Value: Ameron
-    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
-      Hint: Hide Secondary Navigation
-      Value: 
-    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
-      Hint: Subheading
-      Value: <p>We are a leading manufacturer of poles for street lighting, traffic control, and distribution for use in cities, residential areas, and commercial developments.</p>
-    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
-      Hint: Headline
-      Value: Ameron
-    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
-      Hint: __Created
-      Value: 20211029T191205Z
-    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
-      Hint: Hide In Navigation
-      Value: 
-    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
-      Hint: Mobile Menu Title
-      Value: Ameron
-    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
-      Hint: __Workflow state
-      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
-    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
-      Hint: Page Title
-      Value: Ameron
-    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
-      Hint: __Owner
-      Value: |
-        sitecore\rainerschuhsler
-    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
-      Hint: Open Graph Image
-      Value: |
-        <image mediaid="{CC6DB14A-F87A-4157-B969-6F534DA672D0}" />
-    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
-      Hint: __Created by
-      Value: |
-        sitecore\rainerschuhsler
-    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
-      Hint: Menu Title
-      Value: Ameron
-    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
-      Hint: businessUnit
-      Value: "{0690BF20-2098-4102-807F-40AADB887C56}"
-    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
-      Hint: Search Result Text
-      Value: "Business Unit: Pole Products"
-    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
-      Hint: __Revision
-      Value: "e7677df1-0786-40ae-9254-dceec343f328"
-    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
-      Hint: contentTag
-      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
-    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
-      Hint: Featured Story CTA Text
-      Value: 
-    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
-      Hint: __Updated by
-      Value: |
-        sitecore\adminrschuhsler
-    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
-      Hint: Meta Description
-      Value: Ameron is a leading national manufacturer of industrial and municipal poles for street lighting and traffic control for use in residential areas and commercial developments.
-    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
-      Hint: __Valid from
-      Value: 20211029T191205Z
-    - ID: "d4431923-68cf-42a0-a27e-db945d791fdb"
-      Hint: Canonical URL
-      Value: 
-    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
-      Hint: Card Image
-      Value: |
-        <image mediaid="{CC6DB14A-F87A-4157-B969-6F534DA672D0}" cropregion="0,0,1920,1102" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
-    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
-      Hint: __Updated
-      Value: 20211122T202917Z
-    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
-      Hint: Meta Keywords
-      Value: Pole Products, poles
-    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
-      Hint: Page Image
-      Value: |
-        <image mediaid="{CC6DB14A-F87A-4157-B969-6F534DA672D0}" cropregion="0,0,1920,1079" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
-  - Version: 5
-    Fields:
-    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
-      Hint: __Lock
-      Value: <r />
-    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
-      Hint: __Final Renderings
-      Value: |
-        <r xmlns:p="p" xmlns:s="s"
-          p:p="1">
-          <d
-            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
-            <r
-              uid="{0371D386-3572-4076-8538-6734215DB82E}">
-              <p:d />
-            </r>
-            <r
-              uid="{0109759E-4600-4B78-A0E6-96D9B8F26CB9}">
-              <p:d />
-            </r>
-            <r
-              uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}">
-              <p:d />
-            </r>
-            <r
-              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}">
-              <p:d />
-            </r>
-            <r
-              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
-              <p:d />
-            </r>
-            <r
-              uid="{DDC17E24-4D5C-41E4-9854-DDABDC5F3BCC}"
-              p:before="*"
-              s:ds=""
-              s:id="{9CA51EAB-92E4-4A77-8B48-966774577172}"
-              s:par="Add Gradient=1"
-              s:ph="/main/product-hero-{BF2DB372-9747-4110-803F-ACB59AB8F4A3}-0" />
-            <r
-              uid="{BF2DB372-9747-4110-803F-ACB59AB8F4A3}"
-              p:after="r[@uid='{DDC17E24-4D5C-41E4-9854-DDABDC5F3BCC}']"
-              s:ds="{DB7BAB29-A94C-445B-B541-5C88B4C85EB8}"
-              s:id="{C3DD97A2-2C6B-4FDA-922C-7127AE10C976}"
-              s:ph="main" />
-            <r
-              uid="{FA76BE3D-448B-4A2E-B25F-6864C98A25AA}"
-              p:after="r[@uid='{BF2DB372-9747-4110-803F-ACB59AB8F4A3}']"
-              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
-              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
-              s:ph="main" />
-            <r
-              uid="{1E9E42D0-FBDD-463D-BFDA-50C9A1D22200}"
-              p:after="r[@uid='{FA76BE3D-448B-4A2E-B25F-6864C98A25AA}']"
-              s:ds="{63250B0A-241A-4A59-BB8E-6905085D289C}"
-              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
-              s:par=""
-              s:ph="main" />
-            <r
-              uid="{E7549EA9-B8CE-48AF-89F0-8C7F998239FB}"
-              p:after="r[@uid='{1E9E42D0-FBDD-463D-BFDA-50C9A1D22200}']"
-              s:ds="{9FA55EEC-7176-4900-83B8-D7CAAA952694}"
-              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
-              s:par=""
-              s:ph="main" />
-            <r
-              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}">
-              <p:d />
-            </r>
-            <r
-              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
-              <p:d />
-            </r>
-            <r
-              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
-              <p:d />
-            </r>
-            <r
-              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
-              <p:d />
-            </r>
-            <r
-              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
-              <p:d />
-            </r>
-            <r
-              uid="{2FB72E40-D795-42E9-A03C-0F7ED73B4463}">
-              <p:d />
-            </r>
-            <r
-              uid="{D0C307F9-404F-40B6-AE47-0D90DFDC0C87}"
-              s:ds="{6E13FDA5-2F69-4BF2-A7FA-CB99B0FE4D22}" />
-          </d>
-        </r>
-    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
-      Hint: Featured Story Headline
-      Value: Ameron
-    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
-      Hint: Hide Secondary Navigation
-      Value: 
-    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
-      Hint: Subheading
-      Value: <p>We are a leading manufacturer of poles for street lighting, traffic control, and distribution for use in cities, residential areas, and commercial developments.</p>
-    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
-      Hint: Headline
-      Value: Ameron
-    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
-      Hint: __Created
-      Value: 20211122T205557Z
-    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
-      Hint: Hide In Navigation
-      Value: 
-    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
-      Hint: Mobile Menu Title
-      Value: Ameron
-    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
-      Hint: __Workflow state
-      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
-    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
-      Hint: Page Title
-      Value: Ameron
-    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
-      Hint: __Owner
-      Value: |
-        sitecore\rainerschuhsler
-    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
-      Hint: Open Graph Image
-      Value: |
-        <image mediaid="{CC6DB14A-F87A-4157-B969-6F534DA672D0}" />
-    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
-      Hint: __Created by
-      Value: |
-        sitecore\rainerschuhsler
-    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
-      Hint: Menu Title
-      Value: Ameron
-    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
-      Hint: businessUnit
-      Value: "{0690BF20-2098-4102-807F-40AADB887C56}"
-    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
-      Hint: Search Result Text
-      Value: "Business Unit: Ameron"
-    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
-      Hint: __Revision
-      Value: "4d06fc67-ad6f-497c-80e7-cdfe23a600b1"
-    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
-      Hint: contentTag
-      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
-    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
-      Hint: Featured Story CTA Text
-      Value: 
-    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
-      Hint: __Updated by
-      Value: |
-        sitecore\rainerschuhsler
-    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
-      Hint: Meta Description
-      Value: Ameron is a leading national manufacturer of industrial and municipal poles for street lighting and traffic control for use in residential areas and commercial developments.
-    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
-      Hint: __Valid from
-      Value: 20211122T205557Z
-    - ID: "d4431923-68cf-42a0-a27e-db945d791fdb"
-      Hint: Canonical URL
-      Value: 
-    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
-      Hint: Card Image
-      Value: |
-        <image mediaid="{CC6DB14A-F87A-4157-B969-6F534DA672D0}" cropregion="0,0,1920,1102" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
-    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
-      Hint: __Updated
-      Value: 20211122T205656Z
-    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
-      Hint: Meta Keywords
-      Value: Pole Products, poles
-    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
-      Hint: Page Image
-      Value: |
-        <image mediaid="{CC6DB14A-F87A-4157-B969-6F534DA672D0}" cropregion="0,0,1920,1079" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
-  - Version: 6
-    Fields:
-    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
-      Hint: __Lock
-      Value: <r />
-    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
-      Hint: __Final Renderings
-      Value: |
-        <r xmlns:p="p" xmlns:s="s"
-          p:p="1">
-          <d
-            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
-            <r
-              uid="{0371D386-3572-4076-8538-6734215DB82E}">
-              <p:d />
-            </r>
-            <r
-              uid="{0109759E-4600-4B78-A0E6-96D9B8F26CB9}">
-              <p:d />
-            </r>
-            <r
-              uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}">
-              <p:d />
-            </r>
-            <r
-              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}">
-              <p:d />
-            </r>
-            <r
-              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
-              <p:d />
-            </r>
-            <r
-              uid="{DDC17E24-4D5C-41E4-9854-DDABDC5F3BCC}"
-              p:before="*"
-              s:ds=""
-              s:id="{9CA51EAB-92E4-4A77-8B48-966774577172}"
-              s:par="Add Gradient=1"
-              s:ph="/main/product-hero-{BF2DB372-9747-4110-803F-ACB59AB8F4A3}-0" />
-            <r
-              uid="{BF2DB372-9747-4110-803F-ACB59AB8F4A3}"
-              p:after="r[@uid='{DDC17E24-4D5C-41E4-9854-DDABDC5F3BCC}']"
-              s:ds="{DB7BAB29-A94C-445B-B541-5C88B4C85EB8}"
-              s:id="{C3DD97A2-2C6B-4FDA-922C-7127AE10C976}"
-              s:ph="main" />
-            <r
-              uid="{FA76BE3D-448B-4A2E-B25F-6864C98A25AA}"
-              p:after="r[@uid='{BF2DB372-9747-4110-803F-ACB59AB8F4A3}']"
-              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
-              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
-              s:ph="main" />
-            <r
-              uid="{1E9E42D0-FBDD-463D-BFDA-50C9A1D22200}"
-              p:after="r[@uid='{FA76BE3D-448B-4A2E-B25F-6864C98A25AA}']"
-              s:ds="{63250B0A-241A-4A59-BB8E-6905085D289C}"
-              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
-              s:par=""
-              s:ph="main" />
-            <r
-              uid="{E7549EA9-B8CE-48AF-89F0-8C7F998239FB}"
-              p:after="r[@uid='{1E9E42D0-FBDD-463D-BFDA-50C9A1D22200}']"
-              s:ds="{D5B3F46F-2D9A-4FFA-8F8E-AB6DCB9678A5}"
-              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
-              s:par=""
-              s:ph="main" />
-            <r
-              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}">
-              <p:d />
-            </r>
-            <r
-              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
-              <p:d />
-            </r>
-            <r
-              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
-              <p:d />
-            </r>
-            <r
-              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
-              <p:d />
-            </r>
-            <r
-              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
-              <p:d />
-            </r>
-            <r
-              uid="{2FB72E40-D795-42E9-A03C-0F7ED73B4463}">
-              <p:d />
-            </r>
-            <r
-              uid="{D0C307F9-404F-40B6-AE47-0D90DFDC0C87}"
-              s:ds="{6E13FDA5-2F69-4BF2-A7FA-CB99B0FE4D22}" />
-          </d>
-        </r>
-    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
-      Hint: Featured Story Headline
-      Value: Ameron
-    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
-      Hint: Hide Secondary Navigation
-      Value: 
-    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
-      Hint: Subheading
-      Value: <p>We are a leading manufacturer of poles for street lighting, traffic control, and distribution for use in cities, residential areas, and commercial developments.</p>
-    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
-      Hint: Headline
-      Value: Ameron
-    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
-      Hint: __Created
-      Value: 20211201T170755Z
-    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
-      Hint: Hide In Navigation
-      Value: 
-    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
-      Hint: Mobile Menu Title
-      Value: Ameron
-    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
-      Hint: __Workflow state
-      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
-    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
-      Hint: Page Title
-      Value: Ameron
-    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
-      Hint: __Owner
-      Value: |
-        sitecore\rainerschuhsler
-    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
-      Hint: Open Graph Image
-      Value: |
-        <image mediaid="{CC6DB14A-F87A-4157-B969-6F534DA672D0}" />
-    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
-      Hint: __Created by
-      Value: |
-        sitecore\rainerschuhsler
-    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
-      Hint: Menu Title
-      Value: Ameron
-    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
-      Hint: businessUnit
-      Value: "{0690BF20-2098-4102-807F-40AADB887C56}"
-    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
-      Hint: Search Result Text
-      Value: "Business Unit: Ameron"
-    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
-      Hint: __Revision
-      Value: "28a8f371-869a-41b9-9b24-b8e16b3d0e40"
-    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
-      Hint: contentTag
-      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
-    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
-      Hint: Featured Story CTA Text
-      Value: 
-    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
-      Hint: __Updated by
-      Value: |
-        sitecore\rainerschuhsler
-    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
-      Hint: Meta Description
-      Value: Ameron is a leading national manufacturer of industrial and municipal poles for street lighting and traffic control for use in residential areas and commercial developments.
-    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
-      Hint: __Valid from
-      Value: 20211201T170755Z
-    - ID: "d4431923-68cf-42a0-a27e-db945d791fdb"
-      Hint: Canonical URL
-      Value: 
-    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
-      Hint: Card Image
-      Value: |
-        <image mediaid="{CC6DB14A-F87A-4157-B969-6F534DA672D0}" cropregion="0,0,1920,1102" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
-    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
-      Hint: __Updated
-      Value: 20211201T171215Z
-    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
-      Hint: Meta Keywords
-      Value: Pole Products, poles
-    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
-      Hint: Page Image
-      Value: |
-        <image mediaid="{CC6DB14A-F87A-4157-B969-6F534DA672D0}" cropregion="0,0,1920,1079" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
-  - Version: 7
-    Fields:
-    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
-      Hint: __Lock
-      Value: <r />
-    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
-      Hint: __Final Renderings
-      Value: |
-        <r xmlns:p="p" xmlns:s="s"
-          p:p="1">
-          <d
-            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
-            <r
-              uid="{0371D386-3572-4076-8538-6734215DB82E}">
-              <p:d />
-            </r>
-            <r
-              uid="{0109759E-4600-4B78-A0E6-96D9B8F26CB9}">
-              <p:d />
-            </r>
-            <r
-              uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}">
-              <p:d />
-            </r>
-            <r
-              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}">
-              <p:d />
-            </r>
-            <r
-              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
-              <p:d />
-            </r>
-            <r
-              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}">
-              <p:d />
-            </r>
-            <r
-              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
-              <p:d />
-            </r>
-            <r
-              uid="{DDC17E24-4D5C-41E4-9854-DDABDC5F3BCC}"
-              p:before="*"
-              s:ds=""
-              s:id="{9CA51EAB-92E4-4A77-8B48-966774577172}"
-              s:par="Add Gradient=1"
-              s:ph="/main/product-hero-{BF2DB372-9747-4110-803F-ACB59AB8F4A3}-0" />
-            <r
-              uid="{BF2DB372-9747-4110-803F-ACB59AB8F4A3}"
-              p:after="r[@uid='{DDC17E24-4D5C-41E4-9854-DDABDC5F3BCC}']"
-              s:ds="{DB7BAB29-A94C-445B-B541-5C88B4C85EB8}"
-              s:id="{C3DD97A2-2C6B-4FDA-922C-7127AE10C976}"
-              s:ph="main" />
-            <r
-              uid="{25160882-DBDB-4DCC-A6C4-82F4398B32ED}"
-              p:after="r[@uid='{BF2DB372-9747-4110-803F-ACB59AB8F4A3}']"
-              s:ds="{C99570AB-32F8-4EBF-9230-3E35C738BF31}"
-              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
-              s:par="Alignment=center"
-              s:ph="main" />
-            <r
-              uid="{FA76BE3D-448B-4A2E-B25F-6864C98A25AA}"
-              p:after="r[@uid='{25160882-DBDB-4DCC-A6C4-82F4398B32ED}']"
-              s:ds="{2EC4F47B-80C0-47C3-8957-7B891F219ABF}"
-              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
-              s:ph="main" />
-            <r
-              uid="{A2B3B4C9-69F2-44E8-9DF0-E870B36012C7}"
-              p:after="r[@uid='{FA76BE3D-448B-4A2E-B25F-6864C98A25AA}']"
-              s:ds="{D8F7AFE7-6959-4D56-85F1-99160E65CA6F}"
-              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
-              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
-              s:ph="main" />
-            <r
-              uid="{1E9E42D0-FBDD-463D-BFDA-50C9A1D22200}"
-              p:after="r[@uid='{A2B3B4C9-69F2-44E8-9DF0-E870B36012C7}']"
-              s:ds="{63250B0A-241A-4A59-BB8E-6905085D289C}"
-              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
-              s:par=""
-              s:ph="main" />
-            <r
-              uid="{E7549EA9-B8CE-48AF-89F0-8C7F998239FB}"
-              p:after="r[@uid='{1E9E42D0-FBDD-463D-BFDA-50C9A1D22200}']"
-              s:ds="{152AF4E0-BFF3-4400-A330-EF0E69000E7D}"
-              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
-              s:par=""
-              s:ph="main" />
-            <r
-              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
-              <p:d />
-            </r>
-            <r
-              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
-              <p:d />
-            </r>
-            <r
-              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
-              <p:d />
-            </r>
-            <r
-              uid="{2FB72E40-D795-42E9-A03C-0F7ED73B4463}">
-              <p:d />
-            </r>
-            <r
-              uid="{D0C307F9-404F-40B6-AE47-0D90DFDC0C87}"
-              s:ds="{6E13FDA5-2F69-4BF2-A7FA-CB99B0FE4D22}" />
-            <r
-              uid="{1632D04D-F9B5-42B8-A998-6EE7C9E2D0F5}"
-              p:after="r[@uid='{D0C307F9-404F-40B6-AE47-0D90DFDC0C87}']"
-              s:ds="{7CF453B5-03B7-480E-88DA-76593A1A0B16}"
-              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
-              s:par="Use Button for Link"
-              s:ph="main" />
-            <r
-              uid="{FB4665C5-A77A-4717-AB45-EB86C64EF481}"
-              p:after="r[@uid='{1632D04D-F9B5-42B8-A998-6EE7C9E2D0F5}']"
-              s:ds="{31F28FCB-BAEA-4043-95CF-5A2C2B6319ED}"
-              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
-              s:par="Use Button for Link"
-              s:ph="main" />
-            <r
-              uid="{EDAA562F-C273-4703-8515-4E58D436E1D8}"
-              p:after="r[@uid='{FB4665C5-A77A-4717-AB45-EB86C64EF481}']"
-              s:ds="{69BDDE87-5AD3-4FA2-878C-0EFEA0FC6967}"
-              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
-              s:par="Use Button for Link"
-              s:ph="main" />
-            <r
-              uid="{64C9353F-1609-46D8-B7CB-52084698D584}"
-              p:after="r[@uid='{EDAA562F-C273-4703-8515-4E58D436E1D8}']"
-              s:ds="{1C5BC719-78AB-4067-80D5-BC043822728C}"
-              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
-              s:par="Use Button for Link"
-              s:ph="main" />
-            <r
-              uid="{76271D9C-9C47-4A12-892E-7ED5B42C4CF9}"
-              p:after="*[1=2]"
-              s:ds="{23A6011A-E97D-4B58-9237-39D58CAF4C29}"
-              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
-              s:par="Use Button for Link"
-              s:ph="main" />
-          </d>
-        </r>
-    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
-      Hint: Featured Story Headline
-      Value: Ameron
-    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
-      Hint: Hide Secondary Navigation
-      Value: 
-    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
-      Hint: Subheading
-      Value: <p>We are a leading manufacturer of poles for street lighting, traffic control, and distribution for use in cities, residential areas, and commercial developments.</p>
-    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
-      Hint: Headline
-      Value: Ameron
-    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
-      Hint: __Created
-      Value: 20220307T191035Z
-    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
-      Hint: Hide In Navigation
-      Value: 
-    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
-      Hint: Mobile Menu Title
-      Value: Ameron
-    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
-      Hint: __Workflow state
-      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
-    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
-      Hint: Page Title
-      Value: Ameron
-    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
-      Hint: __Owner
-      Value: |
-        sitecore\rainerschuhsler
-    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
-      Hint: Open Graph Image
-      Value: |
-        <image mediaid="{CC6DB14A-F87A-4157-B969-6F534DA672D0}" />
-    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
-      Hint: __Created by
-      Value: |
-        sitecore\rainerschuhsler
-    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
-      Hint: Menu Title
-      Value: Ameron
-    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
-      Hint: businessUnit
-      Value: "{0690BF20-2098-4102-807F-40AADB887C56}"
-    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
-      Hint: Search Result Text
-      Value: "Business Unit: Ameron"
-    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
-      Hint: __Revision
-      Value: "ab42df5f-f6d5-4a08-a753-871adf089d6c"
-    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
-      Hint: contentTag
-      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
-    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
-      Hint: Featured Story CTA Text
-      Value: 
-    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
-      Hint: __Updated by
-      Value: |
-        sitecore\rainerschuhsler
-    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
-      Hint: Meta Description
-      Value: Ameron is a leading national manufacturer of industrial and municipal poles for street lighting and traffic control for use in residential areas and commercial developments.
-    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
-      Hint: __Valid from
-      Value: 20220307T191035Z
-    - ID: "d4431923-68cf-42a0-a27e-db945d791fdb"
-      Hint: Canonical URL
-      Value: 
-    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
-      Hint: Card Image
-      Value: |
-        <image mediaid="{CC6DB14A-F87A-4157-B969-6F534DA672D0}" cropregion="0,0,1920,1102" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
-    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
-      Hint: __Updated
-      Value: 20220311T211922Z
-    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
-      Hint: Meta Keywords
-      Value: Pole Products, poles
-    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
-      Hint: Page Image
-      Value: |
-        <image mediaid="{CC6DB14A-F87A-4157-B969-6F534DA672D0}" cropregion="0,0,1920,1079" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
-  - Version: 8
-    Fields:
-    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
-      Hint: __Lock
-      Value: <r />
-    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
-      Hint: __Final Renderings
-      Value: |
-        <r xmlns:p="p" xmlns:s="s"
-          p:p="1">
-          <d
-            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
-            <r
-              uid="{0371D386-3572-4076-8538-6734215DB82E}">
-              <p:d />
-            </r>
-            <r
-              uid="{0109759E-4600-4B78-A0E6-96D9B8F26CB9}">
-              <p:d />
-            </r>
-            <r
-              uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}">
-              <p:d />
-            </r>
-            <r
-              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}">
-              <p:d />
-            </r>
-            <r
-              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
-              <p:d />
-            </r>
-            <r
-              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}">
-              <p:d />
-            </r>
-            <r
-              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
-              <p:d />
-            </r>
-            <r
-              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
-              <p:d />
-            </r>
-            <r
-              uid="{DDC17E24-4D5C-41E4-9854-DDABDC5F3BCC}"
-              p:before="*"
-              s:ds=""
-              s:id="{9CA51EAB-92E4-4A77-8B48-966774577172}"
-              s:par="Add Gradient=1"
-              s:ph="/main/product-hero-{BF2DB372-9747-4110-803F-ACB59AB8F4A3}-0" />
-            <r
-              uid="{BF2DB372-9747-4110-803F-ACB59AB8F4A3}"
-              p:after="r[@uid='{DDC17E24-4D5C-41E4-9854-DDABDC5F3BCC}']"
-              s:ds="{DB7BAB29-A94C-445B-B541-5C88B4C85EB8}"
-              s:id="{C3DD97A2-2C6B-4FDA-922C-7127AE10C976}"
-              s:ph="main" />
-            <r
-              uid="{25160882-DBDB-4DCC-A6C4-82F4398B32ED}"
-              p:after="r[@uid='{BF2DB372-9747-4110-803F-ACB59AB8F4A3}']"
-              s:ds="{C99570AB-32F8-4EBF-9230-3E35C738BF31}"
-              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
-              s:par="Alignment=center"
-              s:ph="main" />
-            <r
-              uid="{FA76BE3D-448B-4A2E-B25F-6864C98A25AA}"
-              p:after="r[@uid='{25160882-DBDB-4DCC-A6C4-82F4398B32ED}']"
-              s:ds="{2EC4F47B-80C0-47C3-8957-7B891F219ABF}"
-              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
-              s:ph="main" />
-            <r
-              uid="{A2B3B4C9-69F2-44E8-9DF0-E870B36012C7}"
-              p:after="r[@uid='{FA76BE3D-448B-4A2E-B25F-6864C98A25AA}']"
-              s:ds="{D8F7AFE7-6959-4D56-85F1-99160E65CA6F}"
-              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
-              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
-              s:ph="main" />
-            <r
-              uid="{1E9E42D0-FBDD-463D-BFDA-50C9A1D22200}"
-              p:after="r[@uid='{A2B3B4C9-69F2-44E8-9DF0-E870B36012C7}']"
-              s:ds="{63250B0A-241A-4A59-BB8E-6905085D289C}"
-              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
-              s:par=""
-              s:ph="main" />
-            <r
-              uid="{0BA822A1-E3F3-4BA9-83A7-318B0C7AA87A}"
-              p:after="r[@uid='{1E9E42D0-FBDD-463D-BFDA-50C9A1D22200}']"
-              s:ds="{CB48395B-423E-4B7C-BC24-47010B9AECD1}"
-              s:id="{846AE873-D5C7-4033-928F-6BD96E963742}"
-              s:ph="main" />
-            <r
-              uid="{E7549EA9-B8CE-48AF-89F0-8C7F998239FB}"
-              p:after="r[@uid='{0BA822A1-E3F3-4BA9-83A7-318B0C7AA87A}']"
-              s:ds="{152AF4E0-BFF3-4400-A330-EF0E69000E7D}"
-              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
-              s:par=""
-              s:ph="main" />
-            <r
-              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
-              <p:d />
-            </r>
-            <r
-              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
-              <p:d />
-            </r>
-            <r
-              uid="{2FB72E40-D795-42E9-A03C-0F7ED73B4463}">
-              <p:d />
-            </r>
-            <r
-              uid="{D0C307F9-404F-40B6-AE47-0D90DFDC0C87}"
-              s:ds="{6E13FDA5-2F69-4BF2-A7FA-CB99B0FE4D22}" />
-            <r
-              uid="{1632D04D-F9B5-42B8-A998-6EE7C9E2D0F5}"
-              p:after="r[@uid='{D0C307F9-404F-40B6-AE47-0D90DFDC0C87}']"
-              s:ds="{7CF453B5-03B7-480E-88DA-76593A1A0B16}"
-              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
-              s:par="Use Button for Link"
-              s:ph="main" />
-            <r
-              uid="{FB4665C5-A77A-4717-AB45-EB86C64EF481}"
-              p:after="r[@uid='{1632D04D-F9B5-42B8-A998-6EE7C9E2D0F5}']"
-              s:ds="{31F28FCB-BAEA-4043-95CF-5A2C2B6319ED}"
-              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
-              s:par="Use Button for Link"
-              s:ph="main" />
-            <r
-              uid="{EDAA562F-C273-4703-8515-4E58D436E1D8}"
-              p:after="r[@uid='{FB4665C5-A77A-4717-AB45-EB86C64EF481}']"
-              s:ds="{69BDDE87-5AD3-4FA2-878C-0EFEA0FC6967}"
-              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
-              s:par="Use Button for Link"
-              s:ph="main" />
-            <r
-              uid="{64C9353F-1609-46D8-B7CB-52084698D584}"
-              p:after="r[@uid='{EDAA562F-C273-4703-8515-4E58D436E1D8}']"
-              s:ds="{1C5BC719-78AB-4067-80D5-BC043822728C}"
-              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
-              s:par="Use Button for Link"
-              s:ph="main" />
-            <r
-              uid="{76271D9C-9C47-4A12-892E-7ED5B42C4CF9}"
-              p:after="*[1=2]"
-              s:ds="{23A6011A-E97D-4B58-9237-39D58CAF4C29}"
-              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
-              s:par="Use Button for Link"
-              s:ph="main" />
-          </d>
-        </r>
-    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
-      Hint: Featured Story Headline
-      Value: Ameron
-    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
-      Hint: Hide Secondary Navigation
-      Value: 
-    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
-      Hint: Subheading
-      Value: <p>We are a leading manufacturer of poles for street lighting, traffic control, and distribution for use in cities, residential areas, and commercial developments.</p>
-    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
-      Hint: Headline
-      Value: Ameron
-    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
-      Hint: __Created
-      Value: 20220510T192527Z
-    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
-      Hint: Hide In Navigation
-      Value: 
-    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
-      Hint: Mobile Menu Title
-      Value: Ameron
-    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
-      Hint: __Workflow state
-      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
-    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
-      Hint: Page Title
-      Value: Ameron
-    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
-      Hint: __Owner
-      Value: |
-        sitecore\rainerschuhsler
-    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
-      Hint: Open Graph Image
-      Value: |
-        <image mediaid="{CC6DB14A-F87A-4157-B969-6F534DA672D0}" />
-    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
-      Hint: __Created by
-      Value: |
-        sitecore\lissettegomezandrews
-    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
-      Hint: Menu Title
-      Value: Ameron
-    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
-      Hint: businessUnit
-      Value: "{0690BF20-2098-4102-807F-40AADB887C56}"
-    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
-      Hint: Search Result Text
-      Value: "Business Unit: Ameron"
-    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
-      Hint: __Revision
-      Value: "6809f155-2bf5-41ce-b2b7-eab3972e66db"
-    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
-      Hint: contentTag
-      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
-    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
-      Hint: Featured Story CTA Text
-      Value: 
-    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
-      Hint: __Updated by
-      Value: |
-        sitecore\lissettegomezandrews
-    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
-      Hint: Meta Description
-      Value: Ameron is a leading national manufacturer of industrial and municipal poles for street lighting and traffic control for use in residential areas and commercial developments.
-    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
-      Hint: __Valid from
-      Value: 20220510T192527Z
-    - ID: "d4431923-68cf-42a0-a27e-db945d791fdb"
-      Hint: Canonical URL
-      Value: 
-    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
-      Hint: Card Image
-      Value: |
-        <image mediaid="{CC6DB14A-F87A-4157-B969-6F534DA672D0}" cropregion="0,0,1920,1102" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
-    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
-      Hint: __Updated
-      Value: 20220511T201451Z
-    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
-      Hint: Meta Keywords
-      Value: Pole Products, poles
-    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
-      Hint: Page Image
-      Value: |
-        <image mediaid="{CC6DB14A-F87A-4157-B969-6F534DA672D0}" cropregion="0,0,1920,1079" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
-  - Version: 9
-    Fields:
-    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
-      Hint: __Lock
-      Value: <r />
-    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
-      Hint: __Final Renderings
-      Value: |
-        <r xmlns:p="p" xmlns:s="s"
-          p:p="1">
-          <d
-            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
-            <r
-              uid="{0371D386-3572-4076-8538-6734215DB82E}">
-              <p:d />
-            </r>
-            <r
-              uid="{0109759E-4600-4B78-A0E6-96D9B8F26CB9}">
-              <p:d />
-            </r>
-            <r
-              uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}">
-              <p:d />
-            </r>
-            <r
-              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}">
-              <p:d />
-            </r>
-            <r
-              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
-              <p:d />
-            </r>
-            <r
-              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}">
-              <p:d />
-            </r>
-            <r
-              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
-              <p:d />
-            </r>
-            <r
-              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
-              <p:d />
-            </r>
-            <r
-              uid="{DDC17E24-4D5C-41E4-9854-DDABDC5F3BCC}"
-              p:before="*"
-              s:ds=""
-              s:id="{9CA51EAB-92E4-4A77-8B48-966774577172}"
-              s:par="Add Gradient=1"
-              s:ph="/main/product-hero-{BF2DB372-9747-4110-803F-ACB59AB8F4A3}-0" />
-            <r
-              uid="{BF2DB372-9747-4110-803F-ACB59AB8F4A3}"
-              p:after="r[@uid='{DDC17E24-4D5C-41E4-9854-DDABDC5F3BCC}']"
-              s:ds="{DB7BAB29-A94C-445B-B541-5C88B4C85EB8}"
-              s:id="{C3DD97A2-2C6B-4FDA-922C-7127AE10C976}"
-              s:ph="main" />
-            <r
-              uid="{25160882-DBDB-4DCC-A6C4-82F4398B32ED}"
-              p:after="r[@uid='{BF2DB372-9747-4110-803F-ACB59AB8F4A3}']"
-              s:ds="{C99570AB-32F8-4EBF-9230-3E35C738BF31}"
-              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
-              s:par="Alignment=center"
-              s:ph="main" />
-            <r
-              uid="{FA76BE3D-448B-4A2E-B25F-6864C98A25AA}"
-              p:after="r[@uid='{25160882-DBDB-4DCC-A6C4-82F4398B32ED}']"
-              s:ds="{2EC4F47B-80C0-47C3-8957-7B891F219ABF}"
-              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
-              s:ph="main" />
-            <r
-              uid="{A2B3B4C9-69F2-44E8-9DF0-E870B36012C7}"
-              p:after="r[@uid='{FA76BE3D-448B-4A2E-B25F-6864C98A25AA}']"
-              s:ds="{D8F7AFE7-6959-4D56-85F1-99160E65CA6F}"
-              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
-              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
-              s:ph="main" />
-            <r
-              uid="{1E9E42D0-FBDD-463D-BFDA-50C9A1D22200}"
-              p:after="r[@uid='{A2B3B4C9-69F2-44E8-9DF0-E870B36012C7}']"
-              s:ds="{63250B0A-241A-4A59-BB8E-6905085D289C}"
-              s:id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
-              s:par=""
-              s:ph="main" />
-            <r
-              uid="{0BA822A1-E3F3-4BA9-83A7-318B0C7AA87A}"
-              p:after="r[@uid='{1E9E42D0-FBDD-463D-BFDA-50C9A1D22200}']"
-              s:ds="{CB48395B-423E-4B7C-BC24-47010B9AECD1}"
-              s:id="{846AE873-D5C7-4033-928F-6BD96E963742}"
-              s:ph="main" />
-            <r
-              uid="{E7549EA9-B8CE-48AF-89F0-8C7F998239FB}"
-              p:after="r[@uid='{0BA822A1-E3F3-4BA9-83A7-318B0C7AA87A}']"
-              s:ds="{152AF4E0-BFF3-4400-A330-EF0E69000E7D}"
-              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
-              s:par=""
-              s:ph="main" />
-            <r
-              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
-              <p:d />
-            </r>
-            <r
-              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
-              <p:d />
-            </r>
-            <r
-              uid="{2FB72E40-D795-42E9-A03C-0F7ED73B4463}">
-              <p:d />
-            </r>
-            <r
-              uid="{D0C307F9-404F-40B6-AE47-0D90DFDC0C87}"
-              s:ds="{6E13FDA5-2F69-4BF2-A7FA-CB99B0FE4D22}" />
-            <r
-              uid="{1632D04D-F9B5-42B8-A998-6EE7C9E2D0F5}"
-              p:after="r[@uid='{D0C307F9-404F-40B6-AE47-0D90DFDC0C87}']"
-              s:ds="{7CF453B5-03B7-480E-88DA-76593A1A0B16}"
-              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
-              s:par="Use Button for Link"
-              s:ph="main" />
-            <r
-              uid="{FB4665C5-A77A-4717-AB45-EB86C64EF481}"
-              p:after="r[@uid='{1632D04D-F9B5-42B8-A998-6EE7C9E2D0F5}']"
-              s:ds="{31F28FCB-BAEA-4043-95CF-5A2C2B6319ED}"
-              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
-              s:par="Use Button for Link"
-              s:ph="main" />
-            <r
-              uid="{EDAA562F-C273-4703-8515-4E58D436E1D8}"
-              p:after="r[@uid='{FB4665C5-A77A-4717-AB45-EB86C64EF481}']"
-              s:ds="{69BDDE87-5AD3-4FA2-878C-0EFEA0FC6967}"
-              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
-              s:par="Use Button for Link"
-              s:ph="main" />
-            <r
-              uid="{64C9353F-1609-46D8-B7CB-52084698D584}"
-              p:after="r[@uid='{EDAA562F-C273-4703-8515-4E58D436E1D8}']"
-              s:ds="{1C5BC719-78AB-4067-80D5-BC043822728C}"
-              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
-              s:par="Use Button for Link"
-              s:ph="main" />
-            <r
-              uid="{76271D9C-9C47-4A12-892E-7ED5B42C4CF9}"
-              p:after="*[1=2]"
-              s:ds="{23A6011A-E97D-4B58-9237-39D58CAF4C29}"
-              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
-              s:par="Use Button for Link"
-              s:ph="main" />
-          </d>
-        </r>
-    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
-      Hint: Featured Story Headline
-      Value: Ameron
-    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
-      Hint: Hide Secondary Navigation
-      Value: 
-    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
-      Hint: Subheading
-      Value: <p>We are a leading manufacturer of poles for street lighting, traffic control, and distribution for use in cities, residential areas, and commercial developments.</p>
-    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
-      Hint: Headline
-      Value: Ameron
-    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
-      Hint: __Created
-      Value: 20220811T200921Z
-    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
-      Hint: Hide In Navigation
-      Value: 
-    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
-      Hint: Mobile Menu Title
-      Value: Ameron
-    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
-      Hint: __Workflow state
-      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
-    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
-      Hint: Page Title
-      Value: Ameron | Business Units
-    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
-      Hint: __Owner
-      Value: |
-        sitecore\rainerschuhsler
-    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
-      Hint: Open Graph Image
-      Value: |
-        <image mediaid="{CC6DB14A-F87A-4157-B969-6F534DA672D0}" />
-    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
-      Hint: __Created by
-      Value: |
-        sitecore\lissettegomezandrews
-    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
-      Hint: Menu Title
-      Value: Ameron
-    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
-      Hint: businessUnit
-      Value: "{0690BF20-2098-4102-807F-40AADB887C56}"
-    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
-      Hint: Search Result Text
-      Value: "Business Unit: Ameron"
-    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
-      Hint: __Revision
-      Value: "99bbf60a-5490-4d66-a829-fb598bd5f16a"
-    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
-      Hint: contentTag
-      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
-    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
-      Hint: Featured Story CTA Text
-      Value: 
-    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
-      Hint: __Updated by
-      Value: |
-        sitecore\lissettegomezandrews
-    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
-      Hint: Meta Description
-      Value: Ameron is a leading national manufacturer of industrial and municipal poles for street lighting and traffic control for use in residential areas and commercial developments.
-    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
-      Hint: __Valid from
-      Value: 20220811T200921Z
-    - ID: "d4431923-68cf-42a0-a27e-db945d791fdb"
-      Hint: Canonical URL
-      Value: 
-    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
-      Hint: Card Image
-      Value: |
-        <image mediaid="{CC6DB14A-F87A-4157-B969-6F534DA672D0}" cropregion="0,0,1920,1102" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
-    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
-      Hint: __Updated
-      Value: 20220812T044502Z
-    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
-      Hint: Meta Keywords
-      Value: Pole Products, poles
-    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
-      Hint: Page Image
-      Value: |
-        <image mediaid="{CC6DB14A-F87A-4157-B969-6F534DA672D0}" cropregion="0,0,1920,1079" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
-  - Version: 10
-    Fields:
-    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
-      Hint: __Lock
-      Value: <r />
-    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
-      Hint: __Final Renderings
-      Value: |
-        <r xmlns:p="p" xmlns:s="s"
-          p:p="1">
-          <d
-            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
-            <r
-              uid="{0371D386-3572-4076-8538-6734215DB82E}">
-              <p:d />
-            </r>
-            <r
-              uid="{0109759E-4600-4B78-A0E6-96D9B8F26CB9}">
-              <p:d />
-            </r>
-            <r
-              uid="{141E6896-79A7-447B-B58C-9B116C7F55FB}">
-              <p:d />
-            </r>
-            <r
-              uid="{D0D1C772-7E1B-45CD-8D78-0877C08009C2}">
-              <p:d />
-            </r>
-            <r
-              uid="{8708ABAE-0D6D-48C7-A323-23FDA3261DCF}">
-              <p:d />
-            </r>
-            <r
-              uid="{84911C9D-A555-4FE3-AD88-56950399EBC0}">
-              <p:d />
-            </r>
-            <r
-              uid="{D6EA00CE-46FC-40E7-9BF4-6212F9BAAE23}">
-              <p:d />
-            </r>
-            <r
-              uid="{C3AEB34A-B245-456B-BD04-18A35452FAF4}">
-              <p:d />
-            </r>
-            <r
-              uid="{166C5C59-5638-4E27-8DE8-E2367ED278C8}">
-              <p:d />
-            </r>
-            <r
-              uid="{443A3479-73B9-48A7-9834-0546D998D83C}">
-              <p:d />
-            </r>
-            <r
-              uid="{2FB72E40-D795-42E9-A03C-0F7ED73B4463}">
-              <p:d />
-            </r>
-            <r
-              uid="{DDC17E24-4D5C-41E4-9854-DDABDC5F3BCC}"
-              p:before="*"
-              s:ds=""
-              s:id="{9CA51EAB-92E4-4A77-8B48-966774577172}"
-              s:par="Add Gradient=1"
-              s:ph="/main/product-hero-{BF2DB372-9747-4110-803F-ACB59AB8F4A3}-0" />
-            <r
-              uid="{BF2DB372-9747-4110-803F-ACB59AB8F4A3}"
-              p:after="r[@uid='{DDC17E24-4D5C-41E4-9854-DDABDC5F3BCC}']"
-              s:ds="{DB7BAB29-A94C-445B-B541-5C88B4C85EB8}"
-              s:id="{C3DD97A2-2C6B-4FDA-922C-7127AE10C976}"
-              s:ph="main" />
-            <r
-              uid="{96060221-6047-4925-B11E-FE68367EC01A}"
-              p:after="r[@uid='{BF2DB372-9747-4110-803F-ACB59AB8F4A3}']"
-              s:ds="{6CF74675-7315-4542-A373-1327D55F7224}"
-              s:id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
-              s:ph="main" />
-            <r
-              uid="{50179C51-1F39-4315-BC58-17F4D01BDBF0}"
-              p:after="r[@uid='{96060221-6047-4925-B11E-FE68367EC01A}']"
-              s:ds="{C3ED69E4-83DE-40E5-9ED8-FA8D090E1479}"
-              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
-              s:par="Alignment=center"
-              s:ph="main" />
-            <r
-              uid="{981C167A-44C9-4206-82F4-F4A80CC8570F}"
-              p:after="r[@uid='{50179C51-1F39-4315-BC58-17F4D01BDBF0}']"
-              s:ds="{9997C76D-351E-42E5-9F16-9E9B4514A92F}"
-              s:id="{7EE99E6C-C671-468E-8381-C6B9BB1E6416}"
-              s:ph="main" />
-            <r
-              uid="{8FC28BFB-68A8-44EE-B8C5-211914DB4E36}"
-              p:after="r[@uid='{981C167A-44C9-4206-82F4-F4A80CC8570F}']"
-              s:ds="{74D69385-6593-48C5-B4F3-568245CFD583}"
-              s:id="{C7A79FD5-CEFD-4F76-8FA8-A9E71EDE918F}"
-              s:par="Enable First Column Header&amp;Enable First Row Header=1&amp;Full Width=1&amp;Narrow Width"
-              s:ph="main" />
-            <r
-              uid="{9E74F778-B9D3-43F5-8FAB-A4FDE7517F1C}"
-              p:after="r[@uid='{8FC28BFB-68A8-44EE-B8C5-211914DB4E36}']"
-              s:ds="{EFD100F4-3899-44CE-A9C5-39A1F931ACE4}"
-              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
-              s:par="Alignment=center"
-              s:ph="main" />
-            <r
-              uid="{233B1E3A-45ED-4B59-A323-0E31114287C1}"
-              p:after="r[@uid='{9E74F778-B9D3-43F5-8FAB-A4FDE7517F1C}']"
-              s:ds="{BC6C5CB4-B25D-4B5C-A64F-9401FB168A08}"
-              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
-              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
-              s:ph="main" />
-            <r
-              uid="{5409DF57-BC00-45BD-A1A6-624A736586E7}"
-              p:after="r[@uid='{233B1E3A-45ED-4B59-A323-0E31114287C1}']"
-              s:ds="{49A1261C-AB04-41FB-BD4C-D1DA980BF19D}"
-              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
-              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
-              s:ph="main" />
-            <r
-              uid="{15E3CC70-DB40-4F35-83D8-E3D98B2F0DB7}"
-              p:after="r[@uid='{5409DF57-BC00-45BD-A1A6-624A736586E7}']"
-              s:ds="{C22D0D4D-F5DD-4DBD-9167-98FE6B54DE56}"
-              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
-              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
-              s:ph="main" />
-            <r
-              uid="{451CF50B-F033-4AC4-8454-B7D6602EDABE}"
-              p:after="r[@uid='{15E3CC70-DB40-4F35-83D8-E3D98B2F0DB7}']"
-              s:ds="{DC72D06A-7AE1-4865-A63E-837697E82D0B}"
-              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
-              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
-              s:ph="main" />
-            <r
-              uid="{A0E40E52-071C-4849-84A4-6E861D5CF1D0}"
-              p:after="r[@uid='{451CF50B-F033-4AC4-8454-B7D6602EDABE}']"
-              s:ds="{0FF510C7-9BEF-4D32-B8C7-285AB57C023C}"
-              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
-              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
-              s:ph="main" />
-            <r
-              uid="{9F1C8169-A69B-4981-87E5-16B63667135F}"
-              p:after="r[@uid='{A0E40E52-071C-4849-84A4-6E861D5CF1D0}']"
-              s:ds="{A4746988-C397-4C68-8344-C7D082D8B8A6}"
-              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
-              s:par="Alignment=right&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
-              s:ph="main" />
-            <r
-              uid="{16FD3A7E-44E2-4B84-80A5-C1FEF279F99C}"
-              p:after="r[@uid='{9F1C8169-A69B-4981-87E5-16B63667135F}']"
-              s:ds="{2EC4F47B-80C0-47C3-8957-7B891F219ABF}"
-              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
-              s:ph="main" />
-            <r
-              uid="{0BA822A1-E3F3-4BA9-83A7-318B0C7AA87A}"
-              p:after="r[@uid='{16FD3A7E-44E2-4B84-80A5-C1FEF279F99C}']"
-              s:ds="{CB48395B-423E-4B7C-BC24-47010B9AECD1}"
-              s:id="{846AE873-D5C7-4033-928F-6BD96E963742}"
-              s:ph="main" />
-            <r
-              uid="{E7549EA9-B8CE-48AF-89F0-8C7F998239FB}"
-              p:after="r[@uid='{0BA822A1-E3F3-4BA9-83A7-318B0C7AA87A}']"
-              s:ds="{152AF4E0-BFF3-4400-A330-EF0E69000E7D}"
-              s:id="{1012A5A3-5822-4A4F-9B1B-EB13EB6266EE}"
-              s:par=""
-              s:ph="main" />
-            <r
-              uid="{D0C307F9-404F-40B6-AE47-0D90DFDC0C87}"
-              s:ds="{6E13FDA5-2F69-4BF2-A7FA-CB99B0FE4D22}" />
-            <r
-              uid="{1632D04D-F9B5-42B8-A998-6EE7C9E2D0F5}"
-              p:after="r[@uid='{D0C307F9-404F-40B6-AE47-0D90DFDC0C87}']"
-              s:ds="{7CF453B5-03B7-480E-88DA-76593A1A0B16}"
-              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
-              s:par="Use Button for Link"
-              s:ph="main" />
-            <r
-              uid="{FB4665C5-A77A-4717-AB45-EB86C64EF481}"
-              p:after="r[@uid='{1632D04D-F9B5-42B8-A998-6EE7C9E2D0F5}']"
-              s:ds="{31F28FCB-BAEA-4043-95CF-5A2C2B6319ED}"
-              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
-              s:par="Use Button for Link"
-              s:ph="main" />
-            <r
-              uid="{EDAA562F-C273-4703-8515-4E58D436E1D8}"
-              p:after="r[@uid='{FB4665C5-A77A-4717-AB45-EB86C64EF481}']"
-              s:ds="{69BDDE87-5AD3-4FA2-878C-0EFEA0FC6967}"
-              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
-              s:par="Use Button for Link"
-              s:ph="main" />
-            <r
-              uid="{64C9353F-1609-46D8-B7CB-52084698D584}"
-              p:after="r[@uid='{EDAA562F-C273-4703-8515-4E58D436E1D8}']"
-              s:ds="{1C5BC719-78AB-4067-80D5-BC043822728C}"
-              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
-              s:par="Use Button for Link"
-              s:ph="main" />
-            <r
-              uid="{76271D9C-9C47-4A12-892E-7ED5B42C4CF9}"
-              p:after="*[1=2]"
-              s:ds="{23A6011A-E97D-4B58-9237-39D58CAF4C29}"
-              s:id="{95886CBA-BBC9-48E5-9C7B-97B40C8F9599}"
-              s:par="Use Button for Link"
-              s:ph="main" />
-          </d>
-        </r>
-    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
-      Hint: Featured Story Headline
-      Value: Ameron
-    - ID: "20bea456-514e-4310-b4ef-0a14480840c1"
-      Hint: Hide Secondary Navigation
-      Value: 
-    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
-      Hint: Subheading
-      Value: <p>We support the infrastructures for beautiful, thriving, and connected communities.</p>
-    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
-      Hint: Headline
-      Value: Ameron
-    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
-      Hint: __Created
-      Value: 20230714T145108Z
-    - ID: "351936cd-20a5-40f7-8175-c4d224afadab"
-      Hint: Hide In Navigation
-      Value: 
-    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
-      Hint: Mobile Menu Title
-      Value: Ameron
-    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
-      Hint: __Workflow state
-      Value: "{40251B7D-FBE3-4A0E-8947-D4B4FE8CD782}"
-    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
-      Hint: Page Title
-      Value: Ameron | Business Units
-    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
-      Hint: __Owner
-      Value: |
-        sitecore\rainerschuhsler
-    - ID: "586cb512-0fa1-42f0-ab48-d3e399853ca8"
-      Hint: Open Graph Image
-      Value: |
-        <image mediaid="{CC6DB14A-F87A-4157-B969-6F534DA672D0}" />
-    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
-      Hint: __Created by
-      Value: |
-        sitecore\lissettegomezandrews
-    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
-      Hint: Menu Title
-      Value: Ameron
-    - ID: "74fdb488-ff1a-4883-9379-e5f95b2f3afe"
-      Hint: businessUnit
-      Value: "{0690BF20-2098-4102-807F-40AADB887C56}"
-    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
-      Hint: Search Result Text
-      Value: "Business Unit: Ameron"
-    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
-      Hint: __Revision
-      Value: "1abe19e8-e9bd-4fb1-8523-70c21bcb616c"
-    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
-      Hint: contentTag
-      Value: "{1B199358-3703-42A3-9F9E-FE15D7D07389}"
-    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
-      Hint: Featured Story CTA Text
-      Value: 
-    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
-      Hint: __Updated by
-      Value: |
-        sitecore\varalakshmi.md@horizontal.com
-    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
-      Hint: Meta Description
-      Value: Ameron is a leading national manufacturer of industrial and municipal poles for street lighting and traffic control for use in residential areas and commercial developments.
-    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
-      Hint: __Valid from
-      Value: 20230714T145108Z
-    - ID: "d4431923-68cf-42a0-a27e-db945d791fdb"
-      Hint: Canonical URL
-      Value: 
-    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
-      Hint: Card Image
-      Value: |
-        <image mediaid="{A598CE1D-C651-4A4B-ABF1-BBB6EEA682DE}" cropregion="0,65,1920,1167" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
-    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
-      Hint: __Updated
-      Value: 20230725T094514Z
-    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
-      Hint: Meta Keywords
-      Value: Pole Products, poles
-    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
-      Hint: Page Image
-      Value: |
-        <image mediaid="{A598CE1D-C651-4A4B-ABF1-BBB6EEA682DE}" cropregion="0,54,1920,1133" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />

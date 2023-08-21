@@ -10,6 +10,71 @@ SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 100
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{40C0E7ED-9887-49E1-8E89-43D16DD2AD6C}">
+        <r
+          id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+          ph="/main/hero-slide-{901672BD-109F-4BA8-9932-A6A9CA1537C0}-0"
+          uid="{9B4417AB-C22F-4C76-B2DC-98F2FCA8A71E}" />
+        <r
+          id="{AB213187-9551-4F9B-AE3D-261BB2B2434F}"
+          ph="main"
+          uid="{901672BD-109F-4BA8-9932-A6A9CA1537C0}" />
+        <r
+          ds="{3D607083-9FB4-413F-AEDF-C221259A4190}"
+          id="{2002D52F-38B0-48F3-8256-F67F34126723}"
+          par=""
+          ph="main"
+          uid="{10CEBA25-FC2A-4F84-8760-9B825D4EAF06}" />
+        <r
+          ds="{FFFAFFCA-08C2-4474-A8C4-B2001A435F64}"
+          id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+          par=""
+          ph="main"
+          uid="{37DC6908-9973-4BF3-AA1F-616581927F03}" />
+        <r
+          ds="{1354155E-6829-4E5D-944C-59CDCCCAE440}"
+          id="{F6988CA1-8F6A-4235-8851-39729DDF65B4}"
+          par="Alignment=right"
+          ph="main"
+          uid="{3A4E7139-50CB-4BD5-AB2E-460BC7CE5AAF}" />
+        <r
+          ds="{FFFAFFCA-08C2-4474-A8C4-B2001A435F64}"
+          id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+          par=""
+          ph="main"
+          uid="{29B80482-A671-447F-BB46-8121D422BD81}" />
+        <r
+          ds="{8D5667CF-68FB-49E9-A540-98DB9BB81728}"
+          id="{2E6C5F1E-BC4A-4FBE-BC72-FBCB237F8DDC}"
+          par=""
+          ph="main"
+          uid="{97344B92-7C95-4AC5-BA52-015B4E4B60A0}" />
+        <r
+          ds="{3E75C232-A3C2-498A-9AD4-A762CA23BFB8}"
+          id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+          par=""
+          ph="main"
+          uid="{7FCE1D2B-E077-4A3D-AF80-996014D9B527}" />
+        <r
+          ds="{FFFAFFCA-08C2-4474-A8C4-B2001A435F64}"
+          id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+          par=""
+          ph="main"
+          uid="{B7906B15-B51F-4DDA-9D56-0D4EDD3DF208}" />
+        <r
+          ds="{36B70B95-7C53-44B8-9F6F-99297D8A9F38}"
+          id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+          par=""
+          ph="main"
+          uid="{9B9C6914-204E-47B8-ABD6-F2712DC7BB72}" />
+      </d>
+    </r>
 Languages:
 - Language: "en-US"
   Versions:
@@ -791,6 +856,10 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
+              uid="{9B4417AB-C22F-4C76-B2DC-98F2FCA8A71E}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
               uid="{10CEBA25-FC2A-4F84-8760-9B825D4EAF06}"
               s:ds="{A56B3F4D-2097-4525-A3D2-8C3E1EBEA244}" />
             <r
@@ -875,7 +944,7 @@ Languages:
       Value: Optimized drill pipe connection increases efficiencies
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "e243d637-2da8-48e6-b394-8474ce1d2811"
+      Value: "99dd4225-babb-40ba-b203-058f086b0052"
     - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
       Hint: contentTag
       Value: "{294053F5-3F2B-4F01-A805-2E3CC257571E}"
@@ -888,7 +957,7 @@ Languages:
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\adminrschuhsler
+        sitecore\rainerschuhsler
     - ID: "bcfd3e35-8ec5-4ba4-b22f-00669ef4d2d5"
       Hint: Publish Date
       Value: 20190417T000000Z
@@ -904,7 +973,7 @@ Languages:
         <image mediaid="{E0F2457F-88E5-4372-B0A5-92608B0F5F94}" cropregion="0,168,1920,1271" ratio="514:295" width="514" height="295" />
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20210416T005316Z
+      Value: 20200930T151329Z
     - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
       Hint: Page Image
       Value: |

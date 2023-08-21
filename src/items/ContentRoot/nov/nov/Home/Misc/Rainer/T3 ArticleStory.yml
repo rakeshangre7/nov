@@ -1,0 +1,129 @@
+﻿---
+ID: "ba5efea0-1cfa-4d35-b8dc-520b09509e0c"
+Parent: "f9635888-b5d7-46b4-87d5-8b58709499d3"
+Template: "34b41a4a-a8b5-432c-8a07-b6ca70ada9da"
+Path: /sitecore/content/nov/nov/Home/Misc/Rainer/T3 ArticleStory
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{40C0E7ED-9887-49E1-8E89-43D16DD2AD6C}">
+        <r
+          id="{FA28682B-1CF3-426A-BE1B-F359A64D6282}"
+          ph="/main/hero-slide-{901672BD-109F-4BA8-9932-A6A9CA1537C0}-0"
+          uid="{9B4417AB-C22F-4C76-B2DC-98F2FCA8A71E}" />
+        <r
+          id="{AB213187-9551-4F9B-AE3D-261BB2B2434F}"
+          ph="main"
+          uid="{901672BD-109F-4BA8-9932-A6A9CA1537C0}" />
+        <r
+          ds="{43831EE3-DFE5-4C7F-BA45-88B7EBEB4FE1}"
+          id="{2002D52F-38B0-48F3-8256-F67F34126723}"
+          par=""
+          ph="main"
+          uid="{10CEBA25-FC2A-4F84-8760-9B825D4EAF06}" />
+        <r
+          ds="{606A6B71-70ED-4531-B0CE-3DDB47F6FA38}"
+          id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+          par=""
+          ph="main"
+          uid="{37DC6908-9973-4BF3-AA1F-616581927F03}" />
+        <r
+          ds="{05DE3C81-5AE6-4460-B112-EA2A2AC5119A}"
+          id="{F6988CA1-8F6A-4235-8851-39729DDF65B4}"
+          par="Alignment=right"
+          ph="main"
+          uid="{3A4E7139-50CB-4BD5-AB2E-460BC7CE5AAF}" />
+        <r
+          ds="{8D27D8D4-6FB8-4132-A59F-F1C368F96584}"
+          id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+          par=""
+          ph="main"
+          uid="{29B80482-A671-447F-BB46-8121D422BD81}" />
+        <r
+          ds="{538B808F-0239-48E6-8B24-6C7A03E20710}"
+          id="{2E6C5F1E-BC4A-4FBE-BC72-FBCB237F8DDC}"
+          par=""
+          ph="main"
+          uid="{97344B92-7C95-4AC5-BA52-015B4E4B60A0}" />
+        <r
+          ds="{A1B4D293-E898-4E55-A610-1EC46684AFF4}"
+          id="{417E0128-4AE1-4E78-ACC9-4820C238DD4F}"
+          par=""
+          ph="main"
+          uid="{7FCE1D2B-E077-4A3D-AF80-996014D9B527}" />
+        <r
+          ds="{D8BBF591-EF64-4CE9-98A9-557DB14C31EB}"
+          id="{7A39D53C-7601-4537-AFDF-7EB071979666}"
+          par=""
+          ph="main"
+          uid="{B7906B15-B51F-4DDA-9D56-0D4EDD3DF208}" />
+        <r
+          ds="{73137D21-BB62-4549-A3B2-CF8D35CF11A2}"
+          id="{410308FD-D76D-48D4-9E14-E9C56F2AECDF}"
+          par=""
+          ph="main"
+          uid="{9B9C6914-204E-47B8-ABD6-F2712DC7BB72}" />
+      </d>
+    </r>
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: |
+        <r owner="sitecore\arshmomin" date="20210119T154259Z" />
+    - ID: "1a57e23f-e82c-4721-8eaa-f1ccc23fcb00"
+      Hint: Author
+      Value: |
+        sitecore\alex
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: T3 ArticleStory
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: T3 ArticleStory
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210119T154258Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: T3 ArticleStory
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{8B87E652-E3F7-4C54-BDD9-66E1B888FF8B}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: T3 ArticleStory
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\arshmomin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\arshmomin
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: T3 ArticleStory
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dd156fe8-2699-4158-a697-58ae27779a58"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\alex
+    - ID: "bcfd3e35-8ec5-4ba4-b22f-00669ef4d2d5"
+      Hint: Publish Date
+      Value: 20211006Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20211006T120121Z

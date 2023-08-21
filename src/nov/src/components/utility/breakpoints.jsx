@@ -18,7 +18,8 @@ export const useBreakpoints = () => {
 
   const isMobile = screenWidth < 768;
   const isTablet = screenWidth >= 768 && screenWidth < 1024;
+  const isMiniDesktop = screenWidth < 1280;
   const isDesktop = screenWidth >= 1024;
 
-  return { isMobile, isTablet, isDesktop };
+  return { isMobile, isTablet, isDesktop, isMiniDesktop };
 };

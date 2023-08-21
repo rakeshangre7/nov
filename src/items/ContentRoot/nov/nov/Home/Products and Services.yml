@@ -13,10 +13,6 @@ SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 500
-- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
-  Hint: __Thumbnail
-  Value: |
-    <image mediaid="{D24125A6-4A36-422A-BCD2-9C0E129E0223}" />
 Languages:
 - Language: "en-US"
   Versions:
@@ -1107,10 +1103,10 @@ Languages:
     - ID: "851d1dab-ab7e-4b4e-829f-2af8f827766d"
       Hint: Featured Story Sub Item Link
       Value: |
-        <link id="{4113E0AF-27A5-4EFC-86BA-EE320DFA4C5E}" querystring="" target="" linktype="internal" url="/nov/nov/Home/Products and Services" />
+        <link linktype="internal" querystring="" target="" id="{4113E0AF-27A5-4EFC-86BA-EE320DFA4C5E}" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "188a6270-734f-4b63-8190-0742246fab1d"
+      Value: "3ccf0b52-ea30-435e-9b45-012fe0469811"
     - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
       Hint: contentTag
       Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
@@ -1120,7 +1116,7 @@ Languages:
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\varalakshmi.md@horizontal.com
+        sitecore\melissapastrano
     - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
       Hint: Meta Description
       Value: We provide customers worldwide the drilling and production expertise, equipment, and operational support necessary for success—now and in the future.
@@ -1133,7 +1129,7 @@ Languages:
         <image mediaid="{F620B62B-94E3-41FB-B9A5-85BAC98A0BA5}" cropregion="0,160,1920,1262" ratio="514:295" width="514" height="295" />
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230725T095045Z
+      Value: 20190703T125100Z
     - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
       Hint: Page Image
       Value: |
@@ -1244,10 +1240,10 @@ Languages:
     - ID: "851d1dab-ab7e-4b4e-829f-2af8f827766d"
       Hint: Featured Story Sub Item Link
       Value: |
-        <link id="{4113E0AF-27A5-4EFC-86BA-EE320DFA4C5E}" querystring="" target="" linktype="internal" url="/nov/nov/Home/Products and Services" />
+        <link linktype="internal" querystring="" target="" id="{4113E0AF-27A5-4EFC-86BA-EE320DFA4C5E}" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "a01bb481-32f4-4231-b631-2790171670c7"
+      Value: "b6421973-b736-43a8-901b-d08ce33f8962"
     - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
       Hint: contentTag
       Value: "{97803E00-415E-418E-BD59-EC82DC5F73D8}"
@@ -1257,7 +1253,7 @@ Languages:
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\varalakshmi.md@horizontal.com
+        sitecore\kaileyshelton
     - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
       Hint: Meta Description
       Value: We provide customers worldwide the drilling and production expertise, equipment, and operational support necessary for success—now and in the future.
@@ -1270,7 +1266,7 @@ Languages:
         <image mediaid="{F620B62B-94E3-41FB-B9A5-85BAC98A0BA5}" cropregion="0,160,1920,1262" ratio="514:295" width="514" height="295" />
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230725T095635Z
+      Value: 20190827T163550Z
     - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
       Hint: Page Image
       Value: |

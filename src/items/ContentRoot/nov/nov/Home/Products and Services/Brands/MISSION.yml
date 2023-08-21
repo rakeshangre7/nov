@@ -7,14 +7,233 @@ SharedFields:
 - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
   Hint: __Workflow
   Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
-- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
-  Hint: __Thumbnail
-  Value: |
-    <image mediaid="{4A47235E-6B88-4863-8B32-1B401F96F6E0}" />
 Languages:
 - Language: "en-US"
   Versions:
   - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
+              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
+              <p:d />
+            </r>
+            <r
+              uid="{E0AB4F84-6620-40E5-8F29-4126571C187A}"
+              p:after="*[1=2]"
+              s:ds="{C0D8CBE2-70DE-44CC-9465-5FBE4B4FC5C6}"
+              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
+              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
+              s:ph="main" />
+            <r
+              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
+              <p:d />
+            </r>
+            <r
+              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: MISSION
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: "<p>MISSION provides technical expertise for pumping systems, fluid-end expendables, pressure control systems, flowline equipment, and continuous technology development of fluid management systems.</p>"
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: MISSION
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190515T200917Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: MISSION
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: MISSION
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: MISSION
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8b4b13a1-c591-44ce-9c24-376aa40baf2a"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{EA155798-89F9-42A8-A18A-1921664D1E01}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: MISSION
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
+      Hint: Meta Description
+      Value: "MISSION provides technical expertise for pumping systems, fluid-end expendables, pressure control systems, flowline equipment, and continuous technology development of fluid management systems."
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190515T200917Z
+    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
+      Hint: Card Image
+      Value: |
+        <image mediaid="{71A5E825-A375-40F7-9DA6-E51A6DD42D65}" cropregion="0,50,1920,1156" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190515T201042Z
+    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
+      Hint: Meta Keywords
+      Value: Mission fluid end expendables, Mission pumping systems, pressure control systems, flowline equipment, fluid management systems
+    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
+      Hint: Page Image
+      Value: |
+        <image mediaid="{71A5E825-A375-40F7-9DA6-E51A6DD42D65}" cropregion="0,0,1920,1079" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
+    - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
+      Hint: brand
+      Value: "{393739D3-12DF-432D-92F6-4E064005B7FB}"
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: MISSION
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: <p><span>MISSION provides technical expertise for pumping systems, fluid end expendables, pressure control systems, flowline equipment, and continuous technology development of fluid management systems.</span></p>
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: MISSION
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190515T204011Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: MISSION
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: MISSION
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mecoreyna
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: MISSION
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "97628fc7-7b3d-453b-8b4f-fec31f0afa0f"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{EA155798-89F9-42A8-A18A-1921664D1E01}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: MISSION
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mecoreyna
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190515T204011Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190515T204110Z
+    - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
+      Hint: brand
+      Value: "{393739D3-12DF-432D-92F6-4E064005B7FB}"
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
+      Hint: Featured Story Headline
+      Value: MISSION
+    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
+      Hint: Subheading
+      Value: "<p><span>MISSION provides technical expertise for pumping systems, fluid-end expendables, pressure control systems, flowline equipment, and continuous technology development of fluid management systems.</span></p>"
+    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
+      Hint: Headline
+      Value: MISSION
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190515T210755Z
+    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
+      Hint: Mobile Menu Title
+      Value: MISSION
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
+    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
+      Hint: Page Title
+      Value: MISSION
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaileyshelton
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
+      Hint: Menu Title
+      Value: MISSION
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c30cedd4-6ede-4a91-ba0a-e24a1d487a99"
+    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
+      Hint: contentTag
+      Value: "{EA155798-89F9-42A8-A18A-1921664D1E01}"
+    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
+      Hint: Featured Story CTA Text
+      Value: MISSION
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\heatherbaxter
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190515T210755Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190515T210828Z
+    - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
+      Hint: brand
+      Value: "{393739D3-12DF-432D-92F6-4E064005B7FB}"
+  - Version: 4
     Fields:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
@@ -115,7 +334,7 @@ Languages:
     - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
       Hint: brand
       Value: "{393739D3-12DF-432D-92F6-4E064005B7FB}"
-  - Version: 2
+  - Version: 5
     Fields:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
@@ -219,7 +438,7 @@ Languages:
     - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
       Hint: brand
       Value: "{393739D3-12DF-432D-92F6-4E064005B7FB}"
-  - Version: 3
+  - Version: 6
     Fields:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
@@ -329,7 +548,7 @@ Languages:
     - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
       Hint: brand
       Value: "{393739D3-12DF-432D-92F6-4E064005B7FB}"
-  - Version: 4
+  - Version: 7
     Fields:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
@@ -443,7 +662,7 @@ Languages:
     - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
       Hint: brand
       Value: "{393739D3-12DF-432D-92F6-4E064005B7FB}"
-  - Version: 5
+  - Version: 8
     Fields:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
@@ -563,7 +782,7 @@ Languages:
     - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
       Hint: brand
       Value: "{393739D3-12DF-432D-92F6-4E064005B7FB}"
-  - Version: 6
+  - Version: 9
     Fields:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
@@ -686,384 +905,6 @@ Languages:
     - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
       Hint: brand
       Value: "{393739D3-12DF-432D-92F6-4E064005B7FB}"
-  - Version: 7
-    Fields:
-    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
-      Hint: __Lock
-      Value: <r />
-    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
-      Hint: __Final Renderings
-      Value: |
-        <r xmlns:p="p" xmlns:s="s"
-          p:p="1">
-          <d
-            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
-            <r
-              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
-              <p:d />
-            </r>
-            <r
-              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
-              <p:d />
-            </r>
-            <r
-              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
-              <p:d />
-            </r>
-            <r
-              uid="{E0AB4F84-6620-40E5-8F29-4126571C187A}"
-              p:after="r[@uid='{3F94459F-580E-478C-AF58-1F6F8D07C8A9}']"
-              s:ds="{C0D8CBE2-70DE-44CC-9465-5FBE4B4FC5C6}"
-              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
-              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
-              s:ph="main" />
-            <r
-              uid="{AABEF959-4FA6-4BF6-802C-C77C3D87B298}"
-              p:after="r[@uid='{E0AB4F84-6620-40E5-8F29-4126571C187A}']"
-              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
-              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
-              s:ph="main" />
-            <r
-              uid="{DDE9B2D2-341A-4DC2-A456-3C28C8F461CE}"
-              p:after="r[@uid='{AABEF959-4FA6-4BF6-802C-C77C3D87B298}']"
-              s:ds="{1C2B429C-E69C-45F7-B76E-D57FDFE506DF}"
-              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
-              s:par="Alignment=center"
-              s:ph="main" />
-            <r
-              uid="{3FA7365B-EC4C-4C99-8D6C-6D0E841D8815}"
-              p:after="*[1=2]"
-              s:ds="{467EBABA-0AB2-4BAF-BD67-BFA904BEB2CF}"
-              s:id="{404FE8DE-C601-4E14-8D3D-32F27B41D06D}"
-              s:ph="main" />
-          </d>
-        </r>
-    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
-      Hint: Featured Story Headline
-      Value: MISSION 
-    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
-      Hint: Subheading
-      Value: <p>MISSION  provides technical expertise for pumping systems, fluid end expendables, pressure control systems, flowline equipment, and continuous technology development of fluid management systems.</p>
-    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
-      Hint: Headline
-      Value: MISSION 
-    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
-      Hint: __Created
-      Value: 20200701T175717Z
-    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
-      Hint: Mobile Menu Title
-      Value: MISSION 
-    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
-      Hint: __Workflow state
-      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
-    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
-      Hint: Page Title
-      Value: MISSION 
-    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
-      Hint: __Owner
-      Value: |
-        sitecore\kaileyshelton
-    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
-      Hint: __Created by
-      Value: |
-        sitecore\kaileyshelton
-    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
-      Hint: businessSegments
-      Value: "{ABA9E56C-0FCE-464D-8E09-DB375CDF20D8}"
-    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
-      Hint: Menu Title
-      Value: MISSION 
-    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
-      Hint: Search Result Text
-      Value: "Brand: MISSION"
-    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
-      Hint: __Revision
-      Value: "3b8ed2be-94c3-4a98-9887-fd1eed473723"
-    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
-      Hint: contentTag
-      Value: "{EA155798-89F9-42A8-A18A-1921664D1E01}"
-    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
-      Hint: Featured Story CTA Text
-      Value: MISSION 
-    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
-      Hint: __Updated by
-      Value: |
-        sitecore\adminrschuhsler
-    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
-      Hint: Meta Description
-      Value: MISSION provides technical expertise for pumping systems, fluid end expendables, pressure control systems, flowline equipment, and continuous technology development of fluid management systems.
-    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
-      Hint: __Valid from
-      Value: 20200701T175717Z
-    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
-      Hint: Card Image
-      Value: |
-        <image mediaid="{71A5E825-A375-40F7-9DA6-E51A6DD42D65}" cropregion="0,50,1920,1156" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
-    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
-      Hint: __Updated
-      Value: 20210422T010330Z
-    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
-      Hint: Meta Keywords
-      Value: MISSION  fluid end expendables, MISSION pumping systems, pressure control systems, flowline equipment, fluid management systems
-    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
-      Hint: Page Image
-      Value: |
-        <image mediaid="{71A5E825-A375-40F7-9DA6-E51A6DD42D65}" cropregion="0,0,1920,1079" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
-    - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
-      Hint: brand
-      Value: "{393739D3-12DF-432D-92F6-4E064005B7FB}"
-  - Version: 8
-    Fields:
-    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
-      Hint: __Lock
-      Value: <r />
-    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
-      Hint: __Final Renderings
-      Value: |
-        <r xmlns:p="p" xmlns:s="s"
-          p:p="1">
-          <d
-            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
-            <r
-              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
-              <p:d />
-            </r>
-            <r
-              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
-              <p:d />
-            </r>
-            <r
-              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
-              <p:d />
-            </r>
-            <r
-              uid="{E0AB4F84-6620-40E5-8F29-4126571C187A}"
-              p:after="r[@uid='{3F94459F-580E-478C-AF58-1F6F8D07C8A9}']"
-              s:ds="{C0D8CBE2-70DE-44CC-9465-5FBE4B4FC5C6}"
-              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
-              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
-              s:ph="main" />
-            <r
-              uid="{AABEF959-4FA6-4BF6-802C-C77C3D87B298}"
-              p:after="r[@uid='{E0AB4F84-6620-40E5-8F29-4126571C187A}']"
-              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
-              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
-              s:ph="main" />
-            <r
-              uid="{DDE9B2D2-341A-4DC2-A456-3C28C8F461CE}"
-              p:after="r[@uid='{AABEF959-4FA6-4BF6-802C-C77C3D87B298}']"
-              s:ds="{1C2B429C-E69C-45F7-B76E-D57FDFE506DF}"
-              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
-              s:par="Alignment=center"
-              s:ph="main" />
-            <r
-              uid="{3FA7365B-EC4C-4C99-8D6C-6D0E841D8815}"
-              p:after="*[1=2]"
-              s:ds="{467EBABA-0AB2-4BAF-BD67-BFA904BEB2CF}"
-              s:id="{404FE8DE-C601-4E14-8D3D-32F27B41D06D}"
-              s:ph="main" />
-          </d>
-        </r>
-    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
-      Hint: Featured Story Headline
-      Value: MISSION 
-    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
-      Hint: Subheading
-      Value: <p>MISSION  provides technical expertise for pumping systems, fluid end expendables, pressure control systems, flowline equipment, and continuous technology development of fluid management systems.</p>
-    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
-      Hint: Headline
-      Value: MISSION 
-    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
-      Hint: __Created
-      Value: 20210503T123131Z
-    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
-      Hint: Mobile Menu Title
-      Value: MISSION 
-    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
-      Hint: __Workflow state
-      Value: "{40251B7D-FBE3-4A0E-8947-D4B4FE8CD782}"
-    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
-      Hint: Page Title
-      Value: MISSION 
-    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
-      Hint: __Owner
-      Value: |
-        sitecore\kaileyshelton
-    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
-      Hint: __Created by
-      Value: |
-        sitecore\joshuashearer
-    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
-      Hint: businessSegments
-      Value: "{ABA9E56C-0FCE-464D-8E09-DB375CDF20D8}"
-    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
-      Hint: Menu Title
-      Value: MISSION 
-    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
-      Hint: Search Result Text
-      Value: "Brand: MISSION"
-    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
-      Hint: __Revision
-      Value: "af365a19-a6cd-4cca-896d-2811bf12e428"
-    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
-      Hint: contentTag
-      Value: "{EA155798-89F9-42A8-A18A-1921664D1E01}"
-    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
-      Hint: Featured Story CTA Text
-      Value: MISSION 
-    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
-      Hint: __Updated by
-      Value: |
-        sitecore\adminrschuhsler
-    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
-      Hint: Meta Description
-      Value: MISSION provides technical expertise for pumping systems, fluid end expendables, pressure control systems, flowline equipment, and continuous technology development of fluid management systems.
-    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
-      Hint: __Valid from
-      Value: 20210503T123131Z
-    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
-      Hint: Card Image
-      Value: |
-        <image mediaid="{71A5E825-A375-40F7-9DA6-E51A6DD42D65}" cropregion="0,50,1920,1156" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
-    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
-      Hint: __Updated
-      Value: 20220921T184442Z
-    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
-      Hint: Meta Keywords
-      Value: MISSION  fluid end expendables, MISSION pumping systems, pressure control systems, flowline equipment, fluid management systems
-    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
-      Hint: Page Image
-      Value: |
-        <image mediaid="{71A5E825-A375-40F7-9DA6-E51A6DD42D65}" cropregion="0,0,1920,1079" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
-    - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
-      Hint: brand
-      Value: "{393739D3-12DF-432D-92F6-4E064005B7FB}"
-  - Version: 9
-    Fields:
-    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
-      Hint: __Lock
-      Value: <r />
-    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
-      Hint: __Final Renderings
-      Value: |
-        <r xmlns:p="p" xmlns:s="s"
-          p:p="1">
-          <d
-            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
-            <r
-              uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
-              <p:d />
-            </r>
-            <r
-              uid="{4BBC422C-6B71-4B4F-B6DC-4295F397094F}">
-              <p:d />
-            </r>
-            <r
-              uid="{CA891DBF-F770-403D-BD65-FD25F528D6FD}">
-              <p:d />
-            </r>
-            <r
-              uid="{E0AB4F84-6620-40E5-8F29-4126571C187A}"
-              p:after="r[@uid='{3F94459F-580E-478C-AF58-1F6F8D07C8A9}']"
-              s:ds="{C0D8CBE2-70DE-44CC-9465-5FBE4B4FC5C6}"
-              s:id="{8F62822C-3DD6-40BE-B167-850DE5BBE38B}"
-              s:par="Alignment=left&amp;Background Color=%7BD1DB5F29-9D9E-4EC0-B651-0EEBFDC1AEB5%7D"
-              s:ph="main" />
-            <r
-              uid="{AABEF959-4FA6-4BF6-802C-C77C3D87B298}"
-              p:after="r[@uid='{E0AB4F84-6620-40E5-8F29-4126571C187A}']"
-              s:ds="{4485B155-895A-440A-89B1-61D54F5DF705}"
-              s:id="{A93F0A0D-360D-4CAC-B11C-DCE401B8A7DD}"
-              s:ph="main" />
-            <r
-              uid="{DDE9B2D2-341A-4DC2-A456-3C28C8F461CE}"
-              p:after="r[@uid='{AABEF959-4FA6-4BF6-802C-C77C3D87B298}']"
-              s:ds="{1C2B429C-E69C-45F7-B76E-D57FDFE506DF}"
-              s:id="{EAEFE2D3-091C-438E-9B07-903F732D1754}"
-              s:par="Alignment=center"
-              s:ph="main" />
-            <r
-              uid="{3FA7365B-EC4C-4C99-8D6C-6D0E841D8815}"
-              p:after="*[1=2]"
-              s:ds="{467EBABA-0AB2-4BAF-BD67-BFA904BEB2CF}"
-              s:id="{404FE8DE-C601-4E14-8D3D-32F27B41D06D}"
-              s:ph="main" />
-          </d>
-        </r>
-    - ID: "1e6decbd-039c-43cc-b439-0a198f868334"
-      Hint: Featured Story Headline
-      Value: MISSION 
-    - ID: "21d62cf8-1209-47b9-a117-2bb93b891dad"
-      Hint: Subheading
-      Value: <p>MISSION  provides technical expertise for pumping systems, fluid end expendables, pressure control systems, flowline equipment, and continuous technology development of fluid management systems.</p>
-    - ID: "230a15ec-92fd-4a68-954b-9689bcba0862"
-      Hint: Headline
-      Value: MISSION 
-    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
-      Hint: __Created
-      Value: 20210503T123342Z
-    - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
-      Hint: Mobile Menu Title
-      Value: MISSION 
-    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
-      Hint: __Workflow state
-      Value: "{85C553F7-205F-4672-8AD9-95180934AD15}"
-    - ID: "5175483b-161a-4999-9f30-34be82e2d85b"
-      Hint: Page Title
-      Value: MISSION 
-    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
-      Hint: __Owner
-      Value: |
-        sitecore\kaileyshelton
-    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
-      Hint: __Created by
-      Value: |
-        sitecore\joshuashearer
-    - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
-      Hint: businessSegments
-      Value: "{7BFDF55B-D789-4F80-BAA1-EE7B8380D4C6}"
-    - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
-      Hint: Menu Title
-      Value: MISSION 
-    - ID: "7bb6bcb7-7db3-4c73-a978-9952115a1826"
-      Hint: Search Result Text
-      Value: "Brand: MISSION"
-    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
-      Hint: __Revision
-      Value: "f41f82ad-96bc-45c5-880d-a2c16b3e4eb8"
-    - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
-      Hint: contentTag
-      Value: "{EA155798-89F9-42A8-A18A-1921664D1E01}"
-    - ID: "a94e898f-4fbb-4421-88e5-7ee3181a08e4"
-      Hint: Featured Story CTA Text
-      Value: MISSION 
-    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
-      Hint: __Updated by
-      Value: |
-        sitecore\lissettegomezandrews
-    - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
-      Hint: Meta Description
-      Value: MISSION provides technical expertise for pumping systems, fluid end expendables, pressure control systems, flowline equipment, and continuous technology development of fluid management systems.
-    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
-      Hint: __Valid from
-      Value: 20210503T123342Z
-    - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
-      Hint: Card Image
-      Value: |
-        <image mediaid="{71A5E825-A375-40F7-9DA6-E51A6DD42D65}" cropregion="0,50,1920,1156" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
-    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
-      Hint: __Updated
-      Value: 20220902T203121Z
-    - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
-      Hint: Meta Keywords
-      Value: MISSION  fluid end expendables, MISSION pumping systems, pressure control systems, flowline equipment, fluid management systems
-    - ID: "f758f02c-54af-42b1-bcd8-1b3f90a174be"
-      Hint: Page Image
-      Value: |
-        <image mediaid="{71A5E825-A375-40F7-9DA6-E51A6DD42D65}" cropregion="0,0,1920,1079" ratio="1920:1080" width="1920" height="1080" alt="" hspace="" vspace="" />
-    - ID: "ff2be12b-39ca-4f24-950f-eb7258bdcdb2"
-      Hint: brand
-      Value: "{393739D3-12DF-432D-92F6-4E064005B7FB}"
   - Version: 10
     Fields:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
@@ -1077,6 +918,10 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
+              uid="{1C56C344-4578-4758-B430-8A58A494C4CE}"
+              s:ds=""
+              s:par="Add Gradient=1&amp;Text Color=white" />
+            <r
               uid="{0FFBD21E-E5E6-40DE-8CDD-472D2376CA41}">
               <p:d />
             </r>
@@ -1127,7 +972,7 @@ Languages:
       Value: MISSION 
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20230322T212630Z
+      Value: 20200701T175717Z
     - ID: "3a81e0b8-4742-4d96-be89-8c1f3716c285"
       Hint: Mobile Menu Title
       Value: MISSION 
@@ -1144,10 +989,10 @@ Languages:
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
-        sitecore\lissettegomezandrews
+        sitecore\kaileyshelton
     - ID: "646de4d6-b128-4a3e-8c68-f789869a811b"
       Hint: businessSegments
-      Value: "{7BFDF55B-D789-4F80-BAA1-EE7B8380D4C6}"
+      Value: "{ABA9E56C-0FCE-464D-8E09-DB375CDF20D8}"
     - ID: "6d59e31a-53a8-41a5-9e9f-31362a416be7"
       Hint: Menu Title
       Value: MISSION 
@@ -1156,7 +1001,7 @@ Languages:
       Value: "Brand: MISSION"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "e4ad45ca-01d2-4372-b207-2b742b311bf0"
+      Value: "f3137283-bb52-4768-aa40-69eaf3e17d99"
     - ID: "a1343418-5a51-40de-9488-0efaa22e2042"
       Hint: contentTag
       Value: "{EA155798-89F9-42A8-A18A-1921664D1E01}"
@@ -1166,20 +1011,20 @@ Languages:
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\varalakshmi.md@horizontal.com
+        sitecore\kaileyshelton
     - ID: "c57e3a44-44b4-496a-9509-dfe938d498d9"
       Hint: Meta Description
       Value: MISSION provides technical expertise for pumping systems, fluid end expendables, pressure control systems, flowline equipment, and continuous technology development of fluid management systems.
     - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
       Hint: __Valid from
-      Value: 20230322T212630Z
+      Value: 20200701T175717Z
     - ID: "d4ec7ae2-6d57-4ae3-b582-4af2544a7132"
       Hint: Card Image
       Value: |
         <image mediaid="{71A5E825-A375-40F7-9DA6-E51A6DD42D65}" cropregion="0,50,1920,1156" ratio="514:295" width="514" height="295" alt="" hspace="" vspace="" />
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230725T094729Z
+      Value: 20200701T175954Z
     - ID: "e70137ed-afb0-4eed-a2a9-d2859749a575"
       Hint: Meta Keywords
       Value: MISSION  fluid end expendables, MISSION pumping systems, pressure control systems, flowline equipment, fluid management systems

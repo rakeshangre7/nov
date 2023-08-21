@@ -2,7 +2,7 @@
 ID: "ddda21ca-c827-45cd-bcdd-148b7a0eb2f8"
 Parent: "46f733be-bedf-49bf-9028-ffc0be2b961c"
 Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/nov/NOV Shared/Field Sections/Footer/Footer/Logo
+Path: /sitecore/templates/Project/nov/NOV Shared/Field Sections/Footer/Footer/logo
 SharedFields:
 - ID: "21828437-ea4b-40a1-8c61-4ce60ea41db6"
   Hint: Validate Button
@@ -23,6 +23,27 @@ SharedFields:
   Hint: __Sortorder
   Value: 100
 Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230820T071014Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\varalakshmi.md@horizontal.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a71fb08b-3148-4737-b7e6-11cad5f9cf2c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\varalakshmi.md@horizontal.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230820T071014Z
 - Language: "en-US"
   Versions:
   - Version: 1

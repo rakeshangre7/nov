@@ -1,9 +1,11 @@
 import Icon from '@/components/helpers/Icon/Icon';
 import { Field, ImageField, LinkField, NextImage, Text } from '@sitecore-jss/sitecore-jss-nextjs';
 import clsx from 'clsx';
-import React, { useEffect, useRef, useState } from 'react';
+import React, { useEffect, useRef, useState, KeyboardEvent } from 'react';
 import UserAccount from './UserAccount';
 import Button from '@/components/helpers/Button/Button';
+import { useBreakpoints } from '@/components/utility/breakpoints.jsx';
+import { useRouter } from 'next/router';
 
 // Ideally, all this is from generated Typescript code from Sitecore and we're not manually defining types.
 type renderLinkProps = {
@@ -88,6 +90,9 @@ const Header = ({ fields }: HeaderProps) => {
   const [activeNavbarStoryDetail, setActiveNavbarStoryDetail] = useState<featureDetailProps>({});
   const [selectedPrimaryLink, setSelectedPrimaryLink] = useState<boolean | string>(false);
   const [selectedSecondaryLink, setSelectedSecondaryLink] = useState<boolean | string>();
+  const { isMiniDesktop, isDesktop } = useBreakpoints();
+  const router = useRouter();
+
   const handleScroll = () => {
     const currentScrollPos = window.pageYOffset;
     setIsSticky(currentScrollPos > 30);
@@ -149,153 +154,54 @@ const Header = ({ fields }: HeaderProps) => {
       window.removeEventListener('scroll', handleScroll);
     };
   }, []);
-  const renderMobileNavigation = ({
-    isPrimary,
-    isSecondary,
-    isTertiary,
-    navList,
-    show,
-  }: renderLinkProps) => {
-    return (
-      <div
-        className={clsx('relative', {
-          'mt-[41px]': isPrimary && !selectedSecondaryLink && !selectedPrimaryLink,
-        })}
-      >
-        <a
-          onClick={() => {
-            if (isSecondary) {
-              setSelectedPrimaryLink(false);
-            } else if (isTertiary) {
-              setSelectedSecondaryLink(false);
-            }
-          }}
-        >
-          {!(!show || (isSecondary && selectedSecondaryLink)) && (
-            <Icon
-              className={clsx('icon-arrow-left text-black visible l:hidden mt-[18px] text-base', {
-                'invisible l:hidden': !show || (isSecondary && selectedSecondaryLink),
-                'mb-[-6px]': !(!show || (isSecondary && selectedSecondaryLink)),
-              })}
-            ></Icon>
-          )}
-        </a>
-        {navList?.map((navbar: subPagesProps, index: number) => {
-          return (
-            <>
-              {navbar.url && !navbar.hideInNavigation && (
-                <Button
-                  variant={'secondary'}
-                  auto={false}
-                  className={clsx(
-                    'mt-[14px] navigationTransitionInitialForMobile relative ml-[2px] text-lightBlack l:max-w-[165px] xl:max-w-[225px] [&_span]:max-w-full  min-h-[28px] h-fit l:[&_span]:max-w-[193px] active:!text-lightBlack l:active:!text-primary hover:!text-lightBlack l:hover:!text-primary',
-                    {
-                      '!text-primary !cursor-default !outline-none':
-                        selectedPrimaryLink === navbar.itemId ||
-                        selectedSecondaryLink === navbar.itemId,
-                      navigationTransitionFinalForMobile:
-                        (isPrimary || show) &&
-                        isExpanded &&
-                        !(isPrimary && (selectedPrimaryLink || selectedSecondaryLink)) &&
-                        !(isSecondary && selectedSecondaryLink),
-                    }
-                  )}
-                  style={{ transitionDelay: `${100 * (index / 2)}ms` }}
-                  text={navbar?.menuTitle?.value}
-                  field={navbar.url}
-                  onClick={(e) => {
-                    if (navbar?.subPages && !navbar.hideSubNavigation) {
-                      if (navbar.subPages?.length > 0) {
-                        e.preventDefault();
-                        e.stopPropagation();
-                        if (isPrimary && navbar.itemId) {
-                          setSelectedPrimaryLink(navbar.itemId);
-                        } else if (isSecondary && navbar.itemId) {
-                          setSelectedSecondaryLink(navbar.itemId);
-                        }
-                        if (isPrimary) {
-                          setActiveNavbarStoryDetail({
-                            featuredStoryHeadline: navbar.featuredStoryHeadline,
-                            featuredStoryAbstract: navbar.featuredStoryAbstract,
-                            featuredStoryCTALink: navbar.featuredStoryCTALink,
-                            featuredStoryCTAText: navbar.featuredStoryCTAText,
-                            cardImage: navbar.cardImage,
-                          });
-                        }
-                      }
-                    }
-                  }}
-                  {...(!isTertiary &&
-                    navbar?.subPages &&
-                    !navbar.hideSubNavigation &&
-                    navbar.subPages?.length > 0 && {
-                      iconPosition: 'right',
-                      iconClassName: 'icon-chevron-right text-lg',
-                    })}
-                />
-              )}
-              {isPrimary &&
-                navbar?.subPages &&
-                navbar.subPages?.length > 0 &&
-                !navbar.hideSubNavigation && (
-                  <div
-                    className={clsx('navigationTransitionInitialMobile', {
-                      navigationTransitionFinalMobile: selectedPrimaryLink === navbar.itemId,
-                    })}
-                  >
-                    {renderMobileNavigation({
-                      isSecondary: true,
-                      navList: navbar.subPages,
-                      show: selectedPrimaryLink === navbar.itemId,
-                    })}
-                  </div>
-                )}
-              {isSecondary &&
-                !navbar.hideSubNavigation &&
-                navbar?.subPages &&
-                navbar.subPages?.length > 0 && (
-                  <div
-                    className={clsx('navigationTransitionInitialMobile', {
-                      navigationTransitionFinalMobile: selectedSecondaryLink === navbar.itemId,
-                    })}
-                  >
-                    {renderMobileNavigation({
-                      isTertiary: true,
-                      navList: navbar.subPages,
-                      show: selectedSecondaryLink === navbar.itemId,
-                    })}
-                  </div>
-                )}
-            </>
-          );
-        })}
-      </div>
-    );
-  };
   const renderHeaderTeaser = () => {
     return (
-      <div className="w-[389px] h-[700px] bg-white fixed border-l-[1px] border-gray-light top-[65px] z-10 right-0 l:w-[463px] flex justify-between flex-col">
+      <div className="w-[389px] h-[700px] bg-white fixed border-l-[1px] border-gray-light top-[65px] z-2 right-0 l:w-[463px] flex justify-between flex-col">
         <div>
           {activeNavbarStoryDetail?.cardImage?.value?.src && (
-            <a tabIndex={-1} href={activeNavbarStoryDetail?.featuredStoryCTALink?.value?.href}>
-              <NextImage
-                field={activeNavbarStoryDetail?.cardImage}
-                tabIndex={0}
-                className="basicFocus"
-              />
-            </a>
+            <NextImage
+              field={activeNavbarStoryDetail?.cardImage}
+              tabIndex={0}
+              className="basicFocus cursor-pointer"
+              onClick={() => {
+                if (activeNavbarStoryDetail?.featuredStoryCTALink?.value?.href) {
+                  router.push(activeNavbarStoryDetail?.featuredStoryCTALink?.value?.href);
+                }
+              }}
+              onKeyUp={(e) => {
+                if (
+                  e.keyCode === 13 &&
+                  activeNavbarStoryDetail?.featuredStoryCTALink?.value?.href
+                ) {
+                  e.stopPropagation();
+                  router.push(activeNavbarStoryDetail?.featuredStoryCTALink?.value?.href);
+                }
+              }}
+            />
           )}
           <div className="px-[33px] ">
-            <a tabIndex={-1} href={activeNavbarStoryDetail?.featuredStoryCTALink?.value?.href}>
-              {activeNavbarStoryDetail?.featuredStoryHeadline && (
-                <Text
-                  tag={'h4'}
-                  className="h4  mt-[30px] !text-xl text-black basicFocus w-fit !leading-30 focus:!outline-[1px]"
-                  tabIndex="0"
-                  field={activeNavbarStoryDetail?.featuredStoryHeadline}
-                />
-              )}
-            </a>
+            {activeNavbarStoryDetail?.featuredStoryHeadline && (
+              <Text
+                tag={'h4'}
+                className="h4  mt-[30px] !text-xl text-black basicFocus w-fit !leading-30 focus:!outline-[1px]"
+                tabIndex="0"
+                field={activeNavbarStoryDetail?.featuredStoryHeadline}
+                onClick={() => {
+                  if (activeNavbarStoryDetail?.featuredStoryCTALink?.value?.href) {
+                    router.push(activeNavbarStoryDetail?.featuredStoryCTALink?.value?.href);
+                  }
+                }}
+                onKeyUp={(e: KeyboardEvent<HTMLElement>) => {
+                  if (
+                    e.keyCode === 13 &&
+                    activeNavbarStoryDetail?.featuredStoryCTALink?.value?.href
+                  ) {
+                    e.stopPropagation();
+                    router.push(activeNavbarStoryDetail?.featuredStoryCTALink?.value?.href);
+                  }
+                }}
+              />
+            )}
             {activeNavbarStoryDetail?.featuredStoryAbstract && (
               <Text
                 tag={'p'}
@@ -321,31 +227,9 @@ const Header = ({ fields }: HeaderProps) => {
     );
   };
 
-  const renderLinks = ({
-    isPrimary,
-    isSecondary,
-    isTertiary,
-    navList,
-    isMobile,
-    show,
-  }: renderLinkProps) => {
+  const renderLinks = ({ isPrimary, isSecondary, isTertiary, navList, show }: renderLinkProps) => {
     return (
       <div className="relative l:h-full">
-        <a
-          onClick={() => {
-            if (isSecondary) {
-              setSelectedPrimaryLink(false);
-            } else if (isTertiary) {
-              setSelectedSecondaryLink(false);
-            }
-          }}
-        >
-          <Icon
-            className={clsx('icon-arrow-left text-black visible l:hidden mt-[16px] text-base', {
-              'invisible l:hidden': !selectedPrimaryLink,
-            })}
-          ></Icon>
-        </a>
         {navList?.map((navbar: subPagesProps, index: number) => {
           return (
             <>
@@ -354,16 +238,28 @@ const Header = ({ fields }: HeaderProps) => {
                   variant={'secondary'}
                   auto={false}
                   className={clsx(
-                    'mt-[14px] navigationTransitionInitial relative ml-[2px] text-lightBlack l:max-w-[165px] xl:max-w-[225px] [&_span]:max-w-full  min-h-[28px] h-fit l:[&_span]:max-w-[193px] active:!text-lightBlack l:active:!text-primary hover:!text-lightBlack l:hover:!text-primary',
+                    'mt-[14px] navigationTransitionInitial relative ml-[2px] text-lightBlack l:max-w-[165px] xl:max-w-[225px] [&_span]:max-w-full  min-h-[28px] l:[&_span]:max-w-[193px] active:!text-lightBlack l:active:!text-primary :hover:!text-primary basicFocus',
                     {
                       '!text-primary !cursor-default !outline-none':
                         selectedPrimaryLink === navbar?.itemId ||
                         selectedSecondaryLink === navbar?.itemId,
-                      navigationTransitionFinal: (isPrimary || show) && isExpanded,
+                      navigationTransitionFinal:
+                        (isPrimary || show) &&
+                        isExpanded &&
+                        !(
+                          isMiniDesktop &&
+                          ((isPrimary && selectedPrimaryLink) ||
+                            (isSecondary && selectedSecondaryLink))
+                        ),
+                      '!invisible navigationTransitionInitial':
+                        isMiniDesktop &&
+                        ((isPrimary && selectedPrimaryLink) ||
+                          (isSecondary && selectedSecondaryLink)),
+                      '!mt-0': index === 0 && isMiniDesktop,
                     }
                   )}
                   style={index ? { transitionDelay: `${100 * (index / 2)}ms` } : {}}
-                  text={navbar?.menuTitle?.value}
+                  text={isDesktop ? navbar?.menuTitle?.value : navbar?.mobileMenuTitle?.value}
                   field={navbar.url}
                   onClick={(e) => {
                     if (navbar?.subPages && !navbar.hideSubNavigation) {
@@ -396,12 +292,20 @@ const Header = ({ fields }: HeaderProps) => {
                     })}
                 />
               )}
-              {!isMobile &&
+              {!navbar.hideInNavigation &&
                 isPrimary &&
                 navbar?.subPages &&
                 navbar.subPages?.length > 0 &&
                 !navbar.hideSubNavigation && (
-                  <div className="absolute top-0 left-[100%] h-[700px]  w-[220px] items-start pr-0 xl:w-[300px] mt-[-14px] pl-[1px] ">
+                  <div
+                    className={clsx(
+                      'absolute top-0 left-0 l:left-[100%] h:fit l:h-[700px] w-full l:w-[220px] items-start pr-0 xl:w-[300px] pl-[1px] ',
+                      {
+                        '!invisible navigationTransitionInitial':
+                          selectedPrimaryLink !== navbar.itemId,
+                      }
+                    )}
+                  >
                     {renderLinks({
                       isSecondary: true,
                       navList: navbar.subPages,
@@ -409,12 +313,20 @@ const Header = ({ fields }: HeaderProps) => {
                     })}
                   </div>
                 )}
-              {!isMobile &&
-                isSecondary &&
+              {isSecondary &&
+                !navbar.hideInNavigation &&
                 !navbar.hideSubNavigation &&
                 navbar?.subPages &&
                 navbar.subPages?.length > 0 && (
-                  <div className="absolute top-0 left-[100%] h-full w-[220px] items-start pr-0 xl:w-[300px] mt-[-14px] pl-[1px] ">
+                  <div
+                    className={clsx(
+                      'absolute top-0 left-0 l:left-[100%] h-full w-full l:w-[220px] items-start pr-0 xl:w-[300px] pl-[1px] ',
+                      {
+                        '!invisible navigationTransitionInitial':
+                          selectedSecondaryLink !== navbar.itemId,
+                      }
+                    )}
+                  >
                     {renderLinks({
                       isTertiary: true,
                       navList: navbar.subPages,
@@ -432,14 +344,33 @@ const Header = ({ fields }: HeaderProps) => {
     return (
       <div
         className={clsx(
-          'w-full -z-50 transition-all duration-200 bg-white opacity-0 scroll-auto overflow-hidden flex flex-col justify-between h-[calc(100%-65px)]',
+          'w-full transition-all relative invisible duration-200 bg-white opacity-0 scroll-auto overflow-hidden flex flex-col justify-between h-[calc(100%-65px)]',
           {
-            'z-10 opacity-100': isExpanded,
+            ' opacity-100 !visible z-2': isExpanded,
           }
         )}
       >
-        <div className="px-[25px] h-[calc(100%-228px)] smd:h-full overflow-x-hidden  overflow-y-auto scroll-auto mt-[-1px] l:hidden bg-white no-scrollbar">
-          {renderMobileNavigation({ isPrimary: true, navList: fields?.navigationEntries })}
+        <div className="px-[25px] relative h-[calc(100%-228px)] smd:!h-full overflow-x-hidden overflow-y-auto scroll-auto mt-[-1px] l:hidden bg-white no-scrollbar">
+          <a className="bg-red !w-fit cursor-pointer">
+            <Icon
+              className={clsx(
+                'icon-arrow-left text-black opacity-100 w-fit visible mt-[18px] text-base',
+                {
+                  'opacity-0 invisible': !selectedPrimaryLink,
+                }
+              )}
+              onClick={() => {
+                if (selectedSecondaryLink) {
+                  setSelectedSecondaryLink(false);
+                } else if (selectedPrimaryLink) {
+                  setSelectedPrimaryLink(false);
+                }
+              }}
+            ></Icon>
+          </a>
+          <div className="relative mt-[7px]">
+            {renderLinks({ isPrimary: true, navList: fields?.navigationEntries })}
+          </div>
         </div>
         <div className="bg-white relative h-[700px] w-full hidden l:block">
           <div className="container flex mx-auto h-full bg-white ">
@@ -506,6 +437,12 @@ const Header = ({ fields }: HeaderProps) => {
                 e.stopPropagation();
                 setIsUserProfileClick(!isUserProfileClick);
               }}
+              onKeyUp={(e) => {
+                if (e.keyCode === 13) {
+                  e.stopPropagation();
+                  setIsUserProfileClick(!isUserProfileClick);
+                }
+              }}
               className="h-[30px] relative w-[30px] mr-[17px] hidden smd:flex justify-center items-center cursor-pointer basicFocus rounded-[1px] "
             >
               <Icon
@@ -521,7 +458,7 @@ const Header = ({ fields }: HeaderProps) => {
                   className={clsx(
                     'absolute transition-all ease-in-out duration-200 invisible top-[47px] right-[-63px] opacity-0 w-[256px]',
                     {
-                      'smd:visible smd:opacity-100 smd:h-[228px] z-50 drop-shadow-[0_0_5px_rgba(51,51,51,0.22)] before:content("") before:border-[7px] before:absolute before:top-[calc(7px*-2)] before:border-x-transparent before:border-t-transparent before:border-b-white  before:right-[calc(25%+7px)]':
+                      'smd:visible smd:opacity-100 smd:h-[228px] smd:z-3 drop-shadow-[0_0_5px_rgba(51,51,51,0.22)] before:content("") before:border-[7px] before:absolute before:top-[calc(7px*-2)] before:border-x-transparent before:border-t-transparent before:border-b-white  before:right-[calc(25%+7px)]':
                         isUserProfileClick,
                     }
                   )}
@@ -539,6 +476,11 @@ const Header = ({ fields }: HeaderProps) => {
               tabIndex={0}
               className="flex items-center basicFocus px-[2.5px] mr-[1px] l:mr-0 cursor-pointer h-[30px] rounded-[1px]"
               onClick={() => setIsExpanded(!isExpanded)}
+              onKeyUp={(e) => {
+                if (e.keyCode === 13) {
+                  setIsExpanded(!isExpanded);
+                }
+              }}
             >
               {fields?.menuLabel && (
                 <Text
@@ -564,18 +506,29 @@ const Header = ({ fields }: HeaderProps) => {
   };
   return (
     <>
-      <div
-        className="fixed top-0 transition-all duration-200 w-full h-full l:h-fit"
-        ref={navigationRef}
-      >
-        {renderBasicHeaderInfo()}
-        {renderNavigation()}
+      <div className="w-full h-full l:h-fit" ref={navigationRef}>
+        <div
+          className={clsx('fixed top-0 w-full h-full l:h-fit z-1', {
+            'z-[2]': isUserProfileClick,
+          })}
+        >
+          {renderBasicHeaderInfo()}
+        </div>
+        <div
+          className={clsx(
+            'transition-all invisible duration-200 fixed top-[65px] w-full h-full l:h-fit',
+            {
+              'bg-white !visible': isExpanded,
+            }
+          )}
+        >
+          {renderNavigation()}
+        </div>
       </div>
       <div
-        className={clsx(
-          'absolute top-[765px] left-0 right-0 bottom-0 z-10 bg-black/[0.8] invisible',
-          { 'l:!visible': isExpanded }
-        )}
+        className={clsx('absolute top-[765px] left-0 right-0 bottom-0 bg-black/[0.8] hidden', {
+          'l:!block z-2': isExpanded,
+        })}
       ></div>
     </>
   );
