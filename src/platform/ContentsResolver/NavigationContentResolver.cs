@@ -43,6 +43,7 @@ namespace XmCloudnov.ContentResolver
                 navigationModel.PortalDescription = NOVSitecoreHelper.GetStringValue(startItem.Fields[HomeRootFields.PortalDescriptionFieldId]?.Value);
                 navigationModel.PortalHeader = NOVSitecoreHelper.GetStringValue(startItem.Fields[HomeRootFields.PortalHeaderFieldId]?.Value);
                 navigationModel.PortalRegisterUrl = NOVSitecoreHelper.GetLinkValue(startItem, HomeRootFields.PortalRegisterUrlFieldId);
+                navigationModel.LabelOverview = NOVSitecoreHelper.GetStringValue(startItem.Fields[HomeRootFields.LabelOverviewFieldId]?.Value);
 
                 SetUrlFromRedirectPage(startItem, navigationModel.PortalRegisterUrl,HomeRootFields.PortalRegisterUrlFieldId);
 
