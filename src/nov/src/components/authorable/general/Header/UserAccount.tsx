@@ -54,7 +54,7 @@ const UserAccount = ({
         <Button
           variant="button"
           auto={false}
-          className="text-sm [&_span]:mt-[-3px]"
+          className="text-sm max-h-[48px]"
           field={portalLoginUrl}
         />
       )}
