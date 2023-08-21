@@ -8,7 +8,10 @@ import useExperienceEditor from 'lib/use-experience-editor';
 
 const srOnlySpan = '<span class="sr-only"> (Opens in a new tab)</span>';
 
-const RichTextA11yWrapper = ({ field, editable = true, ...props }: RichTextProps): JSX.Element => {
+interface RichTextProp extends RichTextProps {
+  className?: string;
+}
+const RichTextA11yWrapper = ({ field, editable = true, ...props }: RichTextProp): JSX.Element => {
   /**
    * Hook for experience editor
    */
@@ -48,19 +51,40 @@ const RichTextA11yWrapper = ({ field, editable = true, ...props }: RichTextProps
   // Otherwise don't render anything
   if (!field?.value) {
     if (isExperienceEditor && editable) {
-      return <RichText field={field} {...props} editable={editable} className="rte" />;
+      return (
+        <RichText
+          field={field}
+          {...props}
+          editable={editable}
+          className={'rte ' + props?.className}
+        />
+      );
     }
     return <></>;
   }
 
   // Just a pass through if it's EE.
   if (isExperienceEditor) {
-    return <RichText field={field} {...props} editable={editable} className="rte" />;
+    return (
+      <RichText
+        field={field}
+        {...props}
+        editable={editable}
+        className={'rte ' + props?.className}
+      />
+    );
   }
   /**
    * If not EE, use the updated field value
    */
-  return <RichText field={updatedField} {...props} editable={editable} className="rte" />;
+  return (
+    <RichText
+      field={updatedField}
+      {...props}
+      editable={editable}
+      className={'rte ' + props?.className}
+    />
+  );
 };
 
 export default RichTextA11yWrapper;

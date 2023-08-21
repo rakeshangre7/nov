@@ -1,6 +1,7 @@
 // import { Field, withDatasourceCheck } from '@sitecore-jss/sitecore-jss-nextjs';
 import Button from '@/components/helpers/Button/Button';
-import { Field, LinkField, RichText } from '@sitecore-jss/sitecore-jss-nextjs';
+import RichTextA11yWrapper from '@/components/helpers/RichTextA11yWrapper/RichTextA11yWrapper';
+import { Field, LinkField } from '@sitecore-jss/sitecore-jss-nextjs';
 import { Text } from '@sitecore-jss/sitecore-jss-nextjs';
 import clsx from 'clsx';
 // Local
@@ -34,7 +35,7 @@ const TitleBlock = ({ fields, params }: TitleBlockProps): JSX.Element => {
         })}
       >
         <Text tag="h2" field={fields?.title} className="w-full text-black" />
-        <RichText
+        <RichTextA11yWrapper
           field={fields.body}
           className="mt-[20px] [&_p]:!leading-32 text-gray-dark w-full "
         />
