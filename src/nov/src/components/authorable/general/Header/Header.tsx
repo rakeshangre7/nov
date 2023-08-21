@@ -411,6 +411,12 @@ const Header = ({ fields }: HeaderProps) => {
                 e.stopPropagation();
                 setIsUserProfileClick(!isUserProfileClick);
               }}
+              onKeyUp={(e) => {
+                if (e.keyCode === 13) {
+                  e.stopPropagation();
+                  setIsUserProfileClick(!isUserProfileClick);
+                }
+              }}
               className="h-[30px] relative w-[30px] mr-[17px] hidden smd:flex justify-center items-center cursor-pointer basicFocus rounded-[1px] "
             >
               <Icon
@@ -444,6 +450,11 @@ const Header = ({ fields }: HeaderProps) => {
               tabIndex={0}
               className="flex items-center basicFocus px-[2.5px] mr-[1px] l:mr-0 cursor-pointer h-[30px] rounded-[1px]"
               onClick={() => setIsExpanded(!isExpanded)}
+              onKeyUp={(e) => {
+                if (e.keyCode === 13) {
+                  setIsExpanded(!isExpanded);
+                }
+              }}
             >
               {fields?.menuLabel && (
                 <Text
