@@ -157,7 +157,7 @@ const Header = ({ fields }: HeaderProps) => {
   }, []);
   const renderHeaderTeaser = () => {
     return (
-      <div className="w-[389px] h-[700px] bg-white fixed border-l-[1px] border-gray-light top-[65px] z-2 right-0 l:w-[463px] flex justify-between flex-col">
+      <div className="w-[389px] h-[700px] bg-white fixed border-l-[1px] border-gray-light top-[65px] z-2 right-0 l:w-[464px] flex justify-between flex-col">
         <div>
           {activeNavbarStoryDetail?.cardImage?.value?.src && (
             <NextImage
@@ -219,7 +219,7 @@ const Header = ({ fields }: HeaderProps) => {
             iconPosition="right"
             iconClassName="icon-arrow-right"
             iconFullWidth={true}
-            className="!min-h-[40px] max-h-[40px] text-[16px] px-[33px] py-[12px]"
+            className="!min-h-[40px] max-h-[40px] text-[16px] px-[33px] py-[12px] [&_span]:ml-[-1px] [&_span]:font-bold	"
             text={activeNavbarStoryDetail?.featuredStoryCTAText?.value}
             field={activeNavbarStoryDetail?.featuredStoryCTALink}
           />
@@ -239,7 +239,7 @@ const Header = ({ fields }: HeaderProps) => {
                   variant={'secondary'}
                   auto={false}
                   className={clsx(
-                    'mt-[14px] navigationTransitionInitial relative ml-[2px] text-lightBlack l:max-w-[165px] xl:max-w-[225px] [&_span]:max-w-full  min-h-[28px] l:[&_span]:max-w-[193px] active:!text-lightBlack l:active:!text-primary :hover:!text-primary basicFocus',
+                    'mt-[14px] navigationTransitionInitial relative ml-[2px] !leading-[18px] text-lightBlack l:max-w-[165px] xl:max-w-[225px] py-[5px] [&_span]:max-w-full l:[&_span]:max-w-[193px] active:!text-lightBlack l:active:!text-primary :hover:!text-primary basicFocus',
                     {
                       '!text-primary !cursor-default !outline-none':
                         !(isSecondary && index === 0) &&
@@ -312,7 +312,7 @@ const Header = ({ fields }: HeaderProps) => {
                 !navbar.hideSubNavigation && (
                   <div
                     className={clsx(
-                      'absolute top-0 left-0 l:left-[100%] h:fit l:h-[700px] w-full l:w-[220px] items-start pr-0 xl:w-[300px] pl-[1px] ',
+                      'absolute top-0 left-0 ml-[-1px] l:left-[100%] h:fit l:h-[700px] w-full l:w-[220px] items-start pr-0 xl:w-[300px] pl-[1px] ',
                       {
                         '!invisible navigationTransitionInitial':
                           selectedPrimaryLink !== navbar.itemId,
@@ -391,7 +391,7 @@ const Header = ({ fields }: HeaderProps) => {
         <div className="bg-white relative h-[700px] w-full hidden l:block">
           <div className="container flex mx-auto h-full bg-white ">
             <div className="w-full h-full">
-              <div className="w-[220px] items-start pr-0 xl:w-[300px] h-full mt-[52px] pl-[1px] ">
+              <div className="w-[220px] items-start pr-0 xl:w-[300px] h-full mt-[51px]  ">
                 {renderLinks({
                   isPrimary: true,
                   navList: fields?.navigationEntries?.filter((nav) => !nav.hideInNavigation),
