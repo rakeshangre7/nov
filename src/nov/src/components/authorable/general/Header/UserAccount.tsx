@@ -18,11 +18,14 @@ const UserAccount = ({
 }: UserAccountProps) => {
   return (
     <div
-      className={clsx('h-[228px] z-10 w-full items-center bg-white flex flex-col justify-between', {
-        'border-t	border-gray': isMobile,
-      })}
+      className={clsx(
+        'h-[228px] relative z-10 w-full items-center bg-white flex flex-col justify-between',
+        {
+          'border-t	border-gray': isMobile,
+        }
+      )}
     >
-      <div>
+      <div className="flex flex-col items-center">
         {portalHeader && (
           <Text
             tag={'p'}
