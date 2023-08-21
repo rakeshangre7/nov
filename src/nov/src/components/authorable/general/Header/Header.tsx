@@ -1,10 +1,11 @@
 import Icon from '@/components/helpers/Icon/Icon';
 import { Field, ImageField, LinkField, NextImage, Text } from '@sitecore-jss/sitecore-jss-nextjs';
 import clsx from 'clsx';
-import React, { useEffect, useRef, useState } from 'react';
+import React, { useEffect, useRef, useState, KeyboardEvent } from 'react';
 import UserAccount from './UserAccount';
 import Button from '@/components/helpers/Button/Button';
 import { useBreakpoints } from '@/components/utility/breakpoints.jsx';
+import { useRouter } from 'next/router';
 
 // Ideally, all this is from generated Typescript code from Sitecore and we're not manually defining types.
 type renderLinkProps = {
@@ -90,6 +91,7 @@ const Header = ({ fields }: HeaderProps) => {
   const [selectedPrimaryLink, setSelectedPrimaryLink] = useState<boolean | string>(false);
   const [selectedSecondaryLink, setSelectedSecondaryLink] = useState<boolean | string>();
   const { isMiniDesktop, isDesktop } = useBreakpoints();
+  const router = useRouter();
 
   const handleScroll = () => {
     const currentScrollPos = window.pageYOffset;
@@ -157,25 +159,49 @@ const Header = ({ fields }: HeaderProps) => {
       <div className="w-[389px] h-[700px] bg-white fixed border-l-[1px] border-gray-light top-[65px] z-2 right-0 l:w-[463px] flex justify-between flex-col">
         <div>
           {activeNavbarStoryDetail?.cardImage?.value?.src && (
-            <a tabIndex={-1} href={activeNavbarStoryDetail?.featuredStoryCTALink?.value?.href}>
-              <NextImage
-                field={activeNavbarStoryDetail?.cardImage}
-                tabIndex={0}
-                className="basicFocus"
-              />
-            </a>
+            <NextImage
+              field={activeNavbarStoryDetail?.cardImage}
+              tabIndex={0}
+              className="basicFocus cursor-pointer"
+              onClick={() => {
+                if (activeNavbarStoryDetail?.featuredStoryCTALink?.value?.href) {
+                  router.push(activeNavbarStoryDetail?.featuredStoryCTALink?.value?.href);
+                }
+              }}
+              onKeyUp={(e) => {
+                if (
+                  e.keyCode === 13 &&
+                  activeNavbarStoryDetail?.featuredStoryCTALink?.value?.href
+                ) {
+                  e.stopPropagation();
+                  router.push(activeNavbarStoryDetail?.featuredStoryCTALink?.value?.href);
+                }
+              }}
+            />
           )}
           <div className="px-[33px] ">
-            <a tabIndex={-1} href={activeNavbarStoryDetail?.featuredStoryCTALink?.value?.href}>
-              {activeNavbarStoryDetail?.featuredStoryHeadline && (
-                <Text
-                  tag={'h4'}
-                  className="h4  mt-[30px] !text-xl text-black basicFocus w-fit !leading-30 focus:!outline-[1px]"
-                  tabIndex="0"
-                  field={activeNavbarStoryDetail?.featuredStoryHeadline}
-                />
-              )}
-            </a>
+            {activeNavbarStoryDetail?.featuredStoryHeadline && (
+              <Text
+                tag={'h4'}
+                className="h4  mt-[30px] !text-xl text-black basicFocus w-fit !leading-30 focus:!outline-[1px]"
+                tabIndex="0"
+                field={activeNavbarStoryDetail?.featuredStoryHeadline}
+                onClick={() => {
+                  if (activeNavbarStoryDetail?.featuredStoryCTALink?.value?.href) {
+                    router.push(activeNavbarStoryDetail?.featuredStoryCTALink?.value?.href);
+                  }
+                }}
+                onKeyUp={(e: KeyboardEvent<HTMLElement>) => {
+                  if (
+                    e.keyCode === 13 &&
+                    activeNavbarStoryDetail?.featuredStoryCTALink?.value?.href
+                  ) {
+                    e.stopPropagation();
+                    router.push(activeNavbarStoryDetail?.featuredStoryCTALink?.value?.href);
+                  }
+                }}
+              />
+            )}
             {activeNavbarStoryDetail?.featuredStoryAbstract && (
               <Text
                 tag={'p'}
@@ -324,7 +350,7 @@ const Header = ({ fields }: HeaderProps) => {
           }
         )}
       >
-        <div className="px-[25px] relative h-[calc(100%-228px)] smd:!h-full overflow-x-hidden  overflow-y-auto scroll-auto mt-[-1px] l:hidden bg-white no-scrollbar">
+        <div className="px-[25px] relative h-[calc(100%-228px)] smd:!h-full overflow-x-hidden overflow-y-auto scroll-auto mt-[-1px] l:hidden bg-white no-scrollbar">
           <a className="bg-red !w-fit cursor-pointer">
             <Icon
               className={clsx(
@@ -342,7 +368,7 @@ const Header = ({ fields }: HeaderProps) => {
               }}
             ></Icon>
           </a>
-          <div className="relative krushna mt-[7px]">
+          <div className="relative mt-[7px]">
             {renderLinks({ isPrimary: true, navList: fields?.navigationEntries })}
           </div>
         </div>
