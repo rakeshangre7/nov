@@ -1,5 +1,5 @@
 import React, { useEffect, useRef, useState } from 'react';
-import { Field, Text } from '@sitecore-jss/sitecore-jss-nextjs';
+import { Field, Link, LinkField, LinkFieldValue, Text } from '@sitecore-jss/sitecore-jss-nextjs';
 import Button from '@/components/helpers/Button/Button';
 import { useBreakpoints } from '../../../utility/breakpoints';
 interface SecondaryMenu {
@@ -9,6 +9,9 @@ interface SecondaryMenu {
   primaryURL: {
     path: string;
     url: string;
+  };
+  redirectPageURL?: {
+    jsonValue?: LinkField | null;
   };
   hideInNavigation: {
     jsonValue: {
@@ -26,8 +29,12 @@ export type FooterAccordionProps = {
   index?: number;
   // FMItem: Array<Item>;
   FMItem: {
+    field?: LinkField | LinkFieldValue;
     primaryURL: {
       path: string;
+    };
+    redirectPageURL?: {
+      jsonValue?: LinkField | null;
     };
     menuTitle: {
       jsonValue: {
@@ -57,25 +64,36 @@ const FooterAccordion = ({ FMItem, index }: FooterAccordionProps) => {
     e.preventDefault();
     setIsOpen(!isOpen);
   };
-
+  const isRedirect = FMItem?.redirectPageURL?.jsonValue?.value == null;
   return (
     <>
       <li className="">
         <div className="border-b border-solid border-gray-light bg-white relative [&>a]:hover:text-black">
           {isDesktop ? (
-            <Button
-              className="w-48 lg:w-64 flex order-3 font-semibold lg:pb-8 hover:underline"
-              field={{
-                value: {
-                  href: FMItem?.primaryURL?.path,
-                  linktype: 'external',
-                  target: '_blank',
-                  text: 'Link with new tab screen reader text',
-                },
-              }}
-              text={FMItem?.menuTitle?.jsonValue.value}
-              variant="tertiary"
-            />
+            isRedirect ? (
+              <Button
+                className="w-48 lg:w-64 flex order-3 font-semibold lg:pb-8 hover:underline"
+                field={{
+                  value: {
+                    href: FMItem?.primaryURL?.path,
+                    linktype: 'external',
+                    target: '_blank',
+                    text: 'Link with new tab screen reader text',
+                  },
+                }}
+                text={FMItem?.menuTitle?.jsonValue.value}
+                variant="tertiary"
+              />
+            ) : (
+              FMItem?.redirectPageURL?.jsonValue && (
+                <Button
+                  className="w-48 lg:w-64 flex order-3 font-semibold lg:pb-8 hover:underline"
+                  field={FMItem?.redirectPageURL?.jsonValue}
+                  text={FMItem?.menuTitle?.jsonValue.value}
+                  variant="tertiary"
+                />
+              )
+            )
           ) : (
             <>
               <div className="lg:hidden">
@@ -120,12 +138,19 @@ const FooterAccordion = ({ FMItem, index }: FooterAccordionProps) => {
                 key={index}
                 className="flex py-3.5 lg:py-1.5 first:pt-10 first:lg:pt-1.5 last:pb-12 last:lg:pb-1.5"
               >
-                <a
-                  href={FMItem?.primaryURL?.path}
-                  className="text-sm leading-6 hover:underline font-medium"
-                >
-                  <Text field={FMItem?.menuTitle?.jsonValue} />
-                </a>
+                {FMItem?.redirectPageURL?.jsonValue?.value == null ? (
+                  <a
+                    href={FMItem?.primaryURL?.path}
+                    className="text-sm leading-6 hover:underline font-medium"
+                  >
+                    <Text field={FMItem?.menuTitle?.jsonValue} />
+                  </a>
+                ) : (
+                  <Link
+                    field={FMItem?.redirectPageURL?.jsonValue}
+                    className="text-sm leading-6 hover:underline font-medium"
+                  />
+                )}
               </li>
             )}
             {Array.isArray(FMItem?.secondaryMenu?.results) &&
@@ -134,12 +159,19 @@ const FooterAccordion = ({ FMItem, index }: FooterAccordionProps) => {
                   key={index}
                   className="flex py-3.5 lg:py-1.5 first:pt-10 first:lg:pt-1.5 last:pb-12 last:lg:pb-1.5"
                 >
-                  <a
-                    href={Item?.primaryURL?.path}
-                    className="text-sm leading-6 hover:underline font-medium outline-none"
-                  >
-                    <Text field={Item?.menuTitle?.jsonValue} />
-                  </a>
+                  {Item?.redirectPageURL?.jsonValue?.value == null ? (
+                    <a
+                      href={Item?.primaryURL?.path}
+                      className="text-sm leading-6 hover:underline font-medium outline-none"
+                    >
+                      <Text field={Item?.menuTitle?.jsonValue} />
+                    </a>
+                  ) : (
+                    <Link
+                      field={Item?.redirectPageURL?.jsonValue}
+                      className="text-sm leading-6 hover:underline font-medium outline-none"
+                    />
+                  )}
                 </li>
               ))}
           </ul>
