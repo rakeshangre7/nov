@@ -527,7 +527,7 @@ const Header = ({ fields }: HeaderProps) => {
     <>
       <div className="w-full h-full l:h-fit" ref={navigationRef}>
         <div
-          className={clsx('fixed top-0 w-full h-full l:h-fit z-[2]', {
+          className={clsx('fixed top-0 w-full l:h-fit z-[2]', {
             'z-[3]': isUserProfileClick,
           })}
         >

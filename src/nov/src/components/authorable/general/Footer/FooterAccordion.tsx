@@ -113,7 +113,7 @@ const FooterAccordion = ({ FMItem, index }: FooterAccordionProps) => {
                   aria-controls={`body_${index}`}
                   aria-expanded={isOpen ? true : false}
                   aria-label={isOpen ? 'collapse button' : 'expand button'}
-                  className="w-full py-4 px-8"
+                  className="w-full py-4 px-8 font-semibold"
                 />
               </div>
             </>
