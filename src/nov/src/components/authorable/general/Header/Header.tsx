@@ -59,6 +59,7 @@ export type HeaderProps = {
   dataSource?: string;
   params?: { [key: string]: string };
   fields?: {
+    labelOverview?: Field<string>;
     portalDescription?: Field<string>;
     portalRegisterUrl?: LinkField;
     portalRegisterUrlText?: Field<string> | null;
@@ -156,7 +157,7 @@ const Header = ({ fields }: HeaderProps) => {
   }, []);
   const renderHeaderTeaser = () => {
     return (
-      <div className="w-[389px] h-[700px] bg-white fixed border-l-[1px] border-gray-light top-[65px] z-2 right-0 l:w-[463px] flex justify-between flex-col">
+      <div className="w-[389px] h-[700px] bg-white fixed border-l-[1px] border-gray-light top-[65px] z-[3] right-0 l:w-[464px] flex justify-between flex-col">
         <div>
           {activeNavbarStoryDetail?.cardImage?.value?.src && (
             <NextImage
@@ -218,7 +219,7 @@ const Header = ({ fields }: HeaderProps) => {
             iconPosition="right"
             iconClassName="icon-arrow-right"
             iconFullWidth={true}
-            className="!min-h-[40px] max-h-[40px] text-[16px] px-[33px] py-[12px]"
+            className="!min-h-[40px] max-h-[40px] text-[16px] px-[33px] py-[12px] [&_span]:ml-[-1px] [&_span]:font-bold	"
             text={activeNavbarStoryDetail?.featuredStoryCTAText?.value}
             field={activeNavbarStoryDetail?.featuredStoryCTALink}
           />
@@ -238,11 +239,13 @@ const Header = ({ fields }: HeaderProps) => {
                   variant={'secondary'}
                   auto={false}
                   className={clsx(
-                    'mt-[14px] navigationTransitionInitial relative ml-[2px] text-lightBlack l:max-w-[165px] xl:max-w-[225px] [&_span]:max-w-full  min-h-[28px] l:[&_span]:max-w-[193px] active:!text-lightBlack l:active:!text-primary :hover:!text-primary basicFocus',
+                    'mt-[14px] navigationTransitionInitial relative ml-[2px] !leading-[18px] text-lightBlack l:max-w-[165px] xl:max-w-[225px] py-[5px] [&_span]:max-w-full l:[&_span]:max-w-[193px] active:!text-lightBlack l:active:!text-primary :hover:!text-primary basicFocus',
                     {
                       '!text-primary !cursor-default !outline-none':
-                        selectedPrimaryLink === navbar?.itemId ||
-                        selectedSecondaryLink === navbar?.itemId,
+                        !(isSecondary && index === 0) &&
+                        !isTertiary &&
+                        (selectedPrimaryLink === navbar?.itemId ||
+                          selectedSecondaryLink === navbar?.itemId),
                       navigationTransitionFinal:
                         (isPrimary || show) &&
                         isExpanded &&
@@ -259,10 +262,19 @@ const Header = ({ fields }: HeaderProps) => {
                     }
                   )}
                   style={index ? { transitionDelay: `${100 * (index / 2)}ms` } : {}}
-                  text={isDesktop ? navbar?.menuTitle?.value : navbar?.mobileMenuTitle?.value}
+                  text={`${isDesktop ? navbar?.menuTitle?.value : navbar?.mobileMenuTitle?.value} ${
+                    (isSecondary || isTertiary) && index === 0 && fields?.labelOverview?.value
+                      ? fields?.labelOverview?.value
+                      : ''
+                  }`}
                   field={navbar.url}
                   onClick={(e) => {
-                    if (navbar?.subPages && !navbar.hideSubNavigation) {
+                    if (
+                      navbar?.subPages &&
+                      !navbar.hideSubNavigation &&
+                      !(isSecondary && index === 0) &&
+                      !isTertiary
+                    ) {
                       if (navbar.subPages?.length > 0) {
                         e.preventDefault();
                         e.stopPropagation();
@@ -285,6 +297,7 @@ const Header = ({ fields }: HeaderProps) => {
                   }}
                   {...(!isTertiary &&
                     navbar?.subPages &&
+                    !(isSecondary && index === 0) &&
                     !navbar.hideSubNavigation &&
                     navbar.subPages?.length > 0 && {
                       iconPosition: 'right',
@@ -299,7 +312,7 @@ const Header = ({ fields }: HeaderProps) => {
                 !navbar.hideSubNavigation && (
                   <div
                     className={clsx(
-                      'absolute top-0 left-0 l:left-[100%] h:fit l:h-[700px] w-full l:w-[220px] items-start pr-0 xl:w-[300px] pl-[1px] ',
+                      'absolute top-0 left-0 ml-[-1px] l:left-[100%] h:fit l:h-[700px] w-full l:w-[220px] items-start pr-0 xl:w-[300px] pl-[1px] ',
                       {
                         '!invisible navigationTransitionInitial':
                           selectedPrimaryLink !== navbar.itemId,
@@ -308,7 +321,7 @@ const Header = ({ fields }: HeaderProps) => {
                   >
                     {renderLinks({
                       isSecondary: true,
-                      navList: navbar.subPages,
+                      navList: [navbar, ...navbar.subPages]?.filter((nav) => !nav.hideInNavigation),
                       show: selectedPrimaryLink === navbar.itemId,
                     })}
                   </div>
@@ -329,7 +342,7 @@ const Header = ({ fields }: HeaderProps) => {
                   >
                     {renderLinks({
                       isTertiary: true,
-                      navList: navbar.subPages,
+                      navList: [navbar, ...navbar.subPages]?.filter((nav) => !nav.hideInNavigation),
                       show: selectedSecondaryLink === navbar.itemId,
                     })}
                   </div>
@@ -346,7 +359,7 @@ const Header = ({ fields }: HeaderProps) => {
         className={clsx(
           'w-full transition-all relative invisible duration-200 bg-white opacity-0 scroll-auto overflow-hidden flex flex-col justify-between h-[calc(100%-65px)]',
           {
-            ' opacity-100 !visible z-2': isExpanded,
+            ' opacity-100 !visible z-[3]': isExpanded,
           }
         )}
       >
@@ -369,14 +382,20 @@ const Header = ({ fields }: HeaderProps) => {
             ></Icon>
           </a>
           <div className="relative mt-[7px]">
-            {renderLinks({ isPrimary: true, navList: fields?.navigationEntries })}
+            {renderLinks({
+              isPrimary: true,
+              navList: fields?.navigationEntries?.filter((nav) => !nav.hideInNavigation),
+            })}
           </div>
         </div>
         <div className="bg-white relative h-[700px] w-full hidden l:block">
           <div className="container flex mx-auto h-full bg-white ">
             <div className="w-full h-full">
-              <div className="w-[220px] items-start pr-0 xl:w-[300px] h-full mt-[52px] pl-[1px] ">
-                {renderLinks({ isPrimary: true, navList: fields?.navigationEntries })}
+              <div className="w-[220px] items-start pr-0 xl:w-[300px] h-full mt-[51px]  ">
+                {renderLinks({
+                  isPrimary: true,
+                  navList: fields?.navigationEntries?.filter((nav) => !nav.hideInNavigation),
+                })}
               </div>
             </div>
           </div>
@@ -420,7 +439,7 @@ const Header = ({ fields }: HeaderProps) => {
           <ul className="flex items-center">
             <li
               tabIndex={0}
-              className="h-[30px] w-[30px] mr-[15px] flex justify-center items-center cursor-pointer basicFocus rounded-[1px]"
+              className="h-[30px] w-[30px] mr-[16px] flex justify-center items-center cursor-pointer basicFocus rounded-[1px]"
             >
               <Icon
                 className={clsx('icon-search text-xl ', {
@@ -443,7 +462,7 @@ const Header = ({ fields }: HeaderProps) => {
                   setIsUserProfileClick(!isUserProfileClick);
                 }
               }}
-              className="h-[30px] relative w-[30px] mr-[17px] hidden smd:flex justify-center items-center cursor-pointer basicFocus rounded-[1px] "
+              className="h-[30px] relative w-[30px] mr-[16px] hidden smd:flex justify-center items-center cursor-pointer basicFocus rounded-[1px] "
             >
               <Icon
                 id={'userProfileIcon'}
@@ -458,7 +477,7 @@ const Header = ({ fields }: HeaderProps) => {
                   className={clsx(
                     'absolute transition-all ease-in-out duration-200 invisible top-[47px] right-[-63px] opacity-0 w-[256px]',
                     {
-                      'smd:visible smd:opacity-100 smd:h-[228px] smd:z-3 drop-shadow-[0_0_5px_rgba(51,51,51,0.22)] before:content("") before:border-[7px] before:absolute before:top-[calc(7px*-2)] before:border-x-transparent before:border-t-transparent before:border-b-white  before:right-[calc(25%+7px)]':
+                      'smd:visible smd:opacity-100 smd:h-[228px] smd:z-[4] drop-shadow-[0_0_5px_rgba(51,51,51,0.22)] before:content("") before:border-[7px] before:absolute before:top-[calc(7px*-2)] before:border-x-transparent before:border-t-transparent before:border-b-white  before:right-[calc(25%+7px)]':
                         isUserProfileClick,
                     }
                   )}
@@ -485,7 +504,7 @@ const Header = ({ fields }: HeaderProps) => {
               {fields?.menuLabel && (
                 <Text
                   tag={'p'}
-                  className={clsx(' mr-[15px] body2 !leading-16 font-medium', {
+                  className={clsx(' mr-[16px] body2 !leading-16 font-medium', {
                     'text-black': isExpanded,
                     'text-white': !isExpanded,
                   })}
@@ -508,8 +527,8 @@ const Header = ({ fields }: HeaderProps) => {
     <>
       <div className="w-full h-full l:h-fit" ref={navigationRef}>
         <div
-          className={clsx('fixed top-0 w-full h-full l:h-fit z-1', {
-            'z-[2]': isUserProfileClick,
+          className={clsx('fixed top-0 w-full h-full l:h-fit z-[2]', {
+            'z-[3]': isUserProfileClick,
           })}
         >
           {renderBasicHeaderInfo()}
@@ -518,7 +537,7 @@ const Header = ({ fields }: HeaderProps) => {
           className={clsx(
             'transition-all invisible duration-200 fixed top-[65px] w-full h-full l:h-fit',
             {
-              'bg-white !visible': isExpanded,
+              'bg-white !visible !z-[2]': isExpanded,
             }
           )}
         >
@@ -527,7 +546,7 @@ const Header = ({ fields }: HeaderProps) => {
       </div>
       <div
         className={clsx('absolute top-[765px] left-0 right-0 bottom-0 bg-black/[0.8] hidden', {
-          'l:!block z-2': isExpanded,
+          'l:!block z-[3]': isExpanded,
         })}
       ></div>
     </>

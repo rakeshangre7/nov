@@ -18,14 +18,14 @@ export type FooterCopyrightProps = {
 const FooterCopyright = ({ footerLinks, copyrightText }: FooterCopyrightProps) => {
   return (
     <div className="bg-gray-lightest order-6 w-full">
-      <div className="container max-w-full px-8 lg:px-20 pt-6 pb-10 lg:py-8 md:flex md:justify-between">
-        <ul className="flex pb-4 lg:pb-0">
+      <div className="container max-w-full px-8 lg:px-20 pt-6 pb-6 lg:py-8 md:flex md:justify-between">
+        <ul className="flex flex-wrap pb-4 md:pb-0">
           {footerLinks?.map(
             (Links: LinksItem, index: number) =>
               Links?.fields?.link.value.href && (
                 <li
                   key={index}
-                  className="after:content-['|'] flex last:after:hidden [&>*]:text-sm [&>*]:leading-24 text-black after:px-2"
+                  className="after:content-['|'] flex last:after:hidden [&>*]:text-sm [&>*]:leading-24 text-black after:px-2 pb-4 md:pb-0"
                 >
                   <Button
                     auto

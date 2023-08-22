@@ -92,6 +92,8 @@ namespace XmCloudnov.Models
             }
         }
 
+        public StringField LabelOverview { get; set; }
+
         //public IEnumerable<NavigationEntryModel> VisibleNavigationEntries
         //{
         //    get
