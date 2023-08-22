@@ -157,7 +157,7 @@ const Header = ({ fields }: HeaderProps) => {
   }, []);
   const renderHeaderTeaser = () => {
     return (
-      <div className="w-[389px] h-[700px] bg-white fixed border-l-[1px] border-gray-light top-[65px] z-[3] right-0 l:w-[463px] flex justify-between flex-col">
+      <div className="w-[389px] h-[700px] bg-white fixed border-l-[1px] border-gray-light top-[65px] z-[3] right-0 l:w-[464px] flex justify-between flex-col">
         <div>
           {activeNavbarStoryDetail?.cardImage?.value?.src && (
             <NextImage
