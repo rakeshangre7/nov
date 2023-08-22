@@ -89,7 +89,7 @@ const FooterAccordion = ({ FMItem, index }: FooterAccordionProps) => {
                 <Button
                   className="w-48 lg:w-64 flex order-3 font-semibold lg:pb-8 hover:underline"
                   field={FMItem?.redirectPageURL?.jsonValue}
-                  // text={FMItem?.menuTitle?.jsonValue.value}
+                  text={FMItem?.menuTitle?.jsonValue.value}
                   variant="tertiary"
                 />
               )
