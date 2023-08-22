@@ -24,8 +24,7 @@
     @apply font-primary font-normal text-xl leading-34 tracking-normal;
   }
   .body1,
-  p,
-  li {
+  p {
     @apply font-primary font-normal text-base leading-28 tracking-normal;
   }
   .body2 {
