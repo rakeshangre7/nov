@@ -75,18 +75,23 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Constants\NovSitecoreConstants.cs" />
+    <Compile Include="ContentsResolver\BrandCapabilityListContentResolver.cs" />
     <Compile Include="ContentsResolver\FilteredFeedContentResolver.cs" />
+    <Compile Include="ContentsResolver\HoverImageContentResolver.cs" />
     <Compile Include="ContentsResolver\NavigationContentResolver.cs" />
     <Compile Include="Extensions\ItemExtensions.cs" />
     <Compile Include="Extensions\ObjectCacheExtensions.cs" />
     <Compile Include="Extensions\TemplateExtensions.cs" />
     <Compile Include="Helpers\NOVSitecoreHelper.cs" />
+    <Compile Include="Models\BrandCapabilityListModel.cs" />
     <Compile Include="Models\BusinessSegmentModel.cs" />
     <Compile Include="Models\ContentTeaserCard.cs" />
     <Compile Include="Models\FilteredFeedModel.cs" />
+    <Compile Include="Models\HoverImageModel.cs" />
     <Compile Include="Models\NavigationEntryModel.cs" />
     <Compile Include="Models\NavigationModel.cs" />
     <Compile Include="Templates\FilteredFeedTemplate.cs" />
+    <Compile Include="Templates\HoverImageTemplate.cs" />
     <Compile Include="Templates\SiteStartItemTemplate.cs" />
   </ItemGroup>
   <PropertyGroup>
