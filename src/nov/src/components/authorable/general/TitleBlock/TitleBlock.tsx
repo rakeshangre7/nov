@@ -37,7 +37,7 @@ const TitleBlock = ({ fields, params }: TitleBlockProps): JSX.Element => {
         <Text tag="h2" field={fields?.title} className="w-full text-black" />
         <RichTextA11yWrapper
           field={fields.body}
-          className="mt-[20px] [&_p]:!leading-32 text-gray-dark w-full "
+          className="mt-[20px] [&_p]:!leading-32 [&_p]:!text-gray-dark w-full "
         />
         {fields?.cta && fields?.cta?.value?.href && (
           <div
