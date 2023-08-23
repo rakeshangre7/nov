@@ -80,6 +80,13 @@ SharedFields:
         
       
       }
+    
+     searchPage: item(path: "{4DCF14F6-DD6D-4748-B370-8726A62DF201}", language: $language){
+        url{
+          path
+          url
+        }
+      }
       
     }
     
@@ -127,14 +134,14 @@ Languages:
         sitecore\ashwin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "66845425-e35e-439f-bfc8-5123d03ab7e1"
+      Value: "ba2ed462-e713-4950-9ced-4b0da0581d8e"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\rangre@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230822T060924Z
+      Value: 20230823T134413Z
 - Language: "en-US"
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
