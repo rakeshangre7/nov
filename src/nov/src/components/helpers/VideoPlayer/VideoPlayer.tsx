@@ -31,19 +31,14 @@ const VideoPlayer = ({
     <video
       width="640"
       height="360"
-      className={className}
+      className={`${className} min-w-full min-h-full object-cover `}
+      //top-1/2 right-1/2 -translate-x-1/2 -translate-y-1/2
       controls={controls}
       preload={preload}
       autoPlay={autoplay}
       loop={loop}
       playsInline={playsinline}
       muted={muted}
-      // {...(controls && { controls: controls })}
-      // {...(preload && { preload: preload })}
-      // {...(autoplay && { autoplay: autoplay })}
-      // {...(loop && { loop: loop })}
-      // {...(playsinline && { playsinline: playsinline })}
-      // {...(muted && { muted: false })}
       poster={field?.image?.value}
     >
       <source src={field?.videoid?.value} type="video/mp4" />
