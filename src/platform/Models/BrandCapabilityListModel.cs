@@ -8,18 +8,18 @@ namespace XmCloudnov.Models
 {
     public class BrandCapabilityListModel
     {
-        public StringField Headling { get; set; }
-        public StringField Description { get; set; }
-        public ImageProperties Image { get; set; }
-        public StringField BackgroundVideo { get; set; }
-        public List<BrandCapabilityItem> BrandCapabilityList { get; set; }
-        public StringField HelpText { get; set; }
+        public object Headline { get; set; }
+        public object Description { get; set; }
+        public object Image { get; set; }
+        public object BackgroundVideo { get; set; }
+        public List<object> BrandCapabilityList { get; set; }
+        public object HelpText { get; set; }
         public bool HideSearch { get; set; }
     }
 
     public class BrandCapabilityItem
     {
-        public StringField Name { get; set; }
-        public StringField Url { get; set; }
+        public object Name { get; set; }
+        public object Url { get; set; }
     }
 }

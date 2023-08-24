@@ -90,6 +90,7 @@
     <Compile Include="Models\HoverImageModel.cs" />
     <Compile Include="Models\NavigationEntryModel.cs" />
     <Compile Include="Models\NavigationModel.cs" />
+    <Compile Include="Templates\BrandCapabilityTemplate.cs" />
     <Compile Include="Templates\FilteredFeedTemplate.cs" />
     <Compile Include="Templates\HoverImageTemplate.cs" />
     <Compile Include="Templates\SiteStartItemTemplate.cs" />
