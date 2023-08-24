@@ -14,8 +14,7 @@ const defaultData: HoverImageProps = {
         },
         image: {
           value: {
-            src:
-              'https://xmcloudcm.localhost/-/media/Project/nov/nov/nov-red-and-grey-logo.svg?iar=0&hash=8677D9CF815DB83C860B1EEE7EC17BF8',
+            src: 'https://xmcloudcm.localhost/-/media/Project/nov/nov/nov-red-and-grey-logo.svg?iar=0&hash=8677D9CF815DB83C860B1EEE7EC17BF8',
             alt: 'NOV',
             height: 550,
             width: 392.672,

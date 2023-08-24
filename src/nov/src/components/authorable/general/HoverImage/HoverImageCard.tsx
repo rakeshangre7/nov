@@ -67,7 +67,8 @@ const HoverImageCard = ({ imageObject }: HoverImageCardProps) => {
             className={clsx(
               '!text-white inline-flex text-center mt-[19px] mb-[13px] [&_i]:ml-[7px] group-active:[&_span]:!underline ',
               {
-                'md:hidden  group-hover:inline-flex group-active:[&_span]:!no-underline ': !isTouchDevice,
+                'md:hidden  group-hover:inline-flex group-active:[&_span]:!no-underline':
+                  !isTouchDevice,
               }
             )}
             field={imageObject.cta}
