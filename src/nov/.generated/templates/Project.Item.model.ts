@@ -5223,5 +5223,3 @@ export namespace Project.Item.NovCom.Modules.Fields {
         }
  }; 
 }
-
-

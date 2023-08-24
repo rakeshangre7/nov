@@ -29,8 +29,30 @@
   .body2 {
     @apply font-primary font-normal text-sm leading-24 tracking-normal;
   }
+  a {
+    @apply inline-flex cursor-pointer text-gray-dark lg:hover:!underline basicFocus;
+  }
   .basicFocus {
     @apply lg:focus:outline-dotted lg:focus:outline-2 lg:focus:outline-secondary hover:!outline-0 active:!outline-0;
+  }
+  .rte h1 {
+    @apply h1;
+  }
+  .rte h2 {
+    @apply h2;
+  }
+  .rte h3 {
+    @apply h3;
+  }
+  .rte h4 {
+    @apply h4;
+  }
+  .rte li,
+  .rte p {
+    @apply font-primary font-normal text-base leading-28 tracking-normal;
+  }
+  .rte a {
+    @apply inline-flex font-medium leading-24 items-center text-sm transition ease-in-out duration-100 cursor-pointer text-gray-dark lg:hover:!underline basicFocus;
   }
 
   /* Chrome, Safari and Opera */
@@ -56,6 +78,5 @@
     visibility: visible;
     transform: translate(0%, 0%);
     height: auto;
-
   }
 }
