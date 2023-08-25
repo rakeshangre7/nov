@@ -42,3 +42,21 @@
 .container {
   @apply w-full max-w-full xl:max-w-nxl lg:max-w-nlg mx-auto;
 }
+
+.home-page-hero .slick-slide{visibility: hidden !important;}
+.home-page-hero .slick-active{visibility: visible !important;}
+
+
+.home-page-hero .custom-slick-dots button:after {
+  display      : block;
+  content      : '';
+  transform    : scaleX(0);
+  
+}
+.home-page-hero .custom-slick-dots .slick-active button:after {
+  border-bottom: solid 1px #fff;
+  
+  transition   : transform 6000ms ease-in-out;
+  transform-origin: 0 50%;
+  transform: scaleX(1); 
+}

@@ -30,7 +30,7 @@ const FooterSocial = ({ footerSocialLink }: FooterSocialProps) => {
                 <a
                   href={Item?.fields?.socialChannelUrl?.value}
                   target="_blank"
-                  className="focus:outline-none"
+                  className="focus:outline-none hover:!no-underline"
                   rel="noreferrer"
                 >
                   <Icon className={`icon-${Item.fields.socialChannel.value}`} />
