@@ -364,14 +364,11 @@ const Header = ({ fields }: HeaderProps) => {
         )}
       >
         <div className="px-[25px] relative h-[calc(100%-228px)] smd:!h-full overflow-x-hidden overflow-y-auto scroll-auto mt-[-1px] l:hidden bg-white no-scrollbar">
-          <a className="bg-red !w-fit cursor-pointer">
+          <a className="!w-fit mt-[18px] cursor-pointer">
             <Icon
-              className={clsx(
-                'icon-arrow-left text-black opacity-100 w-fit visible mt-[18px] text-base',
-                {
-                  'opacity-0 invisible': !selectedPrimaryLink,
-                }
-              )}
+              className={clsx('icon-arrow-left text-black opacity-100 w-fit visible  text-base', {
+                'opacity-0 invisible': !selectedPrimaryLink,
+              })}
               onClick={() => {
                 if (selectedSecondaryLink) {
                   setSelectedSecondaryLink(false);
@@ -381,7 +378,7 @@ const Header = ({ fields }: HeaderProps) => {
               }}
             ></Icon>
           </a>
-          <div className="relative mt-[7px]">
+          <div className="relative ml-[-1px] mr-4 mt-[3px] l:ml-0 l:mr-0 l:mt-[7px]">
             {renderLinks({
               isPrimary: true,
               navList: fields?.navigationEntries?.filter((nav) => !nav.hideInNavigation),
