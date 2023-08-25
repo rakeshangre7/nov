@@ -116,5 +116,8 @@ module.exports = {
       xxxs: '0.25rem',
       0: '0px',
     },
+    transitionDuration: {
+      6000: '6000ms',
+    },
   },
 };
