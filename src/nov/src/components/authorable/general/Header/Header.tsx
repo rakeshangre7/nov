@@ -474,7 +474,8 @@ const Header = ({ fields }: HeaderProps) => {
                   className={clsx(
                     'absolute transition-all ease-in-out duration-200 invisible top-[47px] right-[-63px] opacity-0 w-[256px]',
                     {
-                      'smd:visible smd:opacity-100 smd:h-[228px] smd:z-[4] drop-shadow-[0_0_5px_rgba(51,51,51,0.22)] before:content("") before:border-[7px] before:absolute before:top-[calc(7px*-2)] before:border-x-transparent before:border-t-transparent before:border-b-white  before:right-[calc(25%+7px)]': isUserProfileClick,
+                      'smd:visible smd:opacity-100 smd:h-[228px] smd:z-[4] drop-shadow-[0_0_5px_rgba(51,51,51,0.22)] before:content("") before:border-[7px] before:absolute before:top-[calc(7px*-2)] before:border-x-transparent before:border-t-transparent before:border-b-white  before:right-[calc(25%+7px)]':
+                        isUserProfileClick,
                     }
                   )}
                 >
