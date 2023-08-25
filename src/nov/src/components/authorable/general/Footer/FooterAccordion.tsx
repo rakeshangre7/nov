@@ -72,7 +72,7 @@ const FooterAccordion = ({ FMItem, index }: FooterAccordionProps) => {
           {isDesktop ? (
             isRedirect ? (
               <Button
-                className="w-48 lg:w-64 flex order-3 font-semibold lg:pb-8 hover:underline"
+                className="flex order-3 font-semibold lg:pb-8 hover:underline"
                 field={{
                   value: {
                     href: FMItem?.primaryURL?.path,
@@ -87,7 +87,7 @@ const FooterAccordion = ({ FMItem, index }: FooterAccordionProps) => {
             ) : (
               FMItem?.redirectPageURL?.jsonValue && (
                 <Button
-                  className="w-48 lg:w-64 flex order-3 font-semibold lg:pb-8 hover:underline"
+                  className="flex order-3 font-semibold lg:pb-8 hover:underline"
                   field={FMItem?.redirectPageURL?.jsonValue}
                   text={FMItem?.menuTitle?.jsonValue.value}
                   variant="tertiary"
