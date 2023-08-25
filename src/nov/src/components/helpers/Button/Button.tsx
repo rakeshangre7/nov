@@ -26,13 +26,13 @@ const buttonVariants = tv({
   variants: {
     type: {
       button:
-        'font-primary font-semibold items-center inline-flex min-h-[46px] rounded-none leading-16 transition ease-in-out delay-15 px-[30px] text-base justify-center py-[15px] text-white no-underline bg-primary cursor-pointer lg:hover:bg-red-dark basicFocus',
+        'font-primary font-semibold items-center inline-flex min-h-[46px] rounded-none leading-16 transition ease-in-out delay-15 px-[30px] text-base justify-center py-[15px] text-white no-underline bg-primary cursor-pointer lg:hover:bg-red-dark basicFocus hover:!no-underline',
       primary:
-        'inline-flex font-primary text-black text-base  cursor-pointer before:bg-primary lg:hover:before:w-full active:before:w-full active:before:bg-red-dark relative font-medium leading-16 items-center transition-width ease-in-out duration-100 before:transition-width before:ease-in-out before:duration-100 pt-[5px] pb-[8px]  before:absolute before:bottom-0 before:left-0 before:w-[40px] before:h-[3px] before:content-[""] basicFocus',
+        'inline-flex font-primary text-black text-base  cursor-pointer before:bg-primary lg:hover:before:w-full active:before:w-full active:before:bg-red-dark relative font-medium leading-16 items-center transition-width ease-in-out duration-100 before:transition-width before:ease-in-out before:duration-100 pt-[5px] pb-[8px]  before:absolute before:bottom-0 before:left-0 before:w-[40px] before:h-[3px] before:content-[""] basicFocus hover:!no-underline',
       secondary:
-        'inline-flex font-primary justify-between relative font-semibold text-black leading-14 items-center text-sm transition-width ease-in-out duration-100 cursor-pointer lg:hover:text-primary lg:active:text-primary basicFocus',
+        'inline-flex font-primary justify-between relative font-semibold text-black leading-14 items-center text-sm transition-width ease-in-out duration-100 cursor-pointer lg:hover:text-primary lg:active:text-primary basicFocus hover:!no-underline',
       tertiary:
-        'inline-flex font-primary  justify-between relative font-normal leading-16 text-black items-center text-base transition-width ease-in-out duration-100 cursor-pointer lg:hover:text-gray-lighter lg:active:text-primary basicFocus',
+        'inline-flex font-primary  justify-between relative font-normal leading-16 text-black items-center text-base transition-width ease-in-out duration-100 cursor-pointer lg:hover:text-gray-lighter lg:active:text-primary basicFocus hover:!no-underline',
       standard:
         'inline-flex font-medium leading-24 items-center text-sm transition-width ease-in-out duration-100 cursor-pointer text-gray-dark lg:hover:underline basicFocus',
     },
