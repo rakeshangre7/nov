@@ -160,6 +160,7 @@ const Footer = ({ fields }: FooterProps): JSX.Element => {
             </ul>
           </nav>
         </div>
+
         {footerItem?.footerSocialLinks?.jsonValue?.length > 0 ? (
           <FooterSocial footerSocialLink={footerItem?.footerSocialLinks} />
         ) : (
