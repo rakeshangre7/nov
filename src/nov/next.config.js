@@ -30,7 +30,7 @@ const nextConfig = {
   },
 
   images: {
-    domains: ['www.nov.com'],
+    domains: ['www.nov.com', 'edge.sitecorecloud.io'],
     path: `${publicUrl}/_next/image`,
     dangerouslyAllowSVG: true,
   },
