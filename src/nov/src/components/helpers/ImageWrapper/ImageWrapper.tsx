@@ -5,7 +5,6 @@ import {
   useSitecoreContext,
 } from '@sitecore-jss/sitecore-jss-nextjs';
 import NextImage from 'next/image';
-import { useRouter } from 'next/router';
 import { KeyboardEventHandler, MouseEventHandler } from 'react';
 
 /**
@@ -64,8 +63,6 @@ const ImageWrapper = ({
   onKeyUp,
 }: ImageWrapperProps): JSX.Element => {
   const sitecoreContext = useSitecoreContext();
-  const router = useRouter();
-  const routerPagePath = router.asPath;
 
   const isExperienceEditor = sitecoreContext?.sitecoreContext?.pageEditing;
   const isPreviewMode = sitecoreContext?.sitecoreContext?.pageState;
@@ -80,10 +77,9 @@ const ImageWrapper = ({
   if (
     (imgSrc && imgSrc.indexOf('.svg') !== -1) ||
     isExperienceEditor ||
-    isPreviewMode === 'preview' ||
-    routerPagePath == '/api/AgentDashboard-GeneratePreview'
+    isPreviewMode === 'preview'
   ) {
-    return <SitecoreImage field={field} className={className} />;
+    return <SitecoreImage field={field} className={className} editable={editable} />;
   }
 
   // If the image has no value, return nothing

@@ -165,6 +165,7 @@ const Header = ({ fields }: HeaderProps) => {
               field={activeNavbarStoryDetail?.cardImage}
               tabIndex={0}
               className="basicFocus cursor-pointer"
+              editable={false}
               onClick={() => {
                 if (activeNavbarStoryDetail?.featuredStoryCTALink?.value?.href) {
                   router.push(activeNavbarStoryDetail?.featuredStoryCTALink?.value?.href);
@@ -427,11 +428,15 @@ const Header = ({ fields }: HeaderProps) => {
             {!isExpanded ? (
               <>
                 {fields?.siteLogoTransparent?.value?.src && (
-                  <ImageWrapper field={fields?.siteLogoTransparent} />
+                  <ImageWrapper field={fields?.siteLogoTransparent} editable={false} />
                 )}
               </>
             ) : (
-              <> {fields?.siteLogo?.value?.src && <ImageWrapper field={fields?.siteLogo} />}</>
+              <>
+                {fields?.siteLogo?.value?.src && (
+                  <ImageWrapper field={fields?.siteLogo} editable={false} />
+                )}
+              </>
             )}
           </a>
           <ul className="flex items-center">
