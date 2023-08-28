@@ -122,7 +122,7 @@ const FooterAccordion = ({ FMItem, index }: FooterAccordionProps) => {
         <div
           ref={descriptionref}
           id={`body_${index}`}
-          className="bg-gray-lightest lg:bg-transparent overflow-hidden lg:overflow-visible duration-300 h-auto"
+          className="bg-gray-lightest lg:bg-transparent overflow-hidden lg:overflow-visible duration-300 lg:duration-0 h-auto"
           style={
             isOpen
               ? height
