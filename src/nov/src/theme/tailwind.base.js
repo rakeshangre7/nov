@@ -119,5 +119,14 @@ module.exports = {
     transitionDuration: {
       6000: '6000ms',
     },
+    keyframes: {
+      progress: {
+        from: { width: '0%' },
+        to: { width: '100%' },
+      },
+    },
+    animation: {
+      progress: 'progress 6s linear forwards',
+    },
   },
 };
