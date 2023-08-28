@@ -1,5 +1,7 @@
 // Global
 import { DocsContainer, DocsContainerProps } from '@storybook/blocks';
+import 'slick-carousel/slick/slick.css';
+import 'slick-carousel/slick/slick-theme.css';
 import type { Preview } from '@storybook/react';
 import { themes } from '@storybook/theming';
 console.log(themes);
