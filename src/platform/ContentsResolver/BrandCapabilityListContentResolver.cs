@@ -20,6 +20,8 @@ namespace XmCloudnov.ContentsResolver
         public override object ResolveContents(Rendering rendering, IRenderingConfiguration renderingConfig)
         {
             var item = RenderingContext.Current.Rendering.Item;
+            if (item == null)
+                return null;
             var processItem = ProcessItem(item, rendering, renderingConfig);
 
             BrandCapabilityListModel model = new BrandCapabilityListModel

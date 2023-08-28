@@ -7,7 +7,7 @@
   }
   h2,
   .h2 {
-    @apply font-primary font-bold text-6xl leading-48 lg:text-7xl lg:leading-56 tracking-normal;
+    @apply font-primary font-bold text-4xl leading-40 sm:text-6xl sm:leading-48 lg:text-7xl lg:leading-56 tracking-normal;
   }
   h3,
   .h3 {
