@@ -1,11 +1,12 @@
 import Icon from '@/components/helpers/Icon/Icon';
-import { Field, ImageField, LinkField, NextImage, Text } from '@sitecore-jss/sitecore-jss-nextjs';
+import { Field, ImageField, LinkField, Text } from '@sitecore-jss/sitecore-jss-nextjs';
 import clsx from 'clsx';
 import React, { useEffect, useRef, useState, KeyboardEvent } from 'react';
 import UserAccount from './UserAccount';
 import Button from '@/components/helpers/Button/Button';
 import { useBreakpoints } from '@/components/utility/breakpoints.jsx';
 import { useRouter } from 'next/router';
+import ImageWrapper from '@/components/helpers/ImageWrapper/ImageWrapper';
 
 // Ideally, all this is from generated Typescript code from Sitecore and we're not manually defining types.
 type renderLinkProps = {
@@ -160,7 +161,7 @@ const Header = ({ fields }: HeaderProps) => {
       <div className="w-[389px] h-[700px] bg-white fixed border-l-[1px] border-gray-light top-[65px] z-[3] right-0 l:w-[464px] flex justify-between flex-col">
         <div>
           {activeNavbarStoryDetail?.cardImage?.value?.src && (
-            <NextImage
+            <ImageWrapper
               field={activeNavbarStoryDetail?.cardImage}
               tabIndex={0}
               className="basicFocus cursor-pointer"
@@ -169,7 +170,7 @@ const Header = ({ fields }: HeaderProps) => {
                   router.push(activeNavbarStoryDetail?.featuredStoryCTALink?.value?.href);
                 }
               }}
-              onKeyUp={(e) => {
+              onKeyUp={(e: KeyboardEvent) => {
                 if (
                   e.keyCode === 13 &&
                   activeNavbarStoryDetail?.featuredStoryCTALink?.value?.href
@@ -426,11 +427,11 @@ const Header = ({ fields }: HeaderProps) => {
             {!isExpanded ? (
               <>
                 {fields?.siteLogoTransparent?.value?.src && (
-                  <NextImage field={fields?.siteLogoTransparent} />
+                  <ImageWrapper field={fields?.siteLogoTransparent} />
                 )}
               </>
             ) : (
-              <> {fields?.siteLogo?.value?.src && <NextImage field={fields?.siteLogo} />}</>
+              <> {fields?.siteLogo?.value?.src && <ImageWrapper field={fields?.siteLogo} />}</>
             )}
           </a>
           <ul className="flex items-center">
