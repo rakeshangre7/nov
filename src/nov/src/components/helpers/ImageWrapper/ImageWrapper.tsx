@@ -24,7 +24,9 @@ interface SizedImageField extends ImageField {
     width?: string;
   };
 }
-
+type NextImageLayoutOption = 'intrinsic' | 'responsive' | 'fill';
+type ObjectFitOption = 'fill' | 'contain' | 'cover' | 'none' | 'scale-down';
+type ObjectPositionOption = 'top' | 'bottom' | 'left' | 'right' | 'center';
 interface AnyNextImage {
   alt: string;
   height?: number;
@@ -35,6 +37,10 @@ interface AnyNextImage {
   tabIndex?: number;
   onClick?: MouseEventHandler;
   onKeyUp?: KeyboardEventHandler;
+  layout?: NextImageLayoutOption;
+  objectFit?: ObjectFitOption;
+  objectPosition?: ObjectPositionOption;
+  priority?: boolean;
 }
 
 export interface ImageWrapperProps {
@@ -44,6 +50,9 @@ export interface ImageWrapperProps {
   editable?: boolean;
   onClick?: MouseEventHandler;
   onKeyUp?: KeyboardEventHandler;
+  layout?: NextImageLayoutOption;
+  objectPosition?: ObjectPositionOption;
+  priority?: boolean;
 }
 
 // const publicUrl = new URL(process.env.PUBLIC_URL as string);
@@ -61,6 +70,9 @@ const ImageWrapper = ({
   tabIndex,
   onClick,
   onKeyUp,
+  layout,
+  objectPosition,
+  priority,
 }: ImageWrapperProps): JSX.Element => {
   const sitecoreContext = useSitecoreContext();
 
@@ -89,14 +101,21 @@ const ImageWrapper = ({
   const nextImageProps: AnyNextImage = {
     src: field?.value?.src,
     alt: field?.value?.alt || '',
-    height: toNumber(field?.value?.height),
-    width: toNumber(field?.value?.width),
     className,
     editable,
     tabIndex,
     onClick,
     onKeyUp,
+    layout,
+    priority,
   };
+  if (layout === 'fill') {
+    nextImageProps.objectFit = 'cover';
+    nextImageProps.objectPosition = objectPosition;
+  } else {
+    nextImageProps.height = toNumber(field?.value?.height);
+    nextImageProps.width = toNumber(field?.value?.width);
+  }
 
   return <NextImage {...nextImageProps} />;
 };
