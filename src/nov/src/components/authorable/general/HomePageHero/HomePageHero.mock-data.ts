@@ -21,81 +21,81 @@ const defaultData: HomePageHeroProps = {
         },
         slides: {
           items: [
-            // {
-            //   addGradient: {
-            //     value: '1',
-            //   },
-            //   image: {
-            //     height: 1080,
-            //     width: 1920,
-            //     src: 'https://edge.sitecorecloud.io/nationaloile493-nov-dev-59ee/media/nov/Images/About/News/News-Details/NOV-launches-sour-service-drill-stem-products-to-better-suit-your-drilling-conditions/Grant-Prideco-Sour-Serrvice.jpg',
-            //     alt: 'Grant Prideco Sour Serrvice',
-            //   },
-            //   imageCropRegion: {
-            //     value: '',
-            //   },
-            //   backgroundVideo: {
-            //     value: '',
-            //   },
-            //   pages: {
-            //     items: [
-            //       {
-            //         pageTitle: {
-            //           value:
-            //             'NOV launches sour service drill stem products to better suit your drilling conditions',
-            //         },
-            //         subheading: {
-            //           value:
-            //             '<p>Grant Prideco offers grades to help you drill safely and efficiently in harsh, sour conditions.</p>',
-            //         },
-            //         featuredStoryCtaText: {
-            //           value: 'Learn More',
-            //         },
-            //         url: {
-            //           path: '/About/News/NOV-launches-sour-service-drill-stem-products-to-better-suit-your-drilling-conditions',
-            //           url: 'https://xmc-nationaloile493-nov-dev.sitecorecloud.io/en-US/About/News/NOV-launches-sour-service-drill-stem-products-to-better-suit-your-drilling-conditions',
-            //         },
-            //       },
-            //     ],
-            //   },
-            // },
-            // {
-            //   addGradient: {
-            //     value: '1',
-            //   },
-            //   image: {
-            //     height: 1080,
-            //     width: 1920,
-            //     src: 'https://edge.sitecorecloud.io/nationaloile493-nov-dev-59ee/media/nov/Images/About/News/News-Details/NOV-launches-new-1-in-ION-Alpha-cutter-for-drill-bits/ION-ALPHA-render.jpg',
-            //     alt: 'ION cutters including Alpha render',
-            //   },
-            //   imageCropRegion: {
-            //     value: '',
-            //   },
-            //   backgroundVideo: {
-            //     value: '',
-            //   },
-            //   pages: {
-            //     items: [
-            //       {
-            //         pageTitle: {
-            //           value: 'NOV launches new 1-in. ION Alpha cutter for drill bits',
-            //         },
-            //         subheading: {
-            //           value:
-            //             '<p>Larger ION Alpha cutters deliver higher ROP in applications where conventional-sized cutters underperform</p>',
-            //         },
-            //         featuredStoryCtaText: {
-            //           value: 'Learn More',
-            //         },
-            //         url: {
-            //           path: '/About/News/NOV-launches-new-1-in-ION-Alpha-cutter-for-drill-bits',
-            //           url: 'https://xmc-nationaloile493-nov-dev.sitecorecloud.io/en-US/About/News/NOV-launches-new-1-in-ION-Alpha-cutter-for-drill-bits',
-            //         },
-            //       },
-            //     ],
-            //   },
-            // },
+            {
+              addGradient: {
+                value: '1',
+              },
+              image: {
+                height: 1080,
+                width: 1920,
+                src: 'https://edge.sitecorecloud.io/nationaloile493-nov-dev-59ee/media/nov/Images/About/News/News-Details/NOV-launches-sour-service-drill-stem-products-to-better-suit-your-drilling-conditions/Grant-Prideco-Sour-Serrvice.jpg',
+                alt: 'Grant Prideco Sour Serrvice',
+              },
+              imageCropRegion: {
+                value: '',
+              },
+              backgroundVideo: {
+                value: '',
+              },
+              pages: {
+                items: [
+                  {
+                    pageTitle: {
+                      value:
+                        'NOV launches sour service drill stem products to better suit your drilling conditions',
+                    },
+                    subheading: {
+                      value:
+                        '<p>Grant Prideco offers grades to help you drill safely and efficiently in harsh, sour conditions.</p>',
+                    },
+                    featuredStoryCtaText: {
+                      value: 'Learn More',
+                    },
+                    url: {
+                      path: '/About/News/NOV-launches-sour-service-drill-stem-products-to-better-suit-your-drilling-conditions',
+                      url: 'https://xmc-nationaloile493-nov-dev.sitecorecloud.io/en-US/About/News/NOV-launches-sour-service-drill-stem-products-to-better-suit-your-drilling-conditions',
+                    },
+                  },
+                ],
+              },
+            },
+            {
+              addGradient: {
+                value: '1',
+              },
+              image: {
+                height: 1080,
+                width: 1920,
+                src: 'https://edge.sitecorecloud.io/nationaloile493-nov-dev-59ee/media/nov/Images/About/News/News-Details/NOV-launches-new-1-in-ION-Alpha-cutter-for-drill-bits/ION-ALPHA-render.jpg',
+                alt: 'ION cutters including Alpha render',
+              },
+              imageCropRegion: {
+                value: '',
+              },
+              backgroundVideo: {
+                value: '',
+              },
+              pages: {
+                items: [
+                  {
+                    pageTitle: {
+                      value: 'NOV launches new 1-in. ION Alpha cutter for drill bits',
+                    },
+                    subheading: {
+                      value:
+                        '<p>Larger ION Alpha cutters deliver higher ROP in applications where conventional-sized cutters underperform</p>',
+                    },
+                    featuredStoryCtaText: {
+                      value: 'Learn More',
+                    },
+                    url: {
+                      path: '/About/News/NOV-launches-new-1-in-ION-Alpha-cutter-for-drill-bits',
+                      url: 'https://xmc-nationaloile493-nov-dev.sitecorecloud.io/en-US/About/News/NOV-launches-new-1-in-ION-Alpha-cutter-for-drill-bits',
+                    },
+                  },
+                ],
+              },
+            },
             {
               addGradient: {
                 value: '1',
