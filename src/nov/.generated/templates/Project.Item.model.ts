@@ -15,29 +15,29 @@ import { ComponentRendering, RouteData, Field, ImageField, FileField, LinkField 
 import { DefaultComponentProps } from '@/lib/component-props';
 
 
-export namespace Project.Item.NovShared.ItemTypes.Fields {
-    export type 403AccessDenied = 
-            Project.Item.NovCom.ItemTypes.Fields.ContentPage & { 
-        fields?: {  
-        }
- }; 
-}
+// export namespace Project.Item.NovShared.ItemTypes.Fields {
+//     export type 403AccessDenied = 
+//             Project.Item.NovCom.ItemTypes.Fields.ContentPage & { 
+//         fields?: {  
+//         }
+//  }; 
+// }
 
-export namespace Project.Item.NovShared.ItemTypes.Fields {
-    export type 404PageNotFound = 
-            Project.Item.NovCom.ItemTypes.Fields.ContentPage & { 
-        fields?: {  
-        }
- }; 
-}
+// export namespace Project.Item.NovShared.ItemTypes.Fields {
+//     export type 404PageNotFound = 
+//             Project.Item.NovCom.ItemTypes.Fields.ContentPage & { 
+//         fields?: {  
+//         }
+//  }; 
+// }
 
-export namespace Project.Item.NovShared.ItemTypes.Fields {
-    export type 410PageGone = 
-            Project.Item.NovCom.ItemTypes.Fields.ContentPage & { 
-        fields?: {  
-        }
- }; 
-}
+// export namespace Project.Item.NovShared.ItemTypes.Fields {
+//     export type 410PageGone = 
+//             Project.Item.NovCom.ItemTypes.Fields.ContentPage & { 
+//         fields?: {  
+//         }
+//  }; 
+// }
 
 export namespace Project.Item.NovShared.RenderingParameters.Fields {
     export type AbsoluteUrls = { 

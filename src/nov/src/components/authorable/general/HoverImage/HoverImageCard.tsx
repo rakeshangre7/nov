@@ -1,9 +1,10 @@
 import Button from '@/components/helpers/Button/Button';
 import RichTextA11yWrapper from '@/components/helpers/RichTextA11yWrapper/RichTextA11yWrapper';
-import { NextImage, Text } from '@sitecore-jss/sitecore-jss-nextjs';
+import { Text } from '@sitecore-jss/sitecore-jss-nextjs';
 import clsx from 'clsx';
 import React, { useEffect, useState } from 'react';
 import { HoverImage } from './HoverImage';
+import ImageWrapper from '@/components/helpers/ImageWrapper/ImageWrapper';
 interface HoverImageCardProps {
   imageObject: HoverImage;
 }
@@ -33,7 +34,7 @@ const HoverImageCard = ({ imageObject }: HoverImageCardProps) => {
       )}
     >
       {imageObject?.image?.value?.src && (
-        <NextImage
+        <ImageWrapper
           field={imageObject.image}
           className="absolute left-0 top-0 w-full -z-[1] h-[270px] sm:h-[330px] smd:h-[520px]"
         />
