@@ -2,6 +2,9 @@ import { TitleBlockProps } from './TitleBlock';
 
 // Realistically this is going to have a lot more data from Sitecore or XM Cloud, but this is a good example mock data set.
 const defaultData: TitleBlockProps = {
+  uid: '0e052187-985c-463e-a0f5-527bb8f6027c',
+  componentName: 'TitleBlock',
+  dataSource: '{274BB447-32EB-4791-B569-3F2E71225931}',
   params: {
     Styles: 'position-center',
   },
@@ -31,8 +34,6 @@ export const leftAlignData: TitleBlockProps = {
   dataSource: '{274BB447-32EB-4791-B569-3F2E71225931}',
   params: {
     Styles: 'position-left',
-    DynamicPlaceholderId: '1',
-    FieldNames: 'Default',
   },
   fields: {
     title: {
