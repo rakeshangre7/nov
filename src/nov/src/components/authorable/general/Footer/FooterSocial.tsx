@@ -21,7 +21,7 @@ export type FooterSocialProps = {
 };
 const FooterSocial = ({ footerSocialLink }: FooterSocialProps) => {
   return (
-    <div className="grow flex items-center align-middle lg:order-2 order-5 bg-white lg:bg-gray-lightest py-11 lg:py-9">
+    <div className="grow flex items-center align-middle order-5 lg:order-2 bg-white lg:bg-gray-lightest py-[37px] lg:pt-[30px] lg:pb-[29px]">
       <ul className="w-full flex text-4xl justify-around md:w-3/5">
         {Array.isArray(footerSocialLink.jsonValue) &&
           footerSocialLink?.jsonValue.map((Item: SocialLinks, index: number) => (

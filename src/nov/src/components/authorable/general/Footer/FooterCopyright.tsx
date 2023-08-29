@@ -18,8 +18,8 @@ export type FooterCopyrightProps = {
 const FooterCopyright = ({ footerLinks, copyrightText }: FooterCopyrightProps) => {
   return (
     <div className="bg-gray-lightest order-6 w-full">
-      <div className="container max-w-full px-8 lg:px-20 pt-6 pb-6 lg:py-8 md:flex md:justify-between">
-        <ul className="flex flex-wrap pb-4 md:pb-0">
+      <div className="container max-w-full px-8 lg:px-20 py-7 lg:py-8 md:flex md:justify-between">
+        <ul className="flex flex-wrap">
           {footerLinks?.map(
             (Links: LinksItem, index: number) =>
               Links?.fields?.link.value.href && (
@@ -41,7 +41,7 @@ const FooterCopyright = ({ footerLinks, copyrightText }: FooterCopyrightProps) =
           field={copyrightText}
           editable={true}
           tag="p"
-          className="text-black text-sm leading-24"
+          className="text-black text-sm leading-24 mb-[9px] md:mb-0"
         />
       </div>
     </div>
