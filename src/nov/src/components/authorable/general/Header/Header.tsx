@@ -526,6 +526,7 @@ const Header = ({ fields }: HeaderProps) => {
       </div>
     );
   };
+  if (fields === null || fields === undefined) return <></>;
   return (
     <>
       <div className="w-full h-full l:h-fit" ref={navigationRef}>

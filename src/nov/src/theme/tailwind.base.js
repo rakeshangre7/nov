@@ -34,6 +34,7 @@ module.exports = {
       ...COLORS,
     },
     fontSize: {
+      '9xl': pxToRem(104),
       '8xl': pxToRem(80),
       '7xl': pxToRem(48),
       '6xl': pxToRem(40),
@@ -50,6 +51,7 @@ module.exports = {
       '3xs': pxToRem(10),
     },
     lineHeight: {
+      104: pxToRem(104),
       80: pxToRem(80),
       56: pxToRem(56),
       52: pxToRem(52),
@@ -64,6 +66,7 @@ module.exports = {
       28: pxToRem(28),
       24: pxToRem(24),
       16: pxToRem(16),
+      14: pxToRem(14),
       12: pxToRem(12),
       0: 0,
     },
