@@ -5,6 +5,6 @@ plugins:
   - typescript
   - typescript-operations
   - typed-document-node
-cacheDir: .generated
+cacheDir: .generated/graphql
 config:
   useIndexSignature: true
