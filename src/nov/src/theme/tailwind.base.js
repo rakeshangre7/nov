@@ -16,7 +16,7 @@ module.exports = {
       square: '1 / 1',
     },
     fontFamily: {
-      primary: ['Source Sans Pro', 'sans-serif'],
+      primary: ['Source Sans Pro', 'Calibri', 'Apple SD Gothic Neo', 'Helvetica', 'Arial'],
       icomoon: ['icomoon'],
     },
     borderWidth: {

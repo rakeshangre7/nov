@@ -98,7 +98,7 @@ const HomePageHero = ({ fields }: HomePageHeroProps): JSX.Element => {
     setCurrentIndex(0);
 
     // Automatically go to the next item every 6 seconds
-    const interval = setInterval(nextItem, 6000);
+    const interval = setInterval(nextItem, 60000);
 
     // Clean up the interval when the component unmounts
     return () => clearInterval(interval);
@@ -120,6 +120,10 @@ const HomePageHero = ({ fields }: HomePageHeroProps): JSX.Element => {
   const isNextActive =
     containerRef.current &&
     scrollPosition < containerRef.current.scrollWidth - containerRef.current.clientWidth;
+  function replaceSpacesWithPlus(inputString: string) {
+    return inputString.replace(/ /g, '+');
+  }
+
   if (fields === null || fields === undefined) return <></>;
 
   return (
@@ -155,9 +159,7 @@ const HomePageHero = ({ fields }: HomePageHeroProps): JSX.Element => {
                         />
                       </div>
                     )}
-
-                    <div className="B3-home-page-hero__gradient"></div>
-
+                    <div className="B3-home-page-hero__gradient absolute w-full h-full z-1 before:content after:absolute after:w-full after:h-full after:bottom-0 after:left-0 after:bg-gradient-to-r after:from-[#282828] after:to-[#51515100] opacity-40"></div>
                     <div className="relative z-1 w-full">
                       <div className="container">
                         <Text
@@ -270,7 +272,7 @@ const HomePageHero = ({ fields }: HomePageHeroProps): JSX.Element => {
                       className="!font-normal !text-base"
                       field={{
                         value: {
-                          href: searchPage + Item.replace(/ /g, '+'),
+                          href: searchPage + replaceSpacesWithPlus(Item),
                           text: Item,
                         },
                       }}
