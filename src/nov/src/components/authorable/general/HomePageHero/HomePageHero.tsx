@@ -98,31 +98,55 @@ const HomePageHero = ({ fields }: HomePageHeroProps): JSX.Element => {
     setCurrentIndex(0);
 
     // Automatically go to the next item every 6 seconds
-    const interval = setInterval(nextItem, 60000);
+    const interval = setInterval(nextItem, 6000);
 
     // Clean up the interval when the component unmounts
     return () => clearInterval(interval);
   }, [HeroSlider.length]); // Empty dependency array ensures the effect runs only after initial render
-  const containerRef = useRef<HTMLDivElement>(null);
-  const [scrollPosition, setScrollPosition] = useState(0);
+  const containerRef = useRef<HTMLDivElement | null>(null);
+  // const [scrollPosition, setScrollPosition] = useState(0);
 
-  const handleScroll = (scrollOffset: number) => {
-    if (containerRef.current) {
-      containerRef.current.scrollTo({
-        left: containerRef.current.scrollLeft + scrollOffset,
-        behavior: 'smooth',
-      });
-      setScrollPosition(containerRef.current.scrollLeft);
-    }
-  };
-  const isPreviousActive = scrollPosition > 0;
+  // const handleScroll = (scrollOffset: number) => {
+  //   if (containerRef.current) {
+  //     containerRef.current.scrollTo({
+  //       left: containerRef.current.scrollLeft + scrollOffset,
+  //       behavior: 'smooth',
+  //     });
+  //     setScrollPosition(containerRef.current.scrollLeft);
+  //   }
+  // };
+  // const isPreviousActive = scrollPosition > 0;
 
-  const isNextActive =
-    containerRef.current &&
-    scrollPosition < containerRef.current.scrollWidth - containerRef.current.clientWidth;
+  // const isNextActive =
+  //   containerRef.current &&
+  //   scrollPosition < containerRef.current.scrollWidth - containerRef.current.clientWidth;
   function replaceSpacesWithPlus(inputString: string) {
     return inputString.replace(/ /g, '+');
   }
+
+  const [isScrollablePrev, setIsScrollablePrev] = useState<boolean>(false);
+  const [isScrollableNext, setIsScrollableNext] = useState<boolean>(true); // Assuming it's initially scrollable
+
+  const handlePrevClick = () => {
+    // containerRef.current.scrollLeft = 0; // Set scroll position to 0
+    containerRef.current?.scrollTo({ left: 0 });
+  };
+
+  const handleNextClick = () => {
+    // containerRef.current.scrollLeft += 200; // Adjust scroll distance as needed
+    containerRef.current?.scrollBy({ left: 200 });
+  };
+  useEffect(() => {
+    const container = containerRef.current;
+    if (container) {
+      const handleScroll = () => {
+        setIsScrollablePrev(container.scrollLeft > 0);
+        setIsScrollableNext(container.scrollWidth > container.clientWidth + container.scrollLeft);
+      };
+
+      container.addEventListener('scroll', handleScroll);
+    }
+  }, []);
 
   if (fields === null || fields === undefined) return <></>;
 
@@ -205,13 +229,13 @@ const HomePageHero = ({ fields }: HomePageHeroProps): JSX.Element => {
                   <button
                     key={index}
                     className={`${
-                      index === currentIndex ? 'active' : ''
+                      index === currentIndex && 'active'
                     } text-white text-left text-sm w-1/4 h-auto relative before:content before:absolute before:w-full before:bottom-0 before:left-0  before:border-b-[2px] before:border-solid before:border-gray 
                   after:content after:absolute after:w-0 after:bottom-0 after:left-0 pb-[18px] after:border-b-[2px] after:border-solid after:border-red after:transition-width after:!duration-6000 after:ease-linear
                   `}
                     onClick={() => goToItem(index)}
                   >
-                    <span>0{index + 1}</span>
+                    <span className="font-bold mr-3">0{index + 1}</span>
                     <Text
                       field={Item?.pages?.items[0]?.pageTitle}
                       editable={false}
@@ -225,16 +249,11 @@ const HomePageHero = ({ fields }: HomePageHeroProps): JSX.Element => {
         <div className="md:flex w-full absolute right-0 bottom-0 h-[100px] bg-white lg:w-[816px] ">
           <div
             onClick={() => {
-              console.log('Test');
+              console.log('Search Popup');
             }}
             className="h-1/2 md:h-full flex items-center justify-center flex-shrink-0 relative after:absolute after:bottom-0 after:left-6 after:right-6 after:border-b after:border-b-gray after:opacity-25 md:after:border-0 md:pr-4"
           >
-            <button
-              className="h-[30px] w-[30px] text-xl text-red mx-2.5"
-              onClick={() => {
-                console.log('Test');
-              }}
-            >
+            <button className="h-[30px] w-[30px] text-xl text-red mx-2.5 basicFocus">
               <Icon className="icon-search" />
             </button>
             <Text
@@ -246,30 +265,33 @@ const HomePageHero = ({ fields }: HomePageHeroProps): JSX.Element => {
           </div>
           <div className="flex w-full h-1/2 md:h-full relative [&>button]:text-[35px] [&>button]:w-10 [&>button]:h-full [&>button]:text-red items-center overflow-hidden ">
             <button
-              className={`${isPreviousActive ? 'active' : ''} left-0`}
-              onClick={() => handleScroll(-100)}
+              className={`outline-none ${isScrollablePrev && 'active'}`}
+              onClick={handlePrevClick}
+              disabled={!isScrollablePrev}
             >
               <Icon className="icon-chevron-left" />
             </button>
 
             <div
-              className="w-[calc(100%-108px)] scrollable-content flex overflow-x-auto overflow-y-hidden no-scrollbar ml-[108px]"
+              className="w-[calc(100%-108px)] h-full scrollable-content flex overflow-x-auto overflow-y-hidden no-scrollbar ml-[108px] scroll-smooth [&.>div]:items-center"
               ref={containerRef}
             >
-              <div
+              <Text
+                tag="div"
                 className={`${
-                  isPreviousActive && 'active'
-                } absolute left-14 text-red font-semibold`}
-              >
-                Trending
-              </div>
+                  isScrollablePrev && 'active'
+                } absolute left-14 [&.active]:left-9 text-red font-semibold`}
+                field={fields?.data?.item?.trendingText}
+                editable={true}
+                encode={false}
+              />
 
               {Array.isArray(trendingSearchKeywordsList) &&
                 trendingSearchKeywordsList.map((Item, index: number) => (
-                  <div key={index} className="px-4 flex-shrink-0 ">
+                  <div key={index} className="px-4 flex-shrink-0">
                     <Button
                       auto
-                      className="!font-normal !text-base"
+                      className="!font-normal !text-base basicFocus"
                       field={{
                         value: {
                           href: searchPage + replaceSpacesWithPlus(Item),
@@ -283,8 +305,9 @@ const HomePageHero = ({ fields }: HomePageHeroProps): JSX.Element => {
                 ))}
             </div>
             <button
-              className={`${isNextActive ? 'active' : ''} right-0`}
-              onClick={() => handleScroll(100)}
+              className={`outline-none ${isScrollableNext && 'active'}`}
+              onClick={handleNextClick}
+              disabled={!isScrollableNext}
             >
               <Icon className="icon-chevron-right" />
             </button>
