@@ -1,4 +1,4 @@
-export interface VideoPlayerProps {
+export interface Mp4VideoPlayerProps {
   // fields: Field;
   field: {
     videoid: {
@@ -17,7 +17,7 @@ export interface VideoPlayerProps {
   playsinline?: boolean;
 }
 
-const VideoPlayer = ({
+const Mp4VideoPlayer = ({
   field,
   className,
   controls,
@@ -26,7 +26,7 @@ const VideoPlayer = ({
   loop,
   playsinline,
   muted,
-}: VideoPlayerProps): JSX.Element => {
+}: Mp4VideoPlayerProps): JSX.Element => {
   return (
     <video
       width="640"
@@ -46,4 +46,4 @@ const VideoPlayer = ({
   );
 };
 
-export default VideoPlayer;
+export default Mp4VideoPlayer;

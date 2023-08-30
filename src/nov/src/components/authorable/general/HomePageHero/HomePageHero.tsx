@@ -4,7 +4,7 @@ import Button from '@/components/helpers/Button/Button';
 import { Text } from '@sitecore-jss/sitecore-jss-nextjs';
 // Local
 import RichTextA11yWrapper from 'components/helpers/RichTextA11yWrapper/RichTextA11yWrapper';
-import VideoPlayer from '@/components/helpers/VideoPlayer/VideoPlayer';
+import Mp4VideoPlayer from '@/components/helpers/Mp4VideoPlayer/Mp4VideoPlayer';
 import Icon from '@/components/helpers/Icon/Icon';
 
 // Ideally, all this is from generated Typescript code from Sitecore and we're not manually defining types.
@@ -167,7 +167,7 @@ const HomePageHero = ({ fields }: HomePageHeroProps): JSX.Element => {
                   >
                     {Item.backgroundVideo.value && (
                       <div className="w-full h-full absolute ">
-                        <VideoPlayer
+                        <Mp4VideoPlayer
                           autoplay={true}
                           loop={true}
                           muted={true}
