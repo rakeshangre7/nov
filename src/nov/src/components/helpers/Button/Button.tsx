@@ -37,7 +37,7 @@ const buttonVariants = tv({
         'inline-flex font-medium leading-24 items-center text-sm transition-width ease-in-out duration-100 cursor-pointer text-gray-dark lg:hover:underline basicFocus',
     },
     iconLeft: {
-      button: 'mr-[4px] text-base',
+      button: 'mr-[4px] text-base text-4',
       primary: 'mr-[4px] text-base',
       secondary: 'mr-[4px] text-base',
       tertiary: 'mr-[4px] text-base font-semibold text-primary',
