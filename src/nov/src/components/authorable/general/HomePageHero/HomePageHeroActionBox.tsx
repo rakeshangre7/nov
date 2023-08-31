@@ -4,11 +4,11 @@ import Icon from 'components/helpers/Icon/Icon';
 import Button from '@/components/helpers/Button/Button';
 
 export type HomePageHeroActionBoxProps = {
-  searchPlaceholderText: {
+  searchPlaceholderText?: {
     value?: string;
   };
   trendingSearchKeywordsList: string[] | undefined;
-  trendingText: {
+  trendingText?: {
     value?: string;
   };
   searchPage?: string;

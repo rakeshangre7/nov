@@ -16,8 +16,7 @@ const defaultData: HomePageHeroProps = {
           value: 'Trending',
         },
         trendingSearchKeywords: {
-          value:
-            'Category 01\r\nCategory 02\r\nCategory 03\r\nCategory 04\r\nCategory 05\r\nCategory 06\r\nCategory 07\r\nCategory 08',
+          value: 'Category 01\r\nCategory 02\r\nCategory 03\r\nCategory 04',
         },
         slides: {
           items: [
