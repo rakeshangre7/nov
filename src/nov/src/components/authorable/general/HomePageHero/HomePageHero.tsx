@@ -16,7 +16,7 @@ interface HeroSliderItem {
   subheading?: {
     value?: string;
   };
-  featuredStoryCtaText: {
+  featuredStoryCtaText?: {
     value?: string;
   };
   url: {
@@ -25,8 +25,8 @@ interface HeroSliderItem {
   };
 }
 interface HeroSlider {
-  addGradient: {
-    value: string | null;
+  addGradient?: {
+    value?: string | null;
   };
   image: {
     height: number | string;
@@ -34,13 +34,13 @@ interface HeroSlider {
     src: string;
     alt: string;
   };
-  imageCropRegion: {
-    value: string;
+  imageCropRegion?: {
+    value?: string;
   };
-  backgroundVideo: {
-    value: string;
+  backgroundVideo?: {
+    value?: string;
   };
-  pages: {
+  pages?: {
     items: Array<HeroSliderItem>;
   };
 }
@@ -50,20 +50,20 @@ interface Fields {
       slides: {
         items: Array<HeroSlider>;
       };
-      trendingSearchKeywords: {
+      trendingSearchKeywords?: {
         value?: string;
       };
-      searchPlaceholderText: {
+      searchPlaceholderText?: {
         value?: string;
       };
-      trendingText: {
-        value: string;
+      trendingText?: {
+        value?: string;
       };
     };
-    searchPage: {
-      url: {
-        path: string;
-        url: string;
+    searchPage?: {
+      url?: {
+        path?: string;
+        url?: string;
       };
     };
   };
@@ -86,7 +86,7 @@ const HomePageHero = ({ fields }: HomePageHeroProps): JSX.Element => {
   const HeroSlider = fields?.data?.item?.slides?.items;
   const trendingSearchKeywords = fields?.data?.item?.trendingSearchKeywords?.value;
   const trendingSearchKeywordsList = trendingSearchKeywords?.split('\r\n');
-  const searchPage = fields.data.searchPage.url.path + `?q=`;
+  const searchPage = fields?.data?.searchPage?.url?.path + `?q=`;
   const goToItem = (index: number) => {
     setCurrentIndex(index);
   };
@@ -122,7 +122,7 @@ const HomePageHero = ({ fields }: HomePageHeroProps): JSX.Element => {
                       backgroundImage: `url(${Item?.image?.src})`,
                     }}
                   >
-                    {Item.backgroundVideo.value && (
+                    {Item?.backgroundVideo?.value && (
                       <div className="w-full h-full absolute ">
                         <Mp4VideoPlayer
                           autoplay={true}
@@ -154,7 +154,7 @@ const HomePageHero = ({ fields }: HomePageHeroProps): JSX.Element => {
                         <RichTextA11yWrapper
                           className="text-white mt-[18px]"
                           data-testid="contentblock"
-                          field={Item.pages.items[0].subheading}
+                          field={Item?.pages?.items[0]?.subheading}
                           editable
                         />
                         <Button
@@ -162,8 +162,8 @@ const HomePageHero = ({ fields }: HomePageHeroProps): JSX.Element => {
                           className="text-white mt-[26px]"
                           field={{
                             value: {
-                              href: Item.pages.items[0].url.path,
-                              text: Item.pages.items[0].featuredStoryCtaText.value,
+                              href: Item?.pages?.items[0]?.url?.path,
+                              text: Item?.pages?.items[0]?.featuredStoryCtaText?.value,
                             },
                           }}
                           iconClassName="icon-arrow-right"
@@ -207,7 +207,7 @@ const HomePageHero = ({ fields }: HomePageHeroProps): JSX.Element => {
           searchPage={searchPage}
           trendingSearchKeywordsList={trendingSearchKeywordsList}
           trendingText={fields?.data?.item?.trendingText}
-          searchPlaceholderText={fields?.data?.item.searchPlaceholderText}
+          searchPlaceholderText={fields?.data?.item?.searchPlaceholderText}
         />
       </div>
     </>
