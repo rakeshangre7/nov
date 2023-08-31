@@ -1,9 +1,8 @@
-import { Field } from '@sitecore-jss/sitecore-jss-nextjs';
+import { Field, LinkField } from '@sitecore-jss/sitecore-jss-nextjs';
 import Text from '@/components/helpers/Text/Text';
 import Button from '@/components/helpers/Button/Button';
 import clsx from 'clsx';
-
-type PageNotFoundFieldProps = {
+interface PageNotFoundFieldProps {
   data: {
     homeItem: {
       notFoundHeadline: {
@@ -13,27 +12,18 @@ type PageNotFoundFieldProps = {
         jsonValue: Field<string>;
       };
       notFoundLink: {
-        linkType: string;
-        anchor: string;
-        url: string;
-        href: string;
-        text: string;
-        className: string;
+        jsonValue: LinkField;
       };
     };
   };
-};
+}
 export type PageNotFoundProps = {
   fields: PageNotFoundFieldProps;
 };
-
 const PageNotFound = ({ fields }: PageNotFoundProps): JSX.Element => {
   // Fail out if fields aren't present
   if (fields === null || fields === undefined) return <></>;
   const errorPageData = fields?.data?.homeItem;
-  const errorPageDataLink = {
-    value: errorPageData?.notFoundLink,
-  };
   return (
     <div className="container m-auto py-32 px-6">
       {errorPageData?.notFoundHeadline?.jsonValue?.value && (
@@ -50,9 +40,10 @@ const PageNotFound = ({ fields }: PageNotFoundProps): JSX.Element => {
           className={clsx('py-2 mb-5')}
         />
       )}
-      {errorPageDataLink?.value?.href && errorPageDataLink?.value?.text && (
-        <Button field={errorPageDataLink} variant="standard" />
-      )}
+      {errorPageData?.notFoundLink?.jsonValue?.value?.href &&
+        errorPageData?.notFoundLink?.jsonValue?.value?.text && (
+          <Button field={errorPageData?.notFoundLink?.jsonValue} variant="standard" />
+        )}
     </div>
   );
 };
