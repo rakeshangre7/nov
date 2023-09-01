@@ -159,20 +159,23 @@ const HomePageHero = ({ fields }: HomePageHeroProps): JSX.Element => {
                           field={Item?.pages?.items[0]?.subheading}
                           editable
                         />
-                        <Button
-                          auto
-                          className="text-white mt-[26px]"
-                          field={{
-                            value: {
-                              href: Item?.pages?.items[0]?.url?.path,
-                              text: Item?.pages?.items[0]?.featuredStoryCtaText?.value,
-                            },
-                          }}
-                          iconClassName="icon-arrow-right"
-                          iconPosition="right"
-                          variant="primary"
-                          tabIndex={0}
-                        />
+                        {Item?.pages?.items[0]?.featuredStoryCtaText?.value &&
+                          Item?.pages?.items[0]?.url?.path && (
+                            <Button
+                              auto
+                              className="text-white mt-[26px]"
+                              field={{
+                                value: {
+                                  href: Item?.pages?.items[0]?.url?.path,
+                                  text: Item?.pages?.items[0]?.featuredStoryCtaText?.value,
+                                },
+                              }}
+                              iconClassName="icon-arrow-right"
+                              iconPosition="right"
+                              variant="primary"
+                              tabIndex={0}
+                            />
+                          )}
                       </div>
                     </div>
                   </div>
