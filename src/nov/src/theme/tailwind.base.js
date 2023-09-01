@@ -16,7 +16,7 @@ module.exports = {
       square: '1 / 1',
     },
     fontFamily: {
-      primary: ['Source Sans Pro', 'sans-serif'],
+      primary: ['Source Sans Pro', 'Calibri', 'Apple SD Gothic Neo', 'Helvetica', 'Arial'],
       icomoon: ['icomoon'],
     },
     borderWidth: {
@@ -112,6 +112,18 @@ module.exports = {
       xxs: '0.5rem',
       xxxs: '0.25rem',
       0: '0px',
+    },
+    transitionDuration: {
+      6000: '6000ms',
+    },
+    keyframes: {
+      progress: {
+        from: { width: '0%' },
+        to: { width: '100%' },
+      },
+    },
+    animation: {
+      progress: 'progress 6s linear forwards',
     },
   },
 };
