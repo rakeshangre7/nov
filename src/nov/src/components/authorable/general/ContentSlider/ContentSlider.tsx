@@ -79,7 +79,7 @@ const ContentSlider = ({ fields, params }: ContentSliderProps): JSX.Element => {
     autoplay: true,
     autoplaySpeed: +params.waitTime || 5000,
     className:
-      'overflow-hidden relative h-[620px] smd:h-[570px] [&_.slick-dots]:bottom-[100px] [&_.slick-dots]:left-[51px] [&_.slick-dots]:w-fit [&_.slick-dots>li]:w-2 [&_.slick-dots>li]:h-2 [&_.slick-dots>li]:mr-[5px] [&_.slick-active>button]:!bg-white [&_.slick-active>button]:!border-primary',
+      'overflow-hidden relative h-[620px] smd:h-[570px] [&_.slick-dots]:bottom-[100px] [&_.slick-dots]:left-[51px] [&_.slick-dots]:w-fit [&_.slick-dots>li>button]:cursor-pointer [&_.slick-dots>li>button]:before:!content-none [&_.slick-dots>li>button]:!border-2 [&_.slick-dots>li>button]:!border-white [&_.slick-dots>li>button]:!border-solid [&_.slick-dots>li>button]:!bg-gray-novLight [&_.slick-dots>li>button]:!h-1 [&_.slick-dots>li>button]:!w-1 [&_.slick-dots>li>button]:!smd:h-1.5 [&_.slick-dots>li>button]:!smd:w-1.5 [&_.slick-dots>li>button]:!p-1 [&_.slick-dots>li>button]:smd:!p-[5px] [&_.slick-dots>li>button]:rounded-[50%][&_.slick-dots>li>button]:basicFocus [&_.slick-dots>li]:w-2 [&_.slick-dots>li]:h-2 [&_.slick-dots>li]:mr-[5px] [&_.slick-active>button]:!bg-white [&_.slick-active>button]:!border-primary',
     nextArrow: <NextArrow />,
     prevArrow: <PrevArrow />,
     beforeChange: (_current: number, next: number) => {
