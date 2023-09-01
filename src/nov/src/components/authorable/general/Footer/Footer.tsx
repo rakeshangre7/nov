@@ -145,7 +145,7 @@ const Footer = ({ fields }: FooterProps): JSX.Element => {
           </div>
         </div>
         <Button
-          className="w-3/6 md:w-[240px] flex order-3"
+          className="w-3/6 lg:w-[240px] md:w-[205px] flex order-3"
           field={footerItem?.contactLink.jsonValue}
           variant="button"
         />
