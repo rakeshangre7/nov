@@ -4,6 +4,7 @@ import { Sitecore } from '.generated/templates/_.Sitecore.Override';
 import Button from '@/components/helpers/Button/Button';
 import Icon from '@/components/helpers/Icon/Icon';
 import ImageWrapper from '@/components/helpers/ImageWrapper/ImageWrapper';
+import Mp4VideoPlayer from '@/components/helpers/Mp4VideoPlayer/Mp4VideoPlayer';
 import { LinkField, Text } from '@sitecore-jss/sitecore-jss-nextjs';
 import { MouseEventHandler, useRef } from 'react';
 import Slider from 'react-slick';
@@ -26,7 +27,7 @@ export type ContentSliderProps = Sitecore.Override.ComponentBase & {
 interface onClickInterface {
   onClick?: MouseEventHandler;
 }
-const ContentSlider = ({ fields }: ContentSliderProps): JSX.Element => {
+const ContentSlider = ({ fields, params }: ContentSliderProps): JSX.Element => {
   const sliderRef = useRef<Slider | null>(null);
   // Fail out if fields aren't present
   if (fields === null || fields === undefined) return <></>;
@@ -76,7 +77,7 @@ const ContentSlider = ({ fields }: ContentSliderProps): JSX.Element => {
     slidesToShow: 1,
     slidesToScroll: 1,
     autoplay: true,
-    autoplaySpeed: 5000,
+    autoplaySpeed: +params.waitTime || 5000,
     className:
       'overflow-hidden relative h-[620px] smd:h-[570px] [&_.slick-dots]:bottom-[100px] [&_.slick-dots]:left-[51px] [&_.slick-dots]:w-fit [&_.slick-dots>li]:w-2 [&_.slick-dots>li]:h-2 [&_.slick-dots>li]:mr-[5px] [&_.slick-active>button]:!bg-white [&_.slick-active>button]:!border-primary',
     nextArrow: <NextArrow />,
@@ -85,7 +86,7 @@ const ContentSlider = ({ fields }: ContentSliderProps): JSX.Element => {
       if (next === fields?.slides?.length - 1) {
         setTimeout(function () {
           sliderRef?.current?.slickGoTo(0);
-        }, 5000);
+        }, +params.waitTime || 5000);
       }
     },
     customPaging: () => {
@@ -99,7 +100,7 @@ const ContentSlider = ({ fields }: ContentSliderProps): JSX.Element => {
       <Slider {...settings} ref={sliderRef}>
         {fields?.slides?.map((content, index: number) => (
           <div className="w-full h-[620px] smd:h-[570px] relative" key={index}>
-            <div className="absolute w-full smd:w-4/12 h-3/6 smd:h-full pt-4 pb-14 flex flex-col smd:justify-center items-left px-8 left-0 top-2/4 smd:top-0">
+            <div className="absolute w-[calc(100%-116px)] smd:w-4/12 h-3/6 smd:h-full pt-4 pb-14 flex flex-col smd:justify-center items-left px-8 left-0 top-2/4 smd:top-0">
               <Text
                 tag="p"
                 field={content?.fields?.businessSegment?.fields?.businessSegmentName}
@@ -134,6 +135,25 @@ const ContentSlider = ({ fields }: ContentSliderProps): JSX.Element => {
                 className="absolute hidden smd:block left-1/3 right-1/3 w-4/12 h-full"
                 field={content.fields.tallImage}
               />
+            )}
+            {content?.fields?.video?.value && (
+              <div className="absolute top-0 smd:!top-2/4 max-h-[310px] smd:!left-2/3 smd:!bottom-0 w-full smd:w-4/12 smd:max-w-[33.33%] smd:max-h-3/6 h-3/6">
+                <Mp4VideoPlayer
+                  autoplay={params?.enableAutoPlay === 'true'}
+                  loop={true}
+                  muted={true}
+                  className="max-h-full max-w-full"
+                  controls={false}
+                  field={{
+                    image: {
+                      value: content?.fields?.squareImage?.value?.src || '',
+                    },
+                    videoid: {
+                      value: content?.fields?.video?.value,
+                    },
+                  }}
+                />
+              </div>
             )}
             {content?.fields?.squareImage && !content?.fields?.video?.value && (
               <ImageWrapper
