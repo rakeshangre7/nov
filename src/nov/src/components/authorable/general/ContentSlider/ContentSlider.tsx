@@ -32,7 +32,7 @@ const ContentSlider = ({ fields, params }: ContentSliderProps): JSX.Element => {
   const [videoAutoPlay, setVideoAutoPlay] = useState<boolean>(true);
   useEffect(() => {
     setVideoAutoPlay(params?.enableAutoplay === 'true');
-  });
+  }, []);
   // Fail out if fields aren't present
   if (fields === null || fields === undefined) return <></>;
   function PrevArrow({ onClick }: onClickInterface) {
