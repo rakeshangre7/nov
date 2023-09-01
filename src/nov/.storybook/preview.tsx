@@ -4,7 +4,7 @@ import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css';
 import type { Preview } from '@storybook/react';
 import { themes } from '@storybook/theming';
-console.log(themes);
+
 
 // Lib
 import { ALL_THEMES } from '../src/lib/context/ThemeContext';
