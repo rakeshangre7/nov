@@ -31,7 +31,6 @@ const defaultData: ContentSliderProps = {
                     businessUnitName: {
                       value: 'Completion Tools',
                     },
-                    personalizationProfile: null,
                   },
                 },
                 {
@@ -43,7 +42,6 @@ const defaultData: ContentSliderProps = {
                     businessUnitName: {
                       value: 'Fiber Glass Systems',
                     },
-                    personalizationProfile: null,
                   },
                 },
                 {
@@ -55,7 +53,6 @@ const defaultData: ContentSliderProps = {
                     businessUnitName: {
                       value: 'Intervention and Stimulation Equipment',
                     },
-                    personalizationProfile: null,
                   },
                 },
                 {
@@ -67,7 +64,6 @@ const defaultData: ContentSliderProps = {
                     businessUnitName: {
                       value: 'Pole Products',
                     },
-                    personalizationProfile: null,
                   },
                 },
                 {
@@ -79,7 +75,6 @@ const defaultData: ContentSliderProps = {
                     businessUnitName: {
                       value: 'Process and Flow Technologies',
                     },
-                    personalizationProfile: null,
                   },
                 },
                 {
@@ -91,7 +86,6 @@ const defaultData: ContentSliderProps = {
                     businessUnitName: {
                       value: 'Subsea Production Systems',
                     },
-                    personalizationProfile: null,
                   },
                 },
                 {
@@ -103,17 +97,12 @@ const defaultData: ContentSliderProps = {
                     businessUnitName: {
                       value: 'XL Systems',
                     },
-                    personalizationProfile: null,
                   },
                 },
               ],
-              personalizationProfile: null,
             },
           },
-          cta: {
-            value:
-              '<link text="" anchor="" linktype="internal" class="" title="" target="|Custom" querystring="" id="{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}" />',
-          },
+          cta: null,
           headline: {
             value: 'Connection performance without compromise',
           },
@@ -175,7 +164,6 @@ const defaultData: ContentSliderProps = {
                     businessUnitName: {
                       value: 'Rig Equipment',
                     },
-                    personalizationProfile: null,
                   },
                 },
                 {
@@ -187,7 +175,6 @@ const defaultData: ContentSliderProps = {
                     businessUnitName: {
                       value: 'Aftermarket Operations',
                     },
-                    personalizationProfile: null,
                   },
                 },
                 {
@@ -199,17 +186,12 @@ const defaultData: ContentSliderProps = {
                     businessUnitName: {
                       value: 'Marine and Construction',
                     },
-                    personalizationProfile: null,
                   },
                 },
               ],
-              personalizationProfile: null,
             },
           },
-          cta: {
-            value:
-              '<link text="" anchor="" linktype="internal" class="" title="" target="|Custom" querystring="" id="{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}" />',
-          },
+          cta: null,
           headline: {
             value: 'Connection performance without compromise',
           },
@@ -261,7 +243,6 @@ const defaultData: ContentSliderProps = {
                     businessUnitName: {
                       value: 'Directional Drilling Technologies',
                     },
-                    personalizationProfile: null,
                   },
                 },
                 {
@@ -273,7 +254,6 @@ const defaultData: ContentSliderProps = {
                     businessUnitName: {
                       value: 'Downhole',
                     },
-                    personalizationProfile: null,
                   },
                 },
                 {
@@ -285,7 +265,6 @@ const defaultData: ContentSliderProps = {
                     businessUnitName: {
                       value: 'IntelliServ',
                     },
-                    personalizationProfile: null,
                   },
                 },
                 {
@@ -297,7 +276,6 @@ const defaultData: ContentSliderProps = {
                     businessUnitName: {
                       value: 'Grant Prideco',
                     },
-                    personalizationProfile: null,
                   },
                 },
                 {
@@ -309,7 +287,6 @@ const defaultData: ContentSliderProps = {
                     businessUnitName: {
                       value: 'M/D Totco',
                     },
-                    personalizationProfile: null,
                   },
                 },
                 {
@@ -321,7 +298,6 @@ const defaultData: ContentSliderProps = {
                     businessUnitName: {
                       value: 'ReedHycalog',
                     },
-                    personalizationProfile: null,
                   },
                 },
                 {
@@ -333,7 +309,6 @@ const defaultData: ContentSliderProps = {
                     businessUnitName: {
                       value: 'Tuboscope',
                     },
-                    personalizationProfile: null,
                   },
                 },
                 {
@@ -345,17 +320,12 @@ const defaultData: ContentSliderProps = {
                     businessUnitName: {
                       value: 'WellSite Services',
                     },
-                    personalizationProfile: null,
                   },
                 },
               ],
-              personalizationProfile: null,
             },
           },
-          cta: {
-            value:
-              '<link text="" anchor="" linktype="internal" class="" title="" target="|Custom" querystring="" id="{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}" />',
-          },
+          cta: null,
           headline: {
             value: 'Lorem ipsum dolor sit amet consectetur adipiscing',
           },
