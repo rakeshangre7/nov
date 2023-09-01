@@ -26,7 +26,7 @@ interface HeroSliderItem {
 }
 interface HeroSlider {
   addGradient?: {
-    value?: string | null;
+    value?: string | number | null;
   };
   image: {
     height: number | string;
@@ -140,7 +140,9 @@ const HomePageHero = ({ fields }: HomePageHeroProps): JSX.Element => {
                         />
                       </div>
                     )}
-                    <div className="B3-home-page-hero__gradient absolute w-full h-full z-1 before:content after:absolute after:w-full after:h-full after:bottom-0 after:left-0 after:bg-gradient-to-r after:from-[#282828] after:to-[#51515100] opacity-40"></div>
+                    {Item?.addGradient?.value == '1' && (
+                      <div className="B3-home-page-hero__gradient absolute w-full h-full z-1 before:content after:absolute after:w-full after:h-full after:bottom-0 after:left-0 after:bg-gradient-to-r after:from-[#282828] after:to-[#51515100] opacity-40"></div>
+                    )}
                     <div className="relative z-1 w-full">
                       <div className="container">
                         <Text
