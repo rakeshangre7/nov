@@ -6,7 +6,7 @@ import Icon from '@/components/helpers/Icon/Icon';
 import ImageWrapper from '@/components/helpers/ImageWrapper/ImageWrapper';
 import Mp4VideoPlayer from '@/components/helpers/Mp4VideoPlayer/Mp4VideoPlayer';
 import { LinkField, Text } from '@sitecore-jss/sitecore-jss-nextjs';
-import { MouseEventHandler, useRef } from 'react';
+import { MouseEventHandler, useEffect, useRef, useState } from 'react';
 import Slider from 'react-slick';
 
 type slideProps = Sitecore.Override.ItemEx &
@@ -29,6 +29,10 @@ interface onClickInterface {
 }
 const ContentSlider = ({ fields, params }: ContentSliderProps): JSX.Element => {
   const sliderRef = useRef<Slider | null>(null);
+  const [videoAutoPlay, setVideoAutoPlay] = useState<boolean>(true);
+  useEffect(() => {
+    setVideoAutoPlay(params?.enableAutoplay === 'true');
+  });
   // Fail out if fields aren't present
   if (fields === null || fields === undefined) return <></>;
   function PrevArrow({ onClick }: onClickInterface) {
@@ -139,7 +143,7 @@ const ContentSlider = ({ fields, params }: ContentSliderProps): JSX.Element => {
             {content?.fields?.video?.value && (
               <div className="absolute top-0 smd:!top-2/4 max-h-[310px] smd:!left-2/3 smd:!bottom-0 w-full smd:w-4/12 smd:max-w-[33.33%] smd:max-h-3/6 h-3/6">
                 <Mp4VideoPlayer
-                  autoplay={params?.enableAutoPlay === 'true'}
+                  autoplay={videoAutoPlay}
                   loop={true}
                   muted={true}
                   className="max-h-full max-w-full"
