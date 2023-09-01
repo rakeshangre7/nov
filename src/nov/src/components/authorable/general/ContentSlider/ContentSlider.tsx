@@ -91,7 +91,7 @@ const ContentSlider = ({ fields, params }: ContentSliderProps): JSX.Element => {
     },
     customPaging: () => {
       return (
-        <button className="cursor-pointer before:!content-none !border-2 !border-white !border-solid !bg-gray-novLight !h-1 !w-1 !smd:h-[5px] !smd:w-[5px] !p-1 smd:!p-[5px] rounded-[50%] basicFocus" />
+        <button className="cursor-pointer before:!content-none !border-2 !border-white !border-solid !bg-gray-novLight !h-1 !w-1 !smd:h-[5px] !smd:w-[5px] !p-1 smd:!p-[4.5px] rounded-[50%] basicFocus" />
       );
     },
   };
