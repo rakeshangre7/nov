@@ -77,7 +77,7 @@ const ContentSlider = ({ fields, params }: ContentSliderProps): JSX.Element => {
     slidesToShow: 1,
     slidesToScroll: 1,
     autoplay: true,
-    autoplaySpeed: +params.waitTime || 5000,
+    autoplaySpeed: +params?.waitTime || 5000,
     className:
       'overflow-hidden relative h-[620px] smd:h-[570px] [&_.slick-dots]:bottom-[100px] [&_.slick-dots]:left-[51px] [&_.slick-dots]:w-fit [&_.slick-dots>li]:w-2 [&_.slick-dots>li]:h-2 [&_.slick-dots>li]:mr-[5px] [&_.slick-active>button]:!bg-white [&_.slick-active>button]:!border-primary',
     nextArrow: <NextArrow />,
@@ -86,7 +86,7 @@ const ContentSlider = ({ fields, params }: ContentSliderProps): JSX.Element => {
       if (next === fields?.slides?.length - 1) {
         setTimeout(function () {
           sliderRef?.current?.slickGoTo(0);
-        }, +params.waitTime || 5000);
+        }, +params?.waitTime || 5000);
       }
     },
     customPaging: () => {
