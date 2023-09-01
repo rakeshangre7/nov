@@ -44,7 +44,7 @@ const UserAccount = ({
         {portalRegisterUrl && (
           <Button
             variant="tertiary"
-            className="mx-auto leading-normal font-medium text-lightBlack mt-[15px] text-sm"
+            className="mx-auto leading-normal !font-medium text-lightBlack mt-[15px] text-sm"
             iconPosition="right"
             iconClassName="icon-chevron-right"
             field={portalRegisterUrl}
