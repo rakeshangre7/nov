@@ -170,8 +170,6 @@ const HomePageHero = ({ fields }: HomePageHeroProps): JSX.Element => {
                                   text: Item?.pages?.items[0]?.featuredStoryCtaText?.value,
                                 },
                               }}
-                              iconClassName="icon-arrow-right"
-                              iconPosition="right"
                               variant="primary"
                               tabIndex={0}
                             />
