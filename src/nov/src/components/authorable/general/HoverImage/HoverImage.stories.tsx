@@ -12,6 +12,7 @@ const meta: Meta<typeof HoverImage> = {
   title: 'Authorable/General/HoverImage',
   component: HoverImage,
   argTypes: {},
+  tags: ['autodocs'],
 };
 
 export default meta;

@@ -4,7 +4,7 @@ import { Sitecore } from '.generated/templates/_.Sitecore.Override';
 import Button from '@/components/helpers/Button/Button';
 import Icon from '@/components/helpers/Icon/Icon';
 import ImageWrapper from '@/components/helpers/ImageWrapper/ImageWrapper';
-import { Text } from '@sitecore-jss/sitecore-jss-nextjs';
+import { LinkField, Text } from '@sitecore-jss/sitecore-jss-nextjs';
 import { MouseEventHandler, useRef } from 'react';
 import Slider from 'react-slick';
 
@@ -13,6 +13,7 @@ type slideProps = Sitecore.Override.ItemEx &
     fields: {
       businessSegment: Sitecore.Override.ItemEx &
         Project.Item.NovShared.Components.Fields.BusinessSegment;
+      cta: LinkField;
     };
   };
 export type ContentSliderProps = Sitecore.Override.ComponentBase & {
@@ -74,8 +75,8 @@ const ContentSlider = ({ fields }: ContentSliderProps): JSX.Element => {
     speed: 500,
     slidesToShow: 1,
     slidesToScroll: 1,
-    // autoplay: true,
-    // autoplaySpeed: 5000,
+    autoplay: true,
+    autoplaySpeed: 5000,
     className:
       'overflow-hidden relative h-[620px] smd:h-[570px] [&_.slick-dots]:bottom-[100px] [&_.slick-dots]:left-[51px] [&_.slick-dots]:w-fit [&_.slick-dots>li]:w-2 [&_.slick-dots>li]:h-2 [&_.slick-dots>li]:mr-[5px] [&_.slick-active>button]:!bg-white [&_.slick-active>button]:!border-primary',
     nextArrow: <NextArrow />,
@@ -134,14 +135,14 @@ const ContentSlider = ({ fields }: ContentSliderProps): JSX.Element => {
                 field={content.fields.tallImage}
               />
             )}
-            {content?.fields?.squareImage && (
+            {content?.fields?.squareImage && !content?.fields?.video?.value && (
               <ImageWrapper
                 className="absolute top-0 smd:!top-2/4 max-h-[310px] smd:!left-2/3 smd:!bottom-0 w-full smd:w-4/12 smd:max-w-[33.33%] smd:max-h-3/6 h-3/6"
                 field={content.fields.squareImage}
                 layout="fill"
               />
             )}
-            {content?.fields?.cta && (
+            {content?.fields?.cta?.value?.href && content?.fields?.cta?.value?.text && (
               <Button
                 field={content.fields.cta}
                 className="bg-primary hover:!no-underline active:!no-underline absolute bottom-0 w-[calc(100%-116px)] smd:w-4/12 h-[54px] smd:h-20 text-white text-2xl leading-32 font-primary font-bold py-6 px-8"

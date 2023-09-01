@@ -1,6 +1,6 @@
 import Button from '@/components/helpers/Button/Button';
 import RichTextA11yWrapper from '@/components/helpers/RichTextA11yWrapper/RichTextA11yWrapper';
-import { Text } from '@sitecore-jss/sitecore-jss-nextjs';
+import { Link, Text } from '@sitecore-jss/sitecore-jss-nextjs';
 import clsx from 'clsx';
 import React, { useEffect, useState } from 'react';
 import { HoverImage } from './HoverImage';
@@ -24,8 +24,8 @@ const HoverImageCard = ({ imageObject }: HoverImageCardProps) => {
   }, []);
 
   return (
-    <a
-      {...imageObject?.cta?.value}
+    <Link
+      field={imageObject?.cta}
       className={clsx(
         "flex w-full h-[270px] sm:h-[330px] smd:h-[520px] relative cursor-pointer decoration-white before:content[''] group before:bg-black/[.2]  before:absolute before:left-0 before:top-0 before:h-full before:w-full basicFocus",
         {
@@ -80,7 +80,7 @@ const HoverImageCard = ({ imageObject }: HoverImageCardProps) => {
           />
         )}
       </div>
-    </a>
+    </Link>
   );
 };
 

@@ -12,6 +12,7 @@ const meta: Meta<typeof ContentSlider> = {
   title: 'Authorable/General/ContentSlider',
   component: ContentSlider,
   argTypes: {},
+  tags: ['autodocs'],
 };
 
 export default meta;
