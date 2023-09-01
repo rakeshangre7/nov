@@ -10,7 +10,7 @@ class FallbackPlugin implements ConfigPlugin {
 
   async exec(config: JssConfig) {
     return Object.assign({}, config, {
-      defaultLanguage: config.defaultLanguage || 'en',
+      defaultLanguage: config.defaultLanguage || 'en-US',
       sitecoreApiKey: config.sitecoreApiKey || 'no-api-key-set',
     });
   }
