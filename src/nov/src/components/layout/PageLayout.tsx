@@ -8,6 +8,11 @@ import {
   getPublicUrl,
   LayoutServiceData,
   Field,
+  RouteData,
+  ComponentRendering,
+  PlaceholdersData,
+  HtmlElementRendering,
+  LayoutServiceContextData,
 } from '@sitecore-jss/sitecore-jss-nextjs';
 import clsx from 'clsx';
 
@@ -16,8 +21,20 @@ import clsx from 'clsx';
 //testting only
 const publicUrl = getPublicUrl();
 
+type NewHtmlElementRendering = HtmlElementRendering & {
+  componentName?: string;
+};
+type NewRouteData = RouteData & {
+  placeholders: PlaceholdersData & {
+    [P in string]: Array<ComponentRendering | NewHtmlElementRendering>;
+  };
+};
 interface LayoutProps {
-  layoutData: LayoutServiceData;
+  layoutData: LayoutServiceData & {
+    sitecore: LayoutServiceContextData & {
+      route: NewRouteData | null;
+    };
+  };
 }
 
 interface RouteFields {
@@ -30,7 +47,7 @@ const PageLayout = ({ layoutData }: LayoutProps): JSX.Element => {
   const fields = route?.fields as RouteFields;
   const isPageEditing = layoutData.sitecore.context.pageEditing;
   const mainClassPageEditing = isPageEditing ? 'editing-mode' : 'prod-mode';
-
+  console.log('layoutData', layoutData?.sitecore?.route?.placeholders?.main?.[0]);
   return (
     <>
       <Head>
@@ -41,7 +58,21 @@ const PageLayout = ({ layoutData }: LayoutProps): JSX.Element => {
       {/* root placeholder for the app, which we add components to using route data */}
       <div className={clsx(mainClassPageEditing, 'theme-default')}>
         <header>
-          <div id="header">{route && <Placeholder name="header" rendering={route} />}</div>
+          <div
+            id="header"
+            className={
+              !(
+                layoutData?.sitecore?.route?.placeholders?.main?.[0]?.componentName ===
+                  'HomePageHero' ||
+                layoutData?.sitecore?.route?.placeholders?.main?.[0]?.componentName === 'Hero' ||
+                layoutData?.sitecore?.route?.placeholders?.main?.[0]?.componentName === 'HeroSlider'
+              )
+                ? 'no-hero'
+                : ''
+            }
+          >
+            {route && <Placeholder name="header" rendering={route} />}
+          </div>
         </header>
         <main>
           <div id="content">{route && <Placeholder name="main" rendering={route} />}</div>
