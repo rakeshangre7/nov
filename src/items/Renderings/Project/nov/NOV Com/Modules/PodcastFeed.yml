@@ -7,6 +7,78 @@ SharedFields:
 - ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
   Hint: componentName
   Value: PodcastFeed
+- ID: "17bb046a-a32a-41b3-8315-81217947611b"
+  Hint: ComponentQuery
+  Value: |
+    query PodcastFeed($datasource: String!, $language: String!) {
+      item(path: $datasource, language: $language) {
+        field(name: "sourceLocation") {
+          ... on LookupField {
+            targetItem {
+              children(hasLayout: true, first: 40) {
+                results {
+                  headline: field(name: "headline") {
+                    jsonValue
+                  }
+                  subheading: field(name: "subheading") {
+                    jsonValue
+                  }
+                  soundcloudembedcode: field(name: "soundcloudembedcode") {
+                    jsonValue
+                  }
+                  pageTitle: field(name: "pageTitle") {
+                    jsonValue
+                  }
+                  guestNames: field(name: "guestNames") {
+                    jsonValue
+                  }
+                  podcastLength: field(name: "podcastLength") {
+                    jsonValue
+                  }
+                  episodeNumber: field(name: "episodeNumber") {
+                    jsonValue
+                  }
+                  episodeTitle: field(name: "episodeTitle") {
+                    jsonValue
+                  }
+                  body: field(name: "body") {
+                    jsonValue
+                  }
+                  quote: field(name: "quote") {
+                    jsonValue
+                  }
+                  quoteJobTitle: field(name: "quoteJobTitle") {
+                    jsonValue
+                  }
+                  quoteName: field(name: "quoteName") {
+                    jsonValue
+                  }
+                  pageURL: url {
+                    path
+                  }
+                }
+              }
+            }
+          }
+        }
+        episodePrefix: field(name: "episodePrefix") {
+          jsonValue
+        }
+        initialItemCount: field(name: "initialItemCount") {
+          jsonValue
+        }
+        learnMoreText: field(name: "learnMoreText") {
+          jsonValue
+        }
+        loadMoreCount: field(name: "loadMoreCount") {
+          jsonValue
+        }
+        loadMoreText: field(name: "loadMoreText") {
+          jsonValue
+        }
+      }
+    }
+    
 - ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
   Hint: Datasource Template
   Value: /sitecore/templates/Project/nov/NOV Com/Modules/Podcast Feed
@@ -54,14 +126,14 @@ Languages:
         sitecore\ashwin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "dfb294d8-0cd5-464b-bbfe-8ab8034f58f2"
+      Value: "31dac0f4-42d0-4744-8fa4-3f111757a755"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\varalakshmi.md@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230710T153544Z
+      Value: 20230904T073511Z
 - Language: "en-US"
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"

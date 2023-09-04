@@ -7,6 +7,28 @@ SharedFields:
 - ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
   Hint: componentName
   Value: ContentList2x1
+- ID: "17bb046a-a32a-41b3-8315-81217947611b"
+  Hint: ComponentQuery
+  Value: |
+    query($datasource: String!, $language: String!) {
+      item(path: $datasource, language: $language) {
+        field(name: "pages") {
+          ... on MultilistField {
+            targetItems {
+              cardImage: field(name: "cardImage") {
+                jsonValue
+              }
+              headline: field(name: "headline") {
+                jsonValue
+              }
+              subheading: field(name: "subheading") {
+                jsonValue
+              }
+            }
+          }
+        }
+      }
+    }
 - ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
   Hint: Datasource Template
   Value: /sitecore/templates/Project/nov/NOV Com/Modules/Content List 2x1
@@ -54,14 +76,14 @@ Languages:
         sitecore\ashwin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "6816c69e-b79a-44bc-aeab-36d08e1798df"
+      Value: "46b5b273-ca05-4ab9-8e81-be4f37221c1e"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\varalakshmi.md@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230710T153534Z
+      Value: 20230904T073043Z
 - Language: "en-US"
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
