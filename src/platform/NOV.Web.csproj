@@ -75,6 +75,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Constants\NovSitecoreConstants.cs" />
+    <Compile Include="ContentsResolver\BrandCapabilityFilteredListContentResolver.cs" />
     <Compile Include="ContentsResolver\BrandCapabilityListContentResolver.cs" />
     <Compile Include="ContentsResolver\FilteredFeedContentResolver.cs" />
     <Compile Include="ContentsResolver\HoverImageContentResolver.cs" />
