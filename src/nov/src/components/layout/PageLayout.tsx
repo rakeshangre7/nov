@@ -47,7 +47,6 @@ const PageLayout = ({ layoutData }: LayoutProps): JSX.Element => {
   const fields = route?.fields as RouteFields;
   const isPageEditing = layoutData.sitecore.context.pageEditing;
   const mainClassPageEditing = isPageEditing ? 'editing-mode' : 'prod-mode';
-  console.log('layoutData', layoutData?.sitecore?.route?.placeholders?.main?.[0]);
   return (
     <>
       <Head>
