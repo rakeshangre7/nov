@@ -5,7 +5,7 @@ module.exports = {
   'theme-text': 'var(--theme-text)',
 
   black: '#000000',
-  lightBlack:"#1b1b1b",
+  lightBlack: '#1b1b1b',
   currentColor: 'currentColor',
   error: {
     dark: '#e02020',
@@ -24,6 +24,7 @@ module.exports = {
     light: '#F1F1F1',
     lightest: '#F8F8F8',
     lighter: '#696969',
+    novLight: '#c5c5c5',
   },
 
   primary: '#DA291C',
