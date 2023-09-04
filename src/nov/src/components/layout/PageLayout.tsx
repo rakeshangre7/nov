@@ -59,16 +59,14 @@ const PageLayout = ({ layoutData }: LayoutProps): JSX.Element => {
         <header>
           <div
             id="header"
-            className={
-              !(
+            className={clsx({
+              'no-hero': !(
                 layoutData?.sitecore?.route?.placeholders?.main?.[0]?.componentName ===
                   'HomePageHero' ||
                 layoutData?.sitecore?.route?.placeholders?.main?.[0]?.componentName === 'Hero' ||
                 layoutData?.sitecore?.route?.placeholders?.main?.[0]?.componentName === 'HeroSlider'
-              )
-                ? 'no-hero'
-                : ''
-            }
+              ),
+            })}
           >
             {route && <Placeholder name="header" rendering={route} />}
           </div>
