@@ -13,19 +13,18 @@ SharedFields:
 - ID: "17bb046a-a32a-41b3-8315-81217947611b"
   Hint: ComponentQuery
   Value: |
-    query NotFound {
-      homeItem: item(path:"/sitecore/content/nov/nov/Home", language: "en-US") {
-       ... on HomeRoot{
-        notFoundHeadline{
+    query PageNotFound {
+      homeItem: item(path: "/sitecore/content/nov/nov/Home", language: "en-US") {
+        notFoundHeadline: field(name: "notFoundHeadline") {
           jsonValue
         }
-        notFoundText{
-          jsonValue     
+    
+        notFoundText: field(name: "notFoundText") {
+          jsonValue
         }
-        notFoundLink{
-          jsonValue     
+        notFoundLink: field(name: "notFoundLink") {
+          jsonValue
         }
-      }  
       }
     }
 - ID: "3d08db46-2267-41b0-bc52-be69fd618633"
@@ -52,14 +51,14 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "eab8ca0e-cd32-4604-90a1-918a266fe018"
+      Value: "07d3d4db-0804-4579-a9ca-fa33c0885f9d"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\rangre@horizontal.com
+        sitecore\varalakshmi.md@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230901T055735Z
+      Value: 20230904T073352Z
 - Language: "en-US"
   Versions:
   - Version: 1

@@ -159,12 +159,10 @@ const ContentSlider = ({ fields, params }: ContentSliderProps): JSX.Element => {
                 />
               </div>
             )}
-            {content?.fields?.squareImage && !content?.fields?.video?.value && (
-              <ImageWrapper
-                className="absolute top-0 smd:!top-2/4 max-h-[310px] smd:!left-2/3 smd:!bottom-0 w-full smd:w-4/12 smd:max-w-[33.33%] smd:max-h-3/6 h-3/6"
-                field={content.fields.squareImage}
-                layout="fill"
-              />
+            {content?.fields?.squareImage && (
+              <div className="absolute top-0 smd:!top-2/4 max-h-[310px] smd:!right-0 smd:!bottom-0 w-full smd:w-4/12 smd:max-w-[33.33%] smd:max-h-3/6 h-3/6">
+                <ImageWrapper field={content.fields.squareImage} layout="fill" />
+              </div>
             )}
             {content?.fields?.cta?.value?.href && content?.fields?.cta?.value?.text && (
               <Button
