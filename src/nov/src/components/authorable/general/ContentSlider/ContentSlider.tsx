@@ -167,7 +167,7 @@ const ContentSlider = ({ fields, params }: ContentSliderProps): JSX.Element => {
             {content?.fields?.cta?.value?.href && content?.fields?.cta?.value?.text && (
               <Button
                 field={content.fields.cta}
-                className="bg-primary hover:!no-underline active:!no-underline absolute bottom-0 w-[calc(100%-116px)] smd:w-4/12 h-[54px] smd:h-20 text-white text-2xl leading-32 font-primary font-bold py-6 px-8"
+                className="bg-primary hover:!no-underline active:!no-underline absolute bottom-0 w-[calc(100%-116px)] smd:w-4/12 h-[54px] smd:h-20 text-white !text-2xl !leading-32 font-primary !font-bold py-6 px-8 !justify-start"
                 variant="button"
               />
             )}
