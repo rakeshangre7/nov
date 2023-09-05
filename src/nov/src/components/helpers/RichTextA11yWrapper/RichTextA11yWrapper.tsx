@@ -33,9 +33,11 @@ const RichTextA11yWrapper = ({
   };
   const [content, setContent] = useState(field?.value);
   const [updatedField, setUpdatedField] = useState<Field<string>>(getCharacterLimitedData());
+
   useEffect(() => {
     setUpdatedField(getCharacterLimitedData());
   }, [characterLimit, content]);
+
   // Run this client-side because we don't have access to the document server-side
   useEffect(() => {
     const template = document.createElement('template');

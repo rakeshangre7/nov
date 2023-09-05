@@ -138,7 +138,7 @@ const Footer = ({ fields }: FooterProps): JSX.Element => {
 
   return (
     <>
-      <div className="flex flex-wrap mt-20">
+      <div className="flex flex-wrap pt-[30px] md:pt-20">
         <div className="w-3/6 lg:w-[calc(17%)] h-20 lg:h-auto flex items-center order-1 bg-gray-lightest md:grow lg:grow-0 pl-8 lg:pl-20">
           <div className="main-logo">
             <Image field={footerItem?.logo?.jsonValue} />
