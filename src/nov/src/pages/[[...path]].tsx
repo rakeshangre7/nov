@@ -88,6 +88,18 @@ export const getStaticPaths: GetStaticPaths = async (context) => {
 export const getStaticProps: GetStaticProps = async (context) => {
   const props = await sitecorePagePropsFactory.create(context);
 
+  // If we have no route data for the request params, serve a known Sitecore page as the 404.
+  // Assumes we have a named page item /404 in Sitwecore, per convetion
+  // otherwise will default back to the app's 404.
+  // if (!props.layoutData?.sitecore?.route) {
+  //   const path = '/404';
+
+  //   props = await sitecorePagePropsFactory.create({
+  //     ...context,
+  //     params: { ...context.params, path: path },
+  //   });
+  // }
+
   return {
     props,
     // Next.js will attempt to re-generate the page:
