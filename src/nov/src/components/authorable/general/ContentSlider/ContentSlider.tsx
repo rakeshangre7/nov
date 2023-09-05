@@ -159,7 +159,7 @@ const ContentSlider = ({ fields, params }: ContentSliderProps): JSX.Element => {
                 />
               </div>
             )}
-            {content?.fields?.squareImage && (
+            {content?.fields?.squareImage && !content?.fields?.video?.value && (
               <div className="absolute top-0 smd:!top-2/4 max-h-[310px] smd:!right-0 smd:!bottom-0 w-full smd:w-4/12 smd:max-w-[33.33%] smd:max-h-3/6 h-3/6">
                 <ImageWrapper field={content.fields.squareImage} layout="fill" />
               </div>
@@ -167,7 +167,7 @@ const ContentSlider = ({ fields, params }: ContentSliderProps): JSX.Element => {
             {content?.fields?.cta?.value?.href && content?.fields?.cta?.value?.text && (
               <Button
                 field={content.fields.cta}
-                className="bg-primary hover:!no-underline active:!no-underline absolute bottom-0 w-[calc(100%-116px)] smd:w-4/12 h-[54px] smd:h-20 text-white !text-2xl !leading-32 font-primary !font-bold py-6 px-8 !justify-start"
+                className="active:!no-underline absolute bottom-0 w-[calc(100%-116px)] smd:w-4/12 h-[54px] smd:h-20 !text-2xl !leading-32 font-primary !font-bold py-6 px-8 !justify-start"
                 variant="button"
               />
             )}
