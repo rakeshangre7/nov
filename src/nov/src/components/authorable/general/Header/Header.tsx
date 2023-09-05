@@ -87,6 +87,7 @@ const Header = ({ fields }: HeaderProps) => {
   const navigationRef = useRef<HTMLDivElement>(null);
   const userRef = useRef<HTMLLIElement>(null);
   const [isSticky, setIsSticky] = useState<boolean>(false);
+  const [isTransparent, setIsTransparent] = useState<boolean>(true);
   const [isExpanded, setIsExpanded] = useState<boolean>(false);
   const [isUserProfileClick, setIsUserProfileClick] = useState<boolean>(false);
   const [activeNavbarStoryDetail, setActiveNavbarStoryDetail] = useState<featureDetailProps>({});
@@ -95,6 +96,9 @@ const Header = ({ fields }: HeaderProps) => {
   const { isMiniDesktop, isDesktop } = useBreakpoints();
   const router = useRouter();
 
+  useEffect(() => {
+    setIsTransparent(!document?.getElementById('header')?.classList?.contains('no-hero'));
+  }, []);
   const handleScroll = () => {
     const currentScrollPos = window.pageYOffset;
     setIsSticky(currentScrollPos > 30);
@@ -415,13 +419,11 @@ const Header = ({ fields }: HeaderProps) => {
   const renderBasicHeaderInfo = () => {
     return (
       <div
-        className={clsx(
-          'headerWrapper w-full transition-all bg-transparent duration-200 h-[65px]',
-          {
-            '!bg-black': isSticky,
-            '!bg-white': isExpanded,
-          }
-        )}
+        className={clsx('headerWrapper w-full transition-all duration-200 h-[65px]', {
+          'bg-transparent': isTransparent,
+          '!bg-black': isSticky || !isTransparent,
+          '!bg-white': isExpanded,
+        })}
       >
         <div className="container xl:max-w-nxl l:max-w-nlg lg:max-w-full  mx-auto h-full flex justify-between items-center">
           <a className="log-wrapper text-white basicFocus" href="/">

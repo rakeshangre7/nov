@@ -54,6 +54,7 @@ SharedFields:
       homeItem: item(path: "/sitecore/content/nov/nov/Home", language: "en-US") {
         primaryMenu: children(
           hasLayout: true
+    
           includeTemplateIDs: [
             "D227AB0EFD444AE0878A189949913D0B"
             "1D0EE98495274CDEAE7DCD084F4E70E2"
@@ -82,6 +83,7 @@ SharedFields:
         }
       }
     }
+    
 - ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
   Hint: Datasource Template
   Value: /sitecore/templates/Project/nov/NOV Shared/Field Sections/Footer
@@ -112,14 +114,14 @@ Languages:
         sitecore\varalakshmi.md@horizontal.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "2201512f-9459-4e38-8dce-f22a6f268e58"
+      Value: "8df41d9a-cd4b-49f3-87b7-694c21274ac4"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\varalakshmi.md@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230821T165739Z
+      Value: 20230904T073423Z
 - Language: "en-US"
   Versions:
   - Version: 1

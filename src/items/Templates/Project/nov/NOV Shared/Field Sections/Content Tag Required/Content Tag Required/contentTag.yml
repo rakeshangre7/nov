@@ -6,7 +6,7 @@ Path: /sitecore/templates/Project/nov/NOV Shared/Field Sections/Content Tag Requ
 SharedFields:
 - ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
   Hint: Source
-  Value: "query:./ancestor-or-self::*[@@templatename='Site Root']/*[@@templatename='System Folder']/*[@@templateid='{14263F9A-8EDC-4186-9455-FFCFDC4C0084}']/*"
+  Value: "query:$site/Data/*[@@templatename='System Folder']/*[@@templateid='{14263F9A-8EDC-4186-9455-FFCFDC4C0084}']/*"
 - ID: "21828437-ea4b-40a1-8c61-4ce60ea41db6"
   Hint: Validate Button
   Value: "{59D4EE10-627C-4FD3-A964-61A88B092CBC}"
@@ -39,14 +39,14 @@ Languages:
         sitecore\varalakshmi.md@horizontal.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "581f9127-c9e6-4793-887b-741ef4d2ffbf"
+      Value: "1e2e23dd-fdcc-4dc2-86cb-b00f07bd20e6"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\varalakshmi.md@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230705T093622Z
+      Value: 20230902T090546Z
 - Language: "en-US"
   Versions:
   - Version: 1
