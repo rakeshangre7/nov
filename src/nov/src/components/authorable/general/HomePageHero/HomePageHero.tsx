@@ -87,7 +87,7 @@ const HomePageHero = ({ fields }: HomePageHeroProps): JSX.Element => {
   const HeroSlider = fields?.data?.item?.slides?.items;
   const trendingSearchKeywords = fields?.data?.item?.trendingSearchKeywords?.value;
   const trendingSearchKeywordsList = trendingSearchKeywords?.split('\r\n');
-  const searchPage = fields?.data?.searchPage?.url?.path + `?q=`;
+  const searchPage = fields?.data?.searchPage?.url?.path;
   const goToItem = (index: number) => {
     setCurrentIndex(index);
   };
