@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { useBreakpoints } from '../../../utility/breakpoints';
 import Button from '@/components/helpers/Button/Button';
 import { Text } from '@sitecore-jss/sitecore-jss-nextjs';
+import { Fragment } from 'react';
 // Local
 import RichTextA11yWrapper from 'components/helpers/RichTextA11yWrapper/RichTextA11yWrapper';
 import Mp4VideoPlayer from '@/components/helpers/Mp4VideoPlayer/Mp4VideoPlayer';
@@ -113,7 +114,7 @@ const HomePageHero = ({ fields }: HomePageHeroProps): JSX.Element => {
         <div className="relative flex flex-row justify-center h-auto min-h-screen">
           {Array.isArray(HeroSlider) &&
             HeroSlider?.map((Item: HeroSlider, index: number) => (
-              <>
+              <Fragment key={index}>
                 {index === currentIndex && (
                   <div
                     key={index}
@@ -178,7 +179,7 @@ const HomePageHero = ({ fields }: HomePageHeroProps): JSX.Element => {
                     </div>
                   </div>
                 )}
-              </>
+              </Fragment>
             ))}
         </div>
         {!isMobile && !isHeightSm && HeroSlider.length > 1 && (

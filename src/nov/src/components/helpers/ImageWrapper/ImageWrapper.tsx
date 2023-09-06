@@ -87,11 +87,12 @@ const ImageWrapper = ({
 
   const imgSrc = field?.value?.src;
   if (
-    (imgSrc && imgSrc.indexOf('.svg') !== -1) ||
-    isExperienceEditor ||
-    isPreviewMode === 'preview'
+    ((imgSrc && imgSrc.indexOf('.svg') !== -1) ||
+      isExperienceEditor ||
+      isPreviewMode === 'preview') &&
+    editable
   ) {
-    return <SitecoreImage field={field} className={className} editable={editable} />;
+    return <SitecoreImage field={field} className={className} />;
   }
 
   // If the image has no value, return nothing
@@ -102,7 +103,6 @@ const ImageWrapper = ({
     src: field?.value?.src,
     alt: field?.value?.alt || '',
     className,
-    editable,
     tabIndex,
     onClick,
     onKeyUp,
