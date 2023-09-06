@@ -1,15 +1,17 @@
 import Button from '@/components/helpers/Button/Button';
 import RichTextA11yWrapper from '@/components/helpers/RichTextA11yWrapper/RichTextA11yWrapper';
-import { Link, Text } from '@sitecore-jss/sitecore-jss-nextjs';
+import { Text } from '@sitecore-jss/sitecore-jss-nextjs';
 import clsx from 'clsx';
 import React, { useEffect, useState } from 'react';
 import { HoverImage } from './HoverImage';
 import ImageWrapper from '@/components/helpers/ImageWrapper/ImageWrapper';
+import { useRouter } from 'next/router';
 interface HoverImageCardProps {
   imageObject: HoverImage;
 }
 const HoverImageCard = ({ imageObject }: HoverImageCardProps) => {
   const [isTouchDevice, setIsTouchDevice] = useState<boolean>(false);
+  const router = useRouter();
   useEffect(() => {
     const checkTouchDevice = () => {
       setIsTouchDevice(
@@ -24,8 +26,13 @@ const HoverImageCard = ({ imageObject }: HoverImageCardProps) => {
   }, []);
 
   return (
-    <Link
-      field={imageObject?.cta}
+    <div
+      onClick={() => {
+        if (imageObject?.cta?.value?.href) {
+          router.push(imageObject?.cta?.value?.href);
+        }
+      }}
+      tabIndex={0}
       className={clsx(
         "flex w-full h-[270px] sm:h-[330px] smd:h-[520px] relative cursor-pointer decoration-white before:content[''] group before:bg-black/[.2]  before:absolute before:left-0 before:top-0 before:h-full before:w-full basicFocus",
         {
@@ -56,7 +63,7 @@ const HoverImageCard = ({ imageObject }: HoverImageCardProps) => {
         {imageObject?.body && (
           <RichTextA11yWrapper
             className={clsx(
-              '!text-white body2 mb-4 mt-[13px] block  group-active:underline text-center',
+              '!text-white body2 mb-4 mt-[13px] block group-active:underline text-center',
               {
                 'md:hidden group-hover:block group-active:!no-underline': !isTouchDevice,
               }
@@ -67,9 +74,9 @@ const HoverImageCard = ({ imageObject }: HoverImageCardProps) => {
         {imageObject.cta && (
           <Button
             className={clsx(
-              '!text-white inline-flex text-center mt-[19px] mb-[13px] [&_i]:ml-[7px] group-active:[&_span]:!underline ',
+              '!text-white inline-flex text-center mt-[19px] !leading-normal !font-medium mb-[13px] [&_i]:ml-[7px] group-active:[&_span]:!underline ',
               {
-                'md:hidden  group-hover:inline-flex group-active:[&_span]:!no-underline':
+                'md:hidden group-hover:inline-flex group-active:[&_span]:!no-underline':
                   !isTouchDevice,
               }
             )}
@@ -80,7 +87,7 @@ const HoverImageCard = ({ imageObject }: HoverImageCardProps) => {
           />
         )}
       </div>
-    </Link>
+    </div>
   );
 };
 
