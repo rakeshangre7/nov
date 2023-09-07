@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { Fragment } from 'react';
 import { useRouter } from 'next/router';
 import { ImageField, Text } from '@sitecore-jss/sitecore-jss-nextjs';
 // Local
@@ -81,57 +81,60 @@ const ContentList3x1 = ({ fields }: ContentList3x1Props): JSX.Element => {
           <div className="lg:flex lg:flex-wrap px-4">
             {Array.isArray(targetItems) &&
               targetItems?.map((Item: targetItems, index: number) => (
-                <div
-                  key={index}
-                  className="w-full max-w-[352px] lg:max-w-none lg:w-1/3 mx-auto lg:mx-0 lg:px-[15px] justify-start flex flex-col hover:!no-underline basicFocus cursor-pointer"
-                  // href={Item?.primaryURL?.path}
-                  onClick={(e) => {
-                    if (Item?.primaryURL?.path) {
-                      e.stopPropagation();
-                      router.push(Item?.primaryURL?.path);
-                    }
-                  }}
-                  onKeyUp={(e: React.KeyboardEvent<HTMLDivElement>) => {
-                    if (e.keyCode === 13 && Item?.primaryURL?.path) {
-                      e.stopPropagation();
-                      router.push(Item?.primaryURL?.path);
-                    }
-                  }}
-                  tabIndex={1}
-                >
-                  {Item?.cardImage?.jsonValue?.value?.src && (
+                <Fragment key={index}>
+                  {Item?.primaryURL?.path && (
                     <div
-                      className="w-full pt-[58.14%] md:pt-[59.09%] mt-[45px] mb-[30px] lg:mt-0 overflow-hidden bg-no-repeat bg-center bg-cover block"
-                      style={{
-                        backgroundImage: `url(${Item?.cardImage?.jsonValue?.value?.src})`,
+                      className="w-full max-w-[352px] lg:max-w-none lg:w-1/3 mx-auto lg:mx-0 lg:px-[15px] justify-start flex flex-col hover:!no-underline basicFocus cursor-pointer"
+                      // href={Item?.primaryURL?.path}
+                      onClick={(e) => {
+                        if (Item?.primaryURL?.path) {
+                          e.stopPropagation();
+                          router.push(Item?.primaryURL?.path);
+                        }
                       }}
-                    ></div>
-                  )}
-                  <div className="block">
-                    {Item?.headline.jsonValue?.value && (
-                      <Text
-                        tag="h3"
-                        field={Item?.headline?.jsonValue}
-                        className="text-black text-lg leading-24 font-semibold lg:text-base lg:font-bold  mb-4"
-                      />
-                    )}
+                      onKeyUp={(e: React.KeyboardEvent<HTMLDivElement>) => {
+                        if (e.keyCode === 13 && Item?.primaryURL?.path) {
+                          e.stopPropagation();
+                          router.push(Item?.primaryURL?.path);
+                        }
+                      }}
+                      tabIndex={1}
+                    >
+                      {Item?.cardImage?.jsonValue?.value?.src && (
+                        <div
+                          className="w-full pt-[58.14%] md:pt-[59.09%] mt-[45px] mb-[30px] lg:mt-0 overflow-hidden bg-no-repeat bg-center bg-cover block"
+                          style={{
+                            backgroundImage: `url(${Item?.cardImage?.jsonValue?.value?.src})`,
+                          }}
+                        ></div>
+                      )}
+                      <div className="block">
+                        {Item?.headline.jsonValue?.value && (
+                          <Text
+                            tag="h3"
+                            field={Item?.headline?.jsonValue}
+                            className="text-black text-lg leading-24 font-semibold lg:text-base lg:font-bold  mb-4"
+                          />
+                        )}
 
-                    <RichTextA11yWrapper
-                      className="text-2xs leading-16 lg:text-sm lg:leading-24 [&>p]:text-2xs [&>p]:leading-16 [&>p]:lg:text-sm [&>p]:lg:leading-24"
-                      field={Item?.subheading?.jsonValue}
-                      characterLimit={100}
-                    />
-                    {cardCtaText && (
-                      <button
-                        tabIndex={1}
-                        className="inline-flex font-primary text-base leading-[normal] lg:text-sm lg:leading-24 justify-between font-medium lg:font-semibold text-lightBlack hover:text-gray-lighter items-center py-[5px] basicFocus"
-                      >
-                        {cardCtaText}
-                        <Icon className="icon-chevron-right font-icomoon not-italic normal-case leading-none antialiased flex flex-col justify-center ml-[4px] text-base font-medium lg:font-semibold text-primary" />
-                      </button>
-                    )}
-                  </div>
-                </div>
+                        <RichTextA11yWrapper
+                          className="text-2xs leading-16 lg:text-sm lg:leading-24 [&>p]:text-2xs [&>p]:leading-16 [&>p]:lg:text-sm [&>p]:lg:leading-24"
+                          field={Item?.subheading?.jsonValue}
+                          characterLimit={100}
+                        />
+                        {cardCtaText && (
+                          <button
+                            tabIndex={1}
+                            className="inline-flex font-primary text-base leading-[normal] lg:text-sm lg:leading-24 justify-between font-medium lg:font-semibold text-lightBlack hover:text-gray-lighter items-center py-[5px] basicFocus"
+                          >
+                            {cardCtaText}
+                            <Icon className="icon-chevron-right font-icomoon not-italic normal-case leading-none antialiased flex flex-col justify-center ml-[4px] text-base font-medium lg:font-semibold text-primary" />
+                          </button>
+                        )}
+                      </div>
+                    </div>
+                  )}
+                </Fragment>
               ))}
           </div>
         </div>
