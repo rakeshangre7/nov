@@ -101,7 +101,7 @@ const RichTextA11yWrapper = ({
       field={updatedField}
       {...props}
       editable={editable}
-      className={'rte' + props?.className}
+      className={'rte ' + props?.className}
     />
   );
 };
