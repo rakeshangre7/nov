@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import { useBreakpoints } from '../../../utility/breakpoints';
 import Button from '@/components/helpers/Button/Button';
 import { Text } from '@sitecore-jss/sitecore-jss-nextjs';
@@ -87,23 +87,45 @@ const HomePageHero = ({ fields }: HomePageHeroProps): JSX.Element => {
   const trendingSearchKeywords = fields?.data?.item?.trendingSearchKeywords?.value;
   const trendingSearchKeywordsList = trendingSearchKeywords?.split('\r\n');
   const searchPage = fields?.data?.searchPage?.url?.path + `?q=`;
+
+  const autoSlideIntervalRef = useRef<NodeJS.Timeout | null>(null);
+
+  // Function to go to the next item
+  const goToNextItem = () => {
+    setCurrentIndex((prevIndex: number | null) =>
+      prevIndex !== null ? (prevIndex + 1) % HeroSlider.length : null
+    );
+  };
+
+  // Function to manually change the active item and reset the auto slide timer
   const goToItem = (index: number) => {
     setCurrentIndex(index);
+
+    // Reset the auto slide timer
+    if (autoSlideIntervalRef.current) {
+      clearInterval(autoSlideIntervalRef.current);
+    }
+    // Start the auto slide timer again
+    autoSlideIntervalRef.current = setInterval(goToNextItem, 6000);
   };
 
   useEffect(() => {
-    const nextItem = () => {
-      setCurrentIndex((prevIndex: number) => (prevIndex + 1) % HeroSlider.length);
-    };
     // Set the initial active index after the page has loaded
     setCurrentIndex(0);
 
     // Automatically go to the next item every 6 seconds
-    const interval = setInterval(nextItem, 6000);
+    if (autoSlideIntervalRef.current) {
+      clearInterval(autoSlideIntervalRef.current);
+    }
+    autoSlideIntervalRef.current = setInterval(goToNextItem, 6000);
 
     // Clean up the interval when the component unmounts
-    return () => clearInterval(interval);
-  }, [HeroSlider.length]); // Empty dependency array ensures the effect runs only after initial render
+    return () => {
+      if (autoSlideIntervalRef.current) {
+        clearInterval(autoSlideIntervalRef.current);
+      }
+    };
+  }, []);
 
   if (fields === null || fields === undefined) return <></>;
 
