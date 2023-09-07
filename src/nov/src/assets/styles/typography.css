@@ -35,6 +35,9 @@
   .basicFocus {
     @apply lg:focus:outline-dotted lg:focus:outline-2 lg:focus:outline-secondary hover:!outline-0 active:!outline-0;
   }
+  .basicFocusSmallBorder {
+    @apply lg:focus:outline-dotted lg:focus:outline-1 lg:focus:outline-secondary hover:!outline-0 active:!outline-0;
+  }
   .rte h1 {
     @apply h1;
   }

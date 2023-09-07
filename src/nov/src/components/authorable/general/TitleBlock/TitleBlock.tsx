@@ -22,7 +22,7 @@ const TitleBlock = ({ fields, params }: TitleBlockProps): JSX.Element => {
   if (fields === null || fields === undefined) return <></>;
 
   return (
-    <div className="container m-auto flex pt-[80px] flex-col justify-center">
+    <div className="container m-auto flex pt-[30px] smd:pt-20 flex-col justify-center">
       <div
         className={clsx('max-w-[736px] m-auto', {
           'text-left': params?.Styles === 'position-left',
