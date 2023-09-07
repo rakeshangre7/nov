@@ -69,6 +69,7 @@ const Button = ({
   iconPosition,
   text,
   field,
+  rel,
   ref,
   onClick = (): void => undefined,
   className,
@@ -101,6 +102,7 @@ const Button = ({
         {...(disabled && { disabled: disabled })}
         {...(onClick && { onClick: onClick })}
         ref={typeof ref !== 'string' ? ref : null}
+        rel={typeof rel !== 'string' ? rel : ''}
         {...props}
       >
         {iconPosition === 'left' && (
@@ -134,6 +136,7 @@ const Button = ({
       showLinkTextWithChildrenPresent={false}
       internalLinkMatcher={INTERNAL_LINK_REGEX}
       ref={typeof ref !== 'string' ? ref : null}
+      rel={typeof rel !== 'string' ? rel : ''}
       {...(disabled && { disabled: disabled })}
       {...(onClick && { onClick: onClick })}
       {...props}
