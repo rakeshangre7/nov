@@ -48,7 +48,7 @@ namespace XmCloudnov.ContentsResolver
                             if (child.Fields["brand"]?.Value != Guid.Empty.ToString())
                             {
                                 var childProcessItem = ProcessItem(child, rendering, renderingConfig);
-                                model.BrandCapabilityList.Add(new { pageTitle = childProcessItem.Value<object>("pageTitle"), url = Sitecore.Links.LinkManager.GetItemUrl(child) });
+                                model.BrandCapabilityList.Add(new NOVLink() { value = new LinkProperties() { text = child.Fields["pageTitle"]?.ToString(), href = Sitecore.Links.LinkManager.GetItemUrl(child) } });
                             }
 
                         }
@@ -64,7 +64,7 @@ namespace XmCloudnov.ContentsResolver
                             if (child.Fields["capability"]?.Value != Guid.Empty.ToString())
                             {
                                 var childProcessItem = ProcessItem(child, rendering, renderingConfig);
-                                model.BrandCapabilityList.Add(new { pageTitle = childProcessItem.Value<object>("pageTitle"), url = Sitecore.Links.LinkManager.GetItemUrl(child) });
+                                model.BrandCapabilityList.Add(new NOVLink() { value = new LinkProperties() { text = child.Fields["pageTitle"]?.ToString(), href = Sitecore.Links.LinkManager.GetItemUrl(child) } });
                             }
                         }
                     }
