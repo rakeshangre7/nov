@@ -8,7 +8,7 @@ const defaultData: ContentList3x1Props = {
   params: {},
   fields: {
     data: {
-      item: {
+      datasource: {
         headline: {
           jsonValue: {
             value: 'Content List 3x1',
@@ -25,7 +25,7 @@ const defaultData: ContentList3x1Props = {
               cardImage: {
                 jsonValue: {
                   value: {
-                    src: 'https://xmc-nationaloile493-nov-dev.sitecorecloud.io/-/media/nov/Images/Products/Resources-and-Tools/drillbit.jpg?h=295&iar=0&w=514&hash=7DE030B0E66C4E6CF2978716DB12C5B4',
+                    src: 'https://edge.sitecorecloud.io/nationaloile493-nov-dev-59ee/media/nov/Images/Products/Resources-and-Tools/drillbit.jpg?h=295&iar=0&w=514',
                     alt: 'Closeup of an NOV drill bit',
                     width: '514',
                     height: '295',
@@ -52,7 +52,7 @@ const defaultData: ContentList3x1Props = {
               cardImage: {
                 jsonValue: {
                   value: {
-                    src: 'https://xmc-nationaloile493-nov-dev.sitecorecloud.io/-/media/nov/Images/Products/Resources-and-Tools/drillbit.jpg?h=295&iar=0&w=514&hash=7DE030B0E66C4E6CF2978716DB12C5B4',
+                    src: 'https://edge.sitecorecloud.io/nationaloile493-nov-dev-59ee/media/nov/Images/Products/Resources-and-Tools/drillbit.jpg?h=295&iar=0&w=514',
                     alt: 'Closeup of an NOV drill bit',
                     width: '514',
                     height: '295',
@@ -62,7 +62,7 @@ const defaultData: ContentList3x1Props = {
               subheading: {
                 jsonValue: {
                   value:
-                    '<p>National Oilwell Varco provides oilfield equipment, technologies, and expertise that answer the challenges of oil and gas customers worldwide with safety, efficiency, and reliability.</p>',
+                    'National Oilwell Varco provides oilfield equipment, technologies, and expertise that answer the challenges of oil and gas customers worldwide with safety, efficiency, and reliability.',
                 },
               },
               primaryURL: {
@@ -79,7 +79,7 @@ const defaultData: ContentList3x1Props = {
               cardImage: {
                 jsonValue: {
                   value: {
-                    src: 'https://xmc-nationaloile493-nov-dev.sitecorecloud.io/-/media/nov/Images/Products/Resources-and-Tools/drillbit.jpg?h=295&iar=0&w=514&hash=7DE030B0E66C4E6CF2978716DB12C5B4',
+                    src: 'https://edge.sitecorecloud.io/nationaloile493-nov-dev-59ee/media/nov/Images/Products/Resources-and-Tools/drillbit.jpg?h=295&iar=0&w=514',
                     alt: 'Closeup of an NOV drill bit',
                     width: '514',
                     height: '295',
@@ -89,7 +89,7 @@ const defaultData: ContentList3x1Props = {
               subheading: {
                 jsonValue: {
                   value:
-                    '<p>National Oilwell Varco provides oilfield equipment, technologies, and expertise that answer the challenges of oil and gas customers worldwide with safety, efficiency, and reliability.</p>',
+                    'National Oilwell Varco provides oilfield equipment, technologies, and expertise that answer the challenges of oil and gas customers worldwide with safety, efficiency, and reliability.',
                 },
               },
               primaryURL: {
@@ -98,6 +98,13 @@ const defaultData: ContentList3x1Props = {
               },
             },
           ],
+        },
+      },
+      contextItem: {
+        cardCtaText: {
+          jsonValue: {
+            value: 'Learn More',
+          },
         },
       },
     },
