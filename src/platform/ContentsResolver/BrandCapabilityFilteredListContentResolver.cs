@@ -69,6 +69,7 @@ namespace XmCloudnov.ContentsResolver
                         }
                     }
                     model.HelpText = proccessDatasourceItem.Value<object>("capabilitiesHelpText");
+                    model.HideSearch = true;
                     break;
             }
 
