@@ -192,7 +192,7 @@ const HomePageHero = ({ fields }: HomePageHeroProps): JSX.Element => {
                     className={`${
                       index === currentIndex && 'active'
                     } text-white text-left text-sm w-1/4 h-auto relative before:content before:absolute before:w-full before:bottom-0 before:left-0  before:border-b-[2px] before:border-solid before:border-gray 
-                  after:content after:absolute after:w-0 after:bottom-0 after:left-0 pb-[18px] after:border-b-[2px] after:border-solid after:border-red after:transition-width after:!duration-6000 after:ease-linear
+                  after:content after:absolute after:w-0 after:bottom-0 after:left-0 pb-[18px] after:border-b-[2px] after:border-solid after:border-red after:transition-width after:!duration-6000 after:ease-linear outline-none
                   `}
                     onClick={() => goToItem(index)}
                   >
