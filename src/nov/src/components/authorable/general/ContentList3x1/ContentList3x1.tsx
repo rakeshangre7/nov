@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { Fragment } from 'react';
 
 import { ImageField, Text } from '@sitecore-jss/sitecore-jss-nextjs';
 // Local
@@ -81,10 +81,9 @@ const ContentList3x1 = ({ fields }: ContentList3x1Props): JSX.Element => {
           <div className="lg:flex lg:flex-wrap px-4">
             {Array.isArray(targetItems) &&
               targetItems?.map((Item: targetItems, index: number) => (
-                <>
+                <Fragment key={index}>
                   {Item?.primaryURL?.path && (
                     <a
-                      key={index}
                       className="w-full max-w-[352px] lg:max-w-none lg:w-1/3 mx-auto lg:mx-0 lg:px-[15px] justify-start flex flex-col hover:!no-underline"
                       href={Item?.primaryURL?.path}
                       target="_self"
@@ -120,7 +119,7 @@ const ContentList3x1 = ({ fields }: ContentList3x1Props): JSX.Element => {
                       </div>
                     </a>
                   )}
-                </>
+                </Fragment>
               ))}
           </div>
         </div>
