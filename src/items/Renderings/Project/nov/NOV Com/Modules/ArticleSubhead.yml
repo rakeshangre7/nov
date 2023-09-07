@@ -7,6 +7,29 @@ SharedFields:
 - ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
   Hint: componentName
   Value: ArticleSubhead
+- ID: "17bb046a-a32a-41b3-8315-81217947611b"
+  Hint: ComponentQuery
+  Value: |
+    query articlesubheading(
+      $datasource: String!
+      $contextItem: String!
+      $language: String!
+    ) {
+      datasource: item(path: $datasource, language: $language) {
+        showDate: field(name: "showDate") {
+          jsonValue
+        }
+        subheadText: field(name: "subheadText") {
+          jsonValue
+        }
+      }
+      contextItem: item(path: $contextItem, language: $language) {
+        date: field(name: "date") {
+          jsonValue
+        }
+      }
+    }
+    
 - ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
   Hint: Datasource Template
   Value: /sitecore/templates/Project/nov/NOV Com/Modules/Article Subhead
@@ -75,11 +98,11 @@ Languages:
         sitecore\ashwin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "bf9c67e5-56f6-4b78-8559-49c2b5d0c3c2"
+      Value: "8a86df52-60d8-4654-919c-3f8c4c4330ca"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\ashwin
+        sitecore\varalakshmi.md@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20190520T182440Z
+      Value: 20230905T154048Z
