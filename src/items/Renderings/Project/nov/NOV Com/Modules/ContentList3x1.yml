@@ -10,28 +10,37 @@ SharedFields:
 - ID: "17bb046a-a32a-41b3-8315-81217947611b"
   Hint: ComponentQuery
   Value: |
-    query($datasource: String!, $language: String!) {
-      item(path: $datasource, language: $language) {
-        field(name: "pages") {
+    query contentlist($datasource: String!, $language: String!) {
+      datasource: item(path: $datasource, language: $language) {
+        headline: field(name: "headline") {
+          jsonValue
+        }
+        pages: field(name: "pages") {
           ... on MultilistField {
             targetItems {
-              cardImage: field(name: "cardImage") {
+              headline: field(name: "headline") {
                 jsonValue
               }
-              headline: field(name: "headline") {
+              cardImage: field(name: "cardImage") {
                 jsonValue
               }
               subheading: field(name: "subheading") {
                 jsonValue
               }
-              featuredStoryCTAText: field(name: "featuredStoryCTAText") {
-                jsonValue
-              }
-              featuredStorySubItemLink: field(name: "featuredStorySubItemLink") {
-                jsonValue
+              primaryURL: url {
+                path
+                url
               }
             }
           }
+        }
+      }
+      contextItem: item(
+        path: "/sitecore/content/nov/nov/Home"
+        language: $language
+      ) {
+        cardCtaText: field(name: "cardCtaText") {
+          jsonValue
         }
       }
     }
@@ -83,14 +92,14 @@ Languages:
         sitecore\ashwin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "2a20e1f9-afa1-4514-9cc8-aa9df37e4f12"
+      Value: "17bf2e5a-152d-4fc9-a504-b2ed25473a41"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\varalakshmi.md@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230904T073038Z
+      Value: 20230906T151108Z
 - Language: "en-US"
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
@@ -112,11 +121,11 @@ Languages:
         sitecore\ashwin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "bc6caf3e-2de7-4559-88c0-12b94faf2a37"
+      Value: "adae42e0-d96d-461c-ad00-367e641e8723"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\varalakshmi.md@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230904T095420Z
+      Value: 20230904T114607Z
