@@ -94,7 +94,7 @@ const Header = ({ fields }: HeaderProps) => {
   const [activeNavbarStoryDetail, setActiveNavbarStoryDetail] = useState<featureDetailProps>({});
   const [selectedPrimaryLink, setSelectedPrimaryLink] = useState<boolean | string>(false);
   const [selectedSecondaryLink, setSelectedSecondaryLink] = useState<boolean | string>();
-  const { isMiniDesktop, isDesktop } = useBreakpoints();
+  const { isMiniDesktop, isTabletAndDesktop } = useBreakpoints();
   const router = useRouter();
 
   useEffect(() => {
@@ -269,7 +269,9 @@ const Header = ({ fields }: HeaderProps) => {
                     }
                   )}
                   style={index ? { transitionDelay: `${100 * (index / 2)}ms` } : {}}
-                  text={`${isDesktop ? navbar?.menuTitle?.value : navbar?.mobileMenuTitle?.value} ${
+                  text={`${
+                    isTabletAndDesktop ? navbar?.menuTitle?.value : navbar?.mobileMenuTitle?.value
+                  } ${
                     (isSecondary || isTertiary) && index === 0 && fields?.labelOverview?.value
                       ? fields?.labelOverview?.value
                       : ''

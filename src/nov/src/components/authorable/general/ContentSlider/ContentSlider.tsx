@@ -136,7 +136,7 @@ const ContentSlider = ({ fields, params }: ContentSliderProps): JSX.Element => {
             </div>
             {content?.fields?.tallImage && (
               <ImageWrapper
-                className="absolute hidden smd:block left-1/3 right-1/3 w-4/12 h-full"
+                className="absolute !hidden smd:!block left-1/3 right-1/3 w-4/12 h-full"
                 field={content.fields.tallImage}
               />
             )}
