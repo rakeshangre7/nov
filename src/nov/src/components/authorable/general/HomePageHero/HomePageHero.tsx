@@ -170,7 +170,7 @@ const HomePageHero = ({ fields }: HomePageHeroProps): JSX.Element => {
                       <div className="container">
                         <Text
                           tag="h1"
-                          className="text-white"
+                          className="text-white text-3xl leading-38 sm:text-7xl sm:leading-56 md:text-8xl md:leading-80"
                           field={Item?.pages?.items[0]?.pageTitle}
                           editable={false}
                           encode={false}

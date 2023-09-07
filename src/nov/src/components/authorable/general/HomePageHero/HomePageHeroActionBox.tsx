@@ -68,7 +68,7 @@ const HomePageHeroActionBox = ({
         }}
         className="h-1/2 md:h-full flex items-center justify-center flex-shrink-0 relative after:absolute after:bottom-0 after:left-6 after:right-6 after:border-b after:border-b-gray after:opacity-25 md:after:border-0 md:pr-4"
       >
-        <button className="h-[30px] w-[30px] text-xl text-red mx-2.5 basicFocus">
+        <button className="h-[30px] w-[30px] text-xl flex justify-center items-center text-red mx-2.5 basicFocus">
           <Icon className="icon-search" />
         </button>
         <Text
