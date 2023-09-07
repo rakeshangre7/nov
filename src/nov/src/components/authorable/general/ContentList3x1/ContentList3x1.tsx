@@ -85,7 +85,12 @@ const ContentList3x1 = ({ fields }: ContentList3x1Props): JSX.Element => {
                   key={index}
                   className="w-full max-w-[352px] lg:max-w-none lg:w-1/3 mx-auto lg:mx-0 lg:px-[15px] justify-start flex flex-col hover:!no-underline basicFocus cursor-pointer"
                   // href={Item?.primaryURL?.path}
-                  onClick={() => router.push(`${Item?.primaryURL?.path}`)}
+                  onClick={(e) => {
+                    if (Item?.primaryURL?.path) {
+                      e.stopPropagation();
+                      router.push(Item?.primaryURL?.path);
+                    }
+                  }}
                   onKeyUp={(e: React.KeyboardEvent<HTMLDivElement>) => {
                     if (e.keyCode === 13 && Item?.primaryURL?.path) {
                       e.stopPropagation();
