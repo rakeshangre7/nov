@@ -2,6 +2,7 @@ import React, { useRef, useState, useEffect } from 'react';
 import { Text } from '@sitecore-jss/sitecore-jss-nextjs';
 import Icon from 'components/helpers/Icon/Icon';
 import Button from '@/components/helpers/Button/Button';
+import { useRouter } from 'next/router';
 
 export type HomePageHeroActionBoxProps = {
   searchPlaceholderText?: {
@@ -20,9 +21,10 @@ const HomePageHeroActionBox = ({
   searchPlaceholderText,
 }: HomePageHeroActionBoxProps) => {
   const containerRef = useRef<HTMLDivElement | null>(null);
-  function replaceSpacesWithPlus(inputString: string) {
-    return inputString.replace(/ /g, '+');
-  }
+  // function replaceSpacesWithPlus(inputString: string) {
+  //   return inputString.replace(/ /g, '+');
+  // }
+  const router = useRouter();
 
   const [isScrollablePrev, setIsScrollablePrev] = useState<boolean>(false);
   const [isScrollableNext, setIsScrollableNext] = useState<boolean>(true); // Assuming it's initially scrollable
@@ -36,6 +38,16 @@ const HomePageHeroActionBox = ({
     // containerRef.current.scrollLeft += 200; // Adjust scroll distance as needed
     containerRef.current?.scrollBy({ left: 200 });
   };
+
+  const updateSearchUrl = (
+    e: React.MouseEvent<HTMLButtonElement>,
+    searchUrl: string,
+    param: string
+  ) => {
+    e.preventDefault();
+    router.push({ pathname: searchUrl, query: { q: param } });
+  };
+
   useEffect(() => {
     const container = containerRef.current;
     if (container) {
@@ -97,12 +109,15 @@ const HomePageHeroActionBox = ({
                   className="!font-normal !text-base basicFocus"
                   field={{
                     value: {
-                      href: searchPage + replaceSpacesWithPlus(Item),
+                      href: searchPage,
                       text: Item,
                     },
                   }}
                   variant="secondary"
                   tabIndex={0}
+                  onClick={(e: React.MouseEvent<HTMLButtonElement>) => {
+                    updateSearchUrl(e, searchPage as string, Item);
+                  }}
                 />
               </div>
             ))}

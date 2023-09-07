@@ -7,6 +7,7 @@ import Button from '@/components/helpers/Button/Button';
 import { useBreakpoints } from '@/components/utility/breakpoints.jsx';
 import { useRouter } from 'next/router';
 import ImageWrapper from '@/components/helpers/ImageWrapper/ImageWrapper';
+import { Fragment } from 'react';
 
 // Ideally, all this is from generated Typescript code from Sitecore and we're not manually defining types.
 type renderLinkProps = {
@@ -239,7 +240,7 @@ const Header = ({ fields }: HeaderProps) => {
       <div className="relative l:h-full">
         {navList?.map((navbar: subPagesProps, index: number) => {
           return (
-            <>
+            <Fragment key={index}>
               {navbar.url && !navbar.hideInNavigation && (
                 <Button
                   variant={'secondary'}
@@ -353,7 +354,7 @@ const Header = ({ fields }: HeaderProps) => {
                     })}
                   </div>
                 )}
-            </>
+            </Fragment>
           );
         })}
       </div>
