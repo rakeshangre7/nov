@@ -29,14 +29,19 @@ const HoverImageCard = ({ imageObject }: HoverImageCardProps) => {
     <div
       onClick={() => {
         if (imageObject?.cta?.value?.href) {
-          router.push(imageObject?.cta?.value?.href);
+          router.push(imageObject.cta.value.href);
+        }
+      }}
+      onKeyUp={(e) => {
+        if (e.keyCode === 13 && imageObject?.cta?.value?.href) {
+          router.push(imageObject.cta.value.href);
         }
       }}
       tabIndex={0}
       className={clsx(
         "flex w-full h-[270px] sm:h-[330px] smd:h-[520px] relative cursor-pointer decoration-white before:content[''] group before:bg-black/[.2]  before:absolute before:left-0 before:top-0 before:h-full before:w-full basicFocus",
         {
-          'hover:!no-underline md:hover:before:bg-black/[.6] active:!no-underline': !isTouchDevice,
+          'hover:!no-underline hover:before:bg-black/[.6] active:!no-underline': !isTouchDevice,
         }
       )}
     >
