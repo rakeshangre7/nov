@@ -24,8 +24,8 @@ const VideoPlayer = ({ fields }: VideoPlayerProps): JSX.Element => {
   return (
     <>
       {fields?.videoURL?.value && (
-        <div className="w-full pt-[30px] md:pt-20">
-          <div className="mx-auto max-w-[928px] md:px-11">
+        <div className="w-full pt-[30px] smd:pt-20">
+          <div className="mx-auto max-w-[928px] smd:px-11">
             <YoutubeVideoPlayer
               field={{
                 videoURL: {
