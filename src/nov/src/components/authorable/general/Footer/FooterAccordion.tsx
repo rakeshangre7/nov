@@ -26,7 +26,7 @@ interface SecondaryMenu {
 }
 export type FooterAccordionProps = {
   // fields?: Field<string>;
-  index?: number;
+  indexKey?: number;
   // FMItem: Array<Item>;
   FMItem: {
     field?: LinkField | LinkFieldValue;
@@ -47,22 +47,27 @@ export type FooterAccordionProps = {
   };
 };
 
-const FooterAccordion = ({ FMItem, index }: FooterAccordionProps) => {
+const FooterAccordion = ({ FMItem, indexKey }: FooterAccordionProps) => {
   const [isOpen, setIsOpen] = useState(false);
-  const [height, setHeight] = useState<number | null>(null);
+  const [height, setHeight] = useState<number | null | undefined>(null);
   const { isDesktop } = useBreakpoints();
   const descriptionref = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
     if (descriptionref?.current) {
-      descriptionref?.current?.scrollHeight && setHeight(descriptionref.current.scrollHeight);
+      if (!isDesktop) {
+        descriptionref?.current?.scrollHeight && setHeight(descriptionref.current.scrollHeight);
+      }
     }
-    isDesktop ? setIsOpen(true) : setIsOpen(false);
+    // isDesktop ? setIsOpen(true) : setIsOpen(false);
   }, [isDesktop]);
-
   const handleClick = (e: { preventDefault: () => void }) => {
     e.preventDefault();
     setIsOpen(!isOpen);
+  };
+
+  const divStyle = {
+    height: isOpen ? (height ? `${height}px` : 'auto') : '',
   };
   const isRedirect = FMItem?.redirectPageURL?.jsonValue?.value == null;
   return (
@@ -108,9 +113,9 @@ const FooterAccordion = ({ FMItem, index }: FooterAccordionProps) => {
                   iconPosition="right"
                   text={FMItem?.menuTitle?.jsonValue.value}
                   variant="tertiary"
-                  id={`control_${index}`}
+                  id={`control_${indexKey}`}
                   onClick={handleClick}
-                  aria-controls={`body_${index}`}
+                  aria-controls={`body_${indexKey}`}
                   aria-expanded={isOpen ? true : false}
                   aria-label={isOpen ? 'collapse button' : 'expand button'}
                   className="w-full py-4 px-8 font-semibold"
@@ -119,25 +124,19 @@ const FooterAccordion = ({ FMItem, index }: FooterAccordionProps) => {
             </>
           )}
         </div>
+
         <div
           ref={descriptionref}
-          id={`body_${index}`}
-          className="bg-gray-lightest lg:bg-transparent overflow-hidden lg:overflow-visible duration-300 lg:duration-0 h-auto"
-          style={
-            isOpen
-              ? height
-                ? { height: `${height}px` }
-                : { height: `auto` }
-              : { height: `${0}px` }
-          }
+          id={`body_${indexKey}`}
+          className="bg-gray-lightest lg:bg-transparent overflow-hidden lg:overflow-visible duration-300 lg:duration-0 h-0 lg:h-auto"
           aria-hidden={isOpen ? false : true}
+          style={{
+            ...(!isDesktop && divStyle),
+          }}
         >
           <ul className="px-14 lg:px-0 lg:pt-2.5">
             {!isDesktop && (
-              <li
-                key={index}
-                className="flex py-3.5 lg:py-1.5 first:pt-10 first:lg:pt-1.5 last:pb-12 last:lg:pb-1.5"
-              >
+              <li className="flex py-3.5 lg:py-1.5 first:pt-10 first:lg:pt-1.5 last:pb-12 last:lg:pb-1.5">
                 {FMItem?.redirectPageURL?.jsonValue?.value == null ? (
                   <a
                     href={FMItem?.primaryURL?.path}
@@ -146,10 +145,12 @@ const FooterAccordion = ({ FMItem, index }: FooterAccordionProps) => {
                     <Text field={FMItem?.menuTitle?.jsonValue} />
                   </a>
                 ) : (
-                  <Link
-                    field={FMItem?.redirectPageURL?.jsonValue}
-                    className="text-sm leading-6 hover:underline font-medium"
-                  />
+                  <a
+                    href={FMItem?.primaryURL?.path}
+                    className="text-sm leading-6 hover:underline font-medium outline-none"
+                  >
+                    <Text field={FMItem?.menuTitle?.jsonValue} />
+                  </a>
                 )}
               </li>
             )}
