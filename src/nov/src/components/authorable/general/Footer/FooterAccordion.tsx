@@ -26,7 +26,7 @@ interface SecondaryMenu {
 }
 export type FooterAccordionProps = {
   // fields?: Field<string>;
-  indexKey?: number;
+  indexKey: number;
   // FMItem: Array<Item>;
   FMItem: {
     field?: LinkField | LinkFieldValue;
