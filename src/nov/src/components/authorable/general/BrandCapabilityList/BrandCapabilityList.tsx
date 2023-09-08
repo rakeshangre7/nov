@@ -44,7 +44,7 @@ const BrandCapabilityList = ({ fields }: BrandCapabilityListProps): JSX.Element 
         )}
         {fields?.backgroundVideo?.value && (
           <Mp4VideoPlayer
-            autoplay={false}
+            autoplay={true}
             loop={true}
             muted={true}
             className="w-full h-full !min-w-[528px] max-w-[528px] mb-0 p-0 hidden lg:inline-block"
