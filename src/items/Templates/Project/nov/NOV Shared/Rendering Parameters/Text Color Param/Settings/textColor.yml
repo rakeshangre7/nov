@@ -6,13 +6,16 @@ Path: /sitecore/templates/Project/nov/NOV Shared/Rendering Parameters/Text Color
 SharedFields:
 - ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
   Hint: Source
-  Value: white|black
+  Value: "{9DF1EC62-AC0E-4BE8-8F5B-FABC1CD06E3A}"
 - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
   Hint: Type
-  Value: Droplist Pipes Datasource
+  Value: Droplist
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 100
+- ID: "be351a73-fcb0-4213-93fa-c302d8ab4f51"
+  Hint: Shared
+  Value: 
 Languages:
 - Language: en
   Versions:
@@ -27,14 +30,14 @@ Languages:
         sitecore\varalakshmi.md@horizontal.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "c821bc54-b376-46a8-9fd5-4522d4829312"
+      Value: "a5ebf940-43d9-4f93-9154-af683fb4dae0"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\varalakshmi.md@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230820T071035Z
+      Value: 20230905T104213Z
 - Language: "en-US"
   Versions:
   - Version: 1
@@ -52,11 +55,11 @@ Languages:
         sitecore\ashwin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "a28a0334-5b51-4d68-a8a3-c0fe18742326"
+      Value: "50ef0421-816c-455b-8dae-9f25822a00b1"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\ashwin
+        sitecore\varalakshmi.md@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20190313T154421Z
+      Value: 20230906T065749Z
