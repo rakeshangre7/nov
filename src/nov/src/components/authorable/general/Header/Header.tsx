@@ -246,7 +246,7 @@ const Header = ({ fields }: HeaderProps) => {
                   variant={'secondary'}
                   auto={false}
                   className={clsx(
-                    'mt-[14px] navigationTransitionInitial relative ml-[2px] !leading-[18px] text-lightBlack l:max-w-[165px] xl:max-w-[225px] py-[5px] [&_span]:max-w-full l:[&_span]:max-w-[193px] active:!text-lightBlack l:active:!text-primary :hover:!text-primary basicFocus',
+                    'mt-[14px] navigationTransitionInitial relative ml-[2px] !leading-[18px] text-lightBlack l:max-w-[165px] xl:max-w-[225px] py-[5px] [&_span]:max-w-full l:[&_span]:max-w-[193px] active:!text-lightBlack l:active:!text-primary hover:!text-primary basicFocus',
                     {
                       '!text-primary !cursor-default !outline-none':
                         !(isSecondary && index === 0) &&
@@ -373,11 +373,14 @@ const Header = ({ fields }: HeaderProps) => {
         )}
       >
         <div className="px-[25px] relative h-[calc(100%-228px)] smd:!h-full overflow-x-hidden overflow-y-auto scroll-auto mt-[-1px] l:hidden bg-white no-scrollbar">
-          <a className="!w-fit mt-[18px] cursor-pointer">
+          <a className="!w-fit mt-[18px] cursor-pointer hover:!no-underline">
             <Icon
-              className={clsx('icon-arrow-left text-black opacity-100 w-fit visible  text-base', {
-                'opacity-0 invisible': !selectedPrimaryLink,
-              })}
+              className={clsx(
+                'icon-arrow-left text-black opacity-100 w-fit visible hover:!no-underline text-base',
+                {
+                  'opacity-0 invisible': !selectedPrimaryLink,
+                }
+              )}
               onClick={() => {
                 if (selectedSecondaryLink) {
                   setSelectedSecondaryLink(false);
@@ -499,23 +502,20 @@ const Header = ({ fields }: HeaderProps) => {
                 </div>
               }
             </li>
-            <li
-              tabIndex={0}
-              className="flex items-center basicFocus px-[2.5px] mr-[1px] l:mr-0 cursor-pointer h-[30px] rounded-[1px]"
+            <button
+              className="flex items-center basicFocus  mr-[1px] l:mr-[2.5px] cursor-pointer h-[30px] rounded-[1px]"
               onClick={() => setIsExpanded(!isExpanded)}
-              onKeyUp={(e) => {
-                if (e.keyCode === 13) {
-                  setIsExpanded(!isExpanded);
-                }
-              }}
             >
               {fields?.menuLabel && (
                 <Text
-                  tag={'p'}
-                  className={clsx(' mr-[16px] body2 !leading-16 font-medium', {
-                    'text-black': isExpanded,
-                    'text-white': !isExpanded,
-                  })}
+                  tag={'span'}
+                  className={clsx(
+                    'px-[2.5px] mr-[16px] l:mr-[13.5px] body2 !leading-16 !font-medium',
+                    {
+                      'text-black': isExpanded,
+                      'text-white': !isExpanded,
+                    }
+                  )}
                   field={fields.menuLabel}
                 />
               )}
@@ -525,7 +525,7 @@ const Header = ({ fields }: HeaderProps) => {
                   'text-white icon-burger': !isExpanded,
                 })}
               />
-            </li>
+            </button>
           </ul>
         </div>
       </div>
@@ -535,7 +535,7 @@ const Header = ({ fields }: HeaderProps) => {
 
   return (
     <>
-      <div className="w-full h-full l:h-fit" ref={navigationRef}>
+      <div className="w-full relative h-full l:h-fit" ref={navigationRef}>
         <div
           className={clsx('fixed top-0 w-full l:h-fit z-[2]', {
             'z-[3]': isUserProfileClick,
@@ -553,7 +553,17 @@ const Header = ({ fields }: HeaderProps) => {
         >
           {renderNavigation()}
         </div>
+        {isExpanded && (
+          <button
+            className="absolute top-[32.5px] left-[50%] opacity-0 z-[2] focus:!opacity-100 p-0 text-center -translate-x-1/2 -translate-y-1/2 font-primary text-[14px] !text-black leading-normal !font-medium basicFocus"
+            title="Exit Menu"
+            onClick={() => setIsExpanded(false)}
+          >
+            Exit Menu
+          </button>
+        )}
       </div>
+
       <div
         className={clsx('absolute top-[765px] left-0 right-0 bottom-0 bg-black/[0.8] hidden', {
           'l:!block z-[3]': isExpanded,
