@@ -61,13 +61,13 @@ const BrandCapabilityList = ({ fields }: BrandCapabilityListProps): JSX.Element 
         )}
       </div>
       {fields?.brandCapabilityList?.length && fields?.brandCapabilityList?.length > 0 && (
-        <ul className="mt-6 pl-8 pb-8 smd:gap-20 columns-3">
+        <ul className="mt-6 pl-8 pb-8 smd:gap-20 smd:columns-3">
           {fields?.brandCapabilityList?.map((linkList: LinkField, index: number) => (
             <li className="body2 w-full py-3.5" key={index}>
               <Button
                 variant={'standard'}
                 field={linkList}
-                className="!text-black lg:hover:!text-primary !basicFocusSmallBorder !body2"
+                className="!text-black hover:!text-primary !basicFocusSmallBorder !body2"
               />
             </li>
           ))}

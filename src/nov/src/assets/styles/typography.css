@@ -33,10 +33,10 @@
     @apply inline-flex cursor-pointer text-gray-dark lg:hover:!underline basicFocus;
   }
   .basicFocus {
-    @apply lg:focus:outline-dotted lg:focus:outline-2 lg:focus:outline-secondary hover:!outline-0 active:!outline-0;
+    @apply focus:outline-dotted focus:outline-2 focus:outline-secondary hover:!outline-0 active:!outline-0;
   }
   .basicFocusSmallBorder {
-    @apply lg:focus:outline-dotted lg:focus:outline-1 lg:focus:outline-secondary hover:!outline-0 active:!outline-0;
+    @apply focus:outline-dotted focus:outline-1 focus:outline-secondary hover:!outline-0 active:!outline-0;
   }
   .rte h1 {
     @apply h1;
