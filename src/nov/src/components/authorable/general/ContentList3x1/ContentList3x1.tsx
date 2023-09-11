@@ -67,7 +67,7 @@ const ContentList3x1 = ({ fields }: ContentList3x1Props): JSX.Element => {
 
   return (
     <>
-      <div className="w-full pt-[30px] md:pt-20 lg:pb-[50px]">
+      <div className="w-full pt-[30px] smd:pt-20">
         <div className="container">
           {fields?.data?.datasource?.headline?.jsonValue && (
             <div className="E4-content-list__title">
@@ -84,8 +84,7 @@ const ContentList3x1 = ({ fields }: ContentList3x1Props): JSX.Element => {
                 <Fragment key={index}>
                   {Item?.primaryURL?.path && (
                     <div
-                      className="w-full max-w-[352px] lg:max-w-none lg:w-1/3 mx-auto lg:mx-0 lg:px-[15px] justify-start flex flex-col hover:!no-underline basicFocus cursor-pointer"
-                      // href={Item?.primaryURL?.path}
+                      className="w-full max-w-[352px] lg:max-w-none lg:w-1/3 mx-auto lg:mx-0 lg:px-[15px] smd:mb-[50px] justify-start flex flex-col hover:!no-underline basicFocus cursor-pointer"
                       onClick={(e) => {
                         if (Item?.primaryURL?.path) {
                           e.stopPropagation();
