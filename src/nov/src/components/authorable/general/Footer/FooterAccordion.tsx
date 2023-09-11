@@ -146,7 +146,7 @@ const FooterAccordion = ({ FMItem, indexKey }: FooterAccordionProps) => {
                   </a>
                 ) : (
                   <a
-                    href={FMItem?.primaryURL?.path}
+                    href={FMItem?.redirectPageURL?.jsonValue?.value.href}
                     className="text-sm leading-6 hover:underline font-medium outline-none"
                   >
                     <Text field={FMItem?.menuTitle?.jsonValue} />
