@@ -63,6 +63,7 @@ const SocialChannels = ({ fields }: SocialChannelsProps): JSX.Element => {
                         <a
                           href={elem?.fields?.socialChannelUrl?.value}
                           target="_blank"
+                          rel="noreferrer"
                           className="focus:outline-none hover:!no-underline"
                         >
                           <Icon className={`text-5xl icon-${elem?.fields?.socialChannel?.value}`} />
