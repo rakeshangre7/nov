@@ -7,12 +7,50 @@ SharedFields:
 - ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
   Hint: componentName
   Value: HeroSlider
+- ID: "069a8361-b1cd-437c-8c32-a3be78941446"
+  Hint: Placeholders
+  Value: "{E10DEBD2-08ED-420B-A824-450B4F6D1972}"
+- ID: "17bb046a-a32a-41b3-8315-81217947611b"
+  Hint: ComponentQuery
+  Value: |
+    query HeroQuery($datasource: String!, $contextItem: String!, $language: String!) {
+      datasource: item(path: $datasource, language: $language) {	
+    heading : field(name: "heading") {
+    	  jsonValue
+    	}
+        image: field(name: "image"){
+          jsonValue
+        }
+          subheading: field(name: "subheading"){
+          jsonValue
+        }
+          cta: field(name: "cta"){
+          jsonValue
+        }
+      }
+      contextItem: item(path: $contextItem, language: $language) {
+    	
+    	heading : field(name: "headline") {
+    	  jsonValue
+    	}
+        	subheading : field(name: "subheading") {
+    	  jsonValue
+    	}
+        	image : field(name: "pageImage") {
+    	  jsonValue
+    	}
+        
+      }
+    }
 - ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
   Hint: Datasource Template
   Value: /sitecore/templates/Project/nov/NOV Com/Modules/Hero Modules/Hero Slider
 - ID: "a2f5d9df-8cba-4a1d-99eb-51acb94cb057"
   Hint: Page Editor Buttons
   Value: "{DF16706F-A9C3-4076-814A-9265D4733C04}"
+- ID: "a77e8568-1ab3-44f1-a664-b7c37ec7810d"
+  Hint: Parameters Template
+  Value: "{008F56DA-9C55-4566-9A33-69EFDB33BD19}"
 - ID: "b5b27af1-25ef-405c-87ce-369b3a004016"
   Hint: Datasource Location
   Value: "query:./ancestor::*[@@templateid='{27F15A8D-52B6-4041-8CCE-3BF06E779396}']/*[@@templateid='{F01F683A-767B-4AC4-8EBC-04B38472A649}']"
@@ -34,14 +72,14 @@ Languages:
       Value: 20190121T230931Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "f49cf3d1-1835-4008-913f-82075959fecb"
+      Value: "ce0ccde6-1c4b-4b46-add9-a9ea0b286c62"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\varalakshmi.md@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230710T153523Z
+      Value: 20230905T142924Z
 - Language: "en-US"
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
@@ -63,11 +101,11 @@ Languages:
         sitecore\laufrie
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "0b355ae6-5379-4129-a035-86ce669fa6c8"
+      Value: "23b20ddf-0427-4bfd-8f0d-40e244a5f094"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\ashwin
+        sitecore\varalakshmi.md@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20190313T152408Z
+      Value: 20230831T073941Z
