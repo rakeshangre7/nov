@@ -12,6 +12,7 @@ const meta: Meta<typeof Header> = {
   title: 'Authorable/General/Header',
   component: Header,
   argTypes: {},
+  tags: ['autodocs'],
 };
 
 export default meta;

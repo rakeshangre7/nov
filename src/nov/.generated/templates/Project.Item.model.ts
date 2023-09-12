@@ -15,29 +15,29 @@ import { ComponentRendering, RouteData, Field, ImageField, FileField, LinkField 
 import { DefaultComponentProps } from '@/lib/component-props';
 
 
-export namespace Project.Item.NovShared.ItemTypes.Fields {
-    export type 403AccessDenied = 
-            Project.Item.NovCom.ItemTypes.Fields.ContentPage & { 
-        fields?: {  
-        }
- }; 
-}
+// export namespace Project.Item.NovShared.ItemTypes.Fields {
+//     export type 403AccessDenied = 
+//             Project.Item.NovCom.ItemTypes.Fields.ContentPage & { 
+//         fields?: {  
+//         }
+//  }; 
+// }
 
-export namespace Project.Item.NovShared.ItemTypes.Fields {
-    export type 404PageNotFound = 
-            Project.Item.NovCom.ItemTypes.Fields.ContentPage & { 
-        fields?: {  
-        }
- }; 
-}
+// export namespace Project.Item.NovShared.ItemTypes.Fields {
+//     export type 404PageNotFound = 
+//             Project.Item.NovCom.ItemTypes.Fields.ContentPage & { 
+//         fields?: {  
+//         }
+//  }; 
+// }
 
-export namespace Project.Item.NovShared.ItemTypes.Fields {
-    export type 410PageGone = 
-            Project.Item.NovCom.ItemTypes.Fields.ContentPage & { 
-        fields?: {  
-        }
- }; 
-}
+// export namespace Project.Item.NovShared.ItemTypes.Fields {
+//     export type 410PageGone = 
+//             Project.Item.NovCom.ItemTypes.Fields.ContentPage & { 
+//         fields?: {  
+//         }
+//  }; 
+// }
 
 export namespace Project.Item.NovShared.RenderingParameters.Fields {
     export type AbsoluteUrls = { 
@@ -144,7 +144,19 @@ export namespace Project.Item.NovCom.Modules.Fields {
             /**
             * Represents the ctaLink field (e4965b05-120c-4b0a-b5c7-60e1ebdf07cd).
             */
-            ctaLink: unknown // general link with search;
+            ctaLink: LinkField;
+ 
+        }
+ }; 
+}
+
+export namespace Project.Item.NovCom.RenderingParameters.Fields {
+    export type ArticleText = { 
+        fields?: { 
+            /**
+            * Represents the Use Button For Link field (744ad54a-d379-4866-9438-5990cf7b3e58).
+            */
+            useButtonForLink: Field<boolean>;
  
         }
  }; 
@@ -2387,7 +2399,7 @@ export namespace Project.Item.NovCom.Modules.HeroModules.Fields {
             /**
             * Represents the slides field (1316b1c3-1199-40b1-840a-18e888cbe095).
             */
-            slides: unknown // treelist with params;
+            slides: Sitecore.Override.ItemEx[];
 
             /**
             * Represents the trendingSearchKeywords field (f9bd8f5d-afcd-48d4-b627-c7ab1b8b35ed).
@@ -5223,3 +5235,5 @@ export namespace Project.Item.NovCom.Modules.Fields {
         }
  }; 
 }
+
+

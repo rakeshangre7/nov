@@ -23,14 +23,14 @@ const nextConfig = {
   i18n: {
     // These are all the locales you want to support in your application.
     // These should generally match (or at least be a subset of) those in Sitecore.
-    locales: ['en', 'en-US'],
+    locales: ['en-US'],
     // This is the locale that will be used when visiting a non-locale
     // prefixed path e.g. `/styleguide`.
     defaultLocale: jssConfig.defaultLanguage,
   },
 
   images: {
-    domains: ['www.nov.com'],
+    domains: ['www.nov.com', 'edge.sitecorecloud.io'],
     path: `${publicUrl}/_next/image`,
     dangerouslyAllowSVG: true,
   },

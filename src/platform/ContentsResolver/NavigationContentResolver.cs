@@ -43,8 +43,9 @@ namespace XmCloudnov.ContentResolver
                 navigationModel.PortalDescription = NOVSitecoreHelper.GetStringValue(startItem.Fields[HomeRootFields.PortalDescriptionFieldId]?.Value);
                 navigationModel.PortalHeader = NOVSitecoreHelper.GetStringValue(startItem.Fields[HomeRootFields.PortalHeaderFieldId]?.Value);
                 navigationModel.PortalRegisterUrl = NOVSitecoreHelper.GetLinkValue(startItem, HomeRootFields.PortalRegisterUrlFieldId);
+                navigationModel.LabelOverview = NOVSitecoreHelper.GetStringValue(startItem.Fields[HomeRootFields.LabelOverviewFieldId]?.Value);
 
-                SetUrlFromRedirectPage(startItem, navigationModel.PortalRegisterUrl,HomeRootFields.PortalRegisterUrlFieldId);
+                SetUrlFromRedirectPage(startItem, navigationModel.PortalRegisterUrl, HomeRootFields.PortalRegisterUrlFieldId);
 
                 navigationModel.PortalRegisterUrlText = NOVSitecoreHelper.GetStringValue(((LinkField)startItem.Fields[HomeRootFields.PortalRegisterUrlFieldId]).Text);
                 navigationModel.PortalLoginUrl = NOVSitecoreHelper.GetLinkValue(startItem, HomeRootFields.NOVPortalLoginFieldId);
@@ -71,6 +72,7 @@ namespace XmCloudnov.ContentResolver
                 navigationModel.MenuLabel = NOVSitecoreHelper.GetStringValue(startItem.Fields[HomeRootFields.MenuLabelFieldId]?.Value);
                 navigationModel.SiteLogo = NOVSitecoreHelper.GetImage(startItem, HomeRootFields.SiteLogoImageFieldId);
                 navigationModel.SiteLogoTransparent = NOVSitecoreHelper.GetImage(startItem, HomeRootFields.SiteLogoTransparentImageFieldId);
+                navigationModel.ExitMenu = new StringField() { value = NovSitecoreConstants.Menu.ExitMenu };
 
                 foreach (Item item in startItem.Children.Where(i => i.Language == Context.Language))
                 {
@@ -99,7 +101,7 @@ namespace XmCloudnov.ContentResolver
             return navigationModel;
         }
 
-        private static void SetUrlFromRedirectPage(Item startItem, NOVLink novLink,ID targetID)
+        private static void SetUrlFromRedirectPage(Item startItem, NOVLink novLink, ID targetID)
         {
             LinkField registerlinkField = startItem.Fields[targetID];
             if (registerlinkField != null && registerlinkField.IsInternal && registerlinkField.TargetItem != null)

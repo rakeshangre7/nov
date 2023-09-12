@@ -1,11 +1,13 @@
 import Icon from '@/components/helpers/Icon/Icon';
-import { Field, ImageField, LinkField, NextImage, Text } from '@sitecore-jss/sitecore-jss-nextjs';
+import { Field, ImageField, LinkField, Text } from '@sitecore-jss/sitecore-jss-nextjs';
 import clsx from 'clsx';
 import React, { useEffect, useRef, useState, KeyboardEvent } from 'react';
 import UserAccount from './UserAccount';
 import Button from '@/components/helpers/Button/Button';
 import { useBreakpoints } from '@/components/utility/breakpoints.jsx';
 import { useRouter } from 'next/router';
+import ImageWrapper from '@/components/helpers/ImageWrapper/ImageWrapper';
+import { Fragment } from 'react';
 
 // Ideally, all this is from generated Typescript code from Sitecore and we're not manually defining types.
 type renderLinkProps = {
@@ -59,6 +61,8 @@ export type HeaderProps = {
   dataSource?: string;
   params?: { [key: string]: string };
   fields?: {
+    exitMenu?: Field<string>;
+    labelOverview?: Field<string>;
     portalDescription?: Field<string>;
     portalRegisterUrl?: LinkField;
     portalRegisterUrlText?: Field<string> | null;
@@ -85,14 +89,18 @@ const Header = ({ fields }: HeaderProps) => {
   const navigationRef = useRef<HTMLDivElement>(null);
   const userRef = useRef<HTMLLIElement>(null);
   const [isSticky, setIsSticky] = useState<boolean>(false);
+  const [isTransparent, setIsTransparent] = useState<boolean>(true);
   const [isExpanded, setIsExpanded] = useState<boolean>(false);
   const [isUserProfileClick, setIsUserProfileClick] = useState<boolean>(false);
   const [activeNavbarStoryDetail, setActiveNavbarStoryDetail] = useState<featureDetailProps>({});
   const [selectedPrimaryLink, setSelectedPrimaryLink] = useState<boolean | string>(false);
   const [selectedSecondaryLink, setSelectedSecondaryLink] = useState<boolean | string>();
-  const { isMiniDesktop, isDesktop } = useBreakpoints();
+  const { isMiniDesktop, isTabletAndDesktop } = useBreakpoints();
   const router = useRouter();
 
+  useEffect(() => {
+    setIsTransparent(!document?.getElementById('header')?.classList?.contains('no-hero'));
+  }, []);
   const handleScroll = () => {
     const currentScrollPos = window.pageYOffset;
     setIsSticky(currentScrollPos > 30);
@@ -156,19 +164,20 @@ const Header = ({ fields }: HeaderProps) => {
   }, []);
   const renderHeaderTeaser = () => {
     return (
-      <div className="w-[389px] h-[700px] bg-white fixed border-l-[1px] border-gray-light top-[65px] z-[3] right-0 l:w-[463px] flex justify-between flex-col">
+      <div className="w-[389px] h-[700px] bg-white fixed border-l-[1px] border-gray-light top-[65px] z-[3] right-0 l:w-[464px] flex justify-between flex-col">
         <div>
           {activeNavbarStoryDetail?.cardImage?.value?.src && (
-            <NextImage
+            <ImageWrapper
               field={activeNavbarStoryDetail?.cardImage}
               tabIndex={0}
               className="basicFocus cursor-pointer"
+              editable={false}
               onClick={() => {
                 if (activeNavbarStoryDetail?.featuredStoryCTALink?.value?.href) {
                   router.push(activeNavbarStoryDetail?.featuredStoryCTALink?.value?.href);
                 }
               }}
-              onKeyUp={(e) => {
+              onKeyUp={(e: KeyboardEvent) => {
                 if (
                   e.keyCode === 13 &&
                   activeNavbarStoryDetail?.featuredStoryCTALink?.value?.href
@@ -218,7 +227,7 @@ const Header = ({ fields }: HeaderProps) => {
             iconPosition="right"
             iconClassName="icon-arrow-right"
             iconFullWidth={true}
-            className="!min-h-[40px] max-h-[40px] text-[16px] px-[33px] py-[12px]"
+            className="!min-h-[40px] max-h-[40px] text-[16px] px-[33px] py-[12px] [&_span]:ml-[-1px] [&_span]:font-bold	"
             text={activeNavbarStoryDetail?.featuredStoryCTAText?.value}
             field={activeNavbarStoryDetail?.featuredStoryCTALink}
           />
@@ -232,17 +241,19 @@ const Header = ({ fields }: HeaderProps) => {
       <div className="relative l:h-full">
         {navList?.map((navbar: subPagesProps, index: number) => {
           return (
-            <>
+            <Fragment key={index}>
               {navbar.url && !navbar.hideInNavigation && (
                 <Button
                   variant={'secondary'}
                   auto={false}
                   className={clsx(
-                    'mt-[14px] navigationTransitionInitial relative ml-[2px] text-lightBlack l:max-w-[165px] xl:max-w-[225px] [&_span]:max-w-full  min-h-[28px] l:[&_span]:max-w-[193px] active:!text-lightBlack l:active:!text-primary :hover:!text-primary basicFocus',
+                    'mt-[14px] navigationTransitionInitial relative ml-[2px] !leading-[18px] text-lightBlack l:max-w-[165px] xl:max-w-[225px] py-[5px] [&_span]:max-w-full l:[&_span]:max-w-[193px] active:!text-lightBlack l:active:!text-primary hover:!text-primary basicFocus',
                     {
                       '!text-primary !cursor-default !outline-none':
-                        selectedPrimaryLink === navbar?.itemId ||
-                        selectedSecondaryLink === navbar?.itemId,
+                        !(isSecondary && index === 0) &&
+                        !isTertiary &&
+                        (selectedPrimaryLink === navbar?.itemId ||
+                          selectedSecondaryLink === navbar?.itemId),
                       navigationTransitionFinal:
                         (isPrimary || show) &&
                         isExpanded &&
@@ -259,10 +270,21 @@ const Header = ({ fields }: HeaderProps) => {
                     }
                   )}
                   style={index ? { transitionDelay: `${100 * (index / 2)}ms` } : {}}
-                  text={isDesktop ? navbar?.menuTitle?.value : navbar?.mobileMenuTitle?.value}
+                  text={`${
+                    isTabletAndDesktop ? navbar?.menuTitle?.value : navbar?.mobileMenuTitle?.value
+                  } ${
+                    (isSecondary || isTertiary) && index === 0 && fields?.labelOverview?.value
+                      ? fields?.labelOverview?.value
+                      : ''
+                  }`}
                   field={navbar.url}
                   onClick={(e) => {
-                    if (navbar?.subPages && !navbar.hideSubNavigation) {
+                    if (
+                      navbar?.subPages &&
+                      !navbar.hideSubNavigation &&
+                      !(isSecondary && index === 0) &&
+                      !isTertiary
+                    ) {
                       if (navbar.subPages?.length > 0) {
                         e.preventDefault();
                         e.stopPropagation();
@@ -285,6 +307,7 @@ const Header = ({ fields }: HeaderProps) => {
                   }}
                   {...(!isTertiary &&
                     navbar?.subPages &&
+                    !(isSecondary && index === 0) &&
                     !navbar.hideSubNavigation &&
                     navbar.subPages?.length > 0 && {
                       iconPosition: 'right',
@@ -299,7 +322,7 @@ const Header = ({ fields }: HeaderProps) => {
                 !navbar.hideSubNavigation && (
                   <div
                     className={clsx(
-                      'absolute top-0 left-0 l:left-[100%] h:fit l:h-[700px] w-full l:w-[220px] items-start pr-0 xl:w-[300px] pl-[1px] ',
+                      'absolute top-0 left-0 ml-[-1px] l:left-[100%] h:fit l:h-[700px] w-full l:w-[220px] items-start pr-0 xl:w-[300px] pl-[1px] ',
                       {
                         '!invisible navigationTransitionInitial':
                           selectedPrimaryLink !== navbar.itemId,
@@ -308,7 +331,7 @@ const Header = ({ fields }: HeaderProps) => {
                   >
                     {renderLinks({
                       isSecondary: true,
-                      navList: navbar.subPages,
+                      navList: [navbar, ...navbar.subPages]?.filter((nav) => !nav.hideInNavigation),
                       show: selectedPrimaryLink === navbar.itemId,
                     })}
                   </div>
@@ -329,12 +352,12 @@ const Header = ({ fields }: HeaderProps) => {
                   >
                     {renderLinks({
                       isTertiary: true,
-                      navList: navbar.subPages,
+                      navList: [navbar, ...navbar.subPages]?.filter((nav) => !nav.hideInNavigation),
                       show: selectedSecondaryLink === navbar.itemId,
                     })}
                   </div>
                 )}
-            </>
+            </Fragment>
           );
         })}
       </div>
@@ -351,10 +374,10 @@ const Header = ({ fields }: HeaderProps) => {
         )}
       >
         <div className="px-[25px] relative h-[calc(100%-228px)] smd:!h-full overflow-x-hidden overflow-y-auto scroll-auto mt-[-1px] l:hidden bg-white no-scrollbar">
-          <a className="bg-red !w-fit cursor-pointer">
+          <a className="!w-fit mt-[18px] cursor-pointer hover:!no-underline">
             <Icon
               className={clsx(
-                'icon-arrow-left text-black opacity-100 w-fit visible mt-[18px] text-base',
+                'icon-arrow-left text-black opacity-100 w-fit visible hover:!no-underline text-base',
                 {
                   'opacity-0 invisible': !selectedPrimaryLink,
                 }
@@ -368,15 +391,21 @@ const Header = ({ fields }: HeaderProps) => {
               }}
             ></Icon>
           </a>
-          <div className="relative mt-[7px]">
-            {renderLinks({ isPrimary: true, navList: fields?.navigationEntries })}
+          <div className="relative ml-[-1px] mr-4 mt-[3px] l:ml-0 l:mr-0 l:mt-[7px]">
+            {renderLinks({
+              isPrimary: true,
+              navList: fields?.navigationEntries?.filter((nav) => !nav.hideInNavigation),
+            })}
           </div>
         </div>
         <div className="bg-white relative h-[700px] w-full hidden l:block">
           <div className="container flex mx-auto h-full bg-white ">
             <div className="w-full h-full">
-              <div className="w-[220px] items-start pr-0 xl:w-[300px] h-full mt-[52px] pl-[1px] ">
-                {renderLinks({ isPrimary: true, navList: fields?.navigationEntries })}
+              <div className="w-[220px] items-start pr-0 xl:w-[300px] h-full mt-[51px]  ">
+                {renderLinks({
+                  isPrimary: true,
+                  navList: fields?.navigationEntries?.filter((nav) => !nav.hideInNavigation),
+                })}
               </div>
             </div>
           </div>
@@ -397,30 +426,32 @@ const Header = ({ fields }: HeaderProps) => {
   const renderBasicHeaderInfo = () => {
     return (
       <div
-        className={clsx(
-          'headerWrapper w-full transition-all bg-transparent duration-200 h-[65px]',
-          {
-            '!bg-black': isSticky,
-            '!bg-white': isExpanded,
-          }
-        )}
+        className={clsx('headerWrapper w-full transition-all duration-200 h-[65px]', {
+          'bg-transparent': isTransparent,
+          '!bg-black': isSticky || !isTransparent,
+          '!bg-white': isExpanded,
+        })}
       >
         <div className="container xl:max-w-nxl l:max-w-nlg lg:max-w-full  mx-auto h-full flex justify-between items-center">
           <a className="log-wrapper text-white basicFocus" href="/">
             {!isExpanded ? (
               <>
                 {fields?.siteLogoTransparent?.value?.src && (
-                  <NextImage field={fields?.siteLogoTransparent} />
+                  <ImageWrapper field={fields?.siteLogoTransparent} editable={false} />
                 )}
               </>
             ) : (
-              <> {fields?.siteLogo?.value?.src && <NextImage field={fields?.siteLogo} />}</>
+              <>
+                {fields?.siteLogo?.value?.src && (
+                  <ImageWrapper field={fields?.siteLogo} editable={false} />
+                )}
+              </>
             )}
           </a>
           <ul className="flex items-center">
             <li
               tabIndex={0}
-              className="h-[30px] w-[30px] mr-[15px] flex justify-center items-center cursor-pointer basicFocus rounded-[1px]"
+              className="h-[30px] w-[30px] mr-[16px] flex justify-center items-center cursor-pointer basicFocus rounded-[1px]"
             >
               <Icon
                 className={clsx('icon-search text-xl ', {
@@ -443,7 +474,7 @@ const Header = ({ fields }: HeaderProps) => {
                   setIsUserProfileClick(!isUserProfileClick);
                 }
               }}
-              className="h-[30px] relative w-[30px] mr-[17px] hidden smd:flex justify-center items-center cursor-pointer basicFocus rounded-[1px] "
+              className="h-[30px] relative w-[30px] mr-[16px] hidden smd:flex justify-center items-center cursor-pointer basicFocus rounded-[1px] "
             >
               <Icon
                 id={'userProfileIcon'}
@@ -472,23 +503,20 @@ const Header = ({ fields }: HeaderProps) => {
                 </div>
               }
             </li>
-            <li
-              tabIndex={0}
-              className="flex items-center basicFocus px-[2.5px] mr-[1px] l:mr-0 cursor-pointer h-[30px] rounded-[1px]"
+            <button
+              className="flex items-center basicFocus  mr-[1px] l:mr-[2.5px] cursor-pointer h-[30px] rounded-[1px]"
               onClick={() => setIsExpanded(!isExpanded)}
-              onKeyUp={(e) => {
-                if (e.keyCode === 13) {
-                  setIsExpanded(!isExpanded);
-                }
-              }}
             >
               {fields?.menuLabel && (
                 <Text
-                  tag={'p'}
-                  className={clsx(' mr-[15px] body2 !leading-16 font-medium', {
-                    'text-black': isExpanded,
-                    'text-white': !isExpanded,
-                  })}
+                  tag={'span'}
+                  className={clsx(
+                    'px-[2.5px] mr-[16px] l:mr-[13.5px] body2 !leading-16 !font-medium',
+                    {
+                      'text-black': isExpanded,
+                      'text-white': !isExpanded,
+                    }
+                  )}
                   field={fields.menuLabel}
                 />
               )}
@@ -498,17 +526,19 @@ const Header = ({ fields }: HeaderProps) => {
                   'text-white icon-burger': !isExpanded,
                 })}
               />
-            </li>
+            </button>
           </ul>
         </div>
       </div>
     );
   };
+  if (fields === null || fields === undefined) return <></>;
+
   return (
     <>
-      <div className="w-full h-full l:h-fit" ref={navigationRef}>
+      <div className="w-full relative h-full l:h-fit" ref={navigationRef}>
         <div
-          className={clsx('fixed top-0 w-full h-full l:h-fit z-[2]', {
+          className={clsx('fixed top-0 w-full l:h-fit z-[2]', {
             'z-[3]': isUserProfileClick,
           })}
         >
@@ -524,7 +554,16 @@ const Header = ({ fields }: HeaderProps) => {
         >
           {renderNavigation()}
         </div>
+        {isExpanded && fields?.exitMenu?.value && (
+          <button
+            className="absolute top-[32.5px] left-[50%] opacity-0 z-[2] focus:!opacity-100 p-0 text-center -translate-x-1/2 -translate-y-1/2 font-primary text-[14px] !text-black leading-normal !font-medium basicFocus"
+            onClick={() => setIsExpanded(false)}
+          >
+            {fields.exitMenu.value}
+          </button>
+        )}
       </div>
+
       <div
         className={clsx('absolute top-[765px] left-0 right-0 bottom-0 bg-black/[0.8] hidden', {
           'l:!block z-[3]': isExpanded,

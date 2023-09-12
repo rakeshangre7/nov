@@ -10,18 +10,37 @@ const srOnlySpan = '<span class="sr-only"> (Opens in a new tab)</span>';
 
 interface RichTextProp extends RichTextProps {
   className?: string;
+  characterLimit?: number;
 }
-const RichTextA11yWrapper = ({ field, editable = true, ...props }: RichTextProp): JSX.Element => {
+const RichTextA11yWrapper = ({
+  field,
+  characterLimit,
+  editable = true,
+  ...props
+}: RichTextProp): JSX.Element => {
   /**
    * Hook for experience editor
    */
   const isExperienceEditor = useExperienceEditor();
 
-  const [content, setContent] = useState(field?.value);
-
-  const updatedField: Field<string> = {
-    value: content || '',
+  const getCharacterLimitedData = () => {
+    if (characterLimit && content && content.length > characterLimit) {
+      const truncatedContent = `${content?.substring(0, characterLimit)}...`;
+      return {
+        value: truncatedContent,
+      };
+    } else {
+      return {
+        value: content || '',
+      };
+    }
   };
+  const [content, setContent] = useState(field?.value);
+  const [updatedField, setUpdatedField] = useState<Field<string>>(getCharacterLimitedData());
+
+  useEffect(() => {
+    setUpdatedField(getCharacterLimitedData());
+  }, [characterLimit, content]);
 
   // Run this client-side because we don't have access to the document server-side
   useEffect(() => {

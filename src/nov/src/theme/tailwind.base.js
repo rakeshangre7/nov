@@ -16,7 +16,7 @@ module.exports = {
       square: '1 / 1',
     },
     fontFamily: {
-      primary: ['Source Sans Pro', 'sans-serif'],
+      primary: ['Source Sans Pro', 'Calibri', 'Apple SD Gothic Neo', 'Helvetica', 'Arial'],
       icomoon: ['icomoon'],
     },
     borderWidth: {
@@ -34,6 +34,7 @@ module.exports = {
       ...COLORS,
     },
     fontSize: {
+      '9xl': pxToRem(104),
       '8xl': pxToRem(80),
       '7xl': pxToRem(48),
       '6xl': pxToRem(40),
@@ -50,6 +51,8 @@ module.exports = {
       '3xs': pxToRem(10),
     },
     lineHeight: {
+      104: pxToRem(104),
+      82: pxToRem(82),
       80: pxToRem(80),
       56: pxToRem(56),
       52: pxToRem(52),
@@ -64,6 +67,7 @@ module.exports = {
       28: pxToRem(28),
       24: pxToRem(24),
       16: pxToRem(16),
+      14: pxToRem(14),
       12: pxToRem(12),
       0: 0,
     },
@@ -112,6 +116,18 @@ module.exports = {
       xxs: '0.5rem',
       xxxs: '0.25rem',
       0: '0px',
+    },
+    transitionDuration: {
+      6000: '6000ms',
+    },
+    keyframes: {
+      progress: {
+        from: { width: '0%' },
+        to: { width: '100%' },
+      },
+    },
+    animation: {
+      progress: 'progress 6s linear forwards',
     },
   },
 };

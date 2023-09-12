@@ -6,10 +6,10 @@ Path: /sitecore/templates/Project/nov/NOV Shared/Rendering Parameters/Background
 SharedFields:
 - ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
   Hint: Source
-  Value: /sitecore/content/System/Background Colors
+  Value: "{C7BEF56A-0801-4854-86BA-9453B99E84F5}"
 - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
   Hint: Type
-  Value: Droplink
+  Value: Droplist
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 100
@@ -27,14 +27,14 @@ Languages:
         sitecore\varalakshmi.md@horizontal.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "541af53c-bdff-4a28-b9c2-5bffddbc3497"
+      Value: "c36c2dac-e28d-4aa1-9690-920a7233b4e2"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\varalakshmi.md@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230820T071033Z
+      Value: 20230908T111129Z
 - Language: "en-US"
   Versions:
   - Version: 1

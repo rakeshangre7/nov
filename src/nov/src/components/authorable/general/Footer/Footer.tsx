@@ -138,14 +138,14 @@ const Footer = ({ fields }: FooterProps): JSX.Element => {
 
   return (
     <>
-      <div className="flex flex-wrap">
-        <div className="w-3/6 lg:w-[calc(17%)] h-20 lg:h-auto flex items-center order-1 bg-gray-lightest md:grow lg:grow-0 pl-8 lg:pl-20">
+      <div className="flex flex-wrap pt-[30px] md:pt-20">
+        <div className="w-3/6 lg:w-[calc(17%)] h-20 lg:h-auto flex items-center order-1 bg-gray-lightest md:grow lg:grow-0 pl-8 smd:pl-20">
           <div className="main-logo">
             <Image field={footerItem?.logo?.jsonValue} />
           </div>
         </div>
         <Button
-          className="w-3/6 md:w-[240px] flex order-3"
+          className="w-3/6 lg:w-60 md:w-[205px] flex order-3"
           field={footerItem?.contactLink.jsonValue}
           variant="button"
         />
@@ -155,7 +155,7 @@ const Footer = ({ fields }: FooterProps): JSX.Element => {
             <ul className="lg:pt-7 lg:pb-8 lg:grid lg:grid-flow-col justify-stretch">
               {Array.isArray(footerMenu) &&
                 footerMenu?.map((Item: NavLink, index: number) => (
-                  <FooterAccordion FMItem={Item} key={index} />
+                  <FooterAccordion FMItem={Item} key={index} indexKey={index} />
                 ))}
             </ul>
           </nav>

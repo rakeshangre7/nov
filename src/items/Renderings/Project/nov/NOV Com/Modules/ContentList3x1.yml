@@ -7,6 +7,44 @@ SharedFields:
 - ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
   Hint: componentName
   Value: ContentList3x1
+- ID: "17bb046a-a32a-41b3-8315-81217947611b"
+  Hint: ComponentQuery
+  Value: |
+    query contentlist($datasource: String!, $language: String!) {
+      datasource: item(path: $datasource, language: $language) {
+        headline: field(name: "headline") {
+          jsonValue
+        }
+        pages: field(name: "pages") {
+          ... on MultilistField {
+            targetItems {
+              headline: field(name: "headline") {
+                jsonValue
+              }
+              cardImage: field(name: "cardImage") {
+                jsonValue
+              }
+              subheading: field(name: "subheading") {
+                jsonValue
+              }
+              primaryURL: url {
+                path
+                url
+              }
+            }
+          }
+        }
+      }
+      contextItem: item(
+        path: "/sitecore/content/nov/nov/Home"
+        language: $language
+      ) {
+        cardCtaText: field(name: "cardCtaText") {
+          jsonValue
+        }
+      }
+    }
+    
 - ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
   Hint: Datasource Template
   Value: /sitecore/templates/Project/nov/NOV Com/Modules/Content List 3x1
@@ -54,14 +92,14 @@ Languages:
         sitecore\ashwin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "29330455-5ba9-4b9e-9335-eeb3059c4b95"
+      Value: "17bf2e5a-152d-4fc9-a504-b2ed25473a41"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\varalakshmi.md@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230710T153534Z
+      Value: 20230906T151108Z
 - Language: "en-US"
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
@@ -83,11 +121,11 @@ Languages:
         sitecore\ashwin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "ca72e495-9c50-4b0f-b50d-403fcb3fee7a"
+      Value: "adae42e0-d96d-461c-ad00-367e641e8723"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\ashwin
+        sitecore\varalakshmi.md@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20190520T182543Z
+      Value: 20230904T114607Z

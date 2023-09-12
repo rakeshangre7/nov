@@ -92,21 +92,9 @@ namespace XmCloudnov.Models
             }
         }
 
-        //public IEnumerable<NavigationEntryModel> VisibleNavigationEntries
-        //{
-        //    get
-        //    {
-        //        return NavigationEntries.Where(entry => !entry.HideInNavigation);
-        //    }
-        //}
+        public StringField ExitMenu { get; set; }
 
-        //public IEnumerable<NavigationEntryModel> VisibleFooterNavigationEntries
-        //{
-        //    get
-        //    {
-        //        return NavigationEntries.Where(entry => !entry.HideInNavigation && !entry.HideInFooterNavigation);
-        //    }
-        //}
+        public StringField LabelOverview { get; set; }
     }
 
     

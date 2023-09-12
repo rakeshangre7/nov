@@ -19,11 +19,12 @@ const UserAccount = ({
   return (
     <div
       className={clsx(
-        'h-[228px] relative z-10 w-full items-center bg-white flex flex-col justify-between',
+        'h-[228px] relative z-10 w-full cursor-auto items-center bg-white flex flex-col justify-between',
         {
           'border-t	border-gray': isMobile,
         }
       )}
+      onClick={(e) => e.stopPropagation()}
     >
       <div className="flex flex-col items-center">
         {portalHeader && (
@@ -36,14 +37,14 @@ const UserAccount = ({
         {portalDescription && (
           <Text
             tag={'p'}
-            className="text-2xs font-primary leading-[16px] text-gray-dark font-normal max-w-[190px] mx-auto mt-[22px] text-center"
+            className="text-2xs font-primary leading-[16px] text-gray-dark !font-normal max-w-[190px] mx-auto mt-[22px] text-center"
             field={portalDescription}
           />
         )}
         {portalRegisterUrl && (
           <Button
             variant="tertiary"
-            className="mx-auto leading-normal font-medium text-lightBlack mt-[15px] text-sm"
+            className="mx-auto leading-normal !font-medium text-lightBlack mt-[15px] text-sm"
             iconPosition="right"
             iconClassName="icon-chevron-right"
             field={portalRegisterUrl}
@@ -54,7 +55,7 @@ const UserAccount = ({
         <Button
           variant="button"
           auto={false}
-          className="text-sm [&_span]:mt-[-3px]"
+          className="text-sm max-h-[48px]"
           field={portalLoginUrl}
         />
       )}

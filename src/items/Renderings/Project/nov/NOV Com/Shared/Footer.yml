@@ -10,78 +10,73 @@ SharedFields:
 - ID: "17bb046a-a32a-41b3-8315-81217947611b"
   Hint: ComponentQuery
   Value: |
+    # Write your query or mutation here
+    # Write your query or mutation here
     fragment dynamicNavigation on Item {
-      ... on Menu {
-        menuTitle {
-          jsonValue
-        }
-        hideInNavigation {
-          jsonValue
-        }
-        hideInFooterNavigation {
-          jsonValue
-        }
+      menuTitle: field(name: "menuTitle") {
+        jsonValue
       }
-      url {
+      hideInNavigation: field(name: "hideInNavigation") {
+        jsonValue
+      }
+      hideInFooterNavigation: field(name: "hideInFooterNavigation") {
+        jsonValue
+      }
+      redirectPageURL: field(name: "redirectPageURL") {
+        jsonValue
+      }
+    
+      primaryURL: url {
         path
         url
       }
     }
+    
     query($datasource: String!, $language: String!) {
       footerItem: item(path: $datasource, language: $language) {
-        fields {
-          name
+        logo: field(name: "Logo") {
           jsonValue
         }
-        #Ancestor Template ID should be Your Headless Site Template ID
-        siteTemplate: ancestors(
-          includeTemplateIDs: "E3EE51AA-B2EB-4B7D-8AC4-05A6685162B2"
+        contactLink: field(name: "contactLink") {
+          jsonValue
+        }
+        copyrightText: field(name: "copyrightText") {
+          jsonValue
+        }
+        footerLinks: field(name: "footerLinks") {
+          jsonValue
+        }
+        footerSocialLinks: field(name: "footerSocialLinks") {
+          jsonValue
+        }
+      }
+      #Ancestor Template ID should be Your Headless Site Template ID
+      homeItem: item(path: "/sitecore/content/nov/nov/Home", language: "en-US") {
+        primaryMenu: children(
+          hasLayout: true
+    
+          includeTemplateIDs: [
+            "D227AB0EFD444AE0878A189949913D0B"
+            "1D0EE98495274CDEAE7DCD084F4E70E2"
+            "DBC23D7D62BD46A5B58458B43C5DFAAD"
+          ]
         ) {
-          homeItem: children(
-            hasLayout: true
-            includeTemplateIDs: "89767E68-D253-4D4D-BD77-7D385DC947BC"
-          ) {
-            results {
-              primaryMenu: children(
-                hasLayout: true
-                includeTemplateIDs: [
-                  "D227AB0EFD444AE0878A189949913D0B"
-                  "1D0EE98495274CDEAE7DCD084F4E70E2"
-                  "DBC23D7D62BD46A5B58458B43C5DFAAD"
-                ]
-              ) {
-                results {
-                  ...dynamicNavigation
-                  secondaryMenu: children(
-                    hasLayout: true
-                    includeTemplateIDs: [
-                      "800EF4CB32734756AD58FD9B119E02BF"
-                      "93E4C55D9FA44945A03A1565852B0A90"
-                      "DBC23D7D62BD46A5B58458B43C5DFAAD"
-                      "D227AB0EFD444AE0878A189949913D0B"
-                      "CED78EFE1F244E4F95F1FFBEFBC22DB9"
-                    ]
-                  ) {
-                    results {
-                      ...dynamicNavigation
-                    }
-                  }
-                  secondaryMenu2: children(
-                    hasLayout: true
-                    includeTemplateIDs: [
-                      "800EF4CB32734756AD58FD9B119E02BF"
-                      "93E4C55D9FA44945A03A1565852B0A90"
-                      "DBC23D7D62BD46A5B58458B43C5DFAAD"
-                      "D227AB0EFD444AE0878A189949913D0B"
-                      "CED78EFE1F244E4F95F1FFBEFBC22DB9"
-                    ]
-                    after: "MTA="
-                  ) {
-                    results {
-                      ...dynamicNavigation
-                    }
-                  }
-                }
+          results {
+            ...dynamicNavigation
+    
+            secondaryMenu: children(
+              hasLayout: true
+              first: 20
+              includeTemplateIDs: [
+                "800EF4CB32734756AD58FD9B119E02BF"
+                "93E4C55D9FA44945A03A1565852B0A90"
+                "DBC23D7D62BD46A5B58458B43C5DFAAD"
+                "D227AB0EFD444AE0878A189949913D0B"
+                "CED78EFE1F244E4F95F1FFBEFBC22DB9"
+              ]
+            ) {
+              results {
+                ...dynamicNavigation
               }
             }
           }
@@ -119,14 +114,14 @@ Languages:
         sitecore\varalakshmi.md@horizontal.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "ed8797d7-fad1-4a5f-aa81-ac1ab0f31dc4"
+      Value: "8df41d9a-cd4b-49f3-87b7-694c21274ac4"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\varalakshmi.md@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230725T183501Z
+      Value: 20230904T073423Z
 - Language: "en-US"
   Versions:
   - Version: 1

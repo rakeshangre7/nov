@@ -1,33 +1,28 @@
 // import { Field, withDatasourceCheck } from '@sitecore-jss/sitecore-jss-nextjs';
 import Button from '@/components/helpers/Button/Button';
 import RichTextA11yWrapper from '@/components/helpers/RichTextA11yWrapper/RichTextA11yWrapper';
-import { Field, LinkField } from '@sitecore-jss/sitecore-jss-nextjs';
 import { Text } from '@sitecore-jss/sitecore-jss-nextjs';
 import clsx from 'clsx';
+import { Project } from '.generated/templates/Project.Item.model';
+import { Sitecore } from '.generated/templates/_.Sitecore.Override';
 // Local
 
-// Ideally, all this is from generated Typescript code from Sitecore and we're not manually defining types.
-interface Fields {
-  title: Field<string>;
-  body: Field<string>;
-  cta?: LinkField;
-}
-
-export type TitleBlockProps = {
-  uid?: string;
-  componentName?: string;
-  dataSource?: string;
-  params?: { [key: string]: string };
-  fields: Fields;
-  placeholder?: string;
-};
+//Leprechaun implementation.
+export type TitleBlockProps = Sitecore.Override.ComponentBase &
+  Project.Item.NovCom.Modules.Fields.TitleBlock & {
+    params?: {
+      Styles?: string;
+      DynamicPlaceholderId?: string;
+      FieldNames?: string;
+    };
+  };
 
 const TitleBlock = ({ fields, params }: TitleBlockProps): JSX.Element => {
   // Fail out if fields aren't present
   if (fields === null || fields === undefined) return <></>;
 
   return (
-    <div className="container m-auto flex pt-[80px] flex-col justify-center">
+    <div className="container m-auto flex pt-[30px] smd:pt-20 flex-col justify-center">
       <div
         className={clsx('max-w-[736px] m-auto', {
           'text-left': params?.Styles === 'position-left',

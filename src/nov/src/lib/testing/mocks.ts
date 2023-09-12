@@ -3,9 +3,6 @@ export const mockSitecoreContext = {
     pageEditing: false,
     Languages: [
       {
-        Name: 'en',
-      },
-      {
         Name: 'en-US',
       },
     ],

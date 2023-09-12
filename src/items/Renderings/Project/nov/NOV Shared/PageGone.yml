@@ -1,15 +1,29 @@
 ﻿---
 ID: "b1c58500-0073-47ca-877b-ecf46d1922e3"
 Parent: "62aea773-6a06-4003-beb0-d9fd12d88a49"
-Template: "99f8905d-4a87-4eb8-9f8b-a9bebfb3add6"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
 Path: /sitecore/layout/Renderings/Project/nov/NOV Shared/PageGone
 SharedFields:
+- ID: "17bb046a-a32a-41b3-8315-81217947611b"
+  Hint: ComponentQuery
+  Value: |
+    query PageGone {
+      homeItem: item(path: "/sitecore/content/nov/nov/Home", language: "en-US") {
+          pageGoneHeadline: field(name:"pageGoneHeadline") {
+            jsonValue
+          }
+          pageGoneText:  field(name:"pageGoneText") {
+            jsonValue
+          }
+          pageGoneLink : field(name:"pageGoneLink"){
+           jsonValue
+          }
+        }
+      }
+    
 - ID: "3d08db46-2267-41b0-bc52-be69fd618633"
   Hint: Cacheable
   Value: 1
-- ID: "51b435bc-f7b9-478a-9c51-52916af96ff5"
-  Hint: Path
-  Value: /Views/NOVShared/ErrorPages/_PageGone.cshtml
 Languages:
 - Language: en
   Versions:
@@ -28,14 +42,14 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "7fceb5bf-ee75-4744-b5c2-3f50ca02d4c1"
+      Value: "98632180-7dfb-4bfa-b6b4-6b8866012613"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\varalakshmi.md@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230705T085211Z
+      Value: 20230904T073330Z
 - Language: "en-US"
   Versions:
   - Version: 1
