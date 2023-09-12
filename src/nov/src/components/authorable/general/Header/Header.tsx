@@ -61,6 +61,7 @@ export type HeaderProps = {
   dataSource?: string;
   params?: { [key: string]: string };
   fields?: {
+    exitMenu?: Field<string>;
     labelOverview?: Field<string>;
     portalDescription?: Field<string>;
     portalRegisterUrl?: LinkField;
@@ -553,13 +554,12 @@ const Header = ({ fields }: HeaderProps) => {
         >
           {renderNavigation()}
         </div>
-        {isExpanded && (
+        {isExpanded && fields?.exitMenu?.value && (
           <button
             className="absolute top-[32.5px] left-[50%] opacity-0 z-[2] focus:!opacity-100 p-0 text-center -translate-x-1/2 -translate-y-1/2 font-primary text-[14px] !text-black leading-normal !font-medium basicFocus"
-            title="Exit Menu"
             onClick={() => setIsExpanded(false)}
           >
-            Exit Menu
+            {fields.exitMenu.value}
           </button>
         )}
       </div>

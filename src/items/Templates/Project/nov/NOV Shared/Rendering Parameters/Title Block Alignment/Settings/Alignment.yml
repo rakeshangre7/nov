@@ -6,10 +6,10 @@ Path: /sitecore/templates/Project/nov/NOV Shared/Rendering Parameters/Title Bloc
 SharedFields:
 - ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
   Hint: Source
-  Value: left|center
+  Value: "{AE640114-CD62-4CF5-BEEB-D85650FE069E}"
 - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
   Hint: Type
-  Value: Droplist Pipes Datasource
+  Value: Droplist
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 100
@@ -27,14 +27,14 @@ Languages:
         sitecore\varalakshmi.md@horizontal.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "2b3ac601-9dc9-4d0f-b26f-1e6a3a8a878e"
+      Value: "a5d028b5-e070-4f21-9de9-2f288d2d373a"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\varalakshmi.md@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230820T071035Z
+      Value: 20230911T161614Z
 - Language: "en-US"
   Versions:
   - Version: 1
@@ -52,11 +52,11 @@ Languages:
         sitecore\ashwin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "db50c0fc-c773-40be-acfe-3ec870f31ec3"
+      Value: "8483fb63-f4a4-4103-b9e7-8a48435e8135"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\admin
+        sitecore\varalakshmi.md@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20190123T185142Z
+      Value: 20230911T170820Z
