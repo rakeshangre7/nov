@@ -6,7 +6,7 @@ const defaultData: TitleBlockProps = {
   componentName: 'TitleBlock',
   dataSource: '{274BB447-32EB-4791-B569-3F2E71225931}',
   params: {
-    Styles: 'position-center',
+    alignment: 'center',
   },
   fields: {
     title: {
@@ -33,7 +33,7 @@ export const leftAlignData: TitleBlockProps = {
   componentName: 'TitleBlock',
   dataSource: '{274BB447-32EB-4791-B569-3F2E71225931}',
   params: {
-    Styles: 'position-left',
+    alignment: 'left',
   },
   fields: {
     title: {
