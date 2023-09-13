@@ -9,40 +9,13 @@ const defaultData: HeroProps = {
   },
   fields: {
     data: {
-      datasource: {
-        heading: {
-          jsonValue: {
-            value: 'News',
-          },
-        },
-        image: {
-          jsonValue: {
-            value: {},
-          },
-        },
-        subheading: {
-          jsonValue: {
-            value:
-              '<p>NOV is leading technical innovation across all areas of the oil and gas industry. Get the latest on our advanced solutions that help power a complex, evolving world.</p>',
-          },
-        },
-        cta: {
-          jsonValue: {
-            value: {
-              text: 'new page',
-              anchor: '',
-              linktype: 'internal',
-              class: '',
-              title: '',
-              target: '',
-              querystring: '',
-              id: '{8DFD8A57-77E4-4E4E-A720-8F569A679339}',
-              href: '/About/News',
-            },
-          },
-        },
-      },
+      datasource: null,
       contextItem: {
+        contenttag: {
+          jsonValue: {
+            value: 'contextItem Events',
+          },
+        },
         heading: {
           jsonValue: {
             value: 'test',
