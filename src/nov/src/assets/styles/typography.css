@@ -55,7 +55,7 @@
     @apply font-primary font-normal text-base leading-28 tracking-normal;
   }
   .rte a {
-    @apply inline-flex font-medium leading-24 items-center text-sm transition ease-in-out duration-100 cursor-pointer text-gray-dark lg:hover:!underline basicFocus;
+    @apply inline-flex font-medium leading-24 items-center text-sm transition ease-in-out duration-100 cursor-pointer text-primary hover:!underline basicFocusSmallBorder focus:!outline-primary;
   }
 
   /* Chrome, Safari and Opera */
