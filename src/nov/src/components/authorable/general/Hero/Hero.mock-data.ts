@@ -11,9 +11,17 @@ const defaultData: HeroProps = {
     data: {
       datasource: null,
       contextItem: {
-        contenttag: {
+        contentTag: {
           jsonValue: {
-            value: 'contextItem Events',
+            id: 'ea155798-89f9-42a8-a18a-1921664d1e01',
+            url: '/Data/System/Content-Tags/Brand',
+            name: 'Brand',
+            displayName: 'Brand',
+            fields: {
+              tag: {
+                value: 'Brand',
+              },
+            },
           },
         },
         heading: {
@@ -27,7 +35,12 @@ const defaultData: HeroProps = {
               '<p><span>Every day, the oil and gas industry&rsquo;s best minds put more than 150 years of experience to work to help our customers achieve lasting success. We have the people, capabilities, and vision to serve the needs of a challenging and evolving industry. One the world can&rsquo;t live without.</span></p>',
           },
         },
-        image: {
+        cardCtaText: {
+          jsonValue: {
+            value: 'Learn More',
+          },
+        },
+        pageImage: {
           jsonValue: {
             value: {
               src: 'https://edge.sitecorecloud.io/nationaloile493-nov-dev-59ee/media/nov/Images/About/We-Are-NOV-About/NOV-employee-on-rigsite.jpg?h=1080&iar=0&w=1920',
