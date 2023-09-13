@@ -56,6 +56,12 @@
         "scope": "SingleItem"
       },
 	  {
+        "name": "PageDesigns",
+        "path": "/sitecore/content/nov/nov/Presentation/Page Designs",
+        "allowedPushOperations": "CreateAndUpdate",
+        "scope": "SingleItem"
+      },
+	  {
 		"name": "Content Resolvers",
 		"path": "/sitecore/system/Modules/Layout Service/Rendering Contents Resolvers/Custom Contents Resolvers",
 		"allowedPushOperations": "CreateAndUpdate"
