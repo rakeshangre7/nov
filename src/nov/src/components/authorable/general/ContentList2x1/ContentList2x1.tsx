@@ -102,7 +102,6 @@ const ContentList2x1 = ({ fields }: ContentList2x1Props): JSX.Element => {
                         field={contentData?.subheading?.jsonValue}
                         characterLimit={92}
                       />
-
                       <Button
                         variant={'tertiary'}
                         iconClassName="icon-chevron-right"

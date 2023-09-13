@@ -61,7 +61,7 @@ const ContentBlockText = ({ fields, params }: ContentBlockTextProps): JSX.Elemen
             )}
           ></div>
           <div
-            className={clsx('w-full px-8 pb-8 pt-[16] smd:p-0 smd:w-[264px] lg:w-[385px]', {
+            className={clsx('w-full px-8 pb-8 pt-16 smd:p-0 smd:w-[264px] lg:w-[385px]', {
               'smd:ml-[16] lg:ml-[159px]': params.Alignment !== 'right',
               'smd:mr-[16] lg:mr-[159px]': params.Alignment === 'right',
             })}
@@ -71,7 +71,7 @@ const ContentBlockText = ({ fields, params }: ContentBlockTextProps): JSX.Elemen
                 autoplay={true}
                 loop={true}
                 muted={true}
-                className="w-full h-auto"
+                className="w-full h-auto min-h-[312px] smd:min-h-[264px] lg:min-h-[385px]"
                 controls={false}
                 field={{
                   image: {
@@ -100,7 +100,7 @@ const ContentBlockText = ({ fields, params }: ContentBlockTextProps): JSX.Elemen
             field={fields?.heading}
           />
           <RichTextA11yWrapper
-            className="[&_p]:mt-[20px] [&_p]:!leading-32 [&_a]:!text-base !leading-32 [&>p]:!mt-3.5 [&_p]:mb-0 mb-0"
+            className="[&_p]:mt-[20px] [&_p]:!leading-28 [&_p]:lg:!leading-32 [&_a]:!text-base !leading-28 lg:!leading-32 [&>p]:!mt-3.5 [&_p]:mb-0 mb-0"
             field={fields?.body}
           />
           {fields?.cta && (
