@@ -137,70 +137,69 @@ const HomePageHero = ({ fields }: HomePageHeroProps): JSX.Element => {
           {Array.isArray(HeroSlider) &&
             HeroSlider?.map((Item: HeroSlider, index: number) => (
               <Fragment key={index}>
-                {index === currentIndex && (
-                  <div
-                    key={index}
-                    className="bg-no-repeat bg-center bg-cover relative items-center flex justify-center w-full min-h-0 h-screen"
-                    style={{
-                      backgroundImage: `url(${Item?.image?.src})`,
-                    }}
-                  >
-                    {Item?.backgroundVideo?.value && (
-                      <div className="w-full h-full absolute ">
-                        <Mp4VideoPlayer
-                          autoplay={true}
-                          loop={true}
-                          muted={true}
-                          controls={false}
-                          field={{
-                            image: {
-                              value: Item?.image?.src,
-                            },
-                            videoid: {
-                              value: Item?.backgroundVideo?.value,
-                            },
-                          }}
-                        />
-                      </div>
-                    )}
-                    {Item?.addGradient?.value == '1' && (
-                      <div className="B3-home-page-hero__gradient absolute w-full h-full z-1 before:content after:absolute after:w-full after:h-full after:bottom-0 after:left-0 after:bg-gradient-to-r after:from-[#282828] after:to-[#51515100] opacity-40"></div>
-                    )}
-                    <div className="relative z-1 w-full">
-                      <div className="container">
-                        <Text
-                          tag="h1"
-                          className="text-white text-3xl leading-38 sm:text-7xl sm:leading-56 md:text-8xl md:leading-80"
-                          field={Item?.pages?.items[0]?.pageTitle}
-                          editable={false}
-                          encode={false}
-                        />
+                <div
+                  className={`opacity-0 z-0 bg-no-repeat bg-center bg-cover items-center flex justify-center w-full min-h-0 h-screen absolute left-0 top-0 transition-all duration-1000 cubic-bezier-0.25-0.12-0.65-0.94 delay-0 ${
+                    index === currentIndex && 'opacity-100 z-1'
+                  }`}
+                  style={{
+                    backgroundImage: `url(${Item?.image?.src})`,
+                  }}
+                >
+                  {Item?.backgroundVideo?.value && (
+                    <div className="w-full h-full absolute ">
+                      <Mp4VideoPlayer
+                        autoplay={true}
+                        loop={true}
+                        muted={true}
+                        controls={false}
+                        field={{
+                          image: {
+                            value: Item?.image?.src,
+                          },
+                          videoid: {
+                            value: Item?.backgroundVideo?.value,
+                          },
+                        }}
+                      />
+                    </div>
+                  )}
+                  {Item?.addGradient?.value == '1' && (
+                    <div className="B3-home-page-hero__gradient absolute w-full h-full z-1 before:content after:absolute after:w-full after:h-full after:bottom-0 after:left-0 after:bg-gradient-to-r after:from-[#282828] after:to-[#51515100] opacity-40"></div>
+                  )}
+                  <div className="relative z-1 w-full">
+                    <div className="container">
+                      <Text
+                        tag="h1"
+                        className="text-white text-3xl leading-38 sm:text-7xl sm:leading-56 md:text-8xl md:leading-80"
+                        field={Item?.pages?.items[0]?.pageTitle}
+                        editable={false}
+                        encode={false}
+                      />
 
-                        <RichTextA11yWrapper
-                          className="text-white mt-[18px]"
-                          data-testid="contentblock"
-                          field={Item?.pages?.items[0]?.subheading}
-                          editable
-                        />
-                        {Item?.pages?.items[0]?.featuredStoryCtaText?.value &&
-                          Item?.pages?.items[0]?.url?.path && (
-                            <Button
-                              auto
-                              className="text-white mt-[26px]"
-                              field={{
-                                value: {
-                                  href: Item?.pages?.items[0]?.url?.path,
-                                  text: Item?.pages?.items[0]?.featuredStoryCtaText?.value,
-                                },
-                              }}
-                              variant="primary"
-                              tabIndex={0}
-                            />
-                          )}
-                      </div>
+                      <RichTextA11yWrapper
+                        className="text-white mt-[18px]"
+                        data-testid="contentblock"
+                        field={Item?.pages?.items[0]?.subheading}
+                        editable
+                      />
+                      {Item?.pages?.items[0]?.featuredStoryCtaText?.value &&
+                        Item?.pages?.items[0]?.url?.path && (
+                          <Button
+                            auto
+                            className="text-white mt-[26px]"
+                            field={{
+                              value: {
+                                href: Item?.pages?.items[0]?.url?.path,
+                                text: Item?.pages?.items[0]?.featuredStoryCtaText?.value,
+                              },
+                            }}
+                            variant="primary"
+                            tabIndex={0}
+                          />
+                        )}
                     </div>
                   </div>
-                )}
+                </div>
               </Fragment>
             ))}
         </div>
