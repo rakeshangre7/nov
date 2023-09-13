@@ -152,7 +152,7 @@ const Footer = ({ fields }: FooterProps): JSX.Element => {
 
         <div className="lg:container w-full max-w-full lg:px-20 order-4">
           <nav className="w-full ">
-            <ul className="lg:pt-7 lg:pb-8 lg:grid lg:grid-flow-col justify-stretch">
+            <ul className="lg:pt-7 lg:pb-8 lg:flex lg:justify-between">
               {Array.isArray(footerMenu) &&
                 footerMenu?.map((Item: NavLink, index: number) => (
                   <FooterAccordion FMItem={Item} key={index} indexKey={index} />
