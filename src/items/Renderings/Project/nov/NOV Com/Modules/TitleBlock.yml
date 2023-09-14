@@ -9,7 +9,7 @@ SharedFields:
   Value: TitleBlock
 - ID: "069a8361-b1cd-437c-8c32-a3be78941446"
   Hint: Placeholders
-  Value: "{105FAFDC-847D-449C-B1AE-4FBA8AEA05AD}"
+  Value: 
 - ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
   Hint: Datasource Template
   Value: /sitecore/templates/Project/nov/NOV Com/Modules/Title Block
@@ -27,7 +27,7 @@ SharedFields:
   Value: "{CC9317D3-30CA-44AA-9C6B-D3660C6FB59E}"
 - ID: "a77e8568-1ab3-44f1-a664-b7c37ec7810d"
   Hint: Parameters Template
-  Value: "{03066181-2811-4EB8-9A31-3F5BADD694D1}"
+  Value: "{5CADF085-A6FA-4B87-9768-B895E5745B16}"
 - ID: "b5b27af1-25ef-405c-87ce-369b3a004016"
   Hint: Datasource Location
   Value: "query:./ancestor::*[@@templateid='{27F15A8D-52B6-4041-8CCE-3BF06E779396}']/*[@@templateid='{F01F683A-767B-4AC4-8EBC-04B38472A649}']"
@@ -60,14 +60,14 @@ Languages:
         sitecore\ashwin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "09c664f7-e17a-4f64-9ae6-abad51dc00f8"
+      Value: "19e25c58-71b5-47d9-85ac-67c914b6a154"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\kMHhOfdnMf
+        sitecore\varalakshmi.md@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230802T074351Z
+      Value: 20230911T161254Z
 - Language: "en-US"
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
@@ -89,11 +89,11 @@ Languages:
         sitecore\ashwin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "9b83c67a-4375-4340-ae8f-f7c5f81cce74"
+      Value: "38be4dae-5f7a-44e5-8a70-30318c187f44"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\ashwin
+        sitecore\varalakshmi.md@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20190520T182324Z
+      Value: 20230911T171014Z

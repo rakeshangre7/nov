@@ -98,11 +98,10 @@ const ContentList2x1 = ({ fields }: ContentList2x1Props): JSX.Element => {
                       />
 
                       <RichTextA11yWrapper
-                        className="!text-gray-dark [&_p]:!text-2xs [&_p]:!leading-16 [&_p]:smd:!leading-24 [&_p]:smd:!text-sm !text-2xs !leading-16 smd:!leading-24 smd:!text-sm mt-4"
+                        className="!text-gray-dark [&_p]:!leading-24 [&_p]:!text-sm !leading-24 !text-sm mt-4"
                         field={contentData?.subheading?.jsonValue}
                         characterLimit={92}
                       />
-
                       <Button
                         variant={'tertiary'}
                         iconClassName="icon-chevron-right"

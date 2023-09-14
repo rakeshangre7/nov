@@ -11,9 +11,9 @@ import { Sitecore } from '.generated/templates/_.Sitecore.Override';
 export type TitleBlockProps = Sitecore.Override.ComponentBase &
   Project.Item.NovCom.Modules.Fields.TitleBlock & {
     params?: {
-      Styles?: string;
       DynamicPlaceholderId?: string;
       FieldNames?: string;
+      alignment?: string;
     };
   };
 
@@ -22,11 +22,11 @@ const TitleBlock = ({ fields, params }: TitleBlockProps): JSX.Element => {
   if (fields === null || fields === undefined) return <></>;
 
   return (
-    <div className="container m-auto flex pt-[30px] smd:pt-20 flex-col justify-center">
+    <div className="container m-auto flex pt-[80px] flex-col justify-center">
       <div
         className={clsx('max-w-[736px] m-auto', {
-          'text-left': params?.Styles === 'position-left',
-          'text-center': params?.Styles !== 'position-left',
+          'text-left': params?.alignment === 'left',
+          'text-center': params?.alignment !== 'left',
         })}
       >
         <Text tag="h2" field={fields?.title} className="w-full text-black" />
@@ -37,8 +37,8 @@ const TitleBlock = ({ fields, params }: TitleBlockProps): JSX.Element => {
         {fields?.cta && fields?.cta?.value?.href && (
           <div
             className={clsx('w-full flex ', {
-              'justify-start': params?.Styles === 'position-left',
-              'justify-center': params?.Styles !== 'position-left',
+              'justify-start': params?.alignment === 'left',
+              'justify-center': params?.alignment !== 'left',
             })}
           >
             <Button

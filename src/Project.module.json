@@ -45,6 +45,11 @@
         "scope": "descendantsOnly"
       },
       {
+        "name": "Workflow",
+        "path": "/sitecore/system/Workflows/Default NOV Workflow",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+      {
         "name": "Language",
         "path": "/sitecore/system/Languages/en-US",
         "allowedPushOperations": "CreateAndUpdate",
