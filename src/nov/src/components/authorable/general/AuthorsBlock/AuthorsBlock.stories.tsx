@@ -13,7 +13,6 @@ const meta: Meta<typeof AuthorsBlock> = {
   component: AuthorsBlock,
   argTypes: {},
   tags: ['autodocs'],
-
 };
 
 export default meta;
