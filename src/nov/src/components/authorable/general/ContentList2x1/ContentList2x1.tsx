@@ -56,66 +56,70 @@ const ContentList2x1 = ({ fields }: ContentList2x1Props): JSX.Element => {
     <div className=" mx-auto">
       {fields?.data?.datasource?.headline?.jsonValue && (
         <Text
-          className="w-full text-center pt-[30px] smd:pt-20 text-black mb-[15px] smd:mb-6"
+          className="w-full text-center pt-[30px] smd:pt-20 text-black mb-0 lg:mb-6"
           tag="h2"
           field={fields?.data?.datasource?.headline?.jsonValue}
         />
       )}
       {fields?.data?.datasource?.pages?.targetItems &&
         fields.data.datasource.pages.targetItems.length > 0 && (
-          <div className="pt-[30px] mx-auto smd:pt-[35px] w-full text-center px-[15px] lg:max-w-[1120px] flex justify-center lg:justify-start flex-wrap">
+          <div className="mx-auto smd:pt-[0] lg:pt-[30px] w-full text-center px-[15px] lg:max-w-[1120px] flex justify-center lg:justify-start flex-wrap">
             {fields?.data?.datasource?.pages?.targetItems?.map(
               (contentData: CardContent, index: number) => {
                 return (
-                  <div
-                    key={index}
-                    className="pt-[30px] smd:pt-[45px] relative block cursor-pointer max-w-[544px] w-full mx-auto lg:m-0 lg-w-1/2 lg:px-[15px] hover:!no-underline basicFocusSmallBorder"
-                    onClick={(e) => {
-                      if (contentData?.primaryURL?.path) {
-                        e.stopPropagation();
-                        router.push(contentData.primaryURL.path);
-                      }
-                    }}
-                    onKeyUp={(e: React.KeyboardEvent<HTMLDivElement>) => {
-                      if (e.keyCode === 13 && contentData?.primaryURL?.path) {
-                        e.stopPropagation();
-                        router.push(contentData.primaryURL.path);
-                      }
-                    }}
-                    tabIndex={0}
-                  >
-                    {contentData?.cardImage?.jsonValue && (
-                      <ImageWrapper
-                        className="pt-0 mb-[30px] w-full overflow-hidden h-auto"
-                        field={contentData?.cardImage?.jsonValue}
-                      />
-                    )}
-                    <div className="w-[90.7%] relative mx-auto text-left bg-gray-lightest p-[34px] !pt-[22px] top-[-70px] mb-[-58px] smd:w-[76.47%] smd:top-[-126px]">
-                      <Text
-                        tag="h3"
-                        className="text-base text-black leading-24 font-bold mt-[15px] font-primary"
-                        field={contentData?.headline?.jsonValue}
-                      />
-
-                      <RichTextA11yWrapper
-                        className="!text-gray-dark [&_p]:!leading-24 [&_p]:!text-sm !leading-24 !text-sm mt-4"
-                        field={contentData?.subheading?.jsonValue}
-                        characterLimit={92}
-                      />
-                      <Button
-                        variant={'tertiary'}
-                        iconClassName="icon-chevron-right"
-                        iconPosition="right"
-                        className="!text-base !leading-16 !font-medium lg:!text-sm lg:!leading-24 lg:!font-semibold mt-[5px] !text-lightBlack hover:!text-gray-lighter"
-                        field={{
-                          value: {
-                            href: contentData?.primaryURL?.path,
-                            text: fields?.data?.contextItem?.cardCtaText?.jsonValue?.value,
-                          },
+                  <>
+                    {contentData?.cardImage?.jsonValue?.value?.src && (
+                      <div
+                        key={index}
+                        className="pt-[45px] relative block cursor-pointer max-w-[544px] w-full mx-auto lg:m-0 lg-w-1/2 lg:px-[15px] hover:!no-underline basicFocusSmallBorder"
+                        onClick={(e) => {
+                          if (contentData?.primaryURL?.path) {
+                            e.stopPropagation();
+                            router.push(contentData.primaryURL.path);
+                          }
                         }}
-                      />
-                    </div>
-                  </div>
+                        onKeyUp={(e: React.KeyboardEvent<HTMLDivElement>) => {
+                          if (e.keyCode === 13 && contentData?.primaryURL?.path) {
+                            e.stopPropagation();
+                            router.push(contentData.primaryURL.path);
+                          }
+                        }}
+                        tabIndex={0}
+                      >
+                        {contentData?.cardImage?.jsonValue && (
+                          <ImageWrapper
+                            className="pt-0 mb-[30px] w-full overflow-hidden h-auto"
+                            field={contentData?.cardImage?.jsonValue}
+                          />
+                        )}
+                        <div className="w-[90.7%] relative mx-auto text-left bg-gray-lightest p-[34px] !pt-[22px] top-[-70px] mb-[-58px] smd:w-[76.47%] smd:top-[-126px]">
+                          <Text
+                            tag="h3"
+                            className="text-lg leading-[1.33] lg:text-base text-black lg:leading-[1.5] font-bold mt-[18px] lg:mt-[15px] font-primary"
+                            field={contentData?.headline?.jsonValue}
+                          />
+
+                          <RichTextA11yWrapper
+                            className="!text-gray-dark [&_p]:!leading-24 [&_p]:!text-sm !leading-24 !text-sm mt-[13px] lg:mt-4"
+                            field={contentData?.subheading?.jsonValue}
+                            characterLimit={92}
+                          />
+                          <Button
+                            variant={'tertiary'}
+                            iconClassName="icon-chevron-right"
+                            iconPosition="right"
+                            className="!text-base !leading-16 smd:!pt-[7px] smd:!pb-[7px] lg:!pt-0 lg:!pb-0 !font-medium lg:!text-sm lg:!leading-24 lg:!font-semibold lg:mt-[5px] !text-lightBlack hover:!text-gray-lighter"
+                            field={{
+                              value: {
+                                href: contentData?.primaryURL?.path,
+                                text: fields?.data?.contextItem?.cardCtaText?.jsonValue?.value,
+                              },
+                            }}
+                          />
+                        </div>
+                      </div>
+                    )}
+                  </>
                 );
               }
             )}
