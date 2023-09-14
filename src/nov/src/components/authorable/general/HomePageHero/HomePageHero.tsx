@@ -107,7 +107,7 @@ const HomePageHero = ({ fields }: HomePageHeroProps): JSX.Element => {
       clearInterval(autoSlideIntervalRef.current);
     }
     // Start the auto slide timer again
-    autoSlideIntervalRef.current = setInterval(goToNextItem, 6000);
+    autoSlideIntervalRef.current = setInterval(goToNextItem, 10000);
   };
 
   useEffect(() => {
@@ -118,7 +118,7 @@ const HomePageHero = ({ fields }: HomePageHeroProps): JSX.Element => {
     if (autoSlideIntervalRef.current) {
       clearInterval(autoSlideIntervalRef.current);
     }
-    autoSlideIntervalRef.current = setInterval(goToNextItem, 6000);
+    autoSlideIntervalRef.current = setInterval(goToNextItem, 10000);
 
     // Clean up the interval when the component unmounts
     return () => {
@@ -138,8 +138,8 @@ const HomePageHero = ({ fields }: HomePageHeroProps): JSX.Element => {
             HeroSlider?.map((Item: HeroSlider, index: number) => (
               <Fragment key={index}>
                 <div
-                  className={`opacity-0 z-0 bg-no-repeat bg-center bg-cover items-center flex justify-center w-full min-h-0 h-screen absolute left-0 top-0 transition-all duration-1000 cubic-bezier-0.25-0.12-0.65-0.94 delay-0 ${
-                    index === currentIndex && 'opacity-100 z-1'
+                  className={`opacity-0 invisible z-0 bg-no-repeat bg-center bg-cover items-center flex justify-center w-full min-h-0 h-screen absolute left-0 top-0 transition-all duration-1000 cubic-bezier-0.25-0.12-0.65-0.94 delay-0 ${
+                    index === currentIndex && 'opacity-100 z-1 !visible'
                   }`}
                   style={{
                     backgroundImage: `url(${Item?.image?.src})`,
@@ -164,8 +164,9 @@ const HomePageHero = ({ fields }: HomePageHeroProps): JSX.Element => {
                     </div>
                   )}
                   {Item?.addGradient?.value == '1' && (
-                    <div className="B3-home-page-hero__gradient absolute w-full h-full z-1 before:content after:absolute after:w-full after:h-full after:bottom-0 after:left-0 after:bg-gradient-to-r after:from-[#282828] after:to-[#51515100] opacity-40"></div>
+                    <div className="B3-home-page-hero__gradient absolute w-full h-full z-1 before:content before:absolute before:w-full before:h-[243px] before:from-[#00000000] before:to-[#000000a3] before:bg-gradient-0 after:content after:absolute after:w-full after:h-full after:bottom-0 after:left-0 after:from-[#51515100] after:to-[#282828] after:bg-gradient-198 opacity-40"></div>
                   )}
+                  {/* before:content after:absolute after:w-full after:h-full after:bottom-0 after:left-0 after:bg-gradient-to-r after:from-[#282828] after:to-[#51515100] */}
                   <div className="relative z-1 w-full">
                     <div className="container">
                       <Text
@@ -213,7 +214,7 @@ const HomePageHero = ({ fields }: HomePageHeroProps): JSX.Element => {
                     className={`${
                       index === currentIndex && 'active'
                     } text-white text-left text-sm w-1/4 h-auto relative before:content before:absolute before:w-full before:bottom-0 before:left-0  before:border-b-[2px] before:border-solid before:border-gray 
-                  after:content after:absolute after:w-0 after:bottom-0 after:left-0 pb-[18px] after:border-b-[2px] after:border-solid after:border-red after:transition-width after:!duration-6000 after:ease-linear outline-none
+                  after:content after:absolute after:w-0 after:bottom-0 after:left-0 pb-[18px] after:border-b-[2px] after:border-solid after:border-red after:transition-width after:!duration-6000 after:ease-linear outline-none [&:not(.active)]:after:!duration-0 
                   `}
                     onClick={() => goToItem(index)}
                   >
