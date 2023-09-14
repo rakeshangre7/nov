@@ -1,22 +1,9 @@
 import React, { useEffect, useRef, useState } from 'react';
-import { Field, ImageField, LinkField, RichText } from '@sitecore-jss/sitecore-jss-nextjs';
+import { Field, RichText } from '@sitecore-jss/sitecore-jss-nextjs';
 import Icon from 'components/helpers/Icon/Icon';
 import ImageWrapper from '@/components/helpers/ImageWrapper/ImageWrapper';
-
-interface Author {
-  id: string;
-  url: string;
-  name: string;
-  displayName: string;
-  fields: {
-    authorName?: Field<string>;
-    bio?: Field<string>;
-    jobTitle?: Field<string>;
-    imageCropRegion?: Field<string>;
-    image?: ImageField;
-    linkURL?: LinkField;
-  };
-}
+import { Author } from './AuthorsBlock';
+import clsx from 'clsx';
 
 export type AuthorsBlockProps = {
   rendering: { componentName: string };
@@ -28,8 +15,6 @@ export type AuthorsBlockProps = {
 };
 
 const AuthorsBlockItem = ({ fields }: AuthorsBlockProps) => {
-  console.log(fields);
-
   const [openAuthors, setOpenAuthors] = useState<string[]>([]);
   const [height, setHeight] = useState<number | null | undefined>(null);
   const contentRef = useRef<HTMLDivElement | null>(null);
@@ -37,23 +22,21 @@ const AuthorsBlockItem = ({ fields }: AuthorsBlockProps) => {
     if (contentRef?.current) {
       contentRef?.current?.scrollHeight && setHeight(contentRef.current.scrollHeight);
     }
-  }, []);
-  const divStyle = {
-    height: openAuthors ? (height ? `${height}px` : 'auto') : '',
-  };
+  }, [openAuthors]);
+
   const isAuthorOpen = (authorId: string) => openAuthors.includes(authorId);
 
   const toggleAccordion = (authorId: string) => {
     if (isAuthorOpen(authorId)) {
       setOpenAuthors(openAuthors.filter((id) => id !== authorId));
     } else {
-      setOpenAuthors([authorId]);
+      setOpenAuthors([...openAuthors, authorId]);
     }
   };
 
   return (
     <>
-      <div className="container m-auto w-full flex justify-center">
+      <div className="w-full flex justify-center">
         <div className="" data-component="authorable/general/authorblock" data-testid="authorblock">
           {fields?.authors?.map((author: Author) => (
             <div
@@ -70,37 +53,45 @@ const AuthorsBlockItem = ({ fields }: AuthorsBlockProps) => {
                 <p className="text-gray-dark text-base">{author?.fields?.jobTitle?.value}</p>
 
                 <Icon
-                  className={
-                    isAuthorOpen(author.id)
-                      ? 'icon-minus text-red text-2xl'
-                      : 'icon-plus text-red text-2xl'
-                  }
+                  className={clsx('text-red text-2xl', {
+                    'icon-minus': isAuthorOpen(author.id),
+                    'icon-plus': !isAuthorOpen(author.id),
+                  })}
                 />
               </div>
               <div
-                style={divStyle}
-                className={`flex justify-between items-center w-full duration-200`}
+                style={{
+                  maxHeight: isAuthorOpen(author.id) ? `${height}px` : '0',
+                  overflow: 'hidden',
+                  transition: 'max-height 0.2s ease',
+                }}
+                className={`flex justify-between items-center w-full overflow-hidden`}
                 id={`control_${author.id}`}
                 aria-controls={`body_${author.id}`}
               >
-                {isAuthorOpen(author.id) && (
-                  <div>
-                    <div className="text-black flex justify-between duration-200 " ref={contentRef}>
-                      {author?.fields?.image && (
-                        <div className="max-w-[96px] max-h-[96px] min-w-[96px] min-h-[96px] mr-4">
-                          <ImageWrapper
-                            field={author?.fields?.image}
-                            className="mt-2 mr-4 text-black flex"
-                          />
-                        </div>
-                      )}
-                      <RichText
-                        className="text-gray-dark pb-[14px] mb-[17.5px] text-sm leading-6 font-primary "
-                        field={author?.fields?.bio}
-                      />
-                    </div>
+                <div>
+                  <div
+                    className="text-black flex justify-between duration-200 overflow-hidden"
+                    ref={contentRef}
+                    style={{
+                      maxHeight: isAuthorOpen(author.id) ? `${height}px` : '0',
+                      overflow: 'hidden',
+                    }}
+                  >
+                    {author?.fields?.image && (
+                      <div className="max-w-[96px] max-h-[96px] min-w-[96px] min-h-[96px] mr-4">
+                        <ImageWrapper
+                          field={author?.fields?.image}
+                          className="mt-2 mr-4 text-black flex"
+                        />
+                      </div>
+                    )}
+                    <RichText
+                      className="text-gray-dark pb-[14px] mb-[17.5px] text-sm leading-6 font-primary "
+                      field={author?.fields?.bio}
+                    />
                   </div>
-                )}
+                </div>
               </div>
             </div>
           ))}
