@@ -2,7 +2,7 @@ import React from 'react';
 import { Field, ImageField, LinkField, Text } from '@sitecore-jss/sitecore-jss-nextjs';
 import AuthorsBlockItem from './AuthorBlockItem';
 
-interface Author {
+export interface Author {
   id: string;
   url: string;
   name: string;
@@ -34,18 +34,18 @@ const AuthorsBlock = ({ fields }: AuthorsBlockProps) => {
           className="text-black mb-4 text-2xl font-medium font-primary leading-[1.33]"
         />
         {fields?.authors?.map((author: Author) => (
-           <div
-           key={author.id}
-           className="border-y-[1px] border-gray-light w-full md:w-[544px] cursor-pointer"
-         >
-          <AuthorsBlockItem
-            key={author?.id}
-            fields={fields} 
-            rendering={{
-              componentName: '',
-            }}
-            params={{}}
-          />
+          <div
+            key={author.id}
+            className="border-y-[1px] border-gray-light w-full md:w-[544px] cursor-pointer"
+          >
+            <AuthorsBlockItem
+              key={author?.id}
+              fields={fields}
+              rendering={{
+                componentName: '',
+              }}
+              params={{}}
+            />
           </div>
         ))}
       </div>
