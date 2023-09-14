@@ -33,8 +33,18 @@ interface heroData {
   pageImage?: {
     jsonValue?: {
       value?: {
-        height?: number | string;
-        width?: number | string;
+        height?: string;
+        width?: string;
+        src?: string;
+        alt?: string;
+      };
+    };
+  };
+  Image?: {
+    jsonValue?: {
+      value?: {
+        height?: string;
+        width?: string;
         src?: string;
         alt?: string;
       };
@@ -75,8 +85,8 @@ const Hero = ({ fields, params }: HeroProps): JSX.Element => {
   const useDataSource = fields?.data?.datasource != null;
   const heroData = useDataSource ? fields.data.datasource : fields.data.contextItem;
   const heroDataImage = useDataSource
-    ? fields.data.datasource.Image
-    : fields.data.contextItem.pageImage;
+    ? fields?.data?.datasource?.Image
+    : fields?.data?.contextItem?.pageImage;
 
   if (fields === null || fields === undefined) return <></>;
 
