@@ -88,9 +88,7 @@ const HomePageHero = ({ fields }: HomePageHeroProps): JSX.Element => {
   const trendingSearchKeywords = fields?.data?.item?.trendingSearchKeywords?.value;
   const trendingSearchKeywordsList = trendingSearchKeywords?.split('\r\n');
   const searchPage = fields?.data?.searchPage?.url?.path;
-
   const autoSlideIntervalRef = useRef<NodeJS.Timeout | null>(null);
-
   // Function to go to the next item
   const goToNextItem = () => {
     setCurrentIndex((prevIndex: number | null) =>
