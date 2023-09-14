@@ -91,16 +91,17 @@ const Hero = ({ fields, params }: HeroProps): JSX.Element => {
   if (fields === null || fields === undefined) return <></>;
 
   return (
-    <div className=" B1-hero B1-hero--text-white relative w-full min-h-screen h-auto bg-gray overflow-hidden">
-      <div
-        className={clsx('min-h-screen w-full overflow-hidden relative', {
-          'text-white': params?.textColor === 'white',
-          'text-black': params?.textColor === 'black',
-        })}
-      >
+    <div className=" B1-hero B1-hero--text-white text-white relative w-full min-h-screen h-auto bg-gray overflow-hidden">
+      <div className="min-h-screen w-full overflow-hidden relative">
         <div className="simple-slider-inner overflow-hidden w-full min-h-screen h-auto relative">
           <div
-            className="B1-hero__item slide B1-hero--text-white bg-no-repeat bg-center bg-cover items-center flex justify-center"
+            className={clsx(
+              'B1-hero__item slide B1-hero--text-white bg-no-repeat bg-center bg-cover items-center flex justify-center',
+              {
+                'text-white': params?.textColor === 'white',
+                'text-black': params?.textColor === 'black',
+              }
+            )}
             style={{
               ...(heroDataImage?.jsonValue?.value?.src && {
                 backgroundImage: `url(${heroDataImage?.jsonValue?.value?.src})`,
@@ -149,10 +150,12 @@ const Hero = ({ fields, params }: HeroProps): JSX.Element => {
                   editable
                 />
               )}
-              {heroData?.cta?.jsonValue?.value && (
+              {heroData?.cta?.jsonValue?.value && heroData?.cta?.jsonValue?.value.href && (
                 <Button
                   auto
-                  className="text-white mt-[6px] font-semibold"
+                  className={clsx('text-white mt-[6px] font-semibold', {
+                    '!text-black': params?.textColor === 'black',
+                  })}
                   field={heroData?.cta?.jsonValue}
                   variant="primary"
                   tabIndex={0}
