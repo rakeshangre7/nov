@@ -31,4 +31,5 @@ module.exports = {
   secondary: '#78757b',
   transparent: 'transparent',
   white: '#ffffff',
+  smokyWhite: '#f5f5f5',
 };
