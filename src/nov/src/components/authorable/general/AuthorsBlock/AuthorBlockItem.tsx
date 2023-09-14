@@ -44,7 +44,7 @@ const AuthorsBlockItem = ({ author, showTopBorder }: AuthorsBlockProps) => {
             className="flex justify-between items-center w-full h-[56px]"
           >
             <Text
-              className="text-black w-80 smd:w-auto smd:min-w-[180px] text-2xs leading-normal smd:text-base pr-[15px] font-primary capitalize"
+              className="text-black w-[80px] smd:w-auto smd:min-w-[180px] text-2xs leading-normal smd:text-base pr-[15px] font-primary capitalize"
               tag="p"
               field={author?.fields?.authorName}
             />
