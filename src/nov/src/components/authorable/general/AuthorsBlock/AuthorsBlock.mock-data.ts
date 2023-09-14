@@ -15,18 +15,18 @@ const defaultData: AuthorsBlockProps = {
         displayName: 'Stephen Ching D7 Author Block Entry',
         fields: {
           authorName: {
-            value: 'Stephen Ching',
+            value: 'David Pinchin',
           },
           bio: {
             value:
-              '<p>Stephen Ching has over 25 years of experience in the business of delivering glass-reinforced epoxy piping to the marine and offshore industries. The <em>Pioneering Spirit</em> is one among many of such projects, and others include all large new-build FPSOs.</p>',
+              '<p>David Pinchin has 35 years of oil industry experience working mainly within the field of water treatment. The first of his seven patents connected to the treatment of water on the seabed was awarded in 2003. The treatment system has now successfully undergone several stages of full-scale pilot testing and qualification programs</p>',
           },
           jobTitle: {
-            value: 'Director of Global Market Business Development',
+            value: 'Technology Manager',
           },
           image: {
             value: {
-              src: 'https://edge.sitecorecloud.io/nationaloile493-nov-dev-59ee/media/nov/Images/Stories/A-Lighter-Heart-for-a-Heavy-Lifter/A-Lighter-Heart-for-a-Heavy-Lifter-Stephen-Ching.jpg?h=96&iar=0&w=96',
+              src: 'https://www.nov.com/-/media/nov/images/stories/keeping-water-in-its-place/keeping-water-in-its-place-david-pinchin.jpg?h=96&w=96&cropregion=0,0,200,200&hash=0893851A2A4A3513961BAD4778F1D9A0',
               alt: 'NOV Employee Stephen Ching',
               width: '96',
               height: '96',
@@ -53,7 +53,7 @@ const defaultData: AuthorsBlockProps = {
           },
           bio: {
             value:
-              '<p>Torbj&oslash;rn Hegdal holds a master&rsquo;s degree in petroleum engineering from University of Technology in Norway and an MBA from Norwegian Business School. He has 25 years of experience in the oil and gas industry&mdash;primarily with Shell International, Enterprise Oil, and other companies&mdash;and has held various asset and business unit management positions.</p>',
+              '<p>Torbjørn Hegdal holds a master’s degree in petroleum engineering from University of Technology in Norway and an MBA from Norwegian Business School. He has 25 years of experience in the oil and gas industry—primarily with Shell International, Enterprise Oil, and other companies—and has held various asset and business unit management positions.</p>',
           },
           jobTitle: {
             value: 'Business Development Manager, Seabox',

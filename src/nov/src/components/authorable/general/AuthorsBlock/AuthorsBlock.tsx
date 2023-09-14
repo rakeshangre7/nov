@@ -29,19 +29,18 @@ export type AuthorsBlockProps = {
 const AuthorsBlock = ({ fields }: AuthorsBlockProps) => {
   return (
     <div className="container m-auto w-full flex justify-center pt-[30px] md:pt-20">
-      <div className="" data-component="authorable/general/authorblock" data-testid="authorblock">
+      <div
+        className="max-w-[544px] mx-auto"
+        data-component="authorable/general/authorblock"
+        data-testid="authorblock"
+      >
         <Text
           tag="h3"
           field={fields?.heading}
           className="text-black mb-4 text-2xl font-medium font-primary leading-[1.33]"
         />
-        {fields?.authors?.map((author: Author) => (
-          <div
-            key={author.id}
-            className="border-y-[1px] border-gray-light w-full md:w-[544px] cursor-pointer"
-          >
-            <AuthorsBlockItem key={author?.id} fields={fields} />
-          </div>
+        {fields?.authors?.map((author: Author, index: number) => (
+          <AuthorsBlockItem key={author?.id} author={author} showTopBorder={index === 0} />
         ))}
       </div>
     </div>
