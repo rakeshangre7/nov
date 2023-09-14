@@ -18,6 +18,8 @@ export interface Author {
 }
 
 export type AuthorsBlockProps = {
+  rendering: { componentName: string };
+  params: { [key: string]: string };
   fields: {
     heading: Field<string>;
     authors: Author[];
@@ -38,14 +40,7 @@ const AuthorsBlock = ({ fields }: AuthorsBlockProps) => {
             key={author.id}
             className="border-y-[1px] border-gray-light w-full md:w-[544px] cursor-pointer"
           >
-            <AuthorsBlockItem
-              key={author?.id}
-              fields={fields}
-              rendering={{
-                componentName: '',
-              }}
-              params={{}}
-            />
+            <AuthorsBlockItem key={author?.id} fields={fields} />
           </div>
         ))}
       </div>

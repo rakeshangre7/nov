@@ -6,8 +6,6 @@ import { Author } from './AuthorsBlock';
 import clsx from 'clsx';
 
 export type AuthorsBlockProps = {
-  rendering: { componentName: string };
-  params: { [key: string]: string };
   fields: {
     heading: Field<string>;
     authors: Author[];
