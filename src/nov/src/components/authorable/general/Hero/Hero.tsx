@@ -91,17 +91,14 @@ const Hero = ({ fields, params }: HeroProps): JSX.Element => {
   if (fields === null || fields === undefined) return <></>;
 
   return (
-    <div className=" B1-hero B1-hero--text-white text-white relative w-full min-h-screen h-auto bg-gray overflow-hidden">
+    <div className="text-white relative w-full min-h-screen h-auto bg-gray overflow-hidden">
       <div className="min-h-screen w-full overflow-hidden relative">
-        <div className="simple-slider-inner overflow-hidden w-full min-h-screen h-auto relative">
+        <div className="overflow-hidden w-full min-h-screen h-auto relative">
           <div
-            className={clsx(
-              'B1-hero__item slide B1-hero--text-white bg-no-repeat bg-center bg-cover items-center flex justify-center',
-              {
-                'text-white': params?.textColor === 'white',
-                'text-black': params?.textColor === 'black',
-              }
-            )}
+            className={clsx('bg-no-repeat bg-center bg-cover items-center flex justify-center', {
+              'text-white': params?.textColor === 'white',
+              'text-black': params?.textColor === 'black',
+            })}
             style={{
               ...(heroDataImage?.jsonValue?.value?.src && {
                 backgroundImage: `url(${heroDataImage?.jsonValue?.value?.src})`,
@@ -127,12 +124,12 @@ const Hero = ({ fields, params }: HeroProps): JSX.Element => {
               </div>
             )}
             {params.addGradient == '1' && (
-              <div className="B1-hero__gradient absolute left-0 top-0 w-full h-full z-0 before:content before:absolute before:w-full before:h-[243px] before:from-[#00000000] before:to-[#000000a3] before:bg-gradient-0 after:content after:absolute after:w-full after:h-full after:bottom-0 after:left-0 after:from-[#00000000] after:to-[#000000bf] after:bg-gradient-198 after:opacity-40"></div>
+              <div className="absolute left-0 top-0 w-full h-full z-0 before:content before:absolute before:w-full before:h-[243px] before:from-[#00000000] before:to-[#000000a3] before:bg-gradient-0 after:content after:absolute after:w-full after:h-full after:bottom-0 after:left-0 after:from-[#00000000] after:to-[#000000bf] after:bg-gradient-198 after:opacity-40"></div>
             )}
             <div className="container w-full min-h-screen h-auto py-[100px] flex flex-col items-start justify-center relative z-2">
               <Text
                 tag="div"
-                className="B1-hero__item__label text-base font-bold leading-none pl-[5px] mb-4"
+                className="text-base font-bold leading-none pl-[5px] mb-4"
                 field={heroData?.contentTag?.jsonValue?.fields?.tag}
               />
               {heroData?.heading?.jsonValue?.value && (
