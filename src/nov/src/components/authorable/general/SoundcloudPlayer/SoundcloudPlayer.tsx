@@ -4,6 +4,7 @@ import React from 'react';
 
 import { Project } from '.generated/templates/Project.Item.model';
 import { Sitecore } from '.generated/templates/_.Sitecore.Override';
+import SoundcloudPlayerWrapper from '@/components/helpers/SoundcloudPlayerWrapper/SoundcloudPlayerWrapper';
 
 // Ideally, all this is from generated Typescript code from Sitecore and we're not manually defining types.
 
@@ -22,7 +23,13 @@ const SoundcloudPlayer = ({ fields }: SoundcloudPlayerProps): JSX.Element => {
   const htmlContent = fields?.soundcloudembedcode?.value && fields?.soundcloudembedcode?.value;
   return (
     <>
-      {htmlContent && <div className="w-full" dangerouslySetInnerHTML={{ __html: htmlContent }} />}
+      <div className="smd:pt-20 pt-[30px]">
+        <div className="container">
+          <div className="max-w-[736px] m-auto">
+            {htmlContent && <SoundcloudPlayerWrapper fields={fields} />}
+          </div>
+        </div>
+      </div>
     </>
   );
 };
