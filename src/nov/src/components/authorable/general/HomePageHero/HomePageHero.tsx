@@ -107,7 +107,7 @@ const HomePageHero = ({ fields }: HomePageHeroProps): JSX.Element => {
       clearInterval(autoSlideIntervalRef.current);
     }
     // Start the auto slide timer again
-    autoSlideIntervalRef.current = setInterval(goToNextItem, 10000);
+    autoSlideIntervalRef.current = setInterval(goToNextItem, 6000);
   };
 
   useEffect(() => {
@@ -118,7 +118,7 @@ const HomePageHero = ({ fields }: HomePageHeroProps): JSX.Element => {
     if (autoSlideIntervalRef.current) {
       clearInterval(autoSlideIntervalRef.current);
     }
-    autoSlideIntervalRef.current = setInterval(goToNextItem, 10000);
+    autoSlideIntervalRef.current = setInterval(goToNextItem, 6000);
 
     // Clean up the interval when the component unmounts
     return () => {
@@ -164,9 +164,8 @@ const HomePageHero = ({ fields }: HomePageHeroProps): JSX.Element => {
                     </div>
                   )}
                   {Item?.addGradient?.value == '1' && (
-                    <div className="B3-home-page-hero__gradient absolute w-full h-full z-1 before:content before:absolute before:w-full before:h-[243px] before:from-[#00000000] before:to-[#000000a3] before:bg-gradient-0 after:content after:absolute after:w-full after:h-full after:bottom-0 after:left-0 after:from-[#51515100] after:to-[#282828] after:bg-gradient-198 opacity-40"></div>
+                    <div className="B3-home-page-hero__gradient absolute w-full h-full z-1 before:z-2 after:z-1 before:content before:absolute before:w-full before:h-[243px] before:from-[#00000000] before:to-[#000000a3] before:bg-gradient-0 after:content after:absolute after:w-full after:h-full after:bottom-0 after:left-0 after:from-[#282828] after:to-[#51515100] after:bg-gradient-[243deg]"></div>
                   )}
-                  {/* before:content after:absolute after:w-full after:h-full after:bottom-0 after:left-0 after:bg-gradient-to-r after:from-[#282828] after:to-[#51515100] */}
                   <div className="relative z-1 w-full">
                     <div className="container">
                       <Text
