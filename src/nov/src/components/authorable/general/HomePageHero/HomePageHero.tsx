@@ -132,7 +132,7 @@ const HomePageHero = ({ fields }: HomePageHeroProps): JSX.Element => {
 
   return (
     <>
-      <div className="home-page-hero relative overflow-hidden min-h-screen bg-gray h-auto">
+      <div className="relative overflow-hidden min-h-screen bg-gray h-auto">
         <div className="relative flex flex-row justify-center h-auto min-h-screen">
           {Array.isArray(HeroSlider) &&
             HeroSlider?.map((Item: HeroSlider, index: number) => (
@@ -164,7 +164,7 @@ const HomePageHero = ({ fields }: HomePageHeroProps): JSX.Element => {
                     </div>
                   )}
                   {Item?.addGradient?.value == '1' && (
-                    <div className="B3-home-page-hero__gradient absolute w-full h-full z-1 before:z-2 after:z-1 before:content before:absolute before:w-full before:h-[243px] before:from-[#00000000] before:to-[#000000a3] before:bg-gradient-0 after:content after:absolute after:w-full after:h-full after:bottom-0 after:left-0 after:from-[#282828] after:to-[#51515100] after:bg-gradient-[243deg]"></div>
+                    <div className="absolute w-full h-full z-1 before:z-2 after:z-1 before:content before:absolute before:w-full before:h-[243px] before:from-[#00000000] before:to-[#000000a3] before:bg-gradient-0 after:content after:absolute after:w-full after:h-full after:bottom-0 after:left-0 after:from-[#51515100] after:to-[#282828] after:bg-gradient-[243deg] after:opacity-40"></div>
                   )}
                   <div className="relative z-1 w-full">
                     <div className="container">
