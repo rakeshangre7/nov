@@ -40,7 +40,7 @@ const defaultData: HeroProps = {
             value: 'Learn More',
           },
         },
-        pageImage: {
+        image: {
           jsonValue: {
             value: {
               src: 'https://edge.sitecorecloud.io/nationaloile493-nov-dev-59ee/media/nov/Images/About/We-Are-NOV-About/NOV-employee-on-rigsite.jpg?h=1080&iar=0&w=1920',
