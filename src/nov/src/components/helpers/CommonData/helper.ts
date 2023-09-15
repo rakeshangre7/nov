@@ -5,5 +5,6 @@ const getStorybookDefaultData = (defaultValue: unknown) => {
     },
   };
 };
+const dateFormat = 'MMM DD, YYYY';
 
-export { getStorybookDefaultData };
+export { getStorybookDefaultData, dateFormat };

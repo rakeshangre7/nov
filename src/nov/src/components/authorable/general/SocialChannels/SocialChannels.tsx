@@ -42,7 +42,7 @@ const SocialChannels = ({ fields }: SocialChannelsProps): JSX.Element => {
       : '';
   return (
     <>
-      <div className={`pt-[30px] sm:pt-20 text-center ${currentBgColor}`}>
+      <div className={`pt-[30px] smd:pt-20 text-center ${currentBgColor}`}>
         <div className="container">
           <div className="max-w-[600px] m-auto">
             <Text
