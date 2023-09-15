@@ -30,17 +30,7 @@ interface heroData {
       value?: string;
     };
   };
-  pageImage?: {
-    jsonValue?: {
-      value?: {
-        height?: string;
-        width?: string;
-        src?: string;
-        alt?: string;
-      };
-    };
-  };
-  Image?: {
+  image?: {
     jsonValue?: {
       value?: {
         height?: string;
@@ -84,9 +74,6 @@ export type HeroProps = {
 const Hero = ({ fields, params }: HeroProps): JSX.Element => {
   const useDataSource = fields?.data?.datasource != null;
   const heroData = useDataSource ? fields.data.datasource : fields.data.contextItem;
-  const heroDataImage = useDataSource
-    ? fields?.data?.datasource?.Image
-    : fields?.data?.contextItem?.pageImage;
 
   if (fields === null || fields === undefined) return <></>;
 
@@ -100,8 +87,8 @@ const Hero = ({ fields, params }: HeroProps): JSX.Element => {
               'text-black': params?.textColor === 'black',
             })}
             style={{
-              ...(heroDataImage?.jsonValue?.value?.src && {
-                backgroundImage: `url(${heroDataImage?.jsonValue?.value?.src})`,
+              ...(heroData?.image?.jsonValue?.value?.src && {
+                backgroundImage: `url(${heroData?.image.jsonValue?.value?.src})`,
               }),
             }}
           >
@@ -114,7 +101,7 @@ const Hero = ({ fields, params }: HeroProps): JSX.Element => {
                   controls={false}
                   field={{
                     image: {
-                      value: heroDataImage?.jsonValue?.value?.src,
+                      value: heroData?.image?.jsonValue?.value?.src,
                     },
                     videoid: {
                       value: heroData?.backgroundVideo?.jsonValue?.value,
