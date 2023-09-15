@@ -75,6 +75,4 @@ const ArticleSubhead = ({ fields }: ArticleSubheadProps): JSX.Element => {
   );
 };
 
-// @todo: Figure out how to mock isPageEditing, or if it even matters, in Storybook.
-// export default withDatasourceCheck()<ArticleSubheadProps>(ArticleSubhead);
 export default ArticleSubhead;

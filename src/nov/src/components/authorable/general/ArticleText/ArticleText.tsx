@@ -30,22 +30,17 @@ const ArticleText = ({ fields }: ArticleTextProps): JSX.Element => {
             field={fields?.body}
             className="text-black [&_p]:text-gray-dark [&_p]:mb-5  [&_p]:text-base [&_p]:leading-28 [&_p]:lg:leading-32 [&_h4]:text-5xl [&_h4]:leading-42 [&_h4]:mb-3.5 [&_h4]:mt-[22.5px] [&_h4]:text-black"
           />
-          {
-            fields?.ctaLink?.value?.href && (
-              <Button
-                variant={'standard'}
-                field={fields?.ctaLink}
-                className="text-red !text-base !leading-28"
-              />
-            )
-            // <div>{fields?.ctaLink?.value?.text}</div>
-          }
+          {fields?.ctaLink?.value?.href && (
+            <Button
+              variant={'standard'}
+              field={fields?.ctaLink}
+              className="text-red !text-base !leading-28"
+            />
+          )}
         </div>
       </div>
     </>
   );
 };
 
-// @todo: Figure out how to mock isPageEditing, or if it even matters, in Storybook.
-// export default withDatasourceCheck()<ArticleTextProps>(ArticleText);
 export default ArticleText;
