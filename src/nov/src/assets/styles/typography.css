@@ -54,6 +54,9 @@
   .rte p {
     @apply font-primary font-normal text-base leading-28 tracking-normal;
   }
+  .rte p:last-child {
+    @apply !mb-0;
+  }
   .rte a {
     @apply inline-flex font-medium leading-24 items-center text-sm transition ease-in-out duration-100 cursor-pointer text-primary hover:!underline basicFocusSmallBorder focus:!outline-primary;
   }
