@@ -6,7 +6,7 @@ Path: /sitecore/templates/Project/nov/NOV Com/Modules/Product/Sticky Button/Stic
 SharedFields:
 - ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
   Hint: Source
-  Value: "StartSearchLocation=query:./ancestor-or-self::*[@@templateid->'{27F15A8D-52B6-4041-8CCE-3BF06E779396}']/*[@@templateid->'{D02F35F4-977C-4221-A979-6EB4A083BAEA}']&TemplateFilter={E04D0D00-C0F7-41A6-917B-AF108BB097E1}|{E88B8164-BCB1-4CCF-9768-D3189DACA81C}"
+  Value: "StartSearchLocation=query:$site/Data/*[@@templateid->'{D02F35F4-977C-4221-A979-6EB4A083BAEA}']&TemplateFilter={E04D0D00-C0F7-41A6-917B-AF108BB097E1}|{E88B8164-BCB1-4CCF-9768-D3189DACA81C}"
 - ID: "21828437-ea4b-40a1-8c61-4ce60ea41db6"
   Hint: Validate Button
   Value: "{59D4EE10-627C-4FD3-A964-61A88B092CBC}"
@@ -39,14 +39,14 @@ Languages:
         sitecore\admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "8a04619c-4685-4ba2-836d-9c4995280888"
+      Value: "3f18c7b6-7fb0-4ef1-9501-0bbb14cb61d9"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\varalakshmi.md@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230705T085243Z
+      Value: 20230916T173545Z
 - Language: "en-US"
   Versions:
   - Version: 1

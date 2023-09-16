@@ -6,7 +6,7 @@ Path: /sitecore/templates/Project/nov/NOV Shared/Field Sections/Brands Data/Bran
 SharedFields:
 - ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
   Hint: Source
-  Value: "query:./ancestor-or-self::*[@@templateid='{27F15A8D-52B6-4041-8CCE-3BF06E779396}']/*[@@templateid='{95F18B83-1FF4-439A-B05A-011155FE05CF}']/*[@@templateid='{EC6E335A-1205-4327-91BE-80459828D619}']/*"
+  Value: "query:$site/Data/*[@@templateid='{95F18B83-1FF4-439A-B05A-011155FE05CF}']/*[@@templateid='{EC6E335A-1205-4327-91BE-80459828D619}']/*"
 - ID: "21828437-ea4b-40a1-8c61-4ce60ea41db6"
   Hint: Validate Button
   Value: 
@@ -64,11 +64,11 @@ Languages:
         sitecore\ashwin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "f7622081-ccfe-46b8-9e50-861ed88e375d"
+      Value: "1817d573-b1e7-4778-af3b-8631bd56b03f"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\ashwin
+        sitecore\varalakshmi.md@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20181206T235111Z
+      Value: 20230916T191600Z

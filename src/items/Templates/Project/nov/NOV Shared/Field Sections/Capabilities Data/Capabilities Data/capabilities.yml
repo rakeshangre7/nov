@@ -6,7 +6,7 @@ Path: /sitecore/templates/Project/nov/NOV Shared/Field Sections/Capabilities Dat
 SharedFields:
 - ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
   Hint: Source
-  Value: "query:./ancestor-or-self::*[@@templateid='{27F15A8D-52B6-4041-8CCE-3BF06E779396}']/*[@@templateid='{95F18B83-1FF4-439A-B05A-011155FE05CF}']/*[@@templateid='{40D96C96-BE5B-4A14-9C68-AD2608C70F19}']/*"
+  Value: "query:$site/Data/*[@@templateid='{95F18B83-1FF4-439A-B05A-011155FE05CF}']/*[@@templateid='{40D96C96-BE5B-4A14-9C68-AD2608C70F19}']/*"
 - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
   Hint: Type
   Value: Multilist
@@ -52,11 +52,11 @@ Languages:
         sitecore\ashwin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "f08054c4-c344-4190-bb11-7008c34d7362"
+      Value: "ddeee68f-6fdb-434e-b685-0e4ebee18fb7"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\admin
+        sitecore\varalakshmi.md@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20221101T081900Z
+      Value: 20230916T191735Z

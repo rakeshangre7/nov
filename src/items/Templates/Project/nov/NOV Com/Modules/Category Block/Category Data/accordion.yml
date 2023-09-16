@@ -6,7 +6,7 @@ Path: /sitecore/templates/Project/nov/NOV Com/Modules/Category Block/Category Da
 SharedFields:
 - ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
   Hint: Source
-  Value: "datasource=query:./ancestor-or-self::*[@@templateid='{27F15A8D-52B6-4041-8CCE-3BF06E779396}']/*[@@templateid='{F01F683A-767B-4AC4-8EBC-04B38472A649}']&IncludeTemplatesForSelection=FAQ Accordion Item"
+  Value: "datasource=query:$site/Data/*[@@templateid='{F01F683A-767B-4AC4-8EBC-04B38472A649}']&IncludeTemplatesForSelection=FAQ Accordion Item"
 - ID: "21828437-ea4b-40a1-8c61-4ce60ea41db6"
   Hint: Validate Button
   Value: "{59D4EE10-627C-4FD3-A964-61A88B092CBC}"
@@ -21,7 +21,7 @@ SharedFields:
   Value: "{59D4EE10-627C-4FD3-A964-61A88B092CBC}"
 - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
   Hint: Type
-  Value: Treelist
+  Value: TreelistEx
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 400
@@ -39,14 +39,14 @@ Languages:
         sitecore\admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "cc67b746-f589-46bd-ba31-cbe166545f8d"
+      Value: "d5fbf1f4-6c00-473d-8e24-bb75cd3f3f8d"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\rangre@horizontal.com
+        sitecore\varalakshmi.md@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230829T110245Z
+      Value: 20230705T085251Z
 - Language: "en-US"
   Versions:
   - Version: 1
@@ -64,11 +64,11 @@ Languages:
         sitecore\ashwin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "0070e07b-229c-4433-ae4d-adacd167e746"
+      Value: "2abf1574-0549-410a-90cf-4ad531144755"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\admin
+        sitecore\varalakshmi.md@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20190124T021058Z
+      Value: 20230916T190221Z

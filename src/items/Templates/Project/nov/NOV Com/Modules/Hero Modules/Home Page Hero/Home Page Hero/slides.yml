@@ -6,7 +6,7 @@ Path: /sitecore/templates/Project/nov/NOV Com/Modules/Hero Modules/Home Page Her
 SharedFields:
 - ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
   Hint: Source
-  Value: "datasource=query:./ancestor-or-self::*[@@templateid='{27F15A8D-52B6-4041-8CCE-3BF06E779396}']/*[@@templateid='{F01F683A-767B-4AC4-8EBC-04B38472A649}']&IncludeTemplatesForSelection=Hero Slide"
+  Value: "datasource=query:$site/Data/*[@@templateid='{F01F683A-767B-4AC4-8EBC-04B38472A649}']&IncludeTemplatesForSelection=Hero Slide"
 - ID: "21828437-ea4b-40a1-8c61-4ce60ea41db6"
   Hint: Validate Button
   Value: "{59D4EE10-627C-4FD3-A964-61A88B092CBC}"
@@ -21,7 +21,7 @@ SharedFields:
   Value: "{59D4EE10-627C-4FD3-A964-61A88B092CBC}"
 - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
   Hint: Type
-  Value: Treelist
+  Value: TreelistEx
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 100
@@ -39,14 +39,14 @@ Languages:
         sitecore\admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "1f5a45b0-2fa9-439a-b81f-49df9af206ff"
+      Value: "b2de1e77-fdce-415d-ac7c-9c9b3427427a"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\rangre@horizontal.com
+        sitecore\varalakshmi.md@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230816T062629Z
+      Value: 20230916T173732Z
 - Language: "en-US"
   Versions:
   - Version: 1
@@ -64,11 +64,11 @@ Languages:
         sitecore\ashwin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "505aaea5-7427-4956-a47d-9a03b32a9beb"
+      Value: "8380ec24-ae20-4ee5-8894-db1baf7646b4"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\admin
+        sitecore\varalakshmi.md@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20190121T222210Z
+      Value: 20230916T185244Z
