@@ -19,11 +19,20 @@ export const useBreakpoints = () => {
   }, []);
 
   const isMobile = screenWidth < 768;
+  const isMiniMobile = screenWidth < 767;
   const isTabletAndDesktop = screenWidth >= 767;
   const isTablet = screenWidth >= 768 && screenWidth < 1024;
   const isMiniDesktop = screenWidth < 1280;
   const isDesktop = screenWidth >= 1024;
   const isHeightSm = screenHeight <= 600;
 
-  return { isMobile, isTabletAndDesktop, isTablet, isDesktop, isMiniDesktop, isHeightSm };
+  return {
+    isMobile,
+    isMiniMobile,
+    isTabletAndDesktop,
+    isTablet,
+    isDesktop,
+    isMiniDesktop,
+    isHeightSm,
+  };
 };

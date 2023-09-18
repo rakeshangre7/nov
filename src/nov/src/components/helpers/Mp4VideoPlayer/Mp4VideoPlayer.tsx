@@ -4,8 +4,8 @@ export interface Mp4VideoPlayerProps {
     videoid: {
       value: string;
     };
-    image: {
-      value: string;
+    image?: {
+      value?: string;
     };
   };
   className?: string;

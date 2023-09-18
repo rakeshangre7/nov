@@ -19,6 +19,9 @@ SharedFields:
 - ID: "3d08db46-2267-41b0-bc52-be69fd618633"
   Hint: Cacheable
   Value: 1
+- ID: "a77e8568-1ab3-44f1-a664-b7c37ec7810d"
+  Hint: Parameters Template
+  Value: "{D4154973-293E-4360-BE0D-C8989C2A18F4}"
 - ID: "b5b27af1-25ef-405c-87ce-369b3a004016"
   Hint: Datasource Location
   Value: "query:$site/*[@@name='Data']/*[@@templateid='{F01F683A-767B-4AC4-8EBC-04B38472A649}']"
@@ -74,11 +77,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "78236145-d407-4127-806c-6bef219d828d"
+      Value: "47409efc-8f87-494b-b9f4-c4e2d4741e16"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\admin
+        sitecore\rangre@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20190516T022038Z
+      Value: 20230915T121300Z

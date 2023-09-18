@@ -78,7 +78,7 @@ const ContentList3x1 = ({ fields }: ContentList3x1Props): JSX.Element => {
               />
             </div>
           )}
-          <div className="lg:flex lg:flex-wrap px-4">
+          <div className="lg:flex lg:flex-wrap smd:px-4">
             {Array.isArray(targetItems) &&
               targetItems?.map((Item: targetItems, index: number) => (
                 <Fragment key={index}>
@@ -117,7 +117,7 @@ const ContentList3x1 = ({ fields }: ContentList3x1Props): JSX.Element => {
                         )}
 
                         <RichTextA11yWrapper
-                          className="text-2xs leading-16 lg:text-sm lg:leading-24 [&>p]:text-2xs [&>p]:leading-16 [&>p]:lg:text-sm [&>p]:lg:leading-24"
+                          className="text-sm leading-24 [&>p]:text-sm [&>p]:leading-24"
                           field={Item?.subheading?.jsonValue}
                           characterLimit={100}
                         />

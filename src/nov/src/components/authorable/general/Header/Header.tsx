@@ -164,8 +164,8 @@ const Header = ({ fields }: HeaderProps) => {
   }, []);
   const renderHeaderTeaser = () => {
     return (
-      <div className="w-[389px] h-[700px] bg-white fixed border-l-[1px] border-gray-light top-[65px] z-[3] right-0 l:w-[464px] flex justify-between flex-col">
-        <div>
+      <div className="w-[389px] h-[calc(100vh-65px)] max-h-[700px] xl:h-[700px] bg-white fixed border-l-[1px] border-gray-light top-[65px] z-[3] right-0 l:w-[464px] flex justify-between flex-col">
+        <div className={clsx('h-full relative')}>
           {activeNavbarStoryDetail?.cardImage?.value?.src && (
             <ImageWrapper
               field={activeNavbarStoryDetail?.cardImage}
@@ -219,19 +219,21 @@ const Header = ({ fields }: HeaderProps) => {
               />
             )}
           </div>
+          <div className={clsx('absolute bottom-0 w-full')}>
+            {activeNavbarStoryDetail?.featuredStoryCTALink && (
+              <Button
+                variant="button"
+                auto={false}
+                iconPosition="right"
+                iconClassName="icon-arrow-right"
+                iconFullWidth={true}
+                className="!min-h-[40px] max-h-[40px] text-[16px] px-[33px] py-[12px] [&_span]:ml-[-1px] [&_span]:font-bold	"
+                text={activeNavbarStoryDetail?.featuredStoryCTAText?.value}
+                field={activeNavbarStoryDetail?.featuredStoryCTALink}
+              />
+            )}
+          </div>
         </div>
-        {activeNavbarStoryDetail?.featuredStoryCTALink && (
-          <Button
-            variant="button"
-            auto={false}
-            iconPosition="right"
-            iconClassName="icon-arrow-right"
-            iconFullWidth={true}
-            className="!min-h-[40px] max-h-[40px] text-[16px] px-[33px] py-[12px] [&_span]:ml-[-1px] [&_span]:font-bold	"
-            text={activeNavbarStoryDetail?.featuredStoryCTAText?.value}
-            field={activeNavbarStoryDetail?.featuredStoryCTALink}
-          />
-        )}
       </div>
     );
   };

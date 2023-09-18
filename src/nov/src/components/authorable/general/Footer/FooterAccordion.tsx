@@ -72,7 +72,7 @@ const FooterAccordion = ({ FMItem, indexKey }: FooterAccordionProps) => {
   const isRedirect = FMItem?.redirectPageURL?.jsonValue?.value == null;
   return (
     <>
-      <li className="">
+      <li className="flex-1">
         <div className="border-b border-solid border-gray-light bg-white relative [&>a]:hover:text-black">
           {isDesktop ? (
             isRedirect ? (
