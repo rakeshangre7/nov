@@ -7,6 +7,38 @@ SharedFields:
 - ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
   Hint: componentName
   Value: ProductHero
+- ID: "17bb046a-a32a-41b3-8315-81217947611b"
+  Hint: ComponentQuery
+  Value: |
+    query ProductHeroQuery(
+      $datasource: String!
+      $contextItem: String!
+      $language: String!
+    ) {
+      datasource: item(path: $datasource, language: $language) {
+        contentTag: field(name: "contentTag") {
+          jsonValue
+        }
+        heading: field(name: "heading") {
+          jsonValue
+        }
+        subheading: field(name: "subheading") {
+          jsonValue
+        }
+        image: field(name: "Image") {
+          jsonValue
+        }
+        backgroundVideo: field(name: "backgroundVideo") {
+          jsonValue
+        }
+      }
+      contextItem: item(path: $contextItem, language: $language) {
+        image: field(name: "pageImage") {
+          jsonValue
+        }
+      }
+    }
+    
 - ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
   Hint: Datasource Template
   Value: /sitecore/templates/Project/nov/NOV Com/Modules/Hero Modules/Product Hero
@@ -19,6 +51,9 @@ SharedFields:
 - ID: "a2f5d9df-8cba-4a1d-99eb-51acb94cb057"
   Hint: Page Editor Buttons
   Value: "{34AC0EE7-F736-4C1D-89C9-AD5B1FBF1AF2}"
+- ID: "a77e8568-1ab3-44f1-a664-b7c37ec7810d"
+  Hint: Parameters Template
+  Value: "{A2931CAE-C10E-400E-B85E-143CAD8AC8E8}"
 - ID: "b5b27af1-25ef-405c-87ce-369b3a004016"
   Hint: Datasource Location
   Value: "query:./ancestor::*[@@templateid='{27F15A8D-52B6-4041-8CCE-3BF06E779396}']/*[@@templateid='{F01F683A-767B-4AC4-8EBC-04B38472A649}']"
@@ -40,14 +75,14 @@ Languages:
       Value: 20190121T232504Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "8eaac15d-d024-4166-b33f-78ba29c03732"
+      Value: "6509c53c-709c-48f2-9a2a-f187dd5d3928"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\varalakshmi.md@horizontal.com
+        sitecore\rangre@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230710T153523Z
+      Value: 20230915T104541Z
 - Language: "en-US"
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
@@ -69,11 +104,11 @@ Languages:
         sitecore\ashwin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "df608c40-5a8b-4f61-ade6-464d01b8f043"
+      Value: "1cf169dc-2e1a-4ddc-96f1-6720864860b6"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\ashwin
+        sitecore\rangre@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20190523T151652Z
+      Value: 20230915T092523Z
