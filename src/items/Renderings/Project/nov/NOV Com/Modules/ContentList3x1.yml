@@ -42,6 +42,9 @@ SharedFields:
         cardCtaText: field(name: "cardCtaText") {
           jsonValue
         }
+        cardImage: field(name: "productFallbackImage"){
+          jsonValue
+        }
       }
     }
     
@@ -92,14 +95,14 @@ Languages:
         sitecore\ashwin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "17bf2e5a-152d-4fc9-a504-b2ed25473a41"
+      Value: "7854e406-d245-4f9e-90d8-116add1ab5f0"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\varalakshmi.md@horizontal.com
+        sitecore\rangre@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230906T151108Z
+      Value: 20230918T062353Z
 - Language: "en-US"
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
