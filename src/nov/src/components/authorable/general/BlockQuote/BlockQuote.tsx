@@ -20,7 +20,7 @@ export type BlockQuoteProps = Sitecore.Override.ComponentBase &
 const BlockQuote = ({ fields }: BlockQuoteProps): JSX.Element => {
   const [isWithoutImage, setIsWithoutImage] = useState(true);
   useEffect(() => {
-    setIsWithoutImage(!fields?.image?.value?.src);
+    setIsWithoutImage(!(fields?.image?.value?.src || fields?.backgroundVideo?.value));
   }, []);
   // Fail out if fields aren't present
   if (fields === null || fields === undefined) return <></>;

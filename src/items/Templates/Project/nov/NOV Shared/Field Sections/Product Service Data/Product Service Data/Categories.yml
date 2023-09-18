@@ -6,10 +6,10 @@ Path: /sitecore/templates/Project/nov/NOV Shared/Field Sections/Product Service 
 SharedFields:
 - ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
   Hint: Source
-  Value: "datasource=query:./ancestor-or-self::*[@@templateid='{27F15A8D-52B6-4041-8CCE-3BF06E779396}']/*[@@templateid='{95F18B83-1FF4-439A-B05A-011155FE05CF}']/*[@@templateid='{EB33E993-9588-4785-AF28-615A604B0CCE}']&ExcludeTemplatesForSelection=Categories Folder"
+  Value: "datasource=query:$site/Data/*[@@templateid='{95F18B83-1FF4-439A-B05A-011155FE05CF}']/*[@@templateid='{EB33E993-9588-4785-AF28-615A604B0CCE}']&ExcludeTemplatesForSelection=Categories Folder"
 - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
   Hint: Type
-  Value: Treelist With Params
+  Value: TreelistEx
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 300
@@ -52,11 +52,11 @@ Languages:
         sitecore\ashwin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "85ffb2b9-eaed-4ee5-8b2a-9f52c14f4ef4"
+      Value: "3347191d-82ae-4578-aba8-c0579f4166a5"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\ashwin
+        sitecore\varalakshmi.md@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20190301T052153Z
+      Value: 20230916T192330Z
