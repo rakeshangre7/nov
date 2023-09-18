@@ -6,7 +6,7 @@ Path: /sitecore/templates/Project/nov/NOV Shared/Modules/Search Base/Search/sear
 SharedFields:
 - ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
   Hint: Source
-  Value: "query:./ancestor::*[@@templateid='{E5F08FD1-8183-4EE8-B517-8EA0C0A49BFF}' or @@templateid='{27F15A8D-52B6-4041-8CCE-3BF06E779396}']"
+  Value: "query:$site"
 - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
   Hint: Type
   Value: TreelistEx
@@ -35,14 +35,14 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "c463d55b-eb72-4190-9021-2e7b9395ecb8"
+      Value: "37c9750e-1e15-4239-8be4-b4f422fc89db"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\Admin
+        sitecore\varalakshmi.md@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20170801T201126Z
+      Value: 20230820T071032Z
 - Language: "en-US"
   Fields:
   - ID: "19a69332-a23e-4e70-8d16-b2640cb24cc8"
@@ -67,11 +67,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "16e85875-b61f-4c2f-846e-27805a635e04"
+      Value: "52aec950-c2b1-4b19-afb6-14f589cad24e"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\admin
+        sitecore\varalakshmi.md@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20190111T030041Z
+      Value: 20230916T193436Z
