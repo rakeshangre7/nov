@@ -60,7 +60,7 @@ const BrandCapabilityList = ({ fields }: BrandCapabilityListProps): JSX.Element 
           />
         )}
       </div>
-      {fields?.brandCapabilityList?.length && fields?.brandCapabilityList?.length > 0 && (
+      {fields?.brandCapabilityList?.length && fields?.brandCapabilityList?.length > 0 ? (
         <ul className="mt-6 pl-8 pb-8 smd:gap-20 smd:columns-3">
           {fields?.brandCapabilityList?.map((linkList: LinkField, index: number) => (
             <li className="body2 w-full py-3.5" key={index}>
@@ -72,7 +72,7 @@ const BrandCapabilityList = ({ fields }: BrandCapabilityListProps): JSX.Element 
             </li>
           ))}
         </ul>
-      )}
+      ) : null}
     </div>
   );
 };
