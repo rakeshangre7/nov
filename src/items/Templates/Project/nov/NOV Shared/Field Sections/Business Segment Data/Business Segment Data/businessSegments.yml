@@ -6,7 +6,7 @@ Path: /sitecore/templates/Project/nov/NOV Shared/Field Sections/Business Segment
 SharedFields:
 - ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
   Hint: Source
-  Value: " query:$site/Data/*[@@templateid='{95F18B83-1FF4-439A-B05A-011155FE05CF}']/*[@@templateid='{F5D34297-7ACD-42B2-B6E9-BC71D7E7F57A}']/*"
+  Value: "query:$site/Data/*[@@templateid='{95F18B83-1FF4-439A-B05A-011155FE05CF}']/*[@@templateid='{F5D34297-7ACD-42B2-B6E9-BC71D7E7F57A}']/*"
 - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
   Hint: Type
   Value: Multilist
@@ -52,11 +52,11 @@ Languages:
         sitecore\ashwin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "85a24c37-054e-44b3-96e9-332bc7d7aeea"
+      Value: "6fb25979-2ccc-46b6-a11d-20be82a64196"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\ashwin
+        sitecore\varalakshmi.md@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20191008T195115Z
+      Value: 20230913T120112Z

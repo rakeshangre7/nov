@@ -7,59 +7,6 @@ SharedFields:
 - ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
   Hint: componentName
   Value: HistoryTimeline
-- ID: "17bb046a-a32a-41b3-8315-81217947611b"
-  Hint: ComponentQuery
-  Value: |
-    query HistoryTimeline($datasource: String!, $language: String!) {
-      item(path: $datasource, language: $language) {
-          name
-         
-        children(includeTemplateIDs: "{612D6BBB-6133-4D1C-B9D0-37A1D36955CF}") {
-           results{
-            ... on HistoryTimelineRange{
-              yearsRange{
-                jsonValue
-              }
-              children(includeTemplateIDs:"{C52E41BD-2350-424D-830E-261036FD174D}"){
-               	 results{
-                  ... on HistoryTimelineYear{
-                    image{
-                      jsonValue
-                    }
-                    imageCropRegion{
-                      jsonValue
-                    }
-                    year{
-                      jsonValue
-                    }
-                    headline{
-                      jsonValue
-                    }
-                    text{
-                      jsonValue
-                    }
-                    link{
-                      jsonValue
-                    }
-                    secondaryImage{
-                      jsonValue
-                    }
-                    secondaryImageCropRegion{
-                      jsonValue
-                    }
-                  }
-                }
-              }
-            }
-          	 
-            }
-          }
-        }
-          
-        }
-      
-    
-    
 - ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
   Hint: Datasource Template
   Value: /sitecore/templates/Project/nov/NOV Com/Modules/History Timeline
@@ -68,7 +15,7 @@ SharedFields:
   Value: "{BD8DA9DF-D29C-4441-B14A-20D3C89AFBC5}"
 - ID: "b5b27af1-25ef-405c-87ce-369b3a004016"
   Hint: Datasource Location
-  Value: "query:./ancestor::*[@@templateid='{27F15A8D-52B6-4041-8CCE-3BF06E779396}']/*[@@templateid='{F01F683A-767B-4AC4-8EBC-04B38472A649}']"
+  Value: "query:$site/*[@@name='Data']/*[@@templateid='{F01F683A-767B-4AC4-8EBC-04B38472A649}']"
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 3200
@@ -98,14 +45,14 @@ Languages:
         sitecore\ashwin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "36018d87-bf1f-457a-a869-b77c1d50147e"
+      Value: "82e3c013-d737-4af7-9fcd-f82389ec180b"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\varalakshmi.md@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230710T153547Z
+      Value: 20230913T155238Z
 - Language: "en-US"
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
@@ -127,11 +74,11 @@ Languages:
         sitecore\ashwin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "8c100dfa-f0ac-4885-a15a-b9b6d8b039bd"
+      Value: "ffe917cd-f61e-480b-8d2b-eafc86623a20"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\rangre@horizontal.com
+        sitecore\admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230904T054835Z
+      Value: 20200116T222731Z

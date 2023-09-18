@@ -9,41 +9,7 @@ SharedFields:
   Value: StatsBlock
 - ID: "17bb046a-a32a-41b3-8315-81217947611b"
   Hint: ComponentQuery
-  Value: |
-    query HoverImage($datasource: String!, $language: String!) {
-      item(path: $datasource, language: $language) {
-      ... on StatBlock{
-        statCTA1{
-          anchor,
-          url,
-          text,
-          linkType
-        },
-        statCTA2{
-           anchor,
-          url,
-          text,
-          linkType
-        },
-        statCTA3{
-           anchor,
-          url,
-          text,
-          linkType
-        },
-        statNumber1{
-          value
-        },
-        statText2{
-          value
-        },
-        statText3{
-          value
-        }
-      }
-      }
-    }
-    
+  Value: 
 - ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
   Hint: Datasource Template
   Value: /sitecore/templates/Project/nov/NOV Com/Modules/Stat Block
@@ -64,7 +30,7 @@ SharedFields:
   Value: "{0D856A2F-E817-46AE-91B7-8158B018D99F}"
 - ID: "b5b27af1-25ef-405c-87ce-369b3a004016"
   Hint: Datasource Location
-  Value: "query:./ancestor::*[@@templateid='{27F15A8D-52B6-4041-8CCE-3BF06E779396}']/*[@@templateid='{F01F683A-767B-4AC4-8EBC-04B38472A649}']"
+  Value: "query:$site/*[@@name='Data']/*[@@templateid='{F01F683A-767B-4AC4-8EBC-04B38472A649}']"
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 700
@@ -94,14 +60,14 @@ Languages:
         sitecore\ashwin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "2c724d73-fe4a-4777-85c8-f8b4e8b48f64"
+      Value: "e82c3e87-dc01-4920-b70b-a2706ca82ea0"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\varalakshmi.md@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230710T153545Z
+      Value: 20230913T155237Z
 - Language: "en-US"
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
@@ -123,11 +89,11 @@ Languages:
         sitecore\ashwin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "f416b55f-4c7d-4fc0-a8e2-8ba988888910"
+      Value: "ecaabbcd-c604-40a1-a185-8274cfb4423d"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\rangre@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230809T110848Z
+      Value: 20230915T104654Z
