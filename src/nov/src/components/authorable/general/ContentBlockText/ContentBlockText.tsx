@@ -69,8 +69,8 @@ const ContentBlockText = ({ fields, params }: ContentBlockTextProps): JSX.Elemen
           ></div>
           <div
             className={clsx('w-full px-8 pb-8 pt-16 smd:p-0 smd:w-[264px] lg:w-[385px]', {
-              'smd:ml-[16] lg:ml-[159px]': !isRightAlign,
-              'smd:mr-[16] lg:mr-[159px]': isRightAlign,
+              'smd:ml-16 lg:ml-[159px]': !isRightAlign,
+              'smd:mr-16 lg:mr-[159px]': isRightAlign,
             })}
           >
             {fields?.backgroundVideo?.value && (
