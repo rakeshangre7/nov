@@ -4,11 +4,14 @@ import { ArticleTextProps } from './ArticleText';
 const defaultData: ArticleTextProps = {
   uid: '37dc6908-9973-4bf3-aa1f-616581927f03',
   componentName: 'ArticleText',
-  dataSource: '{E1C1BB95-AD8A-4F2B-9ED2-14C8799CD1DA}',
+  dataSource: '{A5987B01-565F-4307-8D81-AFD05A12530F}',
+  // params: {
+  //   useButtonForLink: '1',
+  // },
   fields: {
     body: {
       value:
-        '<p>The client used our 6.50-in. TMP to drill 3,100 ft across 275 downhole hours at an average flow rate of 570 gal/min to a maximum depth of more than 13,300-ft MD/10,900-ft TVC. The TMP delivered reliable pulses across the run, with a single pulser operating for 250 hours without any issues. The client was pleased with the successful use of the TMP and how it created strong, fast MWD pulses in a demanding application where there was significant LCM.</p>\n<style>\n    .header{background-color:black;}\n</style>',
+        '<p>The EFD viewer provides enables rapid assessment of the condition of the entire wellbore from a pressure perspective and the dynamic stability of the entire drilling system. Additionally, the EFD viewer provides an estimated equivalent circulating density reading at the shoe, updated in real time.</p>\n<p>Using a color gradient-based display, users can easily assess conditions such as hole cleaning and the impact parameters have on it, sweep efficiency, and the onset of hole instability and losses. The gradient-based method enables more rapid digestion of complex data than traditional methods, facilitating swifter decision making and a net reduction of risk in our customers&rsquo; operations.</p>\n<p>The dynamics portion of the viewer illustrates the dynamic state of the drillstring, allowing users to easily determine a change in the stability of the overall system. EFD viewer operation requires <a href="/About/Our-Business-Units/IntelliServ">IntelliServ&trade;</a>&nbsp;high-speed wired pipe telemetry, a minimum of two pressure and dynamics measure points, and our EDR installed at the rigsite and associated workstation.</p>',
     },
     ctaLink: {
       value: {
