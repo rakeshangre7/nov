@@ -26,7 +26,11 @@ const ContentBlockTestimonial = ({ fields, params }: ContentBlockTestimonialProp
   useEffect(() => {
     setIsRightAlign(params?.alignment?.toLowerCase() === 'right');
     setIsWithoutImage(!(fields?.image?.value?.src || fields?.backgroundVideo?.value));
-    setBackgroundColor(params?.backgroundColor?.split('-')?.[1] || '#F1F1F1');
+    setBackgroundColor(
+      params?.backgroundColor?.split('-')?.[1]
+        ? `#${params?.backgroundColor?.split('-')?.[1]}`
+        : '#F1F1F1'
+    );
   }, []);
   const renderContent = () => {
     return (
@@ -83,6 +87,7 @@ const ContentBlockTestimonial = ({ fields, params }: ContentBlockTestimonialProp
             })}
           >
             <div className="relative">
+              {console.log('backgroundColor', backgroundColor)}
               <div
                 className="h-0 pb-[100%] mx-[-25px] -mt-8 mb-[112px] smd:m-0 smd:pb-0 smd:relative smd:w-[264px] smd:h-[328px] lg:w-[480px] lg:h-[560px]"
                 style={{ backgroundColor: backgroundColor }}
