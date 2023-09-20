@@ -2,9 +2,11 @@ import Button from '@/components/helpers/Button/Button';
 import ImageWrapper from '@/components/helpers/ImageWrapper/ImageWrapper';
 import Mp4VideoPlayer from '@/components/helpers/Mp4VideoPlayer/Mp4VideoPlayer';
 import RichTextA11yWrapper from '@/components/helpers/RichTextA11yWrapper/RichTextA11yWrapper';
+import { useBreakpoints } from '@/components/utility/breakpoints';
 import { Field, ImageField, LinkField } from '@sitecore-jss/sitecore-jss-nextjs';
 import { Text } from '@sitecore-jss/sitecore-jss-nextjs';
 import clsx from 'clsx';
+import { useEffect, useState } from 'react';
 
 // Ideally, all this is from generated Typescript code from Sitecore and we're not manually defining types.
 interface Fields {
@@ -26,44 +28,49 @@ export type ContentBlockTextProps = {
 };
 
 const ContentBlockText = ({ fields, params }: ContentBlockTextProps): JSX.Element => {
+  const [isRightAlign, setIsRightAlign] = useState(false);
+  const [backgroundColor, setBackgroundColor] = useState('#F1F1F1');
+  useEffect(() => {
+    setIsRightAlign(params?.alignment?.toLowerCase() === 'right');
+    setBackgroundColor(params?.backgroundColor?.split('-')?.[1] || '#F1F1F1');
+  }, []);
+  const { isMiniMobile } = useBreakpoints();
+
   // Fail out if fields aren't present
   if (fields === null || fields === undefined) return <></>;
 
+  console.log('backgroundColor', backgroundColor);
   return (
     <>
       <div
         className={clsx(
           'container m-auto flex pt-[30px] smd:pt-20 flex-col smd:flex-row smd:justify-between smd:items-center',
           {
-            'smd:flex-row': params.Alignment !== 'right',
-            'smd:flex-row-reverse': params.Alignment === 'right',
+            'smd:flex-row': !isRightAlign,
+            'smd:flex-row-reverse': isRightAlign,
           }
         )}
       >
         <div
           className={clsx(
-            ' smd:bg-transparent pb-[100%] mx-[-25px] h-0 mt-8 mb-[112px] smd:m-0 smd:relative smd:w-[328px] smd:py-8 lg:py-[87.5px] smd:h-fit lg:w-[544px]',
-            {
-              'bg-primary': params.backgroundColor === 'red',
-              'bg-gray-light': params.backgroundColor !== 'red',
-            }
+            'bg-gray-light smd:bg-transparent pb-[100%] mx-[-25px]  h-0 mt-8 mb-[112px] smd:m-0 smd:relative smd:w-[328px] smd:py-8 lg:py-[87.5px] smd:h-fit lg:w-[544px]'
           )}
+          {...(isMiniMobile && { style: { backgroundColor: `#${backgroundColor}` } })}
         >
           <div
             className={clsx(
-              'hidden smd:block smd:w-[calc(100%-64px)] smd:absolute smd:top-0 smd:z-[-1] smd:h-full ',
+              'hidden smd:block smd:w-[calc(100%-64px)] bg-gray-light smd:absolute smd:top-0 smd:z-[-1] smd:h-full ',
               {
-                'smd:left-0': params.Alignment !== 'right',
-                'smd:right-0': params.Alignment === 'right',
-                'bg-primary': params.backgroundColor === 'red',
-                'bg-gray-light': params.backgroundColor !== 'red',
+                'smd:left-0': !isRightAlign,
+                'smd:right-0': isRightAlign,
               }
             )}
+            style={{ backgroundColor: `#${backgroundColor}` }}
           ></div>
           <div
             className={clsx('w-full px-8 pb-8 pt-16 smd:p-0 smd:w-[264px] lg:w-[385px]', {
-              'smd:ml-[16] lg:ml-[159px]': params.Alignment !== 'right',
-              'smd:mr-[16] lg:mr-[159px]': params.Alignment === 'right',
+              'smd:ml-16 lg:ml-[159px]': !isRightAlign,
+              'smd:mr-16 lg:mr-[159px]': isRightAlign,
             })}
           >
             {fields?.backgroundVideo?.value && (
@@ -90,8 +97,8 @@ const ContentBlockText = ({ fields, params }: ContentBlockTextProps): JSX.Elemen
         </div>
         <div
           className={clsx('text-left items-start smd:py-[48px] w-full', {
-            'smd:pr-0 smd:pl-[100px] smd:ml-[-64px]': params.Alignment !== 'right',
-            'smd:pl-0 smd:pr-[100px] smd:mr-[-64px]': params.Alignment === 'right',
+            'smd:pr-0 smd:pl-[100px] smd:ml-[-64px]': !isRightAlign,
+            'smd:pl-0 smd:pr-[100px] smd:mr-[-64px]': isRightAlign,
           })}
         >
           <Text

@@ -6,7 +6,7 @@ const defaultData: ContentBlockTextProps = {
   componentName: 'ContentBlockText',
   dataSource: '{3B4BD222-BACD-441F-A712-E4F8FA05E45A}',
   params: {
-    Alignment: 'left',
+    alignment: 'left',
     backgroundColor: 'gray',
   },
   fields: {
@@ -42,7 +42,7 @@ export const rightData: ContentBlockTextProps = {
   componentName: 'ContentBlockText',
   dataSource: '{3B4BD222-BACD-441F-A712-E4F8FA05E45A}',
   params: {
-    Alignment: 'right',
+    alignment: 'right',
     backgroundColor: 'red',
   },
   fields: {

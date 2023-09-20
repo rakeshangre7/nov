@@ -6,10 +6,10 @@ Path: /sitecore/templates/Project/nov/NOV Com/Modules/Authors Block/Authors Bloc
 SharedFields:
 - ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
   Hint: Source
-  Value: "datasource=query:$site/data/*[@@templateid='{F01F683A-767B-4AC4-8EBC-04B38472A649}']&IncludeTemplatesForSelection=Author Accordion Item"
+  Value: "datasource=query:$site/Data/*[@@templateid='{F01F683A-767B-4AC4-8EBC-04B38472A649}']&IncludeTemplatesForSelection=Author Accordion Item"
 - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
   Hint: Type
-  Value: Treelist
+  Value: TreelistEx
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 200
@@ -27,14 +27,14 @@ Languages:
         sitecore\admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "cca4867e-da0a-4998-95a7-20703afc060f"
+      Value: "aee8326f-3752-419c-a038-51d2bb5977eb"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\rangre@horizontal.com
+        sitecore\varalakshmi.md@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230908T094512Z
+      Value: 20230916T173858Z
 - Language: "en-US"
   Versions:
   - Version: 1
@@ -52,11 +52,11 @@ Languages:
         sitecore\ashwin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "4eb6383f-4b42-4bf9-96fd-727cb95e4c3a"
+      Value: "43eccb72-4f22-4075-9cdf-19fdb953850c"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\admin
+        sitecore\varalakshmi.md@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20190124T020851Z
+      Value: 20230916T185902Z

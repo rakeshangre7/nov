@@ -24,10 +24,10 @@ SharedFields:
   Value: "{C08FB695-532D-4EA6-B9BE-9BC86EB44C13}"
 - ID: "a77e8568-1ab3-44f1-a664-b7c37ec7810d"
   Hint: Parameters Template
-  Value: "{15FCB249-1595-40CB-BBFD-4BC96276D6E4}"
+  Value: "{F7E21FCC-E544-4835-A423-1C4B48A02B5F}"
 - ID: "b5b27af1-25ef-405c-87ce-369b3a004016"
   Hint: Datasource Location
-  Value: "query:./ancestor::*[@@templateid='{27F15A8D-52B6-4041-8CCE-3BF06E779396}']/*[@@templateid='{F01F683A-767B-4AC4-8EBC-04B38472A649}']"
+  Value: "query:$site/*[@@name='Data']/*[@@templateid='{F01F683A-767B-4AC4-8EBC-04B38472A649}']"
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 1100
@@ -57,14 +57,14 @@ Languages:
         sitecore\ashwin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "9aab5df9-becb-4de8-bdd5-d8814a050215"
+      Value: "2731d994-6470-49a5-bf40-9f646c6c2204"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\varalakshmi.md@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230821T123105Z
+      Value: 20230918T154121Z
 - Language: "en-US"
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"

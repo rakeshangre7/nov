@@ -6,7 +6,7 @@ Path: /sitecore/templates/Project/nov/NOV Com/Modules/Social Share/Social Share/
 SharedFields:
 - ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
   Hint: Source
-  Value: "query:./ancestor-or-self::*[@@templateid='{27F15A8D-52B6-4041-8CCE-3BF06E779396}']/*[@@templateid='{95F18B83-1FF4-439A-B05A-011155FE05CF}']/*[@@templateid='{C1F71C6C-9CED-46BB-A275-3D65AC2A6C07}']/*"
+  Value: "query:$site/Data/*[@@templateid='{95F18B83-1FF4-439A-B05A-011155FE05CF}']/*[@@templateid='{C1F71C6C-9CED-46BB-A275-3D65AC2A6C07}']/*"
 - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
   Hint: Type
   Value: Multilist
@@ -52,11 +52,11 @@ Languages:
         sitecore\ashwin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "d1a61508-ede2-4026-a7e5-24cce6b932a9"
+      Value: "44b6f415-386b-4506-98c0-e72688d176e0"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\admin
+        sitecore\varalakshmi.md@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20190124T021700Z
+      Value: 20230916T191327Z

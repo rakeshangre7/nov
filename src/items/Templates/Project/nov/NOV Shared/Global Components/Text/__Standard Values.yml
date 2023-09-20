@@ -1,31 +1,35 @@
 ﻿---
-ID: "76467f83-d0a0-4bc5-9d19-8a28824d8ab1"
-Parent: "15fcb249-1595-40cb-bbfd-4bc96276d6e4"
-Template: "15fcb249-1595-40cb-bbfd-4bc96276d6e4"
-Path: /sitecore/templates/Project/nov/NOV Com/Rendering Parameters/Article Text/__Standard Values
+ID: "7148becb-051d-4bea-8b65-b3f1250f6bff"
+Parent: "3a0e791e-8e4d-4791-9c07-237fb4bbd5c0"
+Template: "3a0e791e-8e4d-4791-9c07-237fb4bbd5c0"
+Path: /sitecore/templates/Project/nov/NOV Shared/Global Components/Text/__Standard Values
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
-  Value: Office/32x32/window_equalizer.png
+  Value: applications/32x32/text_align_center.png
 Languages:
-- Language: en
+- Language: "en-US"
   Versions:
   - Version: 1
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20211012T120926Z
+      Value: 20181207T025736Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
-        sitecore\JssImport
+        sitecore\admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "8f234062-ed3e-4057-a682-bbbce67d6853"
+      Value: "c5e3aff6-0591-401d-91b2-2e3e97f4111b"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\varalakshmi.md@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230821T123000Z
+      Value: 20230911T170558Z

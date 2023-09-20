@@ -1,12 +1,8 @@
 ﻿---
-ID: "90e93d07-4913-412a-b12e-fac024bdf991"
+ID: "298163c4-f6d7-4c90-a419-d0123091e49e"
 Parent: "9df1ec62-ac0e-4be8-8f5b-fabc1cd06e3a"
 Template: "b4b341bf-79ff-49af-9c97-9aa180dd7308"
-Path: /sitecore/content/nov/nov/Data/System/Text Colors/white
-SharedFields:
-- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
-  Hint: __Workflow
-  Value: "{0534B8A3-7D88-4A2D-B2A6-08C7CCCC67AE}"
+Path: "/sitecore/content/nov/nov/Data/System/Text Colors/black-000000"
 Languages:
 - Language: "en-US"
   Versions:
@@ -14,7 +10,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20181018T200019Z
+      Value: 20181018T180022Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -25,17 +21,17 @@ Languages:
         sitecore\ashwin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "c5d50e39-83f0-4b6f-9642-7c05e382f9c9"
+      Value: "4fc0b1c0-164b-40b0-9cf7-494b5091067f"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\varalakshmi.md@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230911T182214Z
+      Value: 20230911T182205Z
     - ID: "ddfde793-e7cc-41a3-8136-7a372da2bc22"
       Hint: colorValue
-      Value: #ffffff
+      Value: #000000
     - ID: "fa820245-5131-47bb-82af-9211a516e55f"
       Hint: colorName
-      Value: white
+      Value: black
