@@ -66,6 +66,11 @@ const ArticleImage = ({ fields }: ArticleImageProps): JSX.Element => {
                 tag="p"
                 className={clsx('text-gray-dark', 'text-2xs', 'leading-16', 'mb-[6px]')}
               />
+              <Text
+                field={fields?.credit}
+                tag="span"
+                className={clsx('text-2xs', 'text-black', 'leading-16', 'mb-[6px]')}
+              />
             </div>
           )}
         </div>
