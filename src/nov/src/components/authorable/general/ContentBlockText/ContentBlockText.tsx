@@ -32,7 +32,11 @@ const ContentBlockText = ({ fields, params }: ContentBlockTextProps): JSX.Elemen
   const [backgroundColor, setBackgroundColor] = useState('#F1F1F1');
   useEffect(() => {
     setIsRightAlign(params?.alignment?.toLowerCase() === 'right');
-    setBackgroundColor(params?.backgroundColor?.split('-')?.[1] || '#F1F1F1');
+    setBackgroundColor(
+      params?.backgroundColor?.split('-')?.[1]
+        ? `#${params?.backgroundColor?.split('-')?.[1]}`
+        : '#F1F1F1'
+    );
   }, []);
   const { isMiniMobile } = useBreakpoints();
 
