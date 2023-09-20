@@ -1,8 +1,8 @@
 ﻿---
-ID: "298163c4-f6d7-4c90-a419-d0123091e49e"
-Parent: "9df1ec62-ac0e-4be8-8f5b-fabc1cd06e3a"
+ID: "a804f9fa-44db-45ac-af4c-b4e1a423ad43"
+Parent: "c7bef56a-0801-4854-86ba-9453b99e84f5"
 Template: "b4b341bf-79ff-49af-9c97-9aa180dd7308"
-Path: /sitecore/content/nov/nov/Data/System/Text Colors/black
+Path: "/sitecore/content/nov/nov/Data/System/Background Colors/red-C6C6C6"
 Languages:
 - Language: "en-US"
   Versions:
@@ -21,17 +21,17 @@ Languages:
         sitecore\ashwin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "4fc0b1c0-164b-40b0-9cf7-494b5091067f"
+      Value: "569f220e-93c5-4dd3-96ba-056b7d782d97"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\varalakshmi.md@horizontal.com
+        sitecore\ashwin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230911T182205Z
+      Value: 20181107T205948Z
     - ID: "ddfde793-e7cc-41a3-8136-7a372da2bc22"
       Hint: colorValue
-      Value: #000000
+      Value: #C6C6C6
     - ID: "fa820245-5131-47bb-82af-9211a516e55f"
       Hint: colorName
-      Value: black
+      Value: red

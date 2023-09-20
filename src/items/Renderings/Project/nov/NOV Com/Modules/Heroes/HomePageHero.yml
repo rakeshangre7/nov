@@ -7,6 +7,88 @@ SharedFields:
 - ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
   Hint: componentName
   Value: HomePageHero
+- ID: "17bb046a-a32a-41b3-8315-81217947611b"
+  Hint: ComponentQuery
+  Value: |
+    fragment PageOfHeroSlide on MultilistField{
+        items: targetItems{
+        ... on Item{
+          pageTitle: field(name: "pageTitle") {
+            value
+          }
+          subheading: field(name:"subHeading"){
+            value
+          }
+          featuredStoryCtaText:field(name: "featuredStoryCtaText"){
+            value
+          }
+          url{
+            path
+            url
+          }
+        }
+      }
+    }
+    
+    fragment HomePageHeroSlides on MultilistField {
+      items: targetItems {
+        ... on HeroSlide{
+         
+         addGradient{
+          value
+         }
+          image{
+            ... on ImageField{
+              height
+              width
+              src
+              alt
+            }
+          }
+          imageCropRegion{
+            value
+          }
+          backgroundVideo{
+            value
+          }
+          pages{
+            ...PageOfHeroSlide
+          }
+          
+        }
+      }
+    }
+    
+    query HomePageHero($datasource: String!, $language: String!) {
+      item(path: $datasource, language: $language) {
+        ... on HomePageHero{
+          searchPlaceholderText{
+            value
+          }
+         	trendingText{
+            value
+          }
+          trendingSearchKeywords{
+            value
+          }
+          
+          slides{ 
+            ...HomePageHeroSlides
+          }
+          
+        }
+        
+      
+      }
+     searchPage: item(path: "{4DCF14F6-DD6D-4748-B370-8726A62DF201}", language: $language){
+        url{
+          path
+          url
+        }
+      }
+      
+    }
+    
 - ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
   Hint: Datasource Template
   Value: /sitecore/templates/Project/nov/NOV Com/Modules/Hero Modules/Home Page Hero
@@ -80,11 +162,11 @@ Languages:
         sitecore\ashwin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "f8e60aa2-40b6-431d-984d-5ee3f981b849"
+      Value: "8ddae426-3d4c-419f-8828-b16417f92dca"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\ashwin
+        sitecore\rangre@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20190520T181909Z
+      Value: 20230918T133026Z

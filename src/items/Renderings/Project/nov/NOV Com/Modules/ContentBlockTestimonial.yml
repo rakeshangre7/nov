@@ -9,41 +9,7 @@ SharedFields:
   Value: ContentBlockTestimonial
 - ID: "17bb046a-a32a-41b3-8315-81217947611b"
   Hint: ComponentQuery
-  Value: |
-    query ContentBlockTestimonial($datasource: String!, $language: String!) {
-      item(path: $datasource, language: $language) {
-      ... on ContentBlockTestimonial{
-         image{
-          src,
-          alt,
-          height,
-          width
-        },
-        imageCropRegion{
-           value
-        },
-        testimonial{
-           value
-        },
-        fullName{
-           value
-        },
-        jobTitle{
-           value
-        },
-         cta{
-           anchor,
-          url,
-          text,
-          linkType
-        },
-        backgroundVideo{
-          value
-        }
-      }
-      }
-    }
-    
+  Value: 
 - ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
   Hint: Datasource Template
   Value: /sitecore/templates/Project/nov/NOV Com/Modules/Content Block Testimonial
