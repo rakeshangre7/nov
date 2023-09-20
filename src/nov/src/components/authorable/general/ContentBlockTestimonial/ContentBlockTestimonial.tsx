@@ -87,7 +87,6 @@ const ContentBlockTestimonial = ({ fields, params }: ContentBlockTestimonialProp
             })}
           >
             <div className="relative">
-              {console.log('backgroundColor', backgroundColor)}
               <div
                 className="h-0 pb-[100%] mx-[-25px] -mt-8 mb-[112px] smd:m-0 smd:pb-0 smd:relative smd:w-[264px] smd:h-[328px] lg:w-[480px] lg:h-[560px]"
                 style={{ backgroundColor: backgroundColor }}
