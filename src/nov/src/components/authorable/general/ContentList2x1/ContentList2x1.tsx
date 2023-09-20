@@ -35,6 +35,9 @@ interface ContextItem {
       value?: string;
     };
   };
+  cardImage?: {
+    jsonValue: ImageField;
+  };
 }
 export type ContentList2x1Props = {
   uid?: string;
@@ -66,9 +69,14 @@ const ContentList2x1 = ({ fields }: ContentList2x1Props): JSX.Element => {
           <div className="mx-auto smd:pt-[0] lg:pt-[30px] w-full text-center px-[15px] lg:max-w-[1120px] flex justify-center lg:justify-start flex-wrap">
             {fields?.data?.datasource?.pages?.targetItems?.map(
               (contentData: CardContent, index: number) => {
+                const imageObject = contentData?.cardImage?.jsonValue?.value?.src
+                  ? contentData?.cardImage?.jsonValue
+                  : fields?.data?.contextItem?.cardImage?.jsonValue?.value?.src
+                  ? fields?.data?.contextItem?.cardImage?.jsonValue
+                  : null;
                 return (
                   <>
-                    {contentData?.cardImage?.jsonValue?.value?.src && (
+                    {imageObject && (
                       <div
                         key={index}
                         className="pt-[45px] relative block cursor-pointer max-w-[544px] w-full mx-auto lg:m-0 lg-w-1/2 lg:px-[15px] hover:!no-underline basicFocusSmallBorder"
@@ -86,10 +94,10 @@ const ContentList2x1 = ({ fields }: ContentList2x1Props): JSX.Element => {
                         }}
                         tabIndex={0}
                       >
-                        {contentData?.cardImage?.jsonValue && (
+                        {imageObject && (
                           <ImageWrapper
                             className="pt-0 mb-[30px] w-full overflow-hidden h-auto"
-                            field={contentData?.cardImage?.jsonValue}
+                            field={imageObject}
                           />
                         )}
                         <div className="w-[90.7%] relative mx-auto text-left bg-gray-lightest p-[34px] !pt-[22px] top-[-70px] mb-[-58px] smd:w-[76.47%] smd:top-[-126px]">
