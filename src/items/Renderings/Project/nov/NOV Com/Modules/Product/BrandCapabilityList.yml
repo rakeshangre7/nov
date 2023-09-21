@@ -19,6 +19,9 @@ SharedFields:
 - ID: "8b6d532b-6128-4486-a044-ca06d90948ba"
   Hint: VaryByData
   Value: 1
+- ID: "b0b15510-b138-470e-8f33-8da2e228aafe"
+  Hint: Rendering Contents Resolver
+  Value: "{1F736D0C-DC7E-4C5E-97B1-243C64DEC44C}"
 - ID: "b5b27af1-25ef-405c-87ce-369b3a004016"
   Hint: Datasource Location
   Value: "query:$site/*[@@name='Data']/*[@@templateid='{F01F683A-767B-4AC4-8EBC-04B38472A649}']"
@@ -77,11 +80,11 @@ Languages:
         sitecore\ashwin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "2e75991c-db85-41f6-9075-7ab4542d19e2"
+      Value: "5de1b2e9-5e07-4314-a0f5-8e14ce576521"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\ashwin
+        sitecore\rangre@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20190520T182052Z
+      Value: 20230921T101644Z
