@@ -7,6 +7,11 @@ SharedFields:
 - ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
   Hint: componentName
   Value: ImageBlockSplitter
+- ID: "069a8361-b1cd-437c-8c32-a3be78941446"
+  Hint: Placeholders
+  Value: |
+    {3582F5ED-2BC6-4493-8DA3-87E434402270}
+    {3E98C51E-48A2-4AEF-A476-DB659D3EE01D}
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 400
@@ -65,11 +70,11 @@ Languages:
         sitecore\ashwin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "a44a6a30-ec84-4ae2-8fda-4c8b1cea4730"
+      Value: "3099f2e1-b95b-44a9-ada2-1aaf1fc5d696"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\ashwin
+        sitecore\rangre@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20190402T184926Z
+      Value: 20230920T070033Z

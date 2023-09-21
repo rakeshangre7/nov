@@ -9,36 +9,7 @@ SharedFields:
   Value: ImageBlock960x1080
 - ID: "17bb046a-a32a-41b3-8315-81217947611b"
   Hint: ComponentQuery
-  Value: |
-    query ImageBlock($datasource: String!, $language: String!) {
-      item(path: $datasource, language: $language) {
-      ... on ImageBlock960x1080{
-       image {
-        ... on ImageField{
-          src,
-          alt,
-          height,
-          width
-        }
-      },
-        imageCropRegion{
-          value
-        },
-        linkurl{
-          ... on LinkField{
-            url,
-            anchor,
-            text,
-            linkType
-          }
-        },
-        headline{
-          value
-        }
-      }
-      }
-    }
-    
+  Value: 
 - ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
   Hint: Datasource Template
   Value: /sitecore/templates/Project/nov/NOV Com/Modules/Image Blocks/Image Block 960x1080
@@ -115,11 +86,11 @@ Languages:
         sitecore\ashwin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "bebd1b21-af2c-40f0-a007-869e170e03df"
+      Value: "3b39ffbd-7368-4f74-810a-66e104a932c4"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\rangre@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230810T122233Z
+      Value: 20230921T071523Z
