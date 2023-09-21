@@ -109,9 +109,12 @@ const StatsBlock = ({ fields, params }: StatsBlockProps) => {
               <Text
                 tag="span"
                 field={{
-                  value: fields.suffix1?.value ? (
+                  value: fields?.suffix1?.value ? (
                     <>
-                      {fields.statNumber1?.value} {fields.suffix1?.value}
+                      {fields?.statNumber1?.value}
+                      {fields?.suffix1.value && (
+                        <Text tag="span" field={{ value: fields.suffix1.value }} />
+                      )}
                     </>
                   ) : (
                     animatedNumber1.toLocaleString()
@@ -140,9 +143,12 @@ const StatsBlock = ({ fields, params }: StatsBlockProps) => {
                 <Text
                   tag="span"
                   field={{
-                    value: fields.suffix2?.value ? (
+                    value: fields?.suffix2?.value ? (
                       <>
-                        {fields.statNumber2?.value} {fields.suffix2?.value}
+                        {fields?.statNumber2?.value}
+                        {fields?.suffix2.value && (
+                          <Text tag="span" field={{ value: fields.suffix2.value }} />
+                        )}
                       </>
                     ) : typeof animatedNumber2 === 'number' ? (
                       fields.statNumber2?.value === '50+' ? (
@@ -177,9 +183,12 @@ const StatsBlock = ({ fields, params }: StatsBlockProps) => {
               <Text
                 tag="span"
                 field={{
-                  value: fields.suffix3?.value ? (
+                  value: fields?.suffix3?.value ? (
                     <>
-                      {fields.statNumber3?.value} {fields.suffix3?.value}
+                      {fields?.statNumber3?.value}{' '}
+                      {fields?.suffix3.value && (
+                        <Text tag="span" field={{ value: fields?.suffix3.value }} />
+                      )}
                     </>
                   ) : (
                     animatedNumber3.toLocaleString()
