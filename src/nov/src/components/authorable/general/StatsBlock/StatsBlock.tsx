@@ -92,13 +92,15 @@ const StatsBlock = ({ fields, params }: StatsBlockProps) => {
     };
   }, [fields, animatedNumber1, animatedNumber2, animatedNumber3]);
 
+  const isAlignmentRight = params?.alignment === 'right';
+
   return (
     <div className="">
       <div className="container mx-auto">
         <div
           className={clsx('w-full  m-auto', {
-            'text-right': params?.alignment === 'right',
-            'text-center': params?.alignment !== 'right',
+            'text-right': isAlignmentRight,
+            'text-left': !isAlignmentRight,
           })}
           data-component="authorable/general/statsblock"
           data-testid="statsblock"
