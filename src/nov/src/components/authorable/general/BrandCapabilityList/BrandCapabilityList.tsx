@@ -1,7 +1,6 @@
 import Button from '@/components/helpers/Button/Button';
 import ImageWrapper from '@/components/helpers/ImageWrapper/ImageWrapper';
 import Mp4VideoPlayer from '@/components/helpers/Mp4VideoPlayer/Mp4VideoPlayer';
-import RichTextA11yWrapper from '@/components/helpers/RichTextA11yWrapper/RichTextA11yWrapper';
 import { Field, ImageField, LinkField, Text } from '@sitecore-jss/sitecore-jss-nextjs';
 
 export type BrandCapabilityListProps = {
