@@ -18,14 +18,18 @@ const ImageBlockSplitterSingle = ({ rendering }: ImageBlockSplitterSingleProps):
   return (
     <>
       <div className="lg:flex w-full smd:justify-between">
-        <Placeholder
-          name="image-block-splitter-960x1080-left"
-          rendering={rendering as ComponentRendering}
-        />
-        <Placeholder
-          name="image-block-splitter-960x1080-right"
-          rendering={rendering as ComponentRendering}
-        />
+        <div className="w-6/12">
+          <Placeholder
+            name="image-block-splitter-960x1080-left"
+            rendering={rendering as ComponentRendering}
+          />
+        </div>
+        <div className="w-6/12">
+          <Placeholder
+            name="image-block-splitter-960x1080-right"
+            rendering={rendering as ComponentRendering}
+          />
+        </div>
       </div>
     </>
   );
