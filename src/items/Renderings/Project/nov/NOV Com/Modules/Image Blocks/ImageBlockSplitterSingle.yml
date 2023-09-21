@@ -7,6 +7,11 @@ SharedFields:
 - ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
   Hint: componentName
   Value: ImageBlockSplitterSingle
+- ID: "069a8361-b1cd-437c-8c32-a3be78941446"
+  Hint: Placeholders
+  Value: |
+    {3582F5ED-2BC6-4493-8DA3-87E434402270}
+    {3E98C51E-48A2-4AEF-A476-DB659D3EE01D}
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 1200
@@ -14,6 +19,9 @@ SharedFields:
   Hint: __Thumbnail
   Value: |
     <image mediaid="{DA6A9207-FD6F-44AC-9A50-8FBF1C39083F}" />
+- ID: "e829c217-5e94-4306-9c48-2634b094fdc2"
+  Hint: OtherProperties
+  Value: IsRenderingsWithDynamicPlaceholders=true
 Languages:
 - Language: en
   Fields:
@@ -65,11 +73,11 @@ Languages:
         sitecore\ashwin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "af64e0a3-5362-4b7a-99d7-428ccdc8b9ce"
+      Value: "5a572ea3-e2aa-4776-98bf-727417915a9d"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\ashwin
+        sitecore\rangre@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20190402T184936Z
+      Value: 20230920T102824Z

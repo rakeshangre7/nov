@@ -9,41 +9,7 @@ SharedFields:
   Value: ContentBlockTestimonial
 - ID: "17bb046a-a32a-41b3-8315-81217947611b"
   Hint: ComponentQuery
-  Value: |
-    query ContentBlockTestimonial($datasource: String!, $language: String!) {
-      item(path: $datasource, language: $language) {
-      ... on ContentBlockTestimonial{
-         image{
-          src,
-          alt,
-          height,
-          width
-        },
-        imageCropRegion{
-           value
-        },
-        testimonial{
-           value
-        },
-        fullName{
-           value
-        },
-        jobTitle{
-           value
-        },
-         cta{
-           anchor,
-          url,
-          text,
-          linkType
-        },
-        backgroundVideo{
-          value
-        }
-      }
-      }
-    }
-    
+  Value: 
 - ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
   Hint: Datasource Template
   Value: /sitecore/templates/Project/nov/NOV Com/Modules/Content Block Testimonial
@@ -123,11 +89,11 @@ Languages:
         sitecore\ashwin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "3e6b98b4-e959-4f78-ad32-4950a3308881"
+      Value: "881b3704-e931-4abf-b59c-b5ead0aca7ca"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\rangre@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230915T121456Z
+      Value: 20230920T100353Z
