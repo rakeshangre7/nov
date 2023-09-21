@@ -1,6 +1,7 @@
-import React, { useEffect, useState } from 'react';
+import React, { useEffect, useState, useRef } from 'react';
 import { Field, LinkField, Text } from '@sitecore-jss/sitecore-jss-nextjs';
 import Button from '@/components/helpers/Button/Button';
+import clsx from 'clsx';
 
 export interface StatsBlock {
   suffix1?: Field<string>;
@@ -23,75 +24,87 @@ export type StatsBlockProps = {
   fields: StatsBlock;
 };
 
-const StatsBlock = ({ fields }: StatsBlockProps) => {
+const StatsBlock = ({ fields, params }: StatsBlockProps) => {
   const [animatedNumber1, setAnimatedNumber1] = useState(0);
   const [animatedNumber2, setAnimatedNumber2] = useState(0);
   const [animatedNumber3, setAnimatedNumber3] = useState(0);
 
+  const statsBlockRef = useRef(null);
+
   useEffect(() => {
-    const startCountAnimation = (
-      _id: string,
-      endNbr: number,
-      setAnimatedValue: (value: number) => void
-    ) => {
+    const startCountAnimation = (endNbr: number, setAnimatedValue: (value: number) => void) => {
       let currentNumber = 0;
-      const animationDuration = 50;
+      const animationDuration = 50; // Adjust the animation duration as needed
       const step = (endNbr - currentNumber) / animationDuration;
 
       const animationInterval = setInterval(() => {
         currentNumber += step;
-        setAnimatedValue(currentNumber);
+        currentNumber = Math.min(currentNumber, endNbr);
+        setAnimatedValue(Math.floor(currentNumber));
 
         if (currentNumber >= endNbr) {
           clearInterval(animationInterval);
         }
       }, 16);
-
-      return () => {
-        clearInterval(animationInterval);
-      };
     };
 
-    const statNumber1Value = fields.statNumber1?.value || 0;
-    const endNbr1 =
-      typeof statNumber1Value === 'number' ? statNumber1Value : parseFloat(statNumber1Value) || 0;
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach((entry) => {
+        if (entry.isIntersecting) {
+          if (fields.statNumber1 && animatedNumber1 === 0) {
+            const statNumber1Value = fields.statNumber1.value || 0;
+            const endNbr1 =
+              typeof statNumber1Value === 'number'
+                ? statNumber1Value
+                : parseFloat(statNumber1Value) || 0;
+            startCountAnimation(endNbr1, setAnimatedNumber1);
+          }
 
-    const cleanup1 =
-      typeof endNbr1 === 'number' && !isNaN(endNbr1)
-        ? startCountAnimation('statNumber1', endNbr1, setAnimatedNumber1)
-        : () => {};
+          if (fields.statNumber2 && animatedNumber2 === 0) {
+            const statNumber2Value = fields.statNumber2.value || 0;
+            const endNbr2 =
+              typeof statNumber2Value === 'number'
+                ? statNumber2Value
+                : parseFloat(statNumber2Value) || 0;
+            startCountAnimation(endNbr2, setAnimatedNumber2);
+          }
 
-    const statNumber2Value = fields.statNumber2?.value || 0;
-    const endNbr2 =
-      typeof statNumber2Value === 'number' ? statNumber2Value : parseFloat(statNumber2Value) || 0;
+          if (fields.statNumber3 && animatedNumber3 === 0) {
+            const statNumber3Value = fields.statNumber3.value || 0;
+            const endNbr3 =
+              typeof statNumber3Value === 'number'
+                ? statNumber3Value
+                : parseFloat(statNumber3Value) || 0;
+            startCountAnimation(endNbr3, setAnimatedNumber3);
+          }
+        }
+      });
+    });
 
-    const cleanup2 =
-      typeof endNbr2 === 'number' && !isNaN(endNbr2)
-        ? startCountAnimation('statNumber2', endNbr2, setAnimatedNumber2)
-        : () => {};
+    if (statsBlockRef.current) {
+      observer.observe(statsBlockRef.current);
+    }
 
-    const statNumber3Value = fields.statNumber3?.value || 0;
-    const endNbr3 =
-      typeof statNumber3Value === 'number' ? statNumber3Value : parseFloat(statNumber3Value) || 0;
-
-    const cleanup3 =
-      typeof endNbr3 === 'number' && !isNaN(endNbr3)
-        ? startCountAnimation('statNumber3', endNbr3, setAnimatedNumber3)
-        : () => {};
-
-    // Clean up the intervals when the component unmounts
     return () => {
-      cleanup1();
-      cleanup2();
-      cleanup3();
+      if (statsBlockRef.current) {
+        observer.unobserve(statsBlockRef.current);
+      }
     };
-  }, [fields]);
+  }, [fields, animatedNumber1, animatedNumber2, animatedNumber3]);
 
   return (
     <div className="">
       <div className="container mx-auto">
-        <div className="" data-component="authorable/general/statsblock" data-testid="statsblock">
-          <div className="flex flex-col smd:flex smd:flex-row justify-between items-center flex-wrap pt-[30px] smd:pt-20">
+        <div
+          className={clsx('w-full  m-auto', {
+            'text-right': params?.alignment === 'right',
+            'text-center': params?.alignment !== 'right',
+          })}
+          data-component="authorable/general/statsblock"
+          data-testid="statsblock"
+          ref={statsBlockRef}
+        >
+          <div className="flex flex-col smd:flex smd:flex-row justify-between items-center  pt-[30px] smd:pt-20">
             <div className="mb-[30px] smd:mb-0  text-center flex-1 w-full">
               <Text
                 tag="span"

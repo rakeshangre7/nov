@@ -2,7 +2,9 @@ import { StatsBlockProps } from './StatsBlock';
 
 const defaultData: StatsBlockProps = {
   rendering: { componentName: 'StatsBlock' },
-  params: {},
+  params: {
+    alignment: 'right',
+  },
   fields: {
     statCTA1: { value: { href: '', text: 'Learn More' } },
     statCTA2: { value: { href: '', text: 'Learn More' } },
