@@ -30,9 +30,10 @@ const BrandCapabilityList = ({ fields }: BrandCapabilityListProps): JSX.Element 
             <Text tag="h2" className="text-black my-[0.83em]" field={fields.headline} />
           )}
           {fields?.description && (
-            <RichTextA11yWrapper
+            <Text
+              tag="p"
               field={fields?.description}
-              className="[&_p]:text-2xs [&_p]:leading-16 [&_p]:lg:text-sm [&_p]:lg:leading-24 text-2xs font-primary leading-16 lg:text-sm lg:leading-24 !antialiased text-black [&>*]:mb-[1.25em]"
+              className="text-2xs leading-16 lg:text-sm lg:leading-24 font-primary !antialiased text-black mb-[1.25em]"
             />
           )}
         </div>
