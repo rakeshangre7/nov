@@ -6,7 +6,7 @@ const ImageBlockContainerSingle = (props: ImageBlockSplitterSingleProps): JSX.El
   // if (placeholders === null || placeholders === undefined) return <></>;
 
   return (
-    <div className="pt-[30px] smd:pt-20">
+    <div className="mt-[30px] smd:mt-20 lg:pb-[56.25%] lg:h-0 relative">
       {props?.rendering && (
         <>
           <Placeholder name="image-block-main" rendering={props.rendering} />

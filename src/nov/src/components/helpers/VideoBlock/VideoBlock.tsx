@@ -15,13 +15,13 @@ export interface VideoBlockProps {
 }
 const VideoBlock = ({ fields }: VideoBlockProps) => {
   return (
-    <div className="w-full h-auto relative ">
+    <div className="w-full h-full relative ">
       {fields?.video?.value && (
         <Mp4VideoPlayer
           autoplay={true}
           loop={true}
           muted={true}
-          className="w-full h-auto"
+          className={'w-full h-full'}
           controls={false}
           field={{
             image: {
