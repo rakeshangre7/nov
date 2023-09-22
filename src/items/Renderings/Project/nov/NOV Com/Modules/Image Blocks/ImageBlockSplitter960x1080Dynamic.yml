@@ -7,6 +7,11 @@ SharedFields:
 - ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
   Hint: componentName
   Value: ImageBlockSplitter960x1080Dynamic
+- ID: "069a8361-b1cd-437c-8c32-a3be78941446"
+  Hint: Placeholders
+  Value: |
+    {AE062C8C-EB71-4B8C-A63D-1E2528F1BCB9}
+    {866EBCE8-7327-4B31-976F-50BA21F44AFF}
 - ID: "a2f5d9df-8cba-4a1d-99eb-51acb94cb057"
   Hint: Page Editor Buttons
   Value: 
@@ -68,11 +73,11 @@ Languages:
         sitecore\ashwin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "4db71513-23e3-49c9-8339-4bb72375c76f"
+      Value: "69708c50-5710-468b-88ba-ba3d65e74227"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\ashwin
+        sitecore\rangre@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20190402T184928Z
+      Value: 20230920T070146Z
