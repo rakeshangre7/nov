@@ -51,7 +51,7 @@ const HeroSlider = (fields: HeroSliderProps): JSX.Element => {
     return (
       <Icon
         className={
-          'text-4xl absolute top-2/4 -mt-6 left-7 h-[30px] w-[30px]  text-primary icon-chevron-left z-[1] cursor-pointer basicFocus'
+          'text-[52px] absolute top-1/2 -translate-y-1/2 left-8 h-[50px] w-[50px]  text-primary icon-chevron-left z-[1] cursor-pointer basicFocus'
         }
         onClick={(e) => {
           e.stopPropagation();
@@ -73,7 +73,7 @@ const HeroSlider = (fields: HeroSliderProps): JSX.Element => {
     return (
       <Icon
         className={
-          'text-4xl absolute top-2/4 -mt-6 right-7 h-[30px] w-[30px] text-primary icon-chevron-right z-[1] cursor-pointer  basicFocus'
+          'text-[52px] absolute top-1/2 -translate-y-1/2 right-8 h-[50px] w-[50px] text-primary icon-chevron-right z-[1] cursor-pointer  basicFocus'
         }
         onClick={(e) => {
           e.stopPropagation();
@@ -87,26 +87,20 @@ const HeroSlider = (fields: HeroSliderProps): JSX.Element => {
       />
     );
   }
+  console.log('Here', fields.params['Enable Autoplay']);
   const sliderSettings = {
     dots: true,
-    infinite: false,
+    infinite: true,
     arrows: true,
     nextArrow: <NextArrow />,
     prevArrow: <PrevArrow />,
     speed: 300,
+
     slidesToShow: 1,
     slidesToScroll: 1,
     autoplay: false,
     dotsClass:
-      'button__bar w-full !flex mt-6 justify-center [&>li>button]:w-3 [&>li>button]:h-3 [&>li>button]:mx-1.5 [&>li>button]:text-[0] [&>li>button]:bg-gray-novLight [&>li>button]:rounded-full [&>li>button]:border-2 [&>li>button]:border-white [&>.slick-active>button]:bg-white [&>.slick-active>button]:border-primary [&>li>button:hover]:bg-white [&>li>button:hover]:border-primary [&>li>button]:outline-0 [&>li>button]:transition [&>li>button]:duration-300 [&>li>button]:ease',
-    // responsive: [
-    //   {
-    //     breakpoint: 1024,
-    //     settings: {
-    //       arrows: false,
-    //     },
-    //   },
-    // ],
+      'button__bar container w-full !flex absolute left-1/2 -translate-x-1/2 bottom-6 justify-start	 [&>li>button]:w-3 [&>li>button]:h-3 [&>li>button]:mx-1.5 [&>li>button]:text-[0] [&>li>button]:bg-gray-novLight [&>li>button]:rounded-full [&>li>button]:border-2 [&>li>button]:border-white [&>.slick-active>button]:bg-white [&>.slick-active>button]:border-primary [&>li>button:hover]:bg-white [&>li>button:hover]:border-primary [&>li>button]:outline-0 [&>li>button]:transition [&>li>button]:duration-300 [&>li>button]:ease',
   };
 
   if (fields === null || fields === undefined) return <></>;
