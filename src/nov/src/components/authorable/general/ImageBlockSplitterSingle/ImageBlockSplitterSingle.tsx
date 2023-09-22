@@ -1,18 +1,18 @@
 import { ComponentRendering, Placeholder } from '@sitecore-jss/sitecore-jss-nextjs';
-import { ImageBlock960x1080Props } from '../ImageBlock960x1080/ImageBlock960x1080';
-interface ImageBlockProps {
+import { ImageBlockProps } from '@/components/helpers/ImageBlock/ImageBlock';
+interface ImageBlockDataProps {
   componentName?: string;
   dataSource?: string;
   params?: { [key: string]: string };
   uid?: string;
   rendering: ComponentRendering;
   placeholders?: {
-    'image-block-splitter-960x1080-left': ImageBlock960x1080Props[];
-    'image-block-splitter-960x1080-right': ImageBlock960x1080Props[];
+    'image-block-splitter-960x1080-left': ImageBlockProps[];
+    'image-block-splitter-960x1080-right': ImageBlockProps[];
   };
 }
-export type ImageBlockSplitterSingleProps = ImageBlockProps & {
-  rendering?: ImageBlockProps | undefined;
+export type ImageBlockSplitterSingleProps = ImageBlockDataProps & {
+  rendering?: ImageBlockDataProps | undefined;
 };
 const ImageBlockSplitterSingle = ({ rendering }: ImageBlockSplitterSingleProps): JSX.Element => {
   return (
