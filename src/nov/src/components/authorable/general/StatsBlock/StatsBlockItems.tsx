@@ -12,6 +12,7 @@ export type StatsBlockItemsProps = {
 const StatsBlockItems = ({ statNumber, suffix, statText, statCTA }: StatsBlockItemsProps) => {
   const [animatedNumber, setAnimatedNumber] = useState<number | string>('');
   const statsBlockRef = useRef<HTMLDivElement | null>(null);
+  const targetValue: string | number | undefined = statNumber;
 
   useEffect(() => {
     const startCountAnimation = (
@@ -70,9 +71,9 @@ const StatsBlockItems = ({ statNumber, suffix, statText, statCTA }: StatsBlockIt
             ? `${statNumber} ${suffix || ''}`
             : typeof animatedNumber === 'number'
             ? animatedNumber.toLocaleString()
-            : animatedNumber.includes('+')
+            : targetValue?.includes('+')
             ? `${animatedNumber}+`
-            : `${animatedNumber.toLocaleString()}`,
+            : animatedNumber.toString(),
         }}
         className="text-black text-[72px] smd:text-[88px] font-bold font-primary leading-[0.72] smd:leading-[0.82]"
       />
@@ -82,7 +83,7 @@ const StatsBlockItems = ({ statNumber, suffix, statText, statCTA }: StatsBlockIt
         field={{ value: statText }}
         className="text-dark text-sm font-primary leading-24 pt-20 text-center relative before:absolute before:content-[''] before:h-[2px] before:w-[30px] before:-mt-10 before:left-2/4 before:bg-red before:transform before:-translate-x-1/2"
       />
-      {statCTA?.value.text && statCTA?.value.href && (
+      {statCTA?.value?.text && statCTA?.value?.href && (
         <Button
           field={statCTA}
           className="pt-[5px] mt-[11px]"
