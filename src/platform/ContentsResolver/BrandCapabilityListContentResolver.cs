@@ -20,7 +20,7 @@ namespace XmCloudnov.ContentsResolver
         public override object ResolveContents(Rendering rendering, IRenderingConfiguration renderingConfig)
         {
             var item = RenderingContext.Current.Rendering.Item;
-            if (item == null)
+            if (item == null || item == Sitecore.Context.Item)
                 return null;
             var processItem = ProcessItem(item, rendering, renderingConfig);
 
