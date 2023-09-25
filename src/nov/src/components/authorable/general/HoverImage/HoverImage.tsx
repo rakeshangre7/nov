@@ -3,6 +3,7 @@ import HoverImageCard from './HoverImageCard';
 import Slider from 'react-slick';
 import { MouseEventHandler, useRef } from 'react';
 import { Field, ImageField, LinkField } from '@sitecore-jss/sitecore-jss-nextjs';
+import SearchResults from 'components/authorable/search/SearchResult/SearchResults';
 interface onClickInterface {
   onClick?: MouseEventHandler;
 }
@@ -101,6 +102,7 @@ const HoverImage = ({ fields }: HoverImageProps): JSX.Element => {
           </div>
         </div>
       )}
+      <SearchResults />
     </>
   );
 };
