@@ -80,25 +80,30 @@ const StatsBlockItems = ({
 
   return (
     <div className="mb-[30px] smd:mb-0 text-center flex-1 w-full" ref={statsBlockRef}>
-      <Text
-        tag="span"
-        field={{
-          value: suffix
-            ? alignment === 'right'
-              ? `${statNumber} ${suffix || ''}`
-              : `${suffix || ''} ${statNumber}`
-            : typeof animatedNumber === 'number'
-            ? animatedNumber.toLocaleString()
-            : valueToDisplay,
-        }}
-        className={`text-black text-[72px] smd:text-[60px] xl:text-[88px] font-bold font-primary leading-[0.72] smd:leading-[0.82] ${statNumberClass}`}
-      />
+      {statNumber && (
+        <Text
+          tag="span"
+          field={{
+            value: suffix
+              ? alignment === 'right'
+                ? `${statNumber} ${suffix || ''}`
+                : `${suffix || ''} ${statNumber}`
+              : typeof animatedNumber === 'number'
+              ? animatedNumber.toLocaleString()
+              : valueToDisplay,
+          }}
+          className={`text-black text-[72px] smd:text-[60px] xl:text-[88px] font-bold font-primary leading-[0.72] smd:leading-[0.82] ${statNumberClass}`}
+        />
+      )}
 
-      <Text
-        tag="p"
-        field={{ value: statText }}
-        className="text-dark text-sm font-primary leading-24 pt-20 text-center relative before:absolute before:content-[''] before:h-[2px] before:w-[30px] before:-mt-10 before:left-2/4 before:bg-red before:transform before:-translate-x-1/2"
-      />
+      {statText && (
+        <Text
+          tag="p"
+          field={{ value: statText }}
+          className="text-dark text-sm font-primary leading-24 pt-20 text-center relative before:absolute before:content-[''] before:h-[2px] before:w-[30px] before:-mt-10 before:left-2/4 before:bg-red before:transform before:-translate-x-1/2"
+        />
+      )}
+
       {statCTA?.value?.text && statCTA?.value?.href && (
         <Button
           field={statCTA}

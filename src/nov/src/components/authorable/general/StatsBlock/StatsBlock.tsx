@@ -30,36 +30,24 @@ const StatsBlock = ({ fields }: StatsBlockProps) => {
     <div className="pt-[30px] smd:pt-20">
       <div className="container m-auto">
         <div className="flex flex-col smd:flex smd:flex-row justify-between items-center">
-          <div className="test1 flex flex-col smd:flex smd:flex-row justify-between items-center pt-[30px] smd:pt-20">
-            {fields.statNumber1?.value && (
-              <StatsBlockItems
-                statNumber={fields?.statNumber1?.value}
-                suffix={fields?.suffix1?.value}
-                statText={fields?.statText1?.value}
-                statCTA={fields?.statCTA1}
-              />
-            )}
-            {fields.statNumber2?.value && fields.suffix2 && fields.statText2 && fields.statCTA2 && (
-              <StatsBlockItems
-                statNumber={fields.statNumber2?.value}
-                suffix={fields.suffix2?.value}
-                statText={fields.statText2?.value}
-                statCTA={fields.statCTA2}
-              />
-            )}
-
-            {fields?.statNumber3?.value &&
-              fields.suffix3 &&
-              fields.statText3 &&
-              fields.statCTA3 && (
-                <StatsBlockItems
-                  statNumber={fields?.statNumber3?.value}
-                  suffix={fields?.suffix3?.value}
-                  statText={fields?.statText3?.value}
-                  statCTA={fields.statCTA3}
-                />
-              )}
-          </div>
+          <StatsBlockItems
+            statNumber={fields.statNumber1?.value}
+            suffix={fields?.suffix1?.value}
+            statText={fields?.statText1?.value}
+            statCTA={fields?.statCTA1}
+          />
+          <StatsBlockItems
+            statNumber={fields.statNumber2?.value}
+            suffix={fields?.suffix2?.value}
+            statText={fields?.statText2?.value}
+            statCTA={fields?.statCTA2}
+          />
+          <StatsBlockItems
+            statNumber={fields.statNumber3?.value}
+            suffix={fields?.suffix3?.value}
+            statText={fields?.statText3?.value}
+            statCTA={fields?.statCTA3}
+          />
         </div>
       </div>
     </div>
