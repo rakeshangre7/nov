@@ -37,15 +37,17 @@ const ArticleSubhead = ({ fields }: ArticleSubheadProps): JSX.Element => {
   const dateValue = fields?.data?.contextItem?.date?.jsonValue?.value;
   return (
     <>
-      {/* {fields?.data?.datasource?.subheadText?.jsonValue?.value} */}
       <div className="lg:relative lg:-mt-[100px]">
         <div className="container max-w-[992px] bg-white lg:pt-[25px] pt-0">
           <div className="max-w-[736px] m-auto">
-            <div className="lg:mt-4 lg:mb-8 mt-6 mb-6 text-black">
-              <span className="text-gray-dark text-2xs leading-16">
-                {moment(dateValue).format(dateFormat)}
-              </span>
-            </div>
+            {fields?.data?.datasource?.showDate &&
+              fields?.data?.datasource?.showDate?.jsonValue?.value === true && (
+                <div className="lg:mt-4 lg:mb-8 mt-6 mb-6 text-black">
+                  <span className="text-gray-dark text-2xs leading-16">
+                    {dateValue && moment(dateValue).format(dateFormat)}
+                  </span>
+                </div>
+              )}
             <RichTextA11yWrapper
               field={fields?.data?.datasource?.subheadText?.jsonValue}
               className="  
