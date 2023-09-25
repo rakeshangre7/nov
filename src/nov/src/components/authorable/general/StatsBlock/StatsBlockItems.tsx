@@ -46,7 +46,7 @@ const StatsBlockItems = ({
       entries.forEach((entry) => {
         if (entry.isIntersecting) {
           if (animatedNumber === '') {
-            let statNumberValue = statNumber || 0;
+            const statNumberValue = statNumber || 0;
 
             const endNbr =
               typeof statNumberValue === 'number'
