@@ -27,29 +27,27 @@ export type StatsBlockProps = {
 
 const StatsBlock = ({ fields }: StatsBlockProps) => {
   return (
-    <div className="">
-      <div className="" data-component="authorable/general/statsblock" data-testid="statsblock">
-        <div className="container m-auto">
-          <div className="flex flex-col smd:flex smd:flex-row justify-between items-center  pt-[30px] smd:pt-20">
-            <StatsBlockItems
-              statNumber={fields.statNumber1?.value}
-              suffix={fields?.suffix1?.value}
-              statText={fields?.statText1?.value}
-              statCTA={fields?.statCTA1}
-            />
-            <StatsBlockItems
-              statNumber={fields.statNumber2?.value}
-              suffix={fields?.suffix2?.value}
-              statText={fields?.statText2?.value}
-              statCTA={fields?.statCTA2}
-            />
-            <StatsBlockItems
-              statNumber={fields.statNumber3?.value}
-              suffix={fields?.suffix3?.value}
-              statText={fields?.statText3?.value}
-              statCTA={fields?.statCTA3}
-            />
-          </div>
+    <div className="pt-[30px] smd:pt-20">
+      <div className="container m-auto">
+        <div className="flex flex-col smd:flex smd:flex-row justify-between items-center">
+          <StatsBlockItems
+            statNumber={fields.statNumber1?.value}
+            suffix={fields?.suffix1?.value}
+            statText={fields?.statText1?.value}
+            statCTA={fields?.statCTA1}
+          />
+          <StatsBlockItems
+            statNumber={fields.statNumber2?.value}
+            suffix={fields?.suffix2?.value}
+            statText={fields?.statText2?.value}
+            statCTA={fields?.statCTA2}
+          />
+          <StatsBlockItems
+            statNumber={fields.statNumber3?.value}
+            suffix={fields?.suffix3?.value}
+            statText={fields?.statText3?.value}
+            statCTA={fields?.statCTA3}
+          />
         </div>
       </div>
     </div>
