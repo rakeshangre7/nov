@@ -2,7 +2,11 @@
 ID: "6e49139c-0d55-4e42-be9c-9a4efdd63eea"
 Parent: "b8b07f2b-add7-4d51-b23f-0059fde2f83c"
 Template: "b4b341bf-79ff-49af-9c97-9aa180dd7308"
-Path: /sitecore/content/nov/nov/Data/System/Social Channel Background Colors/grey
+Path: "/sitecore/content/nov/nov/Data/System/Social Channel Background Colors/grey-C6C6C6"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
 Languages:
 - Language: "en-US"
   Versions:
@@ -21,14 +25,14 @@ Languages:
         sitecore\ashwin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "ad941fd3-a1bc-421c-a87f-4cedff02b9e1"
+      Value: "3a46dd36-4d0e-40d4-b75e-543d382c29c9"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\rangre@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230918T140315Z
+      Value: 20230922T084123Z
     - ID: "ddfde793-e7cc-41a3-8136-7a372da2bc22"
       Hint: colorValue
       Value: #C6C6C6
