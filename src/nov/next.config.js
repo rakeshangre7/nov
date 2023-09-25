@@ -18,6 +18,9 @@ const nextConfig = {
   // Make the same PUBLIC_URL available as an environment variable on the client bundle
   env: {
     PUBLIC_URL: publicUrl,
+    SEARCH_ENV: process.env.SEARCH_ENV,
+    SEARCH_CUSTOMER_KEY: process.env.SEARCH_CUSTOMER_KEY,
+    SEARCH_API_KEY: process.env.SEARCH_API_KEY,
   },
 
   i18n: {
