@@ -9,7 +9,7 @@ const SearchResults = (): JSX.Element => {
   return (
     <>
       <WidgetsProvider env={env} customerKey={customerKey} apiKey={searchApiKey}>
-        <SearchResultsWidget rfkId="rfkid_7" entity="content" />
+        <SearchResultsWidget rfkId="rfkid_7" />
       </WidgetsProvider>
     </>
   );
