@@ -48,24 +48,17 @@ const ArticleSubhead = ({ fields }: ArticleSubheadProps): JSX.Element => {
             </div>
             <RichTextA11yWrapper
               field={fields?.data?.datasource?.subheadText?.jsonValue}
-              className="
-              [&_p]:lg:first-letter:text-[115px] 
-              [&_p]:first-letter:text-[67px] 
-              [&_p]:first-letter:leading-[0.79] 
-              [&_p]:first-letter:float-left 
+              className="  
               [&_p]:text-base 
               [&_p]:leading-28 
               [&_p]:lg:leading-32
-              [&_p]:font-semibold 
-              [&_p]:first-letter:font-bold 
+              [&_p]:mb-5          
               [&_p]:text-black 
-              [&_p]:first-letter:pr-[10px] 
-              [&_p]:lg:first-letter:-ml-[7px] 
-              [&_p]:first-letter:-ml-1 
               [&_a]:font-semibold 
               [&_a]:text-base 
+              [&_a]:inline
               [&_p]:mt-0
-              mb-5
+              mb-5 firstLetterCapital firstParaBold
               "
             />
           </div>
