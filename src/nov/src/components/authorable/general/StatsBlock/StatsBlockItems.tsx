@@ -4,7 +4,7 @@ import Button from '@/components/helpers/Button/Button';
 
 export type StatsBlockItemsProps = {
   statNumber?: string | number | undefined;
-  alignment?: 'left' | 'right';
+  alignment?: string;
   suffix?: string | number | undefined;
   statText?: string | number | undefined;
   statCTA?: LinkField | undefined;
