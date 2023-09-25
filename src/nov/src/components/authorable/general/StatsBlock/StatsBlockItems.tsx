@@ -4,12 +4,19 @@ import Button from '@/components/helpers/Button/Button';
 
 export type StatsBlockItemsProps = {
   statNumber?: string | number | undefined;
+  alignment?: 'left' | 'right';
   suffix?: string | number | undefined;
   statText?: string | number | undefined;
   statCTA?: LinkField | undefined;
 };
 
-const StatsBlockItems = ({ statNumber, suffix, statText, statCTA }: StatsBlockItemsProps) => {
+const StatsBlockItems = ({
+  statNumber,
+  alignment = 'right', // Default to 'right' if alignment is not provided
+  suffix,
+  statText,
+  statCTA,
+}: StatsBlockItemsProps) => {
   const [animatedNumber, setAnimatedNumber] = useState<number | string>('');
   const statsBlockRef = useRef<HTMLDivElement | null>(null);
   const targetValue: string | number | undefined = statNumber;
@@ -62,20 +69,29 @@ const StatsBlockItems = ({ statNumber, suffix, statText, statCTA }: StatsBlockIt
     };
   }, [animatedNumber, statNumber]);
 
+  const isString = typeof targetValue === 'string';
+  const valueToDisplay = isString
+    ? targetValue.includes('+')
+      ? `${animatedNumber}+`
+      : animatedNumber.toString()
+    : animatedNumber.toLocaleString();
+
+  const statNumberClass = alignment === 'right' ? 'text-right' : 'text-left';
+
   return (
     <div className="mb-[30px] smd:mb-0 text-center flex-1 w-full" ref={statsBlockRef}>
       <Text
         tag="span"
         field={{
           value: suffix
-            ? `${statNumber} ${suffix || ''}`
+            ? alignment === 'right'
+              ? `${statNumber} ${suffix || ''}`
+              : `${suffix || ''} ${statNumber}`
             : typeof animatedNumber === 'number'
             ? animatedNumber.toLocaleString()
-            : targetValue?.includes('+')
-            ? `${animatedNumber}+`
-            : animatedNumber.toString(),
+            : valueToDisplay,
         }}
-        className="text-black text-[72px] smd:text-[88px] font-bold font-primary leading-[0.72] smd:leading-[0.82]"
+        className={`text-black text-[72px] smd:text-[60px] xl:text-[88px] font-bold font-primary leading-[0.72] smd:leading-[0.82] ${statNumberClass}`}
       />
 
       <Text
