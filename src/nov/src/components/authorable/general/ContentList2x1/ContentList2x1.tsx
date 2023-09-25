@@ -116,7 +116,7 @@ const ContentList2x1 = ({ fields }: ContentList2x1Props): JSX.Element => {
                             variant={'tertiary'}
                             iconClassName="icon-chevron-right"
                             iconPosition="right"
-                            className="!text-base !leading-16 smd:!pt-[7px] smd:!pb-[7px] lg:!pt-0 lg:!pb-0 !font-medium lg:!text-sm lg:!leading-24 lg:!font-semibold lg:mt-[5px] !text-lightBlack hover:!text-gray-lighter"
+                            className="!text-base !leading-normal smd:!pt-[7px] smd:!pb-[7px] lg:!pt-0 lg:!pb-0 !font-medium lg:!text-sm lg:!leading-24 lg:!font-semibold lg:mt-[5px] !text-lightBlack hover:!text-gray-lighter"
                             field={{
                               value: {
                                 href: contentData?.primaryURL?.path,
