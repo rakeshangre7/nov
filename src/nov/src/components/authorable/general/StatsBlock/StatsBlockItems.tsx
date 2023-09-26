@@ -79,7 +79,7 @@ const StatsBlockItems = ({
   const statNumberClass = alignment === 'right' ? 'text-right' : 'text-left';
 
   return (
-    <div className="mb-[30px] smd:mb-0 text-center flex-1 w-full" ref={statsBlockRef}>
+    <div className=" mb-[30px] last:mb-0  smd:mb-0 text-center flex-1 w-full" ref={statsBlockRef}>
       {statNumber && (
         <Text
           tag="span"
