@@ -10,7 +10,7 @@ const defaultData: SocialChannelsProps = {
   },
   fields: {
     backgroundColor: {
-      value: 'white',
+      value: 'white-ffffff',
     },
     copy: {
       value:

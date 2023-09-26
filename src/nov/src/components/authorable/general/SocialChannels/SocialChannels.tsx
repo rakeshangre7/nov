@@ -4,6 +4,7 @@ import Icon from 'components/helpers/Icon/Icon';
 
 // Local
 import RichTextA11yWrapper from 'components/helpers/RichTextA11yWrapper/RichTextA11yWrapper';
+import { useEffect, useState } from 'react';
 
 // Ideally, all this is from generated Typescript code from Sitecore and we're not manually defining types.
 type iconsProps = {
@@ -32,17 +33,22 @@ export type SocialChannelsProps = {
 };
 
 const SocialChannels = ({ fields }: SocialChannelsProps): JSX.Element => {
+  const [backgroundColor, setBackgroundColor] = useState<string>('#FFFFFF');
+  useEffect(() => {
+    setBackgroundColor(
+      fields?.backgroundColor?.value?.split('-')?.[1]
+        ? `#${fields?.backgroundColor?.value?.split('-')?.[1]}`
+        : `#FFFFFF`
+    );
+  }, []);
   // Fail out if fields aren't present
   if (fields === null || fields === undefined) return <></>;
-  const currentBgColor =
-    fields?.backgroundColor?.value === 'white'
-      ? 'bg-white'
-      : fields?.backgroundColor?.value === 'grey'
-      ? 'bg-gray-lightest'
-      : '';
   return (
     <>
-      <div className={`pt-[30px] smd:pt-20 text-center ${currentBgColor}`}>
+      <div
+        className={`pt-[30px] smd:pt-20 text-center`}
+        style={{ backgroundColor: backgroundColor }}
+      >
         <div className="container">
           <div className="max-w-[600px] m-auto">
             <Text
