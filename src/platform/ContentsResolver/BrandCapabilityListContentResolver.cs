@@ -20,7 +20,7 @@ namespace XmCloudnov.ContentsResolver
         public override object ResolveContents(Rendering rendering, IRenderingConfiguration renderingConfig)
         {
             var item = RenderingContext.Current.Rendering.Item;
-            if (item == null)
+            if (item == null || item == Sitecore.Context.Item)
                 return null;
             var processItem = ProcessItem(item, rendering, renderingConfig);
 
@@ -45,7 +45,7 @@ namespace XmCloudnov.ContentsResolver
                     {
                         if (child.TemplateID.Equals(BrandCapabilityTemplate.BrandCapabilityTemplateId.Guid))
                         {
-                            if (child.Fields["brand"]?.Value != Guid.Empty.ToString())
+                            if (!string.IsNullOrEmpty(child.Fields["brand"]?.Value) && child.Fields["brand"]?.Value != Guid.Empty.ToString())
                             {
                                 var childProcessItem = ProcessItem(child, rendering, renderingConfig);
                                 model.BrandCapabilityList.Add(new NOVLink() { value = new LinkProperties() { text = child.Fields["pageTitle"]?.ToString(), href = Sitecore.Links.LinkManager.GetItemUrl(child) } });
@@ -61,7 +61,7 @@ namespace XmCloudnov.ContentsResolver
                     {
                         if (child.TemplateID.Equals(CapabilityTemplate.CapabilityTemplateId.Guid))
                         {
-                            if (child.Fields["capability"]?.Value != Guid.Empty.ToString())
+                            if (!string.IsNullOrEmpty(child.Fields["capability"]?.Value) && child.Fields["capability"]?.Value != Guid.Empty.ToString())
                             {
                                 var childProcessItem = ProcessItem(child, rendering, renderingConfig);
                                 model.BrandCapabilityList.Add(new NOVLink() { value = new LinkProperties() { text = child.Fields["pageTitle"]?.ToString(), href = Sitecore.Links.LinkManager.GetItemUrl(child) } });
