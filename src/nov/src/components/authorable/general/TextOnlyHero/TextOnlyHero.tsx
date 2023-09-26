@@ -51,9 +51,7 @@ const TextOnlyHero = ({ fields }: TextOnlyHeroProps): JSX.Element => {
 
   // function to calculate height
   const calHeight = () => {
-    if (currentHeightRef.current) {
-      setWrapperHeight(currentHeightRef.current.getBoundingClientRect().height);
-    }
+    setWrapperHeight((currentHeightRef?.current as HTMLDivElement).getBoundingClientRect().height);
   };
 
   // useEffect to calculate height of the component

@@ -33,8 +33,6 @@ export type SocialChannelsProps = {
 };
 
 const SocialChannels = ({ fields }: SocialChannelsProps): JSX.Element => {
-  // Fail out if fields aren't present
-  if (fields === null || fields === undefined) return <></>;
   const [backgroundColor, setBackgroundColor] = useState<string>('#FFFFFF');
   useEffect(() => {
     setBackgroundColor(
@@ -43,6 +41,8 @@ const SocialChannels = ({ fields }: SocialChannelsProps): JSX.Element => {
         : `#FFFFFF`
     );
   }, []);
+  // Fail out if fields aren't present
+  if (fields === null || fields === undefined) return <></>;
   return (
     <>
       <div
