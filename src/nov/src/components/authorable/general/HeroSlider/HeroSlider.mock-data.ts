@@ -5,7 +5,12 @@ const defaultData: HeroSliderProps = {
   uid: '3a1f5ecb-aa04-4611-8577-bfbde8784360',
   componentName: 'HeroSlider',
   dataSource: '{3E75C232-A3C2-498A-9AD4-A762CA23BFB8}',
-  params: {},
+  params: {
+    enableAutoplay: 'true',
+    addGradient: '1',
+    textColor: 'white-ffffff',
+    waitTime: '5000',
+  },
 
   fields: {
     data: {
@@ -51,7 +56,7 @@ const defaultData: HeroSliderProps = {
         dataSource: '{9A2ACA87-9263-4EB8-9787-426BED059AD9}',
         params: {
           addGradient: '1',
-          textColor: 'black',
+          textColor: 'white-ffffff',
         },
         fields: {
           data: {
@@ -79,7 +84,7 @@ const defaultData: HeroSliderProps = {
               image: {
                 jsonValue: {
                   value: {
-                    src: 'https://edge.sitecorecloud.io/nationaloile493-nov-dev-59ee/media/nov/Images/Careers/Careers-diverse-workers-conference.JPG?h=295&iar=0&w=514',
+                    src: 'https://edge.sitecorecloud.io/nationaloile493-nov-dev-59ee/media/Feature/nov/Images/Careers/Careers-diverse-workers-conference.JPG?h=295&iar=0&w=514',
                     alt: 'NOV employees gather around a conference table',
                     width: '514',
                     height: '295',
@@ -118,7 +123,12 @@ const defaultData: HeroSliderProps = {
               },
               image: {
                 jsonValue: {
-                  value: {},
+                  value: {
+                    src: 'https://edge.sitecorecloud.io/nationaloile493-nov-dev-59ee/media/Feature/nov/Images/Capability/Pipeline/ZapLokMountainsInstall.jpg?h=1080&iar=0&w=1920',
+                    alt: 'Zap Lok equipment installed in the mountains',
+                    width: '1920',
+                    height: '1080',
+                  },
                 },
               },
             },
@@ -131,7 +141,7 @@ const defaultData: HeroSliderProps = {
         dataSource: '{A9A0AC95-DF68-4D4A-B04A-3AADD4D7B1FA}',
         params: {
           addGradient: '1',
-          textColor: 'black',
+          textColor: 'white-ffffff',
         },
         fields: {
           data: {
@@ -159,7 +169,7 @@ const defaultData: HeroSliderProps = {
               image: {
                 jsonValue: {
                   value: {
-                    src: 'https://edge.sitecorecloud.io/nationaloile493-nov-dev-59ee/media/nov/Images/Careers/Careers-diverse-workers-conference.JPG?h=1080&iar=0&w=1920',
+                    src: 'https://edge.sitecorecloud.io/nationaloile493-nov-dev-59ee/media/Feature/nov/Images/Careers/Careers-diverse-workers-conference.JPG?h=1080&iar=0&w=1920',
                     alt: 'NOV employees gather around a conference table',
                     width: '1920',
                     height: '1080',
@@ -198,7 +208,12 @@ const defaultData: HeroSliderProps = {
               },
               image: {
                 jsonValue: {
-                  value: {},
+                  value: {
+                    src: 'https://edge.sitecorecloud.io/nationaloile493-nov-dev-59ee/media/Feature/nov/Images/Capability/Pipeline/ZapLokMountainsInstall.jpg?h=1080&iar=0&w=1920',
+                    alt: 'Zap Lok equipment installed in the mountains',
+                    width: '1920',
+                    height: '1080',
+                  },
                 },
               },
             },
@@ -211,7 +226,7 @@ const defaultData: HeroSliderProps = {
         dataSource: '{950FBC00-2248-42D2-B5C9-26F53B9A8BF5}',
         params: {
           addGradient: '1',
-          textColor: 'black',
+          textColor: 'black-000000',
         },
         fields: {
           data: {
@@ -238,7 +253,12 @@ const defaultData: HeroSliderProps = {
               },
               image: {
                 jsonValue: {
-                  value: {},
+                  value: {
+                    src: 'https://edge.sitecorecloud.io/nationaloile493-nov-dev-59ee/media/Feature/nov/Images/Capability/Pipeline/ZapLokMountainsInstall.jpg?h=1080&iar=0&w=1920',
+                    alt: 'Zap Lok equipment installed in the mountains',
+                    width: '1920',
+                    height: '1080',
+                  },
                 },
               },
               backgroundVideo: {
@@ -273,7 +293,12 @@ const defaultData: HeroSliderProps = {
               },
               image: {
                 jsonValue: {
-                  value: {},
+                  value: {
+                    src: 'https://edge.sitecorecloud.io/nationaloile493-nov-dev-59ee/media/Feature/nov/Images/Capability/Pipeline/ZapLokMountainsInstall.jpg?h=1080&iar=0&w=1920',
+                    alt: 'Zap Lok equipment installed in the mountains',
+                    width: '1920',
+                    height: '1080',
+                  },
                 },
               },
             },
@@ -286,7 +311,7 @@ const defaultData: HeroSliderProps = {
         dataSource: '{B9E4A9EE-378A-45F0-9B87-093BC7D18BB2}',
         params: {
           addGradient: '1',
-          textColor: 'black',
+          textColor: 'black-000000',
         },
         fields: {
           data: {
@@ -313,7 +338,12 @@ const defaultData: HeroSliderProps = {
               },
               image: {
                 jsonValue: {
-                  value: {},
+                  value: {
+                    src: 'https://edge.sitecorecloud.io/nationaloile493-nov-dev-59ee/media/Feature/nov/Images/Capability/Pipeline/Midstream-FGS-pipeline.jpg?h=1080&iar=0&w=1920',
+                    alt: 'Midstream FGS pipeline',
+                    width: '1920',
+                    height: '1080',
+                  },
                 },
               },
               backgroundVideo: {
@@ -348,7 +378,12 @@ const defaultData: HeroSliderProps = {
               },
               image: {
                 jsonValue: {
-                  value: {},
+                  value: {
+                    src: 'https://edge.sitecorecloud.io/nationaloile493-nov-dev-59ee/media/Feature/nov/Images/Capability/Pipeline/ZapLokMountainsInstall.jpg?h=1080&iar=0&w=1920',
+                    alt: 'Zap Lok equipment installed in the mountains',
+                    width: '1920',
+                    height: '1080',
+                  },
                 },
               },
             },
@@ -361,7 +396,7 @@ const defaultData: HeroSliderProps = {
         dataSource: '{E571B04B-458E-4062-8556-2BF3052B6238}',
         params: {
           addGradient: '1',
-          textColor: 'black',
+          textColor: 'black-000000',
         },
         fields: {
           data: {
@@ -388,7 +423,12 @@ const defaultData: HeroSliderProps = {
               },
               image: {
                 jsonValue: {
-                  value: {},
+                  value: {
+                    src: 'https://edge.sitecorecloud.io/nationaloile493-nov-dev-59ee/media/Feature/nov/Images/Capability/Pipeline/Midstream-TK-Coatings.jpg?h=1080&iar=0&w=1920',
+                    alt: 'Midstream TK Coatings',
+                    width: '1920',
+                    height: '1080',
+                  },
                 },
               },
               backgroundVideo: {
@@ -423,7 +463,12 @@ const defaultData: HeroSliderProps = {
               },
               image: {
                 jsonValue: {
-                  value: {},
+                  value: {
+                    src: 'https://edge.sitecorecloud.io/nationaloile493-nov-dev-59ee/media/Feature/nov/Images/Capability/Pipeline/ZapLokMountainsInstall.jpg?h=1080&iar=0&w=1920',
+                    alt: 'Zap Lok equipment installed in the mountains',
+                    width: '1920',
+                    height: '1080',
+                  },
                 },
               },
             },
@@ -436,7 +481,7 @@ const defaultData: HeroSliderProps = {
         dataSource: '{97D07D5F-0F59-4A49-BF9A-3BBBE9E0DE44}',
         params: {
           addGradient: '1',
-          textColor: 'black',
+          textColor: 'black-000000',
         },
         fields: {
           data: {
@@ -463,7 +508,12 @@ const defaultData: HeroSliderProps = {
               },
               image: {
                 jsonValue: {
-                  value: {},
+                  value: {
+                    src: 'https://edge.sitecorecloud.io/nationaloile493-nov-dev-59ee/media/Feature/nov/Images/Capability/Pipeline/Midstream-PFT-Wellstream.jpg?h=1080&iar=0&w=1920',
+                    alt: 'Midstream PFT Wellstream',
+                    width: '1920',
+                    height: '1080',
+                  },
                 },
               },
               backgroundVideo: {
@@ -498,7 +548,12 @@ const defaultData: HeroSliderProps = {
               },
               image: {
                 jsonValue: {
-                  value: {},
+                  value: {
+                    src: 'https://edge.sitecorecloud.io/nationaloile493-nov-dev-59ee/media/Feature/nov/Images/Capability/Pipeline/ZapLokMountainsInstall.jpg?h=1080&iar=0&w=1920',
+                    alt: 'Zap Lok equipment installed in the mountains',
+                    width: '1920',
+                    height: '1080',
+                  },
                 },
               },
             },
@@ -511,7 +566,7 @@ const defaultData: HeroSliderProps = {
         dataSource: '{1514ABE2-BA5E-429B-BB5F-A8A610A8E35A}',
         params: {
           addGradient: '1',
-          textColor: 'black',
+          textColor: 'black-000000',
         },
         fields: {
           data: {
@@ -539,7 +594,7 @@ const defaultData: HeroSliderProps = {
               image: {
                 jsonValue: {
                   value: {
-                    src: 'https://edge.sitecorecloud.io/nationaloile493-nov-dev-59ee/media/nov/Images/Careers/Careers-diverse-workers-conference.JPG?h=1080&iar=0&w=1920',
+                    src: 'https://edge.sitecorecloud.io/nationaloile493-nov-dev-59ee/media/Feature/nov/Images/Careers/Careers-diverse-workers-conference.JPG?h=1080&iar=0&w=1920',
                     alt: 'NOV employees gather around a conference table',
                     width: '1920',
                     height: '1080',
@@ -578,7 +633,12 @@ const defaultData: HeroSliderProps = {
               },
               image: {
                 jsonValue: {
-                  value: {},
+                  value: {
+                    src: 'https://edge.sitecorecloud.io/nationaloile493-nov-dev-59ee/media/Feature/nov/Images/Capability/Pipeline/ZapLokMountainsInstall.jpg?h=1080&iar=0&w=1920',
+                    alt: 'Zap Lok equipment installed in the mountains',
+                    width: '1920',
+                    height: '1080',
+                  },
                 },
               },
             },

@@ -1,4 +1,4 @@
-import React, { MouseEventHandler, useRef } from 'react';
+import React, { MouseEventHandler, useEffect, useRef, useState } from 'react';
 
 import {
   Placeholder,
@@ -6,10 +6,6 @@ import {
   LinkField,
   Field,
   Text,
-
-  // PlaceholdersData,
-  // ComponentFields,
-  // ComponentParams,
 } from '@sitecore-jss/sitecore-jss-nextjs';
 import Slider from 'react-slick';
 import 'slick-carousel/slick/slick.css';
@@ -23,73 +19,112 @@ import RichTextA11yWrapper from '@/components/helpers/RichTextA11yWrapper/RichTe
 interface onClickInterface {
   onClick?: MouseEventHandler;
 }
-interface Fields {
-  data?: {
-    item?: {
-      videoURL?: {
-        value?: string;
-      };
-    };
-    datasource?: {
-      contactLink?: {
-        jsonValue?: LinkField;
-      };
-      contentTag?: {
-        jsonValue?: {
-          id?: string;
-          url?: string;
-          name?: string;
-          displayName?: string;
-          fields?: {
-            tag?: {
-              value?: string;
-            };
-          };
-        };
-      };
-      staticHeading?: {
-        jsonValue?: {
+
+interface heroData {
+  contentTag?: {
+    jsonValue?: {
+      id?: string;
+      url?: string;
+      name?: string;
+      displayName?: string;
+      fields?: {
+        tag?: {
           value?: string;
         };
       };
-      staticSubheading?: {
-        jsonValue?: {
-          value?: string;
-        };
+    } | null;
+  };
+  cardCtaText?: {
+    jsonValue?: {
+      value?: string;
+    };
+  };
+  heading?: {
+    jsonValue?: {
+      value?: string;
+    };
+  };
+  image?: {
+    jsonValue?: {
+      value?: {
+        height?: string;
+        width?: string;
+        src?: string;
+        alt?: string;
       };
     };
+  };
+  backgroundVideo?: {
+    jsonValue?: {
+      value?: string;
+    };
+  };
+  subheading?: {
+    jsonValue?: {
+      value?: string;
+    };
+  };
+  cta?: {
+    jsonValue?: LinkField | undefined;
   };
 }
 interface HeroSliderItem {
-  uid: string;
-  componentName: string;
+  rendering?: { componentName: string };
+  params?: {
+    [key: string]: string;
+    addGradient: string;
+    textColor: string;
+  };
+  uid?: string;
+  componentName?: string;
   dataSource?: string;
-  fields: Fields;
+  fields?: {
+    data?: {
+      datasource?: heroData | null;
+      contextItem?: heroData;
+    };
+  };
 }
 export type HeroSliderProps = {
   rendering: ComponentRendering;
-  params: { [key: string]: string };
+  params: {
+    [key: string]: string;
+    addGradient: string;
+    textColor: string;
+    enableAutoplay: string;
+    waitTime: string;
+  };
   uid: string;
   componentName: string;
   dataSource?: string;
-  placeholders: {
-    'hero-slide': Array<HeroSliderItem>;
+  placeholders?: {
+    'hero-slide'?: Array<HeroSliderItem>;
   };
-  fields: {
-    placeholders: {
-      'hero-slide': Array<HeroSliderItem>;
+  fields?: {
+    placeholders?: {
+      'hero-slide'?: Array<HeroSliderItem>;
     };
-    data: {
-      datasource: {
-        contactLink: {
-          jsonValue: LinkField;
+    data?: {
+      datasource?: {
+        contactLink?: {
+          jsonValue?: LinkField;
         };
-        contentTag: {
-          jsonValue: {
-            fields: {
-              tag: Field<string>;
+        contentTag?: {
+          jsonValue?: {
+            id?: string;
+            url?: string;
+            name?: string;
+            displayName?: string;
+            fields?: {
+              tag?: Field<string>;
             };
           };
+        };
+        staticHeading?: {
+          jsonValue?: Field<string>;
+        };
+        staticSubheading?: {
+          jsonValue?: Field<string>;
         };
       };
     };
@@ -97,7 +132,8 @@ export type HeroSliderProps = {
 };
 
 const HeroSlider = ({ fields, rendering, params }: HeroSliderProps): JSX.Element => {
-  // Fail out if fields aren't present
+  //   // Fail out if fields aren't present
+  const [textColor, setTextColor] = useState<string>('#ffffff');
   const sliderRef = useRef<Slider | null>(null);
   function PrevArrow({ onClick }: onClickInterface) {
     return (
@@ -111,7 +147,7 @@ const HeroSlider = ({ fields, rendering, params }: HeroSliderProps): JSX.Element
           if (onClick) {
             onClick(e);
           } else {
-            if (fields?.placeholders?.['hero-slide'].length) {
+            if (fields?.placeholders?.['hero-slide']?.length) {
               sliderRef?.current?.slickGoTo(fields?.placeholders?.['hero-slide'].length - 1);
             }
           }
@@ -144,7 +180,7 @@ const HeroSlider = ({ fields, rendering, params }: HeroSliderProps): JSX.Element
     arrows: true,
     nextArrow: <NextArrow />,
     prevArrow: <PrevArrow />,
-    autoplay: params?.enableAutoplay,
+    // autoplay: params?.enableAutoplay === 'true',
     autoplaySpeed: +params?.waitTime || 5000,
     speed: 300,
 
@@ -154,15 +190,23 @@ const HeroSlider = ({ fields, rendering, params }: HeroSliderProps): JSX.Element
     dotsClass:
       'button__bar container w-full !flex absolute left-1/2 -translate-x-1/2 bottom-6 justify-start	 [&>li>button]:w-3 [&>li>button]:h-3 [&>li>button]:mx-1.5 [&>li>button]:text-[0] [&>li>button]:bg-gray-novLight [&>li>button]:rounded-full [&>li>button]:border-2 [&>li>button]:border-white [&>.slick-active>button]:bg-white [&>.slick-active>button]:border-primary [&>li>button:hover]:bg-white [&>li>button:hover]:border-primary [&>li>button]:outline-0 [&>li>button]:transition [&>li>button]:duration-300 [&>li>button]:ease',
   };
+  useEffect(() => {
+    setTextColor(
+      params?.textColor?.split('-')?.[1] ? `#${params?.textColor?.split('-')?.[1]}` : '#ffffff'
+    );
+  }, []);
   // const hasStaticText =
   //   fields?.data?.datasource?.staticHeading?.jsonValue.value === '' ||
   //   fields?.data?.datasource === null;
-  const hasStaticText = true;
-  const heroData = fields.data.datasource;
+  const hasStaticText = false;
+  const heroData = fields?.data?.datasource;
   if (fields === null || fields === undefined) return <></>;
   return (
     <div className="w-full ">
-      <div className="container  max-h-[calc(100vh-200px)] absolute left-1/2 top-1/2 -translate-y-1/2 -translate-x-1/2 z-[1] ">
+      <div
+        className="container  max-h-[calc(100vh-200px)] absolute left-1/2 top-1/2 -translate-y-1/2 -translate-x-1/2 z-[1] "
+        style={{ color: textColor }}
+      >
         {heroData?.contentTag?.jsonValue?.fields?.tag?.value && (
           <Text
             tag="div"
@@ -189,9 +233,7 @@ const HeroSlider = ({ fields, rendering, params }: HeroSliderProps): JSX.Element
           heroData?.contactLink?.jsonValue?.value.href && (
             <Button
               auto
-              className={clsx('text-white mt-[6px] font-semibold', {
-                '!text-black': params?.textColor === 'black',
-              })}
+              className="text-white mt-[6px] font-semibold"
               field={heroData?.contactLink?.jsonValue}
               variant="primary"
               tabIndex={0}

@@ -1,6 +1,5 @@
 import { LinkField, Text } from '@sitecore-jss/sitecore-jss-nextjs';
-import React from 'react';
-import clsx from 'clsx';
+import React, { useEffect, useState } from 'react';
 
 // Local
 import RichTextA11yWrapper from '@/components/helpers/RichTextA11yWrapper/RichTextA11yWrapper';
@@ -62,9 +61,10 @@ interface Fields {
 }
 export type HeroProps = {
   rendering?: { componentName: string };
-  params: {
+  params?: {
     [key: string]: string;
     addGradient: string;
+    textColor: string;
   };
   uid?: string;
   componentName?: string;
@@ -73,8 +73,14 @@ export type HeroProps = {
   hasStaticText?: boolean;
 };
 const Hero = ({ fields, params, hasStaticText }: HeroProps): JSX.Element => {
+  const [textColor, setTextColor] = useState<string>('#ffffff');
   const useDataSource = fields?.data?.datasource != null;
   const heroData = useDataSource ? fields.data.datasource : fields.data.contextItem;
+  useEffect(() => {
+    setTextColor(
+      params?.textColor?.split('-')?.[1] ? `#${params?.textColor?.split('-')?.[1]}` : '#ffffff'
+    );
+  }, []);
   if (fields === null || fields === undefined) return <></>;
 
   return (
@@ -82,14 +88,12 @@ const Hero = ({ fields, params, hasStaticText }: HeroProps): JSX.Element => {
       <div className="min-h-screen w-full overflow-hidden relative">
         <div className="overflow-hidden w-full min-h-screen h-auto relative">
           <div
-            className={clsx('bg-no-repeat bg-center bg-cover items-center flex justify-center', {
-              'text-white': params?.textColor === 'white',
-              'text-black': params?.textColor === 'black',
-            })}
+            className="bg-no-repeat h-screen bg-center bg-cover items-center flex justify-center"
             style={{
               ...(heroData?.image?.jsonValue?.value?.src && {
                 backgroundImage: `url(${heroData?.image.jsonValue?.value?.src})`,
-              }),
+              },
+              { color: textColor }),
             }}
           >
             {heroData?.backgroundVideo?.jsonValue?.value && (
@@ -110,7 +114,7 @@ const Hero = ({ fields, params, hasStaticText }: HeroProps): JSX.Element => {
                 />
               </div>
             )}
-            {params.addGradient == '1' && (
+            {params?.addGradient == '1' && (
               <div className="absolute left-0 top-0 w-full h-full z-0 before:content before:absolute before:w-full before:h-[243px] before:from-[#00000000] before:to-[#000000a3] before:bg-gradient-0 after:content after:absolute after:w-full after:h-full after:bottom-0 after:left-0 after:from-[#00000000] after:to-[#000000bf] after:bg-gradient-198 after:opacity-40"></div>
             )}
             {hasStaticText && (
@@ -140,12 +144,11 @@ const Hero = ({ fields, params, hasStaticText }: HeroProps): JSX.Element => {
                 {heroData?.cta?.jsonValue?.value && heroData?.cta?.jsonValue?.value.href && (
                   <Button
                     auto
-                    className={clsx('text-white mt-[6px] font-semibold', {
-                      '!text-black': params?.textColor === 'black',
-                    })}
+                    className="text-white mt-[6px] font-semibold"
                     field={heroData?.cta?.jsonValue}
                     variant="primary"
                     tabIndex={0}
+                    style={{ color: textColor }}
                   />
                 )}
               </div>
