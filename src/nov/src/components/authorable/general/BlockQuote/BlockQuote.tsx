@@ -92,7 +92,7 @@ const BlockQuote = ({ fields }: BlockQuoteProps): JSX.Element => {
     );
   };
   return (
-    <div className="container mt-[30px] smd:pt-20">
+    <div className="container pt-[30px] smd:pt-20">
       {isWithoutImage && (
         <div
           className={clsx('flex flex-col max-w-[480px]  mx-auto', {
