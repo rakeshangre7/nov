@@ -70,11 +70,11 @@ export type HeroProps = {
   componentName?: string;
   dataSource?: string;
   fields: Fields;
+  hasStaticText?: boolean;
 };
-const Hero = ({ fields, params }: HeroProps): JSX.Element => {
+const Hero = ({ fields, params, hasStaticText }: HeroProps): JSX.Element => {
   const useDataSource = fields?.data?.datasource != null;
   const heroData = useDataSource ? fields.data.datasource : fields.data.contextItem;
-
   if (fields === null || fields === undefined) return <></>;
 
   return (
@@ -113,39 +113,43 @@ const Hero = ({ fields, params }: HeroProps): JSX.Element => {
             {params.addGradient == '1' && (
               <div className="absolute left-0 top-0 w-full h-full z-0 before:content before:absolute before:w-full before:h-[243px] before:from-[#00000000] before:to-[#000000a3] before:bg-gradient-0 after:content after:absolute after:w-full after:h-full after:bottom-0 after:left-0 after:from-[#00000000] after:to-[#000000bf] after:bg-gradient-198 after:opacity-40"></div>
             )}
-            <div className="container w-full min-h-screen h-auto py-[100px] flex flex-col items-start justify-center relative z-2">
-              <Text
-                tag="div"
-                className="text-base font-bold leading-none pl-[5px] mb-4"
-                field={heroData?.contentTag?.jsonValue?.fields?.tag}
-              />
-              {heroData?.heading?.jsonValue?.value && (
-                <Text
-                  tag="h1"
-                  className="text-7xl leading-56 smd:text-[72px] smd:leading-[72px] lg:text-8xl lg:leading-80"
-                  field={heroData?.heading?.jsonValue}
-                />
-              )}
-              {heroData?.subheading?.jsonValue?.value && (
-                <RichTextA11yWrapper
-                  className="max-w-[640px] mt-[37px] text-lg leading-28 [&>p]:text-lg [&>p]:leading-28 [&>p]:mb-5"
-                  data-testid="contentblock"
-                  field={heroData?.subheading?.jsonValue}
-                  editable
-                />
-              )}
-              {heroData?.cta?.jsonValue?.value && heroData?.cta?.jsonValue?.value.href && (
-                <Button
-                  auto
-                  className={clsx('text-white mt-[6px] font-semibold', {
-                    '!text-black': params?.textColor === 'black',
-                  })}
-                  field={heroData?.cta?.jsonValue}
-                  variant="primary"
-                  tabIndex={0}
-                />
-              )}
-            </div>
+            {hasStaticText && (
+              <div className="container w-full min-h-screen h-auto py-[100px] flex flex-col items-start justify-center relative z-2">
+                {heroData?.contentTag?.jsonValue?.fields?.tag?.value && (
+                  <Text
+                    tag="div"
+                    className="text-base font-bold leading-none pl-[5px] mb-4"
+                    field={heroData?.contentTag?.jsonValue?.fields?.tag}
+                  />
+                )}
+                {heroData?.heading?.jsonValue?.value && (
+                  <Text
+                    tag="h1"
+                    className="text-7xl leading-56 smd:text-[72px] smd:leading-[72px] lg:text-8xl lg:leading-80"
+                    field={heroData?.heading?.jsonValue}
+                  />
+                )}
+                {heroData?.subheading?.jsonValue?.value && (
+                  <RichTextA11yWrapper
+                    className="max-w-[640px] mt-[37px] text-lg leading-28 [&>p]:text-lg [&>p]:leading-28 [&>p]:mb-5"
+                    data-testid="contentblock"
+                    field={heroData?.subheading?.jsonValue}
+                    editable
+                  />
+                )}
+                {heroData?.cta?.jsonValue?.value && heroData?.cta?.jsonValue?.value.href && (
+                  <Button
+                    auto
+                    className={clsx('text-white mt-[6px] font-semibold', {
+                      '!text-black': params?.textColor === 'black',
+                    })}
+                    field={heroData?.cta?.jsonValue}
+                    variant="primary"
+                    tabIndex={0}
+                  />
+                )}
+              </div>
+            )}
           </div>
         </div>
       </div>
