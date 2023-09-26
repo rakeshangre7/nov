@@ -26,8 +26,13 @@ export type StatsBlockProps = {
 };
 
 const StatsBlock = ({ fields }: StatsBlockProps) => {
+  if (fields === null || fields === undefined) return <></>;
   return (
-    <div className="pt-[30px] smd:pt-20">
+    <div
+      className="pt-[30px] smd:pt-20"
+      data-component="authorable/general/statsblock"
+      data-testid="statsblock"
+    >
       <div className="container m-auto">
         <div className="flex flex-col smd:flex smd:flex-row justify-between items-center">
           <StatsBlockItems
