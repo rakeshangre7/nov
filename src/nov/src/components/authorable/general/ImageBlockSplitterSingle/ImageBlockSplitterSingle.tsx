@@ -18,13 +18,13 @@ const ImageBlockSplitterSingle = ({ rendering }: ImageBlockSplitterSingleProps):
   return (
     <>
       <div className="lg:flex w-full lg:justify-between lg:absolute lg:top-0 lg:bottom-0 lg:left-0 lg:right-0 p-0">
-        <div className="lg:w-1/2 relative">
+        <div className="lg:w-1/2 relative overflow-hidden h-auto">
           <Placeholder
             name="image-block-splitter-960x1080-left"
             rendering={rendering as ComponentRendering}
           />
         </div>
-        <div className="lg:w-1/2 relative">
+        <div className="lg:w-1/2 relative overflow-hidden h-auto">
           <Placeholder
             name="image-block-splitter-960x1080-right"
             rendering={rendering as ComponentRendering}
