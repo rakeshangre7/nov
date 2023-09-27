@@ -54,7 +54,7 @@
   .rte p {
     @apply font-primary font-normal text-base leading-28 tracking-normal;
   }
-  .rte p:last-child {
+  .rte p:last-of-type {
     @apply !mb-0;
   }
   .rte a {
