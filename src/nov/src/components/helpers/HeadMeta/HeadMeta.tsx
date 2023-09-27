@@ -54,55 +54,58 @@ const HeadMeta = ({ layoutData }: LayoutProps): JSX.Element => {
     PageMetaData?.metaDescription?.value || PageMetaData.pageDescription?.value;
 
   return (
-    <Head>
-      <meta charSet="utf-8" />
-      <meta
-        name="viewport"
-        content="width=device-width, initial-scale=1.0 maximum-scale=1.0 user-scalable=no"
-      />
-      <meta httpEquiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-      <title>{pageTitle}</title>
-      <meta name="keywords" content={PageMetaData?.metaKeywords?.value || ''} />
-      <meta name="description" content={metaDescription} />
-      <meta property="og:title" content={PageMetaData?.openGraphTitle?.value || ''} />
-      <meta property="og:type" content={PageMetaData?.openGraphType?.value || ''} />
-      <meta property="og:locale" content={context?.language} />
-      <meta property="og:url" content={PageMetaData?.openGraphUrl?.value || ''} />
-      <meta property="og:image" content={PageMetaData?.OpenGraphImageMediaUrl?.value || ''} />
-      <meta property="og:description" content={PageMetaData?.Description?.value || ''} />
-      <meta property="og:site_name" content={PageMetaData?.SiteName || ''} />
-      <link rel="index" title={PageMetaData?.pageTitle?.value || ''} href={publicUrl} />
-      <meta name="twitter:card" content="summary" />
-      <meta name="twitter:site" content="" />
-      <meta name="twitter:title" content={PageMetaData?.openGraphTitle.value || ''} />
-      <meta name="twitter:description" content="" />
-      <meta name="twitter:image" content={PageMetaData?.OpenGraphImageMediaUrl?.value || ''} />
-      <link rel="canonical" href={PageMetaData?.canonicalUrl?.value || ''} />
-      <meta name="apple-mobile-web-app-title" content="NOV.com" />
-      <meta name="application-name" content="NOV.com" />
-      <meta name="msapplication-TileColor" content="#ffffff" />
-      <meta name="msapplication-config" content="../../../../public/favicon.ico" />
-      <meta name="theme-color" content="#ffffff" />
+    <>
+      <Head>
+        <meta charSet="utf-8" />
+        <meta
+          name="viewport"
+          content="width=device-width, initial-scale=1.0 maximum-scale=1.0 user-scalable=no"
+        />
+        <meta httpEquiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+        <title>{pageTitle}</title>
+        <meta name="keywords" content={PageMetaData?.metaKeywords?.value || ''} />
+        <meta name="description" content={metaDescription} />
+        <meta property="og:title" content={PageMetaData?.openGraphTitle?.value || ''} />
+        <meta property="og:type" content={PageMetaData?.openGraphType?.value || ''} />
+        <meta property="og:locale" content={context?.language} />
+        <meta property="og:url" content={PageMetaData?.openGraphUrl?.value || ''} />
+        <meta property="og:image" content={PageMetaData?.OpenGraphImageMediaUrl?.value || ''} />
+        <meta property="og:description" content={PageMetaData?.Description?.value || ''} />
+        <meta property="og:site_name" content={PageMetaData?.SiteName || ''} />
+        <link rel="index" title={PageMetaData?.pageTitle?.value || ''} href={publicUrl} />
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:site" content="" />
+        <meta name="twitter:title" content={PageMetaData?.openGraphTitle.value || ''} />
+        <meta name="twitter:description" content="" />
+        <meta name="twitter:image" content={PageMetaData?.OpenGraphImageMediaUrl?.value || ''} />
+        <link rel="canonical" href={PageMetaData?.canonicalUrl?.value || ''} />
+        <meta name="apple-mobile-web-app-title" content="NOV.com" />
+        <meta name="application-name" content="NOV.com" />
+        <meta name="msapplication-TileColor" content="#ffffff" />
+        <meta name="msapplication-config" content="../../../../public/favicon.ico" />
+        <meta name="theme-color" content="#ffffff" />
+      </Head>
       <Script
+        id="DTMcontent"
         type="text/javascript"
         dangerouslySetInnerHTML={{
           __html: `
-            if (typeof NOVCom === 'undefined') {
-              var NOVCom = {};
-            }
-            if (typeof NOVCom.DTM === 'undefined') {
-              NOVCom.DTM = {};
-            }
-            NOVCom.DTM.pagename = '${pageTitle}';
-            NOVCom.DTM.businessSegment = '${PageMetaData?.businessSegments?.value?.toString()}';
-            NOVCom.DTM.businessUnits = '${PageMetaData?.businessUnits?.value?.toString()}';
-            NOVCom.DTM.Brand = 'Ershigs';
-            NOVCom.DTM.Capability = 'Composite Solutions,Industrial Products and Solutions,Lithium Extraction';
-            NOVCom.DTM.Category = 'Composite Solutions,Storage,Industrial,Chemical,Storage,Lithium Extraction,Composite Pressure Vessels,Composite Tanks';
-          `,
+              if (typeof NOVCom === 'undefined') {
+                var NOVCom = {};
+              }
+              if (typeof NOVCom.DTM === 'undefined') {
+                NOVCom.DTM = {};
+              }
+              NOVCom.DTM.pagename = '${pageTitle}';
+              NOVCom.DTM.businessSegment = '${PageMetaData?.businessSegments?.value?.toString()}';
+              NOVCom.DTM.businessUnits = '${PageMetaData?.businessUnits?.value?.toString()}';
+              NOVCom.DTM.Brand = 'Ershigs';
+              NOVCom.DTM.Capability = 'Composite Solutions,Industrial Products and Solutions,Lithium Extraction';
+              NOVCom.DTM.Category = 'Composite Solutions,Storage,Industrial,Chemical,Storage,Lithium Extraction,Composite Pressure Vessels,Composite Tanks';
+            `,
         }}
       />
-    </Head>
+    </>
   );
 };
 
