@@ -17,31 +17,74 @@ const defaultData: HeroSliderProps = {
       datasource: {
         contentTag: {
           jsonValue: {
-            id: '894ad693-62bc-4d0f-8e34-42401ebef1f3',
-            url: '/Data/System/Content-Tags/Capability',
-            name: 'Capability',
-            displayName: 'Capability',
+            id: 'ba3828af-5ef2-4318-b72a-af9b21812eb6',
+            url: '/Data/System/Content-Tags/Podcast',
+            name: 'Podcast',
+            displayName: 'Podcast',
             fields: {
               tag: {
-                value: 'Capability',
+                value: 'Podcast',
               },
             },
           },
         },
-        staticHeading: {
+        heading: {
           jsonValue: {
-            value: 'Midstream',
+            value: 'heroslider static heading',
           },
         },
-        staticSubheading: {
+        subheading: {
           jsonValue: {
-            value: '<p>Trusted brands that keep pace with your demands.</p>',
+            value: '<p> hero slider staticsubheading </p>',
           },
         },
-        contactLink: {
+        cta: {
           jsonValue: {
             value: {
-              href: '',
+              text: 'heroslider cta',
+              anchor: '',
+              linktype: 'internal',
+              class: '',
+              title: '',
+              target: '',
+              querystring: '',
+              id: '{603CF887-836F-41B8-864A-05B0CA7CAEA4}',
+              href: '/heroslider',
+            },
+          },
+        },
+      },
+      contextItem: {
+        contentTag: {
+          jsonValue: {
+            id: '4bb3b086-733d-44d8-bdbe-47fe1a1d250f',
+            url: '/Data/System/Content-Tags/Segment',
+            name: 'Segment',
+            displayName: 'Segment',
+            fields: {
+              tag: {
+                value: 'Segment',
+              },
+            },
+          },
+        },
+        heading: {
+          jsonValue: {
+            value: 'heroslider page without datasource ',
+          },
+        },
+        subheading: {
+          jsonValue: {
+            value: 'hero slider subheading page',
+          },
+        },
+        image: {
+          jsonValue: {
+            value: {
+              src: 'https://edge.sitecorecloud.io/nationaloile493-nov-dev-59ee/media/Feature/nov/Images/Products/Resources-and-Tools/drillbit.jpg?h=1080&iar=0&w=1920',
+              alt: 'Closeup of an NOV drill bit',
+              width: '1920',
+              height: '1080',
             },
           },
         },

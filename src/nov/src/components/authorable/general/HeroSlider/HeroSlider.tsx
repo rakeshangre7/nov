@@ -4,7 +4,6 @@ import {
   Placeholder,
   ComponentRendering,
   LinkField,
-  Field,
   Text,
 } from '@sitecore-jss/sitecore-jss-nextjs';
 import Slider from 'react-slick';
@@ -105,34 +104,16 @@ export type HeroSliderProps = {
       'hero-slide'?: Array<HeroSliderItem>;
     };
     data?: {
-      datasource?: {
-        contactLink?: {
-          jsonValue?: LinkField;
-        };
-        contentTag?: {
-          jsonValue?: {
-            id?: string;
-            url?: string;
-            name?: string;
-            displayName?: string;
-            fields?: {
-              tag?: Field<string>;
-            };
-          };
-        };
-        staticHeading?: {
-          jsonValue?: Field<string>;
-        };
-        staticSubheading?: {
-          jsonValue?: Field<string>;
-        };
-      };
+      datasource?: heroData | null;
+      contextItem?: heroData;
     };
   };
 };
 
 const HeroSlider = ({ fields, rendering, params }: HeroSliderProps): JSX.Element => {
   //   // Fail out if fields aren't present
+  const useDataSource = fields?.data?.datasource != null;
+  const heroData = useDataSource ? fields?.data?.datasource : fields?.data?.contextItem;
   const [textColor, setTextColor] = useState<string>('#ffffff');
   const sliderRef = useRef<Slider | null>(null);
   function PrevArrow({ onClick }: onClickInterface) {
@@ -188,7 +169,7 @@ const HeroSlider = ({ fields, rendering, params }: HeroSliderProps): JSX.Element
     slidesToScroll: 1,
 
     dotsClass:
-      'button__bar container w-full !flex absolute left-1/2 -translate-x-1/2 bottom-6 justify-start	 [&>li>button]:w-3 [&>li>button]:h-3 [&>li>button]:mx-1.5 [&>li>button]:text-[0] [&>li>button]:bg-gray-novLight [&>li>button]:rounded-full [&>li>button]:border-2 [&>li>button]:border-white [&>.slick-active>button]:bg-white [&>.slick-active>button]:border-primary [&>li>button:hover]:bg-white [&>li>button:hover]:border-primary [&>li>button]:outline-0 [&>li>button]:transition [&>li>button]:duration-300 [&>li>button]:ease',
+      'button__bar z-[1] container w-full !flex absolute left-1/2 -translate-x-1/2 bottom-6 justify-start	 [&>li>button]:w-3 [&>li>button]:h-3 [&>li>button]:mx-1.5 [&>li>button]:text-[0] [&>li>button]:bg-gray-novLight [&>li>button]:rounded-full [&>li>button]:border-2 [&>li>button]:border-white [&>.slick-active>button]:bg-white [&>.slick-active>button]:border-primary [&>li>button:hover]:bg-white [&>li>button:hover]:border-primary [&>li>button]:outline-0 [&>li>button]:transition [&>li>button]:duration-300 [&>li>button]:ease',
   };
   useEffect(() => {
     setTextColor(
@@ -199,10 +180,14 @@ const HeroSlider = ({ fields, rendering, params }: HeroSliderProps): JSX.Element
   //   fields?.data?.datasource?.staticHeading?.jsonValue.value === '' ||
   //   fields?.data?.datasource === null;
   const hasStaticText = false;
-  const heroData = fields?.data?.datasource;
+
+  // const heroData = fields?.data?.datasource;
   if (fields === null || fields === undefined) return <></>;
   return (
-    <div className="w-full ">
+    <div className="w-full a111">
+      {params?.addGradient == '1' && (
+        <div className="absolute left-0 top-0 w-full h-full z-[1] before:content before:absolute before:w-full before:h-[243px] before:from-[#00000000] before:to-[#000000a3] before:bg-gradient-0 after:content after:absolute after:w-full after:h-full after:bottom-0 after:left-0 after:from-[#00000000] after:to-[#000000bf] after:bg-gradient-198 after:opacity-40"></div>
+      )}
       <div
         className="container  max-h-[calc(100vh-200px)] absolute left-1/2 top-1/2 -translate-y-1/2 -translate-x-1/2 z-[1] "
         style={{ color: textColor }}
@@ -214,48 +199,47 @@ const HeroSlider = ({ fields, rendering, params }: HeroSliderProps): JSX.Element
             field={heroData?.contentTag?.jsonValue?.fields?.tag}
           />
         )}
-        {heroData?.staticHeading?.jsonValue?.value && (
+        {heroData?.heading?.jsonValue?.value && (
           <Text
             tag="h1"
             className="text-7xl leading-56 smd:text-[72px] smd:leading-[72px] lg:text-8xl lg:leading-80"
-            field={heroData?.staticHeading?.jsonValue}
+            field={heroData?.heading?.jsonValue}
           />
         )}
-        {heroData?.staticSubheading?.jsonValue?.value && (
+        {heroData?.subheading?.jsonValue?.value && (
           <RichTextA11yWrapper
             className="max-w-[640px] mt-[37px] text-lg leading-28 [&>p]:text-lg [&>p]:leading-28 [&>p]:mb-5"
             data-testid="contentblock"
-            field={heroData?.staticSubheading?.jsonValue}
+            field={heroData?.subheading?.jsonValue}
             editable
           />
         )}
-        {heroData?.contactLink?.jsonValue?.value &&
-          heroData?.contactLink?.jsonValue?.value.href && (
-            <Button
-              auto
-              className="text-white mt-[6px] font-semibold"
-              field={heroData?.contactLink?.jsonValue}
-              variant="primary"
-              tabIndex={0}
-            />
-          )}
-      </div>
-      {rendering && (
-        <>
-          {/* <Placeholder name="hero-slide" rendering={fields.rendering} /> */}
-
-          <Placeholder
-            name="hero-slide"
-            rendering={rendering}
-            hasStaticText={hasStaticText}
-            render={(components) => (
-              <Slider {...sliderSettings} ref={sliderRef}>
-                {components}
-              </Slider>
-            )}
+        {heroData?.cta?.jsonValue?.value && heroData?.cta?.jsonValue?.value.href && (
+          <Button
+            auto
+            className="text-white mt-[6px] font-semibold"
+            field={heroData?.cta?.jsonValue}
+            variant="primary"
+            tabIndex={0}
+            style={{ color: textColor }}
           />
-        </>
-      )}
+        )}
+      </div>
+
+      <>
+        {/* <Placeholder name="hero-slide" rendering={fields.rendering} /> */}
+
+        <Placeholder
+          name="hero-slide"
+          rendering={rendering}
+          hasStaticText={hasStaticText}
+          render={(components) => (
+            <Slider {...sliderSettings} ref={sliderRef}>
+              {components}
+            </Slider>
+          )}
+        />
+      </>
     </div>
   );
 };

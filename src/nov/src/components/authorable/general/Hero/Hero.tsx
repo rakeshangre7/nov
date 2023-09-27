@@ -92,8 +92,8 @@ const Hero = ({ fields, params, hasStaticText }: HeroProps): JSX.Element => {
             style={{
               ...(heroData?.image?.jsonValue?.value?.src && {
                 backgroundImage: `url(${heroData?.image.jsonValue?.value?.src})`,
-              },
-              { color: textColor }),
+              }),
+              ...{ color: textColor },
             }}
           >
             {heroData?.backgroundVideo?.jsonValue?.value && (
