@@ -39,7 +39,7 @@ const ArticleText = ({ fields, params }: ArticleTextProps): JSX.Element => {
               field={fields?.ctaLink}
               className={clsx({
                 'text-red !text-base !leading-28': buttonStandard,
-                'mt-[34px]': buttonDefault,
+                'mt-[34px] h-12 inline-block': buttonDefault,
               })}
             />
           )}
