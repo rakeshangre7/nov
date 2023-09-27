@@ -21,7 +21,7 @@ const VideoBlock = ({ fields }: VideoBlockProps) => {
           autoplay={true}
           loop={true}
           muted={true}
-          className={'w-full h-full'}
+          className={'w-full h-full object-cover'}
           controls={false}
           field={{
             image: {
@@ -33,6 +33,7 @@ const VideoBlock = ({ fields }: VideoBlockProps) => {
           }}
         />
       )}
+      <div className="absolute bottom-0 left-0 block w-full h-full bg-imageBlock mix-blend-multiply"></div>
       <div className="absolute left-0 bottom-0 p-8">
         {fields?.headline && (
           <Text

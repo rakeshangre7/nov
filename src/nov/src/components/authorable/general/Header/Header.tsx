@@ -305,6 +305,8 @@ const Header = ({ fields }: HeaderProps) => {
                           });
                         }
                       }
+                    } else {
+                      setIsExpanded(false);
                     }
                   }}
                   {...(!isTertiary &&

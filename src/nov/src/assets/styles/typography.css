@@ -85,4 +85,21 @@
     transform: translate(0%, 0%);
     height: auto;
   }
+  .firstLetterCapital p:first-of-type::first-letter {
+    font-size: 67px;
+    font-weight: 700;
+    line-height: 0.79;
+    float: left;
+    padding-right: 10px;
+    margin-left: -4px;
+  }
+  @media (min-width: 1024px) {
+    .firstLetterCapital p:first-of-type::first-letter {
+      font-size: 115px;
+      margin-left: -7px;
+    }
+  }
+  .firstParaBold p:first-of-type {
+    font-weight: 600;
+  }
 }
