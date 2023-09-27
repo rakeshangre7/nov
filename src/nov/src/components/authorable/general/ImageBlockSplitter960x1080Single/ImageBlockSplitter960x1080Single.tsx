@@ -11,22 +11,24 @@ interface ImageBlockDataProps {
     'image-block-splitter-960x1080-right': ImageBlockProps[];
   };
 }
-export type ImageBlockSplitterSingleProps = ImageBlockDataProps & {
+export type ImageBlockSplitter960x1080SingleProps = ImageBlockDataProps & {
   rendering?: ImageBlockDataProps | undefined;
 };
-const ImageBlockSplitterSingle = ({ rendering }: ImageBlockSplitterSingleProps): JSX.Element => {
+const ImageBlockSplitter960x1080Single = ({
+  rendering,
+}: ImageBlockSplitter960x1080SingleProps): JSX.Element => {
   return (
     <>
-      <div className="lg:flex w-full lg:justify-between lg:absolute lg:top-0 lg:bottom-0 lg:left-0 lg:right-0 p-0">
-        <div className="lg:w-1/2 relative overflow-hidden h-auto">
+      <div className="lg:flex lg:flex-col w-full lg:justify-between lg:absolute lg:top-0 lg:bottom-0 lg:left-0 lg:right-0 p-0">
+        <div className="lg:h-1/2 relative overflow-hidden w-full">
           <Placeholder
-            name="image-block-splitter-960x1080-left"
+            name="image-block-splitter-960x540-top"
             rendering={rendering as ComponentRendering}
           />
         </div>
-        <div className="lg:w-1/2 relative overflow-hidden h-auto">
+        <div className="lg:h-1/2 relative overflow-hidden w-full">
           <Placeholder
-            name="image-block-splitter-960x1080-right"
+            name="image-block-splitter-960x540-bottom"
             rendering={rendering as ComponentRendering}
           />
         </div>
@@ -36,5 +38,5 @@ const ImageBlockSplitterSingle = ({ rendering }: ImageBlockSplitterSingleProps):
 };
 
 // @todo: Figure out how to mock isPageEditing, or if it even matters, in Storybook.
-// export default withDatasourceCheck()<ImageBlockSplitterSingleProps>(ImageBlockSplitterSingle);
-export default ImageBlockSplitterSingle;
+// export default withDatasourceCheck()<ImageBlockSplitter960x1080SingleProps>(ImageBlockSplitter960x1080Single);
+export default ImageBlockSplitter960x1080Single;

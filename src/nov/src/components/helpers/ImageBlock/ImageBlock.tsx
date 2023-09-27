@@ -14,8 +14,11 @@ export interface ImageBlockProps {
 }
 const ImageBlock = ({ fields }: ImageBlockProps) => {
   return (
-    <div className="w-full h-auto relative ">
-      {fields?.image && <ImageWrapper className="w-full h-auto" field={fields?.image} />}
+    <div className="relative h-full w-full">
+      {fields?.image && (
+        <ImageWrapper className="w-full h-full scale-[1.01]" field={fields?.image} layout="fill" />
+      )}
+      <div className="absolute bottom-0 left-0 block w-full h-full bg-imageBlock mix-blend-multiply"></div>
       <div className="absolute left-0 bottom-0 p-8">
         {fields?.headline && (
           <Text

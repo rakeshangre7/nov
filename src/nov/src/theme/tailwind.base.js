@@ -129,5 +129,8 @@ module.exports = {
     animation: {
       progress: 'progress 6s linear forwards',
     },
+    backgroundImage: {
+      imageBlock: 'linear-gradient(199deg, rgba(81, 81, 81, 0) 60%, rgba(40, 40, 40, 0.8))',
+    },
   },
 };
