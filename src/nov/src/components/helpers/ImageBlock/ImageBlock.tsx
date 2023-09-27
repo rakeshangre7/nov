@@ -16,7 +16,11 @@ const ImageBlock = ({ fields }: ImageBlockProps) => {
   return (
     <div className="relative h-full w-full">
       {fields?.image && (
-        <ImageWrapper className="w-full h-full scale-[1.01]" field={fields?.image} layout="fill" />
+        <ImageWrapper
+          className="w-full h-full scale-[1.01] !relative"
+          field={fields?.image}
+          layout="fill"
+        />
       )}
       <div className="absolute bottom-0 left-0 block w-full h-full bg-imageBlock mix-blend-multiply"></div>
       <div className="absolute left-0 bottom-0 p-8">
