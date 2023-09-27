@@ -19,14 +19,14 @@ const ImageBlockSplitter960x540Single = ({
 }: ImageBlockSplitter960x540SingleProps): JSX.Element => {
   return (
     <>
-      <div className="lg:flex w-full lg:justify-between lg:absolute lg:top-0 lg:bottom-0 lg:left-0 lg:right-0 p-0">
-        <div className="lg:w-1/2 relative overflow-hidden h-auto">
+      <div className="flex w-full justify-between lg:absolute lg:top-0 lg:bottom-0 lg:left-0 lg:right-0 p-0">
+        <div className="w-1/2 relative overflow-hidden h-auto">
           <Placeholder
             name="image-block-splitter-480x540-left"
             rendering={rendering as ComponentRendering}
           />
         </div>
-        <div className="lg:w-1/2 relative overflow-hidden h-auto">
+        <div className="w-1/2 relative overflow-hidden h-auto">
           <Placeholder
             name="image-block-splitter-480x540-right"
             rendering={rendering as ComponentRendering}

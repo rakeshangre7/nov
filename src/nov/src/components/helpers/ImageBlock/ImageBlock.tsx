@@ -23,11 +23,11 @@ const ImageBlock = ({ fields }: ImageBlockProps) => {
         />
       )}
       <div className="absolute bottom-0 left-0 block w-full h-full bg-imageBlock mix-blend-multiply"></div>
-      <div className="absolute left-0 bottom-0 p-8">
+      <div className="absolute left-0 bottom-0 p-6 smd:p-8">
         {fields?.headline && (
           <Text
             tag="h5"
-            className="text-base text-white leading-normal font-semibold m-0"
+            className="text-2xs leading-tight smd:text-base text-white smd:leading-[1.5] font-semibold m-0"
             field={fields?.headline}
           />
         )}
@@ -35,7 +35,7 @@ const ImageBlock = ({ fields }: ImageBlockProps) => {
           <Button
             field={fields?.linkurl}
             variant="tertiary"
-            className="!text-white mt-2 !font-medium"
+            className="!text-white mt-1.5 smd:mt-2 !font-medium !text-2xs !leading-tight smd:!text-base smd:!leading-[1.5]"
             iconClassName="icon-chevron-right"
             iconPosition="right"
           />
