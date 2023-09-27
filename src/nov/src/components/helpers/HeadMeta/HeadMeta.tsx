@@ -49,9 +49,9 @@ const HeadMeta = ({ layoutData }: LayoutProps): JSX.Element => {
     return <></>;
   }
 
-  const pageTitle = PageMetaData?.metaTitle?.value || PageMetaData.pageTitle?.value;
+  const pageTitle = PageMetaData?.metaTitle?.value ?? PageMetaData.pageTitle?.value;
   const metaDescription =
-    PageMetaData?.metaDescription?.value || PageMetaData.pageDescription?.value;
+    PageMetaData?.metaDescription?.value ?? PageMetaData.pageDescription?.value;
 
   return (
     <>
@@ -59,26 +59,40 @@ const HeadMeta = ({ layoutData }: LayoutProps): JSX.Element => {
         <meta charSet="utf-8" />
         <meta
           name="viewport"
-          content="width=device-width, initial-scale=1.0 maximum-scale=1.0 user-scalable=no"
+          content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" // Fixed the viewport meta tag
         />
         <meta httpEquiv="X-UA-Compatible" content="IE=edge,chrome=1" />
         <title>{pageTitle}</title>
-        <meta name="keywords" content={PageMetaData?.metaKeywords?.value || ''} />
+        <meta name="keywords" content={PageMetaData?.metaKeywords?.value ?? ''} />
         <meta name="description" content={metaDescription} />
-        <meta property="og:title" content={PageMetaData?.openGraphTitle?.value || ''} />
-        <meta property="og:type" content={PageMetaData?.openGraphType?.value || ''} />
-        <meta property="og:locale" content={context?.language} />
-        <meta property="og:url" content={PageMetaData?.openGraphUrl?.value || ''} />
-        <meta property="og:image" content={PageMetaData?.OpenGraphImageMediaUrl?.value || ''} />
-        <meta property="og:description" content={PageMetaData?.Description?.value || ''} />
-        <meta property="og:site_name" content={PageMetaData?.SiteName || ''} />
-        <link rel="index" title={PageMetaData?.pageTitle?.value || ''} href={publicUrl} />
+        <meta property="og:title" content={PageMetaData?.openGraphTitle?.value ?? pageTitle} />{' '}
+        {/* Use pageTitle as fallback */}
+        <meta property="og:type" content={PageMetaData?.openGraphType?.value ?? 'website'} />{' '}
+        {/* Use a default value if not provided */}
+        <meta property="og:locale" content={context?.language ?? 'en-US'} />{' '}
+        {/* Use a default language if not provided */}
+        <meta property="og:url" content={PageMetaData?.openGraphUrl?.value ?? publicUrl} />{' '}
+        {/* Use publicUrl as fallback */}
+        <meta property="og:image" content={PageMetaData?.OpenGraphImageMediaUrl?.value ?? ''} />
+        <meta
+          property="og:description"
+          content={PageMetaData?.Description?.value ?? metaDescription}
+        />{' '}
+        {/* Use metaDescription as fallback */}
+        <meta property="og:site_name" content={PageMetaData?.SiteName ?? 'Your Site Name'} />{' '}
+        {/* Use a default site name if not provided */}
+        <link rel="index" title={PageMetaData?.pageTitle?.value ?? pageTitle} href={publicUrl} />
         <meta name="twitter:card" content="summary" />
-        <meta name="twitter:site" content="" />
-        <meta name="twitter:title" content={PageMetaData?.openGraphTitle.value || ''} />
-        <meta name="twitter:description" content="" />
-        <meta name="twitter:image" content={PageMetaData?.OpenGraphImageMediaUrl?.value || ''} />
-        <link rel="canonical" href={PageMetaData?.canonicalUrl?.value || ''} />
+        <meta name="twitter:site" content="" /> {/* Add your Twitter handle */}
+        <meta
+          name="twitter:title"
+          content={PageMetaData?.openGraphTitle?.value ?? pageTitle}
+        />{' '}
+        {/* Use pageTitle as fallback */}
+        <meta name="twitter:description" content={metaDescription} />
+        <meta name="twitter:image" content={PageMetaData?.OpenGraphImageMediaUrl?.value ?? ''} />
+        <link rel="canonical" href={PageMetaData?.canonicalUrl?.value ?? publicUrl} />{' '}
+        {/* Use publicUrl as fallback */}
         <meta name="apple-mobile-web-app-title" content="NOV.com" />
         <meta name="application-name" content="NOV.com" />
         <meta name="msapplication-TileColor" content="#ffffff" />
@@ -97,8 +111,10 @@ const HeadMeta = ({ layoutData }: LayoutProps): JSX.Element => {
                 NOVCom.DTM = {};
               }
               NOVCom.DTM.pagename = '${pageTitle}';
-              NOVCom.DTM.businessSegment = '${PageMetaData?.businessSegments?.value?.toString()}';
-              NOVCom.DTM.businessUnits = '${PageMetaData?.businessUnits?.value?.toString()}';
+              NOVCom.DTM.businessSegment = '${
+                PageMetaData?.businessSegments?.value?.toString() ?? ''
+              }';
+              NOVCom.DTM.businessUnits = '${PageMetaData?.businessUnits?.value?.toString() ?? ''}';
               NOVCom.DTM.Brand = 'Ershigs';
               NOVCom.DTM.Capability = 'Composite Solutions,Industrial Products and Solutions,Lithium Extraction';
               NOVCom.DTM.Category = 'Composite Solutions,Storage,Industrial,Chemical,Storage,Lithium Extraction,Composite Pressure Vessels,Composite Tanks';
