@@ -8,6 +8,7 @@ interface LayoutProps {
 }
 
 interface MetaDataProps {
+  categories: any;
   prefix: string;
   pageDescription: {
     value: string;
@@ -37,6 +38,16 @@ interface MetaDataProps {
   openGraphUrl: Field<string>;
   businessSegments: Field<string>;
   businessUnits: Field<string>;
+  brand: {
+    fields: {
+      brandName: Field<string>;
+    };
+  };
+  capability: {
+    fields: {
+      capabilityName: Field<string>;
+    };
+  };
 }
 
 const HeadMeta = ({ layoutData }: LayoutProps): JSX.Element => {
@@ -66,33 +77,22 @@ const HeadMeta = ({ layoutData }: LayoutProps): JSX.Element => {
         <meta name="keywords" content={PageMetaData?.metaKeywords?.value ?? ''} />
         <meta name="description" content={metaDescription} />
         <meta property="og:title" content={PageMetaData?.openGraphTitle?.value ?? pageTitle} />{' '}
-        {/* Use pageTitle as fallback */}
         <meta property="og:type" content={PageMetaData?.openGraphType?.value ?? 'website'} />{' '}
-        {/* Use a default value if not provided */}
         <meta property="og:locale" content={context?.language ?? 'en-US'} />{' '}
-        {/* Use a default language if not provided */}
         <meta property="og:url" content={PageMetaData?.openGraphUrl?.value ?? publicUrl} />{' '}
-        {/* Use publicUrl as fallback */}
         <meta property="og:image" content={PageMetaData?.OpenGraphImageMediaUrl?.value ?? ''} />
         <meta
           property="og:description"
           content={PageMetaData?.Description?.value ?? metaDescription}
-        />{' '}
-        {/* Use metaDescription as fallback */}
+        />
         <meta property="og:site_name" content={PageMetaData?.SiteName ?? 'Your Site Name'} />{' '}
-        {/* Use a default site name if not provided */}
         <link rel="index" title={PageMetaData?.pageTitle?.value ?? pageTitle} href={publicUrl} />
         <meta name="twitter:card" content="summary" />
-        <meta name="twitter:site" content="" /> {/* Add your Twitter handle */}
-        <meta
-          name="twitter:title"
-          content={PageMetaData?.openGraphTitle?.value ?? pageTitle}
-        />{' '}
-        {/* Use pageTitle as fallback */}
+        <meta name="twitter:site" content="" />
+        <meta name="twitter:title" content={PageMetaData?.openGraphTitle?.value ?? pageTitle} />
         <meta name="twitter:description" content={metaDescription} />
         <meta name="twitter:image" content={PageMetaData?.OpenGraphImageMediaUrl?.value ?? ''} />
         <link rel="canonical" href={PageMetaData?.canonicalUrl?.value ?? publicUrl} />{' '}
-        {/* Use publicUrl as fallback */}
         <meta name="apple-mobile-web-app-title" content="NOV.com" />
         <meta name="application-name" content="NOV.com" />
         <meta name="msapplication-TileColor" content="#ffffff" />
@@ -115,9 +115,16 @@ const HeadMeta = ({ layoutData }: LayoutProps): JSX.Element => {
                 PageMetaData?.businessSegments?.value?.toString() ?? ''
               }';
               NOVCom.DTM.businessUnits = '${PageMetaData?.businessUnits?.value?.toString() ?? ''}';
-              NOVCom.DTM.Brand = 'Ershigs';
-              NOVCom.DTM.Capability = 'Composite Solutions,Industrial Products and Solutions,Lithium Extraction';
-              NOVCom.DTM.Category = 'Composite Solutions,Storage,Industrial,Chemical,Storage,Lithium Extraction,Composite Pressure Vessels,Composite Tanks';
+              NOVCom.DTM.Brand = '${PageMetaData?.brand?.fields?.brandName?.value ?? ''}';
+              NOVCom.DTM.Capability = '${
+                PageMetaData?.capability?.fields?.capabilityName?.value ?? ''
+              }';
+              NOVCom.DTM.Category = '${
+                PageMetaData?.categories?.map(
+                  (category: { fields: { categoryName: { value: { toString: () => any } } } }) =>
+                    category?.fields?.categoryName?.value.toString()
+                ) || []
+              }';
             `,
         }}
       />
