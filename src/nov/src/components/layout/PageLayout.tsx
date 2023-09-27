@@ -15,6 +15,7 @@ import {
   LayoutServiceContextData,
 } from '@sitecore-jss/sitecore-jss-nextjs';
 import clsx from 'clsx';
+import HeadMeta from '../helpers/HeadMeta/HeadMeta';
 
 // Prefix public assets with a public URL to enable compatibility with Sitecore Experience Editor.
 // If you're not supporting the Experience Editor, you can remove this.
@@ -73,6 +74,7 @@ const PageLayout = ({ layoutData }: LayoutProps): JSX.Element => {
         </header>
         <main>
           <div id="content">{route && <Placeholder name="main" rendering={route} />}</div>
+          <HeadMeta layoutData={layoutData} />
         </main>
         <footer>
           <div id="footer">{route && <Placeholder name="footer" rendering={route} />}</div>
