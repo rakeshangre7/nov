@@ -27,7 +27,7 @@ const ArticleText = ({ fields, params }: ArticleTextProps): JSX.Element => {
   const buttonDefault = buttonVariant === 'button';
   return (
     <>
-      <div className="container">
+      <div className="container article-text">
         <div className="max-w-[736px] m-auto">
           <RichTextA11yWrapper
             field={fields?.body}
