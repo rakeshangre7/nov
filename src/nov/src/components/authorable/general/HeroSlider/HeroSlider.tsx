@@ -13,7 +13,7 @@ import Icon from '@/components/helpers/Icon/Icon';
 import Button from '@/components/helpers/Button/Button';
 import RichTextA11yWrapper from '@/components/helpers/RichTextA11yWrapper/RichTextA11yWrapper';
 // Local
-
+import TextOnlyButton from '@/components/authorable/general/TextOnlyHero/TextOnlyButton';
 // Ideally, all this is from generated Typescript code from Sitecore and we're not manually defining types.
 interface onClickInterface {
   onClick?: MouseEventHandler;
@@ -114,6 +114,37 @@ const HeroSlider = ({ fields, rendering, params }: HeroSliderProps): JSX.Element
   //   // Fail out if fields aren't present
   const useDataSource = fields?.data?.datasource != null;
   const heroData = useDataSource ? fields?.data?.datasource : fields?.data?.contextItem;
+  const [isSticky, setIsSticky] = useState<boolean>(false);
+  const currentHeightRef = useRef<HTMLDivElement | null>(null);
+  const [wrapperHeight, setWrapperHeight] = useState<number>(0);
+
+  // function to handle scroll and cta behaviour
+  const handleScroll = () => {
+    const currentScrollPos = window.pageYOffset;
+    setIsSticky(currentScrollPos > wrapperHeight - 65);
+  };
+
+  // function to calculate height
+  const calHeight = () => {
+    setWrapperHeight((currentHeightRef?.current as HTMLDivElement).getBoundingClientRect().height);
+  };
+
+  // useEffect to calculate height of the component
+  useEffect(() => {
+    currentHeightRef.current && calHeight();
+    window.addEventListener('resize', calHeight);
+    return () => {
+      window.removeEventListener('scroll', calHeight);
+    };
+  }, []);
+
+  // useEffect to attach scroll event to the component
+  useEffect(() => {
+    window.addEventListener('scroll', handleScroll);
+    return () => {
+      window.removeEventListener('scroll', handleScroll);
+    };
+  }, [calHeight]);
   const [textColor, setTextColor] = useState<string>('#ffffff');
   const sliderRef = useRef<Slider | null>(null);
   function PrevArrow({ onClick }: onClickInterface) {
@@ -184,7 +215,7 @@ const HeroSlider = ({ fields, rendering, params }: HeroSliderProps): JSX.Element
   // const heroData = fields?.data?.datasource;
   if (fields === null || fields === undefined) return <></>;
   return (
-    <div className="w-full a111">
+    <div className="w-full relative" ref={currentHeightRef}>
       {params?.addGradient == '1' && (
         <div className="absolute left-0 top-0 w-full h-full z-[1] before:content before:absolute before:w-full before:h-[243px] before:from-[#00000000] before:to-[#000000a3] before:bg-gradient-0 after:content after:absolute after:w-full after:h-full after:bottom-0 after:left-0 after:from-[#00000000] after:to-[#000000bf] after:bg-gradient-198 after:opacity-40"></div>
       )}
@@ -240,6 +271,9 @@ const HeroSlider = ({ fields, rendering, params }: HeroSliderProps): JSX.Element
           )}
         />
       </>
+      {heroData?.cta?.jsonValue?.value?.text && heroData?.cta?.jsonValue?.value?.href && (
+        <TextOnlyButton ctaLink={heroData?.cta?.jsonValue} isSticky={isSticky} />
+      )}
     </div>
   );
 };
