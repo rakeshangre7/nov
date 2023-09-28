@@ -8,7 +8,6 @@ interface LayoutProps {
 }
 
 interface MetaDataProps {
-  categories: any;
   prefix: string;
   pageDescription: {
     value: string;
@@ -48,6 +47,16 @@ interface MetaDataProps {
       capabilityName: Field<string>;
     };
   };
+  categories: {
+    map(
+      arg0: (category: {
+        fields: { categoryName: { value: { toString: () => string } } };
+      }) => string
+    ): unknown;
+    fields: {
+      categoryName: Field<string>;
+    };
+  };
 }
 
 const HeadMeta = ({ layoutData }: LayoutProps): JSX.Element => {
@@ -76,23 +85,23 @@ const HeadMeta = ({ layoutData }: LayoutProps): JSX.Element => {
         <title>{pageTitle}</title>
         <meta name="keywords" content={PageMetaData?.metaKeywords?.value ?? ''} />
         <meta name="description" content={metaDescription} />
-        <meta property="og:title" content={PageMetaData?.openGraphTitle?.value ?? pageTitle} />{' '}
-        <meta property="og:type" content={PageMetaData?.openGraphType?.value ?? 'website'} />{' '}
+        <meta property="og:title" content={PageMetaData?.openGraphTitle?.value ?? ''} />
+        <meta property="og:type" content={PageMetaData?.openGraphType?.value ?? ''} />
         <meta property="og:locale" content={context?.language ?? 'en-US'} />{' '}
-        <meta property="og:url" content={PageMetaData?.openGraphUrl?.value ?? publicUrl} />{' '}
+        <meta property="og:url" content={PageMetaData?.openGraphUrl?.value ?? ''} />
         <meta property="og:image" content={PageMetaData?.OpenGraphImageMediaUrl?.value ?? ''} />
         <meta
           property="og:description"
           content={PageMetaData?.Description?.value ?? metaDescription}
         />
-        <meta property="og:site_name" content={PageMetaData?.SiteName ?? 'Your Site Name'} />{' '}
+        <meta property="og:site_name" content={PageMetaData?.SiteName ?? ''} />
         <link rel="index" title={PageMetaData?.pageTitle?.value ?? pageTitle} href={publicUrl} />
         <meta name="twitter:card" content="summary" />
         <meta name="twitter:site" content="" />
-        <meta name="twitter:title" content={PageMetaData?.openGraphTitle?.value ?? pageTitle} />
+        <meta name="twitter:title" content={PageMetaData?.openGraphTitle?.value ?? ''} />
         <meta name="twitter:description" content={metaDescription} />
         <meta name="twitter:image" content={PageMetaData?.OpenGraphImageMediaUrl?.value ?? ''} />
-        <link rel="canonical" href={PageMetaData?.canonicalUrl?.value ?? publicUrl} />{' '}
+        <link rel="canonical" href={PageMetaData?.canonicalUrl?.value ?? ''} />
         <meta name="apple-mobile-web-app-title" content="NOV.com" />
         <meta name="application-name" content="NOV.com" />
         <meta name="msapplication-TileColor" content="#ffffff" />
@@ -121,13 +130,14 @@ const HeadMeta = ({ layoutData }: LayoutProps): JSX.Element => {
               }';
               NOVCom.DTM.Category = '${
                 PageMetaData?.categories?.map(
-                  (category: { fields: { categoryName: { value: { toString: () => any } } } }) =>
+                  (category: { fields: { categoryName: { value: { toString: () => string } } } }) =>
                     category?.fields?.categoryName?.value.toString()
                 ) || []
               }';
             `,
         }}
       />
+      {console.log(PageMetaData?.brand?.fields?.brandName?.value)}
     </>
   );
 };
