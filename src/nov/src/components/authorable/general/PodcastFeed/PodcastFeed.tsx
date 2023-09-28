@@ -1,16 +1,15 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 
 // Local
 
 import { Field } from '@sitecore-jss/sitecore-jss-nextjs';
 import clsx from 'clsx';
-import RichTextA11yWrapper from '@/components/helpers/RichTextA11yWrapper/RichTextA11yWrapper';
-import { Text } from '@sitecore-jss/sitecore-jss-nextjs';
+import SingleFeed from './SingleFeed';
 import Button from '@/components/helpers/Button/Button';
 
 // Ideally, all this is from generated Typescript code from Sitecore and we're not manually defining types.
 
-type ResultArray = {
+export type ResultArray = {
   headline: { jsonValue: Field<string> };
   subheading: { jsonValue: Field<string> };
   soundcloudembedcode: { jsonValue: Field<string> } | null;
@@ -51,8 +50,30 @@ export type PodcastFeedProps = {
 
 const PodcastFeed = ({ fields }: PodcastFeedProps): JSX.Element => {
   // Fail out if fields aren't present
-  console.log('fields - ', fields);
+
   const resultsArray = fields?.data?.item?.field?.targetItem?.children?.results;
+  const [visibleAray, setVisibleArray] = useState<Array<ResultArray>>(resultsArray.slice(0, 9));
+  const [showLoadMore, setShowLoadMore] = useState<boolean>(true);
+
+  useEffect(() => {
+    if (resultsArray.length - visibleAray.length == 0) {
+      setShowLoadMore(false);
+    } else {
+      setShowLoadMore(true);
+    }
+  }, [visibleAray]);
+
+  // function for handling load more functionality
+  const handleLoadMore = (e: React.MouseEvent<Element, MouseEvent>) => {
+    e.preventDefault();
+    if (resultsArray.length - visibleAray.length > 0) {
+      const nextLoadItems = resultsArray.slice(visibleAray.length, visibleAray.length + 6);
+      setVisibleArray([...visibleAray, ...nextLoadItems]);
+    } else {
+      setShowLoadMore(false);
+    }
+  };
+
   if (fields === null || fields === undefined) return <></>;
 
   return (
@@ -68,63 +89,33 @@ const PodcastFeed = ({ fields }: PodcastFeedProps): JSX.Element => {
             'm-auto'
           )}
         >
-          {resultsArray &&
-            resultsArray.length > 0 &&
-            resultsArray?.map((elem, id) => {
-              console.log('ishika elem - ', elem);
+          {visibleAray &&
+            visibleAray.length > 0 &&
+            visibleAray?.map((elem, id) => {
               return (
-                <div
-                  className={clsx(
-                    'w-[344px]',
-                    'mt-0',
-                    'mr-[15px]',
-                    'mb-[30px]',
-                    'ml-[15px]',
-                    'bg-gray-lightest'
-                  )}
+                <SingleFeed
+                  elem={elem}
+                  id={id}
                   key={id}
-                >
-                  <div></div>
-                  <div className={clsx('p-8')}>
-                    <Text
-                      tag="p"
-                      field={elem?.guestNames?.jsonValue}
-                      className={clsx('text-sm', 'leading-24', 'mb-[10.5px]', 'text-gray-dark')}
-                    />
-                    <Text
-                      tag="p"
-                      field={elem?.podcastLength?.jsonValue}
-                      className={clsx('text-sm', 'leading-24', 'mb-[10.5px]', 'text-gray-dark')}
-                    />
-                    <Text
-                      tag="h3"
-                      field={elem?.episodeNumber?.jsonValue}
-                      className={clsx(
-                        'text-base',
-                        'font-semibold',
-                        'leading-24',
-                        'mb-3',
-                        'text-black'
-                      )}
-                    />
-                    <RichTextA11yWrapper
-                      field={elem?.body?.jsonValue}
-                      className={clsx(
-                        '[&_p]:text-sm',
-                        '[&_p]:leading-24',
-                        '[&_p]:mb-[24.5px]',
-                        '[&_p]:text-gray-dark'
-                      )}
-                    />
-                    <Button
-                      variant="secondary"
-                      field={fields?.data?.item?.learnMoreText?.jsonValue}
-                    />
-                  </div>
-                </div>
+                  fieldLearnMore={fields?.data?.item?.learnMoreText?.jsonValue?.value}
+                  episodePrefix={fields?.data?.item?.episodePrefix?.jsonValue?.value}
+                />
               );
             })}
         </div>
+        {showLoadMore && (
+          <div className={`container ${clsx('flex', 'justify-center')}`}>
+            <Button
+              variant="primary"
+              field={{
+                value: {
+                  text: fields?.data?.item?.loadMoreText?.jsonValue?.value,
+                },
+              }}
+              onClick={(e) => handleLoadMore(e)}
+            />
+          </div>
+        )}
       </div>
     </>
   );
