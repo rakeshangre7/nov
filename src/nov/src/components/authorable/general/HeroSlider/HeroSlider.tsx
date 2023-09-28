@@ -10,7 +10,7 @@ import Slider from 'react-slick';
 import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css';
 import Icon from '@/components/helpers/Icon/Icon';
-import Button from '@/components/helpers/Button/Button';
+// import Button from '@/components/helpers/Button/Button';
 import RichTextA11yWrapper from '@/components/helpers/RichTextA11yWrapper/RichTextA11yWrapper';
 // Local
 import TextOnlyButton from '@/components/authorable/general/TextOnlyHero/TextOnlyButton';
@@ -127,8 +127,6 @@ const HeroSlider = ({ fields, rendering, params }: HeroSliderProps): JSX.Element
     if (footer) {
       footerOffsetTop = document.body.offsetHeight - footer.offsetHeight;
     }
-
-    console.log(scrollY + wrapperHeight, footerOffsetTop);
 
     const windowHeight = window.innerHeight;
     if (footerOffsetTop && footerOffsetTop < scrollY + windowHeight) {
@@ -261,16 +259,16 @@ const HeroSlider = ({ fields, rendering, params }: HeroSliderProps): JSX.Element
             editable
           />
         )}
-        {heroData?.cta?.jsonValue?.value && heroData?.cta?.jsonValue?.value.href && (
+        {/* {heroData?.cta?.jsonValue?.value && heroData?.cta?.jsonValue?.value.href && (
           <Button
             auto
-            className="text-white mt-[6px] font-semibold"
+            className=" mt-[6px] font-semibold"
             field={heroData?.cta?.jsonValue}
             variant="primary"
             tabIndex={0}
             style={{ color: textColor }}
           />
-        )}
+        )} */}
       </div>
 
       <>

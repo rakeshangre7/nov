@@ -82,7 +82,6 @@ const Hero = ({ fields, params, hasStaticText, perantGradient }: HeroProps): JSX
       params?.textColor?.split('-')?.[1] ? `#${params?.textColor?.split('-')?.[1]}` : '#ffffff'
     );
   }, []);
-  console.log(perantGradient);
   if (fields === null || fields === undefined) return <></>;
 
   return (
@@ -147,7 +146,7 @@ const Hero = ({ fields, params, hasStaticText, perantGradient }: HeroProps): JSX
                 {heroData?.cta?.jsonValue?.value && heroData?.cta?.jsonValue?.value.href && (
                   <Button
                     auto
-                    className="text-white mt-[6px] font-semibold"
+                    className="mt-[6px] font-semibold"
                     field={heroData?.cta?.jsonValue}
                     variant="primary"
                     tabIndex={0}
