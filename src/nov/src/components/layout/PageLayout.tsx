@@ -57,6 +57,7 @@ const PageLayout = ({ layoutData }: LayoutProps): JSX.Element => {
 
       {/* root placeholder for the app, which we add components to using route data */}
       <div className={clsx(mainClassPageEditing, 'theme-default')}>
+        <HeadMeta layoutData={layoutData} />
         <header>
           <div
             id="header"
@@ -74,7 +75,6 @@ const PageLayout = ({ layoutData }: LayoutProps): JSX.Element => {
         </header>
         <main>
           <div id="content">{route && <Placeholder name="main" rendering={route} />}</div>
-          <HeadMeta layoutData={layoutData} />
         </main>
         <footer>
           <div id="footer">{route && <Placeholder name="footer" rendering={route} />}</div>
