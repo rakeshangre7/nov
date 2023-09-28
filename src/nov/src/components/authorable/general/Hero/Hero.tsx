@@ -71,8 +71,9 @@ export type HeroProps = {
   dataSource?: string;
   fields: Fields;
   hasStaticText?: boolean;
+  perantGradient?: string | undefined;
 };
-const Hero = ({ fields, params, hasStaticText }: HeroProps): JSX.Element => {
+const Hero = ({ fields, params, hasStaticText, perantGradient }: HeroProps): JSX.Element => {
   const [textColor, setTextColor] = useState<string>('#ffffff');
   const useDataSource = fields?.data?.datasource != null;
   const heroData = useDataSource ? fields.data.datasource : fields.data.contextItem;
@@ -81,6 +82,7 @@ const Hero = ({ fields, params, hasStaticText }: HeroProps): JSX.Element => {
       params?.textColor?.split('-')?.[1] ? `#${params?.textColor?.split('-')?.[1]}` : '#ffffff'
     );
   }, []);
+  console.log(perantGradient);
   if (fields === null || fields === undefined) return <></>;
 
   return (
@@ -114,9 +116,10 @@ const Hero = ({ fields, params, hasStaticText }: HeroProps): JSX.Element => {
                 />
               </div>
             )}
-            {params?.addGradient == '1' && (
-              <div className="absolute left-0 top-0 w-full h-full z-0 before:content before:absolute before:w-full before:h-[243px] before:from-[#00000000] before:to-[#000000a3] before:bg-gradient-0 after:content after:absolute after:w-full after:h-full after:bottom-0 after:left-0 after:from-[#00000000] after:to-[#000000bf] after:bg-gradient-198 after:opacity-40"></div>
-            )}
+            {perantGradient == '0' ||
+              (params?.addGradient == '1' && (
+                <div className="absolute left-0 top-0 w-full h-full z-0 before:content before:absolute before:w-full before:h-[243px] before:from-[#00000000] before:to-[#000000a3] before:bg-gradient-0 after:content after:absolute after:w-full after:h-full after:bottom-0 after:left-0 after:from-[#00000000] after:to-[#000000bf] after:bg-gradient-198 after:opacity-40"></div>
+              ))}
             {hasStaticText && (
               <div className="container w-full min-h-screen h-auto py-[100px] flex flex-col items-start justify-center relative z-2">
                 {heroData?.contentTag?.jsonValue?.fields?.tag?.value && (

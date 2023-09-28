@@ -120,8 +120,24 @@ const HeroSlider = ({ fields, rendering, params }: HeroSliderProps): JSX.Element
 
   // function to handle scroll and cta behaviour
   const handleScroll = () => {
-    const currentScrollPos = window.pageYOffset;
-    setIsSticky(currentScrollPos > wrapperHeight - 65);
+    const footer = document.getElementById('footer');
+    const scrollY = window?.scrollY;
+    let footerOffsetTop = 0;
+
+    if (footer) {
+      footerOffsetTop = document.body.offsetHeight - footer.offsetHeight;
+    }
+
+    console.log(scrollY + wrapperHeight, footerOffsetTop);
+
+    const windowHeight = window.innerHeight;
+    if (footerOffsetTop && footerOffsetTop < scrollY + windowHeight) {
+      setIsSticky(false);
+    } else if (scrollY > wrapperHeight - 65 && scrollY < footerOffsetTop - 104) {
+      setIsSticky(true);
+    } else {
+      setIsSticky(false);
+    }
   };
 
   // function to calculate height
@@ -133,6 +149,7 @@ const HeroSlider = ({ fields, rendering, params }: HeroSliderProps): JSX.Element
   useEffect(() => {
     currentHeightRef.current && calHeight();
     window.addEventListener('resize', calHeight);
+
     return () => {
       window.removeEventListener('scroll', calHeight);
     };
@@ -145,6 +162,7 @@ const HeroSlider = ({ fields, rendering, params }: HeroSliderProps): JSX.Element
       window.removeEventListener('scroll', handleScroll);
     };
   }, [calHeight]);
+
   const [textColor, setTextColor] = useState<string>('#ffffff');
   const sliderRef = useRef<Slider | null>(null);
   function PrevArrow({ onClick }: onClickInterface) {
@@ -192,7 +210,7 @@ const HeroSlider = ({ fields, rendering, params }: HeroSliderProps): JSX.Element
     arrows: true,
     nextArrow: <NextArrow />,
     prevArrow: <PrevArrow />,
-    // autoplay: params?.enableAutoplay === 'true',
+    autoplay: params?.enableAutoplay === 'true',
     autoplaySpeed: +params?.waitTime || 5000,
     speed: 300,
 
@@ -211,14 +229,12 @@ const HeroSlider = ({ fields, rendering, params }: HeroSliderProps): JSX.Element
   //   fields?.data?.datasource?.staticHeading?.jsonValue.value === '' ||
   //   fields?.data?.datasource === null;
   const hasStaticText = false;
+  const perantGradient = params?.addGradient == '1';
 
   // const heroData = fields?.data?.datasource;
   if (fields === null || fields === undefined) return <></>;
   return (
     <div className="w-full relative" ref={currentHeightRef}>
-      {params?.addGradient == '1' && (
-        <div className="absolute left-0 top-0 w-full h-full z-[1] before:content before:absolute before:w-full before:h-[243px] before:from-[#00000000] before:to-[#000000a3] before:bg-gradient-0 after:content after:absolute after:w-full after:h-full after:bottom-0 after:left-0 after:from-[#00000000] after:to-[#000000bf] after:bg-gradient-198 after:opacity-40"></div>
-      )}
       <div
         className="container  max-h-[calc(100vh-200px)] absolute left-1/2 top-1/2 -translate-y-1/2 -translate-x-1/2 z-[1] "
         style={{ color: textColor }}
@@ -258,12 +274,11 @@ const HeroSlider = ({ fields, rendering, params }: HeroSliderProps): JSX.Element
       </div>
 
       <>
-        {/* <Placeholder name="hero-slide" rendering={fields.rendering} /> */}
-
         <Placeholder
           name="hero-slide"
           rendering={rendering}
           hasStaticText={hasStaticText}
+          perantGradient={perantGradient}
           render={(components) => (
             <Slider {...sliderSettings} ref={sliderRef}>
               {components}
