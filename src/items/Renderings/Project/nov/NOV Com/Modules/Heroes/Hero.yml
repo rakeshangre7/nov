@@ -10,6 +10,50 @@ SharedFields:
 - ID: "069a8361-b1cd-437c-8c32-a3be78941446"
   Hint: Placeholders
   Value: "{105FAFDC-847D-449C-B1AE-4FBA8AEA05AD}"
+- ID: "17bb046a-a32a-41b3-8315-81217947611b"
+  Hint: ComponentQuery
+  Value: |
+    query HeroQuery(
+      $datasource: String!
+      $contextItem: String!
+      $language: String!
+    ) {
+      datasource: item(path: $datasource, language: $language) {
+        contentTag: field(name: "contentTag") {
+          jsonValue
+        }
+        heading: field(name: "heading") {
+          jsonValue
+        }
+        subheading: field(name: "subheading") {
+          jsonValue
+        }
+        cta: field(name: "cta") {
+          jsonValue
+        }
+        image: field(name: "Image") {
+          jsonValue
+        }
+        backgroundVideo: field(name: "backgroundVideo") {
+          jsonValue
+        }
+      }
+      contextItem: item(path: $contextItem, language: $language) {
+        contentTag: field(name: "contentTag") {
+          jsonValue
+        }
+        heading: field(name: "headline") {
+          jsonValue
+        }
+        subheading: field(name: "subheading") {
+          jsonValue
+        }
+        image: field(name: "pageImage") {
+          jsonValue
+        }
+      }
+    }
+    
 - ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
   Hint: Datasource Template
   Value: /sitecore/templates/Project/nov/NOV Com/Modules/Hero Modules/Hero
@@ -81,11 +125,11 @@ Languages:
         sitecore\ashwin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "3b3ff17d-cb0a-40cc-bd44-3a5684e1b62c"
+      Value: "7a2db1d3-aa67-4e6c-bc39-472796d0f2b8"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\varalakshmi.md@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230831T073900Z
+      Value: 20230927T122427Z

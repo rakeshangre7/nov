@@ -27,11 +27,11 @@ const ArticleText = ({ fields, params }: ArticleTextProps): JSX.Element => {
   const buttonDefault = buttonVariant === 'button';
   return (
     <>
-      <div className="container">
+      <div className="container article-text">
         <div className="max-w-[736px] m-auto">
           <RichTextA11yWrapper
             field={fields?.body}
-            className="text-black [&_p]:text-gray-dark [&_p]:mb-5  [&_p]:text-base [&_p]:leading-28 [&_p]:lg:leading-32 [&_h4]:text-5xl [&_h4]:leading-42 [&_h4]:mb-3.5 [&_h4]:mt-[22.5px] [&_h4]:text-black mb-5 [&_h4_strong]:font-bold"
+            className="text-black [&_p]:text-gray-dark [&_p]:mb-5  [&_p]:text-base [&_p]:leading-28 [&_p]:lg:leading-32 [&_h4]:text-5xl [&_h4]:leading-42 [&_h4]:mb-3.5 [&_h4]:mt-[22.5px] [&_h4]:text-black [&_h4_strong]:font-bold"
           />
           {fields?.ctaLink?.value?.href && (
             <Button
@@ -39,7 +39,7 @@ const ArticleText = ({ fields, params }: ArticleTextProps): JSX.Element => {
               field={fields?.ctaLink}
               className={clsx({
                 'text-red !text-base !leading-28': buttonStandard,
-                'mt-[34px]': buttonDefault,
+                'mt-[34px] h-12 inline-block': buttonDefault,
               })}
             />
           )}
