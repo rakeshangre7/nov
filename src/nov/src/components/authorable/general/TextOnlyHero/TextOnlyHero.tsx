@@ -45,8 +45,20 @@ const TextOnlyHero = ({ fields }: TextOnlyHeroProps): JSX.Element => {
 
   // function to handle scroll and cta behaviour
   const handleScroll = () => {
-    const currentScrollPos = window.pageYOffset;
-    setIsSticky(currentScrollPos > wrapperHeight);
+    const footer = document?.getElementById('footer');
+    const scrollY = window?.scrollY;
+    const footerOffsetTop = footer && document.body.offsetHeight - footer?.offsetHeight;
+
+    // Check if the footer is in the viewport
+    const windowHeight = window.innerHeight;
+    if (footerOffsetTop && footerOffsetTop < scrollY + windowHeight) {
+      setIsSticky(false); // Set isSticky to false when footer becomes visible
+    } else if (footerOffsetTop && scrollY > wrapperHeight && window.scrollY < footerOffsetTop) {
+      setIsSticky(true);
+    } else {
+      setIsSticky(false);
+    }
+    // setIsSticky(currentScrollPos > wrapperHeight && currentScrollPos < footerScrollPos);
   };
 
   // function to calculate height
@@ -57,6 +69,11 @@ const TextOnlyHero = ({ fields }: TextOnlyHeroProps): JSX.Element => {
   // useEffect to calculate height of the component
   useEffect(() => {
     currentHeightRef.current && calHeight();
+    window.addEventListener('resize', calHeight);
+
+    return () => {
+      window.removeEventListener('scroll', calHeight);
+    };
   }, []);
 
   // useEffect to attach scroll event to the component
@@ -125,7 +142,8 @@ const TextOnlyHero = ({ fields }: TextOnlyHeroProps): JSX.Element => {
               'text-black',
               '[&_p]:text-lg',
               '[&_p]:leading-28',
-              '[&_p]:last:!mb-[22.5px]'
+              '[&_p]:last:!mb-[22.5px]',
+              '[&_p]:font-normal'
             )}
           />
         </div>
