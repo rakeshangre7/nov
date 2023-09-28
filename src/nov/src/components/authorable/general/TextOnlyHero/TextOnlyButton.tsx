@@ -10,7 +10,7 @@ const TextOnlyButton = ({ ctaLink, isSticky }: TextOnlyButtonProps) => {
   return (
     <div
       className={clsx('right-0', 'left-0', 'lg:left-auto', 'bottom-0', 'text-black', {
-        fixed: isSticky,
+        'fixed z-10': isSticky,
         absolute: !isSticky,
       })}
     >
