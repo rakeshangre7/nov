@@ -21,10 +21,12 @@ export type MapLocationProps = {
 const MapLocation = ({ fields }: MapLocationProps): JSX.Element => {
   // Fail out if fields aren't present
   if (!fields || !fields.locations || !fields.locations.value) return <></>;
-  const locationsValue = fields?.locations?.value;
-  const iframeSrc = `https://locator.nov.com/?searchTerm=${locationsValue}`;
+  const searchTerm = fields?.searchTerm?.value;
+  const iframeSrc = `https://locator.nov.com/?searchTerm=${searchTerm}`;
   return (
     <>
+      {console.log(iframeSrc)}
+
       <div className="w-full pt-[30px] smd:pt-20">
         <div className="w-full relative pt-[56.25%]">
           <iframe
@@ -32,20 +34,6 @@ const MapLocation = ({ fields }: MapLocationProps): JSX.Element => {
             loading="lazy"
             src={iframeSrc}
           ></iframe>
-          <div
-            id="test"
-            dangerouslySetInnerHTML={{
-              __html: `<div class="module eloqua-form" data-name="eloqua-form"
-                 data-business-unit="${fields?.businessSegment || ''}"
-                 data-business-segments="${fields?.disableControls?.value || ''}"
-                 data-facilities="${fields?.facilities?.value || ''}"
-                 data-location="${fields?.locations?.value || ''}"
-                 data-search-term="${fields?.searchTerm?.value || ''}"
-                 data-page-url="http://qa.nov.com:3000"
-                 data-page-title="Contact Us">
-            </div>`,
-            }}
-          ></div>
         </div>
       </div>
     </>
