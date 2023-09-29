@@ -21,7 +21,7 @@ export type MapLocationProps = {
 const MapLocation = ({ fields }: MapLocationProps): JSX.Element => {
   // Fail out if fields aren't present
   if (!fields || !fields.locations || !fields.locations.value) return <></>;
-  const searchTerm = fields?.searchTerm?.value;
+  const searchTerm = fields?.searchTerm?.value || '';
   const iframeSrc = `https://locator.nov.com/?searchTerm=${searchTerm}`;
   return (
     <>
