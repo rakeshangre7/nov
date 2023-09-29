@@ -24,7 +24,7 @@ SharedFields:
   Value: "{AB0412DA-50F7-4A4E-9F72-31D62DDE6EAF}"
 - ID: "a77e8568-1ab3-44f1-a664-b7c37ec7810d"
   Hint: Parameters Template
-  Value: "{A6611F74-F15C-47EA-9CD1-9FC8B04C517D}"
+  Value: "{F6E15747-A15D-4B77-BE56-48423F904211}"
 - ID: "b5b27af1-25ef-405c-87ce-369b3a004016"
   Hint: Datasource Location
   Value: "query:$site/*[@@name='Data']/*[@@templateid='{F01F683A-767B-4AC4-8EBC-04B38472A649}']"
@@ -57,14 +57,14 @@ Languages:
         sitecore\ashwin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "702ca2a8-54b2-47b7-a534-74f67c31d8fb"
+      Value: "fdfd4d61-00a0-4f77-b648-5c91eb027f97"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\varalakshmi.md@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230913T155237Z
+      Value: 20230929T055941Z
 - Language: "en-US"
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"

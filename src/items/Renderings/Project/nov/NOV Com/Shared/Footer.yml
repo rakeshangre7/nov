@@ -54,7 +54,7 @@ SharedFields:
       homeItem: item(path: "/sitecore/content/nov/nov/Home", language: "en-US") {
         primaryMenu: children(
           hasLayout: true
-    
+          first: 20
           includeTemplateIDs: [
             "D227AB0EFD444AE0878A189949913D0B"
             "1D0EE98495274CDEAE7DCD084F4E70E2"
@@ -114,14 +114,14 @@ Languages:
         sitecore\varalakshmi.md@horizontal.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "8df41d9a-cd4b-49f3-87b7-694c21274ac4"
+      Value: "d044d534-451a-4ab1-a1a5-8f251896c0a7"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\varalakshmi.md@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230904T073423Z
+      Value: 20230929T071938Z
 - Language: "en-US"
   Versions:
   - Version: 1
