@@ -29,7 +29,7 @@ const SidebarSection = ({ fields, rendering }: SidebarSectionProps): JSX.Element
   // Fail out if fields aren't present
   if (fields === null || fields === undefined) return <></>;
   const renderLinks = () => {
-    let links = [];
+    const links = [];
     for (let i = 0; i <= 10; i++) {
       if (fields?.[`link${i}`]) {
         const isMediaLink =
