@@ -47,18 +47,21 @@ const TextOnlyHero = ({ fields }: TextOnlyHeroProps): JSX.Element => {
   const handleScroll = () => {
     const footer = document?.getElementById('footer');
     const scrollY = window?.scrollY;
-    const footerOffsetTop = footer && document.body.offsetHeight - footer?.offsetHeight;
-
+    const footerOffsetTop =
+      footer && document.body.offsetHeight - footer?.getBoundingClientRect()?.height;
     // Check if the footer is in the viewport
     const windowHeight = window.innerHeight;
     if (footerOffsetTop && footerOffsetTop < scrollY + windowHeight) {
       setIsSticky(false); // Set isSticky to false when footer becomes visible
-    } else if (footerOffsetTop && scrollY > wrapperHeight && window.scrollY < footerOffsetTop) {
+    } else if (
+      footerOffsetTop &&
+      scrollY + 65 > wrapperHeight &&
+      window.scrollY + 65 < footerOffsetTop
+    ) {
       setIsSticky(true);
     } else {
       setIsSticky(false);
     }
-    // setIsSticky(currentScrollPos > wrapperHeight && currentScrollPos < footerScrollPos);
   };
 
   // function to calculate height
@@ -106,7 +109,10 @@ const TextOnlyHero = ({ fields }: TextOnlyHeroProps): JSX.Element => {
             'flex',
             'justify-center',
             'flex-col',
-            'flex-nowrap'
+            'flex-nowrap',
+            'lg:pt-[138px]',
+            'pt-[127px]',
+            'pb-[104px]'
           )}
         >
           {currentData?.contentTag && currentData?.contentTag !== null && (
