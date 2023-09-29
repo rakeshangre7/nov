@@ -66,7 +66,6 @@ const ContentList3x1 = ({ fields }: ContentList3x1Props): JSX.Element => {
   const targetItems = fields?.data?.datasource?.pages?.targetItems;
   const cardCtaText = fields?.data?.contextItem?.cardCtaText?.jsonValue?.value;
   const FallbackImage = fields?.data?.contextItem?.cardImage?.jsonValue?.value?.src;
-
   const router = useRouter();
   if (fields === null || fields === undefined) return <></>;
 
