@@ -112,6 +112,10 @@ const PodcastFeed = ({ fields }: PodcastFeedProps): JSX.Element => {
                   text: fields?.data?.item?.loadMoreText?.jsonValue?.value,
                 },
               }}
+              className={clsx(
+                'focus:`outline-dashed outline-2 outline-gray-nov`',
+                'before:top-full'
+              )}
               onClick={(e) => handleLoadMore(e)}
             />
           </div>

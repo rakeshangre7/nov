@@ -9,9 +9,9 @@ export type TextOnlyButtonProps = {
 const TextOnlyButton = ({ ctaLink, isSticky }: TextOnlyButtonProps) => {
   return (
     <div
-      className={clsx('right-0', 'left-0', 'lg:left-auto', 'bottom-0', 'text-black', {
-        'fixed z-10': isSticky,
-        absolute: !isSticky,
+      className={clsx('right-0', 'left-0', 'lg:left-auto', 'text-black', {
+        [`fixed z-10 h-0 smd:bottom-[104px] bottom-[60px] duration-300 ease-in-out`]: isSticky,
+        'absolute bottom-0': !isSticky,
       })}
     >
       <Button
@@ -36,7 +36,8 @@ const TextOnlyButton = ({ ctaLink, isSticky }: TextOnlyButtonProps) => {
           'ease-in-out',
           'text-center',
           '[&_span]:h-full',
-          'overflow-hidden'
+          'overflow-hidden',
+          { transitionBottom: isSticky }
         )}
       />
     </div>
