@@ -25,8 +25,6 @@ const MapLocation = ({ fields }: MapLocationProps): JSX.Element => {
   const iframeSrc = `https://locator.nov.com/?searchTerm=${searchTerm}`;
   return (
     <>
-      {console.log(iframeSrc)}
-
       <div className="w-full pt-[30px] smd:pt-20">
         <div className="w-full relative pt-[56.25%]">
           <iframe
