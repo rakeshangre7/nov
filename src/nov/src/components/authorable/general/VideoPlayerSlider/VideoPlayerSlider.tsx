@@ -1,21 +1,12 @@
-import React, { MouseEventHandler, useRef } from 'react';
-
-import {
-  Placeholder,
-  ComponentRendering,
-  // PlaceholdersData,
-  // ComponentFields,
-  // ComponentParams,
-} from '@sitecore-jss/sitecore-jss-nextjs';
+import React, { useRef } from 'react';
 import Slider from 'react-slick';
 import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css';
 import Icon from '@/components/helpers/Icon/Icon';
-// Local
-
-// Ideally, all this is from generated Typescript code from Sitecore and we're not manually defining types.
+import { Placeholder, ComponentRendering } from '@sitecore-jss/sitecore-jss-nextjs';
+import useExperienceEditor from 'lib/use-experience-editor';
 interface onClickInterface {
-  onClick?: MouseEventHandler;
+  onClick?: React.MouseEventHandler;
 }
 
 interface Fields {
@@ -27,12 +18,14 @@ interface Fields {
     };
   };
 }
+
 interface VideoPlayerItem {
   uid: string;
   componentName: string;
   dataSource?: string;
   fields: Fields;
 }
+
 export type VideoPlayerSliderProps = {
   rendering: ComponentRendering;
   params: { [key: string]: string };
@@ -45,48 +38,60 @@ export type VideoPlayerSliderProps = {
 };
 
 const VideoPlayerSlider = (fields: VideoPlayerSliderProps): JSX.Element => {
-  // Fail out if fields aren't present
   const sliderRef = useRef<Slider | null>(null);
-  function PrevArrow({ onClick }: onClickInterface) {
-    return (
-      <Icon
-        className={
-          'text-4xl absolute top-2/4 -mt-6 -left-14 xl:-left-40 h-[30px] w-[30px]  text-primary icon-chevron-left z-[1] cursor-pointer basicFocus'
-        }
-        onClick={(e) => {
-          e.stopPropagation();
-          e.preventDefault();
-          if (onClick) {
-            onClick(e);
-          } else {
-            if (fields?.rendering?.placeholders?.['video-player-slider'].length) {
-              sliderRef?.current?.slickGoTo(
-                fields?.rendering?.placeholders?.['video-player-slider'].length - 1
-              );
-            }
+
+  const handleBeforeChange = (oldIndex: number) => {
+    const currentVideoPlayer = document.getElementById(`videoPlayer-${oldIndex}`);
+
+    if (currentVideoPlayer) {
+      const youtubeVideoPlayer = currentVideoPlayer.querySelector('iframe');
+      if (youtubeVideoPlayer) {
+        youtubeVideoPlayer.contentWindow?.postMessage(
+          '{"event":"command","func":"pauseVideo","args":""}',
+          '*'
+        );
+      }
+    }
+  };
+
+  const PrevArrow = ({ onClick }: onClickInterface) => (
+    <Icon
+      className={
+        'text-4xl absolute top-2/4 -mt-6 -left-14 xl:-left-40 h-[30px] w-[30px]  text-primary icon-chevron-left z-[1] cursor-pointer basicFocus'
+      }
+      onClick={(e) => {
+        e.stopPropagation();
+        e.preventDefault();
+        if (onClick) {
+          onClick(e);
+        } else {
+          if (fields?.rendering?.placeholders?.['video-player-slider'].length) {
+            sliderRef?.current?.slickGoTo(
+              fields?.rendering?.placeholders?.['video-player-slider'].length - 1
+            );
           }
-        }}
-      />
-    );
-  }
-  function NextArrow({ onClick }: onClickInterface) {
-    return (
-      <Icon
-        className={
-          'text-4xl absolute top-2/4 -mt-6 -right-14 xl:-right-40 h-[30px] w-[30px] text-primary icon-chevron-right z-[1] cursor-pointer  basicFocus'
         }
-        onClick={(e) => {
-          e.stopPropagation();
-          e.preventDefault();
-          if (onClick) {
-            onClick(e);
-          } else {
-            sliderRef?.current?.slickGoTo(0);
-          }
-        }}
-      />
-    );
-  }
+      }}
+    />
+  );
+
+  const NextArrow = ({ onClick }: onClickInterface) => (
+    <Icon
+      className={
+        'text-4xl absolute top-2/4 -mt-6 -right-14 xl:-right-40 h-[30px] w-[30px] text-primary icon-chevron-right z-[1] cursor-pointer  basicFocus'
+      }
+      onClick={(e) => {
+        e.stopPropagation();
+        e.preventDefault();
+        if (onClick) {
+          onClick(e);
+        } else {
+          sliderRef?.current?.slickGoTo(0);
+        }
+      }}
+    />
+  );
+
   const sliderSettings = {
     dots: true,
     infinite: false,
@@ -107,23 +112,35 @@ const VideoPlayerSlider = (fields: VideoPlayerSliderProps): JSX.Element => {
         },
       },
     ],
+    beforeChange: handleBeforeChange,
   };
 
+  const isExperienceEditor = useExperienceEditor();
+
   if (fields === null || fields === undefined) return <></>;
+
   return (
     <div className="w-full pt-[30px] smd:pt-20 pb-[29px]">
       <div className="mx-auto max-w-[928px] smd:px-11 ">
         {fields.rendering && (
           <>
-            <Placeholder
-              name="video-player-slider"
-              rendering={fields.rendering}
-              render={(components) => (
-                <Slider {...sliderSettings} ref={sliderRef}>
-                  {components}
-                </Slider>
-              )}
-            />
+            {!isExperienceEditor ? (
+              <Placeholder name="video-player-slider" rendering={fields.rendering} />
+            ) : (
+              <Placeholder
+                name="video-player-slider"
+                rendering={fields.rendering}
+                render={(components) => (
+                  <Slider {...sliderSettings} ref={sliderRef}>
+                    {components.map((component, index) => (
+                      <div id={`videoPlayer-${index}`} key={index}>
+                        {component}
+                      </div>
+                    ))}
+                  </Slider>
+                )}
+              />
+            )}
           </>
         )}
       </div>
@@ -131,6 +148,4 @@ const VideoPlayerSlider = (fields: VideoPlayerSliderProps): JSX.Element => {
   );
 };
 
-// @todo: Figure out how to mock isPageEditing, or if it even matters, in Storybook.
-// export default withDatasourceCheck()<VideoPlayerSliderProps>(VideoPlayerSlider);
 export default VideoPlayerSlider;

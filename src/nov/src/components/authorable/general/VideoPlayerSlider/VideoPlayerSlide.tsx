@@ -24,15 +24,25 @@ export type VideoPlayerSlideProps = {
 };
 
 const VideoPlayerSlide = ({ fields }: VideoPlayerSlideProps): JSX.Element => {
-  // Fail out if fields aren't present
+  const youtubeUrl = fields?.data?.item?.videoURL?.value;
+
+  let videoId: string | undefined = '';
+  if (youtubeUrl?.includes('youtube.com/watch?v=')) {
+    videoId = youtubeUrl.split('v=')[1];
+  } else if (youtubeUrl?.includes('youtube.com/embed/')) {
+    videoId = youtubeUrl.split('/').pop();
+  } else if (youtubeUrl?.includes('/youtu.be/')) {
+    videoId = youtubeUrl.split('/').pop();
+  }
+
   const isExperienceEditor = useExperienceEditor();
   if (fields === null || fields === undefined) return <></>;
 
   // Just a pass through if it's EE.
-  if (isExperienceEditor) {
+  if (!isExperienceEditor) {
     return (
       <div>
-        <p>video Id: {fields?.data?.item?.videoURL?.value}</p>
+        <p>video Id: {videoId}</p>
       </div>
     );
   }
