@@ -39,7 +39,7 @@ const VideoPlayerSlide = ({ fields }: VideoPlayerSlideProps): JSX.Element => {
   if (fields === null || fields === undefined) return <></>;
 
   // Just a pass through if it's EE.
-  if (!isExperienceEditor) {
+  if (isExperienceEditor) {
     return (
       <div>
         <p>video Id: {videoId}</p>

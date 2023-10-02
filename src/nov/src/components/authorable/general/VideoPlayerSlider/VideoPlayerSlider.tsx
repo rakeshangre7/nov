@@ -124,7 +124,7 @@ const VideoPlayerSlider = (fields: VideoPlayerSliderProps): JSX.Element => {
       <div className="mx-auto max-w-[928px] smd:px-11 ">
         {fields.rendering && (
           <>
-            {!isExperienceEditor ? (
+            {isExperienceEditor ? (
               <Placeholder name="video-player-slider" rendering={fields.rendering} />
             ) : (
               <Placeholder
