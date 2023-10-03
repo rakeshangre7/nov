@@ -120,36 +120,43 @@ const Button = ({
     );
   }
 
-  return (
-    <Link
-      field={field}
-      className={clsx(
-        buttonVariants({ type: variant as Variants }),
-        disabled && buttonVariants({ disabledClass: variant as Variants }),
-        {
-          // 'w-fit': auto,
-          'w-full': !auto && variant != 'primary',
-          'justify-between': !auto && iconFullWidth,
-        },
-        className
-      )}
-      showLinkTextWithChildrenPresent={false}
-      internalLinkMatcher={INTERNAL_LINK_REGEX}
-      ref={typeof ref !== 'string' ? ref : null}
-      rel={typeof rel !== 'string' ? rel : ''}
-      {...(disabled && { disabled: disabled })}
-      {...(onClick && { onClick: onClick })}
-      {...props}
-    >
-      {iconPosition === 'left' && (
-        <Icon className={clsx(buttonVariants({ iconLeft: variant as Variants }), iconClassName)} />
-      )}
-      <span>{text || field?.value?.text}</span>
-      {iconPosition === 'right' && (
-        <Icon className={clsx(buttonVariants({ iconRight: variant as Variants }), iconClassName)} />
-      )}
-    </Link>
-  );
+  if (field?.value?.href || field?.value?.text) {
+    return (
+      <Link
+        field={field}
+        className={clsx(
+          buttonVariants({ type: variant as Variants }),
+          disabled && buttonVariants({ disabledClass: variant as Variants }),
+          {
+            // 'w-fit': auto,
+            'w-full': !auto && variant != 'primary',
+            'justify-between': !auto && iconFullWidth,
+          },
+          className
+        )}
+        showLinkTextWithChildrenPresent={false}
+        internalLinkMatcher={INTERNAL_LINK_REGEX}
+        ref={typeof ref !== 'string' ? ref : null}
+        rel={typeof rel !== 'string' ? rel : ''}
+        {...(disabled && { disabled: disabled })}
+        {...(onClick && { onClick: onClick })}
+        {...props}
+      >
+        {iconPosition === 'left' && (
+          <Icon
+            className={clsx(buttonVariants({ iconLeft: variant as Variants }), iconClassName)}
+          />
+        )}
+        <span>{text || field?.value?.text}</span>
+        {iconPosition === 'right' && (
+          <Icon
+            className={clsx(buttonVariants({ iconRight: variant as Variants }), iconClassName)}
+          />
+        )}
+      </Link>
+    );
+  }
+  return <></>;
 };
 
 export default Button;
