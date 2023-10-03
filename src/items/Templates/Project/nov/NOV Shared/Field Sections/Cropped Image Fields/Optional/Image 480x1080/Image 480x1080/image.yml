@@ -6,13 +6,13 @@ Path: /sitecore/templates/Project/nov/NOV Shared/Field Sections/Cropped Image Fi
 SharedFields:
 - ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
   Hint: Source
-  Value: "CroppingOption={009DD5A3-44C8-4DED-B967-FEBE71E1881A}"
+  Value: 
 - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
   Hint: Type
   Value: Image
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: "-100"
+  Value: 100
 Languages:
 - Language: en
   Versions:
@@ -52,11 +52,11 @@ Languages:
         sitecore\ashwin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "a191c913-e662-4df3-81a1-6d086dc1eadd"
+      Value: "b06250bb-f46c-424b-ac8f-00cee00e8a93"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\rangre@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230712T110303Z
+      Value: 20231003T095315Z

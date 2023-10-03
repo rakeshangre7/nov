@@ -34,7 +34,7 @@ const StatsBlock = ({ fields }: StatsBlockProps) => {
       data-testid="statsblock"
     >
       <div className="container m-auto">
-        <div className="flex flex-col smd:flex smd:flex-row justify-between items-center">
+        <div className="flex flex-col smd:flex smd:flex-row justify-between items-stretch">
           <StatsBlockItems
             statNumber={fields.statNumber1?.value}
             suffix={fields?.suffix1?.value}
