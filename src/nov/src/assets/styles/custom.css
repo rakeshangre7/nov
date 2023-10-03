@@ -1,0 +1,11 @@
+.article-text + .article-image {
+  padding-top: 50px;
+}
+.article-image {
+  padding-top: 30px;
+}
+@media (min-width: 767px) {
+  .article-image {
+    padding-top: 80px;
+  }
+}

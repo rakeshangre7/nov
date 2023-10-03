@@ -31,15 +31,18 @@ const ContentBlockText = ({ fields, params }: ContentBlockTextProps): JSX.Elemen
   const [isRightAlign, setIsRightAlign] = useState(false);
   const [backgroundColor, setBackgroundColor] = useState('#F1F1F1');
   useEffect(() => {
-    setIsRightAlign(params.alignment === 'right');
-    setBackgroundColor(params?.backgroundColor?.split('-')?.[1]);
+    setIsRightAlign(params?.alignment?.toLowerCase() === 'right');
+    setBackgroundColor(
+      params?.backgroundColor?.split('-')?.[1]
+        ? `#${params?.backgroundColor?.split('-')?.[1]}`
+        : '#F1F1F1'
+    );
   }, []);
   const { isMiniMobile } = useBreakpoints();
 
   // Fail out if fields aren't present
   if (fields === null || fields === undefined) return <></>;
 
-  console.log('backgroundColor', backgroundColor);
   return (
     <>
       <div
@@ -55,7 +58,7 @@ const ContentBlockText = ({ fields, params }: ContentBlockTextProps): JSX.Elemen
           className={clsx(
             'bg-gray-light smd:bg-transparent pb-[100%] mx-[-25px]  h-0 mt-8 mb-[112px] smd:m-0 smd:relative smd:w-[328px] smd:py-8 lg:py-[87.5px] smd:h-fit lg:w-[544px]'
           )}
-          {...(isMiniMobile && { style: { backgroundColor: `#${backgroundColor}` } })}
+          {...(isMiniMobile && { style: { backgroundColor: `${backgroundColor}` } })}
         >
           <div
             className={clsx(
@@ -65,7 +68,7 @@ const ContentBlockText = ({ fields, params }: ContentBlockTextProps): JSX.Elemen
                 'smd:right-0': isRightAlign,
               }
             )}
-            style={{ backgroundColor: `#${backgroundColor}` }}
+            style={{ backgroundColor: `${backgroundColor}` }}
           ></div>
           <div
             className={clsx('w-full px-8 pb-8 pt-16 smd:p-0 smd:w-[264px] lg:w-[385px]', {

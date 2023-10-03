@@ -15,10 +15,11 @@ const YoutubeVideoPlayer = ({ field }: YoutubeVideoPlayerProps): JSX.Element => 
 
   // Extract the video ID from the URL
   let videoId: string | undefined = '';
-
   if (youtubeUrl.includes('youtube.com/watch?v=')) {
     videoId = youtubeUrl.split('v=')[1];
   } else if (youtubeUrl.includes('youtube.com/embed/')) {
+    videoId = youtubeUrl.split('/').pop();
+  } else if (youtubeUrl.includes('/youtu.be/')) {
     videoId = youtubeUrl.split('/').pop();
   }
   const [windowOrigin, setwindowOrigin] = useState('');

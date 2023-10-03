@@ -13,33 +13,34 @@ SharedFields:
 - ID: "17bb046a-a32a-41b3-8315-81217947611b"
   Hint: ComponentQuery
   Value: |
-    query HeroQuery($datasource: String!, $contextItem: String!, $language: String!) {
-      datasource: item(path: $datasource, language: $language) {	
-    heading : field(name: "heading") {
-    	  jsonValue
-    	}
-        image: field(name: "image"){
+    query HeroSlider($datasource: String!,$contextItem: String!, $language: String!) {
+      datasource: item(path: $datasource, language: $language) {
+        contentTag: field(name: "contentTag") {
           jsonValue
         }
-          subheading: field(name: "subheading"){
+        heading: field(name: "staticHeading") {
           jsonValue
         }
-          cta: field(name: "cta"){
+        subheading: field(name: "staticSubheading") {
+          jsonValue
+        }
+        contactLink: field(name: "contactLink") {
           jsonValue
         }
       }
-      contextItem: item(path: $contextItem, language: $language) {
-    	
-    	heading : field(name: "headline") {
-    	  jsonValue
-    	}
-        	subheading : field(name: "subheading") {
-    	  jsonValue
-    	}
-        	image : field(name: "pageImage") {
-    	  jsonValue
-    	}
-        
+       contextItem: item(path: $contextItem, language: $language) {
+        contentTag: field(name: "contentTag") {
+          jsonValue
+        }
+        heading: field(name: "headline") {
+          jsonValue
+        }
+        subheading: field(name: "subheading") {
+          jsonValue
+        }
+        image: field(name: "pageImage") {
+          jsonValue
+        }
       }
     }
 - ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
@@ -72,14 +73,14 @@ Languages:
       Value: 20190121T230931Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "eae9fae0-6893-44ef-8a0c-1d8087feab22"
+      Value: "cf0c9c5b-6211-454b-914d-c6b0bdcb85d6"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\varalakshmi.md@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230913T155239Z
+      Value: 20230927T122248Z
 - Language: "en-US"
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
