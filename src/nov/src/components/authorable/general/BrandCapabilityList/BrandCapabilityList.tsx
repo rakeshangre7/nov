@@ -36,29 +36,22 @@ const BrandCapabilityList = ({ fields }: BrandCapabilityListProps): JSX.Element 
             />
           )}
         </div>
-        {!fields?.backgroundVideo?.value && fields?.image?.value?.src && (
-          <ImageWrapper
-            field={fields.image}
-            className="w-full h-full max-w-[528px] mb-0 p-0 hidden lg:inline-block"
-          />
-        )}
-        {fields?.backgroundVideo?.value && (
-          <Mp4VideoPlayer
-            autoplay={true}
-            loop={true}
-            muted={true}
-            className="w-full h-full !min-w-[528px] max-w-[528px] mb-0 p-0 hidden lg:inline-block"
-            controls={false}
-            field={{
-              image: {
-                value: fields.image?.value?.src || '',
-              },
-              videoid: {
-                value: fields?.backgroundVideo?.value,
-              },
-            }}
-          />
-        )}
+
+        <Mp4VideoPlayer
+          autoplay={true}
+          loop={true}
+          muted={true}
+          className="w-full h-full !min-w-[528px] max-w-[528px] mb-0 p-0 hidden lg:inline-block"
+          controls={false}
+          field={{
+            image: {
+              value: fields.image?.value?.src || '',
+            },
+            videoid: {
+              value: fields?.backgroundVideo?.value || '',
+            },
+          }}
+        />
       </div>
       {fields?.brandCapabilityList?.length && fields?.brandCapabilityList?.length > 0 ? (
         <ul className="mt-6 pl-8 pb-8 smd:gap-20 smd:columns-3">
