@@ -6,7 +6,7 @@ Path: /sitecore/templates/Project/nov/NOV Shared/Field Sections/Social/Social Li
 SharedFields:
 - ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
   Hint: Source
-  Value: "query:./self:://*[@@templateid='{3241CCF6-5818-4294-A855-ECFC784738D6}']"
+  Value: "{98A483AA-9A5F-4B9A-BB78-A479C24F3D42}"
 - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
   Hint: Type
   Value: Multilist
@@ -27,14 +27,14 @@ Languages:
         sitecore\varalakshmi.md@horizontal.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "66e2d6dc-8d6f-4fc0-a111-247974b1d473"
+      Value: "422077c5-6018-49a6-8dfd-36f8969e778a"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\varalakshmi.md@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230820T071026Z
+      Value: 20230929T114621Z
 - Language: "en-US"
   Versions:
   - Version: 1
