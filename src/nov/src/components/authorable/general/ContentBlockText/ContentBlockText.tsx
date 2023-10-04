@@ -81,7 +81,7 @@ const ContentBlockText = ({ fields, params }: ContentBlockTextProps): JSX.Elemen
                 autoplay={true}
                 loop={true}
                 muted={true}
-                className="w-full h-auto min-h-[312px] smd:min-h-[264px] lg:min-h-[385px]"
+                className="w-full h-auto !min-h-[312px] smd:!min-h-[264px] lg:!min-h-[385px]"
                 controls={false}
                 field={{
                   image: {
@@ -106,11 +106,11 @@ const ContentBlockText = ({ fields, params }: ContentBlockTextProps): JSX.Elemen
         >
           <Text
             tag="h2"
-            className="text-black !text-2xl !leading-40 sm:!leading-48 lg:!text-5xl lg:!leading-40"
+            className="text-black !text-2xl !leading-40 sm:!leading-48 lg:!text-5xl lg:!leading-40 mb-[14px]"
             field={fields?.heading}
           />
           <RichTextA11yWrapper
-            className="[&_p]:mt-[20px] [&_p]:!leading-28 [&_p]:lg:!leading-32 [&_a]:!text-base !leading-28 lg:!leading-32 [&>p]:!mt-3.5 [&_p]:mb-0 mb-0"
+            className="[&_p]:mb-[20px] [&_p]:!leading-28 [&_p]:lg:!leading-32 [&_a]:!text-base !leading-28 lg:!leading-32"
             field={fields?.body}
           />
           {fields?.cta && (
