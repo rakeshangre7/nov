@@ -167,7 +167,7 @@ const HeroSlider = ({ fields, rendering, params }: HeroSliderProps): JSX.Element
     return (
       <Icon
         className={
-          'text-[52px] absolute top-1/2 -translate-y-1/2 left-2 lg:left-8 h-[50px] w-[50px]  text-primary icon-chevron-left z-[1] cursor-pointer basicFocus'
+          'text-[52px] absolute top-1/2 -translate-y-1/2 left-2 lg:left-8 h-[50px] w-[50px]  text-white icon-chevron-left z-[1] cursor-pointer basicFocus'
         }
         onClick={(e) => {
           e.stopPropagation();
@@ -187,7 +187,7 @@ const HeroSlider = ({ fields, rendering, params }: HeroSliderProps): JSX.Element
     return (
       <Icon
         className={
-          'text-[52px] absolute top-1/2 -translate-y-1/2 right-2 lg:right-8 h-[50px] w-[50px] text-primary icon-chevron-right z-[1] cursor-pointer  basicFocus'
+          'text-[52px] absolute top-1/2 -translate-y-1/2 right-2 lg:right-8 h-[50px] w-[50px] text-white icon-chevron-right z-[1] cursor-pointer  basicFocus'
         }
         onClick={(e) => {
           e.stopPropagation();
