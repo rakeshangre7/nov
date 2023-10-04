@@ -167,7 +167,7 @@ const HeroSlider = ({ fields, rendering, params }: HeroSliderProps): JSX.Element
     return (
       <Icon
         className={
-          'text-[52px] absolute top-1/2 -translate-y-1/2 left-8 h-[50px] w-[50px]  text-primary icon-chevron-left z-[1] cursor-pointer basicFocus'
+          'text-[52px] absolute top-1/2 -translate-y-1/2 left-2 lg:left-8 h-[50px] w-[50px]  text-primary icon-chevron-left z-[1] cursor-pointer basicFocus'
         }
         onClick={(e) => {
           e.stopPropagation();
@@ -187,7 +187,7 @@ const HeroSlider = ({ fields, rendering, params }: HeroSliderProps): JSX.Element
     return (
       <Icon
         className={
-          'text-[52px] absolute top-1/2 -translate-y-1/2 right-8 h-[50px] w-[50px] text-primary icon-chevron-right z-[1] cursor-pointer  basicFocus'
+          'text-[52px] absolute top-1/2 -translate-y-1/2 right-2 lg:right-8 h-[50px] w-[50px] text-primary icon-chevron-right z-[1] cursor-pointer  basicFocus'
         }
         onClick={(e) => {
           e.stopPropagation();
@@ -216,7 +216,7 @@ const HeroSlider = ({ fields, rendering, params }: HeroSliderProps): JSX.Element
     slidesToScroll: 1,
 
     dotsClass:
-      'button__bar z-[1] container w-full !flex absolute left-1/2 -translate-x-1/2 bottom-6 justify-start	 [&>li>button]:w-3 [&>li>button]:h-3 [&>li>button]:mx-1.5 [&>li>button]:text-[0] [&>li>button]:bg-gray-novLight [&>li>button]:rounded-full [&>li>button]:border-2 [&>li>button]:border-white [&>.slick-active>button]:bg-white [&>.slick-active>button]:border-primary [&>li>button:hover]:bg-white [&>li>button:hover]:border-primary [&>li>button]:outline-0 [&>li>button]:transition [&>li>button]:duration-300 [&>li>button]:ease',
+      'button__bar z-[1] container w-full !flex absolute left-1/2 -translate-x-1/2 bottom-6 justify-center lg:justify-star [&>li>button]:w-3 [&>li>button]:h-3 [&>li>button]:mx-1.5 [&>li>button]:text-[0] [&>li>button]:bg-gray-novLight [&>li>button]:rounded-full [&>li>button]:border-2 [&>li>button]:border-white [&>.slick-active>button]:bg-white [&>.slick-active>button]:border-primary [&>li>button:hover]:bg-white [&>li>button:hover]:border-primary [&>li>button]:outline-0 [&>li>button]:transition [&>li>button]:duration-300 [&>li>button]:ease',
   };
   useEffect(() => {
     setTextColor(
@@ -234,7 +234,7 @@ const HeroSlider = ({ fields, rendering, params }: HeroSliderProps): JSX.Element
   return (
     <div className="w-full relative" ref={currentHeightRef}>
       <div
-        className="container  max-h-[calc(100vh-200px)] absolute left-1/2 top-1/2 -translate-y-1/2 -translate-x-1/2 z-[1] "
+        className="container px-[40px] sm:px-[62px] l:px-[25px] max-h-[calc(100vh-200px)] absolute left-1/2 top-1/2 -translate-y-1/2 -translate-x-1/2 z-[1] "
         style={{ color: textColor }}
       >
         {heroData?.contentTag?.jsonValue?.fields?.tag?.value && (
