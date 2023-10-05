@@ -52,7 +52,9 @@ const PodcastFeed = ({ fields }: PodcastFeedProps): JSX.Element => {
   // Fail out if fields aren't present
 
   const resultsArray = fields?.data?.item?.field?.targetItem?.children?.results;
-  const [visibleAray, setVisibleArray] = useState<Array<ResultArray>>(resultsArray.slice(0, 9));
+  const [visibleAray, setVisibleArray] = useState<Array<ResultArray>>(
+    resultsArray.slice(0, fields?.data?.item?.initialItemCount?.jsonValue?.value)
+  );
   const [showLoadMore, setShowLoadMore] = useState<boolean>(true);
 
   useEffect(() => {
@@ -67,7 +69,10 @@ const PodcastFeed = ({ fields }: PodcastFeedProps): JSX.Element => {
   const handleLoadMore = (e: React.MouseEvent<Element, MouseEvent>) => {
     e.preventDefault();
     if (resultsArray.length - visibleAray.length > 0) {
-      const nextLoadItems = resultsArray.slice(visibleAray.length, visibleAray.length + 6);
+      const nextLoadItems = resultsArray.slice(
+        visibleAray.length,
+        visibleAray.length + fields?.data?.item?.loadMoreCount?.jsonValue?.value
+      );
       setVisibleArray([...visibleAray, ...nextLoadItems]);
     } else {
       setShowLoadMore(false);
