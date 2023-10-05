@@ -2,7 +2,7 @@ import { Field, LinkField } from '@sitecore-jss/sitecore-jss-nextjs';
 import StatsBlockItems from './StatsBlockItems';
 
 export interface StatsBlock {
-  params?: string;
+  alignment?: string;
   suffix1?: Field<string>;
   suffix2?: Field<string>;
   suffix3?: Field<string>;
@@ -38,21 +38,21 @@ const StatsBlock = ({ fields, params }: StatsBlockProps) => {
             suffix={fields?.suffix1?.value}
             statText={fields?.statText1?.value}
             statCTA={fields?.statCTA1}
-            params={params?.alignment}
+            alignment={params?.alignment}
           />
           <StatsBlockItems
             statNumber={fields?.statNumber2?.value}
             suffix={fields?.suffix2?.value}
             statText={fields?.statText2?.value}
             statCTA={fields?.statCTA2}
-            params={params?.alignment}
+            alignment={params?.alignment}
           />
           <StatsBlockItems
             statNumber={fields?.statNumber3?.value}
             suffix={fields?.suffix3?.value}
             statText={fields?.statText3?.value}
             statCTA={fields?.statCTA3}
-            params={params?.alignment}
+            alignment={params?.alignment}
           />
         </div>
       </div>

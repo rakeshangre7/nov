@@ -4,7 +4,7 @@ import Button from '@/components/helpers/Button/Button';
 
 export type StatsBlockItemsProps = {
   statNumber?: string | number | undefined;
-  params?: string;
+  alignment?: string;
 
   suffix?: string | number | undefined;
   statText?: string | number | undefined;
@@ -13,7 +13,7 @@ export type StatsBlockItemsProps = {
 
 const StatsBlockItems = ({
   statNumber,
-  params,
+  alignment,
   suffix,
   statText,
   statCTA,
@@ -84,7 +84,7 @@ const StatsBlockItems = ({
           tag="span"
           field={{
             value: suffix
-              ? params === 'right'
+              ? alignment === 'right'
                 ? `${statNumber} ${suffix || ''}`
                 : `${suffix || ''} ${statNumber}`
               : typeof animatedNumber === 'number'
