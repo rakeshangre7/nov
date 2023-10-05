@@ -98,11 +98,11 @@ export type ProductHeroSliderProps = {
   componentName: string;
   dataSource?: string;
   placeholders?: {
-    'hero-slide'?: Array<ProductHeroSliderItem>;
+    'product-hero'?: Array<ProductHeroSliderItem>;
   };
   fields?: {
     placeholders?: {
-      'hero-slide'?: Array<ProductHeroSliderItem>;
+      'product-hero'?: Array<ProductHeroSliderItem>;
     };
     data?: {
       datasource?: heroData | null;
@@ -176,8 +176,8 @@ const ProductHeroSlider = ({ fields, rendering, params }: ProductHeroSliderProps
           if (onClick) {
             onClick(e);
           } else {
-            if (fields?.placeholders?.['hero-slide']?.length) {
-              sliderRef?.current?.slickGoTo(fields?.placeholders?.['hero-slide'].length - 1);
+            if (fields?.placeholders?.['product-hero']?.length) {
+              sliderRef?.current?.slickGoTo(fields?.placeholders?.['product-hero'].length - 1);
             }
           }
         }}
@@ -231,8 +231,11 @@ const ProductHeroSlider = ({ fields, rendering, params }: ProductHeroSliderProps
   // const heroData = fields?.data?.datasource;
   if (fields === null || fields === undefined) return <></>;
   return (
-    <div className="w-full relative" ref={currentHeightRef}>
-      <div className="container px-[40px] sm:px-[62px] l:px-[25px]" style={{ color: textColor }}>
+    <div className="w-full min-h-screen relative py-[100px]" ref={currentHeightRef}>
+      <div
+        className="container px-[40px] sm:px-[62px] l:px-[25px] z-[1] relative"
+        style={{ color: textColor }}
+      >
         {heroData?.contentTag?.jsonValue?.fields?.tag?.value && (
           <Text
             tag="div"
@@ -270,17 +273,19 @@ const ProductHeroSlider = ({ fields, rendering, params }: ProductHeroSliderProps
         </div>
       </div>
       <>
-        {/* <Placeholder
-          name="hero-slide"
-          rendering={rendering}
-          hasStaticText={hasStaticText}
-          perantGradient={perantGradient}
-          render={(components) => (
-            <Slider {...sliderSettings} ref={sliderRef}>
-              {components}
-            </Slider>
-          )}
-        /> */}
+        <div className="absolute w-full top-0 left-0 h-full z-0 [&_div]:h-full">
+          <Placeholder
+            name="product-hero"
+            rendering={rendering}
+            // hasStaticText={hasStaticText}
+            // perantGradient={perantGradient}
+            render={(components) => (
+              <Slider {...sliderSettings} ref={sliderRef}>
+                {components}
+              </Slider>
+            )}
+          />
+        </div>
       </>
       {heroData?.cta?.jsonValue?.value?.text && heroData?.cta?.jsonValue?.value?.href && (
         <TextOnlyButton ctaLink={heroData?.cta?.jsonValue} isSticky={isSticky} />
