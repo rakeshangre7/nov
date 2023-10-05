@@ -5,6 +5,7 @@ import Button from '@/components/helpers/Button/Button';
 export type StatsBlockItemsProps = {
   statNumber?: string | number | undefined;
   alignment?: string;
+
   suffix?: string | number | undefined;
   statText?: string | number | undefined;
   statCTA?: LinkField | undefined;
@@ -12,7 +13,7 @@ export type StatsBlockItemsProps = {
 
 const StatsBlockItems = ({
   statNumber,
-  alignment = 'right', // Default to 'right' if alignment is not provided
+  alignment,
   suffix,
   statText,
   statCTA,
@@ -76,8 +77,6 @@ const StatsBlockItems = ({
       : animatedNumber.toString()
     : animatedNumber.toLocaleString();
 
-  const statNumberClass = alignment === 'right' ? 'text-right' : 'text-left';
-
   return (
     <div className=" mb-[30px] last:mb-0  smd:mb-0 text-center flex-1 w-full" ref={statsBlockRef}>
       {statNumber && (
@@ -92,7 +91,7 @@ const StatsBlockItems = ({
               ? animatedNumber.toLocaleString()
               : valueToDisplay,
           }}
-          className={`text-black text-[72px] smd:text-[60px] xl:text-[88px] font-bold font-primary leading-[0.72] smd:leading-[0.82] ${statNumberClass}`}
+          className={`text-black text-[72px] smd:text-[60px] xl:text-[88px] font-bold font-primary leading-[0.72] smd:leading-[0.82] `}
         />
       )}
 

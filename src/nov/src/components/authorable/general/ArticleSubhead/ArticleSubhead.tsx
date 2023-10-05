@@ -3,6 +3,7 @@ import { Field } from '@sitecore-jss/sitecore-jss-nextjs';
 import RichTextA11yWrapper from '@/components/helpers/RichTextA11yWrapper/RichTextA11yWrapper';
 import moment from 'moment';
 import { dateFormat } from '@/components/helpers/CommonData/helper';
+import clsx from 'clsx';
 
 // Local
 
@@ -52,29 +53,34 @@ const ArticleSubhead = ({ fields }: ArticleSubheadProps): JSX.Element => {
                 )}
               <RichTextA11yWrapper
                 field={fields?.data?.datasource?.subheadText?.jsonValue}
-                className=" 
-              [&_p:first-of-type:first-letter]:lg:text-[115px] 
-              [&_p:first-of-type:first-letter]:text-[67px] 
-              [&_p:first-of-type:first-letter]:leading-[0.79] 
-              [&_p:first-of-type:first-letter]:float-left
-              [&_p:first-of-type]:font-semibold 
-              [&_p:first-of-type:first-letter]:font-bold
-              [&_p:first-of-type:first-letter]:pr-[10px] 
-              [&_p:first-of-type:first-letter]:lg:-ml-[7px] 
-              [&_p:first-of-type:first-letter]:-ml-1  
-              [&_p]:text-base 
-              [&_p]:leading-28 
-              [&_p]:lg:leading-32
-              [&_p]:mb-5          
-              [&_p]:text-black 
-              [&_p:first-of-type_a]:font-semibold 
-              [&_a]:text-base 
-              [&_a]:inline
-              [&_p]:mt-0
-              [&_p_a]:lg:leading-32
-              [&_p_a]:leading-28
-              mb-5
-              "
+                className={clsx(
+                  '[&_p:first-of-type:first-letter]:lg:text-[115px]',
+                  '[&_p:first-of-type:first-letter]:text-[67px] ',
+                  '[&_p:first-of-type:first-letter]:leading-[0.79]',
+                  '[&_p:first-of-type:first-letter]:float-left',
+                  '[&_p:first-of-type]:font-semibold',
+                  '[&_p:first-of-type:first-letter]:font-bold',
+                  '[&_p:first-of-type:first-letter]:pr-[10px]',
+                  '[&_p:first-of-type:first-letter]:lg:-ml-[7px]',
+                  '[&_p:first-of-type:first-letter]:-ml-1',
+                  '[&_p]:text-base',
+                  '[&_p]:leading-28',
+                  '[&_p]:lg:leading-32',
+                  '[&_p]:mb-5',
+                  '[&_p]:text-black',
+                  '[&_p:first-of-type_a]:font-semibold',
+                  '[&_a]:text-base',
+                  '[&_a]:inline',
+                  '[&_p]:mt-0',
+                  '[&_p_a]:lg:leading-32',
+                  '[&_p_a]:leading-28',
+                  'mb-5',
+                  {
+                    'lg:pt-8 pt-6':
+                      fields?.data?.datasource?.showDate?.jsonValue?.value === false ||
+                      dateValue === '0001-01-01T00:00:00Z',
+                  }
+                )}
               />
             </div>
           </div>
