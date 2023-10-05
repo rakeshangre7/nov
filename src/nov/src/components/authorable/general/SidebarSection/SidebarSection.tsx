@@ -30,7 +30,7 @@ const SidebarSection = ({ fields, rendering }: SidebarSectionProps): JSX.Element
   if (fields === null || fields === undefined) return <></>;
   const renderLinks = () => {
     const links = [];
-    for (let i = 0; i <= 10; i++) {
+    for (let i = 1; i <= 6; i++) {
       if (fields?.[`link${i}`]) {
         const isMediaLink =
           fields?.[`link${i}`]?.value?.href &&

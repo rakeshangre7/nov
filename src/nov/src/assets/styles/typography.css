@@ -50,6 +50,12 @@
   .rte h4 {
     @apply h4;
   }
+  .rte ul{
+    @apply pl-5
+  }
+  .rte ul li {
+    @apply list-disc;
+  }
   .rte li,
   .rte p {
     @apply font-primary font-normal text-base leading-28 tracking-normal;
