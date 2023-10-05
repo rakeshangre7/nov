@@ -218,7 +218,7 @@ const HeroSlider = ({ fields, rendering, params }: HeroSliderProps): JSX.Element
     slidesToScroll: 1,
 
     dotsClass:
-      'button__bar z-[1] container w-full !flex absolute left-1/2 -translate-x-1/2 bottom-6 justify-center lg:justify-star [&>li>button]:w-3 [&>li>button]:h-3 [&>li>button]:mx-1.5 [&>li>button]:text-[0] [&>li>button]:bg-gray-novLight [&>li>button]:rounded-full [&>li>button]:border-2 [&>li>button]:border-white [&>.slick-active>button]:bg-white [&>.slick-active>button]:border-primary [&>li>button:hover]:bg-white [&>li>button:hover]:border-primary [&>li>button]:outline-0 [&>li>button]:transition [&>li>button]:duration-300 [&>li>button]:ease',
+      'button__bar z-[1] container w-full !flex absolute left-1/2 -translate-x-1/2 bottom-6 justify-center lg:justify-start [&>li>button]:w-3 [&>li>button]:h-3 [&>li>button]:mx-1.5 [&>li>button]:text-[0] [&>li>button]:bg-gray-novLight [&>li>button]:rounded-full [&>li>button]:border-2 [&>li>button]:border-white [&>.slick-active>button]:bg-white [&>.slick-active>button]:border-primary [&>li>button:hover]:bg-white [&>li>button:hover]:border-primary [&>li>button]:outline-0 [&>li>button]:transition [&>li>button]:duration-300 [&>li>button]:ease',
   };
   useEffect(() => {
     setTextColor(
