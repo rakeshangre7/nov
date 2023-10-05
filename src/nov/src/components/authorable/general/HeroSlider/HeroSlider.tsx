@@ -234,13 +234,14 @@ const HeroSlider = ({ fields, rendering, params }: HeroSliderProps): JSX.Element
   // const heroData = fields?.data?.datasource;
   if (fields === null || fields === undefined) return <></>;
   return (
-    <div className="w-full relative py-[100px]" ref={currentHeightRef}>
+    <div
+      className="w-full min-h-screen flex items-center relative py-[100px]"
+      ref={currentHeightRef}
+    >
       <div
-        // className="container px-[40px] sm:px-[62px] l:px-[25px] max-h-[calc(100vh-200px)] absolute left-1/2 top-1/2 -translate-y-1/2 -translate-x-1/2 z-[1] "
         className={`container  relative z-[1] ${
           placeholdersLength ? 'px-[40px] sm:px-[62px] l:px-[25px]' : 'px-[25px]'
         }`}
-        // className="container px-[40px] sm:px-[62px] l:px-[25px] relative z-[1] "
         style={{ color: textColor }}
       >
         {heroData?.contentTag?.jsonValue?.fields?.tag?.value && (
