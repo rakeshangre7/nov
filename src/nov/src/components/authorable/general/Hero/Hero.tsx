@@ -89,7 +89,7 @@ const Hero = ({ fields, params, hasStaticText, perantGradient }: HeroProps): JSX
       <div className="min-h-screen w-full overflow-hidden relative">
         <div className="overflow-hidden w-full min-h-screen h-auto relative">
           <div
-            className="bg-no-repeat h-screen bg-center bg-cover items-center flex justify-center"
+            className="bg-no-repeat min-h-screen bg-center bg-cover items-center flex justify-center"
             style={{
               ...(heroData?.image?.jsonValue?.value?.src && {
                 backgroundImage: `url(${heroData?.image.jsonValue?.value?.src})`,
@@ -137,7 +137,7 @@ const Hero = ({ fields, params, hasStaticText, perantGradient }: HeroProps): JSX
                 )}
                 {heroData?.subheading?.jsonValue?.value && (
                   <RichTextA11yWrapper
-                    className="max-w-[640px] mt-[37px] text-lg leading-28 [&>p]:text-lg [&>p]:leading-28 [&>p]:mb-5"
+                    className="max-w-[640px] mt-[37px] text-lg leading-28 [&>p]:text-lg [&>p]:leading-28 [&>p]:mb-5 [&>p:last-of-type]:!mb-5"
                     data-testid="contentblock"
                     field={heroData?.subheading?.jsonValue}
                     editable
