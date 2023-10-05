@@ -5,7 +5,7 @@ import React from 'react';
 import { Project } from '.generated/templates/Project.Item.model';
 import { Sitecore } from '.generated/templates/_.Sitecore.Override';
 import clsx from 'clsx';
-import { LinkField, Text } from '@sitecore-jss/sitecore-jss-nextjs';
+import { LinkField } from '@sitecore-jss/sitecore-jss-nextjs';
 import FlipCardInner from './FlipCardInner';
 import RichTextA11yWrapper from '@/components/helpers/RichTextA11yWrapper/RichTextA11yWrapper';
 import Button from '@/components/helpers/Button/Button';
