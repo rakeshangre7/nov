@@ -14,6 +14,7 @@ export type StatsBlockItemsProps = {
 const StatsBlockItems = ({
   statNumber,
   alignment,
+
   suffix,
   statText,
   statCTA,
