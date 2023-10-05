@@ -35,7 +35,7 @@ const AuthorsBlockItem = ({ author, showTopBorder }: AuthorsBlockProps) => {
       <div className="flex justify-center">
         <div
           key={author.id}
-          className={clsx('border-b-[1px] border-gray-light cursor-pointer w-full', {
+          className={clsx('border-b-[1px] border-gray-light cursor-pointer w-full ', {
             'border-t-[1px]': showTopBorder,
           })}
         >
