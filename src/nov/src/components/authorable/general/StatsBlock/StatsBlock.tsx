@@ -2,9 +2,7 @@ import { Field, LinkField } from '@sitecore-jss/sitecore-jss-nextjs';
 import StatsBlockItems from './StatsBlockItems';
 
 export interface StatsBlock {
-  params?: {
-    alignment?: string;
-  };
+  params?: string;
   suffix1?: Field<string>;
   suffix2?: Field<string>;
   suffix3?: Field<string>;
@@ -25,7 +23,7 @@ export type StatsBlockProps = {
   fields: StatsBlock;
 };
 
-const StatsBlock = ({ fields }: StatsBlockProps) => {
+const StatsBlock = ({ fields, params }: StatsBlockProps) => {
   if (fields === null || fields === undefined) return <></>;
   return (
     <div
@@ -36,22 +34,25 @@ const StatsBlock = ({ fields }: StatsBlockProps) => {
       <div className="container m-auto">
         <div className="flex flex-col smd:flex smd:flex-row justify-between items-stretch">
           <StatsBlockItems
-            statNumber={fields.statNumber1?.value}
+            statNumber={fields?.statNumber1?.value}
             suffix={fields?.suffix1?.value}
             statText={fields?.statText1?.value}
             statCTA={fields?.statCTA1}
+            params={params?.alignment}
           />
           <StatsBlockItems
-            statNumber={fields.statNumber2?.value}
+            statNumber={fields?.statNumber2?.value}
             suffix={fields?.suffix2?.value}
             statText={fields?.statText2?.value}
             statCTA={fields?.statCTA2}
+            params={params?.alignment}
           />
           <StatsBlockItems
-            statNumber={fields.statNumber3?.value}
+            statNumber={fields?.statNumber3?.value}
             suffix={fields?.suffix3?.value}
             statText={fields?.statText3?.value}
             statCTA={fields?.statCTA3}
+            params={params?.alignment}
           />
         </div>
       </div>
