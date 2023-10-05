@@ -10,11 +10,6 @@ import { Text } from '@sitecore-jss/sitecore-jss-nextjs';
 
 // Ideally, all this is from generated Typescript code from Sitecore and we're not manually defining types.
 
-// interface Fields {
-//   videoURL: {
-//     value: string;
-//   };
-// }
 export type ArticleImageProps = Sitecore.Override.ComponentBase &
   Project.Item.NovCom.Modules.Fields.ArticleImage;
 
