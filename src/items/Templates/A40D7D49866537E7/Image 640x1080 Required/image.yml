@@ -6,7 +6,7 @@ Path: /sitecore/templates/Project/nov/NOV Shared/Field Sections/Cropped Image Fi
 SharedFields:
 - ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
   Hint: Source
-  Value: "CroppingOption={25179173-5B5F-4E01-B3BE-238EBF4CCFDE}"
+  Value: 
 - ID: "21828437-ea4b-40a1-8c61-4ce60ea41db6"
   Hint: Validate Button
   Value: "{59D4EE10-627C-4FD3-A964-61A88B092CBC}"
@@ -24,7 +24,7 @@ SharedFields:
   Value: Image
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 100
+  Value: 12
 Languages:
 - Language: en
   Versions:
@@ -39,14 +39,14 @@ Languages:
         sitecore\varalakshmi.md@horizontal.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "253bb312-43c6-4f38-9a75-ea0666ce1d63"
+      Value: "3cfc617e-2845-4c3b-8997-e3aacfc7b98c"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\varalakshmi.md@horizontal.com
+        sitecore\rangre@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230705T093619Z
+      Value: 20230925T132214Z
 - Language: "en-US"
   Versions:
   - Version: 1
@@ -64,11 +64,11 @@ Languages:
         sitecore\ashwin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "8dbb1e0c-fe04-4b80-b54a-2858c2fa32d8"
+      Value: "9be63f8b-63a5-4688-b026-9f3182754a7d"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\rangre@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230712T110309Z
+      Value: 20231003T095645Z

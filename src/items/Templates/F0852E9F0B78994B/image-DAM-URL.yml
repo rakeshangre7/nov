@@ -1,5 +1,5 @@
 ﻿---
-ID: "0ef30fb1-3455-412d-ac03-c28484c7fe7c"
+ID: "e0dccb0b-c578-45f2-a4d2-319355008432"
 Parent: "9d1e4d60-2bf0-4c5b-a723-8c6d7f66baa1"
 Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
 Path: "/sitecore/templates/Project/nov/NOV Shared/Field Sections/Cropped Image Fields/Optional/Image 393x600/Image 393x600/image-DAM-URL"
@@ -7,18 +7,17 @@ SharedFields:
 - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
   Hint: Type
   Value: "Single-Line Text"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
 Languages:
 - Language: "en-US"
-  Fields:
-  - ID: "19a69332-a23e-4e70-8d16-b2640cb24cc8"
-    Hint: Title
-    Value: image DAM URL
   Versions:
   - Version: 1
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20230925T112826Z
+      Value: 20230925T130551Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -29,11 +28,11 @@ Languages:
         sitecore\rangre@horizontal.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "26e61f8a-5d60-4954-94a0-07aa6baf1a5f"
+      Value: "0e7278c7-0b80-41dc-9d56-bc6312ccb089"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\rangre@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230925T112826Z
+      Value: 20230925T130552Z

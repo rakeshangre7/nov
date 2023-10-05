@@ -43,7 +43,6 @@ const ContentBlockText = ({ fields, params }: ContentBlockTextProps): JSX.Elemen
   // Fail out if fields aren't present
   if (fields === null || fields === undefined) return <></>;
 
-  console.log('backgroundColor', backgroundColor);
   return (
     <>
       <div
@@ -59,7 +58,7 @@ const ContentBlockText = ({ fields, params }: ContentBlockTextProps): JSX.Elemen
           className={clsx(
             'bg-gray-light smd:bg-transparent pb-[100%] mx-[-25px]  h-0 mt-8 mb-[112px] smd:m-0 smd:relative smd:w-[328px] smd:py-8 lg:py-[87.5px] smd:h-fit lg:w-[544px]'
           )}
-          {...(isMiniMobile && { style: { backgroundColor: `#${backgroundColor}` } })}
+          {...(isMiniMobile && { style: { backgroundColor: `${backgroundColor}` } })}
         >
           <div
             className={clsx(
@@ -69,7 +68,7 @@ const ContentBlockText = ({ fields, params }: ContentBlockTextProps): JSX.Elemen
                 'smd:right-0': isRightAlign,
               }
             )}
-            style={{ backgroundColor: `#${backgroundColor}` }}
+            style={{ backgroundColor: `${backgroundColor}` }}
           ></div>
           <div
             className={clsx('w-full px-8 pb-8 pt-16 smd:p-0 smd:w-[264px] lg:w-[385px]', {
@@ -82,7 +81,7 @@ const ContentBlockText = ({ fields, params }: ContentBlockTextProps): JSX.Elemen
                 autoplay={true}
                 loop={true}
                 muted={true}
-                className="w-full h-auto min-h-[312px] smd:min-h-[264px] lg:min-h-[385px]"
+                className="w-full h-auto !min-h-[312px] smd:!min-h-[264px] lg:!min-h-[385px]"
                 controls={false}
                 field={{
                   image: {
@@ -107,11 +106,11 @@ const ContentBlockText = ({ fields, params }: ContentBlockTextProps): JSX.Elemen
         >
           <Text
             tag="h2"
-            className="text-black !text-2xl !leading-40 sm:!leading-48 lg:!text-5xl lg:!leading-40"
+            className="text-black !text-2xl !leading-40 sm:!leading-48 lg:!text-5xl lg:!leading-40 mb-[14px]"
             field={fields?.heading}
           />
           <RichTextA11yWrapper
-            className="[&_p]:mt-[20px] [&_p]:!leading-28 [&_p]:lg:!leading-32 [&_a]:!text-base !leading-28 lg:!leading-32 [&>p]:!mt-3.5 [&_p]:mb-0 mb-0"
+            className="[&_p]:mb-[20px] [&_p]:!leading-28 [&_p]:lg:!leading-32 [&_a]:!text-base !leading-28 lg:!leading-32"
             field={fields?.body}
           />
           {fields?.cta && (

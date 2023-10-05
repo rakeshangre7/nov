@@ -25,7 +25,7 @@ const ArticleImage = ({ fields }: ArticleImageProps): JSX.Element => {
 
   return (
     <>
-      <div className={clsx('pt-[50px]')}>
+      <div className="article-image">
         <div className={clsx('max-w-[800px]', 'm-auto', 'relative', 'smd:mb-6')}>
           <div
             className={clsx(

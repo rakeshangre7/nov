@@ -1,7 +1,7 @@
 ﻿---
-ID: "90152ef8-4aa2-4786-9377-1fec60ffc048"
-Parent: "a6611f74-f15c-47ea-9cd1-9fc8b04c517d"
-Template: "a6611f74-f15c-47ea-9cd1-9fc8b04c517d"
+ID: "5f759cc7-8188-4e6d-944e-858ba34d3a89"
+Parent: "f6e15747-a15d-4b77-be56-48423f904211"
+Template: "f6e15747-a15d-4b77-be56-48423f904211"
 Path: /sitecore/templates/Project/nov/NOV Shared/Rendering Parameters/Background Color and Text Alignment/__Standard Values
 SharedFields:
 - ID: "3094d236-5985-4c4f-ae6a-e30740885532"
@@ -12,27 +12,19 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "2437c6fb-300e-4e74-b0d2-86a0b95bd678"
+      Hint: backgroundColor
+      Value: "gray-C6C6C6"
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20181018T174508Z
-    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
-      Hint: __Owner
-      Value: |
-        sitecore\ashwin
-    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
-      Hint: __Created by
-      Value: |
-        sitecore\ashwin
+      Value: 20181018T175850Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "a1269c9e-c069-4d25-b3b1-b0a4d5b61ac8"
-    - ID: "941ab7bf-c270-4678-b8e4-1e0aba539940"
-      Hint: backgroundColor
-      Value: gray
+      Value: "19d648de-965f-4f4a-93ba-69c22c479678"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\varalakshmi.md@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230912T102420Z
+      Value: 20230929T060103Z
