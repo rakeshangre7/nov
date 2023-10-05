@@ -10,7 +10,6 @@ import Slider from 'react-slick';
 import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css';
 import Icon from '@/components/helpers/Icon/Icon';
-
 // import Button from '@/components/helpers/Button/Button';
 import RichTextA11yWrapper from '@/components/helpers/RichTextA11yWrapper/RichTextA11yWrapper';
 // Local
@@ -118,7 +117,6 @@ const HeroSlider = ({ fields, rendering, params }: HeroSliderProps): JSX.Element
   const [isSticky, setIsSticky] = useState<boolean>(false);
   const currentHeightRef = useRef<HTMLDivElement | null>(null);
   const [wrapperHeight, setWrapperHeight] = useState<number>(0);
-  const placeholdersLength = (rendering?.placeholders?.['hero-slide']?.length ?? 0) > 1;
 
   // function to handle scroll and cta behaviour
   const handleScroll = () => {
@@ -169,7 +167,7 @@ const HeroSlider = ({ fields, rendering, params }: HeroSliderProps): JSX.Element
     return (
       <Icon
         className={
-          'text-[52px] absolute top-1/2 -translate-y-1/2 left-0 smd:left-2 lg:left-8 h-[50px] w-[50px]  text-white icon-chevron-left z-[1] cursor-pointer basicFocus'
+          'text-[52px] absolute top-1/2 -translate-y-1/2 left-2 lg:left-8 h-[50px] w-[50px]  text-white icon-chevron-left z-[1] cursor-pointer basicFocus'
         }
         onClick={(e) => {
           e.stopPropagation();
@@ -189,7 +187,7 @@ const HeroSlider = ({ fields, rendering, params }: HeroSliderProps): JSX.Element
     return (
       <Icon
         className={
-          'text-[52px] absolute top-1/2 -translate-y-1/2 right-0 smd:right-2 lg:right-8 h-[50px] w-[50px] text-white icon-chevron-right z-[1] cursor-pointer  basicFocus'
+          'text-[52px] absolute top-1/2 -translate-y-1/2 right-2 lg:right-8 h-[50px] w-[50px] text-white icon-chevron-right z-[1] cursor-pointer  basicFocus'
         }
         onClick={(e) => {
           e.stopPropagation();
@@ -234,14 +232,9 @@ const HeroSlider = ({ fields, rendering, params }: HeroSliderProps): JSX.Element
   // const heroData = fields?.data?.datasource;
   if (fields === null || fields === undefined) return <></>;
   return (
-    <div
-      className="w-full min-h-screen flex items-center relative py-[100px]"
-      ref={currentHeightRef}
-    >
+    <div className="w-full relative" ref={currentHeightRef}>
       <div
-        className={`container  relative z-[1] ${
-          placeholdersLength ? 'px-[40px] sm:px-[62px] l:px-[25px]' : 'px-[25px]'
-        }`}
+        className="container px-[40px] sm:px-[62px] l:px-[25px] max-h-[calc(100vh-200px)] absolute left-1/2 top-1/2 -translate-y-1/2 -translate-x-1/2 z-[1] "
         style={{ color: textColor }}
       >
         {heroData?.contentTag?.jsonValue?.fields?.tag?.value && (
@@ -260,7 +253,7 @@ const HeroSlider = ({ fields, rendering, params }: HeroSliderProps): JSX.Element
         )}
         {heroData?.subheading?.jsonValue?.value && (
           <RichTextA11yWrapper
-            className="max-w-[640px] mt-[37px] text-lg leading-28 [&>p]:text-lg [&>p]:leading-28 [&>p]:mb-5 [&>p:last-of-type]:!mb-5"
+            className="max-w-[640px] mt-[37px] text-lg leading-28 [&>p]:text-lg [&>p]:leading-28 [&>p]:mb-5"
             data-testid="contentblock"
             field={heroData?.subheading?.jsonValue}
             editable
@@ -279,19 +272,17 @@ const HeroSlider = ({ fields, rendering, params }: HeroSliderProps): JSX.Element
       </div>
 
       <>
-        <div className="absolute w-full top-0 left-0 h-full z-0 [&_div]:h-full">
-          <Placeholder
-            name="hero-slide"
-            rendering={rendering}
-            hasStaticText={hasStaticText}
-            perantGradient={perantGradient}
-            render={(components) => (
-              <Slider {...sliderSettings} ref={sliderRef}>
-                {components}
-              </Slider>
-            )}
-          />
-        </div>
+        <Placeholder
+          name="hero-slide"
+          rendering={rendering}
+          hasStaticText={hasStaticText}
+          perantGradient={perantGradient}
+          render={(components) => (
+            <Slider {...sliderSettings} ref={sliderRef}>
+              {components}
+            </Slider>
+          )}
+        />
       </>
       {heroData?.cta?.jsonValue?.value?.text && heroData?.cta?.jsonValue?.value?.href && (
         <TextOnlyButton ctaLink={heroData?.cta?.jsonValue} isSticky={isSticky} />
