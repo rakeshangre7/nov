@@ -77,7 +77,13 @@ const SingleFeed = ({ elem, fieldLearnMore, episodePrefix }: SingleFeedProps) =>
           }}
           iconPosition="right"
           iconClassName="icon-chevron-right"
-          className={clsx('mt-[24.5px]')}
+          className={clsx(
+            'mt-[24.5px]',
+            'py-[5px]',
+            'text-sm',
+            'font-semibold',
+            '[&_span]:leading-24'
+          )}
         />
       </div>
     </div>
