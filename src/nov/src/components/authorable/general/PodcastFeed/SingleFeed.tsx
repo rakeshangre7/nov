@@ -9,9 +9,9 @@ import clsx from 'clsx';
 
 type SingleFeedProps = {
   id: number;
-  elem: ResultArray;
-  fieldLearnMore: string;
-  episodePrefix: string;
+  elem?: ResultArray;
+  fieldLearnMore?: string;
+  episodePrefix?: string;
 };
 
 const SingleFeed = ({ elem, fieldLearnMore, episodePrefix }: SingleFeedProps) => {
