@@ -33,7 +33,7 @@ const Form = ({ fields }: FormDataProps) => {
 
   return (
     <>
-      <div className="">
+      <div className="FormWrapper">
         <div className="container m-auto">
           <div className="">
             {htmlContent && (
