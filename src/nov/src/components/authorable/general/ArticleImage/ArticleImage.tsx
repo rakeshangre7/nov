@@ -54,7 +54,7 @@ const ArticleImage = ({ fields }: ArticleImageProps): JSX.Element => {
                 'smd:-bottom-6',
                 'mr-[23px]',
                 'ml-[23px]',
-                'leading-normal'
+                'leading-[normal]'
               )}
             >
               <Text

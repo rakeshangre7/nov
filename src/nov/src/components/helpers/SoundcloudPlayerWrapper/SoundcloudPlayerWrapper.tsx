@@ -13,7 +13,12 @@ const SoundcloudPlayerWrapper = ({ fields }: SoundcloudPlayerWrapperProps): JSX.
   const htmlContent = fields?.soundcloudembedcode?.value && fields?.soundcloudembedcode?.value;
   return (
     <>
-      {htmlContent && <div className="w-full" dangerouslySetInnerHTML={{ __html: htmlContent }} />}
+      {htmlContent && (
+        <div
+          className="w-full h-full [&_iframe]:h-full"
+          dangerouslySetInnerHTML={{ __html: htmlContent }}
+        />
+      )}
     </>
   );
 };

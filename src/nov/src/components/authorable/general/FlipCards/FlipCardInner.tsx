@@ -4,7 +4,7 @@ import RichTextA11yWrapper from '@/components/helpers/RichTextA11yWrapper/RichTe
 import Icon from '@/components/helpers/Icon/Icon';
 import { Field, ImageField, LinkField, Text } from '@sitecore-jss/sitecore-jss-nextjs';
 import Button from '@/components/helpers/Button/Button';
-import VideoBlock from '@/components/helpers/VideoBlock/VideoBlock';
+import Mp4VideoPlayer from '@/components/helpers/Mp4VideoPlayer/Mp4VideoPlayer';
 
 type FlipCardInnerProps = {
   body: Field<string>;
@@ -15,6 +15,7 @@ type FlipCardInnerProps = {
   statNumber: Field<string>;
   statText: Field<string>;
   video: Field<string>;
+  bothCardsPresent?: boolean;
 };
 
 const FlipCardInner = ({
@@ -25,6 +26,7 @@ const FlipCardInner = ({
   statNumber,
   statText,
   video,
+  bothCardsPresent,
 }: FlipCardInnerProps) => {
   const [isFlip, setIsFlip] = useState<boolean>(false);
   return (
@@ -57,16 +59,39 @@ const FlipCardInner = ({
           )}
           style={{ backgroundImage: `url(${image?.value?.src})` }}
         >
-          <div>
-            <VideoBlock fields={{ video: video }} />
-          </div>
+          {video?.value && (
+            <div className={clsx('absolute', 'w-full', 'h-full')}>
+              <Mp4VideoPlayer
+                field={{
+                  videoid: {
+                    value: video?.value,
+                  },
+                  image: {
+                    value: image?.value?.src,
+                  },
+                }}
+                autoplay={true}
+                loop={true}
+                muted={true}
+                controls={false}
+              />
+            </div>
+          )}
           <RichTextA11yWrapper
             tag="h5"
             field={heading}
-            className={clsx('text-2xl', 'font-bold', 'leading-[1.33]', 'text-white')}
+            className={clsx('text-2xl', 'font-bold', 'leading-[1.33]', 'text-white', 'z-10')}
           />
           <Icon
-            className={clsx('icon-plus', 'absolute', 'top-5', 'right-5', 'text-2xl', 'text-white')}
+            className={clsx(
+              'icon-plus',
+              'absolute',
+              'top-5',
+              'right-5',
+              'text-2xl',
+              'text-white',
+              'z-10'
+            )}
           />
         </div>
       </div>
@@ -139,13 +164,13 @@ const FlipCardInner = ({
             field={body}
             className={clsx(
               'm-[14px]',
-              'pt-[27px]',
-              'pb-[27px]',
+              'py-[27px]',
               '[&_p]:text-sm',
               '[&_p]:leading-24',
               '[&_p]:text-gray',
               'text-center',
-              'z-10'
+              'z-10',
+              { 'lg:py-0 lg:my-0 l:py-[27px] l:my-[14px]': bothCardsPresent }
             )}
           />
           <Button

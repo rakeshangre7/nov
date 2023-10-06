@@ -57,7 +57,7 @@ const SocialChannels = ({ fields }: SocialChannelsProps): JSX.Element => {
               className="text-black mb-5 lg:text-7xl text-4xl lg:leading-56 leading-42 font-bold tracking-normal"
             />
             <RichTextA11yWrapper
-              className="mb-8 text-sm [&_p]:text-base leading-24 [&_p]:lg:leading-32 [&_p]:leading-28  text-gray-dark"
+              className="mb-8 text-sm [&_p]:text-base leading-24 [&_p]:lg:leading-32 [&_p]:leading-28 text-gray-dark [&_a]:text-base [&_a]:lg:leading-32 [&_a]:leading-28"
               field={fields?.copy}
             />
             <ul className="flex justify-center">
