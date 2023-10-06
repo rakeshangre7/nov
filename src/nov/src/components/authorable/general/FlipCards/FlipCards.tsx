@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 
 // Local
 
@@ -27,6 +27,20 @@ export type FlipCardsProps = Sitecore.Override.ComponentBase &
 
 const FlipCards = ({ fields }: FlipCardsProps): JSX.Element => {
   // Fail out if fields aren't present
+  const [bothCardsPresent, setBothCardsPresent] = useState<boolean>(true);
+  const numberOfCards = () => {
+    if (fields?.body2?.value && fields?.body3?.value) {
+      setBothCardsPresent(true);
+    } else if (fields?.body5?.value && fields?.body6?.value) {
+      setBothCardsPresent(true);
+    } else {
+      setBothCardsPresent(false);
+    }
+  };
+  useEffect(() => {
+    numberOfCards();
+  }, []);
+  console.log('bothCardsPresent-', bothCardsPresent);
 
   if (fields === null || fields === undefined) return <></>;
 
@@ -129,6 +143,7 @@ const FlipCards = ({ fields }: FlipCardsProps): JSX.Element => {
                 statNumber={fields?.statNumber2}
                 statText={fields?.statText2}
                 video={fields?.video2}
+                bothCardsPresent={bothCardsPresent}
               />
             </div>
             <div
@@ -150,6 +165,7 @@ const FlipCards = ({ fields }: FlipCardsProps): JSX.Element => {
                 statNumber={fields?.statNumber3}
                 statText={fields?.statText3}
                 video={fields?.video3}
+                bothCardsPresent={bothCardsPresent}
               />
             </div>
           </div>
@@ -208,6 +224,7 @@ const FlipCards = ({ fields }: FlipCardsProps): JSX.Element => {
                 statNumber={fields?.statNumber5}
                 statText={fields?.statText5}
                 video={fields?.video5}
+                bothCardsPresent={bothCardsPresent}
               />
             </div>
             <div
@@ -229,6 +246,7 @@ const FlipCards = ({ fields }: FlipCardsProps): JSX.Element => {
                 statNumber={fields?.statNumber6}
                 statText={fields?.statText6}
                 video={fields?.video6}
+                bothCardsPresent={bothCardsPresent}
               />
             </div>
           </div>
