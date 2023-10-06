@@ -46,7 +46,8 @@ const defaultData: FlipCardsProps = {
       value: 'Open Positions',
     },
     video1: {
-      value: '',
+      value:
+        'https://nov-web.s3.ca-central-1.amazonaws.com/Energy+Transition/Nov+Industries+Hero+Banner-1.mp4',
     },
     statNumber2: {
       value: '08',
