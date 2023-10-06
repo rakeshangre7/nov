@@ -1,11 +1,6 @@
 import React, { MouseEventHandler, useEffect, useRef, useState } from 'react';
 
-import {
-  Placeholder,
-  ComponentRendering,
-  LinkField,
-  Text,
-} from '@sitecore-jss/sitecore-jss-nextjs';
+import { ComponentRendering, LinkField, Text, Item } from '@sitecore-jss/sitecore-jss-nextjs';
 import Slider from 'react-slick';
 import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css';
@@ -14,7 +9,9 @@ import Icon from '@/components/helpers/Icon/Icon';
 import RichTextA11yWrapper from '@/components/helpers/RichTextA11yWrapper/RichTextA11yWrapper';
 // Local
 import TextOnlyButton from '@/components/authorable/general/TextOnlyHero/TextOnlyButton';
-import ImageWrapper from '@/components/helpers/ImageWrapper/ImageWrapper';
+import ProductHeroFull from './ProductHeroFull';
+import ProductHeroImage from './ProductHeroImage';
+
 // Ideally, all this is from generated Typescript code from Sitecore and we're not manually defining types.
 interface onClickInterface {
   onClick?: MouseEventHandler;
@@ -118,6 +115,8 @@ const ProductHeroSlider = ({ fields, rendering, params }: ProductHeroSliderProps
   const [isSticky, setIsSticky] = useState<boolean>(false);
   const currentHeightRef = useRef<HTMLDivElement | null>(null);
   const [wrapperHeight, setWrapperHeight] = useState<number>(0);
+  const [textColor, setTextColor] = useState<string>('#ffffff');
+  const [currentIndex, setCurrentIndex] = useState(0);
 
   // function to handle scroll and cta behaviour
   const handleScroll = () => {
@@ -161,77 +160,102 @@ const ProductHeroSlider = ({ fields, rendering, params }: ProductHeroSliderProps
       window.removeEventListener('scroll', handleScroll);
     };
   }, [calHeight]);
-
-  const [textColor, setTextColor] = useState<string>('#ffffff');
-  const sliderRef = useRef<Slider | null>(null);
-  function PrevArrow({ onClick }: onClickInterface) {
-    return (
-      <Icon
-        className={
-          'text-[52px] absolute top-1/2 -translate-y-1/2 left-2 lg:left-8 h-[50px] w-[50px]  text-white icon-chevron-left z-[1] cursor-pointer basicFocus'
-        }
-        onClick={(e) => {
-          e.stopPropagation();
-          e.preventDefault();
-          if (onClick) {
-            onClick(e);
-          } else {
-            if (fields?.placeholders?.['product-hero']?.length) {
-              sliderRef?.current?.slickGoTo(fields?.placeholders?.['product-hero'].length - 1);
-            }
-          }
-        }}
-      />
-    );
-  }
-  function NextArrow({ onClick }: onClickInterface) {
-    return (
-      <Icon
-        className={
-          'text-[52px] absolute top-1/2 -translate-y-1/2 right-2 lg:right-8 h-[50px] w-[50px] text-white icon-chevron-right z-[1] cursor-pointer  basicFocus'
-        }
-        onClick={(e) => {
-          e.stopPropagation();
-          e.preventDefault();
-          if (onClick) {
-            onClick(e);
-          } else {
-            sliderRef?.current?.slickGoTo(0);
-          }
-        }}
-      />
-    );
-  }
-  console.log(heroData, 'ww');
-  const sliderSettings = {
-    dots: true,
-    infinite: true,
-    arrows: true,
-    nextArrow: <NextArrow />,
-    prevArrow: <PrevArrow />,
-    autoplay: params?.enableAutoplay === 'true',
-    autoplaySpeed: +params?.waitTime || 5000,
-    speed: 300,
-
-    slidesToShow: 1,
-    slidesToScroll: 1,
-
-    dotsClass:
-      'button__bar z-[1] container w-full !flex absolute left-1/2 -translate-x-1/2 bottom-6 justify-center lg:justify-star [&>li>button]:w-3 [&>li>button]:h-3 [&>li>button]:mx-1.5 [&>li>button]:text-[0] [&>li>button]:bg-gray-novLight [&>li>button]:rounded-full [&>li>button]:border-2 [&>li>button]:border-white [&>.slick-active>button]:bg-white [&>.slick-active>button]:border-primary [&>li>button:hover]:bg-white [&>li>button:hover]:border-primary [&>li>button]:outline-0 [&>li>button]:transition [&>li>button]:duration-300 [&>li>button]:ease',
-  };
   useEffect(() => {
     setTextColor(
       params?.textColor?.split('-')?.[1] ? `#${params?.textColor?.split('-')?.[1]}` : '#ffffff'
     );
   }, []);
 
+  const sliderRef = useRef<Slider | null>(null);
+
+  function PrevArrow({ onClick }: onClickInterface) {
+    const handlePrevClick = (e: React.MouseEvent<HTMLElement>) => {
+      e.stopPropagation();
+      e.preventDefault();
+      if (onClick) {
+        onClick(e);
+      } else {
+        if (sliderRef?.current) {
+          sliderRef.current.slickPrev();
+        }
+      }
+    };
+
+    return (
+      <Icon
+        className="text-[52px] absolute top-1/2 -translate-y-1/2 left-0 smd:left-2 lg:left-8 h-[50px] w-[50px] text-white icon-chevron-left z-[1] cursor-pointer basicFocus"
+        onClick={handlePrevClick}
+        style={{ color: textColor }}
+      />
+    );
+  }
+
+  function NextArrow({ onClick }: onClickInterface) {
+    const handleNextClick = (e: React.MouseEvent<HTMLElement>) => {
+      e.stopPropagation();
+      e.preventDefault();
+      if (onClick) {
+        onClick(e);
+      } else {
+        if (sliderRef?.current) {
+          sliderRef.current.slickNext();
+        }
+      }
+    };
+
+    return (
+      <Icon
+        className="text-[52px] absolute top-1/2 -translate-y-1/2 right-0 smd:right-2 lg:right-8 h-[50px] w-[50px] text-white icon-chevron-right z-[1] cursor-pointer basicFocus"
+        onClick={handleNextClick}
+        style={{ color: textColor }}
+      />
+    );
+  }
+
+  const sliderSettings = {
+    dots: false,
+    infinite: true,
+    arrows: params?.displayMode === 'full size' && true,
+    nextArrow: <NextArrow />,
+    prevArrow: <PrevArrow />,
+    autoplay: params?.enableAutoplay === 'true',
+    autoplaySpeed: +params?.waitTime || 5000,
+    speed: 300,
+    slidesToShow: 1,
+    slidesToScroll: 1,
+
+    dotsClass:
+      'button__bar z-[1] container w-full !flex absolute left-1/2 -translate-x-1/2 bottom-6 justify-center lg:justify-start [&>li>button]:w-3 [&>li>button]:h-3 [&>li>button]:mx-1.5 [&>li>button]:text-[0] [&>li>button]:bg-gray-novLight [&>li>button]:rounded-full [&>li>button]:border-2 [&>li>button]:border-white [&>.slick-active>button]:bg-white [&>.slick-active>button]:border-primary [&>li>button:hover]:bg-white [&>li>button:hover]:border-primary [&>li>button]:outline-0 [&>li>button]:transition [&>li>button]:duration-300 [&>li>button]:ease',
+  };
+
+  useEffect(() => {
+    setTextColor(
+      params?.textColor?.split('-')?.[1] ? `#${params?.textColor?.split('-')?.[1]}` : '#000'
+    );
+  }, []);
+
+  const displayMode = params?.displayMode;
+  const displayModeFull = displayMode === 'full size';
+  const displayModeImage = displayMode === 'product image';
   // const hasStaticText = false;
   // const perantGradient = params?.addGradient == '1';
 
   // const heroData = fields?.data?.datasource;
   if (fields === null || fields === undefined) return <></>;
   return (
-    <div className="w-full min-h-screen relative py-[100px]" ref={currentHeightRef}>
+    <div
+      className={`w-full flex flex-column items-center relative py-[100px] ${
+        displayModeFull ? 'min-h-screen' : 'min-h-[720px]'
+      }`}
+      ref={currentHeightRef}
+    >
+      {displayModeImage && (
+        <>
+          <NextArrow />
+
+          <PrevArrow />
+        </>
+      )}
       <div
         className="container px-[40px] sm:px-[62px] l:px-[25px] z-[1] relative"
         style={{ color: textColor }}
@@ -250,43 +274,38 @@ const ProductHeroSlider = ({ fields, rendering, params }: ProductHeroSliderProps
             field={heroData?.heading?.jsonValue}
           />
         )}
-        <div className="B6-product-hero__inner flex">
+        <div className="B6-product-hero__inner flex flex-row w-full">
           {heroData?.subheading?.jsonValue?.value && (
-            <RichTextA11yWrapper
-              className="max-w-[640px] mt-[37px] text-lg leading-28 [&>p]:text-lg [&>p]:leading-28 [&>p]:mb-5"
-              data-testid="contentblock"
-              field={heroData?.subheading?.jsonValue}
-              editable
+            <div className={`${displayModeImage && 'w-[448px]'}`}>
+              <RichTextA11yWrapper
+                className="min-w-[640px] mt-[37px] text-lg leading-28 [&>p]:text-lg [&>p]:leading-28 [&>p]:mb-5"
+                data-testid="contentblock"
+                field={heroData?.subheading?.jsonValue}
+                editable
+              />
+            </div>
+          )}
+
+          {displayModeImage && (
+            <ProductHeroImage
+              rendering={rendering}
+              displayMode={displayMode}
+              sliderSettings={sliderSettings}
+              sliderRef={sliderRef}
             />
           )}
-          <div>
-            {heroData?.image?.jsonValue && (
-              <div>
-                <ImageWrapper
-                  className="pt-0 mb-[30px] w-full overflow-hidden h-auto"
-                  field={heroData?.image?.jsonValue}
-                />
-                <div className="B6-product-hero__gradient"></div>
-              </div>
-            )}
-          </div>
         </div>
       </div>
-      <>
-        <div className="absolute w-full top-0 left-0 h-full z-0 [&_div]:h-full">
-          <Placeholder
-            name="product-hero"
-            rendering={rendering}
-            // hasStaticText={hasStaticText}
-            // perantGradient={perantGradient}
-            render={(components) => (
-              <Slider {...sliderSettings} ref={sliderRef}>
-                {components}
-              </Slider>
-            )}
-          />
-        </div>
-      </>
+
+      {displayModeFull && (
+        <ProductHeroFull
+          rendering={rendering}
+          displayMode={displayMode}
+          sliderSettings={sliderSettings}
+          sliderRef={sliderRef}
+        />
+      )}
+
       {heroData?.cta?.jsonValue?.value?.text && heroData?.cta?.jsonValue?.value?.href && (
         <TextOnlyButton ctaLink={heroData?.cta?.jsonValue} isSticky={isSticky} />
       )}
