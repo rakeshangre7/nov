@@ -137,7 +137,6 @@ const HeadMeta = ({ layoutData }: LayoutProps): JSX.Element => {
             `,
         }}
       />
-      {console.log(PageMetaData?.brand?.fields?.brandName?.value)}
     </>
   );
 };
