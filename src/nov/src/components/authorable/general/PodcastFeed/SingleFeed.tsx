@@ -52,7 +52,9 @@ const SingleFeed = ({ elem, fieldLearnMore, episodePrefix }: SingleFeedProps) =>
         />
         <Text
           tag="h3"
-          field={{ value: `${episodePrefix}${elem?.episodeNumber?.jsonValue?.value}` }}
+          field={{
+            value: `${episodePrefix}${elem?.episodeNumber?.jsonValue?.value}\n${elem?.episodeTitle?.jsonValue?.value}`,
+          }}
           className={clsx('text-base', 'font-semibold', 'leading-24', 'mb-3', 'text-black')}
         />
         <RichTextA11yWrapper
