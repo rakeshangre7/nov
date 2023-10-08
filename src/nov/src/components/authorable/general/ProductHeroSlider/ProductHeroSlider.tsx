@@ -116,7 +116,7 @@ const ProductHeroSlider = ({ fields, rendering, params }: ProductHeroSliderProps
   const currentHeightRef = useRef<HTMLDivElement | null>(null);
   const [wrapperHeight, setWrapperHeight] = useState<number>(0);
   const [textColor, setTextColor] = useState<string>('#ffffff');
-  const [currentIndex, setCurrentIndex] = useState(0);
+  const [sliderIndex, setSliderIndex] = useState(0);
 
   // function to handle scroll and cta behaviour
   const handleScroll = () => {
@@ -211,6 +211,34 @@ const ProductHeroSlider = ({ fields, rendering, params }: ProductHeroSliderProps
       />
     );
   }
+  const CustomDots = ({
+    slides,
+    activeSlide,
+    onClick,
+  }: {
+    slides: ProductHeroSliderItem[];
+    activeSlide: number;
+    onClick: (index: number) => onClickInterface;
+  }) => {
+    if (!slides || slides.length === 0) {
+      return null;
+    }
+
+    return (
+      <ul className="flex space-x-2 button__bar z-[1] container w-full !flex absolute left-1/2 -translate-x-1/2 bottom-6 justify-center lg:justify-start [&>li>button]:w-3 [&>li>button]:h-3 [&>li>button]:mx-1.5 [&>li>button]:text-[0] [&>li>button]:bg-gray-novLight [&>li>button]:rounded-full [&>li>button]:border-2 [&>li>button]:border-white [&>.slick-active>button]:bg-white [&>.slick-active>button]:border-primary [&>li>button:hover]:bg-white [&>li>button:hover]:border-primary [&>li>button]:outline-0 [&>li>button]:transition [&>li>button]:duration-300 [&>li>button]:ease">
+        {slides.map((slide, index) => (
+          <li key={index}>
+            <button
+              className={`w-4 h-4 rounded-full bg-gray-novLight border-2 border-white ${
+                index === activeSlide ? 'bg-white border-primary' : ''
+              }`}
+              onClick={() => onClick(index)}
+            />
+          </li>
+        ))}
+      </ul>
+    );
+  };
 
   const sliderSettings = {
     dots: false,
@@ -219,8 +247,9 @@ const ProductHeroSlider = ({ fields, rendering, params }: ProductHeroSliderProps
     nextArrow: <NextArrow />,
     prevArrow: <PrevArrow />,
     autoplay: params?.enableAutoplay === 'true',
-    autoplaySpeed: +params?.waitTime || 5000,
+    autoplaySpeed: 50000,
     speed: 300,
+    beforeChange: (current, next) => setSliderIndex(next),
     slidesToShow: 1,
     slidesToScroll: 1,
 
@@ -252,7 +281,11 @@ const ProductHeroSlider = ({ fields, rendering, params }: ProductHeroSliderProps
       {displayModeImage && (
         <>
           <NextArrow />
-
+          <CustomDots
+            slides={rendering.placeholders['product-hero'] || []}
+            activeSlide={sliderIndex}
+            onClick={(index) => sliderRef.current?.slickGoTo(index)}
+          />
           <PrevArrow />
         </>
       )}
