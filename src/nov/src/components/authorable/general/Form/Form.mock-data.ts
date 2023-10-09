@@ -1,5 +1,5 @@
 import { FormDataProps } from './Form';
-
+// Realistically this is going to have a lot more data from Sitecore or XM Cloud, but this is a good example mock data set.
 const defaultData: FormDataProps = {
   rendering: { componentName: 'Form' },
   params: {},
@@ -37,7 +37,7 @@ const defaultData: FormDataProps = {
 };
 
 export const noData = {
-  render: {},
+  rnder: {},
   params: [],
 };
 
