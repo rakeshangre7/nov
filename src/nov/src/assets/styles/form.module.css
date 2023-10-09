@@ -93,7 +93,7 @@
 .elq-form .elq-item-textarea {
   min-height: 48px;
   max-height: 360px;
-  border: 1px solid #707070;
+  border: 1px solid #ececec;
 }
 
 /* Field input styles */
@@ -116,7 +116,7 @@
 }
 
 .elq-form:focus-within input:invalid {
-  border-bottom: 1px solid #707070 !important;
+  border-bottom: 1px solid #da291c !important;
 }
 
 /* Field style */
@@ -176,8 +176,15 @@
   height: 32px;
   border: 0;
   border-bottom: 1px solid #707070;
-
 }
+
+.elq-item-input:-webkit-autofill,
+.elq-item-input:-webkit-autofill:hover,
+.elq-item-input:-webkit-autofill:focus,
+.elq-item-input:-webkit-autofill:active {
+  -webkit-box-shadow: 0 0 0 30px white inset !important;
+}
+
 
 /* Remove margin for checkboxes and radio buttons */
 .elq-item-input[type="checkbox"],

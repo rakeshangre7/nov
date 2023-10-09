@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import 'assets/styles/form.module.css';
+import '@/assets/styles/form.module.css';
 import { Field, RichText, Text } from '@sitecore-jss/sitecore-jss-nextjs';
 
 interface FieldProps {
