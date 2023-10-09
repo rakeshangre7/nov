@@ -105,7 +105,7 @@ const HeadMeta = ({ layoutData }: LayoutProps): JSX.Element => {
         <meta name="apple-mobile-web-app-title" content="NOV.com" />
         <meta name="application-name" content="NOV.com" />
         <meta name="msapplication-TileColor" content="#ffffff" />
-        <meta name="msapplication-config" content="/public/favicon.ico" />
+        <meta name="msapplication-config" content="/favicon.ico" />
         <meta name="theme-color" content="#ffffff" />
       </Head>
       <Script
