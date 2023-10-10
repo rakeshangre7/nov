@@ -73,7 +73,6 @@ export type ProductHeroProps = {
 const ProductHero = ({ fields, params, displayMode }: ProductHeroProps): JSX.Element => {
   const useDataSource = fields?.data?.datasource != null;
   const heroData = useDataSource ? fields.data.datasource : fields.data.contextItem;
-  console.log(typeof displayMode, 'Hari ki priya');
   const displayModeFull = displayMode === 'full size';
   const displayModeImage = displayMode === 'product image';
 
