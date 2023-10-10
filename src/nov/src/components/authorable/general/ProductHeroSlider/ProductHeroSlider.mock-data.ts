@@ -7,8 +7,9 @@ const defaultData: ProductHeroSliderProps = {
   dataSource: '{3E75C232-A3C2-498A-9AD4-A762CA23BFB8}',
   params: {
     enableAutoplay: 'true',
-    addGradient: '1',
-    textColor: 'white-ffffff',
+    displayMode: 'product image',
+    textColor: 'black',
+    duration: '300',
     waitTime: '5000',
   },
 
@@ -17,72 +18,97 @@ const defaultData: ProductHeroSliderProps = {
       datasource: {
         contentTag: {
           jsonValue: {
-            id: 'ba3828af-5ef2-4318-b72a-af9b21812eb6',
-            url: '/Data/System/Content-Tags/Podcast',
-            name: 'Podcast',
-            displayName: 'Podcast',
+            id: '1f7e6cf6-397f-43e3-8be0-f22a71e03f76',
+            url: '/Data/System/Content-Tags/Product',
+            name: 'Product',
+            displayName: 'Product/Service',
             fields: {
               tag: {
-                value: 'Podcast',
+                value: 'Product',
               },
             },
           },
         },
         heading: {
           jsonValue: {
-            value: 'heroslider static heading',
+            value: 'Static B6 header',
           },
         },
         subheading: {
           jsonValue: {
-            value: '<p> hero slider staticsubheading </p>',
+            value: '<p>A static subheading for B6</p>',
           },
         },
         cta: {
           jsonValue: {
             value: {
-              text: 'heroslider cta',
-              anchor: '',
-              linktype: 'internal',
-              class: '',
+              href: '#contactus',
+              text: 'Have a question? Contact us.',
+              linktype: 'anchor',
+              url: 'contactus',
+              anchor: 'contactus',
               title: '',
-              target: '',
-              querystring: '',
-              id: '{603CF887-836F-41B8-864A-05B0CA7CAEA4}',
-              href: '/heroslider',
+              class: '',
             },
           },
         },
+        models: {
+          targetItems: [
+            {
+              name: 'Compensated Coiled Tubing Lift Frame 2',
+              url: {
+                url: 'https://xmc-nationaloile493-nov-dev.sitecorecloud.io/TestHztl2/Compensated-Coiled-Tubing-Lift-Frame-2',
+              },
+              id: '798A2EBF9ADC4219BE15B0474AE93FA1',
+            },
+            {
+              name: 'Compensated Coiled Tubing Lift Frame 3',
+              url: {
+                url: 'https://xmc-nationaloile493-nov-dev.sitecorecloud.io/TestHztl2/Compensated-Coiled-Tubing-Lift-Frame-3',
+              },
+              id: 'B08FE88C0F4A4C24ACA78F4AA2016D88',
+            },
+            {
+              name: 'Compensated Coiled Tubing Lift Frame no data',
+              url: {
+                url: 'https://xmc-nationaloile493-nov-dev.sitecorecloud.io/TestHztl2/Compensated-Coiled-Tubing-Lift-Frame-no-data',
+              },
+              id: 'CBD9650BAF384B20B8A6CBAFE434CFB2',
+            },
+          ],
+        },
       },
       contextItem: {
+        id: '798A2EBF9ADC4219BE15B0474AE93FA1',
         contentTag: {
           jsonValue: {
-            id: '4bb3b086-733d-44d8-bdbe-47fe1a1d250f',
-            url: '/Data/System/Content-Tags/Segment',
-            name: 'Segment',
-            displayName: 'Segment',
+            id: '1f7e6cf6-397f-43e3-8be0-f22a71e03f76',
+            url: '/Data/System/Content-Tags/Product',
+            name: 'Product',
+            displayName: 'Product/Service',
             fields: {
               tag: {
-                value: 'Segment',
+                value: 'Product',
               },
             },
           },
         },
         heading: {
           jsonValue: {
-            value: 'heroslider page without datasource ',
+            value: 'Compensated Coiled Tubing Lift Frame',
           },
         },
         subheading: {
           jsonValue: {
-            value: 'hero slider subheading page',
+            value:
+              '<p>Supporting ultra-deepwater string weights and enhancing operational performance through innovative motion compensation</p>',
           },
         },
         image: {
           jsonValue: {
             value: {
-              src: 'https://edge.sitecorecloud.io/nationaloile493-nov-dev-59ee/media/Feature/nov/Images/Products/Resources-and-Tools/drillbit.jpg?h=1080&iar=0&w=1920',
-              alt: 'Closeup of an NOV drill bit',
+              src: 'https://edge.sitecorecloud.io/nationaloile493-nov-dev-59ee/media/Feature/nov/Images/Products/RIG/Rig-Equipment/Compensated-Coiled-Tubing-Lift-Frame/Compensated-Coiled-Tubing-Lift-Frame.jpg?h=1080&iar=0&w=1920',
+              alt: 'Image of yellow compensated coiled tubing lift frame',
               width: '1920',
               height: '1080',
             },
@@ -92,15 +118,11 @@ const defaultData: ProductHeroSliderProps = {
     },
   },
   placeholders: {
-    'hero-slide': [
+    'product-hero': [
       {
-        uid: '6b9ae88d-b4de-485f-9af7-0fb1b1e14400',
-        componentName: 'Hero',
-        dataSource: '{9A2ACA87-9263-4EB8-9787-426BED059AD9}',
-        params: {
-          addGradient: '1',
-          textColor: 'white-ffffff',
-        },
+        uid: '5d92478f-2acd-4f6f-86ba-9ade748567d9',
+        componentName: 'ProductHero',
+        dataSource: '{05766D23-D3BC-44BF-A3EC-ACD94908E7AD}',
         fields: {
           data: {
             datasource: {
@@ -109,66 +131,38 @@ const defaultData: ProductHeroSliderProps = {
               },
               heading: {
                 jsonValue: {
-                  value: '',
+                  value: 'Offshore TorqueMaster™ Units',
                 },
               },
               subheading: {
                 jsonValue: {
-                  value: '',
-                },
-              },
-              cta: {
-                jsonValue: {
-                  value: {
-                    href: '',
-                  },
+                  value:
+                    '<p>The 8045 &amp; 8026 TorqueMaster&trade; units are self-contained freestanding hydraulic powered units.</p>',
                 },
               },
               image: {
                 jsonValue: {
                   value: {
-                    src: 'https://edge.sitecorecloud.io/nationaloile493-nov-dev-59ee/media/Feature/nov/Images/Careers/Careers-diverse-workers-conference.JPG?h=295&iar=0&w=514',
-                    alt: 'NOV employees gather around a conference table',
-                    width: '514',
-                    height: '295',
+                    src: 'https://edge.sitecorecloud.io/nationaloile493-nov-dev-59ee/media/Feature/nov/Images/Products/CAPS/Process-and-Flow-Technologies/Horizontal-Surface-Pumping-System/Horizontal-Surface-Pumping-System.jpg?h=1080&iar=0&w=1920',
+                    alt: 'Horizontal Surface Pumping System in the field',
+                    width: '1920',
+                    height: '1080',
                   },
                 },
               },
               backgroundVideo: {
                 jsonValue: {
-                  value: '',
+                  value:
+                    'https://nov-web.s3.ca-central-1.amazonaws.com/Energy+Transition/Nov+Industries+Hero+Banner-1.mp4',
                 },
               },
             },
             contextItem: {
-              contentTag: {
-                jsonValue: {
-                  id: '894ad693-62bc-4d0f-8e34-42401ebef1f3',
-                  url: '/Data/System/Content-Tags/Capability',
-                  name: 'Capability',
-                  displayName: 'Capability',
-                  fields: {
-                    tag: {
-                      value: 'Capability',
-                    },
-                  },
-                },
-              },
-              heading: {
-                jsonValue: {
-                  value: 'Midstream',
-                },
-              },
-              subheading: {
-                jsonValue: {
-                  value: '<p>Trusted brands that keep pace with your demands.</p>',
-                },
-              },
               image: {
                 jsonValue: {
                   value: {
-                    src: 'https://edge.sitecorecloud.io/nationaloile493-nov-dev-59ee/media/Feature/nov/Images/Capability/Pipeline/ZapLokMountainsInstall.jpg?h=1080&iar=0&w=1920',
-                    alt: 'Zap Lok equipment installed in the mountains',
+                    src: 'https://edge.sitecorecloud.io/nationaloile493-nov-dev-59ee/media/Feature/nov/Images/Products/RIG/Rig-Equipment/Compensated-Coiled-Tubing-Lift-Frame/Compensated-Coiled-Tubing-Lift-Frame.jpg?h=1080&iar=0&w=1920',
+                    alt: 'Image of yellow compensated coiled tubing lift frame',
                     width: '1920',
                     height: '1080',
                   },
@@ -179,506 +173,18 @@ const defaultData: ProductHeroSliderProps = {
         },
       },
       {
-        uid: 'e7bdced1-ba2b-4764-91f2-d9a68e7a9238',
-        componentName: 'Hero',
-        dataSource: '{A9A0AC95-DF68-4D4A-B04A-3AADD4D7B1FA}',
-        params: {
-          addGradient: '1',
-          textColor: 'white-ffffff',
-        },
+        uid: 'eea5f6d2-3640-484b-8eab-a1b747675b1b',
+        componentName: 'ProductHero',
+        dataSource: '',
         fields: {
           data: {
-            datasource: {
-              contentTag: {
-                jsonValue: null,
-              },
-              heading: {
-                jsonValue: {
-                  value: '',
-                },
-              },
-              subheading: {
-                jsonValue: {
-                  value: '',
-                },
-              },
-              cta: {
-                jsonValue: {
-                  value: {
-                    href: '',
-                  },
-                },
-              },
-              image: {
-                jsonValue: {
-                  value: {
-                    src: 'https://edge.sitecorecloud.io/nationaloile493-nov-dev-59ee/media/Feature/nov/Images/Careers/Careers-diverse-workers-conference.JPG?h=1080&iar=0&w=1920',
-                    alt: 'NOV employees gather around a conference table',
-                    width: '1920',
-                    height: '1080',
-                  },
-                },
-              },
-              backgroundVideo: {
-                jsonValue: {
-                  value: '',
-                },
-              },
-            },
+            datasource: null,
             contextItem: {
-              contentTag: {
-                jsonValue: {
-                  id: '894ad693-62bc-4d0f-8e34-42401ebef1f3',
-                  url: '/Data/System/Content-Tags/Capability',
-                  name: 'Capability',
-                  displayName: 'Capability',
-                  fields: {
-                    tag: {
-                      value: 'Capability',
-                    },
-                  },
-                },
-              },
-              heading: {
-                jsonValue: {
-                  value: 'Midstream',
-                },
-              },
-              subheading: {
-                jsonValue: {
-                  value: '<p>Trusted brands that keep pace with your demands.</p>',
-                },
-              },
               image: {
                 jsonValue: {
                   value: {
-                    src: 'https://edge.sitecorecloud.io/nationaloile493-nov-dev-59ee/media/Feature/nov/Images/Capability/Pipeline/ZapLokMountainsInstall.jpg?h=1080&iar=0&w=1920',
-                    alt: 'Zap Lok equipment installed in the mountains',
-                    width: '1920',
-                    height: '1080',
-                  },
-                },
-              },
-            },
-          },
-        },
-      },
-      {
-        uid: '6ca963b8-97d8-4745-b8b7-937c31649163',
-        componentName: 'Hero',
-        dataSource: '{950FBC00-2248-42D2-B5C9-26F53B9A8BF5}',
-        params: {
-          addGradient: '1',
-          textColor: 'black-000000',
-        },
-        fields: {
-          data: {
-            datasource: {
-              contentTag: {
-                jsonValue: null,
-              },
-              heading: {
-                jsonValue: {
-                  value: '',
-                },
-              },
-              subheading: {
-                jsonValue: {
-                  value: '',
-                },
-              },
-              cta: {
-                jsonValue: {
-                  value: {
-                    href: '',
-                  },
-                },
-              },
-              image: {
-                jsonValue: {
-                  value: {
-                    src: 'https://edge.sitecorecloud.io/nationaloile493-nov-dev-59ee/media/Feature/nov/Images/Capability/Pipeline/ZapLokMountainsInstall.jpg?h=1080&iar=0&w=1920',
-                    alt: 'Zap Lok equipment installed in the mountains',
-                    width: '1920',
-                    height: '1080',
-                  },
-                },
-              },
-              backgroundVideo: {
-                jsonValue: {
-                  value: '',
-                },
-              },
-            },
-            contextItem: {
-              contentTag: {
-                jsonValue: {
-                  id: '894ad693-62bc-4d0f-8e34-42401ebef1f3',
-                  url: '/Data/System/Content-Tags/Capability',
-                  name: 'Capability',
-                  displayName: 'Capability',
-                  fields: {
-                    tag: {
-                      value: 'Capability',
-                    },
-                  },
-                },
-              },
-              heading: {
-                jsonValue: {
-                  value: 'Midstream',
-                },
-              },
-              subheading: {
-                jsonValue: {
-                  value: '<p>Trusted brands that keep pace with your demands.</p>',
-                },
-              },
-              image: {
-                jsonValue: {
-                  value: {
-                    src: 'https://edge.sitecorecloud.io/nationaloile493-nov-dev-59ee/media/Feature/nov/Images/Capability/Pipeline/ZapLokMountainsInstall.jpg?h=1080&iar=0&w=1920',
-                    alt: 'Zap Lok equipment installed in the mountains',
-                    width: '1920',
-                    height: '1080',
-                  },
-                },
-              },
-            },
-          },
-        },
-      },
-      {
-        uid: '1978f963-1468-4abc-9204-0e055bb2fc6a',
-        componentName: 'Hero',
-        dataSource: '{B9E4A9EE-378A-45F0-9B87-093BC7D18BB2}',
-        params: {
-          addGradient: '1',
-          textColor: 'black-000000',
-        },
-        fields: {
-          data: {
-            datasource: {
-              contentTag: {
-                jsonValue: null,
-              },
-              heading: {
-                jsonValue: {
-                  value: '',
-                },
-              },
-              subheading: {
-                jsonValue: {
-                  value: '',
-                },
-              },
-              cta: {
-                jsonValue: {
-                  value: {
-                    href: '',
-                  },
-                },
-              },
-              image: {
-                jsonValue: {
-                  value: {
-                    src: 'https://edge.sitecorecloud.io/nationaloile493-nov-dev-59ee/media/Feature/nov/Images/Capability/Pipeline/Midstream-FGS-pipeline.jpg?h=1080&iar=0&w=1920',
-                    alt: 'Midstream FGS pipeline',
-                    width: '1920',
-                    height: '1080',
-                  },
-                },
-              },
-              backgroundVideo: {
-                jsonValue: {
-                  value: '',
-                },
-              },
-            },
-            contextItem: {
-              contentTag: {
-                jsonValue: {
-                  id: '894ad693-62bc-4d0f-8e34-42401ebef1f3',
-                  url: '/Data/System/Content-Tags/Capability',
-                  name: 'Capability',
-                  displayName: 'Capability',
-                  fields: {
-                    tag: {
-                      value: 'Capability',
-                    },
-                  },
-                },
-              },
-              heading: {
-                jsonValue: {
-                  value: 'Midstream',
-                },
-              },
-              subheading: {
-                jsonValue: {
-                  value: '<p>Trusted brands that keep pace with your demands.</p>',
-                },
-              },
-              image: {
-                jsonValue: {
-                  value: {
-                    src: 'https://edge.sitecorecloud.io/nationaloile493-nov-dev-59ee/media/Feature/nov/Images/Capability/Pipeline/ZapLokMountainsInstall.jpg?h=1080&iar=0&w=1920',
-                    alt: 'Zap Lok equipment installed in the mountains',
-                    width: '1920',
-                    height: '1080',
-                  },
-                },
-              },
-            },
-          },
-        },
-      },
-      {
-        uid: 'e29a2602-1bc1-4c27-ab01-a7e060957802',
-        componentName: 'Hero',
-        dataSource: '{E571B04B-458E-4062-8556-2BF3052B6238}',
-        params: {
-          addGradient: '1',
-          textColor: 'black-000000',
-        },
-        fields: {
-          data: {
-            datasource: {
-              contentTag: {
-                jsonValue: null,
-              },
-              heading: {
-                jsonValue: {
-                  value: '',
-                },
-              },
-              subheading: {
-                jsonValue: {
-                  value: '',
-                },
-              },
-              cta: {
-                jsonValue: {
-                  value: {
-                    href: '',
-                  },
-                },
-              },
-              image: {
-                jsonValue: {
-                  value: {
-                    src: 'https://edge.sitecorecloud.io/nationaloile493-nov-dev-59ee/media/Feature/nov/Images/Capability/Pipeline/Midstream-TK-Coatings.jpg?h=1080&iar=0&w=1920',
-                    alt: 'Midstream TK Coatings',
-                    width: '1920',
-                    height: '1080',
-                  },
-                },
-              },
-              backgroundVideo: {
-                jsonValue: {
-                  value: '',
-                },
-              },
-            },
-            contextItem: {
-              contentTag: {
-                jsonValue: {
-                  id: '894ad693-62bc-4d0f-8e34-42401ebef1f3',
-                  url: '/Data/System/Content-Tags/Capability',
-                  name: 'Capability',
-                  displayName: 'Capability',
-                  fields: {
-                    tag: {
-                      value: 'Capability',
-                    },
-                  },
-                },
-              },
-              heading: {
-                jsonValue: {
-                  value: 'Midstream',
-                },
-              },
-              subheading: {
-                jsonValue: {
-                  value: '<p>Trusted brands that keep pace with your demands.</p>',
-                },
-              },
-              image: {
-                jsonValue: {
-                  value: {
-                    src: 'https://edge.sitecorecloud.io/nationaloile493-nov-dev-59ee/media/Feature/nov/Images/Capability/Pipeline/ZapLokMountainsInstall.jpg?h=1080&iar=0&w=1920',
-                    alt: 'Zap Lok equipment installed in the mountains',
-                    width: '1920',
-                    height: '1080',
-                  },
-                },
-              },
-            },
-          },
-        },
-      },
-      {
-        uid: 'ab086db4-5a8f-4747-abd6-d1be08ba7557',
-        componentName: 'Hero',
-        dataSource: '{97D07D5F-0F59-4A49-BF9A-3BBBE9E0DE44}',
-        params: {
-          addGradient: '1',
-          textColor: 'black-000000',
-        },
-        fields: {
-          data: {
-            datasource: {
-              contentTag: {
-                jsonValue: null,
-              },
-              heading: {
-                jsonValue: {
-                  value: '',
-                },
-              },
-              subheading: {
-                jsonValue: {
-                  value: '',
-                },
-              },
-              cta: {
-                jsonValue: {
-                  value: {
-                    href: '',
-                  },
-                },
-              },
-              image: {
-                jsonValue: {
-                  value: {
-                    src: 'https://edge.sitecorecloud.io/nationaloile493-nov-dev-59ee/media/Feature/nov/Images/Capability/Pipeline/Midstream-PFT-Wellstream.jpg?h=1080&iar=0&w=1920',
-                    alt: 'Midstream PFT Wellstream',
-                    width: '1920',
-                    height: '1080',
-                  },
-                },
-              },
-              backgroundVideo: {
-                jsonValue: {
-                  value: '',
-                },
-              },
-            },
-            contextItem: {
-              contentTag: {
-                jsonValue: {
-                  id: '894ad693-62bc-4d0f-8e34-42401ebef1f3',
-                  url: '/Data/System/Content-Tags/Capability',
-                  name: 'Capability',
-                  displayName: 'Capability',
-                  fields: {
-                    tag: {
-                      value: 'Capability',
-                    },
-                  },
-                },
-              },
-              heading: {
-                jsonValue: {
-                  value: 'Midstream',
-                },
-              },
-              subheading: {
-                jsonValue: {
-                  value: '<p>Trusted brands that keep pace with your demands.</p>',
-                },
-              },
-              image: {
-                jsonValue: {
-                  value: {
-                    src: 'https://edge.sitecorecloud.io/nationaloile493-nov-dev-59ee/media/Feature/nov/Images/Capability/Pipeline/ZapLokMountainsInstall.jpg?h=1080&iar=0&w=1920',
-                    alt: 'Zap Lok equipment installed in the mountains',
-                    width: '1920',
-                    height: '1080',
-                  },
-                },
-              },
-            },
-          },
-        },
-      },
-      {
-        uid: '0d4e72bb-3e8f-4589-8cfd-5f69044f5e88',
-        componentName: 'Hero',
-        dataSource: '{1514ABE2-BA5E-429B-BB5F-A8A610A8E35A}',
-        params: {
-          addGradient: '1',
-          textColor: 'black-000000',
-        },
-        fields: {
-          data: {
-            datasource: {
-              contentTag: {
-                jsonValue: null,
-              },
-              heading: {
-                jsonValue: {
-                  value: '',
-                },
-              },
-              subheading: {
-                jsonValue: {
-                  value: '',
-                },
-              },
-              cta: {
-                jsonValue: {
-                  value: {
-                    href: '',
-                  },
-                },
-              },
-              image: {
-                jsonValue: {
-                  value: {
-                    src: 'https://edge.sitecorecloud.io/nationaloile493-nov-dev-59ee/media/Feature/nov/Images/Careers/Careers-diverse-workers-conference.JPG?h=1080&iar=0&w=1920',
-                    alt: 'NOV employees gather around a conference table',
-                    width: '1920',
-                    height: '1080',
-                  },
-                },
-              },
-              backgroundVideo: {
-                jsonValue: {
-                  value: '',
-                },
-              },
-            },
-            contextItem: {
-              contentTag: {
-                jsonValue: {
-                  id: '894ad693-62bc-4d0f-8e34-42401ebef1f3',
-                  url: '/Data/System/Content-Tags/Capability',
-                  name: 'Capability',
-                  displayName: 'Capability',
-                  fields: {
-                    tag: {
-                      value: 'Capability',
-                    },
-                  },
-                },
-              },
-              heading: {
-                jsonValue: {
-                  value: 'Midstream',
-                },
-              },
-              subheading: {
-                jsonValue: {
-                  value: '<p>Trusted brands that keep pace with your demands.</p>',
-                },
-              },
-              image: {
-                jsonValue: {
-                  value: {
-                    src: 'https://edge.sitecorecloud.io/nationaloile493-nov-dev-59ee/media/Feature/nov/Images/Capability/Pipeline/ZapLokMountainsInstall.jpg?h=1080&iar=0&w=1920',
-                    alt: 'Zap Lok equipment installed in the mountains',
+                    src: 'https://edge.sitecorecloud.io/nationaloile493-nov-dev-59ee/media/Feature/nov/Images/Products/RIG/Rig-Equipment/Compensated-Coiled-Tubing-Lift-Frame/Compensated-Coiled-Tubing-Lift-Frame.jpg?h=1080&iar=0&w=1920',
+                    alt: 'Image of yellow compensated coiled tubing lift frame',
                     width: '1920',
                     height: '1080',
                   },

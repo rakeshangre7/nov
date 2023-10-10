@@ -68,13 +68,14 @@ export type ProductHeroProps = {
   componentName?: string;
   dataSource?: string;
   fields: Fields;
-  displayMode: string;
+  displayMode?: string;
 };
 const ProductHero = ({ fields, params, displayMode }: ProductHeroProps): JSX.Element => {
   const useDataSource = fields?.data?.datasource != null;
   const heroData = useDataSource ? fields.data.datasource : fields.data.contextItem;
-
+  console.log(typeof displayMode, 'Hari ki priya');
   const displayModeFull = displayMode === 'full size';
+  const displayModeImage = displayMode === 'product image';
 
   if (fields === null || fields === undefined) return <></>;
 
@@ -82,47 +83,51 @@ const ProductHero = ({ fields, params, displayMode }: ProductHeroProps): JSX.Ele
     <div
       className={`overflow-hidden w-full h-auto relative ${displayModeFull ? 'min-h-screen' : ''}`}
     >
-      {displayModeFull && (
-        <div
-          className={clsx('bg-no-repeat bg-center bg-cover items-center flex justify-center', {
-            'text-white': params?.textColor === 'white',
-            'text-black': params?.textColor === 'black',
-          })}
-          style={{
-            ...(heroData?.image?.jsonValue?.value?.src && {
+      {/* {displayModeFull && ( */}
+      <div
+        className={clsx('bg-no-repeat bg-center bg-cover items-center flex justify-center', {
+          'text-white': params?.textColor === 'white',
+          'text-black': params?.textColor === 'black',
+        })}
+        style={{
+          ...(heroData?.image?.jsonValue?.value?.src &&
+            displayModeFull && {
               backgroundImage: `url(${heroData?.image.jsonValue?.value?.src})`,
             }),
-          }}
-        >
-          {heroData?.backgroundVideo?.jsonValue?.value && (
-            <div className="w-full h-full absolute ">
-              <Mp4VideoPlayer
-                autoplay={true}
-                loop={true}
-                muted={true}
-                controls={false}
-                field={{
-                  image: {
-                    value: heroData?.image?.jsonValue?.value?.src,
-                  },
-                  videoid: {
-                    value: heroData?.backgroundVideo?.jsonValue?.value,
-                  },
-                }}
-              />
-            </div>
-          )}
-          {/* {params.addGradient == '1' && (
-              <div className="absolute left-0 top-0 w-full h-full z-0 before:content before:absolute before:w-full before:h-[243px] before:from-[#00000000] before:to-[#000000a3] before:bg-gradient-0 after:content after:absolute after:w-full after:h-full after:bottom-0 after:left-0 after:from-[#00000000] after:to-[#000000bf] after:bg-gradient-198 after:opacity-40"></div>
-            )} */}
-        </div>
-      )}
-      {heroData?.image?.jsonValue && (
-        <ImageWrapper
-          className="pt-0 mb-[30px] w-full overflow-hidden h-auto"
-          field={heroData?.image?.jsonValue}
-        />
-      )}
+        }}
+      >
+        {heroData?.backgroundVideo?.jsonValue?.value ? (
+          // <div className="w-full h-full  pt-[58%]">
+          <div
+            className={clsx('w-full h-full', {
+              absolute: displayModeFull,
+              'pt-[56%]': displayModeImage,
+            })}
+          >
+            <Mp4VideoPlayer
+              className={clsx({
+                'absolute left-0 top-0': displayModeImage,
+              })}
+              autoplay={true}
+              loop={true}
+              muted={true}
+              controls={false}
+              field={{
+                image: {
+                  value: heroData?.image?.jsonValue?.value?.src,
+                },
+                videoid: {
+                  value: heroData?.backgroundVideo?.jsonValue?.value,
+                },
+              }}
+            />
+          </div>
+        ) : (
+          heroData?.image?.jsonValue &&
+          displayModeImage && <ImageWrapper field={heroData?.image?.jsonValue} />
+        )}
+      </div>
+      {/* )} */}
     </div>
   );
 };

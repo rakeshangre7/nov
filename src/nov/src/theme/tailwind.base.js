@@ -93,6 +93,7 @@ module.exports = {
       //Done
       xl: '1440px',
       l: '1280px',
+      ls: '1200px',
       lg: '1024px',
       md: '768px',
       smd: '767px',

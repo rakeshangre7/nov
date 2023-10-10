@@ -1,6 +1,6 @@
 import React from 'react';
 import Slider from 'react-slick';
-import { Placeholder } from '@sitecore-jss/sitecore-jss-nextjs';
+import { ComponentRendering, Placeholder } from '@sitecore-jss/sitecore-jss-nextjs';
 
 // Ideally, all this is from generated Typescript code from Sitecore and we're not manually defining types.
 
@@ -13,14 +13,31 @@ interface Fields {
     };
   };
 }
+type SliderSettings = {
+  dots: boolean;
+  infinite: boolean;
+  arrows: boolean;
+  nextArrow: React.ReactElement;
+  prevArrow: React.ReactElement;
+  autoplay: boolean;
+  autoplaySpeed: number;
+  speed: number;
+  beforeChange: (current: number, next: number) => void;
+  slidesToShow: number;
+  slidesToScroll: number;
+  dotsClass: string;
+};
 export type ProductHeroFullProps = {
-  rendering: { componentName: string };
-  params: { [key: string]: string };
-  uid: string;
-  componentName: string;
+  // rendering: { componentName: string };
+  rendering: ComponentRendering;
+  params?: { [key: string]: string };
+  uid?: string;
+  componentName?: string;
   dataSource?: string;
-  fields: Fields;
+  fields?: Fields;
   displayMode: string;
+  sliderSettings?: SliderSettings;
+  sliderRef?: React.Ref<Slider>;
 };
 const ProductHeroFull = ({
   rendering,
