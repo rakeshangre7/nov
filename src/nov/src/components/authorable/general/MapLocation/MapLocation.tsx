@@ -28,7 +28,7 @@ const MapLocation = ({ fields }: MapLocationProps): JSX.Element => {
       <div className="w-full pt-[30px] smd:pt-20 ">
         <div className="w-full relative pb-[50%]">
           <iframe
-            className="absolute top-0 left-0 w-full h-[1100px] smd:h-0"
+            className="absolute top-0 left-0 w-full h-[1100px] smd:h-full"
             loading="lazy"
             src={iframeSrc}
           ></iframe>
