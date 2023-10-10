@@ -1,5 +1,5 @@
 import React, { MouseEventHandler, useEffect, useRef, useState } from 'react';
-
+import useExperienceEditor from 'lib/use-experience-editor';
 import {
   Placeholder,
   ComponentRendering,
@@ -113,6 +113,7 @@ export type HeroSliderProps = {
 
 const HeroSlider = ({ fields, rendering, params }: HeroSliderProps): JSX.Element => {
   //   // Fail out if fields aren't present
+  const isExperienceEditor = useExperienceEditor();
   const useDataSource = fields?.data?.datasource != null;
   const heroData = useDataSource ? fields?.data?.datasource : fields?.data?.contextItem;
   const [isSticky, setIsSticky] = useState<boolean>(false);
@@ -218,7 +219,7 @@ const HeroSlider = ({ fields, rendering, params }: HeroSliderProps): JSX.Element
     slidesToScroll: 1,
 
     dotsClass:
-      'button__bar z-[1] container w-full !flex absolute left-1/2 -translate-x-1/2 bottom-6 justify-center lg:justify-star [&>li>button]:w-3 [&>li>button]:h-3 [&>li>button]:mx-1.5 [&>li>button]:text-[0] [&>li>button]:bg-gray-novLight [&>li>button]:rounded-full [&>li>button]:border-2 [&>li>button]:border-white [&>.slick-active>button]:bg-white [&>.slick-active>button]:border-primary [&>li>button:hover]:bg-white [&>li>button:hover]:border-primary [&>li>button]:outline-0 [&>li>button]:transition [&>li>button]:duration-300 [&>li>button]:ease',
+      'button__bar z-[1] container w-full !flex absolute left-1/2 -translate-x-1/2 bottom-6 justify-center lg:justify-start [&>li>button]:w-3 [&>li>button]:h-3 [&>li>button]:mx-1.5 [&>li>button]:text-[0] [&>li>button]:bg-gray-novLight [&>li>button]:rounded-full [&>li>button]:border-2 [&>li>button]:border-white [&>.slick-active>button]:bg-white [&>.slick-active>button]:border-primary [&>li>button:hover]:bg-white [&>li>button:hover]:border-primary [&>li>button]:outline-0 [&>li>button]:transition [&>li>button]:duration-300 [&>li>button]:ease',
   };
   useEffect(() => {
     setTextColor(
@@ -280,17 +281,26 @@ const HeroSlider = ({ fields, rendering, params }: HeroSliderProps): JSX.Element
 
       <>
         <div className="absolute w-full top-0 left-0 h-full z-0 [&_div]:h-full">
-          <Placeholder
-            name="hero-slide"
-            rendering={rendering}
-            hasStaticText={hasStaticText}
-            perantGradient={perantGradient}
-            render={(components) => (
-              <Slider {...sliderSettings} ref={sliderRef}>
-                {components}
-              </Slider>
-            )}
-          />
+          {isExperienceEditor ? (
+            <Placeholder
+              name="hero-slide"
+              rendering={rendering}
+              hasStaticText={hasStaticText}
+              perantGradient={perantGradient}
+            />
+          ) : (
+            <Placeholder
+              name="hero-slide"
+              rendering={rendering}
+              hasStaticText={hasStaticText}
+              perantGradient={perantGradient}
+              render={(components) => (
+                <Slider {...sliderSettings} ref={sliderRef}>
+                  {components}
+                </Slider>
+              )}
+            />
+          )}
         </div>
       </>
       {heroData?.cta?.jsonValue?.value?.text && heroData?.cta?.jsonValue?.value?.href && (
