@@ -28,5 +28,11 @@
             "indexNames": []
           }
         }
-    }
+    },
+	"transforms": [
+		{
+			"xdtPath": "/App_Data/Xdts/Web.config.xdt",
+			"targetPath": "/web.config"
+		}
+	]
 }

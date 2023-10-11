@@ -1,5 +1,5 @@
 import React, { MouseEventHandler, useEffect, useRef, useState } from 'react';
-
+import useExperienceEditor from 'lib/use-experience-editor';
 import {
   Placeholder,
   ComponentRendering,
@@ -113,6 +113,7 @@ export type HeroSliderProps = {
 
 const HeroSlider = ({ fields, rendering, params }: HeroSliderProps): JSX.Element => {
   //   // Fail out if fields aren't present
+  const isExperienceEditor = useExperienceEditor();
   const useDataSource = fields?.data?.datasource != null;
   const heroData = useDataSource ? fields?.data?.datasource : fields?.data?.contextItem;
   const [isSticky, setIsSticky] = useState<boolean>(false);
@@ -280,17 +281,26 @@ const HeroSlider = ({ fields, rendering, params }: HeroSliderProps): JSX.Element
 
       <>
         <div className="absolute w-full top-0 left-0 h-full z-0 [&_div]:h-full">
-          <Placeholder
-            name="hero-slide"
-            rendering={rendering}
-            hasStaticText={hasStaticText}
-            perantGradient={perantGradient}
-            render={(components) => (
-              <Slider {...sliderSettings} ref={sliderRef}>
-                {components}
-              </Slider>
-            )}
-          />
+          {isExperienceEditor ? (
+            <Placeholder
+              name="hero-slide"
+              rendering={rendering}
+              hasStaticText={hasStaticText}
+              perantGradient={perantGradient}
+            />
+          ) : (
+            <Placeholder
+              name="hero-slide"
+              rendering={rendering}
+              hasStaticText={hasStaticText}
+              perantGradient={perantGradient}
+              render={(components) => (
+                <Slider {...sliderSettings} ref={sliderRef}>
+                  {components}
+                </Slider>
+              )}
+            />
+          )}
         </div>
       </>
       {heroData?.cta?.jsonValue?.value?.text && heroData?.cta?.jsonValue?.value?.href && (
