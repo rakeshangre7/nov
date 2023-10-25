@@ -49,6 +49,7 @@ const HoverImageCard = ({ imageObject }: HoverImageCardProps) => {
         <ImageWrapper
           layout="fill"
           field={imageObject.image}
+          editable={true}
           className="absolute left-0 top-0 w-full -z-[1] h-[270px] sm:h-[330px] smd:h-[520px]"
         />
       )}
